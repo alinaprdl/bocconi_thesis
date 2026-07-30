@@ -1,0 +1,237 @@
+Biopharma focus: Finding market access executives in a fast-changing environment | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Biopharma focus: Finding market access executives in a fast-changing environment
+Explore this page The current state of market access: What to consider when developing a strategyPricing regulations and payer constraintsMedical versus pharmacy benefitPayers involved earlyLooking across the oceanThree considerations when hiring a market access executiveGetting startedAbout the authorsRelated Content
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Biopharmaceuticals Biopharma focus: Finding market access executives in a fast-changing environment
+
+Market access strategists are becoming increasingly critical to products’ success. Yet most biopharma companies are behind the times in how they define the role and find the right person to fill it.
+
+In developed markets around the world, public and private healthcare insurers make decisions about whether and under what conditions they will cover innovative new drugs. These decisions, which are increasingly based on value, impact the overall market access to products. Market access affects physicians’ ability to prescribe new drugs, patient access to these drugs, and when biopharmaceutical companies can begin to generate revenue from them.
+
+Biopharma companies explore and compare access options across global markets to address these goals, and market-leading companies pursue global market access strategies early on in a product’s life cycle. But few executives are experts in multiple global markets. One important reason is that the definition of “value” varies across geographies. Another is that treatments are becoming more complex and innovative therapies (which are often high cost) are increasingly prevalent. As patients across the world expect rapid access to the newest therapies, regulator and payer decisions are becoming more complicated. For all these reasons, understanding how various stakeholders and payers across global markets will interpret the value of new products is a critical strategic concern for biopharma companies worldwide.
+
+Market access strategists must have a cross-functional skill set that includes a deep understanding of relevant healthcare policies and whether those policies take a value-based approach to supporting the coverage of innovative products. They must also be able to define value in a way that resonates in the chosen country or region of launch; assess clinical evidence standards—and help structure clinical trials to ensure that those standards for efficacy and value will be met for the chosen markets, and use evidence to define value and distinguish products from those of competitors. Because these strategists are involved in decisions as fundamental as structuring clinical trials, companies need to have their knowledge in place long before any new product nears market.
+
+Finding these people is a new challenge for senior leaders at most biopharma companies. To succeed in their hunt for the right market access executive, leaders must start their search much earlier than ever before, understand in detail the skills and expertise they’re looking for, and broaden their focus.
+
+The current state of market access: What to consider when developing a strategy
+
+To know the type of market access leaders they’re looking for and when and how to find them, senior executives at biopharma companies must first understand how the market access landscape has shifted.
+
+A decade ago, companies could think about market access 6 to 12 months before the desired launch of a newly developed drug. Today, competition for funding in healthcare has increased, so companies need to ensure that as many health insurance systems as possible are willing to cover their product. As a result, market access must be a top priority early in clinical trials when decisions about evidence endpoints are made.
+
+Globally, there is an evolving conversation around the concept of value-based care in today’s healthcare environment. Defining value-based approaches to identify when innovative new products should be used can be complex, as definitions of value vary not only across geographies but also from one stakeholder to another. For example, value may be defined as a measured improvement to patient outcomes over existing treatment options; consistency in delivering positive outcomes for particular types of patients; an elimination of the need for other costly drugs, procedures, or hospital stays, thus decreasing the total cost of care; or, in some cases, an improvement in patient adherence to the therapy over existing treatment options.
+
+Companies must understand some key characteristics of US and European markets when forming a strategy.
+
+In the United States
+
+The year-over-year growth of Medicare Advantage in the United States offers manufacturers a growing patient population in which to target new products. In order to support access to new products, payers can request that they be paired with companion diagnostic tests to help identify which patients will have the highest probability of the intended outcome. In this sense, companion diagnostic testing options in combination with innovative new products offer the ability to improve patient outcomes in subsets of populations. Proactively identifying these patients can not only improve patient outcomes but also increase the quality of care while decreasing long-term healthcare costs in some circumstances.
+
+Pricing regulations and payer constraints
+
+Drug pricing regulations are another area of significant global variability. In the United States, stakeholders have asked for greater transparency of pricing considerations. While this desire is valid, manufacturers’ hands are tied by regulations that inhibit or prohibit discussions about price. The unintended consequence can be a severe budgetary crisis for large payers that carry the bulk of the patients who require treatment.
+
+For example, six years ago when hepatitis C treatments became available in the United States, there was excitement in the global public health community and an unanticipated significant pent-up demand. But in the US market, a high percentage of the patient population was covered by state Medicaid programs, whose budgets vary in size from state to state but are generally quite constrained. Learning about such payer constraints and budgetary timelines is critical in cases of pent-up demand. The combination of a high-cost product with a large patient population created a perfect storm, and it was challenging to treat patients quickly.
+
+One of the many lessons learned was that estimating the true size of a patient population and developing a deep understanding of the payer mix for a given disease requires time and study early in the market access strategy for the product.
+
+Medical versus pharmacy benefit
+
+Another area to consider in the United States is whether the drug will be covered through a patient’s medical or pharmacy benefit. The access considerations for each can vary significantly. An understanding of the relevant benefit structures and clinician and patient decision-making under each type of benefit can be a key strategic lever when creating the market access strategy for specific products.
+
+In Europe
+
+The past 10 years have changed the context for market access in Europe. One key reason is increased M&A activity in the sector. Many large pharma and biotech companies have been acquiring early-stage, innovative US biotech companies—such as Advanced Accelerator Applications (AAA), ARIAD, AveXis, Cubist, Endocyte, InterMune, Onyx, Pharmacyclics, Spark Therapeutics, and Tesaro—after their first product launch in Europe or, in some cases, even earlier. The cities of Amsterdam, Basel, Dublin, London, Munich, Zug, and Zurich have all attracted several promising innovative biopharma companies in the fields of rare diseases, oncology, and gene therapies. This activity is making it more complex to gain market access for a product because of both internal complexity caused by mergers and external complexity caused by companies’ presence in so many different markets.
+
+Payers involved early
+
+In Europe, where healthcare is nationally sponsored in most markets, it is important to achieve nationwide reimbursement in the shortest timeframe possible to ensure rapid product uptake. And pricing discussions are happening earlier than ever before, as payers in key European markets such as France, Germany, Italy, Spain, and the United Kingdom want to be engaged sooner and more deeply than in the past to ensure a smooth inclusion of the new product into their budgets and a better value-for-money profile.
+
+For example, the National Institute for Health and Care Excellence (NICE) in England makes a determination on which products undergo its review and which of the internal appraisal routes is most appropriate based on disease treated and mechanism of action (MOA). This occurs about 20 months before marketing authorization. Other European payers are building coalitions and systems to gather information on a new product launch as early as 30 months in advance, depending on the potential impact of the product on the healthcare system. For example, the International Horizon Scanning Initiative, sponsored by the Beneluxa Initiative, is building a system to scan drugs in development that will allow companies to engage earlier with manufacturers.
+
+Companies that don’t engage early put themselves at risk of unfavorable and unanticipated commercial conditions, such as discounts. In extreme cases, these conditions could cause a company to withdraw a product from the market in order to not jeopardize the international pricing levels in other geographies through international price referencing. As a result, planning a European market access approach when a product is, at the latest, in Phase 2 of its clinical development is becoming more important.
+
+Looking across the ocean
+
+European biopharma companies are generally accustomed to this timeframe. US companies, however, are not, and they’re having to manage this extended timeline at a time when Europe is ever more important to their marketing plans. Our discussions with commercial leaders revealed that three out of four heads of Europe for US biopharma companies with EU hubs say an early and solid European market access strategy is key for a successful commercial launch. This is because the European payers can often provide an indication of whether an innovative product has a chance to be reimbursed and, thus, if it makes sense for a US biopharma company to come to market in Europe.
+
+However, US biotech companies are also taking a more phased strategy to entering European markets. Typically, US companies used to try to cover as many European markets as possible—and as quickly as possible. Now they are more often making a staged build-out, focusing on just two or three countries or clusters in Europe (see sidebar, “The appeal of a German launch”). At least part of the reason for this strategic change is that US biotech companies struggled with reimbursement issues in the past. Many built a full-fledged European organization but then could not launch a product for the expected price, did not get any reimbursements, or received conditional marketing authorization, meaning more studies were needed.
+
+One prominent example was when a company focused on treatments for the central nervous system waited too long to consider reimbursements and was forced to deliver additional studies. The European launch thus had to be stopped after the European leadership team and the general managers of the affiliates had already been hired. Now the team is in place, but the launch of the next innovative product is three years away.
+
+Three considerations when hiring a market access executive
+
+Given the state of the market today, senior executives at early-stage biopharma companies should keep three considerations top of mind as soon as they begin to consider a commercialization strategy: the right time to hire, the specific skills their product requires, and where to search for qualified professionals.
+
+The right time to hire
+
+Biopharma companies need to ensure they have a market access strategist in place much sooner than was true even a few years ago—probably three to four years before the company expects the product to go to market. Working on identifying a market access strategist six months to a year before product launch is now too late. There is no ability to go back in time to integrate the market access endpoints to help identify relevant payer segments, patient populations, and potential barriers to access that are not obvious.
+
+In addition to ensuring that the relevant value-based evidence criteria are considered during the clinical trial process, this early involvement can also help a company create a comprehensive market access strategy that’s relevant to multiple markets at the same time or identify a few key markets to prioritize (such as Germany, in many cases). Some markets may become available earlier than others that require significant data collection regarding unclear value endpoints. Payers with constrained budgets, such as state Medicaid programs, also need time to include pricing considerations in budgets where such discussions are legally allowed.
+
+Thus, it is ideal to have a market access professional involved as early as Phase 1, and certainly by Phase 2 of the clinical trial, so that he or she can begin to think of what endpoints need to go into the clinical trial at the inception of the trial rather than after the trial is underway.
+
+The other reason to start the search early is that, as the role has become more complex, it often takes senior leaders longer to find the right person—and demand for market access executives is outpacing supply. One company that began searching for a head of market access in Europe late in the process ultimately had to delay its product launch by 15 months, not only costing the company money but also keeping the drug from patients.
+
+Furthermore, as the market access role has become more important, increased demand has meant that it’s not uncommon for market access professionals to receive multiple offers from different companies. As more and more innovative companies pop up on the landscape, the competition for these individuals will only become more intense.
+
+The necessary skills and expertise
+
+Market access is a niche expertise and not one that’s taught in universities. It’s very possible for a candidate to know the acronyms and the language of market access without truly understanding the ins and outs of a successful strategy. Unless the candidate has practical experience, there will be holes—potentially substantial ones—in his or her understanding. Particularly at young biopharma companies, senior executives may not themselves know what they need.
+
+So what are the necessary skills and expertise for a market access leader?
+
+People with strong commercial backgrounds who have been involved in product launches for complex drug therapies from a marketing perspective normally do well in a market access role. The more launches candidates have under their belts, the better prepared they are; no two market access strategies are alike, but overall expertise helps.
+
+When a European launch is under consideration—and, as we have noted, it is for most US companies (as well as, of course, European ones) today—having managed market complexities through at least one successful product launch in one or several major European markets is important. The ideal candidate will also have been exposed to the German pricing approval process—or at least have contacts in Germany to get the product through the market access and approval processes.
+
+A key point for senior leaders to remember as they shape their market access roles is that, although it is sometimes possible to find a global market access leader who has successfully negotiated a good strategy in both Europe and the United States, typically market access leaders have a good grasp of only one region or the other. Therefore, it often makes sense to hire two senior people in an expanding biopharma company.
+
+Additionally, a good market access executive must know which types of clinical evidence will establish value for which regulator and payer audiences, whether they're creating a dossier in Spain or thinking through a payer strategy in the United States. This typically requires robust knowledge of a specific therapeutic area and current treatments in it, as well as the regulator and payer expectations.
+
+Finally, a company’s senior market access professional must have enough experience and confidence to negotiate strongly with different payers and stakeholders at the highest level.
+
+Where to find them
+
+As market access leader is a niche role, finding qualified candidates is no easy task. There are two places, in our experience, that senior executives can most successfully look.
+
+The first is within biopharma companies. People who have been involved, one way or another, in a successful series of launches in other functions, such as commercial, R&D, or corporate, could be a good fit—particularly those in the same therapeutic area and with a series of products in the market. Such people typically have received excellent training from interacting with subject-matter experts across business units within the company. They also likely have learned from working with top-tier individuals and subject-matter experts in fields including market access, evidence, and health policy at consultancies outside the organization.
+
+The healthcare consulting industry is a second place to seek a market access leader. Senior biopharma executives may be able to find someone who is ready to move in-house. Often, talented consultants have the desire to implement the strategies they have been developing. This can be particularly true in cases in which a product is unique in a market or has linkages to relatively unexplored areas for market access, such as digital therapeutics.
+
+Getting started
+
+The landscape is shifting, and the supply of qualified market access leaders is lagging demand. To get an early start on filling the role, senior biopharma executives should ask the following questions as soon as they begin moving a new treatment toward clinical trials:
+
+Once they’ve answered these questions and can define the specific expertise they need, leaders can also set their companies ahead of competitors by ensuring that people in market access roles have a career path that goes beyond market access. Experience is important to getting the role right, but most professionals also want to see a path forward. Another competitive tactic is to reward market access achievements with greater access to people in more senior commercial roles, such as the CEO.
+
+Growing biopharma companies that plan carefully, start early, and are thoughtful about who they hire can help ensure their product has the broadest possible reach.
+
+About the authors
+
+Nancy McGee (nmcgee@heidrick.com) is a principal in Heidrick & Struggles’ San Francisco office and a member of the Healthcare & Life Sciences Practice.
+
+Oliver Schiltz (oschiltz@heidrick.com) is the partner-in-charge of Heidrick & Struggles in Switzerland and a member of the Healthcare & Life Sciences Practice; he is based in the Zurich office.
+
+Related Services & Industries
+
+Biopharmaceuticals
+
+Leadership Development
+
+Related Content
+
+Asia Pacific
+
+Disruption in healthcare and life sciences: Asia Pacific leaders’ view
+
+Asia Pacific healthcare and life sciences leaders are future-proofing for disruption by continuing to invest in the right people and building a culture of readiness. But preparing for the future should also include assessing and rethinking their current business models.
+
+Healthcare & Life Sciences
+
+Disruption in healthcare and life sciences: A view from the Nordics
+
+As technology continues to disrupt the healthcare and life sciences industry, executives in the Nordic countries aren’t quite as concerned as their global counterparts are. To stay ahead, they expect to invest in technology and internal efficiencies.
+
+Organizational Purpose & Ethics
+
+Discovery Limited: Leading with purpose to drive health insurance innovation and better health outcomes
+
+In this podcast, Adrian Gore, CEO and founder of Discovery Limited, discusses how the health insurance company leads with an authentic business purpose—helping people live longer and healthier lives—to inspire its people to innovate.
+
+Healthcare Payers & Providers
+
+Disruption today in healthcare and life sciences
+
+Heidrick & Struggles’ survey of senior executives in healthcare and life sciences reveals top drivers of disruption and potential solutions.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

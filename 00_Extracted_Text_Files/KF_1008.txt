@@ -1,0 +1,138 @@
+3 skills-based hiring practices that work
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Talent Recruitment|May 29, 2023
+
+3 skills-based hiring practices that work
+
+Skills-based hiring practices can open up new talent pools, but only if companies are willing to change their recruitment approach.
+
+Key takeaways
+
+What a skills-based hiring approach is and how to adopt one for your business
+How to make your applicant tracking systems (ATS) work for skills-based hiring
+How to read resumes for skills-based recruitment and interviewing techniques using a skills-based approach
+
+On paper, the candidate seemed like an ideal fit for the open financial reporter position. They had all the job description skills necessary to be successful in this role, plus previous experience — not an easy combination to find in a competitive talent market. But the candidate lacked a “Chartered Accountant” designation. Even though this role did not require that level of certification–they would not be a signatory for financial statements–the company still insisted on the requirement and refused to meet with the candidate.
+
+This example is one of many we’ve seen, where companies sometimes place arbitrary experience or education requirements on open positions, excluding candidates who have the skills to succeed but lack a certain background. Instead of excluding outstanding candidates because they don’t tick a specific box that isn’t essential for a role, companies can increase chances of finding better candidates by switching to skills-based hiring.
+
+What is skills-based hiring?
+
+Skills-based hiring is an approach that screens for specific competencies and adjacent or transferable skills. A candidate for a tech role might not have a computer engineering degree, for example, but might be proficient in three coding languages or have other transferable skills. Or, in the case of our accountant, they lacked the Chartered Accountant designation but were proficient in recording financial data, tracking transactions and performing market research. Skills-based hiring expands the available talent pool by uncovering skilled professionals who would otherwise be overlooked, and this is particularly important for businesses hiring at scale.
+
+Adopting a skills-based approach to hiring is a contemporary business imperative. The global talent shortage is chronic: by 2030, a predicted shortfall of nearly 85 million people could lead to about $8.5 trillion in unrealized revenues. Businesses that act now will gain a critical competitive advantage. But acting now means doing more than simply searching resumes for skills-based keywords.
+
+“To truly make skills-based hiring work for your business, you need to change how you find resumes, evaluate them, and interview applicants. It’s a comprehensive, integrated shift,” says Greg Todesco, Managing Consultant, Korn Ferry.
+
+Here’s where to focus your efforts first.
+
+1. Find the right resumes: how to make applicant tracking systems (ATS) work for skills-based hiring
+
+Applicant tracking systems (ATS) make it possible to review thousands of resumes quickly and efficiently. But an ATS is only as effective as its algorithm.
+
+“Putting too much credibility on your system without understanding how it works can be risky,” says Greg Todesco. “Companies often assume their systems are working in their best interests without fully understanding how to modify them to screen for the right skills.”
+
+Be aware of potential ATS blindsides. For example, your system may eliminate nontraditional candidates who are switching fields or re-entering the workforce after time off. Resume attributes like PDF formats or the use of graphics may also confuse the system. Consider which job description skills, certifications or experiences are truly essential and which are nice to have, but not deal breakers.
+
+Finally, consider the threshold for calling a resume a “match,” especially for candidates coming from adjacent industries. For example, an IT cloud security candidate in the Oil & Gas industry may use a different vocabulary than someone at Amazon or Google but have identical skills. Their resume might only be a 50% match for the terms you’ve required, but they could be a 99% match for the skills-based jobs you are sourcing. You’ll only know if you take the time to read the resume.
+
+2. Pick the right candidates: how to read resumes for skill-based recruitment
+
+ATS can help narrow your candidate pool, but it should not have the final say on whether a candidate gets an interview. A thoughtful approach to reading resumes can help you select higher quality candidates and prepare for a better interview experience. Some hiring managers only scan for titles and education. Then they end up using interview time to ask about details already on the resume or information that could easily be fact-checked after the conversation. Instead, look at how the candidate describes their skills and experience. Do they show their comfort with a certain skill by using industry vernacular or common acronyms? If they are in an industry-adjacent role, how strong are their transferable skills?
+
+As you adopt a skills-based approach to resume review, challenge yourself to separate tenure from candidate potential. Time spent in one place isn’t a great yardstick for assessing knowledge or skill acquisition. Someone might be with a company for five years but stagnate in their role after the first year. Another candidate might be with a company for only two years, but actively grow in their position the entire time. Both could be strong fits–– but you’ll need to dig deeper into their resume to find out, rather than making assumptions off past job tenure.
+
+Professional Search
+
+Find the right people for the right roles to deliver your strategy
+
+Learn more
+
+3. Be a better interviewer: interviewing the skills-based way
+
+You have 60 minutes of facetime with a candidate. Before entering the room, ask yourself: what do I need to learn in here to make a hiring decision right now?
+
+Understanding a candidate’s competencies and how they will handle the role is a good place to start. Ask them about their skillsets and knowledge and see how they talk about their previous experiences. In skills-based hiring, a credential or certification is often a nice to have, not a necessity. So which skills should a candidate have? Use your interview time to dig into these four competencies:
+
+Creativity: The best thoughts often come from someone with a unique viewpoint. Ask candidates to describe a project they enjoyed working on and truly listen to their “why.” Understanding the “why” can also drive follow-up questions to better understand the full range of skills they bring.
+Problem-solving: Every role has challenges, and the solution isn’t always obvious. Ask a candidate to share how they solved a problem and explain their reasoning and thinking. Getting to the bottom of “how” the candidate problem-solves will also help you identify additional applicable skills they have related to your open role.
+Ability to comprehend and retain complex information: In a fast-moving world, misinformation can cause significant problems. See how candidates explain their previous experience. Does it seem like they genuinely understand their previous roles and can explain them clearly to you? If they use industry-specific jargon, is the meaning clear, or are they throwing around acronyms to sound impressive with little awareness of their actual meanings?
+Collaboration: Most roles require working with others in some capacity. Ask candidates to share examples of when they’ve had to collaborate or delegate work and how they tackled the situation. Consider how the candidate’s approach would fit within your team’s current structure and company culture. If this is a management position, where do they fall on the spectrum of micromanagement to permissive leadership?
+
+What to expect when partnering with a skills-based recruiting expert
+
+Changing how your organization approaches recruiting is a major undertaking. While the benefits of skills-based hiring are significant, the transformation process can be challenging. Partnering with a skills-based recruitment expert can streamline this process.
+
+“Not all recruiters prioritize the same sourcing requirements,” says Todesco. “A recruiting expert who follows a skills-based approach utilizes their expertise and proven network to source unique candidates that fit your skills needs. They can also help you begin to operationalize this approach at scale for your business.”
+
+At Korn Ferry, this support extends beyond recruitment. We can help transform your hiring process by supporting you with your current talent needs while building a skills-based strategy for the future. Our tech-based approach includes proprietary competencies and trait evaluations that support a new hire’s growth within your company, offering insights into effective onboarding, management strategies and more.
+
+Ready to see how skills-based hiring can transform your team? Get in touch with us today.
+
+Our Expert
+
+Our Experts
+
+No items found.
+
+Greg Todesco
+
+Related Capability
+
+Related Capabilities
+
+Professional Search
+
+Featured Insights
+
+Juicing Up Talent at a Multi-Billion Dollar Beverage Company
+Building a Multigenerational Workforce: What Job Seekers Want
+A New Recruitment Strategy for a Multigenerational Workforce
+AI Recruitment Tools: The Pros and Cons
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Featured Topics
+
+Talent Recruitment
+
+Professional Search
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

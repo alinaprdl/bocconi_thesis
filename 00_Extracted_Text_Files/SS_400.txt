@@ -1,0 +1,231 @@
+Indian CIO Route to the Top: Decoding the Success Genome
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Indian CIO Route to the Top: Decoding the Success Genome
+
+By
+
+C K Guruprasad and
+
+Viraj Sheth
+
+July 2021
+
+| 9 min read
+
+Authors
+
+C K Guruprasad
+
+Bangalore
+
+Viraj Sheth
+
+Mumbai
+
+SectionsIn this article
+
+There has been a steady evolution of the role of CIOs in India. Until recently, CIOs were seen more as a support function. Now, that is the exception as they often have a far broader mandate. They are business drivers who play a critical role in ensuring that their companies maintain a competitive edge by rapidly introducing, integrating and managing new technologies.
+
+In this study, we looked at the profiles of 169 CIOs across several industries and company types (NSE 100, MNC, Indian-listed companies and Indian-unlisted companies) to trace the journey to the top for these executives and understand some of the key factors that enabled them to succeed.
+
+The objective of this research is to illustrate the paths of and seemingly consistent factors for technology executives to the top. Additionally, this analysis considers implications for:
+
+Organizations and leadership teams in developing the current as well as the future technology leadership pipeline
+
+Those looking to grow their careers in the technology domain
+
+* Some charts do not total 100% due to rounding.
+
+Progress on gender diversity remains slow
+
+As of 2019, 26% of tech roles within India were occupied by women.1 However, at the senior leadership level, only nine of the 169 CIO positions in our study were held by women. Among companies in the industrial sector, which made up approximately one-third (66 companies) of our sample universe, only one has a female CIO. Similarly, approximately 6% of NSE 100 companies’ tech leadership are women. Indian unlisted companies had a higher female representation at 12%.
+
+Download
+
+Download
+
+The data seem to indicate that companies in the industrial sector and from the NSE 100 bracket are not promoting women to the senior-most levels or have not hired women leaders from outside the company. On deeper analysis, we saw that 15% of chief digital officers (CDOs) are women, while only about 6% of CIOs are.
+
+Women are slightly more likely to be promoted from within than their male counterparts: 55% of female CIOs were promoted, compared with 48% of male CIOs.
+
+Quote
+
+Today, more and more organisations are talking about diversity, but there is maybe a lack of inclusion at the heart of it.
+
+Rajesh Gopal
+
+Chief Information Officer,
+L'Oréal
+
+CIO Gender Breakdown2
+
+Average age of hiring varies greatly according to industry
+
+As per our findings, the average age at which a professional is hired into the role of a CIO is 46. However, that average varies across industries. While close to half of senior technology executives hired in industries such as finance and consumer are younger than 45, 40% of executives hired in industrial companies are over 50 years of age. The industrial sector, made up of veteran companies that have long been household names, reserve openings at the top for seasoned employees with plenty of experience in the sector. On the other hand, the finance and consumer sector companies, especially the MNCs that are keen on maintaining global competitiveness by bringing in fresh talent, are opening up to the possibility of hiring younger professionals into senior positions.
+
+Age hired as CIO3
+
+Cross-industry exposure is common
+
+63% out of our analysed executives had previously worked in two or more industries throughout the course of their careers, whereas 37% of the executives spent the entirety of their careers in a single industry. Again, we see differences by industry: 45% of executives in the consumer and healthcare sectors worked in at least three industries, while just 13% of leaders in the technology sector and 7% in industrial had this level of cross-industry experience. There is a difference in hiring criteria across sectors.
+
+In sectors such as tech and industrial, diverse industry exposure is not a requirement. Comprehensive exposure in limited sectors leads to specialization, thus building an advantage for potential CIOs.
+
+Number of industries worked — CIO 4
+
+13% of CIOs have international experience
+
+Contrary to widespread belief, it does not seem to be necessary for CIO executives to spend the early stages of their career at an international location. In fact, only 22 CIOs out of 169 had international stints at some point in their careers. The majority of the companies in our sample prioritized an understanding of the domestic IT landscape and the functioning of Indian companies over international experience. While international exposure does not seem to be a key requirement for reaching the top, our experience shows that it gives candidates a clear competitive edge in certain industries.
+
+Within our dataset, 17% of the profiled executives have worked and lived outside India at some point of time during their career, showing that a significant amount of tech talent is homegrown. The tech sector showed high propensity to recruit talent with international exposure.
+
+International experience5
+
+Technology executives are becoming a prominent voice in the boardroom
+
+37 out of 169 of the CIOs in our study have had board member experience. This number has increased from historical levels due to the growing importance of technology and innovation in modern-day organisations. The involvement of tech executives in the boardroom presents great potential for business partnering and innovation in the Indian ecosystem.
+
+Board experience6
+
+Quote
+
+They (CIOs) should have tech representation on the board — tech is a business driver. Tech has huge influence on the business — to not just sustain the business but to grow it.
+
+Mudeita Patro
+
+Senior Vice President and Head of Digitization,
+HDFC Asset Management
+
+80% of sampled executives are situated in three prominent metropolitan cities
+
+Mumbai, Bangalore and NCR (Delhi, Noida, Gurugram) are home to 80% of our sampled executives, indicating the dense concentration of companies headquartered in these regions. Individually, Mumbai hosted the largest concentration of executives, containing 34% of our sampled executives.
+
+The majority earned postgraduate degrees
+
+103 of 169 CIOs held a postgraduate degree, MBAs and/or advanced engineering degrees. Out of which 31 received this degree from top-tier universities. 27 CIOs held engineering bachelor’s degrees from top-tier colleges. In our sample, 27 CIOs also completed a part of their education at an international university.
+
+CIO average tenure7
+
+CIOs in our sample have an average tenure of 8.4 years. In contrast, the average tenure of a CIO in a separate EMEA study was 3.7 years.
+
+Globally, the business environment is going through rapid and dramatic changes, particularly in the area of technology. Many roles and relationships, including that of the CIO, must adapt to these changes.
+
+CIOs are slightly more likely to be hired from outside
+
+CIO backgrounds — internal versus external hires8
+
+While overall, companies were only slightly more likely to hire the CIO from outside the company, companies in the technology sector were significantly more likely to develop and promote internally.
+
+CIO succession patterns differ by industry8
+
+Key technologies
+
+There is consensus that digital technology will drive the success of organisations in the future. However, “going digital” often requires large investments. Big data, blockchain and AI-based analytics are needed to support good business decisions. Cloud-based networks that leverage 5G/IoT for real-time execution of strategies will be essential. Further, creating reusable technology stacks that enable agility and speed, process transformation and optimisation, design thinking for “fail fast or succeed fast” will be key to success.
+
+Quote
+
+There are no two ways about it; if you want to grow, you have to become digital.
+
+Anup Purohit
+
+Chief Information Officer,
+Yes Bank
+
+There is a dazzling array of technologies out there, ranging from emerging, almost futuristic technologies to proven enterprise solutions. Decisions on investments/adoption of technologies will need to be made in the context of each company’s objectives. Sound judgement is needed so that investments in technology are future proof, and highly scalable “in order to ensure the newer tech you invest in, which once incubated in the next 2-4 years, will become a billion-dollar business itself,” said former Wipro Chief Digital & Information Officer Rohit Adlakha.
+
+Build vs. buy
+
+Build versus buy is a decision that confronts every organisation, sooner or later. However, as we know, there is no one size fits all solution to this issue.
+
+“Ability to scale up the technology: if it is a multi-generation integrated product, then BUILD is better.” Mohit Kapoor, Group Chief Technology Officer at Mahindra Group
+
+Uniqueness of the business: “For monolithic platforms which are at the heart of the org (ERP, SAP, CRM), it is better to BUY a product. A lot of the engagement applications, they felt, should be built in-house because the business was fairly unique.” Rohit Adlakha, former Chief Digital & Information Officer at Wipro
+
+The maturity of the technology: “where the area by itself is very new and needs a lot of experimentation, exploration, etc. — then it is better to have strong in-house talent.” Rajesh Gopal, Chief Information Officer at L'Oréal
+
+CIO of the future
+
+Our interactions with leading CIOs reveal that they all feel that the CIO of the future will be a far more integral part of management than the CIO of the past.
+
+Quote
+
+Increasingly, technology is the business. Hence, a clear understanding of business opportunity, and the direct impact on revenue by building a scalable stable business model on digital is important.
+
+Mohit Kapoor
+
+Group Chief Technology Officer,
+Mahindra Group
+
+Digital technology has become a key success factor in business. It is evolving rapidly, and the gap between introduction and obsolescence is shrinking rapidly. CIOs of the past were viewed primarily as part of the cost centre, responsible for “keeping the lights on,” rather than having a significant impact on the larger organisation. With the increasing importance of digital technology, the CIOs of the future will be positioned to potentially have a far bigger footprint. Additionally, they will potentially be strong contenders for a seat on the board.
+
+Looking ahead, the three most desirable characteristics of future CIOs will be:
+
+A visionary mindset: The CIOs of the future will have to drive transformation across the company. Therefore, they must be creative visionaries and risk-takers. The future CIO should have consumer empathy and be finely tuned to the evolution of technology. They must be willing to learn and repivot constantly.
+
+Versatile business partners: They must be business-facing, with a deep understanding and appreciation of digital technology. They must have the ability to identify and seize business opportunities, even if it means walking away from past investments. Increasingly, technology is the business. A clear understanding of the potential loss of business opportunities, and their direct impact on revenue, is important. Hence the knowledge of P&L, business operations and the customer will be required.
+
+People leaders: CIOs of the future will need to create a culture of innovation. They will need to mentor their teams and stay on top of developments with the business, markets and customer. Technology is an enabler to assist the CIO. Moreover, they will need to encourage technology teams to work, partner and solve any problems they may face. There will be a need to work effectively with external partners/experts when in-house expertise is not available. Lastly, the CIO will need to build a culture where younger professionals and tenured leaders can work together and help the company succeed.
+
+Advice for aspiring CIOs and for company boards & CEOs
+
+Technology is changing at a blinding pace. The CIO of the future will leverage these new tech innovations and have an expanded footprint by playing a far greater role in business success. As a result, we believe there is a strong business case for CIOs to become board members.
+
+Based on our research, we offer some observations for developing future-ready tech executives:
+
+Given the sharp contrast in women representation at executive levels compared to women representation in technology overall, it is apparent that the current environment does not encourage placing women in senior leadership positions.
+
+Based on our study, younger companies are more willing to provide roles of greater remit to women; they also tend to have less organizational hierarchy.
+
+Companies that increase the representation of women in leadership over the long term will focus on inclusion and development, implementing support mechanisms for women as they progress in their careers and grow in the organisations.
+
+Technology needs to be viewed as a key to drive business transformation. For this, CIOs need to be given an increased sense of responsibility to drive change within the company.
+
+CIOs need to adopt a holistic approach towards employing technology to gain a competitive advantage. Monitoring global trends in technology is imperative to understand the viability of implementing these technologies to operations. Therefore, even though diverse industry exposure is not a central requirement for CIOs, being aware of how new and existing technologies are being implemented across industries is essential.
+
+In order to gain maximum value from the above-mentioned responsibilities, CIOs need to be given a say in business decisions. Rather than dividing responsibilities under the brackets of financial and technical, companies should assemble a team of decision makers that possess the ability to weigh a multitude of factors and assess their impact on the organization.
+
+The ubiquitous presence of tech across business procedures has made tech executives an important voice in the boardroom. This trend will continue as we move into new business environments. Tech executives need to be willing to take up responsibility in taking business decisions in order to maximize their importance.
+
+Key learnings for emerging technology leaders
+
+In addition to building deep specialized technology skill sets, it also will be important for aspiring CIOs to do the following:
+
+Deepen your understanding of business processes within your organization and industry to effectively leverage your technical expertise and add value to your organization.
+
+Think of your role from a business perspective in addition to a technical perspective. CIOs are tasked with ensuring smooth functioning of companies. However, a modern-day CIO must also constantly think about improving current business processes to enhance company performance.
+
+Keep up with current global technology trends and maintain an extensive network in the tech sector. This will keep you up to date with technological advancements, and help you gauge the potential of new technologies to improve business processes and maintain a competitive advantage.
+
+Arushi Gupta (New Delhi) contributed to this report.
+
+1https://inc42.com/buzz/only-26-women-work-in-tech-roles-in-india-report/
+
+2Sample Size: Females 9, Males 160, Total: 169
+
+3Sample Size: Consumer 33, Finance 25, Health Care 17, Industrial 58, Media 6, Tech 39, Total: 188
+
+4Sample Size: Consumer 34, Finance 21, Healthcare 22, Industrial 65, Media 4, Tech 24, Total: 170
+
+5Sample Size: Consumer – No International Exposure 36, Have International Exposure 7, Total 43 | Finance – No International Exposure 42, Have International Exposure 5, Total 47 | Healthcare – No International Exposure 21, Have International Exposure 3, Total 24 | Industrial – No International Exposure 60, Have International Exposure 14, Total 74 | Media – No International Exposure 8, Have International Exposure 1, Total 9 | Tech – No International Exposure 34, Have International Exposure 15, Total 49 | Grand Total – No International Exposure 201, Have International Exposure 45, Total 246
+
+6Sample Size: Consumer – No Board Experience 25, Have Board Experience 8, Total 33 | Finance – No Board Experience 14, Have Board Experience 4, Total 18 | Healthcare – No Board Experience 15, Have Board Experience 6, Total 21 | Industrial – No Board Experience 46, Have Board Experience 14, Total 60 | Media – No Board Experience 4, Have Board Experience 0, Total 4 | Tech – No Board Experience 16, Have Board Experience 5, Total 21 | Grand Total – No Board Experience 120, Have Board Experience 37, Total: 157
+
+7Sample Size: 2-3 Years 11, 3-4 Years 25, 4-5 Years 21, 5-6 Years 21, 6-7 Years 13, 7-8 Years 13, 8-9 Years 12, 9-10 Years 4, 10+ 36, Total: 156
+
+8Sample Size: Consumer - External 28, Internal 15 Total: 43 | Finance – External 32, Internal 15, Total: 47 | Healthcare – External 12, Internal 12, Total: 24 | Industrial – External 35, Internal 39, Total: 74 | Media – External 4, Internal 5, Total: 9 | Tech – External 17, Internal 32, Total: 49 | Grand total – External 128, Internal 118
+
+Authors
+
+C K Guruprasad
+
+Bangalore
+
+Viraj Sheth
+
+Mumbai

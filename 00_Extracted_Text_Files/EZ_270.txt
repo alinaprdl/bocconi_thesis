@@ -1,0 +1,457 @@
+The reality of AI & LLMs embedded in organizations - Egon Zehnder
+
+Skip to main content
+
+Search for “”
+
+... in Consultants
+
+... in Offices
+
+... in Services
+
+... in Insights
+
+Search all results
+
+Our Services
+
+Shaping Successions
+
+CEO Successions
+
+Executive Successions
+
+Board Successions
+
+Chair Successions
+
+Committee Chair Successions
+
+Advancing Governance
+
+Board Review
+
+Board Development
+
+Board Advisory
+
+Building Advisory Boards
+
+Sustainability Board Advisory
+
+Discovering Leaders
+
+CEO Search
+
+Executive Search
+
+Board Search
+
+Advisor Search
+
+Executive Assessment
+
+Developing Leadership
+
+Individual Development
+
+Accelerated Onboarding
+
+Development Planning
+
+Coaching
+
+Team Journey
+
+Unlocking Transformations
+
+Transformational Development Programs
+
+Chair and Board Potential
+
+Executive Breakthrough
+
+Executive Discovery
+
+Transformational CHRO
+
+Voyager
+
+Customized Leadership Immersion
+
+Explorer
+
+Cultural Transformation
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Chief Executive Officers
+
+Founders
+
+Technology Officers
+
+Chief AI, Data & Analytics Officers
+
+Chief Information Officers
+
+Chief Information Security Officers
+
+Chief Product Officers
+
+Chief Technology Officers
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+Consumer
+
+Consumer Products
+
+Media & Entertainment
+
+Restaurants, Leisure and Hospitality
+
+Retail, E-commerce, Apparel and Luxury
+
+Sports
+
+Financial Services
+
+Asset Management
+
+Banking and Markets
+
+Digital Assets, Crypto, & Web 3
+
+FinTech
+
+Infrastructure
+
+Insurance
+
+Private Equity
+
+Retail Financial Services
+
+Risk Management
+
+Sovereign Wealth Funds
+
+Wealth Management
+
+Health
+
+Biopharmaceuticals
+
+Healthcare Delivery & Services
+
+Life Sciences Tools & Pharmaceutical Services
+
+Medical Devices, Diagnostics and Technology
+
+Industrial
+
+Aerospace & Defense
+
+Chemical & Process Industries
+
+Energy
+
+Machinery & Industrial Technology
+
+Mining & Metals
+
+Mobility & Automotive
+
+Public & Social Sector
+
+Arts, Culture & Sports
+
+Economic, Social & Human Development
+
+Education & Research
+
+Environment & Sustainability
+
+Interest Representation & Public Affairs
+
+Public Administration
+
+Public Finance
+
+Public Health
+
+Public Infrastructure
+
+Services
+
+Air Transport
+
+Business Services
+
+Hospitality, Travel & Leisure
+
+Professional Services
+
+Real Estate Services
+
+Transportation & Logistics
+
+Technology & AI
+
+Artificial Intelligence
+
+Communications & Connectivity
+
+Cyber Security
+
+Digital
+
+Enterprise Tech
+
+Internet of Things
+
+Semiconductors
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+Functions
+
+Industries
+
+Meet our Consultants
+
+Discover Insights
+
+Find Offices
+
+About Us
+
+English
+
+Change
+
+Functions
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Industries
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+About Us
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+English
+
+Deutsch
+
+中文
+
+日本語
+
+Artificial IntelligenceCan AI Lead to a More Equitable World?
+
+Artificial Intelligence can unlock better outcomes for individuals and society, but only if it is designed free of bias.
+
+June 2023
+
+11 mins read
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+As Artificial Intelligence (AI) and LLM-powered (large language model) chatbots have become more prevalent, supercharging humans and organizations’ ability to perform tasks more efficiently, a huge concern has captured the spotlight: to what extent can bias in AI perpetuate inequities and harm marginalized communities?
+
+Unquestionably, AI is not immune to the influence of bias, which can perpetuate discrimination, reinforce harmful stereotypes, and result in unjust outcomes. Examples range from higher error rates of facial recognition of individuals from diverse and racial ethnic backgrounds to AI algorithms in the criminal justice system recommending harsher sentences for individuals belonging to certain racial and ethnic groups.
+
+"The fundamental problem is that machine learning (ML) and deep learning (DL) favor homogeneity and are based on pattern matching so if your patterns intrinsically are homogeneous and carry bias, those biases will be propagated. There is also the algorithmic monoculture where the same algorithms are perpetuated everywhere which further propagates the bias,” explains Radhika Krishnan, General Manager of Amazon Web Services.
+
+We’ve seen it. Hotbeds of fake news, hate speech, misrepresentation, and microtargeting online are often generated and propagated by AI. This is how it works: AI algorithms analyze personal data to understand preferences and recommend content to users. If hate speech or biased content drives engagement, the algorithm will facilitate its spread. Counteracting this malicious activity that stems from the misuse of machine learning technologies and AI systems at the same pace as it spreads is highly challenging and calls for speediness.
+
+AI and LLMs are no longer an “if” question, but a reality well embedded in organizations and platforms that people use every day. Addressing the inevitable risks these technologies pose to groups already facing systemic inequities in all aspects of their lives will, first and foremost, require greater awareness of biases. Accessibility is another critical component because it enables more people to participate in AI development, according to Asha Keddy, board member of Smith Micro and advisory board member of the WomenTech Network. “Education and access ensure true representation in the structured conversation around AI and being comfortable with technology vs AI creating another divide,” she explains.
+
+In order to truly unlock the benefits of AI to our society, everyone will need to champion the mission of developing bias-free systems, including senior leadership, development teams, regulation agencies, and so forth.
+
+How Can We Protect Our Organizations, Cultures, and Vulnerable Individuals from AI-Generated Biases?
+
+Bias is part of being human. However, acknowledging our biases and recognizing how they affect our lives and those around us is a start to breaking down systemic barriers. As extensions of the human experience, AI and LLMs can also never be free of bias, yet they alone cannot recognize the impact this bias can cause. Just as there are guidelines and regulations for free speech and its moderation, AI technologies require ethical guidelines, regulations, and monitoring systems to prevent misuse. This includes robust hate speech detection methods, transparent and fair AI algorithms, user education, and efficient reporting and response systems to mitigate the impact of AI-propagated hate speech.
+
+The involved efforts are complex and require a multi-faceted approach. Here are some strategies to aid in fostering the creation of unbiased algorithms in AI systems:
+
+Diverse and Inclusive Data Collection: Humans have biases built into cultures, languages, colors, and symbols. The potential harm these biases could pose with AI, even without malicious intent, is a field of study on its own and will vary across the world. Bias in AI often stems from biased data. Machine learning and their models learn from the data that they are trained on. If the data includes discriminatory or hateful content, the AI might learn these patterns. If this data is incomplete or heavily weighted toward majority demographic groups, entire populations, identities, and experiences will be dismissed. To minimize these issues, diverse and inclusive data collection processes – including varying sources when obtaining data and ensuring the representation of different cultures, demographics, and perspectives – must be implemented. Data collection methods should be designed to avoid sampling biases and actively mitigate the impact of historical biases present in existing datasets. “Over time we expect to see sentient AI, where we get AI to become more anthropomorphic but still some ways away from it,” Krishnan notes.
+
+It is crucial to carefully curate and clean training data to ensure it does not include harmful content or missing information. Techniques like data augmentation and synthetic data generation can be used to provide a more balanced and non-discriminatory dataset.
+
+“In order to successfully implement these important controls, organizations relying on AI-driven analysis must ensure that leaders in every level keep these sensitivities front and center and proactively encourage their teams to explore biases potentially baked into the data source (e.g., collection method, inclusivity of the polled cohort),” Projit Mallick, VP Business Affairs and Legal of STARZ discusses, adding: “It can be intimidating to raise what may seem like a contrarian voice in the face of seemingly obvious conclusions backed by large pools of objective data.”
+
+Bias Detection and Mitigation: Suppose a large language model is used to generate responses for customer support inquiries. If the training data used to fine-tune the model contains biased or discriminatory content, the model may generate biased responses. For example, if the dataset of conversation to train the model consistently provided dismissive or unhelpful responses to inquiries from a particular ethnic group, it indicates a bias against that group. Unless corrected, AI trained on such a dataset would also be biased. To detect such AI bias, the organization can employ human reviewers to evaluate the generated responses and identify instances of bias or unfairness. They can collect user feedback and review complaints related to biased or offensive responses. To mitigate the risk, the organization can provide explicit guidelines to the human reviewers, emphasizing the importance of fair and inclusive responses. They can also perform regular audits of the model's outputs, monitoring for biases and making necessary adjustments to the training data and fine-tuning process. By actively addressing bias and seeking user feedback, organizations can work towards reducing bias in the language model's responses.
+
+IBM’s AI Fairness 360 and Microsoft’s Fairlearn are examples of several toolkits and techniques to detect and mitigate bias in AI models. These involve continually testing and adjusting the model to minimize bias. These tools provide algorithms to help detect and mitigate bias in machine learning models.
+
+Explainable AI (XAI): It is interesting when, instead of judging, we listen and really get to know someone or something we did not know. That act of learning and explaining offers newer ways to connect and understand. XAI is a growing area of research. Building AI systems that can explain their decisions in human-understandable terms can help uncover discriminatory and unfair behavior. This is important not only in cases where biases could cause harm, but also in fields where transparency and trust are crucial.
+
+For example, in healthcare, PathAI is working on XAI systems for pathology. Their system not only identifies issues but also highlights the areas of scans that led it to its conclusion, helping doctors understand its reasoning. Further, in the area of finance, AI is increasingly used for credit scoring, fraud detection, and investment strategies. Regulations often require transparency in these processes. Companies like TrustScience, Stratyfy, and RichDataCo offer an AI underwriting tool that explains decisions, allowing lenders to understand why a loan was approved or denied, and ensuring decisions can be explained to customers and regulators.
+
+Autonomous vehicles were arguably the first commercially successful application area for AI in its current form. Waymo, Tesla, Rivian, and an ever-increasing roster of companies are making AI integral in self-driving cars. When accidents happen, their XAI advancements help investigators understand what went wrong. Additionally, in the field of education, several startups and large publishers of educational content have started using XAI to create customizable textbooks. The AI explains its choices and offers insights into why certain information was included or excluded, allowing for a better understanding and customization according to a learner's needs. Companies like DreamBox Learning, Carnegie Learning's MATHia, IBM's Teacher Advisor, Quillionz, and Turnitin's Revision Assistant are a few examples that are leading XAI in the field.
+
+Strict Regulations and Policies: AI is a rapidly developing technology with the potential to revolutionize many aspects of our lives. The pace of development raises several ethical and legal concerns, such as the potential for bias, discrimination, and privacy violations. As a result, governments and regulators around the world are beginning to develop regulations and policies for AI. Some of the key areas that are being regulated include data privacy, algorithmic bias, and human oversight. The specific regulations and policies for AI still vary across different countries and jurisdictions, though there is a growing international consensus on the need to regulate AI in order to protect people's rights and interests. Many jurisdictions are exploring regulations that require more transparency in the algorithmic decision-making of AI systems.  For instance, the New York City Automated Decision Systems Law requires city agencies to disclose information related to algorithms used to make significant decisions that affect individual rights.
+
+Many countries have existing data protection and privacy regulations that apply to AI systems.  The European Union’s General Data Protection Regulation (GDPR) is one of the most comprehensive pieces of AI regulation in the world, setting rules for how companies can collect, use, and share personal data. It also includes provisions specifically for AI systems, such as requirements for transparency and accountability, including provisions related to the right to explanation for individuals affected by AI systems. As AI continues to develop, it is likely that we will see similar U.S. regulations and policies implemented over the coming years.
+
+Diversity on Teams: Organizations should invest efforts in ensuring diversity on development teams that include multidisciplinary individuals with expertise in ethics, social science and human rights working alongside AI developers. Several large entities have discovered that having a diverse group of people involved in AI’s development isn’t easy, but just as in other functional aspects of a company, if encouraged over a longer duration, it helps to ensure that multiple perspectives are considered, and that AI is not biased toward a particular group. These diverse groups help integrate ethical considerations into the AI development process. This includes conducting third-party audit reviews, seeking external input, and considering the potential societal impacts of how the technology is used and who ultimately benefits from its existence.
+
+Fostering Equity Through Artificial Intelligence
+
+The impact of Artificial Intelligence can be both positive and negative. It will largely depend on how these technologies are envisioned, implemented, and managed. Fortunately, there are several tools for more robust content moderation for content-driven businesses, education, and awareness programs for AI developers, users, and the general public to help recognize and report misuse of AI. And as AI growingly permeates all industries of the economy and the society that we live in, these tools and efforts will become ever more important – particularly to mitigate negative outcomes for marginalized communities and minority groups.
+
+However, the future is still unclear. For Bev Crair, Senior VP of Oracle Cloud Infrastructure and Compute, AI can be compared to the internet, built upon the promise of democratizing information but that has fundamentally reshaped society with unintended effects, particularly on information. “We can’t yet see what AI will actually become, but those unintended consequences scare me. Not because I don’t think we’ll survive, but the speed of change is something humans just aren’t good at absorbing.”
+
+On the positive side, by automating tasks and providing access to information and resources, AI can help level the playing field and give underrepresented communities a voice, enable improved access to services in newer and more intuitive ways, and simplify access to information to those that may otherwise struggle to draw benefits. Some instances that we have seen clients implement AI’s advances help in cost-effective and accessible ways toward personalizing education, delivering healthcare, facilitating financial services, or providing legal assistance.
+
+Governments around the world are becoming more involved with using AI to analyze complex datasets and to understand the needs of society and different communities. The idea is to implement better, more effective policies aimed at reducing inequity and social injustice.
+
+"As with any technology, AI can be used to build a better world or do great harm. With a systematic framework that includes regulations, openness, transparency, accountability, diversity, education and continuous learning and improvement AI done right can make decisions better than humans can do as it can help counter systemic and unconscious bias… and that is a decision that only humans can make," Keddy reflects.
+
+As AI becomes more pervasive in our society, it is important to ensure that it is developed and used in a way that benefits all people, regardless of their background. It is the responsibility of organizations, AI developers, policymakers, and society as a whole to work together to ensure that AI is designed free of bias to create a more just and equitable world for all.
+
+Rajiv Lulla and Star Carter, former consultants of Egon Zehnder, co-authored this article.
+
+"The fundamental problem is that machine learning (ML) and deep learning (DL) favor homogeneity and are based on pattern matching so if your patterns intrinsically are homogeneous and carry bias, those biases will be propagated. There is also the algorithmic monoculture where the same algorithms are perpetuated everywhere which further propagates the bias.”
+
+Radhika Krishnan, General Manager of Amazon Web Services
+
+"I think it would be interesting to compare the promise of AI to the original promise of the Internet: a dream of the democratization of access to information and the ‘truth’ as seen and perceived by individuals that has seen unintended consequences (impact to newspapers and journalism, curated information, for instance). We can’t yet see what AI will actually become, but those unintended consequences scare me. Not because I don’t think we’ll survive, but the speed of change is something humans just aren’t good at absorbing."
+
+Bev Crair, Senior VP of Oracle Cloud Infrastructure and Compute
+
+“In order to successfully implement these important controls, organizations relying on AI-driven analysis must ensure that leaders in every level keep these sensitivities front and center and proactively encourage their teams to explore biases potentially baked into the data source (e.g., collection method, inclusivity of the polled cohort).  It can be intimidating to raise what may seem like a contrarian voice in the face of seemingly obvious conclusions backed by large pools of objective data.“
+
+Projit Mallick, VP Business Affairs and Legal of STARZ
+
+"As with any technology, AI can be used to build a better world or do great harm. With a systematic framework that includes regulations, openness, transparency, accountability, diversity, education and continuous learning and improvement AI done right can make decisions better than humans can do as it can help counter systemic and unconscious bias… and that is a decision that only humans can make."
+
+Asha Keddy, board member of Smith Micro and advisory board member of the WomenTech Network
+
+Topics Related to this Article
+
+Disruption
+
+Technology
+
+Digital
+
+Artificial Intelligence
+
+Inclusion
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Stay up to date with our latest insights.
+
+Subscribe now
+
+Changing language
+
+You are switching to an alternate language version of the Egon Zehnder website. The page you are currently on does not have a translated version. If you continue, you will be taken to the alternate language home page.
+
+Continue to the                 website
+
+Back to top

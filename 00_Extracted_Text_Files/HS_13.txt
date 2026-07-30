@@ -1,0 +1,223 @@
+Crypto and digital assets focus: Finding the right leaders for a maturing sector | Perspectives | Heidrick & Struggles
+
+Crypto and digital assets focus: Finding the right leaders for a maturing sector
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Financial Officers Crypto and digital assets focus: Finding the right leaders for a maturing sector
+
+Crypto is a high-stakes market, and competition for capital, customers, and talent is brutal. Crypto companies should look for four crucial capabilities in their leaders.
+
+Samy Ismaiel and Chelsea Wilson
+
+April 23, 2026
+9m to read
+
+Introduction
+
+Leaders could once win in crypto by being fluent in the tech or well-networked in the space. But, as the sector has matured, leaders have needed more to get ahead. We have seen that today’s winners are commercially ruthless and culturally credible. They can read shifting risk appetites, communicate to cut through noise, and act in ways that make even skeptical outsiders take the industry seriously. They bridge communities, sectors, and stakeholders, all while moving faster and with more conviction than the market around them.
+
+The four capabilities
+
+Four capabilities are, right now, making the difference between those shaping the market and those getting left behind. These capabilities would serve any executive well, but in crypto, the need for them is amplified by the market’s pace, scrutiny, and complexity. They are what allow leaders to win trust across the industry, communicate the industry’s value in terms others can understand, and turn volatility into opportunity.
+
+Relentless curiosity
+
+In crypto, curiosity is a superpower. The best leaders in the space do not just stay informed about the technology; they live it. They are hands-on with products, protocols, and tools, constantly testing, questioning, and looking for what comes next. But their curiosity extends beyond tech into people, markets, regulation, and behavior, connecting the dots that others overlook. They challenge assumptions and groupthink and are willing to move against the crowd when the fundamentals point in a different direction. This depth gives them the credibility to lead teams, win over technical peers, and make calls others would hesitate to make.
+
+For example, Demian Brener, founder and CEO of OpenZeppelin, operationalizes curiosity as a security discipline.  His teams continuously study how smart contracts fail in the real world, publish technical findings, and turn those lessons into shared tools and standards for builders. These shared tools include OpenZeppelin Contracts (an open-source library) and Ethernaut, a hands-on security learning platform.
+
+Visionary communication
+
+Great leaders can take complex ideas and turn them into stories that matter to investors, regulators, partners, and teams. They know how to make crypto understandable. They step easily into the language of other industries, showing why crypto matters in terms those audiences value. This ability to translate across worlds builds trust and earns the industry the kind of credibility that changes how outsiders see it.
+
+For example, Circle’s Co-Founder and CEO, Jeremy Allaire, sounds more like a payments executive than a crypto advocate. He anchors everything to existing financial workflows (e.g., payments, treasury, settlement), while using conservative, institutional language. Jeremy also strips away the "revolutionary" rhetoric that many use when talking about crypto and replaces it with familiar industrial metaphors; he doesn't talk about "destroying the banks", he talks about "upgrading the software." Similarly, Block’s Co-Founder and CEO, Jack Dorsey, has stood out in the space for framing Bitcoin as an open protocol, akin to the internet, thereby making it more understandable.
+
+Decisiveness in the grey zone
+
+The strongest leaders in this sector are prepared to make high-impact calls with incomplete information and adjust quickly as new facts emerge. They strip problems down to their fundamentals, anchoring every move in a logic they can explain and defend. This clarity allows them to take bold, high-conviction bets when others hesitate, balancing speed with rationale. Their decisions create momentum rather than confusion, giving teams the confidence to move with them even when the path ahead is uncertain.
+
+Nathan McCauley, co-founder and CEO of Anchorage Digital, demonstrated this through his early commitment to building a fully regulated digital asset bank. At a time when many crypto firms prioritized speed and innovation over regulatory structure, Anchorage chose a more complex path: seeking a U.S. federal banking charter.
+
+Pursuing this route required significant upfront investment, operational discipline, and the willingness to engage deeply with regulators in an environment where rules for digital assets were still emerging. The decision carried risk: it slowed certain areas of product expansion and required the company to meet higher standards than many of its peers.
+
+However, the outcome was a differentiated market position. Anchorage became the first federally chartered digital asset bank in the United States, giving it regulatory credibility that enabled it to serve institutional clients and partner with traditional financial firms. McCauley’s approach shows how making high-conviction decisions under uncertainty—grounded in a clear view of where the market is heading—can create long-term strategic advantage.
+
+Resilience through volatility
+
+The most effective leaders in crypto, as in most sectors, are those who have faced setbacks and emerged stronger. They have built emotional endurance and humility through crisis, and they model calm, pragmatic leadership when volatility hits. A track record of overcoming failure is often a better predictor of success than a perfect career.
+
+Crypto resilience is often tested in public. After the Ronin bridge hack in 2022, Sky Mavis raised $150M to help reimburse affected users and committed to restoring trust through remediation and security upgrades. The company later moved toward reimbursing victims; an example of leadership that absorbs a severe setback, stays accountable, and focuses on rebuilding rather than denial or deflection.
+
+From signals to selection: Spotting leaders who can win in crypto
+
+Knowing what great leadership looks like is one thing; finding it is another. Often, crypto companies with leadership vacancies are under pressure to hire quickly, which can lead to compromises, but in the high-stakes and rapid-fire crypto market, the cost of a bad leadership hire is amplified. A flawed hiring decision can slow growth, damage credibility, and set the business back months, if not years. The process has to be deliberate and focused on the traits that truly matter.
+
+Yet the process is further complicated by the fact that benchmarks of achievement that tend to work in traditional sectors do not map neatly to the crypto sector. The landscape shifts so fast that traditional signals such as seniority, brand name pedigrees, or time spent in big institutions, carry far less weight. This is why leadership capabilities and assessment criteria are particularly important. We have seen companies use three techniques to better identify leaders who can succeed in the crypto space.
+
+Cognitive edge
+
+Use validated cognitive tools to measure analytical agility, pattern recognition, and comfort with ambiguity. Such tools give an early signal of whether a candidate can handle the pace and complexity of the industry and allow hiring executives to compare talent fairly across very different backgrounds.
+
+Proof of leadership
+
+Lasting followership takes more than credentials or titles. The most effective leaders consistently attract, develop, and retain strong talent. In assessing this, it is critical to probe for specific examples: who they have brought with them across roles, how they have built and evolved teams, and which individuals have grown under their leadership.
+
+Interview processes should push candidates to evidence this in detail and assess whether leaders can move beyond general statements and share concrete stories of talent they have hired, developed, and retained over time. Discreet references across the ecosystem can further validate how a candidate is perceived as a leader, a collaborator, and a builder of high-performing teams.
+
+The translation test
+
+In crypto, you win when you can make the complex simple without losing substance. Ask finalists to explain a dense concept, like account abstraction or zero-knowledge proofs, to a non-technical audience in just a few minutes. Assess how clear, structured, and compelling they are, and whether they can connect technical depth to commercial relevance in a way that earns buy-in and builds followership.
+
+Developing future crypto leaders
+
+Developing leaders internally is just as important as hiring well, yet many leaders in crypto today do not actively seek out upskilling. Some feel their technical expertise is enough, while others are consumed by the speed and demands of the market. This makes it essential for chief people officers and talent leaders to create both the appetite and the opportunity for growth, and to embed continuous learning into the culture. The development focus cannot be limited to deepening technical capability, which, understandably, many crypto companies index on the most. The real opportunity is to expand the leadership skills crucial to success. These include resilience and adaptability, which are as learnable as any other capability. We have seen companies use the following key techniques to develop strong leaders internally.
+
+Bold experiments
+
+Push leaders out of their comfort zone with high-impact stretch assignments, such as redesigning tokenomics, leading a cross-functional market entry, or launching a new governance protocol. These experiences demand bold thinking, rapid learning, and comfort with ambiguity, while reinforcing first principles of problem-solving under real pressure.
+
+Perspective shifts
+
+Expose leaders to adjacent domains such as compliance, investor relations, or ecosystem partnerships to broaden their horizons. Rotations like these sharpen commercial instincts and deepen adaptability, ensuring leaders can make informed decisions in fast-moving, unpredictable environments. No matter how large a crypto company may be, the nature of the industry means that a willingness to be “hands-on,” paired with the mental agility to oversee and unite diverse functions, is always advantageous for a leader. Those who stay in their lanes fall behind, a risk that is amplified by the pace at which this industry moves.
+
+Conclusion
+
+In an industry defined by speed, volatility, and constant reinvention, the capabilities that define exceptional leadership constantly evolve. The companies that get this right do more than just fill roles; they develop leaders who can read the market, move with conviction, and command trust across the industry. By anchoring both hiring and in-house talent development in the traits that matter most, organizations can ensure they have a pipeline of leaders who are resilient, visionary, and technically fluent, with the curiosity to keep learning and shape what comes next.
+
+About the authors
+
+Samy Ismaiel (sismaiel@heidrick.com) is an engagement manager and founding member of the Crypto & Digital Assets Practice; he is based in the London office.
+
+Chelsea Wilson (cwilson@heidrick.com) is an engagement manager in Heidrick Consulting; she is based in the Singapore office.
+
+Related content
+
+2025 European FinTech & Crypto compensation report: Product and engineering leaders at privately-held companies
+
+Heidrick & Struggles’ survey of European fintech product and engineering leaders analyzes compensation by ownership, revenue scale, region, and the growing impact of AI on talent demand.
+
+Guy Shaul
+,
+Samy Ismaiel
+
+Guy Shaul, Samy Ismaiel
+
+Report
+
+Finding the right fintech talent: A conversation with Ben Grolimund, general manager of UAE, Rain
+
+Ben Grolimund, the general manager of the UAE at Rain, the first fully regulated virtual assets brokerage and custodian in the Abu Dhabi global markets, discusses what’s been driving the Middle East crypto landscape and the current talent market in that area.
+
+Mikhail Kozlovskiy
+,
+Guy Shaul
+
+Mikhail Kozlovskiy, Guy Shaul
+
+Podcast
+
+Digital assets focus: Four considerations when hiring leaders
+
+Institutions seeking to hire executives in digital assets will find it challenging due to the small talent pool made up of those who seek different incentives than more traditional potential hires.
+
+John Hindley
+,
+David Richardson
+
+John Hindley, David Richardson
+
+Article
+
+Digital assets focus: Navigating regulation and finding the right talent
+
+Najam Kidwai and Michael Zhao, cofounders and managing partners at C1, a fund focused on secondary investments and digital-asset-related companies and infrastructure, discuss finding the right talent for leadership teams.
+
+Tom Clarke
+,
+Guy Shaul
+
+Tom Clarke, Guy Shaul
+
+Podcast
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

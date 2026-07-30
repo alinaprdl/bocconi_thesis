@@ -1,0 +1,69 @@
+Getting Digital Transformation Down—First
+
+Article
+
+Briefings Magazine
+
+Insight Articles
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Briefings Magazine|Jan 10, 2024
+
+Getting Digital Transformation Down—First
+
+Digitally savvy organizations are already leading the way in AI.
+
+See the latest issue of Briefings at newsstands or read in our new format here.
+
+By: Michelle Seidel
+
+Seidel is a senior client partner in Korn Ferry’s Global Technology practice.
+
+We don’t usually think of HR executives as excitable, but some at a big healthcare firm I know have been positively giddy lately about how artificial-intelligence programs will transform their work. AI, they believe, will identify the strengths and weaknesses of every employee, eliminate unconscious bias in hiring practices, even forecast which top employees might quit (and suggest offers that could get them to stay!).
+
+AI could do all of that for these HR execs, and maybe even more. But this particular HR department is using a 40-year-old spreadsheet program that can’t handle all the information AI needs to do a good job. To be fair, the execs know that. Going back as far as 2016, they’ve been wanting to implement a new, HR-specific software system and to train their direct reports to better capture and use data on employee engagement, hiring, pay, and other key metrics. Seven years later, they’re still relying on that ordinary spreadsheet.
+
+AI’s been around, in one form or another, for decades, but in 2023 it captured the attention of nearly everyone, including the world’s corporate leaders. They marveled at how the technology can write code, create interesting images, suggest strategic tweaks, and automate dozens of essential tasks that typically take up precious company resources. They’re throwing a lot of money at AI, too. Global spending on the technology was projected to reach $154 billion in 2023, increasing to more than $300 billion in 2026, according to forecasts by the market-research firm IDC. Another survey reports that 47 percent of tech executives at big companies cite artificial intelligence as their No. 1 budget item for 2024—ahead of cloud computing, security, and every other tech spend.
+
+But in many cases, this may be putting the AI cart before the digital horse. Digital transformation, at its essence, involves creating a corporate culture and processes to improve a business using digital technologies and as much data as workers can capture. AI should only be an incremental, albeit powerful addition to all of this—just a new digital tool. But data shows that a whopping 70 percent of digital transformations to date haven’t succeeded, typically because they’ve been undone by human error. Until companies get digital transformation down, I suspect AI won’t come close to meeting its corporate proponents’ lofty expectations.
+
+"This may be putting the AI cart before the digital horse."
+
+I get it: digital transformations can be hard. They can require not only huge investments in technology, but also—more critically—a change in employees’ mindsets up and down the corporate ladder. Transformations aren’t a one-and-done process, either; they must evolve as companies acquire other firms, expand their businesses, adopt new technologies, or make strategic adjustments. Throughout, there can be many chances to falter, a lack of defined goals, bad technology purchases and configurations, conflicting priorities, employee resistance, and an overall lack of leadership.
+
+But the workforce of a digitally transformed organization has the skills and drive to embrace the new technological tools. It has leaders who can define clear goals, make smart technology decisions to help accomplish them, then equip their employees with the tools and guidance to drive desired business outcomes. Going forward, firms must develop a process to identify and find those talented, agile workers and leaders.
+
+Digitally savvy organizations are already leading the way when it comes to AI. According to data compiled by the research group Bendable Labs, organizations that are highly effective at innovation and digital transformation are much more aggressive than their peers when it comes to investing in AI roles.
+
+The good news is that it’s early days for AI. Despite all the hype, the technology still has plenty of hiccups, including accuracy issues and privacy foul-ups. To sort out those issues alone might take years. So companies have some time. Create an organization that can thrive digitally. With a digital foundation, you’ll have greater success with AI, quantum computing, cold fusion, or whatever technological innovation comes next.
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility

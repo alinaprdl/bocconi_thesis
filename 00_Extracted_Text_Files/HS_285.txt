@@ -1,0 +1,232 @@
+Building digital dexterity in your leadership team | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Building digital dexterity in your leadership team
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Digital Leadership Building digital dexterity in your leadership team
+
+Developing a specific mix of leadership and organizational acumen among senior leaders is crucial to accelerating organizations’ digital transformation.
+
+Emerging technologies are rapidly evolving, transforming industries around the world and creating demand for more innovative customer experiences and operating models. Workforces—and leadership teams—aren’t evolving quite as quickly. Indeed, fewer than a third of companies are sure they have the talent they need to thrive through digital transformation, according to a recent survey we conducted.1
+
+Much of executives’ attention is focused on operational talent gaps in areas such as machine learning, user experience, or transitioning to the cloud. Those skills are crucial. But in our experience, when pursuing technological expertise, too many companies are overlooking the skills their most senior leaders need to change mind-sets and to guide their companies toward becoming fully digital, or “tech enabled.”
+
+We call the mix of leadership and organizational acumen that leaders need “digital dexterity.” It combines adaptive, strategic, innovative, and executional skills in a particular mix to support both the technological and human side of transformation. Many leaders have mastered some elements of digital dexterity, but few have the full package. Knowing what skills are needed and why they matter will help teams build a long-term digital advantage that accelerates their companies’ performance.
+
+What does digital dexterity mean for senior teams?
+
+Heidrick & Struggles research has identified an elite set of organizations (among the world’s largest 500 companies by market capitalization) that consistently outperformed others based on compound annual average growth rate (CAGR) for organic revenue.2  These “superaccelerators” differentiated themselves not by industry, geography, or strategic focus; indeed, many were trying to do the same sensible things: put customers first, innovate, develop the right operating model, and so on. Rather, what differentiated the superaccelerators was their ability to mobilize, execute, and transform with agility—what we call META. At its core, META means the company adapts and pivots faster than its competitors—which is critical for the digital age.
+
+Leadership teams, of course, have an outsize effect on company performance. Our research shows that the senior teams with the highest performance on the META performance factors (among the 3,000 teams we studied) had, on average, a 22.8% higher economic impact than other teams. Yet senior teams often have a harder time improving their own performance than that of other teams. In fact, 12% of senior teams were in the bottom quintile of team performance, compared to 6% of teams below the director level.3
+
+Leading a digital transformation places particular stress on the senior team, because the pace of technological change is fast, the competitive pressure is typically high, and success requires skills that relatively few C-suite leaders have needed before. Research we conducted for the recent book Goliath’s Revenge  highlights these critical skills, which taken together comprise digital dexterity (see figure).
+
+However, Heidrick & Struggles data show that many leaders struggle with at least some of those skills in any situation, though their lack is more keenly felt in the intense pressure of a digital transformation. Yet some senior leaders and teams have successfully developed digital dexterity. How have they gotten there?
+
+Mobilizing
+
+Developing a clear understanding of emerging technologies and nontraditional competitors that could disrupt their industry is a crucial first step for any senior team today. Once leaders have that foundation in place, they can connect dots faster and envision market transformation—and then lead it.
+
+One healthcare COO we worked with, for instance, assigned her leadership team different market areas to monitor—including patient preferences, regulations, and technological innovations—then set up a regular time to triangulate weak signals and adjust the company’s strategy as needed. This led to an early spotting of an emerging trend of using blockchain to support the interoperability of electronic healthcare records—allowing the company to prepare a strategy before competitors could.
+
+Leaders should also leverage the collective scanning power of the organization—all the way down to the front line (which often detects signals of change more quickly)—by systematically capturing, disseminating, and adapting strategy and tactics based on new market signals. At a telecom company, for example, sales reps are incentivized (via gift cards, T-shirts, or similar signs of recognition) to pass along competitive signals to their managers, including information on new offers or promotions picked up from competitors’ marketing materials or customer feedback. Managers then send the most strategic information, such as the emergence of new competitors, to their regional or even corporate strategy team. With such a system, the company’s leaders fully take advantage of their on-the-ground scouts to stay vigilant about market changes.
+
+Another best practice for staying on top of change is regularly exposing the leadership team to disruptions. Tom Gorman, former CEO of shared-logistics company Brambles, did this by taking his board and leadership team to Silicon Valley to visit emerging start-ups and discuss digital innovation challenges with other established companies; the company eventually launched a digitally focused outpost in the area. Likewise, an insurance industry CEO had his leaders spend time at Google’s campus learning about and experiencing new technologies, such as autonomous driving, that are poised to upend insurance products so they could help develop innovative customer solutions.
+
+In addition, Gorman’s example of including his board in digital immersion is important. Verizon’s CEO, Ivan Seidenberg, did this by setting time aside during every board meeting to discuss upcoming disruptions as part of preparing for the shift from a wireline-centric world to one dominated by wireless communication and content streaming.
+
+Gathering all of this information will help senior teams not only develop new offerings but also reframe their mission. For example, GM CEO Mary Barra and her team have been preparing for disruptions such as autonomous vehicles, connectivity, and  sharing via acquisitions and investments in companies such as Cruise Automation, Lyft, and Maven. With these steps, Barra is working to transform GM from a car company to a transportation company, revolutionizing customer value in the process. She put the new mission this way on LinkedIn: “Our generation has the ambition, the talent, and the technology to realize the safer, better, and more sustainable world we want. General Motors has committed itself to leading the way toward this future, guided by our vision of zero crashes, zero emissions, and zero congestion.”4
+
+Vitality, an insurance company in South Africa, is similarly redefining its industry and its own purpose by capitalizing on the trend toward healthier lifestyles, as well as the rise of smartphones, wearable sensors, and health-related apps. Adrian Gore, the CEO of its parent company, Discovery, has reframed the organization’s purpose from managing risk to improving health. (For our podcast interview with Adrian Gore, see “Discovery Limited: Leading with purpose to drive health insurance innovation and better health outcomes.”) The company is implementing that purpose by incentivizing policyholders with offerings such as providing points for exercising and other healthy activities and discounts for purchasing healthy food options. Vitality has since spread to other markets and insurance segments.
+
+Executing
+
+Reframing an organization’s purpose and designing solutions customers want in response to new technologies are hard enough. Actually taking all that to market may be even harder. The problem is talent: having the right people with the right capabilities is one of the greatest challenges we see with digital transformation. Our recent survey found that only 27% of small companies and 29% of large companies believe they have the right talent for digital transformation.
+
+Senior teams have to ensure both that they themselves have the right capabilities and that throughout the organization the right people are cultivated internally or hired. (For more on how C-suite roles should be defined at various stages of digital acceleration, see “Digital acceleration: The right C-suite expertise.”) In addition to bringing in external talent such as designers, developers, and data scientists—or a chief digital officer—to drive change, leaders must ensure that current employees have ample opportunities for learning and job mobility to reinvent both themselves and the business.
+
+Moreover, it is important to find ways to elevate employees’ roles by integrating artificial intelligence (AI) solutions and other automations into key processes to reduce repetitive or manual tasks, empowering employees to do more strategic and problem-solving work and helping them upskill. According to a McKinsey Global Institute survey, 62% of executives predicted they would need to retrain or replace more than a quarter of their employees between 2018 and 2030 due to automation, digitization, and AI.5  In our own work with a range of organizations, skills gaps are consistently cited as the first or second biggest impediment to accelerating performance.
+
+AT&T CEO Randall Stephenson has championed a transition to more wireless technologies, which requires new skill sets, including those in cloud-based computing, coding, data science, and other technical capabilities. Most of the organization’s global employees “signed up for a deal that is entirely different from the environment in which their business operates today,” according to John Stankey, then head of AT&T’s Entertainment Group, as quoted in Harvard Business Review.6  Realizing the shortage of technical talent in the market, AT&T decided to invest significantly in upskilling its current workforce: from 2013 to 2016, the company spent $250 million on employee education and professional development programs and more than $30 million on tuition assistance annually. While the full ROI has yet to unfold, speed and efficiency have already increased. For example, at the time of the Harvard Business Review article, time to revenue had accelerated by 32% in the prior 18 months, and from January to May 2016, retrained employees accounted for 47% of promotions in the technology unit.
+
+AT&T has continued to invest in upskilling its employees—and has helped transform the education sector as a whole in the process. Its leaders have worked with the learning platform Udacity, for example, to develop “nanodegrees” that formalize capabilities and certification of its employees in specific skill sets, and those have now become open to the public. AT&T funds these degrees, as well as others from more traditional providers such as Georgia Tech, for its employees, as it finds great value in harnessing institutional knowledge and redirecting it for the digital age.
+
+Finally, in trying to drive innovation and develop new products, leaders often create complexity along the way, which ultimately slows or hinders the improvement they hope to achieve. A classic example is LEGO, which experienced this firsthand in the 1990s, when it doubled the number of unique bricks and diversified into computer games, clothing, and theme parks. The additional innovations added complexity to its supply chain, increasing out-of-stock challenges, and confused customers. In 2004, then-CEO Jørgen Vig Knudstorp, addressed this by paring down products, streamlining processes, and increasing collaboration among teams to speed up decision making. “We had to revive the spirit of simplicity and the pleasure of building things and creativity,” recalls Martin Georg Jorgensen then–product design manager at LEGO.7  As the case of LEGO shows, digital dexterity requires paying as much attention to streamlined structures and processes, and incentives to stay nimble, as to the innovations themselves.
+
+Transforming
+
+Offering training programs and simplifying structures aren’t enough, however. Companies typically need to upend at least some of what they’ve always done to become tech enabled, and this requires leaders to fundamentally change their understanding of the organization’s business models and sources of value.
+
+Domino’s Pizza is one example of a company transforming its understanding of its own business—from that of a pizza company to a technology company that sells pizza—by embracing a variety of technologies to support the goal of an improved customer-ordering experience. Chief digital officer Dennis Maloney described the new mind-set this way: “If you started thinking about yourselves like an e-commerce company, you start asking the question, what makes a really good e-commerce company?”8  In response to that new question, Domino’s has made ordering available through a variety of apps and created a “hot spots” program with delivery to outdoor locations such as parks and sports fields. It is also testing the use of driverless delivery vehicles, smart ovens, and voice-activated artificial intelligence for phone orders. As a result, it has gained market share, generated significant buzz with customers and analysts, and earned awards for its digital leadership.9
+
+Other companies go even further by embracing “smart cannibalization,” or finding ways to continue to benefit from the core business while simultaneously reinventing. Netflix is a classic example of this approach. CEO Reed Hastings upended—but did not discontinue—the DVD-by-mail business model when he introduced direct streaming as a head-to-head offering. This was a step change for customers, and one which completely reinvented the entertainment industry. Netflix has since enjoyed steady growth in subscribers—both domestically and internationally—opening up further opportunities for innovation.
+
+Netflix is also adept at strategically leveraging data. To better serve customers and gain competitive advantage, it develops original content based on preferences in users’ viewing patterns as well as insights from creative talent. Recently, it has started using data even more deeply with choose-your-own-adventure episodes, such as Black Mirror’s “Bandersnatch,” which capture viewer preferences and responses to alternate storylines. The data can be leveraged for more targeted development of original content, as well as for market tests, such as determining cereal (or other product) preferences by asking users to use their remotes to select which one is consumed.
+
+Finding new angles to approach innovation is crucial to making these kinds of transformative changes. Yet many companies struggle. One recent study from CB Insights, for example, shows that less than half of large companies have a formal innovation process, which is a key part of engaging employees in innovation.10  Singapore Airlines (SIA), for example, launched its app challenge in 2015. It’s now an annual competition that attracts teams of employees from all over the world (406 proposals from 1,527 participants from 73 countries in 2018) to submit ideas that address specific business challenges. SIA leaders from various divisions act as judges; winning projects include a chatbot that helps passengers throughout their journey and an automated solution for inventory management.
+
+Staying agile
+
+Succeeding with this degree of change requires individual and organizational agility. But one of the most common challenges we hear from leaders trying to drive digital transformation is that their organizational culture and mind-sets are still stuck in the status quo.
+
+Leaders such as GM’s Barra are explicit about the need for agility: she has said GM is “not trying to preserve a model of yesterday. And when you think of the assets the company has—the scale, the control of the vehicle platform, the ability with embedded connectivity, the knowledge we have of just every aspect of the vehicle and how we're putting it together now . . . we can lead.”11
+
+Reinventing the organization requires leaders to also reinvent themselves and learn constantly. This can take many forms, depending on what they need to learn and their learning styles. It can include formal learning, such as getting a growth mind-set–oriented coach or advisor; informal and continuous learning, such as listening to podcasts; taking online executive development courses; or going to conferences that expand beyond the traditional topics for a given industry. Leaders who consistently bring new knowledge to the table not only help their companies look ahead to gain a competitive advantage but also act as role models for their senior team, and so on throughout the organization. Companies can also benefit by focusing on learning at all levels. Singapore Airlines, for example, launched a program focused specifically on lower-level employees in 2016. SIA Future@Work builds digital skills and capabilities through an innovation-focused development program consisting of training, workshops, expert talks, and peer-learning sessions covering data analytics, design thinking, and agile capabilities.
+
+The CEO and senior team must also continuously shape the culture to support their digital ambition. Some useful ways they do so include sponsoring and role-modeling innovative thinking and cultivating a learning-oriented, nimble culture. The chief information officer (CIO) at an energy company told us, for example, that he and the rest of the leadership team work hard to set the tone for innovation across the organization by working to stay on top of industry shifts, speaking closely with customers, and frequently sharing key insights across the company. The team also sponsors rotational and job-shadowing programs as well as informal, technology-focused lunch-and-learns to keep employees engaged and to highlight the importance of constant learning. The CIO also runs annual hackathons addressing key customer issues and rewards employees with small prizes and recognition. As a result of these efforts, the company has been able to attract top technology executives even though it’s in an industry that often struggles to compete for digitally savvy talent. Another important aspect of culture that companies must focus on is acceptance of failure in the pursuit of brave ideas. This is something that Singapore Airlines has explicitly included in a “digital innovation blueprint” it launched in January 2018.
+
+*** Leading digital transformation means being part of a team that can inspire the whole organization to accelerate, drive continuous and disruptive innovation, and redefine the customer experience. Although every senior leader must develop his or her own digital dexterity to be relevant, no one person can do it all. Just as business models and critical roles shift with acceleration, so does the mix of digital dexterity skills required. By cultivating their own digital dexterity and making it a priority for their teams to do the same, senior leaders can make themselves—and their organizations—more able to thrive in a digitally enabled world. Given the pace of technological disruption, there is no time to lose.
+
+About the authors
+
+Yulia Barnakova (ybarnakova@heidrick.com) is a principal in Heidrick & Struggles’ Philadelphia office and a member of Heidrick Consulting.
+
+Steven Krupp (skrupp@heidrick.com) is a partner in the Philadelphia office and a member of Heidrick Consulting and the CEO & Board Practice.
+
+Scott Snyder (ssnyder@heidrick.com) is the leader of Heidrick Consulting’s digital offering and a partner in the Philadelphia office. He is a senior fellow at the Wharton School at the University of Pennsylvania and the coauthor of Goliath’s Revenge.
+
+References
+
+1 Todd Hewlin and Scott Snyder, Goliath’s Revenge: How Established Companies Turn the Table on Digital Disruptors, Hoboken, NJ: John Wiley & Sons, 2019.
+
+2 Colin Price and Sharon Toye, Accelerating Performance: How Organizations Can Mobilize, Execute, and Transform with Agility, Hoboken, NJ: John Wiley & Sons, 2017.
+
+3 Colin Price and Sharon Toye, Accelerating Performance, Hoboken, NJ: John Wiley & Sons, 2017.
+
+4 Mary Barra, “Zero crashes, zero emissions, zero congestion,” LinkedIn, October 3, 2017.
+
+5McKinsey Global Institute, “Retraining and reskilling workers in the age of automation,” McKinsey & Company, January 2018.
+
+6 John Donovan and Cathy Benko, “AT&T’s talent overhaul,” Harvard Business Review, October 2016.
+
+7 Business Digest, “How going back to basics saved LEGO,” September 23, 2014.
+
+8 Brian Solis, “Domino’s Pizza serves up innovations in customer experience (CX) to drive business growth,” Forbes, August 15, 2018.
+
+9 Kyle Wong, “How Domino’s transformed into an e-commerce powerhouse whose product is pizza,” Forbes, January 26, 2018.
+
+10 CB Insights, State of Innovation, April 2018.
+
+11 Matthew DeBord, “General Motors CEO Mary Barra: ‘We are disrupting ourselves, we’re not trying to preserve a model of yesterday,’” Business Insider, November 16, 2015.
+
+Related Services & Industries
+
+Digital Leadership
+
+Leadership Development
+
+Technology
+
+Related Content
+
+Leadership Development
+
+AI focus: Leveraging your culture to accelerate GenAI enablement
+
+Realizing the value of your AI investments relies more on your culture than on the technology itself. Our work and interviews with five executives highlight how companies are engaging their leaders to speed GenAI progress.
+
+FinTech
+
+Stablecoins and the future of finance: A conversation with Marieke Flament, co-author of Euro Stable Watch, board member and advisor
+
+Marieke Flament explores how stablecoins are reshaping global finance and what today’s leaders need to thrive in a decentralized financial system.
+
+Marketing, Strategy & Communications
+
+AI leadership in communications: A conversation with Corey duBrowa, Global CEO of Burson
+
+Corey duBrowa shares practical guidance for corporate communications leaders on harnessing AI, staying ahead of emerging trends, and advising CEOs and boards on the right questions to ask.
+
+Digital Leadership
+
+AI and leadership: How finance, HR, and technology leaders are collaborating to make the most of AI across the enterprise
+
+When leaders of these key functions work together effectively, their companies are more able to benefit from implementing AI. Focusing on three areas will help keep progress going.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

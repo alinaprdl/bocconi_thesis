@@ -1,0 +1,307 @@
+From the Boiler Room to the Boardroom
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+From the Boiler Room to the Boardroom
+
+Evolution of the Next-Generation Chief Information Officer in Asia
+
+By
+
+Danny Koh
+
+May 2017
+
+| 8 min read
+
+Author
+
+Danny Koh
+
+Singapore
+
+While the epicentre of the digital revolution can be traced back to the United
+States, the Asian digital ecosystem has evolved at a rapid pace in recent
+years and, in many aspects, has become more vibrant and pervasive than
+that of the U.S. For instance, China accounted for almost 50 percent of 2016
+global retailer e-commerce sales vs. the U.S.’s 20 percent, and WeChat has
+become (much more so than WhatsApp) the hub of all internet activities for
+many of its users. Meanwhile, Korean and Chinese smart phone manufacturers
+dominate the top five 2016 global market share rankings.
+
+The rapid evolution and growth of the digital ecosystem in Asia has not only
+impacted virtually all industries across Asia, but has also accelerated the
+blurring of the boundaries between commercial and tech-focused roles. For
+instance, in order to drive profitable business growth, commercial general
+managers need to develop increasingly deep awareness and understanding
+of enabling technologies like mobility, analytics, cloud, security and artificial
+intelligence. Conversely, tech-focused executives need to be much more
+involved in developing and executing the business strategy, especially given
+technology’s increasingly important role in driving customer-centricity,
+product differentiation and new business models.
+
+Among the tech-focused roles, perhaps the one that has undergone the
+biggest evolution in recent years is that of the chief information officer
+(CIO). From a “boiler room” role focused on infrastructure and applications,
+the CIO has become an increasingly important voice in the boardroom. To
+get a front line view of how these next-generation CIOs are driving the digital
+evolution of their respective companies, and to learn how they are keeping
+pace with the business world’s ever-increasing speed, we interviewed
+CIOs across diverse industries and company types about their experiences
+navigating this challenging but rewarding journey.
+
+Specifically we asked: How did their roles change? How did they prepare for
+their new responsibilities? What did they do right and what would they do
+differently? And, looking forward, we wondered how these experiences will
+inform their future.
+
+Based on these discussions, we have identified five key lessons for
+next-generation CIOs:
+
+Earn the right to be in the boardroom
+
+Engage, develop and leverage external ecosystems
+
+View, develop and deploy data as a core product and capability
+
+Foster a culture of collaboration, learning and experimentation
+
+Be self-aware and not afraid to make tough decisions
+
+Earn the right to be in the boardroom
+
+While all CIOs agree they need to have a true voice in the C-suite, this is
+much easier said than done. Many businesses still regard the CIO function
+as a tactical and technical cost-centric position that is far removed from the
+primary business. Unfortunately, changing this perception is not easy.
+
+To prove that the CIO position is more multi-dimensional, Marcelo
+De Santis, group CIO of Pirelli and former CIO of Mondelez Asia Pacific,
+argues that IT leaders must take a wide perspective on the business.
+
+“We need to think and communicate by using the business — and not just
+the IT — lens,” he said. While De Santis noted most CIOs are already active
+in the digital space, he still sees the opportunity for CIOs to proactively own
+the digital conversation. “We were already doing many ‘digital things,’ but
+we didn’t have the long-term vision of how to become a ‘digital business.’
+Providing visibility to those fragmented efforts, along with an outside-in
+perspective of what our peers and other companies were doing in the digital
+space, got the attention of our C-suite and set the stage for starting a more
+enterprise-wide conversation around digital.”
+
+De Santis also noted CIOs should establish strong interdependent partnerships
+with the CMO, chief growth officer (CGO) and HR to steer the digital
+agenda across functions and regions. “Instead of a ‘digital strategy,’ we
+made it clear that we were building a business strategy enabled by digital
+technologies, tech-savvy talent and agile ways of working,” he said. “Setting
+this outcome acknowledged that our intent was to build the ‘digital DNA’ of
+the organization rather than just continue to do ‘digital things.’ It also emphasized
+the need to establish – from the beginning — a strong cross-functional
+sponsorship and collaboration to succeed in the journey; digital is
+ultimately an enterprise-wide team sport.”
+
+Others said it is crucial that CIOs speak up and simply make their presence
+felt. It will take some initiative, but the result of passivity is the possibility of
+being overlooked.
+
+“We need to earn the right to be at the table,” said Ofir Shalev, CTO/CIO of
+the CXA Group, an Asia technology startup that helps employers unlock
+wellness in the workplace by converting existing benefits spending into
+prevention and disease management. “We should strive to demonstrate our
+value to the business, and find opportunities to speak up and present at key
+management meetings. I make time to sit down one-on-one with the CEO
+and other C-suite stakeholders to obtain buy-in earlier than later. Speaking at
+conferences also helps to raise my profile and credibility with the business.”
+
+Olaf Pietschner, former CIO of Origin Energy,
+Australia’s leading electricity and gas supplier,
+said his group set out to learn what other
+business units expected from them, rather
+than waiting for others to reach out. “We
+over-communicated within and across the
+organization,” he said. “We held innovation
+workshops to involve all of our people, we
+engaged deep into the organization, and we got
+people to articulate what exactly they needed to
+collaborate in a much more agile world.”
+
+We held innovation workshops to involve all of our people, we engaged deep into the organization, and we got people to articulate what exactly they needed to collaborate in a much more agile world.
+
+Olaf Pietshner,
+
+Former CIO of Origin Energy
+
+Engage, develop and leverage external ecosystems
+
+In the past, the CIO function was more internally focused because the
+traditional domains of infrastructure and applications were further away
+from the customer. But technology has become increasingly core to the
+business and led to more customer-facing engagement (such as apps,
+e-commerce sites, digital advertising and chat boards), so CIOs need to
+move up the technology stack and become increasingly customer-centric.
+
+Some of these capabilities can be created in-house. But in many cases,
+it is faster — and also more cost effective and pragmatic — to leverage
+external ecosystems instead. This can free up resources and time, which
+would allow the CIO to focus on new strategic initiatives, or perfect
+existing core capabilities.
+
+“One key pillar of our strategy was to enable new digital business models;
+with that in mind, we experimented launching a direct-to-consumer
+experience under our Oreo cookie brand right in time for the holidays,”
+De Santis said. “Rather than taking the time and effort to build the
+technology in-house, we established a partnership with a digital startup, which offered a well-designed, easy-to-use gift-giving digital platform so our
+consumers were able to gift a limited-edition, beautifully decorated tin of Oreo
+cookies if they only had the email address or mobile phone number of the
+recipient. It took the team only 45 days to have
+the overall consumer experience ready, including
+fulfillment capabilities. The benefits were even
+greater than we’d envisioned and we proved that
+small, cross-functional teams can move fast and
+deliver results.”
+
+Rather than taking the time and effort to build the technology in-house, we established a partnership with a digital startup, which offered a well-designed, easy-to-use gift-giving digital platform.
+
+Marcelo De Santis,
+
+Group CIO of Pirelli and former CIO of Mondelez Asia Pacific
+
+These partnerships could also provide fruitful
+connections for future work, as well as raising the
+company’s profile within the digital ecosystem.
+
+“We are always on the lookout to partner with
+other startups, so that we can shape their product
+roadmaps,” Shalev said. “We often find promising companies that could
+be a strategic extension of our business down the line, and we may even invest
+in them. In such instances, my role also becomes that of due diligence consultant,
+to ensure that we know what we are buying into.”
+
+View, develop and deploy data as a core product and capability
+
+The explosion of the types, sources and amount of data that can be accessed by
+a business has elevated data to become a source of competitive advantage. The
+rapid rise of cheap and compact sensor technologies, the omnipresence of
+high-speed connectivity, and the exponential increase in computing power can
+enable the generation of real-time, relevant and actionable insights that can drive
+tangible business impact (e.g., sending discount e-coupons to the mobile phone
+of a customer walking past a restaurant serving his/her favorite food).
+
+Consequently, data is not something to be collected and studied merely as
+some sort of theoretical exercise. To drive the most value out of data, it needs
+to be a key component of a forward-looking strategy.
+
+“We use data as a capability that enables us to proactively steer and improve
+the customer experience instead of being reactive to customer complaints,”
+says Steve Lee, CIO of Changi Airport Group. “We use instant feedback at
+various customer touch points — such as toilets, immigration points and
+boarding — to help us quickly troubleshoot issues. For example, by aggregating
+and analyzing flight arrival times and their corresponding passenger loads,
+we can better manage airport traffic and scarce ground resources. This level of
+deep collaboration has also enabled more robust and integrated responses to
+crises and disruptions.”
+
+With the right aggregation, analysis and deployment, data can be used to
+harness efficiencies, create differentiation and even drive new business
+models, Shalev noted. “We treat data like a product that is intricately linked
+with the business strategy and growth plans,” he said. “Devise a roadmap
+for data just like you would do for a product — i.e., you need to ask what
+types of data will be available when, how each new data ‘version’ can yield
+new insights to drive growth, profitability and differentiation.”
+
+Foster a culture of collaboration, learning and experimentation
+
+Given the rapid pace of change and the dynamic and often unpredictable
+environments in which businesses now operate, developing and executing
+against a well-defined multi-year IT plan in isolation from the business is no
+longer a viable formula for success. Rather, this linear and static mindset
+needs to be supplanted by one of constant learning, iterative experimentation
+and seamless collaboration with the business and other functions.
+
+“We experiment at numerous levels and have become much more tolerant
+of failures, as long as we gain useful insights from these failures. We also
+extend our culture of experimentation to people,” Lee said. “So we hire fresh
+graduates who are moldable, and then we develop
+them by rotating them through a variety
+of business domains, and exposing them to
+different cross-functional projects. We give
+them more time to get up to speed through
+experimentation and (sometimes) failing instead
+of spoon-feeding them. This way, they
+develop faster and better in the long run.”
+
+We experiment at numerous levels and have become much more tolerant of failures, as long as we gain useful insights from these failures.
+
+Steve Lee,
+
+CIO of Changi Airport Group
+
+To make experimentation viable, it is important to break up large projects
+into smaller pieces with corresponding lower risk profiles and faster feedback
+loops, and also involve a broader cross-section of stakeholders using
+collaboration tools. Pietschner remarked: “Instead of trying to solve world
+peace, we focus on getting a good enough ‘minimal viable product’ that
+works. We leverage collaboration tools like Office 365 and cloud platforms
+like Azure to accelerate time to launch, and also co-locate the IT teams with
+the business teams to tighten the linkage between technology and the business
+objectives.”
+
+Similarly, De Santis provides room for millennials to experiment, giving them
+the freedom to work slightly outside of the typical constraints.
+
+“We established a company council for our millennials employees (Millennial Alliance)
+to act as change agents of our digital transformation. We provided them with a broad
+framework to contribute their ideas around three areas: culture, talent and marketplace,”
+he said. “Millennials are comfortable dealing with ambiguity and are great at
+navigating change plus they represent a growing consumer segment. Among other
+things, they provided input to the development of new lines of products, ‘reverse mentoring’
+senior leaders and colleagues, and designed strategies to attract, develop and
+retain millennial talent.”
+
+Be self-aware and not afraid to make tough decisions
+
+The most effective CIO is not necessarily one who knows about everything and gets
+involved with every element of the technology function. Rather, a critical success factor
+is the ability to take a clear-eyed look at oneself, be humble and admit when one does not
+know something — and then defer to someone who does. In some cases, it may be necessary
+to create new positions to enhance knowledge in areas that have not been mastered.
+
+“This could mean hiring someone below the CIO who has the expertise, or even creating roles that sit parallel to that of the CIO,” Shalev said. “Security is an example in which companies may each need a full-time person who thinks 24/7 about threats and hackers and how to stay one — or multiple — steps ahead of them.  For consuming-facing digital businesses in which security is paramount, this person must have a voice at the leadership table. So, instead of having this person report into the CIO, it may make sense to create a CISO (chief information security officer) role that’s at same level as that of the CIO.”
+
+Security is an example in which companies may each need a full-time person who thinks 24/7 about threats and hackers and how to stay one — or multiple — steps ahead of them.
+
+Ofir Shalev,
+
+CTO/CIO of CXA Group
+
+In addition to adding talent, though, taking an objective look inward could mean letting
+go of people who do not mesh with the company’s vision or desire to move forward. It
+is a difficult step, but it can be just as hard for everyone to work around talent that
+simply does not fit.
+
+“Some people will never get it, and it took me too long to remove them,” Pietschner
+said. “In retrospect, I should have been faster in making the changes.”
+
+***
+
+The rise of digital technologies has no doubt created threats for many businesses. While
+these are indeed challenging times, they also provide unprecedented opportunities for
+CIOs to leverage their unique and deep insights into technology to step up and drive
+business impact along with other members of the C-suite. CIOs who are able to navigate
+this transition will find themselves playing increasingly important roles in driving the
+company’s growth and profitability, charting the company’s future vision and strategy,
+and becoming an indispensable part of the C-suite.
+
+Download
+
+Download
+
+Author
+
+Danny Koh
+
+Singapore

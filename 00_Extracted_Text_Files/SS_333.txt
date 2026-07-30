@@ -1,0 +1,178 @@
+So, You’re Looking for a Chief Metaverse Officer
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+So, You’re Looking for a Chief Metaverse Officer
+
+By
+
+Meg Wilson Schaeffler and
+
+Ashling O'Connor
+
+July 2022
+
+| 8 min read
+
+Authors
+
+Meg Wilson Schaeffler
+
+Los Angeles
+
+Ashling O'Connor
+
+London
+
+SectionsIn this article
+
+Key findings
+
+The metaverse is hardly the first time that organizations have been forced to grapple with the leadership implications of technological change: most notably, the rise of the “chief digital officer.”
+
+The best metaverse leader will have a wide range of skills, including expertise in marketing, product and technology, and cross-functional collaboration. And company and industry are important; what a video game company wants in a metaverse lead is different from what a CPG, luxury brand or retailer may seek.
+
+The skills required to succeed in this era will evolve as the technology itself evolves, as access to it becomes more mainstream, and as individual companies and industries respond to the changes.
+
+Ever since Facebook changed its corporate name to Meta in October 2021, the metaverse — loosely described as the “immersive internet” — has become a headline grabber, not just in sectors such as technology and gaming, but also in spaces such as fashion, retail, healthcare, education and financial services. The vast potential of dynamic, remote interaction has prompted a frenzy of speculation around a new economy that one report estimated could be worth as much as $5 trillion by 2030.1
+
+As boards and top executives aim to understand this trend and capitalize on its enormous opportunity, many are seeking out the right talent to lead the way, in some cases even creating “chief metaverse officer” positions.
+
+So, what should this role be? Is it necessary and, if so, when? And regardless of the exact job title, how can organizations best ensure they are prepared to succeed in this corner of the burgeoning arena of Web3?
+
+To answer these questions, we spoke with several major players in the metaverse space for their insights around how organizations are preparing for it, and what kind of leaders can help it reach its promise.
+
+Download
+
+Download
+
+Chief metaverse officer: What’s in a title?
+
+The metaverse is hardly the first time that boards and C-suites have been forced to grapple with the leadership and organizational implications of a rapidly changing technological landscape. Over recent years, companies have added new roles to address the opportunities of technology, most notably the chief digital officer. And to varying degrees, these titles have either become accepted parts of the C-suite, or, more often, they have blended into pre-existing positions while fading as standalone roles. After all, is there a corporate leadership position today that doesn’t involve “digital”?
+
+With the past in mind, it’s not surprising that some companies are beginning to add chief metaverse officers, or similar titles, to their teams. Whether they are serious efforts to incorporate the metaverse or merely a way for external audiences to perceive a company’s involvement in a hot trend is the key question.
+
+Matthew Ball, an investor, adviser and the author of the 2022 book The Metaverse and How It Will Revolutionize Everything, said that the metaverse is best thought of as a next generation of the internet. As such, he told us, the chief metaverse officer’s mandate may be difficult to separate from that of a chief digital officer, chief technology officer or even the chief marketing officer. Still, the title can aid with external “optics,” demonstrating a commitment to this trend, while also helping unify an organization’s cause toward the trend.
+
+“Some companies are already giving executives the chief metaverse officer title — not with the same seniority as a chief digital officer, chief technology officer or chief marketing officer — but nevertheless establishing that individual as a leader with a specific skillset and unique responsibilities,” Ball said. “It’s a situation where you need a single point of contact for the company. While this sort of chief metaverse officer may have less seniority than the chief digital officer, internal teams and outside partners recognize them as the expert and authority when it comes to the metaverse at their company.”
+
+How do you define “metaverse”?
+
+Here are a few answers from our interviewees.
+
+“The metaverse is a massively scaled and interoperable network of real-time rendered 3D virtual worlds which can be experienced synchronously and persistently by an effectively unlimited number of users with an individual sense of presence, and with continuity of data, such as identity, history, entitlements, objects, communications and payments.”
+
+Matthew BallInvestor and author
+
+“I think of the metaverse as a new organizing principle for the internet…. We’ve moved from websites usually accessed through a desktop computer, to apps that allow you to access similar information and capabilities on your phones, and now to experiences. Those experiences can be accessed on really any hardware — VR, desktop, phone or console. [The metaverse] is really about an immersive, 3D, simultaneous experience.”
+
+Matthew HenickVP metaverse development, Epic Games
+
+“The metaverse is basically a place where people do things with other people but in a digital space. I think that’s a different thing for different companies.”
+
+Craig DonatoChief business officer, Roblox
+
+“When people talk about metaverse, they’re typically mixing together two ideas. The first is transitioning the internet from two- to three-dimensional…. As computers become more powerful, there’s many reasons we as humans find three-dimensional spaces more natural. The second is actually more important in my opinion. It’s the idea of being with other people all the time on the internet. Today, if you go to a website, if you’re shopping online, if you’re researching something online, almost 100 percent of the time you’re alone in front of a screen. We are social animals. The internet is not going to make sense to us as creatures until it is inherently social like we are — that is to say, when you don’t have to go far to run into other people.”
+
+Philip RosedaleEntrepreneur and founder of Linden Lab
+
+A metaverse leader for different “worlds”
+
+There, of course, remain many questions about exactly how the metaverse will actually pan out. Today, many metaverse “worlds” are emerging, most at this point separate — that is, walled off — from the others. If those worlds remain closed off, with their own separate rules and audiences, then the metaverse may not be much different than the apps and platforms that dominate today. If those worlds prove transferrable, more like the real world, then they could present a tremendous opportunity for brands and other organizations.
+
+For example, at Creative Artists Agency (CAA), according to Jim Burtson, the talent agency’s president, the metaverse is part of a broader strategy involving the intersection of content with Web3, the internet’s third generation that includes concepts like decentralization (such as blockchain) and token-based economics (including non-fungible tokens, or NFTs). For CAA and the artists it represents, if the metaverse emerges with interoperability across different platforms, content creators could benefit across many fronts.
+
+“This concept of portability amongst platforms is to me what’s really special about the metaverse,” Burtson said. In Web3, “there is a promise that the creator actually can benefit from their work and have perpetual ownership. In sports and entertainment, it will come with disruption, but that disruption is also a great opportunity for us and our clients.”
+
+Entrepreneur Philip Rosedale, a pioneer in this field whose Linden Lab created the virtual world Second Life in 2003, told us that the metaverse leader of today should focus less on creating specific virtual brand experiences, and rather seek to tap into genuine interaction with consumers. “Social connectivity needs to be established first, then as a brand you figure out how to get in there and be a part of it,” Rosedale said.
+
+In the longer term, the remit of a chief metaverse officer could eventually roll up into the responsibilities of a chief marketing officer or a chief technology officer, depending on the industry. Like the evolution of the chief digital officer role over the last decade, it’s possible to envision a future in which you may not need a metaverse lead of any sort, because the metaverse will be factored into everything a company does.
+
+“In some industries, it’s going to be more of an evolution, and thinking about how your customer interactions evolve digitally. You may need someone like in the early days of the chief digital officer,” said Craig Donato, chief business officer at Roblox. “You want someone who has the power to help people embrace the metaverse and make a transition.”
+
+What is the skillset of a metaverse leader?
+
+The skills required to succeed in this era will evolve as the technology itself evolves and as access to it becomes more mainstream. So, what should boards and CEOs be looking for in the metaverse leaders of today to prepare for the future?
+
+A few basics help answer this question. First, the past is a useful guidepost. Beyond that, the company and industry are also important; what a video-gaming company would want in a metaverse lead is likely quite different from what a CPG, luxury brand or retailer would seek.
+
+“You want people who understand the past and present lessons of the internet,” said Matthew Henick, VP of metaverse development for Epic Games, maker of the Fortnite video game. “What does it look like when you connect hundreds of millions or even billions of customers at scale? It requires, if not a technical background, a technical set of experiences. And you need a pretty deep familiarity with the company itself, or at least the industry, because you’re going to be working horizontally or diagonally across it.”
+
+Below, we look at the different skills for a metaverse leader — including which of those skills may be more industry-dependent.
+
+Product and technology
+
+A metaverse leader within almost any sector would need at least some understanding of the technical underpinnings of the metaverse and how it operates. This is more important for organizations closest to the metaverse’s technical development, such as gaming companies. For many businesses, there may also be some sort of product or hardware consideration — for example, in developing the devices that enable a fully immersive, 3D experience.
+
+Michael Nash, EVP of digital strategy at Universal Media Group, has overseen much of the organization’s ventures into the metaverse as well as NFTs. He believes a “product visionary” is essential to help move the strategic focus beyond what has happened in the past, and instead toward what is possible in the metaverse.
+
+“I think that there’s already a lot of lazy borrowing from the existing world to try to imagine the metaverse’s future — to fool consumers into being attracted to something that isn’t really very good,” Nash said. “An innovative mindset is what you really need to wait for.”
+
+Matthew Ball said that, quite simply, you need people who are nimble and innovative enough to pivot fast and guide their company toward the right solutions.
+
+“The metaverse is not yet established,” Ball said. “There are not ‘best practices,’  ‘playbooks’ or business models. We will all get things wrong — probably often. So not only do companies need outstanding talent to be chief metaverse officers, but they also must recognize that these leaders are working on hypotheses, not facts. They will win not just through good instincts, most likely borne out of an unfamiliar background, but also because they know when to change the bet. Many companies will fail not because of their ambition or earliness, per se, but because they are too far down the road by the time they realize they made a wrong turn.”
+
+Marketing
+
+The metaverse leader with a marketing background has been common thus far, particularly as consumer brands expand into the digital realms of the metaverse. Some of the highest-profile metaverse efforts to date outside of gaming have involved virtual fashion shows featuring the likes of Gucci and Ralph Lauren; sports league partnerships with games like Roblox and Rocket League; and virtual shopping areas created by consumer goods brands like P&G.
+
+In these situations, a strong metaverse leader would be a customer experience expert — perhaps, a bit ironically, someone who understands live, in-person events.
+
+“At the end of the day, you still have to be accurately and authentically representing what your customers want, because this is going to be a customer interface,” Henick said. “A deep familiarity and a deep empathy as a consumer of the product, of the company that you’re working for, is most important.”
+
+Nash said that for a group like a music company, the marketing component of Web3 is critical as they seek to lift their brands above the noise of world where services like Spotify and Apple Music have catalogs of more than 70 million songs.
+
+“We want to take a very integrated approach to Web3, NFTs and the metaverse, and bring the full power of our labels to market and promote,” he said. “But then we also want to create the synergies to really amplify and magnify our artists — and that’s the big challenge.”
+
+Cross-functional expertise
+
+Executives who oversee metaverse-related work will interface with product, marketing, business development and partnerships, policy and legal, just to name a few different functions. A cross-company perspective points to the need for someone with peripheral vision and the ability to unify a strategy. It also gives a glimpse toward a future when the metaverse is neither a novelty nor a separate entity, but rather an established paradigm that touches every element of your business.
+
+“What is the internet? What does digital mean? We need to have someone to help organize it and to signal to markets that we recognize that this is important,” Henick said. “Over time, this will become woven across the company. It will eventually become its own business unit, or maybe just another way that you interface with your customers, that everybody sort of needs to take hold of just like they do for the rest of the internet.”
+
+Donato said the best metaverse lead will be a “visionary who has the ability to get everyone across an organization thinking in a new way — even if that may run counter to how things are done now. I think you need someone who can influence and carry forward a vision. Someone who has navigated a digital transformation historically is probably pretty well suited for it.”
+
+Questions for boards and C-suites as they consider adding a chief metaverse officer:
+
+Why are we engaging in the metaverse? Is there a strategic imperative (yet)?
+
+How will having more realistic, 3D interactions with our customers impact our business? Are we ready for it?
+
+How are my customers interacting with the metaverse? What are their expectations?
+
+How equipped is our internal talent to address the opportunities created by the metaverse?
+
+What has been our organization’s experience with digital transformation? Who led the work? What lessons did we take from those efforts?
+
+What are the potential pitfalls and obstacles to success?
+
+What is the cost of doing nothing?
+
+Conclusion
+
+For all of the publicity and hype, the metaverse’s potential is still just that — potential. There are still many unanswered questions around privacy, commercial transparency, regulation, data protection, consumer safety and financial control. How will the metaverse be built? Will it be a fair and open ecosystem? How will brands and customers traverse the metaverse?
+
+The search for answers to those questions is why many forward-thinking companies are looking for dynamic leaders who can combine a wide range of skills and guide their organizations toward the commercial possibilities, while also avoiding the pitfalls and not sacrificing the brand’s integrity.
+
+“We’ve seen this story hundreds of times: A new platform emerges and incumbents struggle to imagine it as anything other than a slightly new medium to sell a slightly different version of their products, requiring just a slightly different strategy,” Ball said. “And yet giants continually fall or are displaced — we saw this with the shift from PC to mobile, and we’ll see it again here. Anyone who says the path is obvious and the winners are set… will eventually be proven wrong.”
+
+Philip Rosedale said that perhaps the most important attribute is what he called a “humanistic background.” He compared the uncertainty about the metaverse’s long-term prospects to the first weeks of the pandemic in 2020, when virtual happy hours were organized to keep friends, family and colleagues connected — only to fizzle out as they failed to adequately replace the in-person experience.
+
+“The question to the prospective metaverse leader is: what was wrong with that?” Rosedale said. “How do you fix it? Because if you can’t fix that, then what are we talking about? It doesn’t matter if you get your brand up on some platform if people don’t want to be there. So what else are we doing?”
+
+1
+Value Creation in the Metaverse, McKinsey & Co, June 2022. https://www.mckinsey.com/business-functions/growth-marketing-and-sales/our-insights/value-creation-in-the-metaverse
+
+Authors
+
+Meg Wilson Schaeffler
+
+Los Angeles
+
+Ashling O'Connor
+
+London

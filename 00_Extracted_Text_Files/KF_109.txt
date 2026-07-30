@@ -1,0 +1,141 @@
+5 Ways to ‘Read’ Your CEO
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+This Week in Leadership|March 31, 2026
+
+5 Ways to Avoid AI Workslop
+
+Unprofessional, AI-produced work has become a modern-day productivity killer. How to dodge it.
+
+The term wasn’t even widely used until about a year ago. But today, cleaning up so-called AI “workslop” has become a bigger and bigger part of everyone’s job. Workslop, of course, is the term researchers have coined for the typically low-quality, low-effort, all-style-and-no-substance LLM-generated outputs that a disturbingly large number of people submit as finished work to colleagues and managers. “Workslop comes from people feeling pressure to use AI, but not really understanding its capabilities or knowing how,” says Paul Fogel, software sector leader for the Professional Search practice at Korn Ferry.
+
+A substantial body of research shows that AI use is increasing, but time saved isn’t. Workslop is one of the primary culprits, with the study that introduced the term finding that every instance of workslop requires two hours of revision on average. That’s significant when considering that more than 40% of employees report receiving workslop from a colleague.
+
+With that in mind, we asked two of our partners for tips on how they avoid workslop. Here’s what they said.
+
+Pick the right model.
+
+Most users treat LLMs like search engines, defaulting to the one they feel most comfortable with. But that’s an amateur mistake, says Fogel. “Different LLMs excel in different areas,” he says. Where one LLM may be strong in general knowledge, another may be better for coding, while a third one may excel at image production. “You wouldn’t use ChatGPT for illustrations or videos,” Fogel says, “just like you wouldn’t use PowerPoint to build a spreadsheet.”
+
+Pretend you are managing a new employee.
+
+Not unlike a new colleague, LLMs are knowledgeable and eager, but need instruction—lots and lots of instruction. Daisy Grewal, a director of analytics innovation and automation at Korn Ferry, says the more granular and specific your prompt, the likelier you are to get the outcome you want. “Think about the information you would use to delegate a task to a new employee, and build the prompt the same way,” she says.
+
+Have AI instruct AI.
+
+Getting the prompt right is the best way to avoid workslop. And since an LLM knows what it responds to best, who better to instruct it than itself? Fogel starts every task by asking the LLM what prompt it would use to accomplish it. “It brings back a framework for building a successful prompt by providing the detail it needs,” he says. From there, it’s not quite plug-and-play, but it’s not far from it, either. Once the LLM has buildt the framework, Fogel edits it for his unique task and inputs the requested data. After that, the balance between AI and human shifts: Fogel takes over, further refining and targeting the specific work goals he is trying to achieve. He says he’s able to do this much more quickly with a more “work ready” first draft. “It’s a net positive on workflow and time,” he says.
+
+Request questions.
+
+Note that this doesn’t mean prompting the AI. It means the opposite: Ask the AI to ask you questions. After Grewal prompts the AI for a task, she always includes a request that it ask her any clarifying questions or identify any potential issues it foresees before it starts. “That alone improves output significantly,” she says, “because it helps me understand how it is interpreting my instructions.” Often, she notes, it leads to inputs she hadn’t thought of that improve the overall result.
+
+Remember that one shot could ruin your reputation.
+
+Only the Jack Kerouac of your position would accept the first output as a finished product. You don’t have to be the one that does the iteration, but you can’t get good outputs without refinement. One best practice is to ask the AI to critique its own output and identify what’s missing or weak. “Use that as your guide for what to add or clarify back to the model,” says Grewal, “then have it try again.” This isn’t just a functional best practice—it’s also a reputational one, she says. Turning in work straight from AI is both obvious and annoying for colleagues, and some studies have already shown that people who share workslop are viewed negatively. “Your reputation isn’t worth the time you saved!” says Grewal.
+
+Learn more about Korn Ferry’s Leadership and Professional Development capabilities.
+
+Read more This Week in Leadership articles
+
+Our Expert
+
+Our Experts
+
+Paul Fogel
+Sector Leader, Professional Search, Software
+
+Daisy Grewal
+Director, Analytics Innovation & Automation
+
+No items found.
+
+Featured Insights
+
+Workplace AI: Is Resistance Futile?
+The Leadership the AI Era Requires
+
+INSIGHTS TO YOUR INBOX
+
+Stay on top of the latest leadership news with This Week in Leadership—delivered weekly and straight to your inbox.
+
+​
+
+Related Insights
+
+See All Related Insights
+​
+
+Article|July 3, 2026
+
+The Glitter Leader
+
+July 3, 2026
+
+This Week in Leadership (June 29 - July 5)
+
+July 3, 2026
+
+This Week in Leadership (June 29 - July 5)
+
+Article|July 1, 2026
+
+6 Ways to Handle Work During Vacation
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+This Week in Leadership
+
+Leadership
+
+Beyond Coronavirus
+
+Future of Work
+
+AI in the Workplace
+
+AI-Ready Workforce
+
+Leadership Development
+
+Professional Development
+
+Talent Acquisition
+
+Cultural Transformation
+
+Korn Ferry Career
+
+Board & CEO Services
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

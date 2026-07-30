@@ -1,0 +1,243 @@
+AI focus: Leveraging your culture to accelerate GenAI enablement | Insights | Heidrick & Struggles
+
+Identified Country:
+
+AI focus: Leveraging your culture to accelerate GenAI enablement
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Leadership Development AI focus: Leveraging your culture to accelerate GenAI enablement
+
+Realizing the value of your AI investments relies more on your culture than on the technology itself. Our work and interviews with five executives highlight how companies are engaging their leaders to speed GenAI progress.
+December 02, 2025
+
+Adam Howe ,
+Jarrad Roeder ,
+Meg Wheaton
+
+Companies of all sizes, across all industries, are trying to understand how to tap into the value of AI. What started as a “nice to have” technology is quickly becoming both embedded in company operations and critical to shaping and implementing strategy.
+
+And yet, for all the investment pouring into AI, many leaders still aren’t sure how to use it to create value. While some executives enthusiastically track tool adoption and usage frequency rates, others struggle to implement it into regular workflows and allay employee fears about how it will upend the way they work.1
+
+Successful navigation of both the operational transformations and the emotional concerns will set the stage for successful AI enablement—and that navigation depends on leadership and culture, not on technology. Companies with thriving cultures that exude purpose and guide strategy can leverage these strengths to make the most of AI, too.2
+
+Leaders should rely on clarity, consistency, and conviction—the same tactics that help them shape culture—to accelerate AI adoption. Senior leaders must ensure leaders at all levels are clear on how AI will drive business strategy and fuel growth. They can do this by role-modeling AI use, encouraging experimentation without fear of failure, and shining a light on people who are making a difference with the technology. Or, as Sophia Velastegui, formerly the chief AI technology officer in Microsoft’s business application group and currently a board member at BlackLine, told us, “AI is 50% tech, 50% people. Ignore either half at your peril.”
+
+The challenges of AI transformation
+
+Against a backdrop of ongoing geopolitical and economic volatility that followed a global pandemic, it’s no surprise that people have change fatigue, which makes any type of transformation all the more difficult. Add in the possibility that AI will fundamentally change products, services, operations, and how day-to-day work is done, and it’s no wonder that leaders are feeling increased uncertainty inside their organizations. As companies pilot multiple use cases for AI, employees are wondering how the technology will affect their jobs and, notably, whether their jobs will continue to exist.
+
+Beyond job-specific considerations, some fears also stem from the reality that many of us don’t fully understand how to use AI or, frankly, what it is. The most prominent generative AI tool, ChatGPT, was introduced less than three years ago. And because AI technologies continue to evolve so quickly, it’s hard for experts to even keep up, let alone individual employees whose day jobs don’t involve AI.
+
+Four steps to successful AI enablement
+
+By focusing on culture first, companies can reduce fears surrounding AI usage and accelerate its adoption among leaders and, then, throughout the company. Based on our work and interviews, we see the following imperatives as ways for companies to ensure their leaders can successfully guide this transformation.
+
+1. Align2. Equip3. Activate4. Embed
+
+1. Align
+
+2. Equip
+
+3. Activate
+
+4. Embed
+
+Align
+
+When leaders create a narrative to connect AI to business strategy and company values, it helps drive understanding around the “what, why, and how” of the AI journey and overall purpose. This clarity makes AI part of “how we win,” instead of just another tool in the tech stack or a separate strategy. A compelling narrative includes answers to these questions:
+
+How can AI better enable us to deliver on our overall purpose and strategy?
+Who owns each piece of AI ideation and implementation?
+How will the organization ensure AI is used safely, accurately, and ethically?
+
+Equip
+
+One of the biggest barriers to AI enablement is fear of using it; training that makes it seem more complicated than it needs to be is a common complaint. Leaders should use clear, concise language to demystify AI, such as comparing learning to ride a bike to learning AI. At the beginning, both are unstable, and falls happen. But over time, you gain freedom and the ability to go places.
+
+To make AI accessible, companies will benefit from knowing their leadership team’s overall comfort level with AI tools.3 With that knowledge, leaders can then build safe spaces to experiment — and provide the time to do so. This setup also creates opportunities for leaders and employees to co-create tools and processes with clarity, consistency, and conviction. “People need time and opportunities to develop natural relationships with AI,” Leidos’ Chief AI Officer Ron Keesing, told us.
+
+It’s also important for leaders to shift their mindsets around AI. The pace of AI change makes specific tool training quickly obsolete, requiring leaders to eschew mastery in favor of continuous learning. AI literacy will soon, we believe, be as foundational an expectation for leaders as digital dexterity has become. By fostering a culture of experimentation, iteration, and curiosity, they can begin to see AI as a place for discovery versus perfection. Leaders can morph from striving to be “know-it-alls” to “try-it-alls” while simultaneously envisioning the future and delivering it today.4
+
+“If you’re doing this right, you’re recognizing that no one has an advantage here,” Susan Youngblood, an operating advisor at Bessemer Venture Partners, explained. “We all learned about ChatGPT at the same time.”
+
+Activate
+
+If proof is needed that AI is critical to performance today, consider this: 31% of AI leaders now report to the CEO — near double the share only two years ago, according to our annual survey of AI and data leaders.5 It’s no longer enough for executives to have AI talking points. They must visibly and consistently role-model AI use, endorse it, and normalize curiosity, experimentation, and failure within senior leadership groups. Susan Youngblood told us, “Bessemer Venture Partners’ leaders use it regularly.”
+
+Once a company moves beyond pilots, building enthusiasm for the potential is crucial. For example, a senior director of AI and digital strategy at a global logistics company partnered with a university to develop an AI education course for company executives. Once the leaders finished the program, they became sponsors, which led to more than 2,000 employees wanting to take the course. This approach engaged diverse stakeholders and leveraged team members to spread momentum across functions. It also showed leaders being vulnerable as they learned something new and tied AI to enterprise values, organizational purpose, and personal and professional growth.
+
+In addition, leaders can identify early adopters to become champions for AI across the organization, and empower them with visibility, tools, support, and autonomy. One executive told us about a director who regularly shines a spotlight on the employee who does the coolest thing with AI that is impactful for their job. By spotlighting AI usage, expectations and AI literacy spread across the organization.
+
+Embed
+
+Too often, we’ve seen companies try to start by embedding AI usage, aligning incentives, and celebrating wins. But only once leaders are aligned, equipped, and activated for success can an organization truly succeed with embedding AI. If the desired behaviors aren’t integrated into culture, then linking AI to performance metrics or KPIs won’t work.
+
+As part of performance feedback, leaders should elevate role models who exemplify AI fluency or experimentation and, just as importantly, openly discuss failures so employees can learn from mistakes. As Sophia Vestagui told us, “Celebrate the skinned knees. That’s how you learn to ride the AI bike.”
+
+Maintaining scale
+
+Once desired AI behaviors are embedded in an organization, maintaining momentum requires a different set of tactics. Building an AI culture that prioritizes an experimental mindset— in which mistakes are viewed as learning opportunities — can sustain momentum through both hype cycles and setbacks. In addition to championing experimentation, leaders need to institutionalize continuous learning, focusing on small bites that are digestible and woven into the flow of work. Brett Riggi, the chief operating officer of Janney Montgomery Scott, explained, “We’re deliberately starting with small, manageable projects and scaling up over time.”
+
+In addition to content, other activities that can reinforce implementation include:
+
+1:1 coaching or reverse mentoring opportunities
+Learning circles/peer coaching
+“AI playtime” to create space for “a-ha” moments
+Prompt parties
+Workshops to connect AI to business unit and function priorities
+
+A key in all these actions is providing human interaction alongside AI systems to allow for dynamic learning. “The most valuable AI data you get is when humans make corrections to data AI gets wrong,” Ron Keesing noted.
+
+As AI continues to evolve, agility and curiosity won’t just be differentiators for AI implementation; they’ll also form a foundation of competitive advantages. “Uniquely human skills are the new currency,” Susan Youngblood underscored.
+
+Conclusion
+
+In today’s volatile world, transformation at the organizational level can no longer be planned in a siloed workstream and then rolled out companywide. By leveraging culture to accelerate AI adoption and implementation, leaders can tap into the organization’s purpose and values to foster AI curiosity and continuous learning, ultimately helping their company grow and thrive.
+
+“AI becomes transformative when it’s no longer seen as a system, but as a partner in purpose,” summed up Edwige Sacco, the head of workforce innovation at KPMG. “When people use it naturally, without being told to, it signals a cultural shift: one where curiosity, trust, and innovation lead the way. You’ll know AI has arrived when no one talks about it anymore, because it’s just part of how things get done. That’s not adoption. That’s evolution.”
+
+About the authors
+
+Adam Howe (ahowe@heidrick.com) is a partner in Heidrick Consulting; he is based in the New York office.
+
+Jarrad Roeder (jroeder@heidrick.com) is a principal in Heidrick Consulting; he is based in the Philadelphia office.
+
+Meg Wheaton (mwheaton@heidrick.com) is a partner and member of the Culture Shaping and Inclusion & Belonging practices; she is based in the Chicago office.
+
+References
+
+1 For more on organizing for AI, see Ryan Bulkoski and Adam Howe, “Structuring the AI function: The right questions to find the right model,” Heidrick & Struggles, November 14, 2025, heidrick.com.
+
+2 For more on how aligning culture, strategy, and purpose can improve performance overall, see Rose Gailey, “Aligning culture with the bottom line: How companies can accelerate progress,” Heidrick & Struggles, July 15, 2021, heidrick.com.
+
+3 There are many ways to assess this; one is Heidrick & Struggles’ AI Questionnaire Report.
+
+4 For more on why this is a leadership imperative in any context, see Dr. Regis Chase and TA Mitchell, “The connecting leader: Five imperatives for leaders today,” Heidrick & Struggles, September 25, 2024, Heidrick.com.
+
+5 Ryan Bulkoski, Brittany Gregory, and Frédéric Groussolles, “2024 Global Data, Analytics, and Artificial Intelligence Executive Organization and Compensation Survey,” Heidrick & Struggles, October 9, 2024, heidrick.com.
+
+Related Services & Industries
+
+Chief Executive Acceleration
+
+Corporate Transformation
+
+Digital Leadership
+
+Leadership Development
+
+Organization & Culture
+
+Team Acceleration
+
+Related Content
+
+Financial Officers
+
+Finance function focus: How chief tax officers are rewriting the role of tax
+
+The modern chief tax officer is part strategist, part operator, and part talent builder—rewriting the tax function for a more complex, capital-conscious era.
+
+Leadership Development
+
+How AI is reshaping legal services: A conversation with Julien Tanguy, CEO of Lefebvre Group
+
+Julien Tanguy, CEO of a leading European provider of legal and tax services, shares how AI is driving cultural change, redefining leadership roles, and accelerating innovation through trusted data, talent, and technology.
+
+Leadership Development
+
+Building long-term resilience in consumer markets: A conversation with Aku Vikström, CEO of Orkla Foods Europe
+
+Aku Vikström, CEO of a pan-Nordic branded food supplier, shares how leaders can build long-term success and resilience in consumer markets during times of macroeconomic disruption.
+
+Leadership Development
+
+Becoming purposeful and performance-driven: A conversation with Jean-Luc Fleurial, EVP and CHRO of UCB
+
+Jean-Luc Fleurial, CHRO of a global pharma company, shares how to become a more effective CHRO and build a purposeful, performance-driven culture.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

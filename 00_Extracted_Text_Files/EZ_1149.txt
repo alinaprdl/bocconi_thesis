@@ -1,0 +1,459 @@
+Big Data, Lean Leaders: Understanding the Difference - Egon Zehnder
+
+Skip to main content
+
+Search for “”
+
+... in Consultants
+
+... in Offices
+
+... in Services
+
+... in Insights
+
+Search all results
+
+Our Services
+
+Shaping Successions
+
+CEO Successions
+
+Executive Successions
+
+Board Successions
+
+Chair Successions
+
+Committee Chair Successions
+
+Advancing Governance
+
+Board Review
+
+Board Development
+
+Board Advisory
+
+Building Advisory Boards
+
+Sustainability Board Advisory
+
+Discovering Leaders
+
+CEO Search
+
+Executive Search
+
+Board Search
+
+Advisor Search
+
+Executive Assessment
+
+Developing Leadership
+
+Individual Development
+
+Accelerated Onboarding
+
+Development Planning
+
+Coaching
+
+Team Journey
+
+Unlocking Transformations
+
+Transformational Development Programs
+
+Chair and Board Potential
+
+Executive Breakthrough
+
+Executive Discovery
+
+Transformational CHRO
+
+Voyager
+
+Customized Leadership Immersion
+
+Explorer
+
+Cultural Transformation
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Chief Executive Officers
+
+Founders
+
+Technology Officers
+
+Chief AI, Data & Analytics Officers
+
+Chief Information Officers
+
+Chief Information Security Officers
+
+Chief Product Officers
+
+Chief Technology Officers
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+Consumer
+
+Consumer Products
+
+Media & Entertainment
+
+Restaurants, Leisure and Hospitality
+
+Retail, E-commerce, Apparel and Luxury
+
+Sports
+
+Financial Services
+
+Asset Management
+
+Banking and Markets
+
+Digital Assets, Crypto, & Web 3
+
+FinTech
+
+Infrastructure
+
+Insurance
+
+Private Equity
+
+Retail Financial Services
+
+Risk Management
+
+Sovereign Wealth Funds
+
+Wealth Management
+
+Health
+
+Biopharmaceuticals
+
+Healthcare Delivery & Services
+
+Life Sciences Tools & Pharmaceutical Services
+
+Medical Devices, Diagnostics and Technology
+
+Industrial
+
+Aerospace & Defense
+
+Chemical & Process Industries
+
+Energy
+
+Machinery & Industrial Technology
+
+Mining & Metals
+
+Mobility & Automotive
+
+Public & Social Sector
+
+Arts, Culture & Sports
+
+Economic, Social & Human Development
+
+Education & Research
+
+Environment & Sustainability
+
+Interest Representation & Public Affairs
+
+Public Administration
+
+Public Finance
+
+Public Health
+
+Public Infrastructure
+
+Services
+
+Air Transport
+
+Business Services
+
+Hospitality, Travel & Leisure
+
+Professional Services
+
+Real Estate Services
+
+Transportation & Logistics
+
+Technology & AI
+
+Artificial Intelligence
+
+Communications & Connectivity
+
+Cyber Security
+
+Digital
+
+Enterprise Tech
+
+Internet of Things
+
+Semiconductors
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+Functions
+
+Industries
+
+Meet our Consultants
+
+Discover Insights
+
+Find Offices
+
+About Us
+
+English
+
+Change
+
+Functions
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Industries
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+About Us
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+English
+
+Deutsch
+
+中文
+
+日本語
+
+Technology & AIBig Data, Lean Leaders: Understanding the Difference
+
+January 2017
+
+6 mins read
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Download the PDF
+
+Big Data, Lean Leaders: Understanding the Difference
+
+In the C-suite, big data leaders must be able to show how big data generates value; how investments in big data initiatives should be targeted; and how fast the organization should move to implement them.
+
+Just as the lean revolution of the 1990s brought manufacturing companies to unprecedented levels of productivity and efficiency, big data promises to take them to the next level of performance. But getting there will require big data leaders with some highly specific skills and leadership competencies that differ from those of lean leaders.
+
+It is tempting to see big data as a dramatic extension of lean – as analytics on steroids. After all, both lean and big data apply quantitative and qualitative analysis to critical processes that encompass suppliers, operations and customers. But there are fundamental differences, too, and those differences have major implications for leadership.
+
+Big Data Generates Strategies
+
+Standing at the end of a long line of management approaches that stretch back to Frederick W. Taylor, lean of course is a manufacturing and business strategy aimed at improving efficiency. It is designed to increase profitability by reducing working capital, increasing productivity and eliminating waste – including the waste incurred by poor quality.
+
+Torrents of new data and advances in analytic techniques and technology will no doubt bring an even greater rigor to lean operations, but the overriding strategy remains the same.
+
+Big data can certainly help refine a settled strategy, but it can also be used to find new, gamechanging strategies.
+
+Outstanding chief data officers and chief data scientists can derive insights from data across and beyond the enterprise that can lead not only to more efficient operations but also to new business models, market strategies and disruptive innovation in manufacturing and product development.
+
+Big Data Begins with the Market
+
+The difference of fundamental aims for each approach – efficiency for lean, insight for big data – reflects their contrasting starting points.
+
+Lean transformation usually begins with the company’s core operations and radiates outward to encompass customer-facing activities. The principles underlying new ways of working with suppliers and on the shop floor eventually find their way to the showroom or the sales force.
+
+Optimized end-to-end processes enable the faster market response and better customer service that bring organic growth – and all at lower cost.
+
+By contrast, big data transformation in many companies typically begins with commercial customer-facing functions like marketing, sales, service and support.
+
+Drawing on rapidly evolving technology and the explosion of structured data like transactions and unstructured data from sources like social media, analysts apply breakthrough analytic techniques and deep market knowledge to optimize the marketing mix, improve the customer experience and look for strategic white space.
+
+Big Data is a Black Box
+
+Senior management in manufacturing long ago embraced lean. It needs no advocates in the C-suite, where it is usually well understood by all functional leaders and speaks for itself through the bottom line. Even those companies that aren’t entirely lean-focused apply many of its principles.
+
+Big data, still in its infancy, is far less well understood in the C-suite. In conversation, industrial leaders often tell me that they are acutely aware of big data’s emergence but that they’re unsure precisely how it might deliver immediate impact or lead their companies to compete more effectively.
+
+“You certainly can’t avoid all the buzz,” says one such leader, “and we have plenty of data across the company, but the unanswered question is how it will help us solve our business challenges.”
+
+Lean Leaders, Big Data Leaders
+
+Given these differences, what do the leadership profiles of exceptional lean and big data leaders look like?
+
+Egon Zehnder has developed a comprehensive model of leadership that encompasses ten core competencies of senior executives. Combined with that research, our recent executive search and management appraisal work suggests that outstanding lean leaders excel at three of those leadership competencies in particular: team leadership, change management and results orientation.
+
+Team leadership is essential for engaging across functions to build lean capabilities throughout the business until lean becomes part of the company’s  DNA. The ability to manage change is indispensable for transitioning the organization to new ways of working and continually improving them.
+
+Results orientation translates into the relentless drive for the bottom-line benefits that lean can yield. In addition, lean leaders typically have experience in general management, which puts a premium on the ability to oversee consistent execution day after day and year after year.
+
+Outstanding big data leaders, while they often share many leadership competencies with lean leaders, markedly excel in three strikingly different areas: market insight, customer impact and strategic orientation. They are adept at using big data to derive market insight and deep knowledge of the customer.
+
+They achieve customer impact not only by using big data to help establish strong customer relationships, but by linking big data initiatives to operations in a way that makes a difference for customers. And their strategic orientation enables them to look beyond the company’s current context, connect the dots in new ways, and find new growth opportunities.
+
+Not surprisingly, exceptional big data leaders have strong analytical and technical backgrounds, including advanced science degrees and experience honing their analytic skills in leading companies.
+
+In many cases, big data leaders applied their technical expertise in IT or engineering roles early in their careers, where they acquired broad understanding of hardware, software and applications eco-systems.They have also typically worked in consulting practices focusing on data-based strategic, commercial and operations transformation, acting as trusted advisors to  CEOs and other top leaders of a diverse set of companies.
+
+Staying Ahead of the Curve
+
+A consulting background not only provides useful strategy experience but also the ability to act as an advocate. The strategic insights that big data generates may be radically new and meet stiff resistance in organizations that rely on past experience and institutional wisdom.
+
+In the face of such resistance, big data leaders must make a persuasive case across the enterprise, prying data loose from functional silos, driving data-driven projects across those functions and linking initiatives to operations.
+
+In the C-suite, these leaders must be able to show how big data generates value; how investments in big data initiatives should be targeted; and how fast the organization should move to implement them.
+
+It’s a tall order: a leader who can apply analytical skills, improve the quality and speed of strategic and tactical decisions, and make the business case for new ways of competing and growing. The good news is that it’s still early in the game and manufacturers still have time to get it right. In fact, manufacturing is no farther behind in the race to put big data to work than most other sectors.
+
+According to a forthcoming study from  IBM, only about a quarter to a third of companies have piloted a big data initiative or put in place two or more such initiatives. In addition to manufacturing, the sectors in this range include financial services, healthcare and life sciences, technology, professional services, energy and chemicals, and insurance.
+
+The bad news is that the window of opportunity will close fast. Big data talent is in short supply and the competition for it will only grow more intense. To stay ahead of the competitive curve, industrial companies will need to adopt a sense of urgency, invest in big data leaders now and implement talent development plans to build broader analytical capabilities throughout the business.
+
+As they do so, they should keep firmly in mind what exceptional big data talent looks like: genuine leaders who are equally at ease with analytics and advocacy, systems as well as strategy, and markets as well as manufacturing. Otherwise, big data could be a big disappointment.
+
+This article was first published on  IndustryWeek  and is republished on this website with kind permission of the magazine.
+
+Big Data, Lean Leaders: Understanding the Difference
+
+Download as PDF
+
+Topics Related to this Article
+
+Big Data
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Download the PDF
+
+Written by
+
+Stay up to date with our latest insights.
+
+Subscribe now
+
+Changing language
+
+You are switching to an alternate language version of the Egon Zehnder website. The page you are currently on does not have a translated version. If you continue, you will be taken to the alternate language home page.
+
+Continue to the                 website
+
+Back to top

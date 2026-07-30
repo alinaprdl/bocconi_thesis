@@ -1,0 +1,122 @@
+The Clean Energy Talent Gap
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Perspective|August 8, 2022
+
+The Clean Energy Talent Gap
+
+War and supply chain issues have slowed world momentum for clean energy, increasing the need for more advanced climate-change leadership.
+
+The problem: Supply chain disruption in clean and renewable energy underscores the industry’s changing talent needs.
+
+Why it matters: Accelerating the transition to next generation energy depends as much on adapting talent strategies as it does on business models.
+
+The solution: Align recruiting and retention strategies with the skills, traits, and drivers needed for future success, such as adaptability, creativity, and digital acumen.
+
+A few years ago, as part of its commitment to be carbon negative—meaning removing carbon dioxide from the air instead of adding it—the company negotiated to install solar panels and new sustainable HVAC systems on any new building construction. It was a bold move that united its growth plans, as the company aimed to build dozens of new sites, in line with its environmental and social impact initiatives. But now, thanks to the disruption in the global supply chain caused by the COVID-19 pandemic and the Russia-Ukraine war, solar panel and HVAC shipments are delayed by months, and in some cases into 2023. It leaves the company’s leaders with a difficult choice to put its growth plans on hold until the equipment can be delivered or curtail its environmental ambitions and move forward.
+
+While the company in this scenario is fictitious, the situation is very real. The one-two-three punch of global supply chain disruption, geopolitical conflict, and increased interest rates to counter inflation has knocked the transition to clean energy back on its heels. Increased costs for equipment and shipping could postpone or cancel more than half of the planned solar network projects scheduled around the globe this year, according to research firm Rystad Energy. Nearly all the major wind turbine manufacturers have reported “cost inflation issues” during earnings calls this year.
+
+“The entire world is struggling right now to advance clean and renewable energy to the point in which they promised.”
+
+But it isn’t just the makers and suppliers of clean energy materials that are feeling the impact. Automakers have warned about lowering delivery and sales targets for electric vehicles, for instance. Indeed, the slowdown in the adoption of clean and renewable energy is being felt across the entire business ecosystem, from equipment manufacturers and engineering companies to commercial contractors, retailers, and end-users. “The entire world is struggling right now to advance clean and renewable energy to the point in which they promised,” says Future Energy CEO Andy Calitz, who advises organizations and governments on the global energy transition.
+
+It’s an entirely new scenario from just a few years ago. From 2010 to 2019, global renewable energy capacity quadrupled. During the last decade, investment in renewable and clean energy globally totaled $2.6 trillion. Seth Steinberg, a senior client partner in Korn Ferry’s Supply Chain Center of Expertise, says the current supply chain dislocation underscores the changing talent needs in clean and renewable energy. He points out that it takes several thousand parts to make a single wind turbine. “The depth of knowledge required along the supply chain alone is vastly different than it was 10 years ago,” he says. In fact, Steinberg says that how the industry adapts its talent strategy to the new world may be just as important, if not more so, than how it adapts its business strategy.
+
+* * * * *
+
+To understand how closely the transition to clean and renewable energy is tied to the geopolitical climate, look no further than Germany’s response to the Russia-Ukraine war. Not unlike in other countries, the combination of reduced investment in fossil fuels and Russia’s invasion of Ukraine sent prices of gas, oil, and coal soaring in Germany, prompting the country to ask citizens to curtail energy use, among other measures. At the same time, Germany, already a leader in the adoption of wind and solar energy, pushed forward its goal of moving to 100% renewable energy for electricity by a decade, to 2035. The country also pledged to diversify its energy suppliers to curb overreliance on any one source or country.
+
+Experts are skeptical that Germany can meet that goal, however. Since many of the component parts are made in China and other countries, prices for the raw materials to make wind turbines and solar panels have skyrocketed in tandem with those of oil and gas. In the long run, the permit process to build wind and solar farms takes years, and even with new legislation calling for a tripling of the number of facilities built annually, supply chain disruption may make that goal unachievable, experts say.
+
+To be sure, the pace of clean energy adoption is directly related to government policy and international relations, says Cam Fulton, a principal in the Global Industrial Practice at Korn Ferry. Pointing to the trade war between the US and China a few years ago and moves by countries like Mexico and Chile to nationalize lithium mining, Fulton says that accelerating the clean energy transition will require creative strategies as it pertains to strategic sourcing and supplier relationships. That means forming joint ventures, profit sharing, and co-owning partnerships between countries and organizations that are often and inherently skeptical of one another. “It’s no exaggeration to say that next-generation energy policies could be considered a national security issue,” says Fulton.
+
+“It’s no exaggeration to say that next-generation energy policies could be considered a national security issue.”
+
+Nowhere is that more evident than in the electric vehicle market. Production of lithium, the main component in EV batteries, is dominated by four countries: Argentina, Australia, Chile, and China. Thanks in part to some friendly government policies—namely that foreign automakers use locally produced batteries—lithium battery makers in China exert great influence over the global market. Moreover, China also ranks as the largest seller of electric vehicles, with about a 40% market share.
+
+China’s dominance in the EV market is part of the reason why the US government passed a law in 2017 to promote and support lithium production activities. Presidential Executive Order 13817, passed in December 2017, includes lithium on a list with 34 other minerals considered critical to national security.
+
+The interconnectedness between government policy and the clean and renewable energy supply chain has implications on the talent side, says Annie Liu, a supply chain and EV expert who worked at Microsoft, Tesla, and Vulcan Energy Resources before joining Ford Motor Company earlier this year. She says supply chain talent now must be as knowledgeable about government contracts and geopolitical relations as they are about managing the permit process, construction plans, buying equipment, and extracting resources from the ground. “The international nature of next generation energy production creates a need for talent with knowledge of how governments operate beyond the borders of their home country,” says Liu.
+
+* * * * *
+
+Part of the challenge with accelerating the transition to clean and renewable energy is that the recruiting process hasn’t kept pace with the industry’s maturation and growth. About a decade ago, when the industry was in its infancy, there was really no formal process for recruiting talent, says Future Energy’s Calitz. “Conferences and informal networks served as the main sources for talent,” he says. Moreover, most of the talent came from the traditional oil and gas industry.
+
+“The future workforce within the energy transition needs to be more adaptable, creative, and technology-driven.”
+
+Now, however, clean and renewable energy has evolved to the point where completely new skills are needed. The way the market functions, with contracts to buy renewable energy in agreed volumes and prices that are negotiated years in advance, requires advanced data analytics and forecasting skills. Renewable Energy Certificates (RECs), which are market-based instruments that confirm electricity was delivered by a renewable energy source, currently sell for around $8 per megawatt hour, for instance. Prior to the pandemic they were selling for less than a dollar. Not unlike trading stocks, timing when to buy and sell RECs could be the difference between saving and losing millions of dollars, says Korn Ferry’s Steinberg. “Supply chain disruption is sending the price of RECs higher,” he says.
+
+From a talent perspective, accelerating the clean and renewable energy transition requires entirely new skill sets, traits, and drivers, says Dustin Ogden, a senior client partner in the Global Industrial Practice at Korn Ferry. That’s why clean and renewable energy companies, as well as organizations across industries that are building out their environmental and social impact initiatives, are increasingly looking outside the oil and gas industry to find talent with transportable skills. Ogden also advises organizations to update their success profiles, which are tools hiring managers use to outline the competencies, traits, and drivers needed to thrive in a job, and revisit their training and development programs to make sure they are aligned with where the industry is headed. “The future workforce within the energy transition needs to be more adaptable, creative, and technology driven,” he says.
+
+For more information, contact Seth Steinberg at seth.steinberg@kornferry.com, Cameron Fulton at cameron.fulton@kornferry.com, Dustin Ogden at dustin.ogden@kornferry.com, or Stuart Melaia at stuart.melaia@kornferry.com.
+
+Our Expert
+
+Our Experts
+
+Seth M. Steinberg
+Senior Client Partner
+
+Dustin Ogden
+Senior Client Partner
+
+Stuart Melaia
+Senior Client Partner
+
+Related Articles
+
+What’s Slowing Down AI Adoption?
+Uncertainty Is No Longer a Passing State
+Why AI Could Expose Bad Bosses
+Preventative Healthcare, Better Late Than Never
+
+INSIGHTS TO YOUR INBOX
+
+Stay on top of the latest leadership news with This Week in Leadership—delivered weekly and straight to your inbox.
+
+​
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Perspectives
+
+ESG & Sustainability
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

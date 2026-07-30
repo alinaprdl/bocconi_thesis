@@ -1,0 +1,451 @@
+Can artificial intelligence replace human resource specialists? Not yet. - Egon Zehnder
+
+Skip to main content
+
+Search for “”
+
+... in Consultants
+
+... in Offices
+
+... in Services
+
+... in Insights
+
+Search all results
+
+Our Services
+
+Shaping Successions
+
+CEO Successions
+
+Executive Successions
+
+Board Successions
+
+Chair Successions
+
+Committee Chair Successions
+
+Advancing Governance
+
+Board Review
+
+Board Development
+
+Board Advisory
+
+Building Advisory Boards
+
+Sustainability Board Advisory
+
+Discovering Leaders
+
+CEO Search
+
+Executive Search
+
+Board Search
+
+Advisor Search
+
+Executive Assessment
+
+Developing Leadership
+
+Individual Development
+
+Accelerated Onboarding
+
+Development Planning
+
+Coaching
+
+Team Journey
+
+Unlocking Transformations
+
+Transformational Development Programs
+
+Chair and Board Potential
+
+Executive Breakthrough
+
+Executive Discovery
+
+Transformational CHRO
+
+Voyager
+
+Customized Leadership Immersion
+
+Explorer
+
+Cultural Transformation
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Chief Executive Officers
+
+Founders
+
+Technology Officers
+
+Chief AI, Data & Analytics Officers
+
+Chief Information Officers
+
+Chief Information Security Officers
+
+Chief Product Officers
+
+Chief Technology Officers
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+Consumer
+
+Consumer Products
+
+Media & Entertainment
+
+Restaurants, Leisure and Hospitality
+
+Retail, E-commerce, Apparel and Luxury
+
+Sports
+
+Financial Services
+
+Asset Management
+
+Banking and Markets
+
+Digital Assets, Crypto, & Web 3
+
+FinTech
+
+Infrastructure
+
+Insurance
+
+Private Equity
+
+Retail Financial Services
+
+Risk Management
+
+Sovereign Wealth Funds
+
+Wealth Management
+
+Health
+
+Biopharmaceuticals
+
+Healthcare Delivery & Services
+
+Life Sciences Tools & Pharmaceutical Services
+
+Medical Devices, Diagnostics and Technology
+
+Industrial
+
+Aerospace & Defense
+
+Chemical & Process Industries
+
+Energy
+
+Machinery & Industrial Technology
+
+Mining & Metals
+
+Mobility & Automotive
+
+Public & Social Sector
+
+Arts, Culture & Sports
+
+Economic, Social & Human Development
+
+Education & Research
+
+Environment & Sustainability
+
+Interest Representation & Public Affairs
+
+Public Administration
+
+Public Finance
+
+Public Health
+
+Public Infrastructure
+
+Services
+
+Air Transport
+
+Business Services
+
+Hospitality, Travel & Leisure
+
+Professional Services
+
+Real Estate Services
+
+Transportation & Logistics
+
+Technology & AI
+
+Artificial Intelligence
+
+Communications & Connectivity
+
+Cyber Security
+
+Digital
+
+Enterprise Tech
+
+Internet of Things
+
+Semiconductors
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+Functions
+
+Industries
+
+Meet our Consultants
+
+Discover Insights
+
+Find Offices
+
+About Us
+
+English
+
+Change
+
+Functions
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Industries
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+About Us
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+English
+
+Deutsch
+
+中文
+
+日本語
+
+Can artificial intelligence replace human resource specialists? Not yet.
+
+September 2018
+
+8 mins read
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Can an algorithm find the perfect job for you? Do 15 minutes with a machine provide more insight about your abilities than a two-day assessment center? Would you trust a computer to shape your development plan as a leader?
+
+With the rise of artificial intelligence in business, the technology has been used in more and more complex applications in recent years. And it is now starting to conquer the field of human resources – likely one of the most complex fields to be addressed by computers. This article sets out to shed some light on the different methods used, present some use cases along the talent lifecycle, and describe the opportunities and challenges for the new technology.
+
+Predicting personality – from text, language and behavior
+
+Researchers, start-ups and organizations use different kinds of data to predict personality, job fit and satisfaction, and ultimately job performance. While most approaches have in common that they compare the profile of a candidate with current job owners, the data used for this comparison can be highly diverse. The three most common data sources are:
+
+Text (e.g. Seedlink, Xing, LinkedIn): On the basis of natural language processing algorithms, standardized documents (such as CVs or application letters) or answers to questions (such as stories about failure and other work-related competencies) are analyzed and compared to current job owners in the field of application.
+
+Language (e.g. Precire): Applicants answer predefined questions on themselves, their motivation and experiences. The algorithm analyses multiple aspects of speech such as level (frequency of words, vocabulary, syntax), tonality or speed.
+
+Behavior (e.g. HireVue): Analysis of body language, gestures or eye movement can be used to predict personality. In a recent paper, scientists were able to predict some (but not all) personality traits by tracking the eye movements of subjects for 10 minutes in daily situations.
+
+While the three approaches are presented individually above, they have been combined by various start-ups to obtain better results and insights. The British/German start-up SOMA Analytics predicts the risk of depression in the working population from mobile phone utilization data including speech patterns, texting behavior, and sleep and movement data.
+
+Use cases across the whole talent lifecycle
+
+Various organizations already leverage the opportunities of the new technology described above. The applications cover the full talent lifecycle, from matching opportunities to selection, personnel development and retention:
+
+Matching: Recruiters often receive more than 100 applications for one position. They therefore spend a great deal of time screening and assessing potentially unsuitable candidates. There are two potential ways to reduce the workload of recruiters:
+
+(1) increasing the share of suitable candidates applying – start-ups such as MeetFrank, but also established platforms such as LinkedIn, use the information provided by job-seekers to match them to interesting jobs by showing them only suitable job offers – and
+
+(2) preselecting suitable candidates for organizations by automatically rating the profiles of candidates for active reachout.
+
+Diagnostic: Organizations use artificial intelligence to predict personality or core competencies as a screening mechanism for applications. For example, a large personnel service provider requires all applicants to go through a 15-minute telephone interview – with artificial intelligence that uses their answers to build a personality profile with 42 dimensions. Only candidates with a fitting profile for the respective roles are invited to real interviews.
+
+Development: Achieving better performance is the goal of the third group of applications. While a large German insurance company uses artificial intelligence to better understand which leaders are likely to drive the digital transformation on the basis of their personality, leading global management consultancies have started efforts to understand how teams need to be staffed to best fit their clients’ needs.
+
+Retention: Finally, some organizations try to predict employee behavior and well-being – the goal being to intervene early to reduce unwanted attrition due to insufficient employee satisfaction or health issues. The above-mentioned company SOMA Analytics provides individuals as well as organizations with anonymized profiles and tailored interventions to reduce the risk of stress-related problems.
+
+The examples above show that artificial intelligence could play an important role in almost all aspects of the talent lifecycle. This leads to the question of what the users of artificial intelligence see as advantages that might outweigh the critics’ objections.
+
+The opportunities: faster, objective and comprehensive
+
+Looking through the benefits of artificial intelligence in selection and development, supporters basically point out three opportunities that the methods presented offer:
+
+Consistency: Several users of software solutions such as Precire are surprised by the accuracy of the personality model. And they claim that there is significant consistency with the outcome of their other selection and evaluation methods, including multi-day assessment periods. For example, one company reports that the overlap between the assessment of the software and their models is as high as 80-90%. Moreover, it should be noted that no current selection and development methods are yet 100% perfect – researchers have proved that minor variations in job applications such as font size, gender or name had a large impact on invitation and candidates’ success rates.
+
+Speed: Many users see one major benefit of the usage of artificial intelligence in the time savings for recruiters. Given large numbers of applications, e.g. 100+ applications for one position in large multinational organizations, artificial intelligence can help by matching the right positions with right profiles to attract higher-quality applications, pre-scoring incoming applications based on the application or additional questions, or working for a first interview round as in the example of Randstad. Besides being able to manage the vast amount of incoming applications, this also frees up recruiters’ time for other activities.
+
+Objectivity: Finally, studies have shown that selection processes are highly vulnerable to various biases – from similarity bias (selecting people similar to ourselves) and halo effects (single characteristics determining the whole picture of the person) to unconscious biases (including stereotypes and discrimination, based for example on gender or appearance). Using artificial intelligence in these processes could reduce this vulnerability and replace it with a more objective, balanced perspective on the applicants by comparing their data with the contents of the database.
+
+It is important to note that currently only few supporters are actually thinking about replacing human decisions completely – most people argue that while the methods suggested can support and enhance decision-making, the final decision should remain with human decision-makers.
+
+The challenges: transparency, significance and validity
+
+More critical reviewers of the technology see three major challenges to its use, which are mostly founded on the lack of transparency, the imperfect relationship between personality and job performance, and the lack of independent validity research:
+
+Transparency: Many feel a certain unease when dealing with artificial intelligence – especially when it comes to applications concerning people. One reason for this lies in the lack of internal and external transparency. Internal transparency is about the fact that while a lot of data is fed into the algorithms, often even the programmers can’t exactly say how they arrive at their results (i.e. what data is used in what way and why). On the other hand, external transparency is about concerns over data privacy, e.g. the fear that besides the obvious applications of the data, it will be used for further applications without the clear knowledge of the applicant as to when and for what purposes the data is to be used (e.g. predicting stress vulnerability when making promotion decisions).
+
+Significance: Many of the above-mentioned companies and methods use the data to predict personality traits, including the ability to deal with stress compared to that of current job-holders. As intuition and experience suggest, while there might be similarities among (successful) job-holders in some positions, there are also vast differences. Scientific research supports this insight: Personality is not a perfect predictor of job fit, satisfaction or performance. Along with current performance and personality, the potential of candidates is of crucial importance, especially in the selection of young talents. Moreover, diversity in terms of background but also of competencies in teams is an important predictor of excellent performance – which is undermined by comparing candidates’ profiles to those of current job-holders.
+
+Validity: While the claims of supporters and start-ups are very promising, and applicants and practitioners report insightful results from the methods used, there is currently a significant lack of external, independent research to back these claims. So the results from these methods may not actually be valid for the applications concerned – leading to the risk of poor people decisions.
+
+Augmented intelligence: Better people decisions through data, not a replacement
+
+There are plenty of applications and opportunities for artificial intelligence in the talent lifecycle – as shown in the above examples. While many people still have considerable reservations about the new technology, more and more researchers, start-ups and established organizations have started to experiment with its application. This also points to the increasing importance organizations attach to talent identification, development and retention.
+
+Despite the challenges of transparency, significance and validity, artificial intelligence is likely to become more and more a part of talent lifecycle management – today, we are already seeing many organizations taking up the promises offered by the new technology. And the latest improvements indicate a great deal of potential for the future.
+
+To sum up even advocates of the potential of the new technology don’t see it as a replacement for recruiters and leadership advisors: They see potential to
+
+expand the solution space (e.g. by increasing objectivity and matching suitable candidates)
+
+improve the quality of their interaction with candidates (e.g. by providing more insight on candidates, more targeted hypotheses for testing for interviews, by pointing to – potentially hidden – aspects relevant to the job)
+
+shift time to higher-value activities (e.g. partnering with business, interaction time with high-potential candidates, development discussions)
+
+Finally, recent studies suggest that the majority of candidates and employees see the interaction with colleagues – future or present – as crucial to making the right job decisions and feeling connected to their workplace. Ultimately, then, artificial intelligence provides additional tools and methods to support leadership advisors in their work – focusing them on interaction with suitable candidates and leading to better people decisions and development.
+
+Topics Related to this Article
+
+Artificial Intelligence
+
+Human Resources
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Written by
+
+Stay up to date with our latest insights.
+
+Subscribe now
+
+Changing language
+
+You are switching to an alternate language version of the Egon Zehnder website. The page you are currently on does not have a translated version. If you continue, you will be taken to the alternate language home page.
+
+Continue to the                 website
+
+Back to top

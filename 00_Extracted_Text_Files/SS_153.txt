@@ -1,0 +1,95 @@
+Advice for Building a World-Class Trust and Safety Function
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Advice for Building a World-Class Trust and Safety Function
+
+By
+
+Katharine Ashforth Hurley,
+
+Kimberly Fullerton and
+
+Brandy Penniman
+
+October 2024
+
+| 4 min read
+
+Authors
+
+Katharine Ashforth Hurley
+
+Stamford
+
+Kimberly Fullerton
+
+San Francisco
+
+Brandy Penniman
+
+Los Angeles
+
+SectionsIn this article
+
+Trust and safety incidents pepper the headlines regularly. From consumer data breaches to stories about the distribution of disturbing images to complex questions about free speech, customer and advertiser safety has become a critical business consideration for companies that provide services for users primarily online, not just because protecting your users and partners is essential, but because it creates a critical differentiator as businesses build their brands.
+
+In recent years, companies of all sizes and stages have formalized, elevated and restructured their corporate trust and safety functions — specific teams charged with ensuring keeping customers and outside partners safe and their platforms trustworthy.
+
+Developing and evolving this function raises many questions. How do you structure your trust and safety organization to align with your business goals? Once you do, how do you think about leadership of the function in its new state? How do you support the team organizationally so that it operates most successfully? How do you scale it and evolve it over time? In this article we look at the answer to these questions, based on our work with top companies filling this increasingly important position as well as the insights from several interviews we had with top trust and safety leaders.
+
+How to structure trust and safety within an organization
+
+Essential to positioning the trust and safety function and its leader for success and impact is creating a thoughtful organizational structure that puts both the leader and the function in a position to advise and partner with other leaders to make critical decisions and act upon them with speed. Successful trust and safety functions work across the organization to instill a corporate culture that prioritizes “healthy growth” and orients business goals and metrics around user protection and safety.
+
+From an organizational background perspective, work in high-growth situations or at places with high volumes of user-generated content is a good starting point for finding trust and safety leaders.
+
+Legal, operations and product are the most common functional homes for this team, but the right one will depend on a company’s unique circumstances. Wherever the function is placed, it can successful as long as the leader has the appropriate voice and authority to drive change. That said, our interviewees warned about the potential hazards of placing trust and safety within product, a function focused on growth, as trust and safety can be sometimes be (unfairly) seen as an impediment rather than an enabler of “healthy growth.” Healthy tension between product and trust and safety leadership is essential, but is most successful when the product and the trust and safety leaders are seen as equally important voices and working alongside one another as peers and partners.
+
+Ultimately, the right home for this function depends on the organization, its size, scale and goals. What’s important is that the trust and safety leader be given the authority to initiate change quickly while also ensuring they are operating alongside other key partners and against the larger enterprise-wide goals. It is also important that, as the company scales and deals with new threats and levels of complexity, the function and how it is structured can evolve as well.
+
+The profile of a good trust and safety leader
+
+In a function that is both still relatively new and changing very fast, finding a leader who has dedicated their entire career to trust and safety in the consumer tech ecosystem is practically impossible. Our conversations with top leaders and our experience recruiting for the role highlight the importance of looking at a variety of factors, including organizational environment, functional expertise and personal traits when finding the right leader.
+
+Essential to positioning the trust and safety function for success is creating a thoughtful organizational structure that puts both the leader and the function in a position to succeed.
+
+From an organizational background perspective, work in high-growth situations or at places with high volumes of user-generated content is a good starting point. But from a higher-level perspective, experience navigating complex situations with high degrees of ambiguity, where good judgement is essential, is just as critical, and could be found in sectors such as legal, public policy and government. Some of the people we spoke with also pointed to mission-driven and activist backgrounds as places to find trust and safety leaders. Whatever the case, these leaders also need a keen and pragmatic business understanding.
+
+Certain functional backgrounds can also offer valuable experience in navigating complexity. Data science, software engineering, operations, legal and policy are also critical and beneficial components of a trust and safety team. However, our interviewees suggested being thoughtful about the tradeoffs involved with hiring leaders for this role who have a specific or narrow functional background. For example, operational or engineering leaders will be most successful when paired with strong partners in another area like legal, policy or compliance, and vice versa.
+
+A strong trust and safety leader will ensure the team is able to drive a big-picture outlook in the face of this uncertainty, creating a function strong and resilient enough to adapt quickly and overcome challenges.
+
+Whatever the functional background, these leaders need to balance complex policy comprehension with a keen and pragmatic business understanding. In a constantly evolving function like trust and safety, the right leader must be able to deal with issues that are often amorphous or ambiguous in nature — often not just high-stress but also even disturbing. As a result, when seeking a strong leader, intrinsic characteristics and leadership capabilities are often more important to capture when seeking strong candidates. Some key traits that we heard from our interviewers included empathy, adaptability, resiliency, humility, business acumen, big-picture, long-term thinking.
+
+Ultimately, you’re seeking someone who, in addition to having the right functional experience, can adapt quickly, collaborate effectively and lead with care, all while connecting trust and safety to the broader business strategy.
+
+Building the trust and safety function to succeed
+
+Keeping morale high and turnover low in trust and safety can be incredibly difficult. The leader must thoughtfully and empathetically motivate teams that have the unique and arduous challenge of standing up against the worst of the digital world; and just when one challenge is met, a new one presents itself. “We realize that there is no such thing as perfection in this craft,” one leader told us. “You are constantly working toward excellence, but the goalposts are always moving.”
+
+A strong trust and safety leader will ensure the team is able to drive a big-picture outlook in the face of this uncertainty, creating a function strong and resilient enough to adapt quickly and overcome challenges.
+
+At the same time, CEO-level support of both the leader and the function are crucial. Just as the trust and safety leader and team work to protect a company’s platform and users, consumer tech CEOs must also work to protect their trust and safety leaders and teams. Individuals who work in this function are, by nature, natural targets of harassment. A robust protection strategy for this function, in parallel with user protection, is critical.
+
+• • •
+
+A high-performing trust and safety function is increasingly important, and elevating the function can have a sizeable positive impact on the company. Keeping users and partners safe, aiding in maintaining its purpose and mission, keeping revenues healthy, ensuring satisfied advertisers and external partners, and improving the customer experience are all outputs of investing in your trust and safety capabilities. With a strong function and leadership, companies can attract and inspire employees to do great work, while ensuring that users and partners feel valued and protected.
+
+Authors
+
+Katharine Ashforth Hurley
+
+Stamford
+
+Kimberly Fullerton
+
+San Francisco
+
+Brandy Penniman
+
+Los Angeles

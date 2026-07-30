@@ -1,0 +1,136 @@
+The Robot Revolution: So Close, Yet So Far
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+The Robot Revolution: So Close, Yet Still So Far
+
+The AI movement has sparked enormous attention and money around robots. But how close, really, is this tech’s “ChatGPT moment”?
+
+‍
+
+Latest Issue:
+
+​
+
+Download a PDF
+
+​
+
+Browse the Flip Version
+
+By Peter Lauria
+
+March 25, 2026
+
+The roughly 65 miles, or 106 kilometers, from Suzhou to Shanghai consist mostly of congested highways and crowded city streets. Recently, a humanoid robot set a Guinness World Record for walking the route in four days, marking the longest journey ever for a robot without powering off. In California, another robot developed by an AI startup made headlines for its ability to make coffee, wash dishes, and clean tables. And soon, a robotic version of the beloved character Olaf from Frozen will be interacting with kids at Disney’s Paris theme parks.
+
+​
+
+THE PROBLEM Investment in robots is taking off at a time when the technology has faltered for non-factory-related robots.
+
+​
+
+WHY IT MATTERS Corporate leaders succeed when they time a new tech’s use correctly.
+
+​
+
+THE SOLUTION Track robotics successes—and failures—carefully in the coming years and be ready to invest at the right time.
+
+The idea of robots roaming the earth has been with us for more than a hundred years—the earliest modern reference to robots was in a play performed in Prague in 1921. But now, in part because of how quickly AI is advancing, many people believe we are closer to robot-human coexistence than ever before. “The excitement over AI is spilling over into robotics,” says Ken Goldberg, an engineering professor at the University of California at Berkeley and cofounder of Ambi Robotics, which makes robots for warehouse work. “There’s a feeling a ‘ChatGPT moment’ is coming for robots.”
+
+“The excitement over AI is spilling over into robotics.”
+
+Investors certainly feel that way—robotics start-ups have raised more than $12 billion in venture capital in 2025. Estimates are for the global robotics market to grow from around $90 billion now to $250 billion in the next decade, depending on how the market is defined. And that’s just getting started: Some analysts say so-called “humanoid” robots, the most compelling category, could go crazy, from an $8 billion market today to a stunning $182 billion by 2035. “The investment thesis is that robots will hit big within the next decade,” says Chris Cantarella, a senior client partner in the Global Technology Market practice at Korn Ferry.
+
+But is the hype taking over the reality? Skeptics say robots aren’t any closer to existing today than they were a century ago, at least not the humanoid kind we imagine or depict in pop culture. Costs are still exorbitantly high—from $150,000 to $500,000 for a single humanoid robot—which makes return on investment difficult. Failure rates, either in terms of battery life or in reliably performing designated tasks, happen too often to justify mass production. “There are still tons of things humanoid robots can’t do,” says Kara Ruskin, a senior client partner in the Technology practice at Korn Ferry. Part of the reason for that, she says, is that researchers and engineers don’t have nearly the same level of data to train robots as they do to build LLMs and generative AI. And then there are the obvious issues around security, sentience, ethics, and more.
+
+So what is the current state of the robotics field? Experts say every corporate leader should know what the likely trajectory of robotics is, or at least be curious about it. No one wants to be taken by another tech surprise, as many people were by the emergence of AI. But the answers are complex, and it turns out the type of robot you have in mind may make all the difference in the world.
+
+Industrial Robots
+
+Market size: $40 billion
+Biggest plus: Quick ROI
+Drawbacks: High capital
+
+At a warehouse facility in Atlanta, the trademark blue tentacles of Ambi Robotics’ parcel-sorting robots are picking up, moving, and stacking boxes in bins for shipping. Their steel arms use an overhead vision system and AI software to distinguish different sizes, shapes, and packaging materials and suction cup-like grippers to pick up and sort items. To the eye it may look fairly bland, but this a truly amazing machine, capable of moving more than 1,200 packages an hour with 99 percent accuracy around the clock, reducing operating costs by up to 40 percent, according to company data.
+
+Ambi Robotics’ robots are not unlike the ones deployed at Amazon, Walmart, and other large fulfillment centers and manufacturing and production facilities across industries around the globe. “Warehouses are where robots thrive,” says Goldberg. Part of the reason for that is that not unlike their digital brethren, AI agents—industrial robots excel at predictable, repeatable tasks. Moreover, in highly controlled environments, advances in geolocation and other sensory technology allow robots to scan shelves, map paths, and perform other functions to operate more autonomously.
+
+“There are still tons of things humanoid robots can’t do.”
+
+New warehouses and manufacturing facilities are being built and retrofitted with robots in mind. Intuitively, it makes sense—we can more easily navigate an unpredictable environment than a robot can. Financially, the more the ecosystem accommodates robots, the more robots you can use, and the more they can in turn drive growth, bring down costs, and generate returns. To be sure, industrial robots are the most mature segment of robotics, with a proven track record of generating returns. The market for industrial robots is estimated at $40 billion globally, for instance, and despite high upfront costs, it generates a return within 1 or 2 years. For the most part, however, industrial robots are fixed automated systems. “You don’t need much mobility for that kind of work,” says J. Edward Colgate, a specialist in human-robot interaction and director of the NSF Research Center on Human AugmentatioN via Dexterity (HAND) at Northwestern University.
+
+At least not yet. Money is pouring into research and development of humanoid robots for industrial purposes—to help address the increasing demand for home delivery, the worker shortage in manufacturing, and the inherent safety hazards that come with factory work. Amazon is testing pairing human drivers with robots to deliver more packages simultaneously: Picture a human going door-to-door on one side of the street and a robot doing the same on the other. And from there, who knows. Other firms are experimenting with having humanoid robots unload trucks and perform other factory functions alongside humans.
+
+Ultimately, robots designed to work safely alongside humans—so-called “cobots”—may be the best answer here, and are already the fastest-growing category in industrial robotics, projected to surpass $12 billion by 2030. Indeed, analysts estimate between 20 percent and 30 percent of logistics roles will feature some form of human-robot collaboration by then. “More people will be working shoulder-to-shoulder with cobots than humanoids,” says Gary McMurray, deputy director of the Institute for Robotics and Intelligent Machines at Georgia Tech.
+
+Service Robots
+
+Market size: $40 billion
+Biggest plus: Extensive applications and use cases
+Drawback: Biggest threat to human jobs
+
+The aerial view of Truist Park in Atlanta, which hosted the 2025 Major League Baseball All-Star Game, was breathtaking. The logo, an intricate design incorporating a dark blue and gold star, sponsor emblems, architectural elements of the field, and scripted red and white lettering, popped off the TV screen against the backdrop of vibrant green grass, rich brown dirt, and stark-white baselines and bases. But it wasn’t a crew of groundskeepers that painted the logo. It was a battery of Turf Tank robots.
+
+Founded in 2018, Turf Tank currently has more than 5,000 microwave oven-sized autonomous robots painting athletic fields around the globe. Controlled by a tablet, the robot can paint a football field in about three hours—whereas humans, three to four of them, would need a full day to do the job. Though the company counts major universities and professional football and soccer teams among its clients, the All-Star Game was a coming out party, so to speak. “It puts us one step closer on the adoption curve to being more mainstream,” says Kristian Hald, CEO of the Denmark-based company.
+
+The same can be said of specialized robots writ large. If industrial robots are the most mature segment in the field, specialized robots represent the fastest growing. The International Federation of Robotics projects the segment to grow by 20 percent or more annually through the rest of the decade, and some analysts estimate the market size will reach in excess of $100 billion by then. Little wonder, when you start to list all of the possible uses just for painting (like parking lot lines!). And already, they are used to monitor fields by farmers and for surveillance and security by law enforcement. Hospitals use them for patient-room delivery, and food-delivery services to send them to hungry kids in dorm rooms across college campuses. They can be found roaming the aisles of supermarkets, scanning inventory and alerting managers to hazards, and late at night vacuuming corporate offices.
+
+Specialized robots are also taking over dangerous tasks, like cleaning wind turbines, and have the potential to deal with fields that are facing massive labor challenges, like healthcare. “We have to start looking at robots as part of the solution to the macro issues of an aging population, shortage of workers, and soaring costs,” says Greg Button, president of global healthcare services for Korn Ferry. And finally, most specialized robots so far are relatively inexpensive and easy to deploy. A basic plan at Turf Tank, which leases its robots through a subscription system, runs about $6,000 per year, but the company says clients can save up to 40 percent by using them.
+
+But despite their appeal, service robots do face several ethical and social issues that could slow their adoption. More than any other category, they would displace people holding jobs. More service robots also mean less human interaction, which can impact business (ever get caught in a chatbot spiral of misery?). And some experts worry they will erode the interpersonal skills customers or patients need. Or as Button says of robot nurses, “Different people need different types of care.”
+
+Household Robots
+
+Market size: $8 billion
+Biggest plus: Can learn skills fast with AI’s help
+Drawback: Hand motion—need extensive training
+
+Back in the early 1500s, Leonardo da Vinci produced some of the earliest and most intricate renderings of the human hand. The works, equal parts art and science, attempted to understand how the muscles, tendons, and bones overlapped and interacted with each other to produce the unique movements of the hand and fingers. More than 500 years later, robotics researchers are still trying to figure this out. Indeed, perfecting the functionality and dexterousness of the human hand is the holy grail for humanoid robots, because it will allow them to tackle everyday chores. “Replicating the human hand in robots is complicated on many levels,” says Colgate, whose primary research attempts to do just that.
+
+Robots, of course, are already in homes doing chores. Everyone probably has at least one friend who uses a Roomba or other AI-driven device for vacuuming. But when it comes to more complex chores requiring hand manipulation, such as folding clothes or cooking, robots are still extremely weak. They can do those things, just not reliably or repeatedly. Or as Goldberg puts it, “A humanoid robot can serve you espresso, but there are other better and cheaper ways to do that.”
+
+One of the reasons humanoid robots for household work have failed to take off is that training them is incredibly difficult. Researchers have been experimenting with things like digital exoskeletons and gloves equipped with sensors to record bodily movements, but the challenge is that each different task requires hundreds if not thousands of repetitions to create a large enough dataset for a humanoid robot to learn from. Another obstacle to the adoption of humanoid robots in the home is the simple act of walking. Keeping them upright is a challenge because of weight, battery life, and unpredictable environments, to name a few issues.
+
+Still, advances are occurring one after another, giving researchers, investors, and business leaders hope that a breakthrough for household humanoid robots is on the horizon. Case in point: 21 humanoid robots running alongside humans completed a half-marathon in China, underscoring their integration into the physical world. The belief is that AI will help create bigger and better datasets, especially since researchers won’t need coding expertise, so that humanoid robots can learn and adapt even faster. “The goal isn’t for a humanoid robot to learn how to load one particular washing machine in one particular setting,” says McMurray. “It’s for it to learn how to do the laundry in any washing machine in any setting.”
+
+Image credits: Gugurat/Getty Images; Lucas Films , Warner Brothers,; Pixar; Andriy Onufriyenko/Getty Images
+
+Related Articles
+
+View All Briefings Issue 73 Articles
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Briefings Magazine
+
+March 25, 2026
+Insight Articles

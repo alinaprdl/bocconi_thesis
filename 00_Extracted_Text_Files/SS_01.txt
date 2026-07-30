@@ -1,0 +1,239 @@
+Winning the workflow race in finance
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Winning the workflow race in finance
+
+Why workflow ownership, execution and leadership adaptability are reshaping competitive advantage and raising the bar for succession and leadership assessment in financial services
+
+By
+
+Michael Barrington-Hibbert,
+
+Ayo Afolabi and
+
+Olga Romanova
+
+June 2026
+
+| 7 min read
+
+Authors
+
+Michael Barrington-Hibbert
+
+London
+
+Ayo Afolabi
+
+London
+
+Olga Romanova
+
+New York
+
+SectionsIn this article
+
+Key insights
+
+Competitive advantage in financial services is shifting from products to workflows. Firms that become embedded in clients’ day-to-day processes are harder to replace and better positioned to create long-term value.
+
+Many incumbents are investing in AI and transformation, but slower decision-making, fragmented ownership and organisational complexity often prevent them from moving fast enough.
+
+Success increasingly requires leaders who can work across functions, simplify complexity, drive adoption and sustain transformation, rather than relying solely on traditional expertise or legacy credentials.
+
+For senior leaders in financial services, the competitive battleground is moving from products to workflows. Of course, traditional strengths such as differentiated portfolios, balance sheet scale and longstanding relationships still loom large, but they are no longer enough on their own.
+
+Firms are now increasingly competing to take ownership of how financial activity actually happens: the tailored sequence of tasks, decisions and approvals that shape how clients trade, invest, service assets and move capital. This is because when a firm becomes embedded in day-to-day workflow activity, it becomes much harder to replace.
+
+This new reality is changing what growth looks like, where value resides and what leaders need to do to stay ahead. The challenge today is no longer to simply offer the best product, it is to shape the operating environment around it and to execute fast enough to win market share across what has fast become a fiercely competitive terrain. But how can this vision become reality? And what does this mean for the leaders overseeing this fast-evolving financial ecosystem?
+
+Download
+
+Download
+
+Why new winners are built around workflow
+
+Competitive advantage is shifting from products to workflows. Financial services firms that embed themselves in clients’ day-to-day processes become harder to replace, creating stickier relationships and more durable value.
+
+Founder-led and workflow-focused firms are gaining ground because they can move faster, simplify decisions and integrate technology.
+
+EV/Revenue multiples by business model
+
+Median revenue multiples across six fintech and traditional banking categories, 2025–2026
+
+Sources: FE International (April 2026); Windsor Drake (February 2026); Finro Financial Consulting; ibinterviewquestions.com fintech valuation guide. Figures are median or mid-range estimates.
+
+Picture today’s financial services landscape. What should come into view is an interconnected set of networks in perpetual motion, one where banks, wealth platforms, servicing ecosystems, custody providers, infrastructure firms and software advisers are constantly jostling for position.
+
+Historically, larger-scale incumbents could rely on their liquidity, entrenched relationships and sheer scale to safeguard their dominance. But other aspects such as execution, platform quality, interoperability and organisational adaptability are now coming to the fore. Helping fuel this shift is the rise of flatter, faster, founder-led workflow specialists that can identify friction, quickly redesign processes and embed themselves in client activity before larger institutions can respond.
+
+Many incumbents are still constrained by governance complexity, fragmented ownership and competing priorities. These newer entrants, by contrast, often combine product, technology and commercial ownership more tightly, which allows them to enjoy faster decision-making, shorter feedback loops and clearer accountability.
+
+S&P 1500 CEO transitions, 2025
+
+Annual transition count alongside average tenure and incoming class composition
+
+168
+
+New S&P 1500 CEOs named in 2025 — the most in any year since 2010
+
+8.5 yrs
+
+average ceo tenure
+CEO tenure is down from a 10.3-year peak in 2021 —
+lowest since 2019
+
+40%
+
+departed within 5 years
+Share of 2025 CEO exits that occurred within the first five years of tenure.
+
+84%
+
+first-time ceos
+Share of 2025 appointees in their first enterprise CEO role, reversing the recent trend toward experienced hires
+
+Source: Spencer Stuart, 2025 S&P 1500 CEO Transitions: Behind the CEO Moment (February 2026)
+
+This is important because value increasingly stems from being embedded in the way that clients work and operate. Once a platform becomes part of an institution’s daily processes, switching becomes more difficult because usage grows, data accumulates, service levels improve and the relationship inevitably becomes deeper.
+
+Leadership effectiveness is becoming less about individual expertise and more about influence, coordination and the ability to turn complexity into forward progress.
+
+Platforms such as Bloomberg, Tradeweb, BlackRock Aladdin and MarketAxess showcase how workflow tools can become mission-critical operating environments. Over time, familiarity, integration and user behaviour reinforce one another, making those platforms harder to displace and extending advantage well beyond the underlying product itself.
+
+As Andy Goss, former head of financing at Capula Investment Management LLP, put it: “The firms creating the most value today are those embedded deepest within the workflow itself. Once a platform becomes part of how an institution operates day-to-day, replacing it becomes materially harder.”
+
+A look at the numbers reinforces this point. Within financial services, platform and blockchain infrastructure businesses are now trading at median EV/revenue multiples of approximately 17.3x, compared to 1.8x for traditional banks.  The valuation gap follows the embeddedness. Workflow-embedded platforms sustain higher net revenue retention and recurring engagement than firms whose revenues depend on transactional throughput or balance sheet deployment. Investors are paying for that durability, and the harder a platform is to replace, the more its revenue base behaves like an annuity.
+
+McKinsey’s 2025 global survey found that 88% of organisations use AI in at least one business function, yet nearly two-thirds have not begun scaling it across the enterprise. The gap between pilot and scale is fundamentally an execution problem, with the firms that succeed at scaling tending to weld AI into live workflows and accountability structures.
+
+For leaders, execution is now the real differentiator
+
+Execution, not investment, is the real bottleneck. Many firms are funding AI and transformation, but weak delivery and poor follow-through leads to weaker progress.
+
+Diffuse ownership, unclear priorities and slow decisions can create drag, allowing workflow opportunities and client behaviour to move away from larger incumbents.
+
+One of the defining tensions in institutional finance is that capability no longer guarantees adoption. Many firms are investing heavily in AI, workflow redesign, platform modernisation and digital transformation yet progress is by no means guaranteed. In many cases, the problem is not the technology, it is the execution.
+
+We have found that many institutions are investing in transformation while structurally making it harder to achieve. As one senior market participant put it, clients ask for a red car with four wheels and 12 months later receive a blue car with three. By then, the workflow opportunity has usually moved on.
+
+This is especially acute in large institutions where ownership is more dispersed, priorities not always clear, and decision-making cycles are longer. The result is slower delivery, weaker alignment and organisational drag. For incumbents, the greatest risk may not be disruption itself, but failing to adapt before client behaviour and workflow economics migrate elsewhere.
+
+Financial services CEO transitions, 2025
+
+Transition volume, outgoing tenure, and incoming class characteristics for financial services
+
+31
+
+CEO transitions in 2025
+
++15%
+
+vs. 2024
+
+8%
+
+sector turnover rate
+
+Outgoing CEOs
+
+10.3
+
+Average tenure (years) at departure, tied for longest of any sector.
+
+18%
+
+Share of departing CEOs in their 70s, the highest of any sector.
+
+Incoming CEOs
+
+90%
+
+First-time enterprise CEOs, tied for highest of any sector.
+
+77%
+
+Promoted from inside the company, the highest of any sector.
+
+52.4
+
+Average age of incoming CEOs, the youngest of any sector.
+
+Sources: Spencer Stuart, 2025 S&P 1500 CEO Transitions: Behind the CEO Moment (February 2026). Comparisons against five S&P 1500 industry buckets.
+
+Old coverage models, new leadership demands
+
+Financial institutions need leaders who can work across functions, manage complexity and drive change, not just operate effectively within traditional silos.
+
+The rise in first-time and internally promoted financial services CEOs reflects growing demand for adaptable leaders who can align organisations and deliver transformation from within.
+
+Many financial institutions were built around product-led distribution, siloed ownership and vertically aligned operating models. But today’s clients now expect joined-up workflow solutions, coordinated servicing and cross-functional support. This is particularly pertinent for incumbent organisations which are facing a “both-and” challenge: simultaneously driving efficiency out of the core to satisfy near-term investor expectations, whilst also investing to transform for the future — which further complicates the leadership profiles required.
+
+Leadership teams now need to work more horizontally across product, technology and commercial functions, while also managing AI adoption, workforce redesign, regulatory complexity, platform investment and rising investor expectations. This is clearly far from straightforward and needs a broad cultural change, as well as a willingness amongst leaders to uproot past approaches and adopt new methods.
+
+For some organisations, these challenges are exposing a gap in hiring models. Many organisations continue to appoint leaders using historical frameworks built around stability, hierarchy, operational predictability and governance control whilst simultaneously operating in environments defined by ambiguity, rapid iteration and continuous transformation.
+
+Hiring a transformational operator into a legacy structure does not, by itself, create transformation. Some leaders move with pace but are not able to bring the organisation along. Moving to a leadership assessment approach that focuses on collaboration across functions, coalition-building, communication cadence and organisational adaptability — rather than isolated technical excellence alone — can help bridge that gap.
+
+For boards, investors and leadership advisers, the ability to identify and develop leaders who can work across functions, cut through complexity and sustain execution is now a strategic imperative.
+
+In this environment, leadership effectiveness is becoming less about individual expertise and more about influence, coordination and the ability to turn complexity into forward progress.
+
+That pressure is also visible at the top.
+
+As this chart demonstrates, Spencer Stuart’s 2025 S&P 1500 CEO Transitions analysis  found that 90% of incoming financial services CEOs were first-time enterprise CEOs and 77% were promoted internally, at an average age of just over 52. Boards in the sector are reaching past traditional profiles, selecting first-time and internally-promoted leaders at higher rates than any other sector. The pattern reflects growing demand for leaders who can adapt, align organisations and drive change from within.
+
+Adaptability will define the next leadership era
+
+Firms gaining ground are those that simplify workflows, clarify ownership and move faster, making cross-functional coordination and execution as important as traditional expertise.
+
+With shorter tenures and rising pressure for transformation, boards are increasingly selecting leaders who can develop operating models, sustain execution and drive organisational adaptability.
+
+In the past, an organisation’s sheer scale and heft could compensate for organisational inefficiency. Today, the institutions gaining ground are the ones simplifying workflows, clarifying ownership structures, integrating servicing and moving faster than peers. Systems thinking, cross-functional coordination, execution resilience and adaptability now matter at least as much as product expertise or relationship strength. This selection shift is taking place against a backdrop of accelerating turnover at the top.
+
+Spencer Stuart’s 2025 CEO transition analysis report found that 168 new CEOs were appointed in 2025, the highest number since 2010, while average CEO tenure fell to 8.5 years and nearly 40% of CEOs exited within their first five years. Turnover at that level reflects mixed pressures, including investor activism, generational handover and impatience with the pace of transformation. The combined picture is one in which the pace of expected change is outrunning the pace at which leadership architectures can absorb it.
+
+Boards are looking beyond leaders bringing traditional playbooks and capable of preserving what worked in the past. Increasingly, they are searching for those capable of evolving operating models, integrating platforms, accelerating adoption, sustaining execution under pressure and managing organisational transformation fatigue. The next generation of institutional leaders will increasingly be defined not by stability preservation alone, but by their ability to drive scalable organisational adaptability.
+
+The market has already moved
+
+Firms are winning by embedding themselves in how clients work every day, making adaptability and workflow relevance more valuable than size.
+
+Boards and investors should prioritise adaptability, influence and execution capability, because success increasingly depends on how quickly leaders can mobilise the organisation.
+
+Most institutions can see where the market is heading but far fewer are structurally configured to move at the required pace. The firms pulling ahead are those that have disciplined execution, leadership cohesion, workflow alignment and simplified operating structures. This is no longer simply a question of technology, product capability or scale, it is a question of organisational adaptability.
+
+Workflow ownership is reshaping how institutions organise, lead, allocate capital and compete. The firms that define the next era of financial services will not necessarily be those with the largest balance sheets, the broadest product suites or the deepest legacy relationships. Increasingly, they will be those that can adapt fastest, execute most effectively and align their organisations around the workflows that matter most to clients.
+
+For boards, investors and leadership advisers, it is clear that the next generation of leadership assessment must place greater emphasis on adaptability, influence, organisational navigation and execution capability. In other words, the differentiator is no longer strategy, it is the ability to get there first.
+
+Checklist: five recommendations for leaders
+
+Prioritise ownership of the workflows that matter most to clients, not just the products you sell.
+
+Identify organisational friction and redesign processes around speed, simplicity and ease of use.
+
+Treat execution as a source of competitive advantage, with clear accountability, faster decisions and tighter follow-through.
+
+Use AI to improve live workflows and operating performance, rather than treating it as a standalone innovation programme.
+
+Assess leaders for adaptability, influence and coalition-building, not only technical expertise or legacy credentials.
+
+Authors
+
+Michael Barrington-Hibbert
+
+London
+
+Ayo Afolabi
+
+London
+
+Olga Romanova
+
+New York

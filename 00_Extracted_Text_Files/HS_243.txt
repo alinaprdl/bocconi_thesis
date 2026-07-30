@@ -1,0 +1,218 @@
+The emerging role of the chief product officer in Europe | Insights | Heidrick & Struggles
+
+Identified Country:
+
+The emerging role of the chief product officer in Europe
+Explore this page The many paths to the CPO positionDefining the CPO roleThe road aheadAbout the authorsRelated Content
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Digital Leadership The emerging role of the chief product officer in Europe
+
+The CPO role is gaining traction in the tech and fintech industries. What should companies consider when appointing one?
+
+Sam Burman ,
+Guy Shaul
+
+In our extensive work with technology and financial technology (fintech) companies, we’ve seen more and more companies appoint chief product officers (CPOs). To understand more about this evolving role, we recently examined how the CPO role is structured in 77 of Europe’s most prominent and valuable tech and fintech companies. We compared CPOs in the two sectors in areas such as skill sets, responsibilities, and industry experience and supplemented the research with insights from a number of in-depth interviews with European CPOs.
+
+With many successful companies across both industries leveraging product as a key comparative advantage, the focus on the role is only increasing. That means that an increasing number of companies must contemplate when the time is right to put a CPO in place—and how to define the role for their organizations. Our report suggests a few crucial considerations for leaders for both shaping the role and attracting the right persons to it.
+
+The many paths to the CPO position
+
+Distinctive, laser-sharp-focused value propositions lie at the heart of start-ups and naturally shape CPO roles in the fintech sector. Fintechs look to transform the customer experience through superior offerings, enabled by a cost base that’s a fraction of that incurred by traditional companies. Success depends on exceptional capabilities in product design and commercialization, underpinned by a strong understanding of the cost architecture.
+
+It’s not surprising, then, that fintech CEOs or founders typically take a very hands-on approach to product in the early stages of their companies. CPOs are usually hired only when the business begins to scale and founders need to focus on operational challenges and spend more time with investors. This, combined with the relative youth of the sector, means that fintech CPOs haven’t been around for very long and are still very much defining their roles.
+
+There are clear advantages to having a hybrid role, as it establishes at the most senior level someone who understands both product and technology. There are a number of examples where this type of role has been leveraged effectively in the tech sector: British online food order and delivery service Just Eat and the train-booking service Trainline, for example, have combined the CPO and chief technology officer (CTO) roles into one chief product and technology officer (CPTO) position.1 Equally, there are challenges in balancing these two rather different functions, and a large number of companies are opting for two different roles.
+
+Fintechs, for their part, are well aware of the critical importance of the technology function for financial services (FS) businesses. The sensitivity of financial data demands that technical operations be able to withstand regulatory scrutiny, and the standards expected of FS platforms make the credibility of financial-transactions technology paramount. But the very complexity of these factors can argue for the CTO to focus exclusively on technology, which may be an additional reason most fintechs have a separate CPO.
+
+That said, regulation also plays a role in shaping the role of fintech CPOs. Products and services need to excite customers and be commercially viable yet meet the often onerous and evolving compliance requirements in areas such as financial crime and customer protection. It’s a complex mandate that can make commercial awareness more important than technical prowess, depending on the strength of regulatory oversight and its implications for the product. And, as regulation lags behind the rapidly emerging fintech sector, it gives companies more space to innovate and go to market faster, and even be active participants in shaping policy through regulatory sandboxes, where they have access to regulators and consumers to test new innovations. On the downside, the relative lack of regulatory oversight compared with that of traditional FS firms creates a wider spectrum of risks, especially related to data protection and privacy, which can have a disastrous impact on the consumer trust that fintechs depend on as the business scales—a point that strengthens the argument for a CTO who is completely focused on those areas.
+
+Such considerations will certainly continue to preoccupy many fintechs as they step up collaboration with traditional players or apply for banking licenses. A case in point is the peer-to-peer lending sector, for which the United Kingdom’s Financial Conduct Authority introduced new rules and standards in 2019, following some high-profile failures.2
+
+New propositions, new talent
+
+The differences between tech and fintech CPOs are also due in no small part to talent supply. Cutting-edge technology skills in financial services are hard to come by, as all sectors now compete for the same people, and the talent pool hasn’t caught up with demand.
+
+However, as fintechs seek creative ways to challenge incumbents, they are looking beyond financial services to find people who have broad exposure to the tech sector and can spur product innovation. Fifty-three percent of the fintech CPOs we surveyed were recruited from outside the FS sector, and 62% of those came from technology and business services.
+
+Defining the CPO role
+
+Given the variations in CPO roles in just these two sectors, company leaders in any sector who are considering adding a CPO have no standard models to follow. Lacking a clear definition of their roles, there is a high chance that new CPOs will be dissatisfied and ineffective, leading to higher turnover—which our study suggests may already exist in fintech, given the shorter tenures of fintech CPOs compared with their tech counterparts.
+
+In our experience, product leaders fall into five broad archetypes, each exhibiting a different combination of technological and commercial acumen and each delivering value in a different way:
+
+At the same time, each role, company, and management team is unique. And, particularly among newer organizations, the beliefs and personalities of founding members can have an outsized impact on the type of CPO that’s needed. Such influence is not necessarily specific to this role, as one of our similar studies on fintech COOs found (see “Fintech COOs: Redefining the role for a new industry”).
+
+Each company needs to determine which of these skill sets are most important given its relative maturity and specific needs; many will want to prioritize two or three of these areas. The right blend of archetypes depends on business priorities, team capabilities, and where the organization is in its development life cycle.
+
+All that said, however, there are certain characteristics that great product leaders have in common, in our experience. One is communication skills: the ability to coalesce the entire organization around a customer-centric purpose, vision, and mission. Another is a mindset that’s both strategic and tactical: the ability to align structures, people, and processes to business objectives, with a plan for hitting targets, while still fostering bottom-up input. A third key capability is developing an empowering product culture: the product remit is simply too enormous for micromanagement, particularly as an organization grows.
+
+Leaders can systematically assess how to shape their company’s CPO role by considering a few core questions:
+
+Bringing all major stakeholders into the discussion of the role will provide valuable perspectives and help to get buy-in where little expertise may exist. Fintech boards, for example, don’t tend to have a deep understanding of product, and operational expertise usually comes from CEOs, CFOs, and general managers (see “Closing the gaps in fintech boards”).
+
+Building a winning team
+
+Given how involved with product a founder or CEO typically is, and how vital collaboration is to new-product delivery, strong alignment on values and vision may well be the most important consideration for a tech firm’s choice of a specific CPO. The ability for the CPO and CEO to see eye to eye on matters of execution is also key, especially if they share responsibilities. These can present real challenges: founders have worked hard to bring their businesses through the first rounds of funding, and it can be tough for them to step back and empower other leaders.
+
+No less important is how CPOs will interact with their peers, particularly when the company has a separate CTO role. Finding the right balance between a customer-centric product mindset and an execution-focused technical mindset can be tricky, and the goal for each company, throughout recruitment and onboarding, should be to make sure that the people in both roles will work together as effectively as possible. An effective way to achieve that balance is for the CPO to focus on the “why,” and the CTO on the “how.” When Just Eat merged the two functions into one role, the primary consideration was how to clearly map roles and responsibilities to avoid potential friction. There are certainly advantages to a hybrid role, as long as there is a true constructive tension between product and technology heads, with each feeling able to challenge the other and ultimately find the best solution.
+
+Ensuring that the CPO’s style of execution matches the culture of the organization more generally is another key point. The British online money-transfer service TransferWise considers this so important that senior product hires are required to spend their first six months working at the product manager level in order to understand how things get done in the organization.
+
+Attracting the right CPO
+
+Identifying the ideal CPO profile is just the start. Attracting the right person to fill the role is an additional significant challenge for most companies: CPOs are a hot commodity in Europe, where the demand outstrips the supply.
+
+Many companies promote CPOs from within. Internal promotions are relatively common, which may be one reason why about half of the CPOs in our study have never previously held the position. Promoting from within means that the CPO knows how things work and can hit the ground running in many respects, even if there are competency gaps.
+
+Companies that broaden their search, however, stand to benefit particularly from access to the greater diversity and expertise that a wider pool of talent offers. European tech companies, for example, are sorely challenged to find senior product executives, and yet 66% of tech CPOs in our study were recruited from just a few sectors, all male dominated, such as technology, gaming, and financial services. Staying within the confines of a more technical talent pool—where women are underrepresented—rather than also including a more commercial one may also be behind why we found that just 7.5% of tech firms’ CPOs are female, compared with 20% women CPOs at their fintech counterparts. This is particularly important when it comes to designing a customer experience that appeals to women.
+
+Being able to prioritize requirements for the role and knowing when to compromise are important, too. For instance, a candidate’s lack of leadership experience in the product function isn’t necessarily a drawback, as indicated by the relatively high proportion of CPOs our study found who have never been in the role before. Being able to plug any resulting competency gaps is important and can be done through mentoring, training, or having complementary strengths on the senior team.
+
+Differentiating from other companies seeking a CPO is also vital, especially in a market crowded with growth companies that candidates may know little about. The company’s culture plays a big part in this differentiation, as does a track record of product investment and clear messaging in the company about the importance of product, with compensation that reflects that. And, given that many CPO positions are newly created, candidates will be cautious and want to know what the role entails and how empowering the founder/existing management will be in reality, so again, the clarity of the role description is crucial.
+
+The road ahead
+
+Defining the CPO role isn’t a one-off process; building on the lessons learned, the role needs to evolve along with the organization and the maturity of the product function. At different moments in time, one company might need, for example, a strategic visionary, a customer-experience guru, or a commercial champion. As the role gains traction and becomes more common in both fintechs and tech companies in Europe, it’s unlikely that there will ever be a single model for the role. As companies grow and change focus, leaders will benefit from regularly assessing the need and scope of the role and making sure its focus on customer experience—the only path to enduring success—is relentless. And importantly, they need to build the next generation of product leaders who can step into the role once organizations need them.
+
+About the authors
+
+Sam Burman (sburman@heidrick.com) is a partner in Heidrick & Struggles’ London office; he leads the Digital Practice in Europe and Africa and is a member of the Global Technology & Services and Technology Officers practices; Artificial Intelligence, Data, and Analytics Specialty Practice; and Disruptive Innovators Team.
+
+Guy Shaul (gshaul@heidrick.com) is a principal in the London office and a member of the Financial Services Practice and the Cybersecurity Specialty Practice.
+
+Acknowledgments
+
+The authors wish to thank the executives who shared their insights: Didier Baclin, Chief Product Officer, Zopa, United Kingdom; Fernando Fanton, Chief Product and Technology Officer, Just Eat; Nilan Peiris, Vice President, Growth, TransferWise; and Julian Sawyer, Managing Director, Gemini, Europe. Their views are personal and do not necessarily represent the views of the companies they are affiliated with.
+
+References
+
+1 This is true for Trainline, with the exception of a short moment in time when it created a separate product-focused role to support its initial public offering. The company has since reverted to the hybrid position.
+
+2 Financial Conduct Authority, “Loan-based (‘peer-to-peer’) and investment-based crowdfunding platforms: Feedback to CP18/20 and final rules” policy statement, June 2019.
+
+Related Services & Industries
+
+AI & Technology Officers
+
+Digital Leadership
+
+Financial Services
+
+Leadership Development
+
+Technology
+
+Related Content
+
+Leadership Development
+
+AI focus: Leveraging your culture to accelerate GenAI enablement
+
+Realizing the value of your AI investments relies more on your culture than on the technology itself. Our work and interviews with five executives highlight how companies are engaging their leaders to speed GenAI progress.
+
+FinTech
+
+Stablecoins and the future of finance: A conversation with Marieke Flament, co-author of Euro Stable Watch, board member and advisor
+
+Marieke Flament explores how stablecoins are reshaping global finance and what today’s leaders need to thrive in a decentralized financial system.
+
+Marketing, Strategy & Communications
+
+AI leadership in communications: A conversation with Corey duBrowa, Global CEO of Burson
+
+Corey duBrowa shares practical guidance for corporate communications leaders on harnessing AI, staying ahead of emerging trends, and advising CEOs and boards on the right questions to ask.
+
+Digital Leadership
+
+AI and leadership: How finance, HR, and technology leaders are collaborating to make the most of AI across the enterprise
+
+When leaders of these key functions work together effectively, their companies are more able to benefit from implementing AI. Focusing on three areas will help keep progress going.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

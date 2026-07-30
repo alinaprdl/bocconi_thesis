@@ -1,0 +1,834 @@
+Building a Best-in-class Data Function | Russell Reynolds Associates
+
+Search
+
+Search
+
+Menu
+
+Menu Close
+
+Capabilities
+
+Expertise
+
+Insights
+
+About
+
+Contact Us
+
+en
+
+Login
+
+Back
+
+Search
+
+Succession
+
+Performance
+
+Accelerators
+
+Transformation
+
+Board
+
+Executive Search
+
+Our executive search consultants help you recruit great CEOs, CxOs, and board members in as little as 14 weeks.
+
+Back
+
+Industries
+
+Functions
+
+Organizations
+
+Board & CEO Advisory
+
+Is your board ready for what is next? We help boards and CEOs face the unprecedented challenges that shape our world—from disruptive technology to shifting demographics to pressure from investors and regulators.
+
+Back
+
+Leadership Topics and Trends
+
+Leadership Labs
+
+Flagship Research
+
+Data and Indices
+
+RRA Books
+
+Events and Webcasts
+
+Insights Library
+
+Global CEO Turnover Index
+
+We share the latest CEO turnover data across listed companies globally. Each quarter, you’ll find the proportion of CEO departures and appointments globally, as well as trends on CEO appointments by gender, tenure, and whether CEOs are internal or external hires.
+
+Back
+
+People
+
+Who We Are
+
+Careers
+
+Newsroom
+
+Consultant Directory
+
+Meet the people behind Russell Reynolds Associates, building proactive relationships around the world and around the corner.
+
+Back
+
+Get In Touch
+
+Advance Your Career
+
+Join the Conversation
+
+Find a Local Office
+
+Request for Consultation
+
+Complete the contact form and we will get back to you shortly. We look forward to connecting with you.
+
+Back
+
+Search Overview
+
+Board Search
+
+CEO Search
+
+Executive Search
+
+Back
+
+Succession Overview
+
+Board Succession
+
+CEO Succession
+
+C-suite Succession
+
+Back
+
+Performance Overview
+
+Assessment & Benchmarking
+
+Executive Development
+
+Executive Transition
+
+Team Performance
+
+Back
+
+Accelerators Overview
+
+Executive Mentoring
+
+RRA Artemis
+
+Back
+
+Transformation Overview
+
+AI and Tech
+
+Inclusion and Culture
+
+Strategy Decode and Activation
+
+Sustainability
+
+Back
+
+Board Overview
+
+Board Composition
+
+Board Effectiveness
+
+Back
+
+Industries Overview
+
+Business & Professional Services
+
+Consumer
+
+Education
+
+Financial Services
+
+Healthcare
+
+Industrial & Natural Resources
+
+Private Capital
+
+Technology
+
+Back
+
+Functions Overview
+
+Boards
+
+CEOs
+
+Corporate Affairs & Communications
+
+Customer Activation & Growth
+
+Finance
+
+Human Resources
+
+Legal, Risk & Compliance
+
+Operations & Supply Chain
+
+Sustainability
+
+Technology, Data & Digital
+
+Back
+
+Organizations Overview
+
+Family Enterprise
+
+Growth Tech
+
+Private Capital
+
+Social Impact
+
+Back
+
+Leadership Topics and Trends Overview
+
+AI and Leadership
+
+Board Leadership
+
+Family Enterprise Leadership
+
+Leadership Development
+
+Leadership Transformation
+
+Sustainable Leadership
+
+Technology & Innovation
+
+The Future of Leadership
+
+Your Leadership Journey
+
+Back
+
+Leadership Labs Overview
+
+Leadership Analytics: Predictors of CEO Success
+
+Unusual Suspects: New Leadership Archetypes
+
+AI Leadership, 100% Human
+
+Back
+
+Flagship Research Overview
+
+Divides and Dividends on Sustainability
+
+Leadership for a Decade of Action
+
+Global Corporate Governance Trends
+
+Transformational Leadership Study
+
+Back
+
+Data and Indices Overview
+
+Global Leadership Monitor
+
+Leadership Confidence Index
+
+Global CEO Turnover Index
+
+Global CFO Turnover Index
+
+Global CHRO Turnover Index
+
+Global COO Turnover Index
+
+Back
+
+RRA Books Overview
+
+Book: The Catalyst CEO
+
+Book: The New CEO
+
+Book: To the Top
+
+Book: Sustainable Leadership
+
+Back
+
+Events and Webcasts Overview
+
+Podcast: Redefiners
+
+Podcast: Leadership Lounge
+
+Events and Webinars
+
+Back
+
+Insights Library Overview
+
+Back
+
+People Overview
+
+Consultants
+
+Leadership
+
+Board of Directors
+
+Office Locations
+
+Back
+
+Who We Are Overview
+
+Sustainability
+
+Responsible AI
+
+Partnerships
+
+History
+
+Back
+
+Careers Overview
+
+Careers with our Clients
+
+Careers at RRA
+
+Back
+
+Newsroom Overview
+
+Back
+
+Get In Touch Overview
+
+Request Consultation
+
+Subscribe to Newsletter
+
+Access Events
+
+Submit Media Inquiry
+
+Back
+
+Advance Your Career Overview
+
+Start Career with our Clients
+
+Join RRA
+
+Back
+
+Join the Conversation Overview
+
+LinkedIn
+
+X (formerly Twitter)
+
+YouTube
+
+Spotify
+
+Apple Podcasts
+
+Back
+
+Find a Local Office Overview
+
+Americas
+
+EMEA
+
+Asia Pacific
+
+Language
+
+English
+
+中文(中国)
+
+日本語 (日本)
+
+Login
+
+Client Login
+
+Candidate Portal
+
+Login 4
+
+Login 5
+
+Login 6
+
+Login 7
+
+Login 8
+
+Login 9
+
+Login 10
+
+Building a Best-in-class Data Function
+
+Leadership StrategiesTransformation and InnovationTechnologyTechnology, Data, and Digital OfficersExecutive Search
+
+Article
+
+November 15, 2021
+
+8 min
+
+Leadership StrategiesTransformation and InnovationTechnologyTechnology, Data, and Digital OfficersExecutive Search
+
+Executive summary
+
+Organizations across sectors have grappled with building and upgrading their data functions.
+
+Close
+
+“Data is truth; truth (is) data – that is all ye know on earth, and all ye need to know.” So wrote John Keats, or at least what he would have written had he reached his writing zenith in 2021 and not 1819. After a decade of digital transformation conversations, “every company is now a software company”,1 but it has been the exponentially transformative pace of the last few years that has brought this idea to life. The pandemic has accelerated a shift towards technology, and demarcations between the technology sector and other industry verticals are breaking down faster than ever before. Underpinning much of this change is the need for data, and the ability to understand that data. Companies who have invested heavily in their data and analytics functions have reaped the rewards many times over. Some, focusing internally, have improved operational efficiencies and reduced internal costs. Others more externally focused have found new markets, drawn closer to customers, and increased growth trajectory. Still others have monetized existing data assets, or built advanced capabilities that are able to standalone as a separate revenue generating business unit.
+
+Russell Reynolds has been at the center of the data leadership evolution, working with organizations across sectors as they grapple with building, upgrading, and managing their data functions. Here, we discuss how to build a data function and how to choose, attract, and retain best-in-class talent in five steps:
+
+Define the scope
+
+Understand where you are on your data journey
+
+Choose the optimal organizational structure
+
+Identify the type of leader you need
+
+Attract data talent
+
+1. Define the scope
+
+Data can be leveraged for significant advantages at every level of the organization and across the organization strategy. However, attempting to simultaneously build capabilities to span all available opportunities will reduce focus on key priorities. Consider where data can most impact specific parts of the business, and build a leadership structure to support this strategy.
+
+Figure 1: Defining the scope of data leadership
+
+2. Understand where you are on your data journey
+
+It is important to honestly assess where you are on your data journey. Many organizations are very outcome orientated when it comes to data and want to jump overnight from basic infrastructure with disparate data pools and legacy systems to monetization and revenue growth. Where you are on this growth curve will impact what kind of leadership talent is needed, to get to the next frontier. Those early in the process will need technology orientated talent ready to build single data lakes and data platforms; those midway on the journey may be expanding their analytics capabilities and experimenting with data science; and those in later stages may bring in experimental AI leaders, or commercial P&L leaders to bring data or analytics capabilities to market. The following framework can act as a guide to identify areas of strength and development.
+
+Figure 2: Understanding the data journey
+
+Figure 3: Aligning data leadership archetypes with organizational strategy
+
+SIMPLE
+
+OPERATONAL
+
+STRATEGIC
+
+TRANSFORMATIVE
+
+Vision and strategy
+
+Increasing awareness of risks & opportunities
+
+Strategy is validated by data
+
+Strategy is driven and validated by internal and external data
+
+Data is monetized and productized to drive revenue growth.
+
+Capability
+
+Data is disparate across the organization and analytics capability limited.
+
+Data housed in single lake. Analytics teams draw insights.
+
+Advanced analytics and AI talent introduced or 3rd party partnership / provider leveraged.
+
+Home built data and analytics capabilities can be offered as a service (DaaS, AaaS).
+
+Leadership view
+
+Aware of importance of data but unaware of how leverage.
+
+Several data leaders in catalyst roles (CDO, CAO, CFO etc.).
+
+C-suite including CEO takes actions based on data.
+
+Data is the starting point for all decisions made.
+
+Customer view
+
+Visibility in some channels
+
+Single view of customer across all channels
+
+Enhanced customer experience across all channels
+
+Predictive analytics help shape inventory, supply chain, UX etc.
+
+Enterprise use
+
+Data is used as a tactical approach on case by case basis
+
+Data is used to make business decisions on risk and growth
+
+Innovation and adaptability embedded; data-led decisions
+
+Advanced data uses embedded in corporate functions (HR, Finance etc.)
+
+Governance
+
+Data creation and governance is decentralized and not governed
+
+Data assets are understood and valued
+
+Data governance is understood across the entire organization
+
+Data governance is understood across the entire organization
+
+3. Choose the optimal organizational structure
+
+There is no single solution for structuring a data function, and we see a wide variety of successful data functions. There is an emerging trend towards a “hub and spoke” hybrid model, allowing for a balance of enterprise and market remits, an elevated position in the org structure, and close proximity to business and commercial opportunities. There are a few questions that commonly arise in conversations around developing the right structure.
+
+Should data report into technology?
+
+This is usually indicative of the organization’s technological maturity. Organizations with disparate data systems looking to build a foundational structure will combine their data and technology functions. More advance organizations, perhaps on a journey of productizing or monetizing data, or building DaaS offerings, are more likely to split data from technology. In digital platform and tech-first organizations, data is most likely embedded across the organization organically, and may not have a centralized combined figurehead, but instead a chief data architect or technology lead to oversee the underlying structure.
+
+How will structure impact talent?
+
+How you structure your data team will have a material impact on the ability to attract talent. Chief information officers are not interested in positions that do not give them ownership of data. Conversely, data and analytics leaders are much more content to be closer to business units and commercial opportunities, and are less concerned about being within the technology function.
+
+Should data and analytics sit together?
+
+Historically data and analytics coexisted together within technology, but there was an emerging trend of separation. Analytics moved to join insights teams much closer to the business, while data management remained under technology leaders. What we see now is a hybrid model of this, an appreciation that data needs to be close to the business, but also has merit within the technology function, particularly around advanced data and AI capabilities.
+
+There are four common organizational structures for data and analytics functions.
+
+Decentralized / Fully Integrated
+Seemingly paradoxical, this is the position of both the least and most advanced organizations. Organizations who are starting their data journeys likely have this model organically, where advanced digital and technology companies have likely pushed data as a function back into the rest of their organization, underpinned by a tech-first culture and high levels of capability.
+
+Strengths
+
+Data capabilities exist across the organization
+
+Highly reactive to market and business unit leaders
+
+Weaknesses
+
+No single voice of ownership or accountability for data & analytics; lack of coordination
+
+Can cause replication of work and lack of consistency
+
+Centre of Excellence
+This model has an independent center overseeing data across the organization and coordinating new capabilities and processes. Data leaders report into their market leads. It is an easy way to scale and systematically develop common tools, but does not empower transformation. Technological change relies mostly on relationship management.
+
+Strengths
+
+Facilitates access to data, sharing of data, and best-in-class capabilities
+
+Increases synergies and reduces duplication of efforts while supporting business unit strategy
+
+Weaknesses
+
+Lacks authority and relies on teams reporting into market leaders
+
+May become disconnected from the market and commercial opportunities
+
+‘Hub and Spoke’ Hybrid Model
+Data and analytics talent reports into a single leader, acting as one team while business units pursue market-adjusted data and analytics initiatives. There is an increasing movement around adopting this model across industries.
+
+Strengths
+
+Data leader holds authority, and can optimize data governance and quality while focusing on key organization priorities
+
+Facilitates transformation, while allowing for innovation and best practice management
+
+Unhampered proximity to market and commercial opportunities
+
+Weaknesses
+
+Need to establish clarity on governance and data vision
+
+Data leader must balance commercial, technical, strategic, and change management orientations
+
+Standalone
+This model demonstrates how data-as-a-service offerings operate with a P&L responsibility, and is the least common model of the four. The data function serves the business while simultaneously operating as a business unit in its own right, driving both enterprise transformation and external revenue growth.
+
+Strengths
+
+Creates value and directly grows revenue
+
+Able to create a new culture, attracting tech talent and creating internal career paths
+
+Consolidates resources and drives excellent levels of standardization
+
+Weaknesses
+
+Needs up-front investment and effort to establish a standalone data organization
+
+Cultural and business disruption expectations need to be managed; data organization may drift from enterprise priorities
+
+Telefonica built LUCA, a standalone data organization specializing in AI-powered decision-making, spearheaded by Telefonica’s CEO, chief technical officer, and chief data officer. LUCA supports businesses externally on their digital transformation journeys, while serving Telefonica and its customer base.
+
+4. Identify the type of leader you need
+
+The data function consists of a diverse host of talent, and leadership in all areas is needed for success. In most cases, the data leader will have experience covering the entire data lifecycle. The role may also be split into a chief data officer, responsible for internal management and building resources, and a chief analytics officer, responsible for external insights and market opportunities.
+
+Figure 4: Determining how data and analytics coexist
+
+Chief Data & Analytics Officer
+
+Chief Data Officer, and Chief Analytics Officer
+
+Pros
+
+Cons
+
+Pros
+
+Cons
+
+Central vision and voice for data and analytics
+
+Role holds more authority and ability to lead change
+
+Consolidated resources
+
+Single accountable leader
+
+Leader less specialised in any single area of D&A spectrum
+
+Difficult to find senior leadership with experience across the data ecosystem
+
+Depth of talent in both roles
+
+Leaders can report into respective most relevant areas of the business
+
+Double the opportunity to hire a ‘honeybee’ talent
+
+Tension caused between the two functions
+
+Two areas of data accountability
+
+Less likely to report into executive committee; less powerful voice internally
+
+Talent for data and analytics leadership commonly falls into one of four archetypes; the organization will need to determine where this leader needs to spike in expertise. The build archetypes tend to bring a technology background, having previously served as the CIO or engineering leader. The operator archetypes can take many forms, coming through industry analytics or through data and software organizations (information services, B2B software, and large tech).
+
+Figure 5: Aligning data leadership archetypes with governance structures
+
+Indicative areas of functional data expertise within the organization
+
+Data Engineering
+
+Data Governance
+
+Data Privacy and Ethics
+
+Data Insights and Advanced Analytics
+
+Data Productization / Monetization
+
+Engineering
+
+Architecture
+
+Platforms
+
+Data Sourcing
+
+Data Lake
+
+Security
+
+Ethics
+
+Data Science
+
+AI and ML
+
+Visualization
+
+P&L
+
+The data and analytics leader should be supported by talent dedicated to each area of the data lifecycle. Depending on the organization design, these leaders could report into different areas of the business. For example, under the standalone data structure, these leaders could report to the business unit General Manager, whereas under the hub and spoke model, they could report to different leaders: Engineering into technology, governance into the data leader, privacy into legal, analytics into marketing or business units, and productization into its own business unit chief executive officer.
+
+There are a few common traps that organizations unknowingly fall into when selecting and evaluating data talent.
+
+Focusing only on the most advanced organizations: When evaluating a candidate, it is important to consider their experience across a spectrum of opportunity and support. Candidates from FAANG and well-known brand data-hubs may seem most attractive, but the experience they have had at these organizations may not be relevant for the organization’s goals. More mature companies offer structured support, with large talent hubs, advanced capabilities, and a strong culture and well-resourced network. But candidates from these environments may not have developed the skills needed to navigate through transformation, including proselyting for data and analytics across the organization, demonstrating stakeholder management, and building from the ground up within investment budget constraints. There may also be an unexpected cultural gap, leading to tissue rejection and a swift exit.
+
+Focusing on market visible transformers: Organizations want data and analytics to lead transformation from the front, rather than taking orders from other parts of the business. However, allowing other parts of the business to lead may be appropriate; these candidates understand how to partner well with the senior leadership team when data is clearly part of the orgnaizational strategy. What should be avoided are situations when data has to execute in the shadows, against the organization’s vision and strategy. Best-in-class candidates differentiate themselves in this situation by demonstrating their ability to match, and perhaps stay a few steps ahead of, the organization’s roadmap while seeking complementary ways to innovate.
+
+Focusing on deep tech or analytics talent: The best data leaders bring a balance of technical and business or commercial skills. They are able to translate complex technical data jargon into business needs, and vice versa, and can develop long-term strategy as well as execute on short-term goals. As such, organizations who only look for cutting edge machine learning experience in their future data leader may find that although they bring technical depth, they lose in management capability.
+
+Focus on finding the perfect candidate: This common misconception is the most self-explanatory. Data and analytics talent does not have a standard academy progression, and backgrounds will vary. Leaders can address their weaknesses by building out specializations within their teams. For example, if the chief data officer candidate leans too far towards the technology and build end of the spectrum, they can be supported with a strong analytics and AI-oriented team.
+
+5. Attract data talent
+
+Availability of key talent and/or skills, changes in consumer behavior, and technological change were among the five biggest factors impacting organizations across all sectors, according to Russell Reynold’s 2021 Global Leadership Monitor.2 Strikingly, the technology sector was the most concerned around talent skills shortage, with 69% of technology executives stating this was in the top five risks, with only 46% of technology executives agreeing that leadership is prepared to address this talent issue.
+
+69%
+
+Only 49%
+
+Of technology executives think shortage of skilled talent was a top tier risk
+
+Of technology executives think that leadership is ready to address the talent skills shortage
+
+It is irrefutable that brand/reputation and compensation are top-of-mind for tech leaders, but they also value other important factors such as mission, purpose, and impact; the ability to build, learn, and grow; the responsibility of owning a technology or service line; internal and market visibility; and developing leadership skills in proximity to the chief executive officer. Top candidates are not looking for the perfect package, but are expecting a thoughtful and strategic roadmap. As new capabilities and roles emerge, it will be important for organizations to crystallize on their value proposition.
+
+Russell Reynolds’ proprietary framework for attracting and retaining data analytics talent is based on five core components: Position, Plan, Progress, Purpose, and Process.
+
+Figure 6: Attracting and retaining talent in a hyper competitive landscape
+
+Position
+
+Plan
+
+Progress
+
+Purpose
+
+Process
+
+How can the role be more attractive?
+
+How can the vision be best communicated?
+
+How will talent be developed?
+
+What is the social impact?
+
+How can candidate care be improved?
+
+Relocation and remote opportunities
+
+Location has always been an important consideration for technology leaders – they have the tools to work remotely, but will always opt to be wherever is best suited to get the job done. Starting with the basics, it is much harder to relocate talent; very few leaders are keen to commit to a new position that is across the country, or even in a different region. Relocation talent becomes even more difficult when talent is being relocated to a place quite disconnected from data communities; data leaders are keen to be close to other like-minded communities of talent and leadership, and close to potential talent pools. Typical technology talent hubs include the West Coast and the East Coast of the US and various cites across Europe, including London, Berlin, Barcelona, and Paris. In today’s post-pandemic Zoom-driven world, many companies have seized the opportunity to hire talent remotely, and this seemed for a short time like the new paradigm. However, hybrid working has become the favored option, as it provides the convenience to work remotely from any location, and the opportunity to meet with the team in-person to further ideation, innovation, and team dynamics.
+
+Compensation
+
+Data and analytics leaders have joined the ranks of cyber security and engineering talent, groups that have seen a meteoric rise in compensation packages over the last five years. There is a large range in chief data officer compensation, particularly across regions (Figure 7), but as demand for data leadership grows, competition for talent manifests in staggering compensation packages reaching over $1.5 million in cash alone. The best compensation packages balance short-term and long-term opportunity. Top jobs often come with long-term incentive plans that boost the overall package; however, this should not be in substitute of base, bonus, or stock options, as appropriate. Other common perks include sign-on bonuses, additional holidays, family health insurance plans, and car and/or housing benefits.
+
+Figure 7. Staying competitive through compensation
+
+700,000USD
+
+450,000USD
+
+Average base and bonus compensation of US-based chief data officers
+
+Average base and bonus compensation of EMEA-based chief data officers
+
+There is no one-size-fits-all when it comes to building out the data and analytics function. Organizations will need to thoughtfully and continuously assess what the right talent, governance structure, and strategic vision are needed to further advance their business models.
+
+AUTHORS
+
+George Head leads Russell Reynolds Associates’ Technology Officers knowledge team. He is based in London.
+Jesús Arévalo leads Russell Reynolds Associates’ Data & Analytics Practice in EMEA. He is based in Madrid.
+
+Sources
+1 Now Every Company is a Software Company. Kirkpatrick, David. Forbes, November 30, 2011.
+2 2021 Global Leadership Monitor: Leadership Preparedness for the Road Ahead. Crookes, Jemi, Tom Handcock, PJ Neal, Alix Stuart. Russell Reynolds Associates, May 4, 2021.
+
+Building a Best-in-class Data Function
+
+Download full article
+
+Technology and InnovationTransformation and InnovationLeadershipHealthcareTechnology, Data, and Digital OfficersAssessment and BenchmarkingDevelopment and TransitionExecutive Search
+
+Integrating the Digital Functions with the Business
+
+Technology and InnovationLeadership StrategiesLeadershipConsumerTechnology, Data, and Digital OfficersCulture AnalyticsExecutive Search
+
+Becoming a Best-in-Class Digital Operator
+
+We and our partners use cookies and other technologies on this site to collect data about your device and activities on this site for operating and protecting the site, enabling and optimizing site functionality, analyzing site usage, personalizing your experience, and targeting ads, as detailed in our Cookie Policy. Click “Accept All” to consent to all of this, “Reject Optional Cookies” to get only mandatory cookies, or “Preferences” for more options.
+
+Preferences
+Reject Optional Cookies
+Accept All
+
+×
+
+About Cookies
+
+Cookie List
+
+Web pages can store or retrieve info on your browser, including through cookies.  This info might be about you, your preferences, or your device, and it may contain identifiers that are unique to you or to your device. We and third parties collect that kind of info through cookies in each category below. You can turn most individual categories off by moving the toggle to the left and hitting “Save my choices” or turn them back on by moving it to the right and hitting that same button. You can revisit these choices later by clicking on “Cookie Preferences” in the footer of russellreynolds.com.  These choices apply only to russellreynolds.com.  These choices affect this browser only, and you will need to repeat this process if you use another browser, if you clear your cookies, or if you use a browser that automatically clears cookies.
+
+More information:
+
+Read Cookie Policy
+
+Accept All
+Reject Optional Cookies
+
+Mandatory
+Always Active
+
+These cookies are required and cannot be turned off.
+
+Cookie Details
+
+Functional
+
+These cookies mainly enable enhanced functionality and personalization. They let us provide a more personalized and convenient experience. Disabling or removing these cookies may make browsing pages less convenient or may prevent certain functionality from working correctly.
+
+Cookie Details
+
+Performance
+
+Performance cookies mainly allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors use and interact with them. If you do not allow these cookies, we may have fewer ways to know when you have visited a page and may be less be able to monitor their performance.
+
+Cookie Details
+
+Targeting
+
+These cookies may be used to target ads to you (such as by helping to build a profile of your interests to target ads).  If you do not allow these cookies, the advertising you experience may be more repetitive or less relevant to you.
+
+Cookie Details
+
+Unclassified
+
+We recommend leaving Unclassified cookies off.  The Unclassified category could contain Functional, Performance, or Targeting cookies that we have not yet moved into the Functional, Performance, or Targeting categories above.  If you turn on the Unclassified category, all Unclassified cookies will be activated, even if you deactivate the specific Functional, Performance, or Targeting category.
+
+Cookie Details
+
+Save my choices

@@ -1,0 +1,148 @@
+How Boards Can Accelerate Their Learning Curve in AI and Cybersecurity
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+How Boards Can Accelerate Their Learning Curve in AI and Cybersecurity
+
+By
+
+Lisa J. Caswell,
+
+Kate Hannon and
+
+Charlie Stack
+
+October 2023
+
+| 5 min read
+
+Authors
+
+Lisa J. Caswell
+
+Silicon Valley
+
+Kate Hannon
+
+New York
+
+Charlie Stack
+
+New York
+
+SectionsIn this article
+
+Artificial intelligence (AI) is poised to fundamentally alter all sectors of industry and society, with many predicting its impact will be on a scale similar to the light bulb during the industrial revolution. Transforming a business into an AI-driven organization is a complex, systemic and long-term undertaking requiring all companies to enhance, secure and leverage their most precious asset in this new world — data. This transformation demands a strategic, cultural and organizational shift directly led by the CEO and board of directors.
+
+The rise of AI raises the stakes for cybersecurity. Yet, because cybersecurity has been an issue for many years, some companies have developed a false sense of security. For boards and CEOs, it will be increasingly important to renew their focus on cyber risk and put in place more sophisticated frameworks and practices.
+
+We recently brought together governance committee chairs and leaders in cybersecurity and AI to discuss how boards can be better prepared to provide oversight on these key areas.
+
+Understanding the artificial intelligence opportunities and risks
+
+The emergence of generative AI (GenAI) and machine learning, including language model-based technologies like ChatGPT, creates myriad opportunities and risks for companies that many boards are only just beginning to fathom.
+
+Opportunities include the creation of adjacent businesses to monetize data assets, improved customer journeys and service, automation of skilled tasks, and optimized decision making/efficiency gains across areas such as sales forecasting, inventory management, operations management/efficiency, quality assurance, manufacturing improvements and computer programming, to name a few.
+
+Quote
+
+Get ready for the business model paradigm shift. Someone will come from somewhere and eat your lunch. This is why you need to be focusing on AI strategy now. Either have the people and plan in place or risk becoming [the next] Blockbuster [Video].”
+
+Andrea Bonime-Blanc
+
+Founder & CEO,
+GEC Risk Advisory
+
+But companies will have to navigate a variety of risks and challenges in their pursuit of AI opportunities, including:
+
+Intellectual property rights. A major issue currently being litigated is the question of intellectual property rights and generative AI. When software engineers use GenAI to develop code, for example, it is, so far, unclear who owns the intellectual property rights to this code.
+
+Privacy, security and bias. AI models are “trained” on vast data sets, which means it is crucial to understand not just the accuracy of the model, but also the data on which the model was trained, and how proprietary or sensitive data is being used and protected.  For instance, the information shared with ChatGPT in user conversations is stored to improve the accuracy of algorithm.  This presents a challenge to using these technologies for companies that need to protect sensitive customer or company data.  Many GenAI companies are developing closed-off enterprise versions of their models to enhance privacy, but these solutions are still in the very early stages of development.
+
+Access to quality data. AI is only as good as the data it accesses. Companies that possess more data, either because of the nature of the business or because they have been around for decades, may have a competitive advantage over newer or less data-centric businesses. However, companies must understand the quality of their data to take advantage of AI opportunities.
+
+Regulation. With new technology comes new regulation. For example, the proposed European Union AI Act would require companies to attain pre-market entry approval for any new AI systems. Regulators would assess the data used to train the AI, its resilience to cyberattacks and its risk of bias.
+
+Organizational model and culture transformation. Research suggests that investments in operating model and skills transformation lag investments in technology by a significant margin. Most companies fail to capture value from AI investments not because of technology deficiencies, but because people and organizations aren’t ready to adapt. Leadership teams need to invest as much time and effort into operating model and mental model shifts as they do in mathematical model development.
+
+Boards should carefully assess these risks and opportunities as part of their review of business strategy, including risks related to ethics, privacy, regulatory regimes and business model disruptions, and opportunities such as potential efficiencies, leveraging data, talent strategy and new business models. To ensure they are thinking expansively as possible, boards may need to tap additional partners or stakeholders able to provide different perspectives, and they may need to lean into their executive teams in areas where they have previously been hands-off, including how well the organizational culture does — or does not — supports transformation.
+
+Quote
+
+Companies’ most powerful data comes from proprietary information built over decades. Data is the Holy Grail for AI applications.”
+
+Michelle Lee
+
+Founder and CEO,
+Obsidian Strategies
+
+Successfully leveraging AI also may require boards and management to take a hard look at the company’s culture and operating model to assess what types of AI investments the company is ready to adopt. AI roadmaps that are aligned with cultural priorities tend to deliver more value and produce more momentum for change. Likewise, trying to deliver AI innovation in silos does not tend to produce scaled returns. The best results come from cross-functional, cross-discipline teams, enterprise prioritization and well-informed business sponsorship.
+
+Of course, most directors won’t be AI experts, but given the magnitude of disruption on the horizon, many boards should be thinking about either adding a director with a broad understanding of AI strategies or building an AI advisory board. All board members will have a duty to ask management the right questions to develop comprehensive AI strategies, including the source of data for AI systems, how data is being stored and used, the opportunities for using data to increase efficiency and generate new business models, and the steps being taken to address privacy and security risks.
+
+Building adaptive resilience into cybersecurity risk management
+
+Cyber breaches are increasingly viewed as a cost of doing business. Directors have a fiduciary duty to ensure their organizations are putting in place the plans and processes to withstand cyberattacks and build adaptive resiliency into their risk management processes. Cybersecurity has been on the board and management agenda for many years, largely driven by technology agendas focused on rapid digitization and public cloud adoption, and complacency has crept in at some organizations. However, the acceleration of AI and new SEC guidelines are prompting a renewed focus on cybersecurity preparedness.
+
+The SEC’s cyber disclosure rules require companies to publicly disclose a cybersecurity incident within four days of the board determining that the event was “material.” While reasonable minds may disagree about what constitutes “materiality” and what the correct timeline for disclosure is, it will be the board’s duty to ensure that directors and management are having the right conversations, documenting these conversations, and making justifiable decisions about disclosure.
+
+Quote
+
+Breach happens — it’s not a question of if, but when. For this reason, while defensive measures absolutely matter, the key question becomes: What are the strategies to react?”
+
+Alexa King
+
+Board director, Egnyte,
+And Former EVP, corporate & legal affairs, FireEye
+
+You may also like:
+
+Management has the day-to-day responsibility for implementing the cybersecurity strategy, but the board has ultimate oversight, including communication and reporting to the SEC in the event of a breach. Management must be able to count on the board’s support not only to effectively execute the company’s cybersecurity strategy, but also  in the case of a breach. Given how dramatically the technology and cyber environment has changed in the last 10 years, the board must have confidence that the company’s cybersecurity leadership has the appropriate skills and experiences to manage the function today, and as it continues to evolve.
+
+On many boards, cybersecurity oversight rests with audit committee. However, as cybersecurity and overall resiliency becomes increasingly complex, some boards have created dedicated technology committees to oversee it. Fifteen percent of S&P 500 boards today have a standing technology and science committee, compared to 8 percent a decade ago. Given their oversight responsibility, boards should have a thorough understanding of management’s cybersecurity approach by getting answers to these questions at a minimum:
+
+Has the business identified high, medium and low cyber risks? Have directors identified the plan for dedicating resources to these risks?
+
+How plugged into the government’s cybersecurity intelligence sharing community is the company? And do they meet regularly, not just in an emergency?
+
+What's the repeatable process for educating directors on these issues?
+
+How do management teams and boards ensure cyber awareness are part of the DNA of the company?
+
+How is cybersecurity embedded in product teams and elsewhere around the company to minimize cyber risks and product vulnerabilities?
+
+Are the company’s vendors and third-party suppliers secure? Is there a risk management framework in place to identify, assess and manage risk associated with vendors, suppliers, etc.?
+
+Is there a cyber crisis management team, and if so, which director serves as a liaison to this team?
+
+Is cybersecurity on the board and relevant committee agendas at every meeting so the board is up to date on past, current and potential breaches?
+
+Which outside cyber consultants, legal teams, crisis communication firms, etc., will be on speed dial (and under contract) for a breach?
+
+Quote
+
+How do we make being cyber-aware and cyber-conscious part of the DNA of the company? There's no amount of money to spend or easy button to hit that will solve this, but that's what we need to answer to get to long-term resiliency.”
+
+Lieutenant General (Retired) Bruce Crawford
+
+Former CIO of The U.S. Army, and board director, Comtech and Foundation Risk Partners
+
+Effective cybersecurity strategies go beyond robust systems and software to ensure enterprise-wide preparation. Companies should run tabletop exercises that include internal and external stakeholders relevant to breach response and remediation — from management to the board. This preparation should include a robust communication plan to employees, customers and investors. How quickly companies recover and communicate in the wake of a breach is one of the most vital elements of cyber resilience.
+
+Authors
+
+Lisa J. Caswell
+
+Silicon Valley
+
+Kate Hannon
+
+New York
+
+Charlie Stack
+
+New York

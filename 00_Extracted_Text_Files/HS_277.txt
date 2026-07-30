@@ -1,0 +1,188 @@
+Easing growing pains: Key leadership questions for fast-growing companies | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Easing growing pains: Key leadership questions for fast-growing companies
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Leadership Development Easing growing pains: Key leadership questions for fast-growing companies
+
+Moving from start-up to established company is not an easy transition. Finding the right leaders typically requires moving beyond the start-up comfort zone. Two principles can help.
+
+Sean Carroll
+
+For technology companies, moving from having a customer base of early adopters to having a technology that’s used by a majority represents a critical leap toward success.1  Most fast-growing companies face a related, and equally critical, leap from having an early, close-knit founding leadership team, often led by a visionary CEO, to needing a leadership team with functional expertise and the ability to manage scale while still meeting the expectations of customers, investors, and the founding team itself. And while tech companies are best known for sudden, transformative growth spurts, in fact such growth can happen in almost any industry, including healthcare, hospitality, consumer goods, and retail.
+
+Young companies typically need to bring on board new senior leaders with deep experience in key functions. But the executive teams are typically small and have succeeded so far by relying on their own knowledge and networks. Unlike executives at more established companies, they may not be able to define exactly what kind of expertise they need or have experience finding it, let alone be able to determine the right balance between expertise and cultural fit—something that’s important at any company but, in our experience, often crucial at start-ups still driven by a singular vision.
+
+To ease these leadership growing pains, executives at fast-growing companies should focus on finding operational executives who complement their existing teams. Following two guiding principles and asking some key questions will help.
+
+Rebuilding the rocket engine while taking off
+
+As companies try to make the leap from niche to mainstream, they face challenges such as managing a suddenly sprawling supply chain, handling requests from 10 times as many customers as last month, developing a strategy to manage unexpected mismatches between the company’s product and its evolving target market, or negotiating with regulators over contract-worker requirements in new jurisdictions. Leaders must manage these challenges without losing sight of existing customers’ and investors’ expectations.
+
+Too often, in our experience, boards and founding CEOs make a choice to find a new CEO, and the founding CEO steps back from day-to-day leadership, as did Steve Jobs at Apple or Michael Dell at Dell. Another common tactic to manage fast growth is to find an experienced COO to complement a visionary CEO, as Facebook has done with Sheryl Sandberg. On the whole, finding complementary executives to the CEO, whether a COO or other executive roles, seems to produce better results than finding a new CEO and founders stepping away, except in cases of significant crisis. Ranjay Gulati, of Harvard Business School, recently suggested that start-ups can keep growing best when they retain their “soul,” which is comprised of a unique approach to business intent, customer connection, and employee experience.2  In our view, having an active founding CEO helps maintain that unique core and the culture that supports it.
+
+This makes finding the right complementary executives to the CEO crucial. However, visionary CEOs do not often find it easy to objectively assess their own weaknesses, and it can be difficult for new executives to join a tight-knit founding team. Board members and other original executives have a significant role to play in finding these complementary executives. (For more on the role of boards and leadership teams in defining the role of COOs, in particular, see “Fintech COOs: Redefining the role for a new industry.”) As these founding CEOs consider their options to support their companies’ continued growth, they will benefit from keeping two principles in mind.
+
+The mission matters, but it can’t be static
+
+Having a mission that resonates with executives is crucial to attracting top talent; such missions are also often what drive the fast growth that’s creating the need for those executives. For example, Stitch Fix’s mission is “to change the way people find clothes they love by combining technology with the personal touch of seasoned style experts”—a mission that attracts both people passionate about the role of artificial intelligence in society and those who want to help people find their personal style from a fashion perspective. This clear purpose allowed the company to attract critical seasoned hires from traditional merchandising, data science, and e-commerce supply chain backgrounds.
+
+But even the most passionate start-up CEO should realize that the mission can, and often should, evolve in order to support growth, meet new social goals and expectations, and attract the talent the company needs as it moves forward. A start-up with a narrow, socially responsible purpose in the sustainable food industry developed automation to support its operations—and found that the technology was useful in the restaurant industry, an industry that has no particular social purpose and indeed is in some ways antithetical to the start-up’s mission. The company nonetheless started selling the technology widely and growing quickly, building a pipeline of business with some of the largest fast-casual restaurant chains in the world. But it faced a quandary: to continue to grow, it needed to move away from its original purpose, which would make it easier to attract some needed functional expertise but harder to retain some early employees who fervently supported the social mission.
+
+The founder and CEO eventually resolved the quandary by reframing the company’s mission to a broader opportunity to disrupt one of the largest industries on the planet in a sustainable direction—a mission that underpinned growth and still kept most employees engaged. A bit more than a year later, the company has attracted experienced executives as president and CEO while winning key customers, including a leading food delivery unicorn. Further, the company has retained critical engineers and leadership team members, including the founder, who is now CTO—all of whom are fully invested in growing with the rearticulated mission.
+
+Tech-savvy executives aren’t always the answer
+
+Many companies know they need outside expertise but rely for too long on finding the people they need only within the start-up community clustered in hubs such as Silicon Valley, New York, and London. Particularly for companies located in these hubs, it can be hard to resist hiring executives who have been associated with marquee success stories or are part of founders’ own networks, especially when companies are in a rush to hire for key roles. Often these people are generalists with a deep and nuanced understanding of how to enable ultra-rapid growth and who may well have expertise in both the consumer and enterprise sectors. However, in our experience, a leadership team that does not include diverse points of view and deep functional expertise from executives representative of the full variety of target customers and consumers will not be successful.
+
+When CEOs and their founding teams identify the key functional knowledge gaps—ones that are creating significant operational pain points or business risk—and then seek that expertise widely, they can avoid costly mistakes in hiring. Furthermore, going outside of the technology start-up community broadens the talent pool and gives growing companies access to people who may be more affordable and more committed in the long term. A recent Heidrick & Struggles study of more than 275 HR leaders at fast-growing consumer and consumer-technology companies in the United States shows that only 40% came from a venture-capital-backed company. At least in this one area, companies are seeing both a need for and an opportunity in looking more broadly. Indeed, most came from established companies with well-developed HR functions. And while many were from other consumer companies, a significant portion came from services companies such as banks or marketing agencies, where talent management is a core priority—as it must be at fast-growing, talent-hungry companies, too.
+
+Looking outside the start-up community is also often an opportunity to bring in much needed gender, racial, ethnic, or age diversity to the leadership team. A recent Heidrick & Struggles study of fintech COOs came to a similar finding, noting that just over half of COOs at Global Fintech 100 companies had come from established companies and that they had an average of 21 years of work experience. The study also found that a much greater proportion of these COOs were female (32%) compared to the share of female fintech founders/CEOs (8%). Adding this much diversity and experience in just one position highlights the opportunity for founding leadership teams to expand their range—and their edge.
+
+An agricultural technology company, for example, had (and continues to have) a strong array of technology-oriented “best-athlete” leaders in product and business development, strategy, and finance. But when it came time to build out the operations team, those leaders selected a candidate from a traditional agricultural equipment company as chief supply chain officer. As the company grew its marketplace platform, it found an experienced executive from a leading agriculture company for head of crop price hedging—another function where very specialized expertise is needed, since a major mistake in hedging strategy could potentially sink the company.
+
+In both cases, it was important to look beyond any stodgy reputation the executives’ earlier employers may have had and understand whether the people with this expertise were motivated in a way that aligned with this company’s goals, including areas such as their tolerance for risk, their scrappiness and grit, and their passion for agriculture. Finding the right people required talking to more people than usual, because of the focus on finding people from traditional backgrounds who could thrive in a start-up environment, but the time invested has led to a leadership team with both deep knowledge and strong cohesion.
+
+Key questions to ask
+
+As start-up CEOs and their teams think about filling functional skill gaps without slowing growth or diluting the company’s distinctive culture and growth engine, they should first consider some big-picture questions:
+
+Once start-up CEOs and their teams have identified the skills they need and the context in which they expect to hire, they should consider some further questions:
+
+Founding CEOs who ask themselves these questions, and seek support from their board members and fellow founders to answer them honestly and comprehensively, will greatly enhance the probability of their companies’ long-term growth.
+
+About the authors
+
+Sean Carroll (scarroll@heidrick.com) is a partner in Heidrick & Struggles’ New York office and a member of the Global Technology & Services Practice.
+
+Chris McCloskey (cmccloskey@heidrick.com) is a principal in the San Francisco office and a member of the Global Technology & Services and Supply Chain & Operations Officers practices.
+
+The authors wish to thank Katie de Hass for her contributions to the research discussed in this article.
+
+References
+
+1 This leap and the associated challenges have been most notably articulated by Geoffrey Moore in Crossing the Chasm, 3rd ed., New York: HarperBusiness, 2014.
+
+2 Ranjay Gulati, “The soul of a start-up,” Harvard Business Review, July–August 2019.
+
+Related Services & Industries
+
+Digital Leadership
+
+Leadership Development
+
+Technology
+
+Related Content
+
+Financial Officers
+
+Finance function focus: How chief tax officers are rewriting the role of tax
+
+The modern chief tax officer is part strategist, part operator, and part talent builder—rewriting the tax function for a more complex, capital-conscious era.
+
+Leadership Development
+
+How AI is reshaping legal services: A conversation with Julien Tanguy, CEO of Lefebvre Group
+
+Julien Tanguy, CEO of a leading European provider of legal and tax services, shares how AI is driving cultural change, redefining leadership roles, and accelerating innovation through trusted data, talent, and technology.
+
+Leadership Development
+
+Building long-term resilience in consumer markets: A conversation with Aku Vikström, CEO of Orkla Foods Europe
+
+Aku Vikström, CEO of a pan-Nordic branded food supplier, shares how leaders can build long-term success and resilience in consumer markets during times of macroeconomic disruption.
+
+Leadership Development
+
+Becoming purposeful and performance-driven: A conversation with Jean-Luc Fleurial, EVP and CHRO of UCB
+
+Jean-Luc Fleurial, CHRO of a global pharma company, shares how to become a more effective CHRO and build a purposeful, performance-driven culture.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

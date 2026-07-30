@@ -1,0 +1,110 @@
+A New Threat for Cybersecurity Leaders?
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+This Week in Leadership|January 26, 2026
+
+A New Threat for Cybersecurity Leaders?
+
+More companies are cutting staff and turning to AI to defend against cyberattacks. But will the lack of humans backfire here?
+
+It looked like a cyberattack. The technique matched one commonly used by an infamous ransomware group in China. But instead of flagging the behavior for investigation and walling off the exposed area, the company’s AI system decided it would be best to shut down the entire network. The company did—and later found out there was no cyberattack at all.
+
+It’s a scenario keeping cybersecurity and technology leaders up at night as more firms turn to AI to defend against attacks. With AI driving an estimated 293 million cyberattacks last year, the most ever, by automating phishing scams and data theft techniques, Bryan Ackermann, head of AI strategy and transformation at Korn Ferry says firms need AI to identify and detect potential threats quickly and at scale. But training AI to spot patterns is one thing—getting it to determine what’s an actual attack and what isn’t is much more difficult. “Some alerts matter, and some don’t,” says Ackermann. “What looks like a series of random actions could in fact be an orchestrated attack and vice versa.”
+
+That’s where humans come into play. The problem cybersecurity leaders face, however, is that budget constraints combined with pressure from the top to invest in AI are cutting into hiring. Data shows that corporate security budgets grew by an average of 4% in 2025, a five-year low. Similarly, cybersecurity hiring decreased to 7% last year from 12% in 2024. Cybersecurity job postings declined by more than 2,000 from January through the end of last year as well.
+
+Consolidation, both industry-wide and within internal security and technology teams, is driving some of the hiring decline, says Alyse Egol, a senior client partner in the Digital, Technology, and Security Officers practice at Korn Ferry. “There used to be a wall between cybersecurity and everyone else, but it has been coming down,” she says. The extensive integration of data and AI at the enterprise level means one function alone can’t police all the different tools, vendors, and platforms used by various operations across the firm. At the industry level, 2025 was a record-setting year for mergers and acquisitions, with 420 deals totaling about $84 billion, including eight valued at $1 billion or more.
+
+The risk for firms, say experts, is that the more firms rely on AI for security in the near term, the fewer people they will have with hands-on experience to train AI on detecting fraud, phishing, and other threats in the long run. It’s a risk that could cost firms millions, if not billions of dollars in lost productivity, reputation, and shareholder value if a wrong action is taken, says Sue Ribot, a senior client partner and global cybersecurity practice leader at Korn Ferry. “AI can’t be a standalone shield,” says Ribot, “people still need to be the last line of defense to determine what’s a real threat and what’s not.”
+
+Moreover, since cybercriminals are constantly updating and changing their tactics to avoid detection, firms are going to need people to stay abreast of new patterns and techniques and train AI models to identify them. “Firms can’t rely on past data to catch cybercriminals,” says Ribot. “Otherwise, they will always be playing catch up.”
+
+Learn more about Korn Ferry’s Organization Strategy capabilities.
+
+Read more This Week in Leadership articles
+
+Our Expert
+
+Our Experts
+
+Bryan Ackermann
+Senior Vice President, Head of AI Strategy & Transformation
+
+Alyse Egol
+Senior Client Partner​, Tech, Ops, Digital, Data/AI & InfoSec Practice
+
+Sue Ribot
+Senior Client Partner, Global Cybersecurity Practice Leader, Technology & Software
+
+No items found.
+
+Featured Insights
+
+AI Cheating: Can It Even Be Defined?
+This Week in Leadership (Jan 18 - Jan 25)
+
+INSIGHTS TO YOUR INBOX
+
+Stay on top of the latest leadership news with This Week in Leadership—delivered weekly and straight to your inbox.
+
+​
+
+Related Insights
+
+See All Related Insights
+​
+
+Article|July 3, 2026
+
+The Glitter Leader
+
+July 3, 2026
+
+This Week in Leadership (June 29 - July 5)
+
+July 3, 2026
+
+This Week in Leadership (June 29 - July 5)
+
+Article|July 1, 2026
+
+6 Ways to Handle Work During Vacation
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+This Week in Leadership
+
+Organization Strategy
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

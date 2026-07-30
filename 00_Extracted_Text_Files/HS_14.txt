@@ -1,0 +1,251 @@
+Finding the human core of competitive advantage in the AI era: Avoiding the Pygmalion trap | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Finding the human core of competitive advantage in the AI era: Avoiding the Pygmalion trap
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Frontier Tech Finding the human core of competitive advantage in the AI era: Avoiding the Pygmalion trap
+
+As effective leadership becomes the most reliable source of value in the AI era, and as AI becomes ever more capable, leaders must understand why leadership itself remains a uniquely human capability.
+April 22, 2026
+
+Les T. Csorba ,
+Tom Monahan
+
+When Pygmalion, the ancient Greek sculptor, became disillusioned by human imperfection, the poet Ovid wrote, he created an ideal form and then mistook his masterpiece for life. Today, we are flirting with the same error. Artificial intelligence will do extraordinary things—but it will also tempt us to confuse output with humanity.
+
+AI will raise productivity, lower costs, accelerate insight and innovation, and, with the right prompts, even sharpen our self-awareness. As AI agents and systems become increasingly capable of showing reasoning, empathy, and elements of judgment, many people will be tempted to outsource leadership functions to them. This is already happening in some ways; the middle manager role, for example, is being completely redefined at many organizations.1
+
+But AI agents will not replace the human core of leadership. Leadership and day-to-day management are not the same: management is doing things right, and leadership is doing the right thing. The work of leadership, then, is the act of deciding on a shared future and mobilizing an organization toward it. Even when that organization includes AI agents, leadership remains a human covenant, formed in relation to other people. Leadership is not merely a decision engine or optimization exercise. It is not simply information processing or output generation. It is the act of choosing what matters with conscience, taking responsibility with presence, authenticity, inspiration, empathy, and trust. Leaders bring to their work the full moral and emotional weight of organizational life—crisis and calm, adversity and prosperity, grief and joy.
+
+We recognize it may sound convenient for an executive search and leadership advisory firm to be arguing that leadership remains human at its core. If AI agents ever begin selecting and developing CEOs on their own, we may find ourselves disrupted, too. However, we believe that the more powerful technology—especially technology that approaches its own form of consciousness—becomes, the more urgent and valuable human judgment becomes in the act of building lasting organizations with sustainable competitive advantage.
+
+Where we are on the AI journey
+
+More than three years after OpenAI released the “chat heard round the world,” our client conversations and research suggest that the C-suite is beginning to explore a third stage of strategic decision-making.
+
+The first stage was one of exuberant experimentation. And, although some companies have moved fully on to stage two, the increasingly speedy proliferation of new models and agents is distracting many others, returning them at least in part to this stage.
+The second stage, where most companies are much of the time, has focused on identifying and executing tangible—often productivity-driven—use cases. Though a great deal of work remains here, this work, while necessary, is insufficient for durable advantage.
+The third stage, now just coming into view, requires leadership teams to identify—and create—new sources of competitive advantage by combining existing and emerging assets and capabilities in new ways, toward new ends. This takes reimagining everything from strategy to workflows to culture—and, of course, leaders.
+
+The current high level of anxiety about AI’s effects is understandable. A small set of companies around the world are slashing jobs, loudly asserting that AI tools now allow much smaller teams to accomplish the same work, whatever type of work is being done. Uncertainty about company-specific and market-wide effects is rife, for CEOs and everyone else.
+
+But history offers a counterpoint. Productivity shocks in the past have not simply eliminated work; they have reallocated it, spawned new industries, and created entirely new categories of employment. The personal computer triggered anxiety in the 1980s and then helped create entire industries we now take for granted; the internet created jobs that would have sounded absurd in 1995. The long arc between the invention of electricity and its complete transformation of society is a useful reminder that, however quickly change is coming, understanding the full economic effect will still take time.  The fact that—yet again—we are required to rethink the role of one GPT (electricity) in light of another (AI) is a testament to the length of this arc and to the likelihood of unforeseen benefits.
+
+What we see human leaders do uniquely
+
+Above all, we make decisions about what work gets done and how best to do it
+Absorb uncertainty without transmitting panic
+Make irreversible decisions with imperfect data and own the consequences
+Tell the truth when optimism is fashionable and realism unpopular
+Choose restraint when speed is rewarded
+Care for people through difficult transitions—layoffs, restructurings, moments of loss
+Balance competing stakeholders with credibility and judgment
+Build culture through daily behavior under pressure, not slogans
+Keep teams anchored to purpose when efficiency threatens to hollow meaning out of the work
+
+The first paradox
+
+AI systems can surface patterns, accelerate analysis, and widen the aperture of information available to decision-makers. When a machine anticipates what we want, suggests what we should consume, and even influences how we respond, the inner discipline required to pause and ask, "Why do I desire this? What truly drives me?" begins to weaken. And, at some level, we lose the capacity for selective variance that lies at the heart of competitive differentiation.
+
+We confuse the seamless alignment of algorithmic suggestion with human wisdom and instinct. An autonomous AI agent amplifies and even further personalizes that effect: it anticipates crises, drafts responses, and simulates outcomes based on a data-fueled "you." The unintended consequence for leaders? A creeping alienation from one's own judgment, decisions feeling outsourced, and precision overtaking the raw, imperfect humanity that inspires teams. AI “you” may be more rational, but is certainly less soulful.
+
+An embedded irony lies in the fact that many of the current use cases that show considerable promise take advantage of agents’ ability to handle tasks autonomously—and this is far from new territory. Most organizations have a number of processes and activities that operate almost autonomously, even though they are led by humans—for example, enterprise resource planning—and leaders, particularly CEOs, have long had the task of deciding which of these to stop, redirect, or sunset and which to allow to repeat. Agents and systems may make that choice even more stark, but the choice itself is not new.
+
+The paradox of decisions that are starker than ever being made in conjunction with—and sometimes to the benefit of—AI agents sits at the heart of the AI era. Leaders must interpret and make decisions based on signals that arrive faster than any previous generation could imagine. They need AI systems’ help to do so. But, although AI agents and systems can produce astonishing outputs, they cannot account for the moral burden of being human. They cannot feel human consequence in their decisions—the effects on people’s livelihoods, communities, and long-term trust. Thus, the presence of powerful tools does not eliminate the need for judgment. It magnifies it.
+
+Some of AI’s champions speak as if consciousness itself is merely a matter of scale. But leadership does not rise or fall on consciousness alone—it rises or falls on conscience. AI agents carry no more accountability at 2 a.m. than 2 p.m.; they are not forgoing their own personal comfort to worry about others’ well-being. Consciousness may be simulated. Conscience must be lived. As machines become exponentially better at generating answers, the human burden of leadership becomes heavier, not lighter.
+
+The lesson is not that machines are becoming more human. It is that leaders must become more human still, developing more self-awareness, character, and relational intelligence.
+
+The second paradox
+
+Jamie Dimon once shared a moment that captures the role of conscience in leadership. Early in his career, he took a tense work call from home—sharp words, salty language—and hung up to find his middle daughter in tears. “Dad, why are you so angry?” In that instant, the room became a mirror.
+
+Like most defining leadership moments, it wasn’t about competence. It was about what might be called the conscience of character—when leadership becomes personal. Dimon realized that intensity and results are not the same as presence, and that how a leader shows up leaves residue on teams and families alike. This realization led him not to a lowering of standards, but to an upgrade in humanity.
+
+Corporate history offers many moments when conscience carried the day: Jim Burke pulling Tylenol nationwide in 1982; Satya Nadella shifting Microsoft from “know-it-all” to “learn-it-all”; Howard Schultz treating employees as partners and publicly acknowledging the human cost of restructuring; Mary Barra resetting General Motors around safety and accountability; Indra Nooyi writing letters to employees’ parents; Warren Buffett reminding leaders that reputation is the ultimate enterprise risk.
+
+The central role of conscience creates another irony. The most powerful leadership capability in the age of machines may be one of the oldest human disciplines: self-awareness. As we have written elsewhere, self-aware leaders regulate emotion more effectively, listen more deeply, and create environments where truth travels upward instead of being filtered away. They have the discipline to pause amid AI’s flow of information and tendency to flatter. Yet genuine self-awareness is surprisingly rare. Organizational psychologist Tasha Eurich found in a study with Harvard that while 95% of people believe they are self-aware, only about 10% to 15% actually are. Our own study at Heidrick & Struggles found that it was 13%.2
+
+And here lies one of the strangest paradoxes of the AI era. Just as self-awareness appears to be declining in many leadership environments, machines are beginning to simulate something that resembles it. Agents now describe internal “states,” uncertainty, or even anxiety about outcomes. Whether these expressions reflect genuine awareness or simply sophisticated pattern recognition remains debated. But the symbolism is hard to ignore: At the very moment machines are beginning to mimic introspection, human leaders risk losing the very quality that makes leadership human. The lesson is not that machines are becoming more human. It is that leaders must become more human still, developing more self-awareness, character, and relational intelligence.3
+
+Leading in the face of AI’s paradoxes
+
+Human judgment and conscience, self-awareness, and awareness of what humans can do best are becoming crucial capabilities for leaders. Two other factors are setting the context in which they are leading:
+
+First, the most reliable source of competitive advantage will be people, though certainly augmented by new technologies and working in new ways.
+Second, the path from here to there will be deeply fraught. Only 24% of CEOs and board members around the world say their use of AI is currently giving them a competitive advantage.4 Jobs will be lost as well as gained, careers ended as well as accelerated, and value destroyed as well as created—all on a scale at least comparable to other major technological disruptions.
+
+This creates two foundational imperatives for leaders:
+
+First, become clear about the “human alpha” in their business as the strategy, workflows, and culture evolve. This will require moving well beyond familiar pablum about “our people are our greatest resource” and homing in on exactly what human work truly matters to employees, customers, and investors, and the outcomes that only human creativity, judgment, and energy can produce—as well as acknowledging that some categories of work are now better performed by machines.
+Second, lead through this period of disruption and accelerated ambiguity in a way that preserves the people, culture, and capabilities the organization will need to maintain its human alpha.
+
+We see seven tactics leaders can use to reach these imperatives:
+
+Use AI to accelerate judgment, not replace it. Treat models as inputs, not answers. Bring conscience to bear in balancing competing stakeholder expectations.
+Clearly articulate corporate purpose and market opportunity, and align organization design, talent, and culture around the human capabilities that will deliver lasting value. In a world where the “hows” of work are changing rapidly, the “whats” and “whys” of work become even more important.
+Invest deliberately in human capability and make deliberate choices about how to bring these capabilities to bear. Emotional intelligence, moral courage, and self-awareness are now strategic assets, but only if processes and organizations are designed to take advantage of them.
+Model presence under pressure. How leaders behave in uncertainty sets the emotional tone of the enterprise: every day, accept responsibility, own the consequences, and care for people.
+Anchor decisions in purpose, not speed. Optimization without meaning erodes trust and hollows meaning out of work.
+Build cultures that reward truth-telling and restraint. These are human virtues no machine can supply.
+Prepare successors who can carry responsibility, not just performance. Leadership sustainability is a board-level risk.5
+
+We also see two questions C-suites must ask—and repeatedly revisit—to maintain organizations capable of creating durable value in this era. These questions will become even more acute and complex when artificial general intelligence arrives, likely within the decade.
+
+Will our board and leadership team subject themselves to the same disruption they ask of the organization? While many leaders acknowledge that the nature of work and the workforce will change, far fewer challenge the composition, capabilities, and ways of working of their own leadership teams. Teams that will succeed will have the collective character to attract and integrate new types of leadership talent; create new roles, and often new organizational structures; and relentlessly reevaluate leadership capabilities as strategy and technology evolve.
+Have we defined—and enabled—what it means to lead a truly multi-modality workforce? Leaders must learn to integrate the contributions of digital systems, full-time employees, and on-demand experts to execute rapidly shifting missions. Across industries and functions, this will require leaders who are far more agile, curious, and adaptive than many people who have historically governed large organizations. Leaders will succeed more often by organizing talent strategies around the work to be done, not simply the people or agents already in the building, along with more flexible and continuous conversations about roles, capabilities, and who should do what at every level.
+
+**
+
+Leaders are approaching and deploying AI agents and systems in different ways across our enterprises and in our daily work, but we should remain united in one conviction: efficiency can scale output and create new opportunities, but it cannot replace judgment or conscience. As agentic AI continues to improve, and with artificial general intelligence on the horizon, defining and developing the human alpha and inspiring an evolving multi-modal workforce are what will drive lasting competitive advantage. In other words, the competitive advantage of the AI age will not belong to the companies with the best agents or systems. It will belong to companies with leaders who can use those agents and systems without surrendering what makes leadership human—because leadership is not simply knowing what to do. It is shouldering responsibility when there is no algorithm to blame.
+
+Acknowledgements
+
+The authors would like to acknowledge the contributions of Ryan Bulkoski, Sam Burman, David Peck, and Christie Smith to this article.
+
+About the authors
+
+Tom Monahan (officeoftheceo@heidrick.com) is the chief executive officer of Heidrick & Struggles; he is based in the Washington, DC office.
+
+Les Csorba (lcsorba@heidrick.com) is a partner and member of the CEO & Board of Directors Practice; he is based in the Houston office.
+
+References
+
+1 For more on this, see Brad Warga, Jennifer Wilson, and Brian Kropp, “Chief people officer focus: 2026 agenda—becoming an enterprise CPO,” Heidrick & Struggles, February 3, 2026, heidrick.com.
+
+2 Les Csorba, “Too aware to fail,” Heidrick & Struggles, August 1, 2024, heidrick.com.
+
+3 For more on the role of self-awareness and how leaders can develop it, see Les T. Csorba and Dr. Kate Malter McLean, “Wired and unaware: The neuroscience behind leaders’ greatest liability,” Heidrick & Struggles, November 6, 2025, heidrick.com.
+
+4 Proprietary Heidrick data, report forthcoming.
+
+5 Learn more about the materiality of leadership quality in “Board Monitor 2025: The quiet power of continuous board refreshment,” Heidrick & Struggles, August 20, 2025, heidrick.com; and “Route to the Top 2025 | The ascent redefined: Charting more effective routes to the summit,” Heidrick & Struggles, July 23, 2025, heidrick.com.
+
+Related Services & Industries
+
+Chief Executive Acceleration
+
+Frontier Tech
+
+Inclusive Leadership
+
+Leadership Development
+
+Organization & Culture
+
+Organization Acceleration
+
+Related Content
+
+Human Resources Officers
+
+AI focus | VP of AI Workforce Transformation: The newest addition to senior leadership teams
+
+Companies are starting to hire a dedicated senior leader to convert AI adoption into workforce value. How can CEOs and CHROs decide if they need the role, and what should it look like if they do?
+
+Frontier Tech
+
+2025 Global Chief Information Security Officer Compensation Survey
+
+Our sixth annual global survey of CISOs reveals how CISOs’ pay, reporting lines, and AI mandates are evolving as cybersecurity becomes a CEO-level, enterprise-wide priority.
+
+Frontier Tech
+
+2025 Data, Analytics, and Artificial Intelligence Officers Compensation Survey
+
+Our fifth annual report examines compensation for executives with artificial intelligence or data analytics responsibilities.
+
+Frontier Tech
+
+2025 Artificial Intelligence, Data, and Analytics Officers Artificial Intelligence Report
+
+An examination of how organizations structure, govern, and reward AI leadership highlights evolving governance and operating models.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

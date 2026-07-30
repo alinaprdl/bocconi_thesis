@@ -1,0 +1,433 @@
+EMEA CIO Route to the Top
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+EMEA CIO Route to the Top
+
+An analysis of the technology leaders from companies in the Eurotop 100 Index
+
+By
+
+Caroline Apffel,
+
+Lars Alexander Gollenia,
+
+Heiko Mijnarends and
+
+Calum Nicol
+
+September 2019
+
+| 0 min read
+
+Authors
+
+Caroline Apffel
+
+Paris
+
+Lars Alexander Gollenia
+
+Frankfurt
+
+Heiko Mijnarends
+
+Amsterdam
+
+Calum Nicol
+
+London
+
+Technology is disrupting long-standing business models and every sector is feeling its transformative impact, from manufacturing to retail to financial services. The chief information officer (CIO) occupies a unique position at the centre of this transformation, leading one of the most critical functions in the organisation. IT lies at the heart of an integrated digital future, creating the platform on which manufacturing, operations, supply chain, sales, marketing, finance and HR can work seamlessly together.
+
+Spencer Stuart has examined the profile and background of the chief information officers (CIOs) employed by companies in the FTSE Eurotop 100 Index. The highlights of our analysis follow, as well as some predictions that draw upon our work advising companies on the evolution of their technology leadership.
+
+Reporting lines
+
+Less than one-third (31%) of CIOs report directly to the CEO, an indication that the technology function may not always have a ‘seat at the table’ when it comes to the highest-level of corporate discussion and decision-making. It is perhaps surprising in this era of digital transformation that more CEOs do not have their CIO reporting to them directly. We expect this to change significantly over the next 3-5 years.
+
+percentage of CIOs who report to the ceo
+
+Switzerland
+
+56%
+
+Italy
+
+50%
+
+UK
+
+43%
+
+Spain
+
+40%
+
+Benelux
+
+33%
+
+Nordics
+
+25%
+
+Germany
+
+22%
+
+France
+
+10%
+
+Given that only 31% of CIOs in Eurotop 100 companies report to the CEO, it is not surprising that only 26% of CIOs are a member of the executive committee or its equivalent. However, this statistic provides further evidence that CIOs and the functions they lead may not be fully represented in strategy discussions in many organisations.
+
+cio reporting lines
+
+24%
+
+CFO
+
+20%
+
+COO
+
+31%
+
+CEO
+
+10%
+
+Area/division head
+
+9%
+
+Other
+
+6%
+
+Unknown
+
+Women are under-represented
+
+Out of 95 CIOs in our sample, just 17 are women. Six out of 22 CIOs in the UK are women and five out of 22 in France. In Germany, just one of the 19 companies represented in the Index has a female CIO.
+
+13 out of the 17 female CIOs in the Eurotop 100 (76%) are non-nationals.
+
+female cios by sector
+
+12%
+
+Financial services
+
+47%
+
+Industrial
+
+29%
+
+Consumer
+
+6%
+
+Healthcare
+
+6%
+
+TMT
+
+A 2018 study by Boston Consulting Group (BCG) that looked at 1700 companies across eight countries and multiple sectors found that “increasing the diversity of leadership teams leads to more and better innovation and improved financial performance.” Our experience advising clients on team effectiveness bears out this research. In this context, the small number of women leading IT/digital functions across Europe is a reminder of how important it is for technology leaders to actively remove obstacles that prevent women from entering the function and progressing in their careers. Companies able to attract and retain more diverse IT teams will provide better services and enjoy competitive advantage.
+
+In the UK, 29% of CIOs are women and 76% of CIOs are non-nationals.
+
+International diversity
+
+41% of CIOs are non-nationals. In the UK, 16 out of 21 companies (76%) have a foreign CIO, and in Switzerland all 10 CIOs (100%) are non-nationals.
+
+foreign cios by sector
+
+23%
+
+Financial services
+
+31%
+
+Industrial
+
+23%
+
+Consumer
+
+18%
+
+Healthcare
+
+5%
+
+TMT
+
+Seven out of 10 CIOs at healthcare companies are non-nationals; all three German healthcare companies employ a German CIO.
+
+Age
+
+The average age of CIOs is 53 years. This is also the median age of CIOs. The youngest CIO is 38 years old and the oldest is 65.
+
+The average age of CIOs at the time of the appointment was 48.9 years. 57% of CIOs whose age is known were under the age of 50 when appointed.
+
+cios by age bracket
+
+Under 40
+
+1
+
+40 to 49
+
+22
+
+50 to 59
+
+50
+
+Over 60
+
+9
+
+We were able to ascertain the ages of 82 CIOs. The average age of CIOs is highest in the Nordics and Italy (56 years), lowest in Switzerland (48.9 years).
+
+Tenure
+
+The average tenure of CIOs is 3.7 years. The median tenure is three years. Five CIOs have been in the job for 10 years or more. The longest serving CIO had been in the role just under 16 years at our cut-off date.
+
+CIOs in consumer and healthcare companies have tenure above the average, as do CIOs in Benelux, Germany, the Nordics and Spain.
+
+CIOs by tenure
+
+Under 1 year
+
+13
+
+1 to 4.9 years
+
+59
+
+5 to 9.9 years
+
+18
+
+Over 10 years
+
+5
+
+CIO tenure is highest in the healthcare sector (average 5 years) and lowest in the industrial sector (3.2 years).
+
+Internal vs external appointments
+
+Just over half of Eurotop 100 CIOs (54%) were promoted into their roles from inside their organisation. 22% of CIOs have worked for the same company their whole career (although in the UK this is the case for only one out of 21 CIOs).
+
+External hires are far more likely than internal hires to be either foreign and/or female.
+
+external hires increase diversity
+
+External hires
+
+Internal hires
+
+Foreign
+
+61%
+
+24%
+
+Female
+
+23%
+
+14%
+
+Local & male
+
+39%
+
+67%
+
+All 10 female CIOs who were external hires were also non-nationals.
+
+Experience in the top role not essential
+
+Just under one half (47%) of Eurotop 100 CIOs had not been a CIO prior to their current appointment. 75% of UK CIOs and 67% of French CIOs do not have previous experience in the role.
+
+percentage of first-time cios
+
+Nordics
+
+75%
+
+Italy
+
+75%
+
+Switzerland
+
+67%
+
+Benelux
+
+67%
+
+Germany
+
+56%
+
+Spain
+
+40%
+
+France
+
+33%
+
+UK
+
+25%
+
+Of the 44 external hires, 34 (77%) had previously been a CIO. CIOs of companies in the telecommunications, media and technology (TMT) sector are most likely to have previous CIO experience.
+
+Three healthcare companies appointed a company outsider with no previous CIO experience into the CIO role.
+
+Interestingly, companies in the TMT sector are most likely to recruit a first-timer: 75% of TMT CIOs had not led a technology function prior to their current appointment.
+
+Presence of a chief digital officer (CDO)
+
+50 of the Eurotop 100 companies have a CDO with group-wide responsibilities. With all sectors affected by digital transformation issues to some extent, one might expect a higher proportion of companies to have a chief digital officer. Healthcare is the one sector that stands out, with just 30% of companies employing a CDO. A further 21 companies employ a more junior executive who is responsible for innovation/digital transformation, but these individuals have a narrower mandate than that of a CDO.
+
+Two companies do not have a CIO in name, but instead have a chief digital officer who leads the entire IT function (Engie and Enel), while four more companies include the word ‘digital’ in the CIO title (Intesa, GSK, National Grid and BAT). In two companies where no Group CIO was in place at our cut-off date there was a chief digital officer (Société Générale and Deutsche Bank). French companies are most like to have a chief digital officer (14 out of 22 companies).
+
+We believe the trend to combine the chief digital officer and chief information officer roles will continue over the next decade. As this happens, we expect more CIOs will sit on the executive team.
+
+CDOs are generally appointed to take charge of digital strategy and build bridges that enable different parts of the organisation to work effectively together during the transformation process. Too often, CDOs are given too few resources or too little support from top management and the value of the role gets called into question (due to lack of operational remit). The CDO role is likely to become obsolete over time as digital gets integrated into all facets of the organisation.
+
+The route to the top
+
+48% of Eurotop 100 CIOs have a primary background in IT, IT services or software. A further 25% of CIOs have what we call an ‘IT and business’ background. 26% of CIOs have a background in consulting, business (general management) or finance, indicating that, for some companies at least, a technology background is not a prerequisite for the top technology role.
+
+55% of CIOs in Switzerland have a background outside IT, in either business, finance or consulting.
+
+cio route to the top
+
+8%
+
+Business
+
+6%
+
+Finance
+
+12%
+
+Consulting
+
+25%
+
+IT and Business
+
+1%
+
+Other
+
+3%
+
+Software
+
+14%
+
+IT Services
+
+31%
+
+IT
+
+Education
+
+The most common degree held by Eurotop 100 CIOs is engineering (26% of CIOs). One-third of CIOs have a business degree either on its own or in combination with a technical degree (IT or engineering). Just 17% of CIOs have a pure information technology degree. 13% of CIOs have a PhD.
+
+university degree
+
+Technical
+
+55
+
+Business
+
+20
+
+Business + IT
+
+13
+
+Other
+
+11
+
+German CIOs are most likely to have a degree in IT, IT services or software (67%).
+
+The Spencer Stuart Perspective
+
+THE IDEAL CIO PROFILE
+
+As the digital age unfolds, CIO roles are becoming more technical than ever. CIOs must continue to invest in their own domain knowledge to remain on top of the latest trends. Organisations also need to think about succession planning, identifying top talent and addressing the gaps in skills, experience or capabilities before the outgoing CIO retires.
+
+As FTSE Eurotop 100 companies prepare the next generation of CIOs, they will need to balance their current needs with a new set of business competencies that will enable them to thrive in the future.
+
+While a high level of technical ability is normally a given for a CIO, companies are looking beyond the purely technical for a blend of strategic and commercial capabilities, coupled with an aptitude for leading and developing people. What differentiates the CIOs who have the greatest impact is the soft skills they bring to their role.
+
+While the list of capabilities expected of today’s CIOs are on the rise, we have identified three particular ‘soft skills’ that we believe every CIO should possess.
+
+1. Communication
+
+The ability to break down a strategic story into bite-sized pieces that anyone can understand is essential for a CIO, whether the audience is the board of directors, a group of IT leaders or the senior executive team.
+
+2. Influence and collaboration across the enterprise
+
+C-suite executives are increasingly finding that the most effective way to manage is through influence rather than control. CIOs are in a unique position when it comes to leading cross-functional collaboration and, while they’re at it, increasing their influence in the business.
+
+3. A learning mindset
+
+Increasingly, leaders are defined by their capacity to learn, adapt and innovate at speed. Today’s business environment is full of uncertainty and ambiguity and CIOs have to deliver on projects that are not always clearly defined. Part of the CIO’s role is to instill a learning mindset throughout the entire IT function.
+
+———
+
+It could be argued that the next generation of CIOs will be leading the most critical function in the organisation. IT already lies at the heart of an integrated future in which sales, marketing, finance, HR and operations are obliged to work far more closely together.
+
+In future, we believe the role will require a combination of technical and general management expertise, with the CIO acting as business advisor, not simply the leader of a support function.
+
+What is certain is that the next generation of CIOs are likely to bring a wider range of disciplines and experiences to bear on the role, combining technology know-how with project leadership capabilities and strong people management skills, founded on a passion for delivering business value.
+
+Technology is disrupting long-standing business models and every sector is feeling its transformative impact. CIOs occupy a unique position at the centre of this transformation, facing enormous challenges but with a once-in-a-lifetime opportunity to redefine not only their leadership role but also the nature and purpose of the technology function they oversee.
+
+For more information, read “The CIO and digital transformation”.
+
+Download
+
+Download
+
+Authors
+
+Caroline Apffel
+
+Paris
+
+Lars Alexander Gollenia
+
+Frankfurt
+
+Heiko Mijnarends
+
+Amsterdam
+
+Calum Nicol
+
+London

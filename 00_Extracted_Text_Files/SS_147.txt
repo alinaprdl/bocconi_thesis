@@ -1,0 +1,264 @@
+An AI Wake-Up Call for Supply Chain Leaders
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+An AI Wake-Up Call for Supply Chain Leaders
+
+By
+
+Alex Zhu,
+
+Ritesh Bijlani,
+
+Jeremy Fogarty,
+
+Danny Koh and
+
+Nobuyuki Tsuji
+
+October 2024
+
+| 6 min read
+
+Authors
+
+Alex Zhu
+
+Shanghai
+
+Ritesh Bijlani
+
+Mumbai
+
+Jeremy Fogarty
+
+Melbourne
+
+Danny Koh
+
+Singapore
+
+Nobuyuki Tsuji
+
+Tokyo
+
+SectionsIn this article
+
+Here’s a scenario many companies in Asia Pacific face: The product development team recently started using
+generative AI (GenAI) to make sense of ever-changing customer preferences in order to get a new offering into the
+market faster. But the supply chain hasn’t yet implemented GenAI and can’t keep up. Demand forecasts are still done
+manually. Supplier data is spread across different systems. Operations managers make decisions based on sheer
+experience. And that new product? It’s stuck in development, with separate components at different points along the
+supply chain.
+
+Business leaders in Asia are prioritizing GenAI and applying it across many customer-facing functions, but that’s
+half a solution at best. To fully capitalize on the technology, companies also need to implement GenAI to make the
+supply chain more agile and responsive. That shift will have notable implications for leadership teams.
+
+To explore those implications, we spoke with nearly a dozen supply chain leaders and other top executives at
+companies throughout Asia. A recurring theme of our conversations was how the line between operations and technology
+is blurring, and the increasingly urgent need for the supply chain to implement and integrate GenAI.
+
+Download
+
+Download
+
+A growing imperative for leaders
+
+Spencer Stuart’s recent Measure
+of Leadership report, which surveyed more than 2,300 CEOs and board directors, shows that GenAI is on the
+agenda of leadership teams worldwide, particularly in Asia.
+
+Globally, 40 percent of CEOs and directors say that GenAI is a priority they are already addressing. In Asia
+that figure sits at 50 percent.
+
+In Asia, 38 percent of CEOs and directors say that AI will help them personalize offerings or deliver a better
+customer experience, compared with just 14 percent worldwide.
+
+Only 14 percent of CEOs and directors in Asia say that the technology is already paying off, and just 2 percent
+say it will pay off in the next six months (compared with 19 percent and 11 percent, respectively, in the global
+sample).
+
+One clear way for companies in Asia to close that gap and start reaping rewards from AI is to adopt it more
+comprehensively. Along the supply chain, GenAI can improve performance across a wide range of applications. For
+example, by pulling in large volumes of historical sales data and integrating that with seasonal shifts, marketing
+and promotions, economic indicators and other factors, supply chain leaders can get a better sense of what’s
+coming — and how to plan for it.
+
+“Currently, demand forecasting is essentially being done by human labor, which is not accurate enough and prolongs
+lead times to the supply chain side,” says Yuichiro Ikeda, a director at SIGMAXYZ, a Japanese consulting company.
+“Using GenAI to make demand forecasting more accurate over a longer period of time can make it easier to set up the
+supply chain, helping manufacturing become more efficient and optimized.”
+
+What’s more, these benefits come without specialized software, standardized data or extensive coding. “Tasks like
+demand forecasting, supply planning, logistic capacity and inventory management traditionally required scientists to
+design specific models for each domain,” says Wang QingFa, chief data officer at Haier Smart Home. “Nowadays, large
+language models (LLMs) have the capacity to learn a company’s entire sales history to identify patterns, trends or
+seasonal variations, potentially eliminating the need to rebuild models from scratch due to their generalization
+capabilities.”
+
+Beyond the cost implications, GenAI can trigger a range of social benefits across the supply chain, in areas like
+sustainability and safety. It can proactively identify risks among suppliers and other factors (like geopolitical
+considerations or weather), streamline procurement and optimize inventory. Best of all, GenAI solutions can respond
+to conversational queries from all stakeholders ranging from C-level leaders to front-line employees, making
+information far more accessible and actionable.
+
+To capture these benefits, companies in Asia should focus on four priorities:
+
+Foster more collaboration between technology  and operations leaders
+
+“Large organizations face a dilemma,” says a global head of sourcing at an international mining company. “They have a
+large cohort of smart data scientists and IT specialists who understand generative AI. They also have solid
+operational expertise. The challenge for top leadership is to bring these two worlds together so that they
+understand each other and can collaborate more effectively to solve problems.”
+
+In other words, operations and technology leaders need to speak each other’s language, agree on specific business
+problems to solve and collaborate on critical decisions like vendor selection and data standards.
+
+Quote
+
+At many companies, technology decisions are still sitting with the IT organizations. But the business teams like the
+supply chain office are the main users and very often own the budget for the technology transformation. We are
+seeing increasingly the functional roles merging between supply chain and IT."
+
+Ari Sengupta
+
+senior vice president and general manager,
+Blue Yonder, digital supply chain transformation
+
+Integrate the supply chain with strategy
+
+“Some companies are making significant investments in digital, AI and GenAI, but many organizations are adopting
+these technologies in an unstructured manner without a clear understanding of the business objectives,” says a
+managing director at a large strategy consulting firm in India.
+
+Instead, supply chain leaders need to advance beyond passive processors of orders and become true partners to the
+business, with the ability to identify business challenges, meaningfully impact performance and evolve with the
+business as strategic priorities change. To that end, supply chain leaders need a bigger voice in shaping the
+company’s overall direction.
+
+“This shift calls for chief supply chain officers with the ability to drive holistic supply chain transformations, to
+articulate their strategic value to shareholders and customers, and to draw from international talent to elevate the
+function’s profile within traditional firms,” says Ikeda at SIGMAXYZ. “This is similar to the historical movements
+to elevate IT departments to more strategic roles, and leadership becomes even more important when integrating
+advanced technologies like GenAI into the supply chain.”
+
+Embrace “tech-forward, human-empowered”
+
+Supply chain leaders should focus on developing stronger capabilities in GenAI. This is not about getting bogged down
+in the technical details but knowing enough to choose specific applications and monitor performance. “We have to be
+more  digitally aware than we’ve ever been,” says Geoff Walker, global supply chain executive and digital
+transformation leader at Kimberly-Clark.
+
+Because GenAI is a rapidly evolving technology with such immense potential, some companies are creating new
+leadership roles specifically tasked with managing its implications at an enterprise level, such as the chief
+artificial intelligence officer.
+
+In addition, supply chain leaders need to understand when to use human intuition to adjust — or overrule —
+the results from GenAI. “You’ve got to learn enough about it that you can be comfortable that what you’re doing is
+the right thing for the business,” Walker says.
+
+Create a learning culture
+
+Finally, many COOs and supply chain leaders have typically focused on efficiency and order. Teams get tasked with
+specific processes, which need to happen in  a precise and replicable manner. Because GenAI is so new, it
+requires experimentation, and teams will face a learning curve and inevitably encounter setbacks. For that reason,
+supply chain heads need to be less like managers and more like coaches. They need to persuade their people to adopt
+the technology and provide a level  of autonomy that enables them to make mistakes and “fail fast.” Doing so
+requires fostering an AI-ready culture based on openness, continuous learning  and risk tolerance.
+
+In addition, leaders may need to change the way they evaluate talent, prioritizing agility and breadth of thinking
+over rigid adherence to standards. As Jasmine Lin, senior vice president at BlueFocus Group, says, “We don’t
+particularly expect to find what’s commonly referred to as ‘mature talent’ in GenAI, because the technology is
+changing every day. Instead, we value a person’s learning agility — specifically perseverance (how stubbornly
+they persist in trying to solve a problem) and breadth of thinking (their ability to use various methods in solving
+it).”
+
+Applying the principle of yin and yang to GenAI
+
+Another way of considering how GenAI can impact the supply chain is through the principle of yin and yang — the
+two complementary forces in Chinese philosophy. Yin and yang focus on balance and interconnectedness, rather than
+linear cause-and-effect relationships. That is similar to GenAI, which excels at identifying patterns and trends but
+struggles with understanding causality. The technology can predict outcomes based on large datasets but doesn’t
+grasp the underlying reasons why those outcomes occur.
+
+Consider how the yin-yang principle applies to the four priorities discussed in this article.
+
+Unity of opposites
+
+Yin and yang are opposing forces, but they’re not in conflict with each other. Instead, they depend on each other to
+succeed. Similarly, technology and operations leaders can be more effective by recognizing the value of each other’s
+expertise and collaborating to achieve  better outcomes.
+
+System thinking and holism
+
+Leaders understand that all parts of a system are interrelated and that, collectively, they add up to more than their
+sum. Linking the supply chain with overall enterprise strategy applies the same system thinking.
+
+Balance and harmony
+
+Leveraging the power of GenAI to enhance human capabilities and drive innovation is crucial for staying competitive.
+Too much focus on technology without considering the human element can lead to impersonal and inefficient solutions.
+A successful leader needs to balance both.
+
+Constant state of change
+
+The traditional focus on efficiency and order contrasts with the experimental and adaptive nature of GenAI. While the
+former emphasizes precision and replicability, the latter demands a willingness to embrace change and learn from
+failures. This shift requires a cultural transformation, fostering openness, continuous learning and risk tolerance.
+
+• • •
+
+GenAI is a transformative technology, but companies can’t capitalize unless they implement it across the entire
+organization. As our interviews with senior executives across Asia Pacific show, the supply chain at many companies
+still lags in terms of implementing GenAI. The good news? Because the technology is relatively new, there is still
+time to catch up. This is ultimately a leadership challenge — senior teams that hesitate will leave the door
+open for their competitors, while those that are proactive can seize the opportunity.
+
+Acknowledgements
+
+Spencer Stuart would like to extend our sincere thanks to:
+
+Amit Choudhary, Ecom Express Private Ltd
+
+Carlos Cordon, IMD
+
+Rashik Gupta, BCG India
+
+Paul Hill, Bunnings Ltd
+
+Yuichiro Ikeda, SIGMAXYZ
+
+Jasmine Lin, BlueFocus Group
+
+Wang QingFa, Haier Smart Home
+
+Ari Sengupta, Blue Yonder
+
+Geoff Walker, Kimberly-Clark
+
+Authors
+
+Alex Zhu
+
+Shanghai
+
+Ritesh Bijlani
+
+Mumbai
+
+Jeremy Fogarty
+
+Melbourne
+
+Danny Koh
+
+Singapore
+
+Nobuyuki Tsuji
+
+Tokyo

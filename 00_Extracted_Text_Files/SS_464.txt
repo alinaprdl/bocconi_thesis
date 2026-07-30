@@ -1,0 +1,119 @@
+Supply Chain Leadership in Asia: A Global Pandemic Accelerates Forces for Systemic Change
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Supply Chain Leadership in Asia: A Global Pandemic Accelerates Forces for Systemic Change
+
+By
+
+Alex Zhu
+
+July 2020
+
+| 9 min read
+
+Author
+
+Alex Zhu
+
+Shanghai
+
+The COVID-19 pandemic shocked supply chains around the world. More than just creating hurdles, the outbreak completely stopped production in many sectors and exacerbated supply chain challenges stemming from the U.S.-China trade conflict and the rising costs of manufacturing in China.
+
+In response, many supply chain leaders already are looking toward a post-COVID reality, diversifying manufacturing, increasing automation and building a more customer-centric supply chain. They are building resilient and agile supply chains not only to respond to changing environments but also to convert adverse challenges into long-term competitive advantages. According to Simon Chuang, VP, merchandising and integrated supply chain at one of China’s largest automobile service providers, supply chain leaders need to be able to react fast with a bias for action. “It’s not just about fixing problems such as supply disruptions. That is only level one. Next level is to spot opportunities in a crisis and react swiftly. For example, we moved quickly to revolutionize our approach to vehicle care with effective disinfection solutions and worked with suppliers for materials and supply readiness so that we were ready before business resumed in China. That gave us a competitive advantage.”
+
+In the current environment, supply chain leaders need to view individual supply chain components and characteristics as part of a larger supply chain system. According to Donella H. Meadows in her book Thinking in Systems, systems provide structures that offer important advantages, including the ability to withstand numerous pressures without breaking down and the ability to quickly restore functionality to desired levels. A classic example of a system is the human body, which is able to withstand multiple pressures — injury, disease, changes in temperature and food supply — and make internal adjustments — such as reallocating blood supply, repairing damage and speeding up or slowing down metabolism — to maintain operational levels. Systems possess three characteristics that work together to prevent brittleness to shocks and the ability to self-correct:
+
+Resilience: Having the elasticity to withstand pressure and bounce back to its original shape or position through feedback loops or redundancies. Resilience will only be observable with an end-to-end view
+
+Self-organization: The ability to self-organize with the freedom to learn, create and evolve better ways of doing things all the while following a clear set of rules and boundaries
+
+Hierarchy: Systems are comprised of specialized sub-systems that have the ability to operate independently while still maintaining relationships with the wider system to provide and react to feedback
+
+Our discussions with supply chain leaders reveal many actions being taken to move supply chain operations towards system-thinking principles.
+
+In practice: system characteristics at work in the supply chain
+
+Resilience
+
+It is common for companies to build a certain level of redundancy in their supply chain practices. The COVID crisis revealed that larger companies have been more successful at weathering the crisis due to their advantages from global supply chain structures, sufficient cash flow, and process and component parts standardization. For instance, Dell Technologies was able to deal with the short-term surge of product demand due to remote working by their close working relationship with customers and ability to leverage its global fulfillment model. A Dell strategy executive noted: “With a global supply chain, deployment can be enabled consistently globally. We can do things like pre-load notebooks from the factory directly to customers. Proximity to customer needs and fulfillment standards have been set up for years to deal with a high degree of customization to large accounts, giving us the capability to manage through difficult situations.”
+
+In light of COVID and the global political climate, a major challenge many executives have expressed is building resilience in their sourcing activities and inventory. However, in a world that suddenly seems much smaller and much more interconnected, challenges such as the U.S.-China trade war are forcing firms to make difficult trade-offs to prioritize on sustainability, quality, lead time and customer satisfaction. “We build and apply multiple supply chain models. For a lean supply chain, we look at the reliability and cost. For an agile supply chain, we look at the speed and lead time,” said Susan Huang, vice president, head of U.S. supply chain for Signify. Diversifying manufacturing and suppliers has become a key priority for many leaders, in part to respond to the trade war but also with the goal of creating a more agile supply chain.
+
+Kwang Hooi Tan, senior vice president of operations of Flex, said diversification is top of mind for his customers. “The urge to diversify the supply chain is even stronger, and organizations are accelerating these moves. It’s happening now.” Dell also is seeing changes that their partners have contemplated for some time and gained momentum with the U.S.-China trade disputes. “For our supply chain strategy to work, we need to be able to assess new sites, new models and new partners and validate standards for contract manufacturing, while practicing strategic buying,” said a Dell strategy executive. “Our ability to move nimbly has been affected, but we would be much less nimble without our diverse supply chain.”
+
+Finally, companies need to not only build resilience internally but also in their network — in particular, the financial health of the broader supplier ecosystem. Chuang said his company is re-auditing suppliers’ financial resilience. “If they die because of cash flow problems, we face disruptions. And the smaller ones die faster because their tolerance level to risk is very low.” Other companies have experimented with providing financial support or lending personnel to keep some of their smaller suppliers afloat.
+
+“The urge to diversify supply chain is even stronger, and organizations are accelerating these moves. It’s happening now.”
+
+Kwang Hooi Tan
+
+Senior vice president of operations, Flex
+
+Self-Organization
+
+A supply chain system’s ability to self-correct is driven in large part by its ability to self-organize when triggered by appropriate feedback loops to restore activity. Companies with the ability to rapidly sense and anticipate the challenges of COVID have fared better.
+
+Chuang noted, “our team’s sensitivity to the market had been forged ahead of the virus. Without being asked, they started to connect with our suppliers as early as during Chinese New Year to design new service offerings.” Anuj Singh, chief merchandising officer, Walmart India, added: “COVID was not entirely a bolt from the blue. We were aware of this from our operations in China since the end of February and had done the business continuity planning to ensure stock buildup.” Tan shared further that he was able to purchase enough masks for Flex’s 60,000 employees in China before the Wuhan lockdown.
+
+Companies without such feedback loops struggled to quickly respond to changing demands. An executive at a global consumer technology firm noted the challenges of being able to effectively respond to the COVID-19 crisis in a firm with centralized decision-making: “Doing anything quickly was tough. All decision rights are in the center, and the problem is they often don’t have good context about the region. In most of the conversations, we needed to spoon feed the context, problems, options and solutions. This takes a long time and gets in the way of moving fast.” Dave Ingram, chief procurement officer at Unilever, shared a similar observation, “command and control would take too long for decision-making and we have to empower our teams even more.”
+
+More effective feedback loops and teams’ ability to self-organize are created through empowerment and inhibited by centralized control, and self-organizing systems can tolerate a certain amount of chaos and mistakes. “At Flex, it’s fine if someone makes a mistake, because the culture allows those whom have credit to do so.” Tan added, “You can have a better plan, but if the culture is not there to support it, it stays a plan.” As COVID developed in China, managing the robustness of local policies to better respond to irregularities became critical. Tan said, “The biggest challenge to explain to HQ was how to synchronize central, provincial, city and even district regulations. Everybody had their own interpretations and customers were confused.”
+
+Investments by companies in digital and data analytics tools allowing local teams to uncover business and customer insights is also a theme. Ingram noted that the company was already long on a journey to develop an “insights engine” to transform data into insights about consumers’ motivations and, ultimately, into strategy. Large multinationals like General Mills are taking a broad look at their supply chain technologies in anticipation of the next turbulent event. “We are working on building more direct-to-consumer capability and improving our data and analytics capabilities,” said Dillon Fu, head of integrated supply chain at General Mills China. Huang added her view that “Data is king! Data integrity, analytics and activation are paramount for business.”
+
+Hierarchy
+
+Per Meadows, hierarchies provide the structure that enables systems to be resilient and the mechanisms for self-organization. Systems are comprised of sub-systems that have very tight links within but still connections to other sub-systems. This allows each sub-system to specialize and focus on its mandate, without the larger system having to adjust to every change. In the context of business and supply chain, teams that are able to specialize in specific tasks and function effectively and independently when other teams are severely impacted are essential for a company to navigate external shocks. This can be evidenced by how Chinese society contained the pandemic successfully while the epicenter Wuhan was in complete lockdown for 76 days.
+
+Hierarchies also reduce the amount of information systems need to keep track of, thus providing a feedback mechanism with fewer layers that may cause delay and distortion. Think about how Flex HQ allowed Tan to purchase a huge number of masks by a phone call without having to go through tedious approval process.
+
+It is important to understand that hierarchies exist to serve the system’s goals, which have to be explicitly articulated. Fu shared that in the early months of COVID in China, General Mills chose to prioritize customers’ needs by supplying online and physical grocery stores because public welfare was the company’s higher purpose when citizens started pantry loading.
+
+The COVID crisis has revealed the need for cohesive hierarchies as the lack of face-to-face interaction has led to the strengthening of silos within companies. Singh from Walmart India noted, “We still find people who think of issues from their siloed perspectives — only 25 percent of the executive team think of the customer first — how do we as an organization need to respond and how can my function help.” However, in times of crisis, teams must have the ability to both maximize team effectiveness and reach across silos to collaboratively deliver what matters most to customers. Fu said General Mills was able to respond faster to the crisis due to supply chain team’s strong partnership skills and collaborative mentality. “These are far more important traits than other fancy concepts,” he said. “I want my direct reports to own their work, engage other departments proactively and take ownership instead of escalating them or pushing things away.”
+
+Earning a “seat at the table”: implications for supply chain leaders
+
+While companies have long known the value of a strong supply chain system, the COVID crisis has brought to light how deeply essential the function is for a company to succeed. Leaders we have spoken to indicate that the challenges they faced in dealing with COVID resulted in part from their lack of “a seat at the table” at the most senior levels of the organization and influence with the board. As a result, supply chain leaders are hopeful that they will have a larger voice to plan and strategize with top firm leadership as well as have a larger say on the trade-offs that are often made for commercial reasons. Supply chain leaders who are most likely to earn that seat are those who develop the following attributes.
+
+Digital readiness
+
+Leaders must become comfortable proactively engaging in a digital environment. While this may not impact recruitment profiles at firms, we may see increased training to help executives improve their digital skills. The Dell strategy executive commented, “we don’t see a shift in talent needs, it’s more a question of do we have enough? People who are comfortable in silos, not getting out there digitally, will not be able to adapt.” In the meantime, supply chain executives are level-headed about it without getting into “digital paralysis.” Tan said, “We should use digital technologies in more pragmatic ways. When you have 10 TB of data coming in, and 50 KPIs to measure performances, you don’t know what to do.”
+
+Customer centricity in a virtual world
+
+A frequent theme among supply chain executives is the focus on customer centricity — deeply understanding your customers’ needs and fulfilling them better than anyone else. An effective strategy for Dell has been ensuring “voice of customer” is the core of all company activities. The Dell strategy executive noted that the company was able to take advantage of the short-term surge of demand from remote working by being “nimble and having relationships needed with customers to shape demands.” Striving to adopt a customer-centric mentality is not new for many companies; however, the ability to effectively do so is more difficult in a virtual world. Driving outcomes beneficial to all customers often requires the ability to work across functional silos. One way to develop this capability is to rotate senior leaders to functions outside of their own to build holistic experience across the organization as a whole.
+
+“We need to think customer first and have leaders with cross-functional experience who can be better prepared to tackle crises. We would not put anyone in the executive team if they have not worked outside their functional area.”
+
+Anuj Singh
+
+Chief merchandising officer, Walmart India
+
+Leadership in the “new normal”
+
+Effective leadership remains the best predictor of business success and long-term organizational viability in the relevant context. Effective leaders are “impact-multipliers,” who work through people and rely on attributes such as self-awareness, empathy, humility, agility and resilience, all required for the system-thinking approach.
+
+In the shadow of COVID-19, supply chain leaders are asking important questions that reflect the new normal: How comfortable are executives with leading virtually? How well can they lead remotely compared to a face-to-face context? “Good supply chain leaders are able to manage volatility and ambiguity. They build a broad knowledge base and are politically agile and sensitive to the business,” said Huang. “We’re ‘dancing’ every day, as the situation changes and moves. A leader should stay calm amidst crisis, avoid being emotional and passing stress downwards.”
+
+Chief crisis officer mindset
+
+As companies return to the new normal, some are considering developing playbooks that enable a fast and structured response to different crises. A designated chief crisis officer is needed to lead this work and drive execution during times of crisis. As Singh in Walmart India noted: “We do war gaming for business strategy, but we need to include crisis training into the curriculum. We don’t want to wait to be in eye of the storm and then have to figure out what to do.”
+
+Conclusion
+
+The disruption of the COVID-19 pandemic, the U.S.-China trade war and other macroeconomic trends have increased the urgency to reassess and restructure supply chains. The leaders who do this most successfully will approach supply chain as a large system — rather than as a set of individual components — building in the resilience, self-organization and hierarchy to respond effectively to crisis. By placing customers at the center of supply chain strategy, embracing digital technology and mindsets, multiplying their impact and developing a crisis playbook, these leaders will have the knowledge and influence to build supply chains able to withstand the challenges presented from the forces we know today and those that will undoubtedly arise in the future.
+
+Download
+
+Download
+
+Author
+
+Alex Zhu
+
+Shanghai

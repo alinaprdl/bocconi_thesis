@@ -1,0 +1,90 @@
+The Era of AI Education
+
+Article
+
+Briefings Magazine
+
+Insight Articles
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Briefings Magazine|Jan 10, 2024
+
+The Era of AI Education
+
+With professionals eager to learn about the world’s hottest business trend, universities are launching a slew of executive courses. Are they worth it?
+
+See the latest issue of Briefings at newsstands or read in our new format here.
+
+By: Arianne Cohen
+
+I’m an hour into a Zoom class with Northwestern University professor Birju Shah, who is affably teaching me and 80 other students about when companies should adopt hyped new technologies. He’s monologuing into a camera in front of a serene blue background; I can’t see my classmates, who are leaders at firms and startups, but I know they’re there because they periodically type questions into the chat feed, which Shah pauses to answer.
+
+His class—a $2,850 online course offered by Northwestern University’s Kellogg School of Management—is called Artificial Intelligence Applications for Growth, and it’s for professionals who want to successfully integrate AI into their work in order to gain a competitive edge. It’s 15 weekly hours of lectures, studying, and group activities over two months. Shah is jazzed about when and how firms should jump into new tech, but sometimes speaks vaguely, as is essential when talking to 80 students from diverse companies. He says things like, “Most companies should be a little bit careful about taking their next step” and “Most companies should be thoughtful in thinking through what is public data, private data, proprietary data.” Well, yes.
+
+It is precisely the vagueness surrounding the world of AI that makes this curriculum—which is being taught in so many classrooms across the globe—an academic powerhouse. With impressive course names like “Harnessing AI for Breakthrough Innovation,” outfits like Wharton and Baruch College are promising everything from fluency in ChatGPT to management expertise in AI tech stacks, all in tidy, typically one- to eight-week programs with—just as typically—significant price tags.
+
+Certainly, “AI Ed” is providing a service by filling a knowledge gap that emerged last year when generative-AI tools made major headlines with anxiety-inducing promises to reinvent the business world in a snap. From CEOs on down to the mailroom, workers are fretting that the new technology could put their firms out of business or make their jobs obsolete—unless they can grasp the requisite knowledge of just how to properly “prompt” this 21st-century technology.
+
+But trying to educate anyone new to a field is no easy feat, especially if it’s a technology that seems to change every week. Critics worry about what people are really learning. And of course there are the economics behind such pricey teaching. AI classes are part of an executive-education industry that operates in the shadows of many great institutions, but brings in enormous sums. At last count, executive classes at US schools brought in more than $42 billion in 2022, a figure that is expected to double by 2030.
+
+It’s a newer line of business for schools, which experts say are slow-moving nonprofits that tend to have decades and centuries of tradition and red tape. “Running these programs involves carefully managing costs and pricing while meeting market demand,” says longtime higher-education administrator Jennifer Finley, the editor of university-ranking company Academic Influence. This is typically the domain of nimble startups, experts point out—not aging academic institutions. All of which raises the obvious question: Can these schools adapt quickly enough to meet exploding demand—and still dispense useful knowledge?
+
+AI is one of the hottest and least understood fields that has come onto the corporate and world stage in decades. But it is hardly a given that universities would end up offering such extensive AI executive-education programs. For the most part, training in such new areas of business has been left to HR departments at firms or the massive corporate training industry.
+
+But AI arrived at a time when the education world was already moving deeply into the executive-education field. Universities usually have several revenue streams: tuition, research grants, endowments, government funding, and philanthropy. For their part, executive-education programs arrived on the scene with a much higher price per course-hour than undergraduate or graduate degree programs, and typically leverage existing resources (professors, classroom space). “Executive education is a significant source of revenue for universities,” Finley says. “It’s cost-effective.” And lucrative.
+
+Indeed, executive-education programs at just one Ivy League business school, for example, brought in a higher percentage (18 percent) of the school’s annual revenue than the entire business program (14 percent) did in 2022. The need for them is even more severe at Tier 2 and 3 schools, which studies have shown are grappling with numerous financial problems.
+
+"It's about teaching something that people aren't getting at their current organization."
+
+At least at big-name schools, none of these courses are offered cheaply, with price points of between $4,500 and $15,000 for up to a week of in-person classes (lower-tier or online-only schools have found market niches offering online courses for a fraction of that). “The steep cost is a hurdle for learners who don’t have corporate sponsorship,” says Israel Gaudette, CEO of a 23-person SEO company who took an $1,800 online course in AI for business at one Ivy League school.
+
+In their defense, schools say their executive-education courses are undeniably popular—and for good reason. “It’s about teaching something that people aren’t getting at their current organization,” says Shah, the Northwestern professor. Student after student, he says, comes to these programs eager to learn what they can’t pick up at work. “I’m seeing people who are successful, but who haven’t achieved digital-platform skills.”
+
+The elite business schools do put substantial resources into executive-education programs and the buildings that house them. And the most astute administrators have motivations beyond income. They understand that executive education serves many purposes, including attracting revenue, forging relationships that help firms to hire undergraduate and graduate students later on, and providing up-to-date case studies. This last objective is essential in a field that changes in real time. “Executive education is where they can do beta testing, really sharpen what they’re doing, and take that back to the MBA classroom,” says Ken Kring, co-managing director of the Global Education practice at Korn Ferry.
+
+Back in my Artificial Intelligence Applications for Growth class, I’m faced with the same question many schools are grappling with: What, exactly, should AI courses teach? The class moves quickly, and I come away with a baseline knowledge of topics like managing customer experience with AI, operations around AI, and how to start using AI in support functions like human resources and risk management—not to mention AI in transport and autonomous vehicles, which is Shah’s sweet spot. A lot of the content is forward-looking. “We do a really good job of making sure people know where the puck is going,” says Shah. Group projects put students together to dream up and manage complex AI applications. I come away wishing my classmates were on my team at work.
+
+For Melissa Terry, an accountant who took a Wharton AI class, the course was invaluable. “It was accessible,” she says. “For me it was worth the cost.” But other students say even A-list business schools are scrambling to understand and deploy the most useful AI content. In interviews, they complain that case studies tend to focus on blue-chip companies and projects far from the day-to-day workloads of the students taking the classes. “I’d suggest an expansion of real-world case studies,” says Peter Michaels, the CEO of Yeespy, a children-safety-monitoring company. He took a course on AI strategies for business that he felt could have offered a broader range of examples across industries and companies of different sizes.
+
+"Executive education is a significant source of revenue for universities."
+
+As AI offerings mushroom, executive education has expanded broadly. When Reid Simmons, a professor of computer science at Carnegie Mellon University, was approached to create a class, he was surprised at how substantial the proposed curriculum was. “I said, ‘This doesn’t sound like ‘executive education.’ To me, executive education is what an executive needs to know about AI in order to be conversant.” The 10-week, online class he developed, Introduction to Artificial Intelligence, shows the breadth of different technologies that encompass AI, ranging from markup models to human-AI interaction to search—then delves deeper into how they work. As such, the course is geared toward people who want to work in the AI space, and has drawn students at $2,300 per head for the last two years.
+
+Type image caption here (optional)There’s also the question of who should teach the courses. Tenured faculty often want to teach executive education, because it opens doors to lucrative corporate-consulting contracts, and corporate leaders typically prefer to be taught by people with substantial corporate experience, such as former executives who “retire” into adjunct roles at universities. “It creates a really interesting tension in graduate schools,” says Kring. For his part, Shah certainly has the credentials: he previously was head of product at Uber Health. Professors who teach full slates of executive-education courses become semi-famous in corporate circles.
+
+A problem often emerges in executive education. “Back in the office, students may not be able to practice what they’ve just been taught, and the whole effort is wasted,” says Rafael Ramirez, professor of practice at Oxford University’s Saïd Business School. This is known as the Valley of Death—the gap that appears when students leave behind what they’ve just learned in the classroom. Ramirez says that executive education sometimes  goes like this: a leader senses a lack of expertise around AI, googles a few executive-education options, and sends off a couple of hand-picked executives for training. Upon their return, the leader asks, “What did you learn? Oh, that’s very interesting. Let’s get back to work.”
+
+Experts say the solution to avoiding the Valley of Death lies not with the university, but with the companies that send the students there. Ramirez says it’s about mindset. “People think of executive education as time away from work, rather than work done in a different setting and framework,” he says. To fix that, he adds, students need to be primed to bring their own examples from work into the classroom. The school, meanwhile, needs to understand how to incorporate the students’ real-world projects into the curriculum. This is where today’s executive-education programs are looking to innovate and grow, with tailored coursework.
+
+The leaders who send students to the executive-education programs have a role to play as well. “They have to prepare the groundwork for students to take the learnings back in practice,” Ramirez says. “Otherwise, it’s a complete waste of time.”
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility

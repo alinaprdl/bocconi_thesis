@@ -1,0 +1,560 @@
+Whole Brain Marketing
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Whole Brain Marketing
+
+Data, creativity and the leadership challenge
+
+By
+
+Gianluca Bianchi
+
+May 2017
+
+| 13 min read
+
+Author
+
+Gianluca Bianchi
+
+Milan
+
+Introduction
+
+Accelerating technology, advancements in tools for data acquisition
+and analysis, as well as capabilities in customisation of
+products and services, all aim to serve the longstanding fundamental
+of marketing: to understand customers, meet their
+needs and establish relationships to secure their loyalty. In a
+survey of 200 companies, we asked marketing leaders what
+they consider to be the primary benefits of building a more
+powerful data- driven marketing culture. Eighty per cent told us
+that it was to provide better customer insight.
+
+Of the companies we surveyed, more than half have annual
+global turnover in excess of €1 billion. They range across
+sectors from consumer goods and services, technology, media
+and telecommunications to industry, healthcare, life sciences
+and professional services. While they vary in the extent of their
+digital processes and capabilities, all are escalating their digital
+marketing capacity to be more relevant and accessible to their
+customers, and to better understand them.
+
+As consumers and businesses alike become more technologically
+savvy, engaging with content across a variety of networks
+and systems, marketing professionals are working hard to
+improve their proficiency in data systems and digital design.
+Almost 60 per cent of those we surveyed told us that their
+organisation’s digital capabilities are either beginning to
+produce results or have advanced to high levels of
+sophistication.
+
+Among other things, data- driven marketing helps to target
+audiences, shape offers, and predict future purchases based
+on past transactions. It improves search engine optimisation,
+allows for rapid real- time adjustments to marketing campaigns
+and automates insights. However, it also requires changes in
+how marketers think and how marketing teams work together.
+
+Kerris Bright, chief marketing officer of Virgin Media, whose
+120- strong marketing brand and analytics team includes many
+analysts and model builders, remarks, “We have the power to
+understand what our customers like to watch so we can
+personalise communications and offer to help them enjoy
+more of the stuff they love. The opportunity to turn data into
+insight is great for business and our customers, but it requires
+marketers to think in a much more analytical way.”
+
+We have the power to understand what our customers like… but we have to think in a more analytical way.
+
+Kerris Bright,
+
+CMO, Virgin Media
+
+A rising emphasis on digital capabilities
+
+The debate over the changing craft of marketing — how to
+incorporate digital capabilities into a discipline based traditionally
+on creativity, and how to integrate data experts with
+those who have marketing flair — is preoccupying marketing
+leaders globally.
+
+Predictive analytics, algorithmic marketing strategy, hypothesis
+generation and machine learning form a growing part
+of today’s marketing mix. CMOs need a strong grasp of the
+capabilities of big data, what is needed for their teams to
+harness its power and a willingness to assign resources
+that support the organisation’s strategic goals.
+
+When we asked marketing leaders how they would allocate
+resources if they wished to strengthen the marketing capabilities
+of their teams right now, three- quarters chose digital
+and analytics over creative activities. While the traditional
+marketer’s creative flair is still valued, digital capabilities
+are taking top priority. Bas Verheijen, chief marketing officer
+of online supermarket Picnic, makes it clear: “The marketer
+of the future will need to bring a different package of skills
+and knowledge. Affinity with data and analysis is now an
+unconditional requirement.”
+
+The marketer of the future will need different skills. Affinity with data and analysis is an unconditional requirement.
+
+Bas Verheijen,
+
+CMO, Picnic
+
+Of those we surveyed, 51 per cent expected that marketing
+leaders of the future would have digital marketing skills,
+with nearly 38 per cent expecting skillsets to include data
+management and analytics. “Data has acquired a level of
+importance that simply wasn’t there a few years ago,” says
+Nina Bibby, chief marketing officer of O2. “We’ve always had
+scientists; we’ve always had propensity models; we have a
+huge base and use a lot of CRM … but the area has just
+exploded.” For Bibby, there is absolutely still a place for classically
+trained marketers, but she is keen to complement
+this with digital natives who are versed in all things data.
+The CMO of the future is likely to have experience of both.
+
+Data has acquired a level of importance that simply wasn’t there a few years ago.
+
+Nina Bibby,
+
+CMO, Telefonica O2
+
+Marco Sansavini, chief commercial officer at Iberia, states
+the order of importance at Iberia clearly. “The role has
+significantly evolved in recent years. While marketing
+skills related to the capability to define and market
+customer propositions appealing to target consumer
+segments remains of paramount importance, analytical
+capabilities, and in particular big data skills, are becoming
+increasingly important, as personalisation is amongst
+the most relevant areas of value creation in future.”
+
+What’s at stake?
+
+With so many different digital portals and devices being
+used by consumers, there are more ways than ever
+before in which people can experience a company’s
+brand or products. By digitally tracking customer touchpoints
+and interactions, companies can get an accurate
+picture of consumer behaviour and buying practices.
+
+The rise of consumer reviews, market reviews by clients,
+and social media influencers, means that companies can
+easily lose control of how their brands are viewed in the
+marketplace. Companies are increasingly participating in
+social media, analysing social conversations and evaluating
+ways to influence and increase brand perception.
+
+Employee incentives at NH Hotels foster a companywide
+respect for the power of digital influence, with a
+substantial part of a hotel general manager’s bonus
+linked to his or her hotel’s internal surveys’ score and
+TripAdvisor ratings, for example. Isidoro Martínez de la
+Escalera Álvarez, chief marketing officer of NH Hotels
+Group, explains that TripAdvisor reviews “can now be
+subject to a detailed semantic analysis of up to 120
+different categories, very rich in insights, and looking at
+trends in details.”
+
+Martínez de la Escalera Álvarez says, “We have new
+tools to read the return on investment almost immediately
+and we are moving away from marketing that is
+focused more on image and brand positioning to
+marketing that has as its key objective generating sales
+through the purchasing funnel. Strategic vision continues
+to be important, but the knowledge of digital is even
+more important for new CMOs in some sectors.”
+
+We are moving away from brand positioning to marketing that generates sales through the purchasing funnel.
+
+Isidoro Martínez de la Escalera Álvarez,
+
+CMO, NH Hotels Group
+
+A New Whole Brain Customer Experience
+
+Sid McGrath, Chief Strategy Officer, Karmarama
+
+A consequence experience
+
+The customer experience for brands is driven by consequence: when customers have a
+good experience they continue to engage with the brand; if the experience is bad they
+disengage, often telling others about their disappointment and spreading a message of
+general discontent.
+
+This makes for some pretty precarious brand relationships. However, the issue that so far
+no-one seems to be addressing is that the very notion of the customer experience is
+fundamentally flawed.
+
+A disconnected, transactional experience
+
+Marketing leaders see customer experience as their number one priority, but they are
+rarely in control of all of it, or even enough of it to make a difference. Recent focus on
+using digital technology to influence customer purchasing decisions is causing some
+companies to concentrate too narrowly on the customer’s interaction with a brand at the
+moment of sale. These ‘experiences’ can be relentlessly sales-focused and annoyingly
+interruptive. Organisations calling themselves customer experience experts encourage
+companies to increase the number of transactional messages, but is this really leading to
+better, worthwhile and relevant experiences for the customer? The fact is that global use
+of adblockers is rising while trust in brands is rapidly declining.
+
+Reducing a person’s relationship to a brand solely to that of a ‘customer’ demonstrates a
+lack of understanding about the role that brands actually play in our lives. A transactional
+focus also shows a brand’s hand: their audience is perceived as a wallet ready to be picked or
+a purse ready to be opened, rather than a person to be understood, respected and served.
+
+A human experience
+
+What then is the answer? To start with, people must be respected as human beings with
+fairly low thresholds for unwanted buying messaging. This doesn’t mean no messaging;
+it means messaging that is empathetic to the individual and to the context. With this in
+mind the customer experience can then be reimagined as the human experience, from CX
+to HX, where a brand’s pathway into people’s lives is fully understood and delivered with
+relevance rather than persistence.
+
+The transactional experience previously locked into consumption and category gives way
+to one that connects with culture and allows for meaningful, useful and relevant communication,
+with the selling left to the right place and the right time.
+
+A fully-connected experience
+
+If the human experience is the answer, how do we get there? Again, it’s about understanding
+how humans, and more specifically, how our brains, work.
+
+The brain is an astonishingly connected piece of hardware. As much as we may try and
+separate it into left and right hemisphere, or occipital and frontal lobes, or neocortex and
+limbic system, every part of the human brain is connected to another part to improve its
+understanding and response towards any situation. This connection ensures an integrated
+response, a mix of logical and emotional consideration, instinct and intelligence.
+
+The interconnectedness of the brain serves as a model for understanding how to create
+better, balanced and truly human experiences for brands. Approaching any experience
+with a whole-brain mentality means finding a way to connect everything with everything,
+from consumption to category to culture. This is how humans see their world — fully
+connected — so it stands to reason that it’s also how they should engage with their
+brands and how brands should engage with them.
+
+Now consider once again the classic customer experience — an experience that ushers
+customers through the consumption and category phases of their relationship with a
+brand, but stops short of connecting to the culture of the wider life they lead.
+
+Without the insight and intelligence required to understand the implications — the
+consequences — of the brand experience, the experience itself breaks or, worse, is biased
+towards buying rather than being. This is the fundamental reason why customer experiences
+are disconnected.
+
+A meaningful experience
+
+Once a brand is able to connect to a person’s wider life, understand and respect them as
+a human rather than a data point or part of an algorithm, and can connect that back to
+the category and consumption phase of the relationship, there emerges a new type of
+powerful, meaningful, connected human experience — one that people will actually want
+rather than one that will frustrate them.
+
+So, paradoxically, we don’t live in the age of the customer; they are not “king”, “queen” or
+“the answer”. We need to move to the age of human, to human-centricity where what the
+human wants and needs can be fully, relevantly connected to the relationship that brands
+want to have.
+
+The advantages of tradition
+
+Not every sector is using digital marketing to the same
+extent. In the past 10 years, companies in the technology,
+media and telecommunications, professional
+services and financial services sectors have generally
+undergone greater digital transformation than
+consumer goods and industrial companies. Our survey
+indicates that within the consumer goods sector, 65 per
+cent of companies spent less than a quarter of their
+marketing budget on digital. By contrast, 45 per cent of
+respondents in professional services firms said that
+digital takes over half of their marketing budget.
+
+While all the marketing leaders we spoke with agreed
+that digital will significantly shape the future of marketing,
+many saw traditional marketing as still vital, and
+urged caution in being too technology- focused. “The
+objective of marketers should be to delight consumers
+and make them dream,” says François Bazini, SVP
+global marketing excellence & international marketing at
+spirits manufacturer Beam Suntory.
+
+“In my view, people have neither the time nor the desire
+for deep relationships with brands and, as a result, most
+social media marketing programmes are failures. Digital
+marketing is another story, but there too we have seen a
+lot of companies wasting money in ineffective banner/
+display campaigns. This is due to ad blocking, fraud,
+unclear metrics, and/or poor creative. The good news is
+that even the big guys (e.g. P&G, Unilever) are waking
+up and we now know that brands should proceed carefully.
+But no one is more gullible than marketeers who
+feel like they’re missing out on a trend.”
+
+Brands should proceed carefully. No one is more gullible than marketeers who feel they’re missing out on a trend.
+
+François Bazini,
+
+SVP global marketing excellence & international marketing, Beam Suntory
+
+As much as Verheijen values data analysts, he respects
+that traditional marketers are “masters in telling stories
+and bringing to life the brand strategy in all contacts
+with a customer.” The diverse skills required by the
+whole of the marketing team, skills that at first glance
+are at odds with each other, require “connecting and
+collaborating, with the brand always coming first,” he
+explains.
+
+It is just as well that traditional marketing still plays an
+important role, as some companies struggle to gain
+enough information to fully utilise digital’s potential. It
+is difficult for a company to accrue data on customers
+they do not sell to directly. Unless the company forms
+partnerships with retail chains and similar channels, the
+data remains with the intermediary.
+
+The two sides of marketing
+
+While we know the brain is an integrated single system
+that works cohesively, there is a popular notion that
+divides people into “left- brain thinkers”, with a propensity
+for analytics, logic and a rational view of the world,
+and “right- brain thinkers”, predisposed towards vision,
+creativity, intuition and relationship- building. Applied to
+marketing, these terms are somewhat useful in describing
+what feels like a division of intellect in the marketing
+function.
+
+Left- brain thinkers are seen as fact- based, data- oriented,
+rational, logical, workhorses. They gave CMOs what was
+called “decision support” in the Seventies, “executive
+support” in the Eighties, “business intelligence” in the
+Nineties, and finally “analytics” and “big data” today.
+Right- brain thinkers carry the creative drive: the ability to
+connect with the consumer, to communicate the
+essence of a brand through a great campaign, to “think
+outside the box” and bring moments of inspiration that
+lead to breakthroughs.
+
+All marketers are trainable in the creative area, no matter how analytical their background.
+
+Atilla Cansun,
+
+CMO, Merck Consumer Health
+
+The two different types of marketers — right- versus leftbrained
+— don’t easily find common ground.
+Right- brain creative marketers may find it daunting to
+make use of the great proliferation of data, the disciplines
+of zero- based budgeting, and the need to
+demonstrate ROI. Equally, those who have never
+attempted to reason without all information present,
+those who have never engaged in storytelling or who
+flinch at the word “innovation” unless it is preceded by
+the word “technology”, may find such processes formidable.
+Three- quarters of marketing leaders in our survey
+felt that left- brain thinkers with their analytic, linear logic
+could be trained “to some extent” to be fully functioning
+“right- brain” creative thinkers. Atilla Cansun, chief
+marketing officer of Merck Consumer Health, falls into
+this camp: “Our experience shows that all marketers are
+very much trainable in the creative and innovative area,
+no matter how analytical their background.”
+
+In a perfect world, marketers would possess all the
+necessary qualities that today’s marketing demands.
+They would offer the full armoury of creative and analytical
+skills; be shrewd, agile and culturally sophisticated
+commercial operators who are calculating and rational,
+yet visionary and intuitive. Such people are rare and
+extremely valuable. “The few marketers in my organisation
+that outperform the rest combine both creative and
+analytical,” says François Bazini at Beam Suntory. “They
+are very interested in marketing science and are avid
+readers of marketing books.”
+
+Rarely do marketers possess all these qualities. A digital
+native with extensive training in data analytics may not
+yet have the experience to provide marketing wisdom
+and depth of insight. Experienced traditional marketers
+may feel displaced by the amount of value placed on
+data analytics. Leaders must sensitively combine hiring
+new talent with team development and offer “legacy
+marketers” opportunities to increase their digital skills.
+Employers should be reasonable in their expectations,
+and remember that they, too, are being evaluated by the
+next generation of marketers who look carefully at
+“employer brands” when deciding where they want to
+invest their talent.
+
+Managing talent
+
+To create an optimal mix of skills in the marketing function,
+leaders need the self- knowledge to understand
+where their own natural bias lies — towards logic or
+magic, so to speak — and be willing to cultivate new
+skills and understanding within the organisation, as well
+as to look externally for talent.
+
+Only six per cent of marketing leaders in our survey felt
+equipped to develop from within their own organisation
+a sufficient balance of digital acumen (or “logic”) and
+creative marketing sense (“magic”). Nearly 80 per cent
+of respondents said that they would need to combine
+developing their existing team with hiring expertise from
+outside sources. In the past 12 months, 51 per cent of
+CMOs have set up digital marketing training for their
+teams and 30 per cent have hired an internal data/
+analytics expert to join the marketing function.
+
+It is not always easy to hire and retain the talent
+required. Peter Duffy, chief commercial officer of easyJet,
+explains: “Our challenge is the talent pipeline, which is
+tough and getting tougher. Our best people are aggressively
+headhunted. We hire young Europeans with
+strong academic credentials who understand brand
+proposition. Increasingly, we are also looking for highly
+specialised skills in the area of artificial intelligence (AI)
+and advanced analytics.”
+
+Our challenge is the talent pipeline. Our best people are aggressively headhunted.
+
+Peter Duffy,
+
+CCO, easyJet
+
+A study by the CMO Council found that 80 per cent of
+marketers and 88 per cent of IT professionals believe
+that working together is critical to ensure customercentricity.
+At easyJet, says Duffy, “the traditional silo
+approach is untenable in the new world of big data. The
+contact centre needs to understand CRM; CRM needs
+to understand the brand; the brand needs to be informed by the data coming out of CRM. The boundaries
+have broken down and the marketing director’s role
+is to be the orchestrator.”
+
+Micha Medendorp, chief marketing officer of Rituals,
+concurs. “As business becomes more digital and therefore
+marketing becomes more digital, organisations
+become more connected. Silos won’t do anymore; they
+hinder agility and holistic solutions.”
+
+Some companies help to foster understanding within
+their groups by as much cross- exposure as possible.
+Speaking at the Spencer Stuart CMO Summit on
+“Tomorrow’s CMO: Chief Magic or Logic Officer?”, Lisa
+Bacus, EVP and global chief marketing officer of US
+health services company Cigna, described how they use
+rotational assignments to help mix talent among their
+newer marketing team members, and develop training
+programmes to develop additional skills. Cigna does a
+lot of test- and- learn around ideas, big and small, as well
+as sending out problem statements to the entire organisation
+and inviting responses from their 35,000 people.
+“It’s amazing where these ideas come from,” says Bacus,
+who acknowledges that there are those who prefer one
+habit of thought to another, but feels that by focusing
+on overall strategy, “you can apply both the creative and
+the analytical”.
+
+Focusing on overall strategy lets you apply both the creative and the analytical.
+
+Lisa Bacus,
+
+Global CMO, Cigna
+
+This same flexibility is expressed by Massimiliano
+Benedetti, chief marketing officer of online fashion retailer
+Yoox. He too finds that internal job rotation fosters the
+development of both analytic and creative approaches to
+marketing decisions. Indeed, Benedetti has experienced
+first- hand the benefits of learning to think in ways far
+outside his initial training, as his own background was
+as an engineer. His initiation into the fashion industry,
+attending shows and getting to know designers and
+entrepreneurs, required significant adjustment.
+
+The persistent challenge for increasing the use of big
+data tools and techniques is their complexity and “black
+box” nature. This can make it difficult to trust and
+understand the output of big data approaches and to
+convince others of the value and accuracy of the insights
+the tools produce. Marketers can reduce the mystery
+around big data — and increase buy- in — in a number
+of important ways. First, by building capabilities that are
+intrinsically reinforcing and relatively easy to use.
+Second, by providing a number of smaller applications
+for using advanced analytics data that demonstrate its
+value and invites buy- in across functions. Finally, by
+collaborating with other functional leaders on which
+questions the organisation should be trying to answer
+with data, and creating transparency around the process.
+
+A balanced approach
+
+Because digital technology can expand radically the
+scope and power of marketing, it is easy to imagine any
+digital initiative as an improvement. However, data is
+only as valuable as the intelligence applied to it. By
+working together, people with a range of marketing skills
+can take advantage of the opportunities that data can
+provide, determine what is important, what requires
+testing, and what actions can be taken upon analysis of
+the results.
+
+While personalised marketing gives the customer the
+sense that there is something specific for them to buy
+today, it requires companies to diversify their content
+and offers, and to constantly update their approach
+based on recent customer activity. Creative use of digital
+marketing may require an equally creative use of traditional
+marketing and product development in order to
+deliver a diversity of offers, products, and services.
+
+As artificial intelligence becomes a larger component of
+digital, it is expected to deliver greater returns on investment
+with much less effort. Among other things, AI can
+analyse buying patterns, provide customer recommendations,
+prevent fraud, create dynamic pricing
+optimisation, track inventory and engage in social
+media. Part of AI’s application in marketing is about
+improving the consumer experience by creating what
+feels to be a highly targeted, personalised interaction.
+Algorithms produce everything at speed, creating
+massive efficiency gains. However, if they go wrong, they
+can amplify error and quickly erode brand reputation.
+
+Conclusion
+
+While it is true that marketing has been profoundly transformed by the escalating scope and power of
+big data and analytics, its fundamentals remain the same. Digital innovation has expanded marketing
+thinking, improving judgement with better facts and insights, but it hasn’t replaced any of its functions.
+There is no technology as yet that can approximate the imagination of a human being. We can create
+machines that can teach themselves, but it remains to be seen to what extent machines will acquire
+the defining features of the human mind that allow us to think inventively, even ingeniously, and to take
+control of the world around us.
+
+For now, marketers need the power of the imagination, the magic of the magic, even as the range and
+applications of the digital world grow. The marketing leaders we interviewed are seeking to expand their
+digital capabilities while remaining grounded, fostering a positive environment that allows their teams
+to cooperate. As Verheijen sums up, “The CMO’s role is to create an environment in which both
+groups flourish and work together effectively.”
+
+Download
+
+Download
+
+Author
+
+Gianluca Bianchi
+
+Milan

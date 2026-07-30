@@ -1,0 +1,460 @@
+Strategic + Ethical Integration of Generative AI - Egon Zehnder
+
+Skip to main content
+
+Search for “”
+
+... in Consultants
+
+... in Offices
+
+... in Services
+
+... in Insights
+
+Search all results
+
+Our Services
+
+Shaping Successions
+
+CEO Successions
+
+Executive Successions
+
+Board Successions
+
+Chair Successions
+
+Committee Chair Successions
+
+Advancing Governance
+
+Board Review
+
+Board Development
+
+Board Advisory
+
+Building Advisory Boards
+
+Sustainability Board Advisory
+
+Discovering Leaders
+
+CEO Search
+
+Executive Search
+
+Board Search
+
+Advisor Search
+
+Executive Assessment
+
+Developing Leadership
+
+Individual Development
+
+Accelerated Onboarding
+
+Development Planning
+
+Coaching
+
+Team Journey
+
+Unlocking Transformations
+
+Transformational Development Programs
+
+Chair and Board Potential
+
+Executive Breakthrough
+
+Executive Discovery
+
+Transformational CHRO
+
+Voyager
+
+Customized Leadership Immersion
+
+Explorer
+
+Cultural Transformation
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Chief Executive Officers
+
+Founders
+
+Technology Officers
+
+Chief AI, Data & Analytics Officers
+
+Chief Information Officers
+
+Chief Information Security Officers
+
+Chief Product Officers
+
+Chief Technology Officers
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+Consumer
+
+Consumer Products
+
+Media & Entertainment
+
+Restaurants, Leisure and Hospitality
+
+Retail, E-commerce, Apparel and Luxury
+
+Sports
+
+Financial Services
+
+Asset Management
+
+Banking and Markets
+
+Digital Assets, Crypto, & Web 3
+
+FinTech
+
+Infrastructure
+
+Insurance
+
+Private Equity
+
+Retail Financial Services
+
+Risk Management
+
+Sovereign Wealth Funds
+
+Wealth Management
+
+Health
+
+Biopharmaceuticals
+
+Healthcare Delivery & Services
+
+Life Sciences Tools & Pharmaceutical Services
+
+Medical Devices, Diagnostics and Technology
+
+Industrial
+
+Aerospace & Defense
+
+Chemical & Process Industries
+
+Energy
+
+Machinery & Industrial Technology
+
+Mining & Metals
+
+Mobility & Automotive
+
+Public & Social Sector
+
+Arts, Culture & Sports
+
+Economic, Social & Human Development
+
+Education & Research
+
+Environment & Sustainability
+
+Interest Representation & Public Affairs
+
+Public Administration
+
+Public Finance
+
+Public Health
+
+Public Infrastructure
+
+Services
+
+Air Transport
+
+Business Services
+
+Hospitality, Travel & Leisure
+
+Professional Services
+
+Real Estate Services
+
+Transportation & Logistics
+
+Technology & AI
+
+Artificial Intelligence
+
+Communications & Connectivity
+
+Cyber Security
+
+Digital
+
+Enterprise Tech
+
+Internet of Things
+
+Semiconductors
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+Functions
+
+Industries
+
+Meet our Consultants
+
+Discover Insights
+
+Find Offices
+
+About Us
+
+English
+
+Change
+
+Functions
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Industries
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+About Us
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+English
+
+Deutsch
+
+中文
+
+日本語
+
+Technology OfficersLeading the Future: Strategic Innovation and Ethical Use of Generative AI
+
+In conversation with Chief Data Officer of GoTo Group Ofir Shalev
+
+December 2024
+
+7 mins read
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Editor's note: This interview is part of a series with executives leading GenAI adoption. Read the first and second installments here.
+
+Ofir Shalev is the Group Chief Data Officer of GoTo Group. GoTo is the largest digital ecosystem in Indonesia. GoTo's mission is to 'empower progress' by offering technology infrastructure and solutions that help everyone to access and thrive in the digital economy. The GoTo ecosystem provides a wide range of services including mobility, food delivery, groceries, and logistics, as well as payments, financial services, and technology solutions for merchants. The ecosystem also provides e-commerce services through Tokopedia and banking services through its partnership with Bank Jago.
+
+In this interview, we delve into Shalev's approaches to integrating AI within a vast corporate structure, his thoughts on the ethical use of AI, and his advice for CIOs embarking on their AI journeys.
+
+How have you implemented Gen AI tools within your team and organization over the last few years?
+
+I want to step back and note that AI is not new. Even 10 to 12 years ago, we were leveraging machine learning and AI to drive business and business outcomes.
+
+So, this is sort of a caveat because everyone refers to AI as only generative AI, and there is a broader range of technologies that can be just as powerful.
+
+A recent example of our innovation is the voice activation of our financial services application, Dira, which is the first AI-based fintech virtual assistant in Indonesia. In Indonesia, people prefer speaking over navigating through complex menus, so we integrated voice activation into our GoPay application to enhance user experience.
+
+At GoTo group, you have a few different businesses in addition to financial services, such as ride-hailing and food delivery.
+
+Tell us about the strategic choices and which businesses have adapted faster or come up with different use cases faster and what drives this.
+
+There are a few use cases that are horizontal across the organization, like engineering productivity, that we use across Gojek and GoTo Financial. If we look into specific businesses, we have things that relate to search and recommendations. Take GoFood for example, you can search for types of food or get recommendations for certain dishes. Or in GoPay, we are using AI to generate more relevant search results and recommendations.
+
+Another use case is the Know Your Customer (KYC) process. About three years ago, our Service Level Agreement was 24 hours from the time that you submitted your KYC application to approval. We invested a lot in AI and machine learning and today we commit to processing your KYC in less than 10 seconds. This is our Intellectual Property (IP), and recognizing its strong competitive advantage, we made the strategic decision to offer this solution externally beyond GoTo. This is a great example of how AI and machine learning allow us to transition from our initial focus on to establishing a business unit with profit targets.
+
+Who have been your key partners in this journey?
+
+There are two options when choosing partners. One is to work with a single vendor to solve all use cases. This has clear benefits like having one API and one commercial contract, which might suit smaller companies. However, given the diverse nature of our business across ride-hailing and financial services, we felt this approach wouldn’t fully meet our needs. So, we developed a more comprehensive strategy that combines open-source solutions with other partnerships.
+
+We approach partnership selection by first identifying the problem we’re trying to solve. Depending on the problem, we choose the appropriate technology.
+
+What is the biggest challenge of selecting the right vendor for the right problem?
+
+There's always a trade-off. You want to stay updated with the latest releases, but at the same time, resources are limited. We start by understanding the problem statement and then identify which capabilities are relevant to solve it. While some advanced AI are amazing, the problems we're solving are often smaller in scale. Hence, it's not necessary to always have the latest and most powerful version.
+One strategy we use is A/B testing, where we never rely on just one model in production. To prove which model is better, we integrate both models into the production pipeline and route 5% of traffic to the new model. If there's a significant improvement of the output metric, it’s easier to switch fully to the new model.
+
+What should be outsourced versus developed internally when considering vendor roles, and what advice would you give to a CIO making this decision?
+
+There are two key dimensions to consider: time to market and strategic value. Initially, start with a vendor to allow rapid deployment and immediate access to needed technologies. However, for core technologies, a decision must be made on whether to outsource or develop in-house.
+
+Think of it as a decision tree: if it's not a core function, continue using vendors unless the cost becomes unsustainable. For core functions, begin building your own capabilities in parallel. This approach allows a seamless transition to a proprietary solution or a more suitable third-party solution within a few months, balancing time to market with long term strategic goals.
+
+How do you measure the success of AI in your organization? What are some of the KPIs?
+
+Regardless of the hype around Generative-AI, we should go back to the basic principles ensuring that these technologies drive measurable impact.
+
+For example, when we implemented Microsoft Copilot we achieved  more than 6 hours of weekly time savings,  that could be used on more meaningful work. This is a clear, tangible metric that we defined before starting this project to ensure a clear understanding of success.
+
+Another example is the reduction in time to process KYC applications - from 24 hours to just 10 seconds. Although these improvements were driven by AI and ML, for our customers – the underlying technology – whether a linear regression or a generative AI model, is irrelevant. What matters to them is the enhanced user experience.
+
+Even if you cannot identify clear metrics you should at least implement a questionnaire or satisfaction survey to gather insights, summarize them and present the result to the leadership team.
+Otherwise, AI initiatives aren’t sustainable for the long run.
+
+When it comes to talent, what skills and mindsets have been critical for your team to embrace these new technologies?
+
+The most important skill today is the ability to quickly learn new technology.
+
+Looking back at my master's degree from 18 years ago, I realize that the foundational concepts in math and optimization I studied are still relevant today. Even though technology has evolved with better computing power, GPUs, abundant data, and more advanced algorithms, the core mathematics of the backpropagation algorithm haven’t changed.
+
+Having a strong foundation is essential, but it’s equally important to keep learning, reading, and staying up to date. The ability to rapidly absorb new information combined with an internal drive to keep learning is essential.
+
+Have you been using any resources or training programs to effectively upskill employees?
+
+One of the most exciting initiatives that we are doing at least twice a year is our hackathons. Rather than relying on the more conventional training methods, we are building self-organizing teams, that comes together and compete on some ideation. This generates a lot of positive hype and people are learning from each other. Additionally, one or two ideas are often generated with the potential to evolve into a product feature.
+
+How are you encouraging more people to be hungry about these things or join hackathons?
+
+We shamelessly using a sort of guerrilla marketing technique. For example, we had a project involving voice activation, and we created a small community of engineers to work on it. We came up with a code name for the project, and asked people not to speak about it. This sparked a lot of curiosity and buzz from others.
+
+When you showcase success stories and create these small communities, people see the outcome, generating a desire to be part of it.
+
+Here’s another example. When we launched Copilot, we started with a small community of early adopters. The dynamic shifted very quickly - people went from needing to be convinced to participate, to actively asking , “Why wasn’t I included in the second batch of licenses?” It became less about convincing and more about managing demand.
+
+What would be your advice to CIOs who are just beginning their AI journey?
+
+There is a lot of hype around AI, but like any other technology, AI requires real expertise. There is a big difference between those who speak about AI in conferences and those who bring AI to production. Therefore, the first priority should be to hire people with a deep and fundamental understanding of AI.
+
+If you as a CIO or CTO don’t fully understand AI, don't try to tackle it alone. This expertise is critical for navigating the intersection of open-source and commercial models, cost, privacy, and more.
+The second piece of advice is to start small. Focus on a manageable problem statement. Building confidence and trust within your team through quick wins is essential before taking on larger, more ambitious projects.
+
+Lastly, AI, especially generative AI, is stochastic and less deterministic. It's challenging to predict model performance without real-world testing. Patience is essential as multiple iterations and refinements will likely be needed. If stakeholders expect a fully polished product within a month, the project is bound to fail. Generative AI demands continuous testing, iteration and improvement over time.
+
+Topics Related to this Article
+
+Artificial Intelligence
+
+Technology
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Written by
+
+Stay up to date with our latest insights.
+
+Subscribe now
+
+Changing language
+
+You are switching to an alternate language version of the Egon Zehnder website. The page you are currently on does not have a translated version. If you continue, you will be taken to the alternate language home page.
+
+Continue to the                 website
+
+Back to top

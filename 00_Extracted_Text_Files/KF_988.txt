@@ -1,0 +1,134 @@
+The AI Conundrum
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Perspective|August 9, 2023
+
+The AI Conundrum
+
+ChatGPT and other generative AI are transforming work. But in the rush to save money and increase profits, leaders may be overlooking the risks.
+
+The problem: The rise of AI in the workplace is challenging leaders to find ways to use the technology profitably—and responsibly.
+
+Why it matters: Already, companies have had data stolen or exposed, been sued, and faced charges of bias.
+
+The solution: Use AI to complement human output by amplifying work and upgrading talent.
+
+Michael Potts, the CEO of software developer feature[23], was researching a cloud-based solution for a client. Together, he and his CTO came up with an answer after six hours of good old-fashioned research and analysis. As an experiment, they decided to ask ChatGPT a series of questions related to the client’s problem. The result: ChatGPT came up with the very same solution in 15 minutes.
+
+“For experienced engineers, generative AI could be a profound research tool, sort of like pairing them with a very educated counterpart,” says Potts, whose company has experience building AI solutions for enterprise customers
+
+ChatGPT and other generative AI platforms haven’t taken over work, but they have transformed it. A recent Korn Ferry survey, for instance, found that nearly half of professionals are already using AI tools for daily work tasks. The World Economic Forum expects AI to transform 20 percent of all jobs worldwide within the next five years. By some estimates, AI could increase productivity by up to 40 percent and add $15.7 trillion to the global economy in the next decade.
+
+Numbers like those are why leaders are rushing to incorporate AI into their operations, says Paul Fogel, professional search sector leader for software at Korn Ferry. “It’s fair to say that leaders are in a frenzy over AI,” he says.
+
+In their rush to save money and increase profits, however, leaders may be overlooking the risks ChatGPT poses to their firms. Some companies have already had proprietary data and other information inadvertently made public after uploading it to the platform, for instance. Others have been sued over data privacy, copyright infringement, or bias. Many more have been embarrassed for failing to double-check incorrect information or called out because of ethical concerns around job loss and social impact.
+
+“What scares me so far about generative AI is that leaders appear willing to use whatever information it provides to save money without verifying or understanding it.”
+
+The concerns around AI aren’t unjustified. The regulatory environment surrounding AI is both porous and nascent, and there’s a distinct lack of talent trained in the technology. For his part, Potts worries about leaders themselves. In particular, he worries that the pressure they’re under to produce in a down economy could result in AI being deployed irresponsibly—and potentially dangerously. “What scares me so far about generative AI is that leaders appear willing to use whatever information it provides to save money without verifying or understanding it,” says Potts.
+
+* * * * *
+
+Since founding the company a few years ago, Charles could barely keep up with its growth. Not unlike many small- and midsized-business leaders, he couldn’t hire, let alone afford, enough people to fulfill demand. Lucky for him he doesn’t need to—he can just create a bunch of different AI personas to serve as employees.
+
+“One person can run a $100 million company without hiring anyone,” says Ali Mahvan, co-founder and COO of Astria AI. All they have to do, he says, is decide on the knowledge base and personality for each specific task and then train the AI. For instance, Sonya could be the AI that handles customer service, while William could specialize in marketing, Tammy sales, and so on. “You can create as many individual entities as you want that are specialists by giving them access to different data,” says Mahvan. He should know—he used AI to create his executive assistant, Anya, to handle his email and schedule, manage his customer relations platform, and serve as a project management interface with his teams.
+
+4 questions to consider
+
+Compliance:
+
+What are the costs to address and keep pace with the disparate laws around consumer protection and data privacy.
+
+Privatization:
+
+Is buying, building, or outsourcing the most cost-effective way to incorporate AI into the business? Which is the safest?
+
+Talent:
+
+What skills and talent are needed, where do gaps exists in the workforce, and how will you fill them?
+
+Reputation:
+
+How does the strategy around AI align with your values and purpose, and what will the impact be on jobs and people?
+
+Experts long ago predicted that AI would replace many human roles, and now data is emerging to prove it. Roughly 4,000 of the more than 80,000 job cuts in May were due to AI, the first time that the technology was ever cited as the primary reason for the elimination of a position. Another survey found that 48 percent of U.S. firms had replaced some workers with ChatGPT to cut costs. Over the next five years, roughly 83 million jobs will be automated, according to the The World Economic Forum’s Future of Jobs Report 2023, while only 69 million will be created, for a net loss of 14 million jobs worldwide.
+
+Chris Cantarella, global sector leader for the Software practice at Korn Ferry, says a confluence of factors are hyper-accelerating the pace of AI adoption, among them ongoing digital transformation, the labor shortage, and pressure from investors. “The rise of AI is just making leaders feel more emboldened,” says Cantarella.
+
+“Smart companies are looking at how AI can be best teamed with workers to complement human output.”
+
+That’s exactly what experts fear, however. They say many leaders are headed down the wrong path with AI, having been seduced by short-term gains that could cost them in the long run. Mahvan, who builds AI software for the defense and legal industries, says the focus should be on amplifying rather than replacing work. Instead of automating low-level roles, he says, leaders should be focused on using AI to increase the productivity and innovation of high-level talent. “Smart companies are looking at how AI can be best teamed with workers to complement human output,” says Mahvan.
+
+* * * * *
+
+One early observable trend taking shape is that many companies are moving towards building their own internal AI platforms, says Korn Ferry’s Fogel. Part of that is a defensive play—since open-source AI like ChatGPT can recall any information fed into it, keeping the AI in-house mitigates the risk of having data, source code, or other IP exposed or stolen. In highly regulated industries such as finance or healthcare, building an internal AI platform can help protect client privacy and ensure compliance with the patchwork of disparate state, national, and international laws—both those in existence and those yet to emerge.
+
+There’s just one problem with that strategy, says Fogel: “The costs are high, and the talent is scarce.” On the cost side, for instance, companies need to buy or build the tools and then create an AI for each specific function. “It’s not as if you can roll out AI and call it a day,” he says. Functions like sales, finance, and human resources all need different AI tools, which must be integrated seamlessly across the enterprise. Roughly 20 percent of companies in a recent survey say they already use five or more AI tools. “Investment costs can escalate quickly,” says Fogel.
+
+On the talent side, where will companies find workers with the skills to fill the roles created by AI? AI is moving so fast that “an entire field of careers and job roles will quickly evolve with it,” says Korn Ferry’s Cantarella. To be sure, companies are already racing to hire “prompt engineers,” or experts who can formulate queries that will yield optimal results from AI. Cantarella says job creation around AI will have to balance minimizing risk with leveraging efficiency and savings from its use. He envisions tech, legal, and financial companies having to hire more content moderators to prevent sensitive or proprietary information from being released or violating regulations. Companies, he says, will need more than just data-science majors, software-product leads, or engineers to fill these roles. The need for prompt engineers, he says, could open thoe doors of the AI industry to specialists in ethics, sociology, philosophy, and other liberal arts.
+
+But companies can’t rely on external hiring to meet their talent needs. To use AI effectively, internal talent also needs to be trained, educated, and upskilled. Fogel suggests boards and leaders think in terms of “small rollouts” to evaluate where and how people work best with AI and where there are gaps.
+
+In fact, in a perfect scenario, AI could help workers learn the basic skills for a role more quickly, allowing them to develop their abilities in communication, critical thinking, leadership, and other soft skills needed to advance. “AI may actually help elevate many lower-skilled workers into more highly skilled positions,” says Cantarella.
+
+For more information, contact Paul Fogel at paul.fogel@kornferry.com or Chris Cantarella at chris.cantarella@kornferry.com.
+
+Our Expert
+
+Our Experts
+
+Paul Fogel
+Sector Leader, Professional Search, Software
+
+Chris Cantarella
+Senior Client Partner, Global Technology Markets, Global Sector Leader, Software
+
+INSIGHTS TO YOUR INBOX
+
+Stay on top of the latest leadership news with This Week in Leadership—delivered weekly and straight to your inbox.
+
+​
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Perspectives
+
+AI in the Workplace
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

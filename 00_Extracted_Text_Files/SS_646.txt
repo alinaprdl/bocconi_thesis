@@ -1,0 +1,81 @@
+A Growing Perspective
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+A Growing Perspective
+
+The State of the Latin American CTO in a Rapidly Changing World
+
+By
+
+Pablo Londoño and
+
+Juan Pablo Solar
+
+February 2018
+
+| 4 min read
+
+Authors
+
+Pablo Londoño
+
+Bogota
+
+Juan Pablo Solar
+
+Santiago
+
+Technological disruption has dramatically changed nearly every business sector across the world, and Latin America is no exception. Digital advancements have produced myriad implications: customers now expect a seamless digital experience, organizational cultures need to be tolerant of failure and able to pivot quickly, and cybersecurity is now a crucial focus — among many other issues.
+
+To keep pace with this rapidly changing environment, today’s Latin American chief technology officers (CTOs) have cultivated a far broader range of skills. (In keeping with the larger emphasis on technology, we are referring to tech leaders as CTOs instead of chief information officers (CIOs), as had previously been the trend.) Technological expertise alone is not enough — by necessity, CTOs have developed a more strategic perspective and are increasingly becoming members of the leadership team, helping to shape a vision that goes beyond digital innovation. (Read more about CTOs and their connection to digital leadership.)
+
+To gain insight into how CTOs in Latin America are adapting to the new ever-shifting landscape, we spoke with 32 CTOs in three countries (Argentina, Chile and Colombia) to learn about their backgrounds, their companies’ digital proficiency, their status on boards and more. We chose these three countries because they typically serve as home for the headquarters for Latin American leadership.
+
+In this article, we’ll look at key statistics and derive some takeaways from these numbers to glean insight into the state of today’s Latin American CTOs and examine how the position has evolved into an increasingly business-oriented role. As a result, CTOs have developed a more strategic mindset, they play a crucial role in cultural and digital transformation, and they hold key positions on the leadership team — although more work clearly remains.
+
+The current state of the Latin American CTO
+
+The profile of Latin American CTOs is changing, especially their education level and English proficiency, in response to the rise of digital and the need for CTOs to have a broader perspective on the business. Of the 32 CTOs we interviewed, 19 (59 percent) have master’s degrees, 31 speak English and 28 are fluent. Eighty-four percent of the CTOs say they have experience supervising IT regional operations for more than one country, while 59 percent have worked in an IT role overseas. These figures indicate the progressively global viewpoint required of today’s Latin American CTO.
+
+A growing demand for strategic thinking
+
+As digital transformation takes hold, a CTO must lead a company as it incorporates technology throughout operations. This requires deep insight into technological advances within the industry, but also the ability to distill technological knowledge into business terms, articulate its benefits to the leadership team and influence the culture. Typically, CEOs aren’t interested in minutia such as servers or cloud services — rather, they want a CTO who can translate technology into opportunities for the business.
+
+Some leaders may also have flawed preconceptions about what technology can or can’t do — many have an inaccurate perception of artificial intelligence (AI), for instance, believing the workplace will soon only be populated by robots. To ensure alignment, the CTO must not only determine which technologies can be beneficial, but also act as a truth-teller (or “myth buster”) and provide clear-eyed insight into the possibilities and limitations of technology. (Read more about the CTO’s role in dispelling AI myths.)
+
+The customer experience is also an increasingly key touchstone for organizations, and CTOs can add value by ensuring consumers have a positive — and increasingly, personal — digital experience. This requires a combination of data integration, technological insight and digital acumen.
+
+Leading cultural and digital transformation
+
+As digital becomes increasingly important, CTOs have a greater opportunity to lead their companies forward, both culturally and technologically. This won’t be as much of an issue for digitally native companies, as digital proficiency will be woven throughout the operations and culture. But for a company that is not as far along the continuum and must go beyond innovation to transformation, digital advancement may require the organization to shift toward a flexible, agile culture that is inclined toward learning and collaboration, and is tolerant of mistakes. That’s often the mindset within IT, so it will fall to the CTO to help create this environment within the broader organization. A CTO must also be flexible and able to adapt culturally across borders, as Latin America is comprised of more than a dozen countries and several different languages are spoken.
+
+In this area, some Latin American CTOs have more work to do than others: our survey found that the majority (42 percent) of CTOs said zero to 40 percent of their transactions are done through a digital channel, 19 percent said between 40 and 70 percent of their deals are conducted digitally and 39 percent put that figure at between 70 and 100 percent.
+
+For Latin American CTOs, key concerns are improving digital operations, security, infrastructure, systems, apps and human capital. Finding and retaining digitally savvy talent is a key task for CTOs, as younger workers tend to be more digitally aware and have the skills — such as capacity for innovation and appetite for risk — that are more relevant today. The CTO must also lead the charge to fortify an organization’s cybersecurity efforts, as this is one of the most crucial elements facing companies in the coming years.
+
+Developing a stronger leadership presence
+
+Despite the increasing importance of digital, Latin American CTOs have not yet reached the board level in large numbers. Twenty-two percent of the CTOs we spoke with are on boards, and 28 percent say their company has a CTO on its board. As time passes and the emphasis on digital grows, it seems likely boards will add more technical expertise. Until CTOs become more prevalent on boards, they must speak out to make their presence felt within the C-suite, thereby ensuring relevance and a voice in their companies’ direction. (Read more about the growing leadership roles of CTOs.)
+
+Conclusion
+
+The days of the CTO as a purely technological role have passed. In order to stay abreast of a rapidly changing world, CTOs have become more strategic and have begun to play a more pronounced role in cultural and digital transformation. This change has led CTOs to become catalysts for digital evolution, and we believe the position will continue to grow. As a result, CTOs in Latin America will develop further into leadership positions and play an increasingly crucial role going forward.
+
+Download
+
+Download
+
+Authors
+
+Pablo Londoño
+
+Bogota
+
+Juan Pablo Solar
+
+Santiago

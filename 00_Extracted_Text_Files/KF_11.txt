@@ -1,0 +1,116 @@
+Spying Begins at Work
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+This Week in Leadership|June 19, 2026
+
+Spying Begins at Work
+
+At firms that haven’t buttoned up security, employees are finding that email snooping is as easy as typing in a prompt. Why firms need to deploy ‘red-team’ exercises.
+
+The employee didn’t mean to snoop. She began with a prompt about herself: How is Elizabeth doing at work? She was shocked to find a salary review that she had never seen before, and a performance review that had not yet been released. She began asking questions about colleagues: What is Russell working on today? Where is Peter right now? A trove of information appeared.
+
+Employees and managers are discovering that finding out confidential details about everyone, from themselves to colleagues to clients, is sometimes feasible using enterprise genAI assistants. The security holes are not coming from the genAI tools themselves; rather, the tools are flashlights that are finding pre-existing holes—most of which long predate the genAI tools. “GenAI does a really good job of surfacing every weakness in an enterprise’s data strategy,” says Bryan Ackermann, head of AI strategy and transformation at Korn Ferry.
+
+Think of AI chatbots as the world’s greatest search engines. When asked to find data, they will access any information available—which may include the email accounts of colleagues who have never visited their privacy settings and a colleague’s conduct review that was dropped into a shared folder with sloppy permissions. The AI assistant will reveal any data that the user has permissions to see. “I’m not surprised at all,” says Karena Man, senior client partner in the technology and digital practice at Korn Ferry.
+
+The problem, of course, is not just security. Employees and clients expect that sensitive information is protected, and that Joe in the design department does not have access to their compensation information. “It can be a real breach of trust for employees or clients,” says Man. “It erodes the bond.” Currently, most companies have effectively locked down HR servers—but not necessarily draft files or individual files that managers may have moved around. Calendars can also be permeable without the right privacy settings, sometimes allowing colleagues to search meeting titles or attendees.
+
+One common problem is called oversharing. Imagine that a team creates a shared online document library for a project with an automaker, including private contracts with the company. Years later, the colleagues on the team have moved on to other companies, and everyone has forgotten about the website. Then someone at the firm asks genAI about the automaker. The information that appears might include those contracts. “Depending how the organization set it up originally, it might be open to anyone in the company who knows where to look,” says Ackermann. Old, shared mailboxes or messaging channels are another frequent data source.
+
+Oversharing is surprisingly difficult to fix. A mid-size company might have tens of thousands of internal shared sites dating back well over a decade, which stretch across dozens of software programs that the firm was employing at the time. It’s not unusual for genAI to find data from long-defunct programs that even the tech team does not know how to access. IT admins have long complained that letting staff freely create these group platforms leaves behind a sprawling mass of information with permissions that no one tracks.
+
+Experts advise firms to run so-called red team exercises, where IT employees purposely try to find security weaknesses, such as by asking genAI tools for information about clients and colleagues. When surprising information appears, they give a prompt like: Produce a table of every source from which you got this information. Before you go run your own personal red team test, know that today’s genAI programs typically save prompts for employers—meaning that snooping is entirely visible to the tech team and bosses, and likely runs afoul of the firm’s acceptable use policies. “Don’t do it—it’s not worth it,” says Man. Instead, search only yourself—or a direct report, asking only questions for which you already have clearance to know the answers—and if surprising information appears, report it to the tech team.
+
+Learn more about Korn Ferry’s Organization Strategy capabilities.
+
+Read more This Week in Leadership articles
+
+Our Expert
+
+Our Experts
+
+Bryan Ackermann
+Senior Vice President, Head of AI Strategy & Transformation
+
+Karena Man
+Senior Client Partner, Technology & Digital Practice, San Francisco, CA
+
+No items found.
+
+INSIGHTS TO YOUR INBOX
+
+Stay on top of the latest leadership news with This Week in Leadership—delivered weekly and straight to your inbox.
+
+​
+
+Related Insights
+
+See All Related Insights
+​
+
+Article|July 3, 2026
+
+The Glitter Leader
+
+July 3, 2026
+
+This Week in Leadership (June 29 - July 5)
+
+July 3, 2026
+
+This Week in Leadership (June 29 - July 5)
+
+Article|July 1, 2026
+
+6 Ways to Handle Work During Vacation
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+This Week in Leadership
+
+Leadership
+
+Organizational Transformation
+
+AI in the Workplace
+
+People Strategy & Performance
+
+Change Management
+
+Organization Design & Analytics
+
+Organization Strategy
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

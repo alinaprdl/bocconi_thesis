@@ -1,0 +1,425 @@
+Scaling AI: Insights from Tech Leaders on Responsible Integration - Egon Zehnder
+
+Skip to main content
+
+Search for “”
+
+... in Consultants
+
+... in Offices
+
+... in Services
+
+... in Insights
+
+Search all results
+
+Our Services
+
+Shaping Successions
+
+CEO Successions
+
+Executive Successions
+
+Board Successions
+
+Chair Successions
+
+Committee Chair Successions
+
+Advancing Governance
+
+Board Review
+
+Board Development
+
+Board Advisory
+
+Building Advisory Boards
+
+Sustainability Board Advisory
+
+Discovering Leaders
+
+CEO Search
+
+Executive Search
+
+Board Search
+
+Advisor Search
+
+Executive Assessment
+
+Developing Leadership
+
+Individual Development
+
+Accelerated Onboarding
+
+Development Planning
+
+Coaching
+
+Team Journey
+
+Unlocking Transformations
+
+Transformational Development Programs
+
+Chair and Board Potential
+
+Executive Breakthrough
+
+Executive Discovery
+
+Transformational CHRO
+
+Voyager
+
+Customized Leadership Immersion
+
+Explorer
+
+Cultural Transformation
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Chief Executive Officers
+
+Founders
+
+Technology Officers
+
+Chief AI, Data & Analytics Officers
+
+Chief Information Officers
+
+Chief Information Security Officers
+
+Chief Product Officers
+
+Chief Technology Officers
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+Consumer
+
+Consumer Products
+
+Media & Entertainment
+
+Restaurants, Leisure and Hospitality
+
+Retail, E-commerce, Apparel and Luxury
+
+Sports
+
+Financial Services
+
+Asset Management
+
+Banking and Markets
+
+Digital Assets, Crypto, & Web 3
+
+FinTech
+
+Infrastructure
+
+Insurance
+
+Private Equity
+
+Retail Financial Services
+
+Risk Management
+
+Sovereign Wealth Funds
+
+Wealth Management
+
+Health
+
+Biopharmaceuticals
+
+Healthcare Delivery & Services
+
+Life Sciences Tools & Pharmaceutical Services
+
+Medical Devices, Diagnostics and Technology
+
+Industrial
+
+Aerospace & Defense
+
+Chemical & Process Industries
+
+Energy
+
+Machinery & Industrial Technology
+
+Mining & Metals
+
+Mobility & Automotive
+
+Public & Social Sector
+
+Arts, Culture & Sports
+
+Economic, Social & Human Development
+
+Education & Research
+
+Environment & Sustainability
+
+Interest Representation & Public Affairs
+
+Public Administration
+
+Public Finance
+
+Public Health
+
+Public Infrastructure
+
+Services
+
+Air Transport
+
+Business Services
+
+Hospitality, Travel & Leisure
+
+Professional Services
+
+Real Estate Services
+
+Transportation & Logistics
+
+Technology & AI
+
+Artificial Intelligence
+
+Communications & Connectivity
+
+Cyber Security
+
+Digital
+
+Enterprise Tech
+
+Internet of Things
+
+Semiconductors
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+Functions
+
+Industries
+
+Meet our Consultants
+
+Discover Insights
+
+Find Offices
+
+About Us
+
+English
+
+Change
+
+Functions
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Industries
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+About Us
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+English
+
+Deutsch
+
+中文
+
+日本語
+
+Technology & AIScaling AI: Insights from Tech Leaders on Reskilling, Regulation and Governance
+
+July 2023
+
+5 mins read
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Artificial Intelligence (AI) is revolutionizing industries and becoming the biggest innovation since the introduction of cloud computing in 2007. However, leaders are grappling with the challenge of leveraging AI's potential without compromising their organization's systems and integrity. To explore how leaders are scaling AI in their organizations, we partnered with McKinsey to gather technology executives from various sectors such as automotive, financial services, telecommunications, retail, manufacturing, transportation, and media.
+
+Some of the key areas of focus for these leaders include re-skilling the workforce to adapt to and integrate AI, navigating regulation and governance, and understanding the differences in using AI for enterprise versus consumer purposes.
+
+Mitigating AI Risks with Good Governance
+
+Participants also discussed the crucial role of ethics in the use of AI and the potential risks associated with open-source AI's large amount of data. They stressed the importance of regulation and governance to mitigate such risks, as generative AI can sometimes mislead or deceive consumers due to errors, which could lead to legal liabilities under consumer protection laws. One participant noted that the massive amount of data being poured into open-source AI models is a major risk for companies’ IP and proprietary data. For example, a well-meaning employee may seek some help in summarizing notes from a meeting. He plugs his notes, which identify the meeting attendees, into an open-source LLM and while he likely gets a quick summary, he has also inadvertently shared corporate information that could allow competitors to capitalize on it.
+
+Furthermore, data privacy and security were identified as major concerns, and the use of data without valid consent was deemed to be in violation of GDPR and CCPA regulations. On top of that, another challenge in governing AI is how it comes into the organization. It is often organic, starting with individual employees or experimenting with it. Because it’s less likely to be implemented by management, leaders must be thoughtful about balancing employee innovation with data security.
+
+Adopting good governance practices is essential for organizations to ensure that they are using AI responsibly and ethically, and to mitigate the risks associated with AI's potential negative impacts.
+
+AI in Practice: Finding the Right Fit for Products and Enterprises
+
+When it comes to implementing AI, some participants in our discussions noted that it seems to have more immediate success when used directly in products rather than in enterprise settings. However, others pointed out that there are often more opportunities for human interaction and customization in enterprise scenarios, which can be beneficial for AI applications. Nonetheless, companies and organizations are increasingly protective of their data, which can make it challenging to adopt new AI-driven business models.
+
+Customer service and developer productivity are often entry points for companies to begin leveraging AI. Many companies have implemented AI chatbots that can help users navigate through a menu of options and sometimes even handle more complex tasks, such as returns and exchanges. On the developer productivity front, testing, developing and updating code can be a major time saver for programmers, freeing them up for more creative, human-centric tasks.
+
+One leader we spoke with described how their company is using AI they built to enhance customer and product journeys while also protecting sensitive data. However, the leader also acknowledged the risk of misuse and emphasized the need for responsible use of AI: "The ability to manipulate is massive and the responsibility is all of ours to make sure it is used appropriately."
+
+AI Isn’t Coming for Your Job
+
+AI is impacting different sectors and functions at varying degrees of impact and speed. Sectors such as media and entertainment, technology, banking, and life sciences are experiencing the highest level of disruption, while marketing and sales, operations, customer service, IT, and product development are seeing the strongest use cases and enhancements to their roles. As AI continues to gain traction, more industries and functions will be able to leverage its benefits while being mindful of the risks involved.
+
+Despite the benefits of AI, concerns about job displacement remain a major issue. However, participants at our gathering believe that machines will not completely take over jobs. Instead, workers will need to acquire new skill sets and ways of working with AI. As one participant put it, "AI is a magic box - it guesses what the next step will be, and therefore, we need to train the machine by entering the right data."
+
+In addition to upskilling, employees must develop a mindset that views AI as an aid rather than a replacement for human labor. In the medical field, AI could play a significant role in addressing some of society's most pressing challenges, such as discovering new drugs and generating new designs for medical devices.
+
+Scaling AI in Your Own Organization
+
+As your company continues scaling AI, there are six key questions you will want to ensure your leadership team can answer:
+
+How can Gen AI help unlock competitive advantage?
+
+How do we start developing a foundation model for our business?
+
+Where should we launch our first use cases: logistics, operations, marketing and sales, customer services, technology, etc.?
+
+How will we organize and govern the delivery of AI?
+
+What core capabilities need to be in place to be successful (e.g., tech stack, data, talent, etc.)?
+
+How will we manage regulatory and reputational risks?
+
+In addition to considering the business implications, leaders should also see AI as an opportunity to unlock more creativity in their workforces. As one leader noted, “We still need really good humans in the workforce.” Another added that the challenge is now “How do you get organizations on board to upgrade those employees’ roles and skills and allow AI to take the admin tasks?” The potential of scaling AI is immense, offering a plethora of opportunities across industries and sectors. As organizations harness its power, they must also grapple with the pressing questions AI raises. Issues such as ethics, privacy, and accountability require thoughtful consideration and rigorous but adaptable frameworks. The way forward for AI in businesses lies in a delicate balance between innovation and responsibility. By fostering a culture of transparency, collaboration, and continuous learning, leaders can ensure that AI is developed and deployed in a manner that benefits their range of stakeholders—from customers to employees to shareholders. Embracing this type of approach will enable us to unlock the true potential of AI while addressing the challenges it presents, paving the way for a future where artificial intelligence becomes an indispensable tool for progress and prosperity.
+
+Topics Related to this Article
+
+Technology
+
+Artificial Intelligence
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Written by
+
+Stay up to date with our latest insights.
+
+Subscribe now
+
+Changing language
+
+You are switching to an alternate language version of the Egon Zehnder website. The page you are currently on does not have a translated version. If you continue, you will be taken to the alternate language home page.
+
+Continue to the                 website
+
+Back to top

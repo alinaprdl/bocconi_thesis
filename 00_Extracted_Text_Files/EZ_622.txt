@@ -1,0 +1,423 @@
+Eight Things CTOs Think Have Changed Forever After Covid-19 - Egon Zehnder
+
+Skip to main content
+
+Search for “”
+
+... in Consultants
+
+... in Offices
+
+... in Services
+
+... in Insights
+
+Search all results
+
+Our Services
+
+Shaping Successions
+
+CEO Successions
+
+Executive Successions
+
+Board Successions
+
+Chair Successions
+
+Committee Chair Successions
+
+Advancing Governance
+
+Board Review
+
+Board Development
+
+Board Advisory
+
+Building Advisory Boards
+
+Sustainability Board Advisory
+
+Discovering Leaders
+
+CEO Search
+
+Executive Search
+
+Board Search
+
+Advisor Search
+
+Executive Assessment
+
+Developing Leadership
+
+Individual Development
+
+Accelerated Onboarding
+
+Development Planning
+
+Coaching
+
+Team Journey
+
+Unlocking Transformations
+
+Transformational Development Programs
+
+Chair and Board Potential
+
+Executive Breakthrough
+
+Executive Discovery
+
+Transformational CHRO
+
+Voyager
+
+Customized Leadership Immersion
+
+Explorer
+
+Cultural Transformation
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Chief Executive Officers
+
+Founders
+
+Technology Officers
+
+Chief AI, Data & Analytics Officers
+
+Chief Information Officers
+
+Chief Information Security Officers
+
+Chief Product Officers
+
+Chief Technology Officers
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+Consumer
+
+Consumer Products
+
+Media & Entertainment
+
+Restaurants, Leisure and Hospitality
+
+Retail, E-commerce, Apparel and Luxury
+
+Sports
+
+Financial Services
+
+Asset Management
+
+Banking and Markets
+
+Digital Assets, Crypto, & Web 3
+
+FinTech
+
+Infrastructure
+
+Insurance
+
+Private Equity
+
+Retail Financial Services
+
+Risk Management
+
+Sovereign Wealth Funds
+
+Wealth Management
+
+Health
+
+Biopharmaceuticals
+
+Healthcare Delivery & Services
+
+Life Sciences Tools & Pharmaceutical Services
+
+Medical Devices, Diagnostics and Technology
+
+Industrial
+
+Aerospace & Defense
+
+Chemical & Process Industries
+
+Energy
+
+Machinery & Industrial Technology
+
+Mining & Metals
+
+Mobility & Automotive
+
+Public & Social Sector
+
+Arts, Culture & Sports
+
+Economic, Social & Human Development
+
+Education & Research
+
+Environment & Sustainability
+
+Interest Representation & Public Affairs
+
+Public Administration
+
+Public Finance
+
+Public Health
+
+Public Infrastructure
+
+Services
+
+Air Transport
+
+Business Services
+
+Hospitality, Travel & Leisure
+
+Professional Services
+
+Real Estate Services
+
+Transportation & Logistics
+
+Technology & AI
+
+Artificial Intelligence
+
+Communications & Connectivity
+
+Cyber Security
+
+Digital
+
+Enterprise Tech
+
+Internet of Things
+
+Semiconductors
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+Functions
+
+Industries
+
+Meet our Consultants
+
+Discover Insights
+
+Find Offices
+
+About Us
+
+English
+
+Change
+
+Functions
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Industries
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+About Us
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+English
+
+Deutsch
+
+中文
+
+日本語
+
+Technology OfficersEight Things CTOs Think Have Changed Forever
+
+What will be the lasting impacts of COVID-19 on the digital world?
+
+April 2020
+
+4 mins read
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Download the PDF
+
+What seemed unimaginable has, in a few short months, become somewhat normal. So what will be the lasting impacts of COVID-19 on the digital world? Last month, Egon Zehnder's Lindsay Trout co-moderated an online discussion with 12 CTOs in the high-tech space & learned how the crisis is driving change.
+
+1. Digital Transformation, For Real
+
+It’s happening because it has to. No longer ancillary, requiring 10 meetings and 18 months to get alignment, companies have had to deliver massive digital solutions in a week or less. That has torpedoed whatever organizational resistance there one was; that’s because change management is one thing when it’s optional and of marginal benefit and another when it’s about business continuity. Said one CTO: “Survivors will be more digitally native.”
+
+2. Open Floorplan Closes
+
+Just months ago, virtually every company that hadn’t already converted to open workspaces was doing so --- whether motivated by the real estate cost savings or the idea that they facilitated conversation. That idea is now a relic of another time. When workspaces reopen, they are likely to require social distancing for the foreseeable future; desks, computer and other office spaces can no longer be shared. There may well be constraints on office meetings and the number of people allowed in a room. Rotations, such as a morning or Monday/Wednesday rotation, may happen; maybe you’re in a small cohort that cycles into work every two weeks. That means big changes for nearly every business.
+
+3. Standardized Technology Configurations
+
+Once a veritable Chinese menu of options, the design aspect of technology will be sharply simplified in this new era. Companies, constrained by layoffs or fewer people able to work in labs and fabs, will offer the basics rather than a totally customized approach. This will allow for a quicker response but far less differentiation. This is a time   when we revert back to basics and perhaps forgo the “nice to haves.”
+
+4. Fieldless Field Sales
+
+Building a relationship from a sales perspective has always benefited from the physical, face-to-face meetup. With constraints on travel and less receptivity to in-person encounters with strangers, how does this evolve? One industry that may be able to capitalize on this opportunity is CRM, which may be able to develop tools or innovations that can bridge the gap between real and virtual. Some executives noted that of the few companies funded by Tier One venture capitalists since March 1, several were CRMs. Zoom has gone a long way to facilitate communication, some executives said, while wondering what would come next and be more “fit for purpose.”
+
+5. VR and IOT: From High Concept to Necessity
+
+In-person routine maintenance in hospitals, factories and sites can no longer be guaranteed and may not even be safe. So there is an increased appetite for sensors, automation as well as AR/VR applications, whether that be for ICU training or remote systems management.
+
+6. The End of Workwear
+
+Formal business dress is over. Forever. We’ve all heard about how sales of pants and anything below the waist have plummeted—why bother wearing anything but sweats (or even PJs) for a Zoom call that shows little more than your face and shoulders? But few Zoomers are dressing for work, let alone wearing full makeup, an ironed blouse or—God forbid--a tie. It’s hard to imagine returning to that form of “costuming” once people have shown their authentic selves on camera.
+
+7. Contracts Evolve
+
+Set in stone no more, sourcing agreements and contracts are in flux right now. Flexibility is the word, and the companies that understand that rather than sticking to a precrisis mentality are those that will survive. With supply chains disrupted, companies are accepting products from other locations than originally mandated with no legal or procedural issues. This ability to shift is likely to last beyond the crisis. Executives also discussed the possibility of preferential terms for key partners; this would mean a prioritization of supply and/or access for certain high-value relationships over others. It may also mean some extra attention to force majeure clauses.
+
+8. Risk Redux
+
+We thought we understood what contingency planning and disaster recovery looked like. We didn’t. Any part of a company’s risk assessment – from Enterprise Risk Management to Risk Assurance to Offshore Capacity Planning to the Audit Committee – must be rethought to include not one crisis in one location but what once seemed unthinkable: rolling global crisis with no foreseeable end. One contingency is no longer sufficient; companies will now be required to offer contingency contingencies for most of their most critical activities and budget and plan redundancies, even if they cost more.
+
+Topics Related to this Article
+
+Leadership
+
+Disruption
+
+COVID-19
+
+Digital
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Download the PDF
+
+Written by
+
+Stay up to date with our latest insights.
+
+Subscribe now
+
+Changing language
+
+You are switching to an alternate language version of the Egon Zehnder website. The page you are currently on does not have a translated version. If you continue, you will be taken to the alternate language home page.
+
+Continue to the                 website
+
+Back to top

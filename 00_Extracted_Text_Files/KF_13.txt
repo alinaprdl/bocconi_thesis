@@ -1,0 +1,128 @@
+The New AI Cost Crisis
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+This Week in Leadership|June 17, 2026
+
+The New AI Cost Crisis
+
+With AI firms hiking prices, some companies are quickly capping their usage of the tech. How much will that slow down its adoption?
+
+How much does it really cost for AI to vet thousands of job candidates, run customer-service chatbots, or carry out any of the seemingly unlimited number of tasks a large company requires every day? Until now, the answer, for many organizations, seemed to be “We’re not sure.”
+
+But in the wake of significant recent price increases by the world’s largest AI model makers, that answer is no longer good enough for many chief financial officers. Organizations around the world are tapping—and in some cases slamming—the brakes on AI use, and some experts worry that the limits will have big consequences. The move comes as AI firms impose hikes of 20% to 40%, catching many firms off guard and forcing sudden scrutiny of  AI strategies. “None of us had it on our bingo card thirty days ago,” says Bryan Ackermann, Korn Ferry’s head of AI strategy and transformation,
+
+The shifts are particularly important in sectors whose workforces have been quick to adopt AI, like healthcare and retail. “It will slow down adoption and limit experimentation,” says Lisa Harrison, a Korn Ferry senior client partner in the firm’s Healthcare Advisory business.
+
+To be sure, dialing back an organization’s AI use might seem like an inelegant solution. But experts say that some finance executives feel they have no choice, at least in the short term. Few organizations are tracking how much individual AI tasks actually cost. Indeed, only 26% of firms say they have a comprehensive view of their AI expenses, according to a recent survey. Worse, 22% report having no visibility at all—until they get billed for what they’ve used. While companies try to get a better grasp on which tasks are worth AI’s high price, many have chosen to limit usage. “You can’t govern what you can’t see,” says Beau Lambert, a Korn Ferry senior client partner in the firm’s Financial Officer practice.
+
+In the AI world, costs are measured in tokens. Each input typed into an AI model—whether it’s a single word, a multi-gigabyte dataset, or anything in between—carries a cost in tokens. So does the AI’s subsequent output. Generally, the latter costs more than the former.
+
+Up until a few weeks ago, many AI producers were charging a flat rate based on the number of people using AI tools—much as a maker of customer-management or word-processing software might bill for licenses. The number of tokens involved didn’t really matter. Almost no one was limiting individual AI use, Lambert says: “When each unit feels free, nobody rations it.”
+
+Now, however, AI creators have flipped the pricing model. To help cover their own surging costs, they’re charging for each token used, which has driven up users’ costs sharply and suddenly. An additional expense is that many of the newest AI models require far more tokens to produce an output. In light of all of this, firms are expressing a fear that this isn’t the last time the AI makers will change their prices.
+
+Corporate America is awash in software engineers who’ve been busting through their annual AI budgets in just days, along with employees who’ve been relying on automation applications. Both have now been cut off, and the result has been a sense of whiplash. “We want you to behave one way, and then we pull the rug out from you,” says Karrin Randle, Korn Ferry’s associate client partner in the firm’s Culture, Change and Communications practice.
+
+Experts say companies need to address the problem quickly. First, in order to control their budgets, they need to understand what they’re using AI for, as well as whether or not those applications are cost-effective. Indeed, under the new pricing model, humans might be able to accomplish some workflows more cheaply than AI can.
+
+An organization also needs to be able to evaluate any request to use AI within the context of the available budget. That decision has to be automated and arrived at in real time, Ackermann says. Then, rather than putting a blanket cap on AI spending, firms can better budget AI use at the divisional, departmental, or even individual level. “The point isn’t to choke off adoption, it’s to make spending deliberate,” Lambert says.
+
+Learn more about Korn Ferry’s AI in the Workplace capabilities.
+
+Read more This Week in Leadership articles
+
+Our Expert
+
+Our Experts
+
+Bryan Ackermann
+Senior Vice President, Head of AI Strategy & Transformation
+
+Lisa Harrison
+Senior Client Partner
+
+Beau Lambert
+Senior Client Partner, Financial Officer Practice
+
+Karrin Randle
+Associate Client Partner – Culture, Change & Communication
+
+No items found.
+
+INSIGHTS TO YOUR INBOX
+
+Stay on top of the latest leadership news with This Week in Leadership—delivered weekly and straight to your inbox.
+
+​
+
+Related Insights
+
+See All Related Insights
+​
+
+Article|July 3, 2026
+
+The Glitter Leader
+
+July 3, 2026
+
+This Week in Leadership (June 29 - July 5)
+
+July 3, 2026
+
+This Week in Leadership (June 29 - July 5)
+
+Article|July 1, 2026
+
+6 Ways to Handle Work During Vacation
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+This Week in Leadership
+
+Leadership
+
+Organizational Transformation
+
+AI in the Workplace
+
+People Strategy & Performance
+
+Change Management
+
+Organization Design & Analytics
+
+Organization Strategy
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

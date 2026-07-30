@@ -1,0 +1,110 @@
+Human or AI?: The Nuances of Intelligence
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Human or AI?: The Nuances of Intelligence
+
+In a new series, Korn Ferry’s Amelia Haynes unpacks the complexities of human and AI capabilities. First, understanding the different types of intelligence and how generative AI mimics the human brain.
+
+News snippets highlight automation hysteria, a presidential commission on emerging technologies and economic progress, and the fear of technology rendering workers obsolete.
+
+No, we're not referring to the AI boom of today... but we could be. Instead, former President Lyndon B. Johnson made all these concerns in an address he gave in 1964. Fast forward to today, where recent breakthroughs in artificial intelligence (AI)—particularly, generative AI language models—have sparked heated discussions about the role of technology in the future of work.
+
+Underneath the nervous chatter is a long history of humans and machines interfacing with the workplace.Post World War II, knowledge workers feared "electronic brains" would take over their jobs, while factory workers worried their jobs would be rendered obsolete. The recent advancements in AI have only amplified these concerns.
+
+Yet, despite the past 70 years of progress and perturbation, we have not seen this predicted reality play out. And while emerging technologies have eliminated certain professions, they have also created entirely new careers. AI systems, after all, depend on human intelligence—and on humans keeping them in check. Understanding these different types of intelligence, then, will help explain the relative capabilities of humans and AI and whether there is a human-like AI in our future.
+
+Defining intelligence
+
+Intelligence exists in various forms. Humans have what we call General Intelligence (G), the ability to learn, reason, and solve problems across a wide range of domains. General intelligence is what makes it possible for most human 4-year-olds to engage in an infinitely broad range of activities—like running after a ball, putting together a puzzle, or understanding when their friends are sad.
+
+By contrast, Generative Artificial Intelligence (GenAI)—the intelligence exhibited by platforms like ChatGPT—allows an AI system to generate new material, be it audio, image, or text, from previously trained data. And thanks to advances in computing power, the speed at which information can be analyzed and content produced far surpasses that of any human. However, GenAI is a narrow kind of intelligence, lacking a broad range of basic human capabilities. GenAI models are designed to perform a specific task and to do that specific task well. So, while ChatGPT may be better than humans at synthesizing research quickly, it cannot intuit the subtleties and subtexts of relationship dynamics.
+
+Artificial General Intelligence (AGI) envisions a conceptual AI system with human-like reasoning, judgment, and wisdom, capable of feeling, problem-solving, learning, and performing various cognitive tasks independently. But AGI is still just a theory. Although some future AI models come close to AGI’s description, they still rely heavily on supplied data and human prompting and have yet to form independent reasoning.
+
+What AI has learned from humans
+
+While GenAI has not reached the level of general intelligence that human beings possess, generative AI models do mimic several specific neural processes exhibited by the human brain:
+
+Learning Approaches: Generative AI can leverage different learning approaches, including unsupervised or semi-supervised learning for training. Similarly, the human brain learns through direct guidance (supervised learning) and extrapolation from explicit instruction to unstructured information (unsupervised learning). A learner might be a student in a classroom with a teacher, or in the case of GenAI, an AI system with a developer who feeds the model a training set. The model then recognizes patterns and creates categories for each subject.
+Sequential Data Processing: Generative AI models learn context by identifying sequential data. This mirrors the human brain, where information is processed sequentially by interconnected neurons. Once the data is processed, the brain can recognize patterns and make sense of the information. GenAI adopts a similar approach: when generating new data, the system processes the input data in sequential order, piece by piece, identifying patterns to create a new output.
+Pattern Recognition: Generative AI models use neural networks to recognize patterns and structures within existing data sets—like how associations work in the human brain. Our brains can establish a pattern that informs our behavior. Generative AI works much the same way and can often use more information than humans to identify even deeper patterns or filter out distracting information.
+
+Humans will continue to matter
+
+The differences between humans and AI are not just within the breadth of abilities that humans demonstrate but also in unique and critical skills that AI programs have yet to exhibit. As we continue to unpack what AI means for work, we should not overlook the intrinsic value of these qualities, which are critical to a healthy world and workplace—and uniquely human.
+
+Yet, it is also important to acknowledge that recent developments have rapidly escalated the progress in AI technology. While some argue that we will never reach AGI, the stark reality of vastly changing landscapes, adoption rates, and investments in the technology means that its capabilities should not be ignored. Nor should we ignore that humans and their incredible brains have developed these incredible tools. Humans and AI are closely connected and recognizing the complexity—and necessity—of this relationship will enable us to become better users of generative AI. Just as important, we will better understand the differences in human and AI capabilities.
+
+3 KEY TAKEAWAYS FOR COMPANIES
+
+Become more informed users of technology. Foster a more nuanced, confident approach to embracing AI by understanding the history of automation and artificial intelligence.
+Recognize the limitations of generative AI. Understanding that the human brain led to the development of GenAI technologies goes to show the ongoing value of investing in understanding humans.
+Look more closely at specific use cases to better understand GenAI’s strengths and weaknesses compared to those of humans. This will help leaders make informed decisions about how to integrate GenAI into their teams effectively.
+
+Find out more about Korn Ferry’s Business Transformation capabilities.
+
+Our Expert
+
+Our Experts
+
+No items found.
+
+Amelia Haynes
+
+Researcher, Korn Ferry Institute
+
+CLICK IMAGE TO DOWNLOAD PDF
+
+INSIGHTS TO YOUR INBOX
+
+Stay on top of the latest leadership news with This Week in Leadership—delivered weekly and straight to your inbox.
+
+​
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Institute
+
+AI in the Workplace
+
+Organization Strategy
+
+Business Transformation
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

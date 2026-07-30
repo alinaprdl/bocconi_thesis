@@ -1,0 +1,565 @@
+Are You Technically Optimistic About AI? A Q&A with Emerson Collective’s Raffi Krikorian | Russell Reynolds Associates
+
+Search
+
+Search
+
+Menu
+
+Menu Close
+
+Capabilities
+
+Expertise
+
+Insights
+
+About
+
+Contact Us
+
+en
+
+Login
+
+Back
+
+Search
+
+Succession
+
+Performance
+
+Accelerators
+
+Transformation
+
+Board
+
+Executive Search
+
+Our executive search consultants help you recruit great CEOs, CxOs, and board members in as little as 14 weeks.
+
+Back
+
+Industries
+
+Functions
+
+Organizations
+
+Board & CEO Advisory
+
+Is your board ready for what is next? We help boards and CEOs face the unprecedented challenges that shape our world—from disruptive technology to shifting demographics to pressure from investors and regulators.
+
+Back
+
+Leadership Topics and Trends
+
+Leadership Labs
+
+Flagship Research
+
+Data and Indices
+
+RRA Books
+
+Events and Webcasts
+
+Insights Library
+
+Global CEO Turnover Index
+
+We share the latest CEO turnover data across listed companies globally. Each quarter, you’ll find the proportion of CEO departures and appointments globally, as well as trends on CEO appointments by gender, tenure, and whether CEOs are internal or external hires.
+
+Back
+
+People
+
+Who We Are
+
+Careers
+
+Newsroom
+
+Consultant Directory
+
+Meet the people behind Russell Reynolds Associates, building proactive relationships around the world and around the corner.
+
+Back
+
+Get In Touch
+
+Advance Your Career
+
+Join the Conversation
+
+Find a Local Office
+
+Request for Consultation
+
+Complete the contact form and we will get back to you shortly. We look forward to connecting with you.
+
+Back
+
+Search Overview
+
+Board Search
+
+CEO Search
+
+Executive Search
+
+Back
+
+Succession Overview
+
+Board Succession
+
+CEO Succession
+
+C-suite Succession
+
+Back
+
+Performance Overview
+
+Assessment & Benchmarking
+
+Executive Development
+
+Executive Transition
+
+Team Performance
+
+Back
+
+Accelerators Overview
+
+Executive Mentoring
+
+RRA Artemis
+
+Back
+
+Transformation Overview
+
+AI and Tech
+
+Inclusion and Culture
+
+Strategy Decode and Activation
+
+Sustainability
+
+Back
+
+Board Overview
+
+Board Composition
+
+Board Effectiveness
+
+Back
+
+Industries Overview
+
+Business & Professional Services
+
+Consumer
+
+Education
+
+Financial Services
+
+Healthcare
+
+Industrial & Natural Resources
+
+Private Capital
+
+Technology
+
+Back
+
+Functions Overview
+
+Boards
+
+CEOs
+
+Corporate Affairs & Communications
+
+Customer Activation & Growth
+
+Finance
+
+Human Resources
+
+Legal, Risk & Compliance
+
+Operations & Supply Chain
+
+Sustainability
+
+Technology, Data & Digital
+
+Back
+
+Organizations Overview
+
+Family Enterprise
+
+Growth Tech
+
+Private Capital
+
+Social Impact
+
+Back
+
+Leadership Topics and Trends Overview
+
+AI and Leadership
+
+Board Leadership
+
+Family Enterprise Leadership
+
+Leadership Development
+
+Leadership Transformation
+
+Sustainable Leadership
+
+Technology & Innovation
+
+The Future of Leadership
+
+Your Leadership Journey
+
+Back
+
+Leadership Labs Overview
+
+Leadership Analytics: Predictors of CEO Success
+
+Unusual Suspects: New Leadership Archetypes
+
+AI Leadership, 100% Human
+
+Back
+
+Flagship Research Overview
+
+Divides and Dividends on Sustainability
+
+Leadership for a Decade of Action
+
+Global Corporate Governance Trends
+
+Transformational Leadership Study
+
+Back
+
+Data and Indices Overview
+
+Global Leadership Monitor
+
+Leadership Confidence Index
+
+Global CEO Turnover Index
+
+Global CFO Turnover Index
+
+Global CHRO Turnover Index
+
+Global COO Turnover Index
+
+Back
+
+RRA Books Overview
+
+Book: The Catalyst CEO
+
+Book: The New CEO
+
+Book: To the Top
+
+Book: Sustainable Leadership
+
+Back
+
+Events and Webcasts Overview
+
+Podcast: Redefiners
+
+Podcast: Leadership Lounge
+
+Events and Webinars
+
+Back
+
+Insights Library Overview
+
+Back
+
+People Overview
+
+Consultants
+
+Leadership
+
+Board of Directors
+
+Office Locations
+
+Back
+
+Who We Are Overview
+
+Sustainability
+
+Responsible AI
+
+Partnerships
+
+History
+
+Back
+
+Careers Overview
+
+Careers with our Clients
+
+Careers at RRA
+
+Back
+
+Newsroom Overview
+
+Back
+
+Get In Touch Overview
+
+Request Consultation
+
+Subscribe to Newsletter
+
+Access Events
+
+Submit Media Inquiry
+
+Back
+
+Advance Your Career Overview
+
+Start Career with our Clients
+
+Join RRA
+
+Back
+
+Join the Conversation Overview
+
+LinkedIn
+
+X (formerly Twitter)
+
+YouTube
+
+Spotify
+
+Apple Podcasts
+
+Back
+
+Find a Local Office Overview
+
+Americas
+
+EMEA
+
+Asia Pacific
+
+Language
+
+English
+
+中文(中国)
+
+日本語 (日本)
+
+Login
+
+Client Login
+
+Candidate Portal
+
+Login 4
+
+Login 5
+
+Login 6
+
+Login 7
+
+Login 8
+
+Login 9
+
+Login 10
+
+Are You Technically Optimistic About AI?
+
+Technology and InnovationTechnologyArtificial IntelligenceTechnology, Data, and Digital Officers
+
+Interview
+
+Katie Nivard
+
+October 22, 2024
+
+6 min
+
+Technology and InnovationTechnologyArtificial IntelligenceTechnology, Data, and Digital Officers
+
+Executive Summary
+
+Raffi Krikorian discusses AI's impact on leadership with Katie Nivard, emphasizing ethical governance, AI models, and tech for social good.
+
+Close
+
+Katie Nivard
+
+San Francisco
+
+A Q&A with Emerson Collective’s Raffi Krikorian
+
+Raffi Krikorian has been at the forefront of Silicon Valley’s global impact over the past 20+ years, starting as Head of Engineering & Infrastructure at Twitter, leading Uber’s self-driving cars division and early applications of AI, then joining the Democratic National Committee as its first CTO after the 2016 post-Russian hack. In 2019, he was hired as CTO and Managing Director at Emerson Collective. His podcast, “Technically Optimistic,” delves into transformational technology, asking how it can be developed and deployed with society’s best interests at heart.
+
+Raffi sat down for a fireside chat with Katie Nivard, leader of RRA’s Tech x Impact practice, at RRA’s Board and Consultant gathering in San Francisco to discuss where we are on the AI journey and what leaders need to know to be successful in an AI-enabled future.
+
+Katie Nivard
+
+Raffi Krikorian
+
+Katie Nivard: What questions are you currently asking yourself about artificial intelligence?
+
+Raffi Krikorian: Let me start with an anecdote. When Uber first started testing self-driving cars, we placed a fleet of data collection vehicles in Tempe, AZ and drove them around for months. This process essentially defined what the cars needed to know and recognize to functionally drive. But when we finished, the cars couldn't recognize a person of color, because they didn’t encounter enough of them in Tempe.
+
+It's so easy to introduce bias, even when we have the best of intentions. When organizations are creating and implementing AIs, they must be asking:
+
+How do we design AI systems that actively promote fairness and transparency while minimizing bias?
+
+What structures can we create to ensure accountability and quickly address issues as they emerge?
+
+How do we create trustworthy systems that people can meaningfully engage with?
+
+There’s already so much bias in so many of our structures. Think of the US medical system—historically, the overwhelming majority of studies were only conducted on men, meaning we didn’t gather insight on how diseases and their potential treatments impact women. We already live with these impacts; we don’t want to perpetuate them.
+
+KN: What do leaders need to understand about AI today?
+
+RK: Leading in the age of AI means talking about where we want the world to go. We can't slam on the brakes – the AI revolution has already begun. But we also can't go full steam ahead. Next generation leaders have to hold both of these truths simultaneously. The future of work is as much about managing massive culture transformation as it is about AI enablement.
+
+KN: What do leaders need to be successful in an AI-driven world?
+
+RK: To succeed in an AI-driven world, leaders need a strong grasp of ethics and how governments and systems work. They should be technically skilled and able to think about how rapid changes in technology impact the bigger picture. Since things are moving faster than ever, leaders should also rely on teams with the right knowledge to tackle these challenges. Most importantly, they need a clear set of values to guide their decisions, ensuring they stay grounded as technology reshapes the world.
+
+Leaders, ask yourself: Do you have a clear view on your non-negotiable foundations? What do you want to teach your kids about the world? How do you think, communicate your views, and team with others to address them?
+
+Power has shifted over time, from the strongest to the most powerful to the richest person. Now, we need the most ethical leader. Yes, data needs to be in order, but at the end of the day, what we really need are leaders who think clearly, systemically, and holistically.
+
+KN: What's the right AI model?
+
+RK: There is no right or wrong model. It all depends on what you want to get done in the world, what values you have, and what you want people to see as you work to get that done. We run into issues when there's a lack of clarity around an organization’s goals and values.
+
+KN: Related, you’re on the board of the Mozilla Foundation. What are Mozilla’s views on AI governance?
+
+RK: Mozilla fights for a free and open internet. We want to better define how to be a citizen on the internet.
+
+We all think Big Tech knows everything about us (and, let’s be honest, they probably do). But this is what Mozilla fights against. We believe that internet users have a right to privacy, as well as a right to options. We don't want a world with only three AI platforms that are generating results from data that we aren’t given the option to interrogate. And that doesn’t happen without governance.
+
+At Mozilla, we employ a unique governance structure that keeps the mission as the guiding principles. Mozilla Foundation, the umbrella organization, comprises a handful of for-profit subsidiaries. This includes Mozilla Corporation, which develops the Firefox web browser, Mozilla Ventures and Mozilla.ai. Mozilla Foundation therefore sets the policies that govern development, operates key infrastructure and controls Mozilla trademarks and copyrights.
+
+KN: Let's talk about power consolidation in the AI space and why open source AI models matters.
+
+RK: We need AI tools to keep up with innovation. But, in a closed model, we don't get to see how they work. Given how much information we're prepared to give these tools, we have a right to know how they work. Effectively, was this car trained in Tempe?
+
+With open source AI models, curious people can dive behind the scenes and understand exactly how data is being gathered and redeployed.
+
+AI is neither good nor bad—it's good and bad. And it’s making decisions for us at the deepest levels. We should be allowed to understand how it does that.
+
+KN: Any advice for the next US president on AI?
+
+RK: It's easy to focus on all the things that could go wrong when it comes to tech innovation. And while it’s good to react to what’s in front of us, it’s also important to make accelerating investments. The government could return to the 1960s approach—by which I mean, we could make significant investments in tech again.
+
+We know that speaking about tech innovations—both their risks and their opportunities—betters them in the long term. Consider The Social Dilemma documentary, in which numerous tech founders spoke about the dangers of social media. Now, Instagram has teen accounts and better filters. Impactful content plus helpful commentary can lead to meaningful action.
+
+Don’t just mitigate. Invest in the areas where you want the country to grow. That includes AI, but isn't limited to it. We need new approaches to educating the next generation about home economics and digital literacy. The way we earn and spend will change, and so much of that will happen online. We need to better equip everyone, especially kids, for that.
+
+KN: Given your podcast, what are you Technically Optimistic about?
+
+RK: I’m optimistic about the potential of technology to drive positive social change when it’s guided by strong ethics and thoughtful leadership. I think that people think about society a lot more than we think they do.  When I talk with leaders about the bigger picture, the conversation changes when we discuss what kind of world they want for their loved ones, their kids. I believe that tech can help us solve big, societal issues—if we engage the right people.
+
+Technology and InnovationTransformation and InnovationLeadershipHealthcareTechnology, Data, and Digital OfficersAssessment and BenchmarkingDevelopment and TransitionExecutive Search
+
+Integrating the Digital Functions with the Business
+
+Technology and InnovationLeadership StrategiesLeadershipConsumerTechnology, Data, and Digital OfficersCulture AnalyticsExecutive Search
+
+Becoming a Best-in-Class Digital Operator
+
+We and our partners use cookies and other technologies on this site to collect data about your device and activities on this site for operating and protecting the site, enabling and optimizing site functionality, analyzing site usage, personalizing your experience, and targeting ads, as detailed in our Cookie Policy. Click “Accept All” to consent to all of this, “Reject Optional Cookies” to get only mandatory cookies, or “Preferences” for more options.
+
+Preferences
+Reject Optional Cookies
+Accept All
+
+×
+
+About Cookies
+
+Cookie List
+
+Web pages can store or retrieve info on your browser, including through cookies.  This info might be about you, your preferences, or your device, and it may contain identifiers that are unique to you or to your device. We and third parties collect that kind of info through cookies in each category below. You can turn most individual categories off by moving the toggle to the left and hitting “Save my choices” or turn them back on by moving it to the right and hitting that same button. You can revisit these choices later by clicking on “Cookie Preferences” in the footer of russellreynolds.com.  These choices apply only to russellreynolds.com.  These choices affect this browser only, and you will need to repeat this process if you use another browser, if you clear your cookies, or if you use a browser that automatically clears cookies.
+
+More information:
+
+Read Cookie Policy
+
+Accept All
+Reject Optional Cookies
+
+Mandatory
+Always Active
+
+These cookies are required and cannot be turned off.
+
+Cookie Details
+
+Functional
+
+These cookies mainly enable enhanced functionality and personalization. They let us provide a more personalized and convenient experience. Disabling or removing these cookies may make browsing pages less convenient or may prevent certain functionality from working correctly.
+
+Cookie Details
+
+Performance
+
+Performance cookies mainly allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors use and interact with them. If you do not allow these cookies, we may have fewer ways to know when you have visited a page and may be less be able to monitor their performance.
+
+Cookie Details
+
+Targeting
+
+These cookies may be used to target ads to you (such as by helping to build a profile of your interests to target ads).  If you do not allow these cookies, the advertising you experience may be more repetitive or less relevant to you.
+
+Cookie Details
+
+Unclassified
+
+We recommend leaving Unclassified cookies off.  The Unclassified category could contain Functional, Performance, or Targeting cookies that we have not yet moved into the Functional, Performance, or Targeting categories above.  If you turn on the Unclassified category, all Unclassified cookies will be activated, even if you deactivate the specific Functional, Performance, or Targeting category.
+
+Cookie Details
+
+Save my choices

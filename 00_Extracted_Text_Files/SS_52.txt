@@ -1,0 +1,115 @@
+Why AI won't kill professional services — it will fracture them
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Why AI won't kill professional services —
+
+it will fracture them
+
+By
+
+Fabio Moioli
+
+November 2025
+
+| 5 min read
+
+Author
+
+Fabio Moioli
+
+Milan
+
+SectionsIn this article
+
+For generations, the value of professional services was rooted in a simple premise: They knew things you didn't. A lawyer knew the law; an accountant knew the tax code and a consultant knew the frameworks. This asymmetry of information was their defensible moat.
+
+Today, that moat is being drained by the relentless tide of artificial intelligence (AI). The prevailing narrative oscillates between utopian visions of enhanced productivity and dystopian fears of mass obsolescence. But both predictions are too simplistic.
+
+AI isn't a singular event that lifts or sinks all boats equally. Instead, it's a powerful fracturing force, cleaving the world of professional services into distinct, divergent futures. The fault line along which this fracture will occur isn't expertise alone but the fundamental nature of the data that professionals work with and the ineffable, irreplaceable value of human trust.
+
+The three professional clusters
+
+Quote
+
+AI isn't a singular event that lifts or sinks all boats equally. Instead, it's a powerful fracturing force, cleaving the world of professional services into distinct, divergent futures.”
+
+To understand the future, we must stop looking at professions as monolithic entities and instead dissect them into three emerging clusters: “true advisors” (often leveraging proprietary data), “knowledge experts” (often leveraging public data) and the vast, transformative “hybrid middle.”
+
+Cluster one: true advisors
+
+In this cluster, services won't only survive but will likely become more valuable and sought-after than ever. Their primary assets aren't publicly available information or replicable processes but are instead built on decades of cultivated relationships, access to confidential information and the kind of nuanced judgment that can't be encoded. For them, AI is a tool, not a replacement.
+
+Consider the C-Suite and board executive search. The true value here doesn’t lie in scraping LinkedIn or scanning public databases. It lies in the firm’s collective intelligence — the ability to mobilise trusted relationships, conduct discreet references through confidential networks, and interpret the subtle, often unspoken dynamics within a client’s leadership team. It’s about the credibility to engage even the most successful, not-looking executives in meaningful conversations, and the judgment to advise boards and CEOs with nuance and foresight. The “data” that matters is the firm’s shared network capital — a repository of relationships, insight and experience built over years — and the disciplined, personal advisory approach that turns this knowledge into lasting leadership impact.
+
+This principle extends to the highest echelons of other fields:
+
+Elite M&A advisory: Although AI can perform due diligence on a data room with superhuman speed, it can't sit with a founder and help them navigate the emotional turmoil of selling their life's work. It can't broker a fragile peace between two powerful CEOs whose egos threaten to derail a multibillion dollar deal. The advisor's value is their role as a trusted confidant and strategist, operating with information that will never be written down.
+
+High-stakes litigation strategy: AI can analyse every case precedent in history. But it can't look a jury in the eye, build a narrative that resonates with their human experience or sense the subtle shift in a judge's demeanour. The top trial lawyer's currency is credibility, presence and the art of persuasion.
+
+Bespoke strategy consulting: This isn't about operational efficiency frameworks that can be turned into an algorithm. This is the seasoned consultant brought in by a board to navigate an existential crisis. Their work involves facilitating brutally honest conversations, building political consensus for radical change and acting as a sounding board for a lonely CEO.
+
+Here, the human element isn't a bug — it's the entire operating system. The true advisor is a consigliere, a strategist and a repository of secrets, and that's a moat no algorithm can cross.
+
+Cluster two: knowledge experts
+
+Quote
+
+Continuing to bill by the hour for tasks AI can do in seconds is an unsustainable business model.”
+
+This is where the true disruption will be felt. Services in this cluster are fundamentally built on the processing, analysis and synthesis of vast quantities of publicly or semi-publicly available information. Their value proposition has been rooted in the labour-intensive work of finding, organising and applying rules to this data. This is precisely what AI, particularly large language models, excels at.
+
+The law's foundational layers: A significant portion of legal work involves tasks ripe for automation. The process of sifting through millions of documents for evidence is already heavily AI-driven. Lease agreements can be made faster and more accurately by AI. And AI is perfectly adept at summarising statutes and case law.
+
+Accounting's compliance engine: Accounting is built on a structured set of rules applied to financial data. Tax compliance for most individuals and businesses is a perfect use case for AI, and auditing will likely be transformed.
+
+Volume recruiting: Sourcing candidates from public profiles, screening resumes against keywords and even conducting initial text-based interviews are all tasks being handed over to AI-powered HR tech platforms.
+
+For professionals in this arena, the threat is existential. Continuing to bill by the hour for tasks AI can do in seconds is an unsustainable business model. The future for them isn't in performing the process but perhaps in managing, verifying and taking responsibility for the output of the automated systems.
+
+Cluster three: hybrid middle
+
+This isn't a clean binary. The largest and most dynamic cluster will be the hybrid middle, where humans and machine work in a symbiotic partnership, often referred to as a “centaur” model (like the mythical half-human, half-horse creature). Professionals here will thrive by offloading the automatable, public-data components of their work to AI, freeing them to double down on the human-centric, trust-based aspects of their roles.
+
+The professional in the hybrid middle uses AI to answer the “what,” freeing them to focus on the “so what” and the “now what.” Their value is in synthesis, judgment, communication and client leadership. They're the essential human-in-the-loop, providing the last mile of context, ethics and strategic insight that machines can't.
+
+The great reshuffle is here
+
+Understanding this three-cluster framework is critical for every professional and every firm. The path forward isn't to “AI-proof” your job by resisting technology but to critically assess where your value truly lies. The real question is no longer “Will AI take my job?” It's become, “What parts of my job can I cede to AI so I can focus on the work that is, and always will be, fundamentally human?”
+
+Author
+
+Fabio Moioli
+
+Milan
+
+Related Insights
+
+AI as a powerful accelerant: Combining technology with culture in product management
+
+October 2025
+
+6 min read
+
+Oliver Ridley tells Veena Marr why integrating AI with cultural adaptability in product management is essential for navigating the evolving business landscape and driving innovation.
+
+How leaders can thrive in the age of AI
+
+June 2025
+
+6 min read
+
+We consider how traditional leadership skills are being rethought, renewed and reconfigured in a world reshaped by AI.
+
+Redefining the CIO role in the era of AI
+
+April 2025
+
+5 min read
+
+Today’s CIO is expected to be a visionary, an agile innovator, and a business transformer — particularly when it comes to artificial intelligence.

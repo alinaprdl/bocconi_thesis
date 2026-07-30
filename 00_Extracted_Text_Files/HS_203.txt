@@ -1,0 +1,251 @@
+Digital inclusion: Five considerations for leaders to build on gains and avoid pitfalls in the hybrid world of work | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Digital inclusion: Five considerations for leaders to build on gains and avoid pitfalls in the hybrid world of work
+Explore this page What we’ve learned—and our new challengesStriking the right balance for the futureAbout the authorsRelated Content
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Digital Leadership Digital inclusion: Five considerations for leaders to build on gains and avoid pitfalls in the hybrid world of work
+
+As leaders reset their workplaces for long-term hybrid working, making thoughtful decisions about which technologies to use and how to use them, and putting inclusion at the core of those decisions, will be crucial.
+
+Andrew Jakubowski
+
+Aspects of inclusive leadership that most support digital inclusion
+
+Other work by Heidrick & Struggles has identified several behaviors inclusive leaders use more often. Among these, a few are particularly relevant to digital inclusion. (For more on inclusion, see “What inclusive leaders do—and don’t do.”)
+
+Inclusive leaders:
+
+Adapt their style easily to respond to the demands of different situations; leaders who are adaptable find it easier to manage and help their teams through uncertain and frequently shifting work situations that require the use of new tools and new workplace norms
+Foster collaboration among teams to create and implement new ideas; leaders who are good at this will be more able to identify creative solutions from anywhere in their organization and can actively seize new opportunities for collaboration that remote working has created
+Adapt and transform their approach to leadership: leaders who do this well are particularly able to implement new structures, support learning new digital skills themselves and for their teams, and make creative use of digital tools to maintain inclusion
+
+Amid the myriad uncertainties of returning to offices, it is clear that the future of work is hybrid; some people will remain remote while others will return to the office full or part time. The degree to which work will remain remote will vary by industry, but a recent survey by PwC shows that 55% of workers want the choice to stay remote at least three days per week.1 That means that technology will continue to be at the center of how teams—and entire organizations—work together for the foreseeable future.
+
+This ongoing state of hybrid work will unlock opportunities to bolster inclusion as well as create new threats to it. To retain the flexibility and inclusion many organizations have gained in the past year and avoid the pitfalls of a hybrid workplace, leaders must be intentional about how they use digital tools, how technologies are deployed across their organizations and, importantly, the behavioral norms and cultural expectations for using those technologies and tools.2 Gaining a thorough understanding of the current challenges and then considering the right steps in five key areas will help leaders ensure their people remain connected, engaged, and included. Ensuring equitable access and opportunity regardless of location is now table stakes; building and maintaining inclusion in a hybrid world is crucial for any leader.
+
+What we’ve learned—and our new challenges
+
+Throughout 2020, many people around the world quickly learned how to work effectively and productively while working virtually. This unprecedented change had a number of widely acknowledged positive effects for many. For example, it humanized colleagues, as it became common to see each other’s homes, children, and pets. It often created new opportunities for collaboration across geographies or functions that would have been unwieldy in an in-person world, including new opportunities for underrepresented talent. It broke down hierarchies and silos in many organizations and created both demand and capability for faster decision making. Through all this, in many ways, working remotely created a greater sense of inclusion. (For more, see “The future is now: How leaders can seize this moment to build thriving organizations.”)
+
+But remote working also raised some well-established barriers to inclusion. For many, working hour expectations have been extended far beyond a normal workday, leading to disengagement and burnout. For example, one well-intentioned multinational company wanted to ensure all its staff were included in global calls to discuss COVID-19 updates, but always held those calls during US working hours, creating challenges for employees in Europe and Asia. More broadly, many studies have shown that people are finding it harder than ever to set boundaries between their work and their personal lives, and are, on the whole, working longer hours than they did before the pandemic.
+
+In many ways, working remotely created a greater sense of inclusion, but it also raised some well-established barriers.
+
+Internal networks have often, though not always, been a casualty of remote working. Onboarding new employees has become a conundrum for many leaders, and it is particularly difficult for new people to start to build the informal networks that often orient and sustain them as they learn about their new organization. Studies have shown that in the early months of working remotely, people tended to connect most to others they already knew, effectively shrinking their workplace networks and reducing the number of informal connection points.3 Though we see that, at some organizations, people are building broader networks than they could have before, this issue of decreasing internal connection remains a concern at many others.
+
+There are also technological inequities. Employees without stable internet or updated devices—or those who simply don’t want colleagues to see into their homes—have been disadvantaged and even excluded. A year into remote working, one survey showed that 42% of employees still don’t have all the supplies they need for working from home.4 And while many companies have provided significant equipment reimbursement for things like cameras, chairs, and desks, other fundamentals, such as ensuring that every employee has high-quality internet that is capable of consistently streaming high-definition video and slides, are often overlooked. In addition, some employees, including a substantial share of leaders in some companies, were uncomfortable or unfamiliar with the technologies suddenly at the core of how they did their jobs every day. Concerns like these have led to greater isolation and discomfort for many.
+
+And then there are employees who find it uncomfortable to speak up on video calls or who tend to take time to think things through rather than responding spontaneously in a live meeting. These people have also been disadvantaged by fully remote work—though others have made creative use of chat functionality, for example, and are participating more than ever. Finally, employees who are differently abled, such as those who are blind or deaf, often face extra challenges using company-standard tools and have often been overlooked in discussions about remote working.
+
+Striking the right balance for the future
+
+Now that leaders are trying to set new norms for hybrid workplaces, what should they consider in order to ensure that they maintain the benefits of remote working and avoid familiar and new pitfalls?
+
+First, leaders should step back from technology and remember that inclusion is built when leaders lead with purpose, create belonging, and value differences. All the decisions they make about which tools to use, which norms and policies to set, and which behaviors to role model should start with those considerations. Building their own strength in a few leadership behaviors will help further (see sidebar, “Aspects of inclusive leadership that most support digital inclusion”).
+
+Leaders should step back from technology and remember that inclusion is built when leaders lead with purpose, create belonging, and value differences. All the decisions they make about which tools to use, which norms and policies to set, and which behaviors to role model should start with those considerations.
+
+In addition, leaders need to stay up to speed on what people want from their workplace through frequent surveys and discussions. Employee needs will evolve over time, and leaders will need to be ahead of changing expectations in order to stay agile. In that context, considering the right steps in the areas below will help ensure organizations remain connected, engaged, and inclusive.
+
+Ensure cultural norms maintain inclusion and resilience
+
+Last spring, many organizations spontaneously created what some have called a “culture of grace”—that is, a culture of forgiveness for leaving oneself on mute, having a child run through a meeting, or needing to miss a regular call because of new responsibilities. Most people have set new norms for themselves, but many are also feeling burned out—indeed, one recent study found that 39% of employees feel exhausted.5
+
+Leaders can set some new cultural norms that will help in the long term. Something as simple as announcing—and then sticking to—Zoom-free days will help all employees feel able to do the same. Similar support for flexible work arrangements, which many women, in particular, say they need in order to continue to be able to work, will also help. One company we know introduced new flexibility options and asked leaders to follow up with their teams about their interest in the options. Not all leaders followed up, but the teams of those who did—who felt their direct manager’s support for flexibility—more often took up the new options, which helped many feel included and bolstered resilience.
+
+Some companies have taken very large steps to change norms. Microsoft, for example, has given its employees five extra “well-being” days off, to “rest, exercise, learn, volunteer, or however is most beneficial.” LinkedIn has followed the standard of its parent company, recently surprising employees with a week off to stave off burnout. Taking this even further, a large consulting company is now paying its employees extra to take full—versus partial—weeks of vacation, signaling the importance of taking time to unwind and de-stress, and sending an important message about cultural expectations.
+
+Ensure communication tools and strategies are inclusive
+
+Communication is another area in which expectations have changed radically and where leaders can benefit from setting new norms of transparency and over-communication to ensure everyone feels connected. It’s important, however, that leaders do this in ways that show respect for everyone’s time zones and communication preferences. This could mean holding three regional calls with the company leaders instead of one global one, or, on a smaller scale, using something as simple as email signatures to convey norms. Many leaders at Microsoft, for example, use the following as part of their email signatures: “My working hours may not be your working hours. Please do not feel obligated to reply outside of your normal work schedule.”
+
+Communication is another area in which expectations have changed radically and where leaders can benefit from setting new norms of transparency and over-communication to ensure everyone feels connected.
+
+One recent common concern has been that people who return to the office full time will have an inherent advantage over those who return part time or not at all. The in-office people will have chances for informal interaction and facetime with one another that could lead to old hierarchies and silos re-forming or new ones being created. One CHRO is relying on leading-edge conferencing technology to make the discrepancies as small as possible. Based on insights from employee surveys, she decided to shift from a traditional office space to a smaller, flexible space for select in-person and hybrid meetings. The new office space will be equipped with conferencing technology to make remote workers feel as connected as possible. Other leaders are using tactics such as encouraging every meeting attendee (even those sharing a conference room) to join calls from their laptop so that remote attendees can clearly see everyone and feel like they’re on a level playing field.
+
+Leaders’ communications strategies also matter. A certain media executive we know has been location-inclusive since before the pandemic, using Slack daily to tell his geographically distributed team about the content of any meetings or informal chats that occurred in the office. Some of the most strategic leaders we know use a wide variety of digital communication tools to interact with their teams—a mix of video calls, Slack, video messages (recorded on their phone), virtual or live open-door office hours, polls, and internal social media channels, recognizing a diverse set of communication styles and preferences. Equinor, a Norwegian energy company, applies analysis usually used for customers to its employees. It created nine employee personas, with guidelines for hybrid work arrangements tailored to each one. This has allowed its leaders to do their planning with their team’s specific needs in mind.6
+
+Ensure everyone can build networks and feel they belong
+
+Leaders also need to make sure that employees have the time and support to build internal networks with familiar and new colleagues. Grounding these opportunities in real work, rather than separate networking events, will make it more powerful. For example, leaders can help employees expand their internal networks by ensuring most projects have the kind of diverse teams that remote work has enabled, comprised of colleagues across functions or geographies that wouldn’t have been possible before remote work. Beyond specific work assignments, company-wide initiatives such as community service events, employee resource groups, and hackathons are other ways leaders can support both network building and innovation.
+
+A broad and diverse network isn’t necessarily inclusive in itself, however. To foster a sense of belonging in others, leaders should also be intentional in engaging their teams and colleagues on a deeper, human level. Often, this means dedicating time to conversations that once would have been informal, including more regularly scheduled catchups (about personal lives as well as work), and more frequently recognizing and celebrating small victories (such as making public acknowledgments, giving awards, or even sending short notes of appreciation). Leaders can also make explicit introductions of their team members to others in the organization, creating beneficial relationships perhaps based on shared interests—even a mutual hobby—that reach beyond a particular project.
+
+A broad and diverse network isn’t necessarily inclusive in itself, however. To foster a sense of belonging in others, leaders should also be intentional in engaging their teams and colleagues on a deeper, human level.
+
+Digital tools can help with networking and inclusion, especially when used creatively. A group of Heidrick & Struggles colleagues in the Asia-Pacific region recently wanted to introduce new members of their team. Instead of doing Zoom meetings, each team member filmed a short video in a creative location (riding a camel, for example), which the team then compiled for the introductory call. By simply using familiar tools in new ways, this approach humanized the team immediately and was more fun and engaging than a typical monologue introduction.
+
+Ensure company-standard technologies meet everyone’s needs
+
+In addition to ensuring people have the physical equipment and connectivity they need, leaders must make sure that everyone—from the front line to the C-suite—gets the training they need to use technologies effectively. Many executives still only use a fraction of the functionality of the tools they have available. For example, most leaders are not fully leveraging breakout rooms, polling, whiteboarding, video filters, or other features of conferencing platforms that can help break things up. One executive we know, on the other hand, regularly highlights different platform features in meetings, both to enhance the meeting itself and to train and inspire others to use the features as well. Individual leadership habits like this, which goes far beyond standard IT training, can make people feel more empowered and included in the digital world.
+
+In addition to ensuring people have the physical equipment and connectivity they need, leaders must make sure that everyone—from the front line to the C-suite—gets the training they need to use technologies effectively.
+
+Additionally, setting norms for using technologies that suit different personalities and thinking styles will help build inclusion. For example, setting the expectation that contributions to meetings via chat are just as legitimate as speaking aloud will help include people who are uncomfortable talking onscreen. Emoji-style reactions also provide another way to provide real-time feedback and engage in the discussion.
+
+Finally, leaders must make certain that their companies invest in the many tools and techniques that are more inclusive to those who are differently abled. Many meeting platforms, for example, have real-time captions; ensuring those are always turned on is a simple step to enable deaf and hard-of-hearing colleagues and will likely be a convenience to many others. Leaders should also support employees who need different input methods, such as voice and gesture-based input and controls. Accommodations that were made in the office should also be accessible from home to continue to include everyone.
+
+Ensure leaders are up to date on new techniques and technologies
+
+New technologies related to remote working are being launched almost every day. Leaders will benefit from continuously exploring emerging tools and ways of working so that they can make informed decisions about what will be useful for their organizations.
+
+Since most leaders are not taking full advantage of the currently available tools and platforms, their first step should be to tap into them by learning and trying out unfamiliar features. Beyond that, exploring emerging new tools is key. Virtual reality, for example, is one technology that is surging as a video conference alternative and is one that leaders should experiment with—many corporations would have been hesitant to jump in 18 months ago. Today, however, virtual reality is being used not only by technology companies such as Facebook and Samsung but also by traditionally conservative organizations (including an insurance company we know) for internal training and collaboration. Once everyone enters a virtual environment—whether through a virtual reality headset or a computer—most describe the experience as extremely immersive, engaging, and inclusive. People can manifest themselves in any body style or shape they want, which can lead to more connection and more comfort for many who are less comfortable on video or would like to express themselves in a new way.
+
+Most leaders are not taking full advantage of the currently available tools and platforms, their first step should be to tap into them by learning and trying out unfamiliar features. Beyond that, exploring emerging new tools is key.
+
+On the other end of the spectrum, the rising popularity of audio-only platforms such as Clubhouse are a testament to people also enjoying the flexibility and authenticity of informal, more simple environments, without worrying about video’s inherent pressures.
+
+The challenge for leaders, then, is to bring to their organizations a mixture of various platforms, tools, and techniques to leverage technology’s unique aspects to drive inclusion while innovating for the future. To avoid overwhelming themselves by trying to do so, however, a useful—and inherently inclusive—tactic is to crowdsource new ideas. Strategic leaders engage their teams in ways such as carving out time during regular meetings for one or more people to share interesting technology tips or tools they’ve come across. In this way, the team is learning and co-creating the new world of hybrid work together.
+
+***
+
+As leaders reset their workplaces for long-term hybrid working, making thoughtful decisions about which technologies to use and how to use them, acknowledging that preferences, tools, and circumstances are still changing rapidly, will be crucial. Putting inclusion at the core of decisions about technologies will help ensure not only that companies are using their tools effectively and inclusively, but also that companies are able to rally everyone behind a collective purpose and cultivate a sense of belonging. This will benefit not only their immediate teams but will help drive inclusion throughout the entire organization in the long term.
+
+About the authors
+
+Yulia Barnakova (ybarnakova@heidrick.com) is a principal in Heidrick & Struggles’ Philadelphia office and a member of Heidrick Consulting.
+
+Andrew Jakubowski (ajakubowski@heidrick.com) is an engagement leader in the Philadelphia office and a member of Heidrick Consulting.
+
+Nedra Johnson (njohnson@heidrick.com) is a principal in the Atlanta office and a member of Heidrick Consulting.
+
+Acknowledgments
+
+The authors wish to thank Steven Krupp and Cheryl Stokes for their contributions to this article.
+
+References
+
+1 “It’s time to reimagine where and how work will get done: PwC’s US remote work survey,” PwC, January 12, 2021.
+
+2 Yulia Barnakova and Steven Krupp, “Virtual upsides: Five new ways of working to enhance agility and inclusion,” LinkedIn, December 1, 2020.
+
+3 “The next great disruption is hybrid work—are we ready?” 2020 Work Trend Index Annual Report, Microsoft, March 22, 2021.
+
+4 “The next great disruption is hybrid work—are we ready?” 2020 Work Trend Index Annual Report, Microsoft, March 22, 2021.
+
+5 “The next great disruption is hybrid work—are we ready?” 2020 Work Trend Index Annual Report, Microsoft, March 22, 2021.
+
+6 Lynda Gratton, “How to do hybrid right,” Harvard Business Review, May 2021.
+
+Related Services & Industries
+
+AI & Technology Officers
+
+Digital Leadership
+
+Inclusive Leadership
+
+Related Content
+
+Leadership Development
+
+AI focus: Leveraging your culture to accelerate GenAI enablement
+
+Realizing the value of your AI investments relies more on your culture than on the technology itself. Our work and interviews with five executives highlight how companies are engaging their leaders to speed GenAI progress.
+
+FinTech
+
+Stablecoins and the future of finance: A conversation with Marieke Flament, co-author of Euro Stable Watch, board member and advisor
+
+Marieke Flament explores how stablecoins are reshaping global finance and what today’s leaders need to thrive in a decentralized financial system.
+
+Marketing, Strategy & Communications
+
+AI leadership in communications: A conversation with Corey duBrowa, Global CEO of Burson
+
+Corey duBrowa shares practical guidance for corporate communications leaders on harnessing AI, staying ahead of emerging trends, and advising CEOs and boards on the right questions to ask.
+
+Digital Leadership
+
+AI and leadership: How finance, HR, and technology leaders are collaborating to make the most of AI across the enterprise
+
+When leaders of these key functions work together effectively, their companies are more able to benefit from implementing AI. Focusing on three areas will help keep progress going.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

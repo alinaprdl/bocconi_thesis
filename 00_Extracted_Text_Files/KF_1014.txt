@@ -1,0 +1,123 @@
+Artificial intelligence: Build it or buy it?
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Organizational Transformation|May 16, 2023
+
+Artificial intelligence: Build it or buy it?
+
+With artificial intelligence all the rage, leaders are keen to incorporate into their business ASAP. Is it better to build AI internally or buy from a provider?
+
+Key takeaways
+
+The top 3 considerations for AI integration
+The pros and cons of "quick wins" when integrating AI
+How AI uncovers opportunities for existing talent
+
+To hear the technocrats speak of it, AI may be an inflection point for humanity akin to our development of the written language—perhaps even greater. But while the tech may be progressing at warp speed, experts have one key question: can firms keep up with the pace?
+
+Experts say many leaders are certainly trying to, hoping not to miss out on AI’s competitive advantage. This tsunami of interest is fueled by people’s positive experience with current AI tools like ChatGPT. Yet this groundbreaking tech comes with a price tag. Indeed, AI budgets are projected to increase by up to 27% this year, at a time when revenue pressure is quite high. “It's very important to stay humble and be in a learning mode,” says Vinay Menon, Korn Ferry Senior Client Partner and Global Lead of its AI Practice, “because it’s moving faster than anyone can keep track.”
+
+For most companies, the question is how to get the most bang for their AI bucks. Should they build AI capabilities internally or buy from a third-party provider? One option may be faster—but lead to issues—while moving slowly may cost firms business. In the end, there is no one-size-fits-all answer, but here are our experts’ takes on what to consider when moving through this process.
+
+1. Cost
+
+When it comes to building AI in-house, experts say the downside is undoubtedly its cost. The process would begin with hiring an impactful AI leader, says Matthew Renick, a consultant who advises on AI and machine learning innovation in Korn Ferry’s Technology Markets Practice. This would likely be someone with a domain-specific PhD who has served in a research and development capacity but also has the leadership ability to take innovations out of the lab into production.
+
+He adds that a legitimate candidate would easily command a seven- to eight-figure salary—and that’s before accounting for a bare minimum team of 30 AI engineers (80-100 if you want to be best-in-class), commanding a reported US annual average of $156,000. “These people don’t come cheap,” says Renick. By contrast, a pre-built chatbot can reportedly cost less than $100/month—with more customizable options ranging from four to five figures annually. “AI capabilities can be purchased off the shelf for a fraction of the cost.”
+
+2. Speed
+
+Building out your firm’s AI lab internally can be a time-consuming process when competing with the Silicon Valley tech behemoths for top talent. Engineers take the longest amount of time to hire (49 days) compared to other professions, according to LinkedIn data. Once a team has finally been assembled, there’s also the time involved with building the AI models — from scratch. Still, the reward for such intensive efforts might be a customized solution that could be potentially sold to other firms within your industry. “You may create some unique IP,” says Tarun Inuganti, Korn Ferry Senior Client Partner and Global Managing Partner for its Global Technology Officers Practice.
+
+On the other hand, experts say integrating AI solutions from a provider tends to be a faster process as software providers often have ready-made options to fit customer needs—whether it is a chatbot to assist in call centers, product pricing analytics, or supply chain optimization. “Firms like to see quick wins when it comes to AI,” says Renick.
+
+Business Transformation
+
+Build the mindset, skills, structure and culture to transform your organization
+
+Learn more
+
+3. Workforce
+
+If the core business of a firm is not centered around selling technology, bringing on an additional workforce to build AI may shift company priorities unnecessarily, note our experts. But buying software off the shelf gives firms an opportunity to focus on reskilling and upskilling their existing talent pipeline as AI will likely demand familiarity with a whole host of new tools. For example, says Menon, it would be ludicrous to imagine a content writer who didn’t know how to use Microsoft Word today—yet there was a time not too long ago when that was the case.
+
+A reported three-quarters of employees are ready to learn new skills or completely retrain, and reskilling leads to retention, according to Byrne Mulrooney, Chief Executive Officer of Korn Ferry's Recruitment Process Outsourcing (RPO) and Digital businesses. In fact, 2021 Pew Research data shows that nearly two-thirds of workers cite lack of opportunities for career advancement as a reason for their resignation. “If companies reduce attrition, that has a payback in and of itself,” says Mulrooney.
+
+To learn more about aligning AI integration with your business transformation goals, contact one of our experts today.
+
+Our Expert
+
+Our Experts
+
+Vinay Menon
+Senior Client Partner IT Services & Software Global Lead, AI Practice
+
+Matthew Renick
+Principal, Global Technology & Digital Officers COE, Co-Head, Global AI Practice
+
+Tarun Inuganti
+Managing Partner, North American Technology Markets & Global Managing Partner, Global Technology Officers Practice
+
+No items found.
+
+Related Capability
+
+Related Capabilities
+
+Business Transformation
+
+Workforce Transformation
+
+Featured Insights
+
+Briefings Podcast: Stop the Fake Compliments
+Briefings Podcast: Always the Hire, Never the Fire
+Boomers Bypassed?
+It’s Friday: Hello, Anyone There?
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Featured Topics
+
+AI in the Workplace
+
+Organizational Transformation
+
+Business Transformation
+
+Workforce Transformation
+
+Digital

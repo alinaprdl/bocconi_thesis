@@ -1,0 +1,197 @@
+Digital readiness in Nordic boards | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Digital readiness in Nordic boards
+Explore this page What Nordic boards know about digitalBuilding digital acumen in the boardroomAbout the authorRelated Content
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Digital Leadership Digital readiness in Nordic boards
+
+An analysis of the backgrounds and areas of expertise of the current board members lends insight into level of digital expertise on the boards of the leading corporations in Denmark, Finland, and Sweden.
+
+About the report
+
+We analyzed the digital skill set and experience of board members of top companies in Denmark, Finland, and Sweden.
+
+For Denmark, we looked at 66 boards that include C25, 17 large-cap companies, and the top 25 largest non-listed companies, based on revenue.
+For Finland, we looked at 49 boards that include OMX25, and 22 large-cap and large non-listed companies, based on revenue.
+For Sweden, we looked at 104 boards that include OMX30 and 75 large-cap companies.
+
+As companies are becoming increasingly digital—particularly in the wake of the pervasive changes to ways of working and interacting with customers and suppliers created by the COVID-19 pandemic—the role of the board must now factor in how technology and digitization affect the business strategy. No longer a nice-to-have or a role for a single expert on the board—boards as a whole must now have a high level of digital fluency.
+
+To understand the level of digital expertise on the boards of the leading corporations in three Nordic countries—Denmark, Finland, and Sweden—we undertook an analysis of the backgrounds and areas of expertise of the current board members. Overall, many top Nordic companies are still in the early stages of building digital capabilities in the boardroom, with 47% of companies in our study lacking even one person with digital acumen on their board. Interestingly, half of the directors with digital skill sets are women, who are providing an oversize contribution when considering they hold fewer than half the board seats.
+
+What Nordic boards know about digital
+
+A Heidrick & Struggles survey of European directors in 2019 found that two-thirds thought that the role of the board with regards to digital is not leading big transformations projects but to influence these programs—they felt that leading those projects is the responsibility of the executive teams. That means that even though all board directors can’t be digital experts, they all need a minimum level of digital fluency to ask the right questions. (For more, see “Board of the future: Moving toward a more diverse, more in tune European board.”)
+
+Finland stands out among the countries we studied, with 63% of its boards having at least one director with digital capabilities, compared to 47% in Denmark and 49% in Sweden. Twelve percent of Finland’s boards have three board members with digital acumen, markedly higher than their two Nordic counterparts in our analysis, both with 2%, as well as a larger share of both technical experience and directors with mixed acumen that combines general digital experience with technical education and technical operations experience.
+
+Digital industry experience, which includes experience in areas such as hardware and systems, communications, IT services and outsourcing, software and internet, consulting, or venture capital-backed tech companies, is by far the most common type of previous experience. Almost half of the digital capabilities are in this category.
+
+The second most common type of digital experience is technical education, with a fifth of board members having a higher education diploma in computer science, engineering, combined business economics, and computer sciences, or IT.
+
+Technical operational experience, the deepest and arguably most relevant background for overseeing digital and technologically driven transformations, is the rarest: only 16% of boards in the three countries include executives who had held either operational IT roles or equivalent positions such as chief information officer, chief digital officer, chief technology officer, chief information security officer, data scientist, application developer, or a role in information processing systems (I/O).
+
+Even though the gap among the three countries in terms of digital competencies is fairly small, there is a possibility that Denmark could fall behind in the coming years because boards there have a significantly smaller proportion of directors with technical education. One of the key factors propelling Sweden ahead is its superior technical higher education system, with the KTH Royal Institute of Technology ranking higher than its Danish equivalent.1
+
+Additionally, Sweden has shown higher levels of venture capital and has a long history of investment from some of the more prominent business dynasties in the country. This, in turn, creates a better environment for start-ups and tech unicorns in particular,2 which then attracts more talent that combine digital experience, technical backgrounds, and technical operational experience.
+
+Women bring more digital capabilities in the Nordic boardrooms
+
+One of the more surprising findings in our analysis was that, on average, 50% of the current digital skill sets on boards are brought in by women directors; furthermore, they have more technical and operational capabilities than their male peers: out of all directors with technical experience on boards, 60% are women in Denmark, 42% in Finland, and 60% in Sweden.
+
+That could be linked to some extent to the fact that the female directors in our study are younger than the men and considerably younger in Denmark: on average, 8 years younger. Interestingly, in Denmark, the average current board tenure is only one year shorter for women than that of their male counterparts, indicating that women start board positions early on. One explanation we heard from chairs we talked to was that boards must sometimes search for candidates at lower organizational levels, and younger executives are more likely to have digital acumen. Since women are on average younger, have more technical experience, and are operationally active to a larger extent, it could mean that they are closer to a wider customer demographic and are more familiar with the newest technological developments and channels to market, ways of working, and the details of a digital transformation process.
+
+Building digital acumen in the boardroom
+
+Our analysis suggests that, from a digital viewpoint, boards are represented to a larger extent by leaders with a traditional background and less by individuals with the digital acumen necessary to lead the organizations of tomorrow. To future-proof Nordics boards, they need to markedly increase the number of directors who have acumen in at least one of the three areas of digital experience we discussed above. Having a higher share of digitally savvy board members will enable boards to more effectively influence decision-making than boards filled with many previous CEOs with different areas of expertise.
+
+Overall, the need for enhanced digital capabilities on boards suggests that companies should go beyond the classical director profile that prioritized executives with CEO or CFO track records and instead balance the scales by looking for executives who have strong digital and tech capabilities and demonstrate the necessary strategic and commercial acumen that will allow them to be part of all board decision-making processes. Boards should also seek candidates beyond the current small geographic footprint of their board members—predominantly made up of nationals of the countries where companies are based and neighboring countries—-and consider other sectors than their usual pool, where they are more likely to find the required skill sets.
+
+When planning for their board refreshment, boards should start by identifying the exact mix of capabilities they require and where they are most likely to find directors with the kind of experience they need. (For more, see “Building the foundation for better board refreshment.”) As appointing more women has raised the level of digital know-how in the boardroom, companies should reflect on how, by addressing their gender balance, they can simultaneously bring in more digital expertise.
+
+However, appointing more directors with digital and technology backgrounds could take longer if boards wait for directors to rotate out of their terms. It is therefore important that all directors gain a minimum level of digital knowledge to make sure they can ask the right questions and make the right decisions. The first step to upskilling board members is to assess their current digital readiness and then to create a tailored program of individual and collective learning that can encompass workshops, simulations, and individual coaching. And, conversely, technology and digital experts should consider business education such as executive leadership courses or MBAs to consolidate their understanding of how to run a business and translate their skill set into boardroom language.
+
+Digital capabilities will become fundamental in the profile of all board directors in the near future. In the Nordics, most boards are far from having the expertise they need. Boards that build more diverse, more complex digital capabilities into their board succession planning will have a stronger pool to call on for their leadership and board positions, and develop the leaders they need for tomorrow, today.
+
+About the author
+
+Peter Christiansen (pchristiansen@heidrick.com) is a partner in Heidrick & Struggles’ Copenhagen office and a member of the Global Technology & Services and Financial Officers practices.
+
+Acknowledgments
+
+The author wishes to thank Heidrick & Struggles’ Adrian Nagy and Alexander Den Dulk for their contributions to this article.
+
+He also wishes to thank the following senior executives and board directors on a large number of leading Danish companies, for sharing their insights: Marianne Philip, Thomas Schleicher, Pernille Erenbjerg, and Jesper Brandgaard.
+
+References
+
+1  QS World University Rankings by Subject 2021: Engineering & Technology, QS Top Universities, accessed May 2021.
+
+2  Charles Daly, “From Spotify to Minecraft, Sweden proves fertile ground for unicorns,” Bloomberg, April 26, 2021.
+
+Related Services & Industries
+
+Board Effectiveness
+
+CEO & Board of Directors
+
+Digital Leadership
+
+Executive Assessment
+
+Inclusive Leadership
+
+Related Content
+
+Leadership Development
+
+AI focus: Leveraging your culture to accelerate GenAI enablement
+
+Realizing the value of your AI investments relies more on your culture than on the technology itself. Our work and interviews with five executives highlight how companies are engaging their leaders to speed GenAI progress.
+
+FinTech
+
+Stablecoins and the future of finance: A conversation with Marieke Flament, co-author of Euro Stable Watch, board member and advisor
+
+Marieke Flament explores how stablecoins are reshaping global finance and what today’s leaders need to thrive in a decentralized financial system.
+
+Marketing, Strategy & Communications
+
+AI leadership in communications: A conversation with Corey duBrowa, Global CEO of Burson
+
+Corey duBrowa shares practical guidance for corporate communications leaders on harnessing AI, staying ahead of emerging trends, and advising CEOs and boards on the right questions to ask.
+
+Digital Leadership
+
+AI and leadership: How finance, HR, and technology leaders are collaborating to make the most of AI across the enterprise
+
+When leaders of these key functions work together effectively, their companies are more able to benefit from implementing AI. Focusing on three areas will help keep progress going.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

@@ -1,0 +1,145 @@
+Energy focus: Seeing clearly in the AI century | A 2026 mandate for energy CEOs | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Energy focus: Seeing clearly in the AI century | A 2026 mandate for energy CEOs
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+CEO & Board of Directors Energy focus: Seeing clearly in the AI century | A 2026 mandate for energy CEOs
+
+Amid unprecedented uncertainty, four forces are reshaping leadership in the energy industry.
+February 05, 2026
+
+Les T. Csorba
+
+Download the article
+Open the PDF
+
+In 2026, the job description for an energy CEO has been rewritten in fire.
+
+Today’s CEOs must read OPEC+ cohesion, China’s mineral dominance, and Europe’s energy fragility with the same fluency once reserved for a cash-flow statement. The sudden capture of Nicolás Maduro underscored a reality energy leaders can no longer afford to ignore: geopolitical assumptions that once felt permanent can collapse overnight, with immediate consequences for markets, capital, and strategy. Energy leaders must also treat macroeconomic chaos as a primary input, not background noise—separating durable demand from passing fads, and meeting AI’s structural hunger from crypto’s gyrations. They must see the new infrastructure super-cycle for what it is: a vertical hockey stick of power demand driven by hyperscale data centers, electrified transport, and re-shored manufacturing. The 2026 energy CEO who lacks this four-part lens—geopolitical, macroeconomic, infrastructural, and technological—will not merely underperform; they will misinvest tens of billions of dollars and forfeit their organization’s place within the global economy.
+
+When wishful thinking met reality
+
+For years, the International Energy Agency (IEA) projected that global peak oil demand was just around the corner, heralding a smooth and irreversible march toward renewables.1 But reality has proven far messier—and far more instructive. Hydrocarbon consumption remains strong, driven by emerging-market development, data center expansion, and the insatiable power appetite of artificial intelligence. In 2024, global oil demand exceeded 103 million barrels per day (mb/d) for the first time.2 Under the IEA's current policies scenario, global oil demand (including biofuels) could increase from 100 mb/d in 2024 to 105 mb/d by 2035, and potentially rise even higher toward 2050.3 The IEA’s miss wasn’t merely analytical—it was psychological, a vivid case study in confirmation bias: the temptation to see the world as we wish it to be rather than as it is.
+
+And that is precisely the blind spot energy CEOs must avoid in 2026.
+
+Two of the industry’s most measured voices—Darren Woods of ExxonMobil and Mike Wirth of Chevron—have converged on the same unflinching conclusion: hydrocarbons will remain indispensable for decades,4 not out of nostalgia but because physics is indifferent to slogans and human development refuses to pause for ideology. We are not witnessing a neat substitution of old sources for new; we are living through an era of energy addition, where every viable form of power is being layered urgently atop the last. Jensen Huang, Nvidia’s founder and a leader of the AI revolution, now frames the race for artificial intelligence as a race for abundant, affordable energy.5 The United States is long on molecules and short on electrons—and Huang knows an algorithm is only as fast as the power that feeds it.
+
+In such a world, the decisive advantage in 2026 will not be measured in barrels, megawatts, or hedging ratios but in clarity—the rare capacity to see the world plainly and, harder still, to see oneself plainly within it.
+
+The persistence of energy poverty
+
+US Energy Secretary Chris Wright—who has become to energy policy what Dan Yergin has long been to energy history—has often reminded us that energy is the enabling condition of every other sector and, more quietly, of human dignity itself.6 Reliable energy is not merely an economic necessity—it is a humanitarian one. Even Bill Gates, once a forceful champion of rapid decarbonization, has acknowledged oil and natural gas as drivers of energy access and improved humanitarian outcomes: four billion people still live in energy poverty7, and two billion cook their daily meals over open fires or rudimentary stoves fueled by wood, charcoal, or dried dung. These fires can fill homes with toxic smoke and claim three million lives each year through silent, preventable indoor poisoning.8 In conjunction with the recent COP30 meeting, Gates released a memo he described as “tough truths about climate,” saying that the world’s primary goal should be to reduce suffering. He posed the essential questions: “How do we make sure aid spending is delivering the greatest impact for the most vulnerable?” and “Is climate money being spent on the right things?”9
+
+What the best CEOs know
+
+After three decades of boardroom conversations, I have seen the traits that separate leaders who merely survive turbulence from those who shape what comes next. First, an almost austere realism—a willingness to see the world as it is long before it becomes fashionable to admit it. Second, a practiced humility—the quiet understanding that every leader is still, somewhere in the mind, an unfinished draft. Third, ripple intelligence: the capacity to sense distant disturbances before they arrive as crises, to trace the second- and third-order consequences of a new tariff, a new algorithm, a new war, or a new peace.
+
+These are not leadership fads. They are the observed differences between the CEOs and boards who were quietly right in 2020 about shale resilience—or in 2023 about AI-driven power demand—and those who were loudly wrong. Boards that understand this moment will stop asking succession committees for “proven operators at scale” and start searching for leaders who can hold complexity without fracturing, and who can look at their own reflections without flinching. To that end, we now insist on three disciplines once considered optional: structured self-awareness assessments in every CEO evaluation, not as HR theater, but as fiduciary responsibility; succession scenarios built for multiple futures, not one consensus case; and deliberate exposure to dissenting voices inside the boardroom—before activists supply them from the outside.
+
+The four engines driving the next energy cycle
+
+The energy industry has never lacked capital, technology, or geological advantage. What it has periodically lacked is clarity—clear sight of the external world, and more rarely still, clear sight of the internal one. Looking to 2026, here are the four forces reshaping leadership in the energy industry:
+
+1. Agility is the new alpha
+
+The old model—set a five-year plan, lock the budget, execute—has been rendered obsolete by a world in which Saudi spare capacity policy can shift in a weekend, a single Houthi drone can reroute 8% of Europe’s natural gas, and a new US administration can rewrite LNG export rules with the stroke of a pen. Agility now means maintaining strategic constancy while being tactically promiscuous: signing a 20-year LNG offtake with Qatar one quarter and a power-purchase agreement with a hyperscale data-center campus the next; joint-venturing with an Abu Dhabi sovereign fund on carbon capture today while quietly preserving call options on Permian acreage tomorrow. The 2026 leader must be fluent in both the language of patient capital and the reflexes of an options trader—able to turn on a dime without losing direction or credibility.
+
+2. The activist within
+
+Elliott, Engine No. 1, and others have shown the industry what external activists can do. Some prominent companies—Diamondback under Travis Stice and now Kaes Van’t Hof, EOG under Ezra Yacob, and now even the supermajors—have internalized the playbook. They run continuous portfolio reviews as rigorous as any third-party campaign, enforce return-on-capital thresholds that would make Carl Icahn blush, shrink G&A faster than activists can write the letter accusing them of bloat, and lead consolidation not as a defensive move but as an offensive strategy for value creation. This is no longer reactive governance; it is pre-emptive self-disruption. Accountability begins in the mirror, and the CEOs who thrive in 2026 treat the activist lens as a permanent internal function rather than an occasional foreign object.
+
+3. The strategist ascendant
+
+The pure operator who could deliver 3% production growth at $45 breakeven was king for a decade. That archetype remains necessary but is now dramatically insufficient. The 2026 CEO must be a strategist who can connect previously siloed dots, understanding how the energy needs of frontier models now eclipse those of metropolitan cities; how ChatGPT and hypersonic-missile guidance rely on the same chips; and how the political trends of today may affect the tax credits available next year. This is ripple intelligence at scale—seeing how AI, geopolitics, monetary policy, and electoral cycles all collide in the same molecule—and then having the courage and capital to act years before the rest of the market prices the insight.
+
+4. Foresight beats forecasts
+
+Data is abundant; sense-making is scarce. The smartest leaders no longer compete on who has the thickest PowerPoint but on who can achieve stillness amid the torrent. They run red-team exercises against their own base case, commission contrarian papers from outsiders who have never met a payroll, and force the organization to model “What if we’re wrong about peak oil demand by 2040?” and “What if AI power demand grows 10 times, not 3 times, by 2035?” They treat scenario planning as a contact sport and probabilistic thinking as a core competence. In a world where the consensus forecast has been wrong on oil demand for eight straight years,10 foresight is not prescience; it is the disciplined refusal to confuse the presence of past surprises with the absence of future ones.
+
+When the grid flickers in 2026, when the next trillion-parameter model begs for gigawatts that do not yet exist, when shareholders and senators both demand answers at once, the room will turn to the person who has already done the hardest thing any leader ever does: looked at the data, looked at the map, looked at themselves, and seen—and seized—a clear course of action.
+
+And in an industry that powers civilization, seeing clearly is not just the decisive edge. It is the only form of power that never browns out.
+
+About the author
+
+Les T. Csorba (lcsorba@heidrick.com) is a partner in the CEO & Board of Directors Practice; he is based in the Houston office.
+
+References
+
+1 “World Energy Outlook 2010,” International Energy Agency, November 8, 2010, iea.org; “Oil 2023: Analysis and Forecast to 2028,” International Energy Agency, June 14, 2023, iea.org.
+
+2 Doris Dokua Sasu, “Demand for crude oil worldwide from 2005 to 2024, with a forecast for 2025,” Statista, November 19, 2025, statista.com.
+
+3 Kelly Norways, “IEA sees global oil demand rising until 2050 under current policies,” S&P Global, November 12, 2025, spglobal.com.
+
+4 David Blackmon, “BP, ExxonMobil Provide A Contrast In Energy Transition Strategies,” Forbes, June 27, 2024, forbes.com.
+
+5 Madhumita Murgia and Cristina Criddle, “Nvidia’s Jensen Huang says China ‘will win’ AI race with US,” Financial Times, November 5, 2025, ft.com.
+
+6 Jeremy Hanson, “Leading with purpose in the energy sector: An interview with Chris Wright, CEO and chairman of Liberty Oilfield Services,” Heidrick & Struggles, Heidrick.com
+
+7 “Nearly Half the World’s Population Still Lacks Access to Modern Energy Cooking Services,” The World Bank, September 24, 2020, worldbank.org.
+
+8 “Household air pollution,” World Health Organization, December 16, 2025, who.int.
+
+9 Bill Gates, “Three tough truths about climate,” Gates Notes, October 28, 2025, gatesnotes.com.
+
+10 “Oil Market Outlooks 2025,” Goldman Sachs, December 2024.
+
+Related Services & Industries
+
+CEO & Board of Directors
+
+Energy
+
+Leadership Development
+
+Related Content
+
+Chief Executive Officer
+
+Route to the Top Europe 2026 | Companies are seeking experienced CEOs—but that isn’t enough
+
+As geopolitical and economic volatility accelerate and technological disruption intensifies, European boards that align CEO development with a broad range of strategic scenarios will be better positioned to navigate disruption, implement fundamental changes, and sustain performance.
+
+Chief Executive Officer
+
+Route to the Top US 2026 | Closing the CEO capability gap
+
+Fortune 500 companies are increasingly appointing new CEOs who have prior experience in the role. However, a new survey finds that more than a third of US companies still don’t have a CEO with the capabilities the company needs to succeed in the near term. Some companies are planning their CEO successions more comprehensively and seeing greater success.
+
+Boards & Governance
+
+Board Monitor US 2026 | Future-focused boards: Linking renewal, alignment, and performance
+
+Fortune 500 boards have recently placed a larger focus operational expertise and prior board experience. Some boards are finding effective ways to balance short- and long-term considerations—and overseeing stronger performance than others.
+
+CEO & Board of Directors
+
+2026 CEO & Board Confidence Monitor: Explore the data
+
+Explore the results of our third annual global survey of CEOs and board members by market, industry, ownership structure, and company size.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top

@@ -1,0 +1,210 @@
+Why APAC Recruiters Have Rushed to AI
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Talent Recruitment|March 11, 2024
+
+Why APAC Recruiters Have Rushed to AI
+
+AI recruitment tools are saving APAC HR teams time and enhancing the candidate experience—but what are the risks of automating the hiring process?
+
+Key takeaways
+
+How APAC HR teams are using AI tools to speed up the hiring processes
+The pros and cons of using data, analytics and generative AI in recruitment
+How to get the most from your AI recruitment tools and platforms
+
+At a recent Korn Ferry APAC client event, there was only one topic everyone wanted to talk about—Generative AI and its use in talent acquisition.
+
+“It’s quite astounding really, given that it wasn’t even on the agenda last year,” reflects Pip Eastman, Managing Director, APAC Solutions for Korn Ferry RPO.
+
+“The speed of AI adoption has challenged many organizations to think about how they integrate it into the business,” she says.
+
+That includes how they use it, and how to deal with the risks, such as data privacy—especially in highly regulated sectors, like financial services, life sciences, and biotech.
+
+According to Eastman, she asked the event attendees to describe where they were at in their relationship with AI.
+
+“The vast majority said, ‘well we’re dating, but we’re not committed yet.’”
+
+AI-enabled HR is Everywhere
+
+Just a few months later, that commitment sentiment may well have changed. The hiring use cases for AI seem to be ever-expanding. This includes writing job ads, drafting interview questions, and recording and summarizing virtual interviews; through to using chatbots to streamline high-volume recruitment screening, and automating candidate-matching based on a Success Profile.
+
+These applications depend on two vital ingredients: access to accurate data, and skills to use AI tools effectively.
+
+And that’s where some organizations might feel hesitant. Our research found that 40% of CEOs say a lack of AI-related skills in their HR teams is the biggest obstacle to integrating AI tools into talent management systems.
+
+However, that doesn’t seem to be holding HR teams back from experimenting. A recent survey found 75% of Australian recruiters are already using AI tools during the talent acquisition process. More than half said they were using generative AI, like ChatGPT, and just under one in five are already using AI to manage candidate assessment.
+
+The Upsides of AI-enabled Recruitment
+
+Eastman says most people are surprised by how much time they save once they start using AI. “That frees up their time to focus on building stronger relationships,” she says.
+
+This productivity gain could also see a permanent shift in the recruiter’s role.
+
+“Recruiters should be able to have a more data-driven, consultative conversation with the hiring manager,” she says. “The ideal scenario is to be able to bring that market data and talent insight into an intake meeting, so they can educate the hiring manager on the available skills and competencies, and what they might need to pay.”
+
+Or they can take an AI-generated summary of an online interview to advise hiring managers on the best next steps.
+
+Hiring Faster for Better Outcomes
+
+As well as saving a whole lot of admin, AI can significantly improve the candidate experience. And that can give organizations an advantage in the current talent market.
+
+“We’ve been using chatbot technology to streamline the application process, especially for high-volume recruitment, such as customer service, retail, internships, and graduate hires,” Eastman explains.
+
+“By matching candidates quickly to a Success Profile, we can move candidates from being interested in a specific job to having an interview confirmed in under 20 minutes.”
+
+Tailor-made Talent Experience
+
+Beyond speed, there’s also the opportunity to personalize the employee value proposition to a specific role or demographic group—at scale.
+
+For example, if you want to attract top tech talent away from the major tech players, you need to show them what their alternative career path might look like with you.
+
+“AI tools could help you segment your proposition messaging to software engineers, because you have the data on what they’re looking for, and you can automate a lot of the communication,” suggests Eastman.
+
+“AI tools could help you segment your proposition messaging to software engineers, because you have the data on what they’re looking for, and you can automate a lot of the communication.”
+
+Pip Eastman, Managing Director, APAC Solutions, Korn Ferry RPO
+
+Automated Coaching
+
+Career development is another area where AI tools are playing a growing role—including AI avatars providing real time assessment feedback as a coaching assistant. Eastman says she is also seeing organizations personalize the learning journey across a large workforce by aggregating data and analytics to identify gaps. As well as supporting upskilling across the organization, this can also improve retention outcomes.
+
+Objective Hiring Decisions
+
+And finally, AI has the potential to remove human bias from the hiring process—and widen the talent pool.
+
+“Hiring should become a more data-driven discussion because you’re measuring someone’s competencies against a Success Profile, rather than a subjective belief based on unconscious biases,” says Eastman. “For example, if it’s a banking role, it’s common to think someone needs a background in financial services to be successful. Yet we know the skills required could also come from adjacent industries.”
+
+Six Potential Upsides of AI-enabled Recruitment
+
+Less time on admin, more time on relationships
+Data-informed hiring decisions
+Improved candidate experience
+Segmented employee value proposition
+Personalized career development pathways
+Potential to remove bias and tap a larger talent pool
+
+The Risks of Recruiting by Machine
+
+It’s tempting to believe AI will solve APAC’s diversity and equity recruitment challenge. But recruiters will need to first mitigate the inherent risks of bias that already exists in historic data sets.
+
+“Algorithms will only be as good as the data that feeds them,” observes Eastman. “That data could just perpetuate the biases already within your hiring process.”
+
+To avoid this issue, you’ll need to undertake regular audits. Avoid relying on the system output by always involving a human at critical points in the process.
+
+The other significant risk is data privacy. Especially if you’re feeding personal or proprietary data into open web platforms like ChatGPT.
+
+And while AI can help you identify talent you may have otherwise missed, it’s important to remember your candidates might be using AI, too. If less-qualified candidates focus on using the keywords the algorithm is looking for, the better future employee could fall through the net.
+
+Recruitment Process Outsourcing
+
+More than RPO — talent realized
+
+Learn more
+
+AI Recruitment Can’t be One-Size-Fits-All
+
+To get the best productivity return on your AI recruitment investment, Eastman advises starting with homogenous, entry-level jobs with large applicant pools before moving on to more technical roles. This will also free human recruiter time to pay more attention to higher stakes hires, like senior executives.
+
+“We see many recruiters spend more time with candidates entering the call center than their mid-level managers, who are their future leaders,” she says. AI tools have the potential to change that.
+
+AI tools should also mean the days of hearing candidates complain that they never heard back about their application are long gone.
+
+With an ever-expanding array of AI recruitment tools and platforms available, Eastman recommends focusing on the problem you’re trying to solve. Where can you have the biggest impact on the business?
+
+“If your HR team is lean, start with productivity-enhancing tools like generative AI to tailor questions, summarize interview notes, and customize employee messaging,” she says.
+
+“The speed at which AI tools are moving is unbelievable,” she adds. “So there is an important element of change management too. That means developing upskilling programs very quickly.”
+
+Ultimately, she believes the most powerful outcomes happen when humans can work with AI.
+
+“There will always be an art and a science to recruiting—if it’s 100% machine, it could become an underwhelming experience,” she says.
+
+Data and analytics are the key to unlocking future productivity gains, as well as gathering the trends and patterns to inform talent acquisition, retention and career development strategies. However, you’ll still need people with genuine EQ to build authentic relationships and bring empathy to problem solving. AI is unlikely to automate the entire recruitment process. For now.
+
+AI recruitment tools: friends or foes? Download the AI pros and cons infographic.
+
+‍
+
+Our Expert
+
+Our Experts
+
+Pip Eastman
+Managing Director, RPO APAC, Global Market Leader, Financial Services, RPO
+
+No items found.
+
+Related Capability
+
+Related Capabilities
+
+Talent Acquisition
+
+Recruitment Process Outsourcing
+
+Assessment & Succession
+
+Talent Suite
+
+Featured Insights
+
+How AI Is Revolutionizing Talent Development
+AI Recruitment Tools: The Pros and Cons
+AI in Recruiting 2024: Pros and Cons
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Featured Topics
+
+Talent Recruitment
+
+AI in the Workplace
+
+Talent Acquisition
+
+Recruitment Process Outsourcing
+
+Assessment & Succession
+
+Talent Suite
+
+Kornferry RPO
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

@@ -1,0 +1,284 @@
+South Africa CHRO Route to the Top
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+South Africa CHRO Route to the Top
+
+October 2019
+
+| 6 min read
+
+This inaugural study examines the profiles of CHROs in the JSE Top40 Index, South Africa’s largest listed companies by market capitalisation.
+
+Part I offers a detailed analysis of the current cohort of CHROs in terms of demographics, diversity, sector experience, functional experience and education. Our data is based on a combination of proprietary research and public domain information. We had a full set of data on 80% of CHROs and partial data on 95%. The cut-off date for our research was 1 September 2018.
+
+Part II explores the changing nature of HR leadership and draws on a series of in-depth interviews with 18 CHROs from JSE Top40 companies as well as many years’ experience advising clients on senior HR roles.
+
+PART I
+
+The profile of JSE Top40 CHROs
+
+Diversity
+
+For a function that is directly responsible for diversity and inclusion, it is noteworthy that the CHROs at JSE Top40 companies are themselves a diverse group.
+
+Ethnicity. 59% of CHROs are from the broad-based black ethnicity group (23 out of 39). Sixteen CHROs are white, including nine South African citizens.
+
+Gender. 59% of CHROs are women (23 out of 39). Given the underrepresentation of women in top corporate positions, it is significant that so many women are to be found in HR leadership roles.
+
+Nationality. The overwhelming majority of CHROs are South African nationals. Just 13% of CHROs are foreign, and these come from Australia, France (2), Germany and Ireland.
+
+Age
+
+JSE Top40 CHROs range from 38 to 57 years old, with a (mean) average age of 49. 56% of HROs are between 46-50 years. Female CHROs have a lower mean average age than their male counterparts (48 vs 51), but a higher median age (49 vs 48).
+
+chro distribution by age range
+
+30 to 35
+
+0%
+
+36 to 40
+
+4%
+
+41 to 45
+
+4%
+
+46 to 50
+
+56%
+
+51 to 55
+
+24%
+
+56 to 60
+
+12%
+
+61 to 65
+
+0%
+
+Education
+
+All the CHROs featured in our study have a bachelor’s degree. 58% have a master’s degree and 33% have an MBA. Two CHROs (6%) have a PhD.
+
+As a group, the current cohort of JSE Top40 CHROs have more academic qualifications than their CFO counterparts, of whom 13% have a master's degree and just 8% have an MBA.
+
+Eleven CHROs have both a master’s degree and an MBA.
+
+chro educational qualifications
+
+Bachelor's
+
+100%
+
+Master's
+
+58%
+
+MBA
+
+33%
+
+PhD
+
+6%
+
+International experience
+
+While many CHROs will have had overall responsibility for an international workforce, nearly half of the JSE Top40 CHROs (45%) have international experience in the sense that they have lived and worked outside South Africa.
+
+International experience tends to be concentrated in those industries which have a more global footprint. For example, CHROs in the consumer industry have very little international experience since South African consumer businesses tend to be quite localised. By contrast, CHROs of industrial and TMT companies are more likely than not to have had international experience.
+
+international experience by sector
+
+No international experience
+
+International experience
+
+CON
+
+82%
+
+18%
+
+FS
+
+50%
+
+50%
+
+HC
+
+50%
+
+50%
+
+IND
+
+38%
+
+63%
+
+TMT
+
+0%
+
+100%
+
+(Key: CON = Consumer; FS = Financial Services; HC = Healthcare; IND = Industrial; TMT = Technology, Media & Telecommunications)
+
+Internal vs external appointments
+
+Fewer than one-third of JSE Top40 CHROs (30%) were appointed to the leadership role from within their own company. Across all sectors, the overwhelming majority of CHROs (70%) were external hires.
+
+By contrast, 67% of JSE Top40 CFOs were internal hires. There may be several explanations for this disparity, for example boards may give greater priority to CFO succession, and there may be too few HR executives inside organisations with the necessary breadth of experience to step up to the business partner role.
+
+external/internal appointments by sector
+
+External
+
+Internal
+
+HC
+
+100%
+
+0%
+
+IND
+
+88%
+
+13%
+
+CON
+
+64%
+
+36%
+
+FS
+
+60%
+
+40%
+
+TMT
+
+50%
+
+50%
+
+Tenure
+
+The average tenure of JSE Top40 CHROs is 4.1 years. The chart below shows both the mean and median tenure of CHROs by industry.
+
+chro tenure by industry
+
+Median
+
+Mean
+
+HC
+
+5.3
+
+5.7
+
+TMT
+
+4.4
+
+3.3
+
+CON
+
+3.3
+
+6.8
+
+IND
+
+2.4
+
+2.4
+
+FS
+
+1.5
+
+2.4
+
+Past experience
+
+JSE Top40 CHROs have spent the vast majority of their careers in HR generalist roles.
+
+chro career backgrounds
+
+65%
+
+Generalist HR roles
+
+10%
+
+Management consulting
+
+6%
+
+Talent-focused
+
+7%
+
+Other, HR-related
+
+12%
+
+Other, non-HR-related
+
+Board membership
+
+One JSE Top40 CHRO sits on the main board and five other CHROs sit as non-executive directors on outside boards.
+
+PART II
+
+Challenges facing HR leaders in South Africa
+
+As we highlighted in our article on ‘The changing role of the CHRO’, the HR leader is seen today as a strategic partner to the CEO and the CFO. In his book Talent Wins, Dominic Barton, McKinsey’s former managing director, refers to this group of three executives at the top of an organisation as the “G3”. They play distinct yet independent roles and bring complementary value to the organisation. The CEO defines the vision and leads the development and implementation of strategy; the CHRO articulates and drives the people agenda, responsible for the scarcest of capital – talent; and the CFO manages the business’s financial resources and investments.
+
+“My colleagues need to understand ‘people capital’ as well as they understand financial capital. Too few senior executives are prepared for the burden for leading, managing and engaging with people, having those difficult conversations.”
+
+As the human resources function has become more complex, so have the challenges faced by its leader. A number of factors are raising expectations and broadening the scope of the function, such as artificial intelligence; automation; changing workforce demographics; new ways of working; and the intensifying focus on talent.
+
+In the most progressive organisations, the CHRO has evolved from that of a specialist overseeing a limited field of operations into a business partner, wielding more influence than ever before. A role that was once perceived as transactional and process-oriented is now far more strategic. “When I ask people why they want to study and work in HR,” says one CHRO, “the answer is always the same: ‘I like working with people.’ But HR is so much broader than that. Today it involves things like shared services, robotics and machine learning – all of these things are about having a direct impact on core business objectives.”
+For today’s HR leader, there are new and exciting opportunities to create an impact on the business. New technologies are helping build an evidence base that supports a better understanding of employee engagement, motivation and working patterns – all of which has the potential to increase employee satisfaction and thereby raise efficiency and productivity.
+
+There is a growing recognition of the connection between organisational purpose and workforce motivation, as well as the critical role that culture plays in a successful business – particularly the need to align culture with strategy. CHROs play a key role in defining, co-creating and shaping the culture of the organisation. These factors, together with the growing availability and importance of data in people-related decision making, are only going to increase the CHRO’s influence at the top table.
+
+“Organisations that have a clear purpose, culture and focus on people are the ones who will win. Leaders have to understand that the organisations that know how to tap into the intrinsic motivation of people will win.”
+
+CHROs tell us that they are diversifying their teams, bringing people with new skills and backgrounds into the function. One HR leader has been recruiting people from disciplines that would rarely have been seen inside HR even five years ago, such as chartered accounting; engineering; sales; marketing; operations; information technology; and data science. This broadening of the function affirms our view that today’s successful CHRO has to be a well-rounded leader who can contribute meaningfully across all areas of the business.
+
+The CHRO as business partner
+
+To ensure that the people agenda remains top of mind in the executive suite, it is essential for the CHRO to report directly to the CEO. The war for talent remains just as intense today as it was when the term was coined in 1997. When a CEO fully recognises the value of identifying nurturing and building talent, the CHRO’s job is made that much easier. A large part of that job is about understanding the relationship between the business, team effectiveness and individual performance. “Business needs to continuously innovate and turn insights into products or services – that can only be achieved by people,” says one CHRO. “HR has the benefit of seeing the full value chain of the business and the power to create a positive impact through harnessing talent.”
+
+“There is substantial value in HR having business experience. Today, the minimum qualification should be an MBA.”
+
+Being an effective business partner means building strong relationships with other functions such as finance and IT, and earning the respect of colleagues in the senior executive team. One CHRO remarks that “it took forever for the business to appreciate that there can be a strategic premise within which HR operates. Today, no business strategy is complete without a people strategy,” [she] says.
+
+In future, we are likely to see HR leaders with more eclectic backgrounds who have hands-on experience in many different aspects of a business. One CHRO we spoke to believes his experience in sales and marketing, operations, strategic development and legal gives him credibility. He hires individuals who demonstrate business acumen and can integrate that mindset into crafting HR solutions. “The credibility of HR rests on being highly skilled in your discipline, keeping pace with local and global best practice, while having a key understanding of the challenges that the business faces and being part of crafting the solutions,” he says.
+
+“There has been a shift from viewing people as resources to viewing them as capital. The word ‘capital’ sounds more positive and suggests growth and investment. So my title is now group head of human capital.”
+
+Download
+
+Download

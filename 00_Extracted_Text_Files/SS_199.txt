@@ -1,0 +1,121 @@
+Technology as a Value Driver in Private Equity: The CIO/CTO’s Role
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Technology as a Value Driver in Private Equity: The CIO/CTO’s Role
+
+By
+
+John Milman and
+
+Eric T. Zakre
+
+March 2024
+
+| 4 min read
+
+Authors
+
+John Milman
+
+Chicago
+
+Eric T. Zakre
+
+New York
+
+SectionsIn this article
+
+The perception of the technology leadership role in private equity-backed companies has undergone a meaningful shift over the last decade. Rather than technology being seen solely as an expense, many leading private equity sponsors today are looking to their chief information officers (CIOs) and/or chief technology officers (CTOs) as true value-creating partners overseeing a core component of the investment thesis, with technology a key operational lever for business success — or even a key part of the product itself.
+
+In this article, we explore what private equity sponsors are seeking in their portfolio company technology leadership. Based on our experience with private equity clients as well as interviews with technology operating partners at leading PE firms — including Amar Ghai of KKR and Vikram Mahidhar of Apollo Global Management — we examine how leading organizations measure success and provide a framework for organizations to determine what type of technology leader they need given their organizational context.
+
+What is different about technology leadership in private equity–backed companies?
+
+Amid today’s technology trends — the rapid pace of innovation, the shift to off-the-shelf cloud platforms, a focus on cybersecurity, and exploring the use cases for artificial intelligence — any technology leader today must blend a business-led strategic mindset and technical depth with an ability to collaborate with and influence a range of key stakeholders. In private equity-backed environments, however, the challenges for technology leaders are particularly complex.
+
+First, sponsor-backed companies tend to have assertive timelines set by their investors and must make technology decisions that return value quickly. These compressed timelines require making practical tradeoffs quickly.
+
+Quote
+
+I think the CIO in a private equity context has to be somebody who can blend their ‘purist’ technology mindset with a practical mindset.”
+
+Amar Ghai
+
+KKR
+
+Second, because technology leaders interact so closely with investors in private equity-backed companies as compared to their public-company counterparts, there is a particularly high bar for financial acumen in these technology executives; CIOs and CTOs in this context must truly understand investors’ investment thesis and be able to develop a technology strategy and road map that is connected to the company’s business strategy designed to achieve those goals.
+
+Third, because private equity-backed companies tend to be changing quickly (rapid growth via M&A in a “rollup,” operational transformation in a “turnaround,” etc.), the company’s technology priorities are also often changing quickly as well. For example, the optimal technology strategy for a particular business will almost undoubtedly change if it has become twice its original size in a short time after a major acquisition. Likewise, the technology expertise a leader needs in the first year of a turnaround situation is different than what would be needed three years later after the business pivots to an entirely new product strategy that leverages technology in a very different way. When technology needs will substantially change in only a short time, it can be difficult for CEOs, CHROs and private equity teams to determine what skills to prioritize (current needs vs. future needs) when selecting a technology leader.
+
+Identifying successful technology leaders for PE-backed companies
+
+Our work with clients of different sizes across industries points to three general archetypes of technology leaders: the inward-focused operator best suited for “running the ship” in a cost-effective way; the business partner and enabler who supports the business strategy with a connected technology strategy; and the outward-focused innovator who develops new technology products and services and creates new technology-driven business models. The right model depends on each company’s specific situation and business strategy.
+
+But what is right for private equity-backed companies? In a function where adding cost in the short term is often required to enhance a company’s capabilities, what are the attributes of a successful CIO/CTO? How does one determine the value-add of a technology leader?
+
+A results orientation and a “get-things-done” mentality are critical for driving results amid the compressed timelines and ambitious goals that often characterize private equity-backed investment theses. Technology leaders who join private equity-backed companies for the first time are often surprised by the sheer pace of change expected of them and their technology organizations, especially when they’ve come from large public companies where corporate cultures can be highly resistant to change, slow things down and ultimately lower investor expectations.
+
+Quote
+
+It’s not just about technology, it’s about how capable technology leaders are in terms of their financial acumen to manage the technology group.”
+
+Vikram Mahidhar
+
+Apollo Global Management
+
+“I think the CIO in a private equity context has to be somebody who can blend their ‘purist’ technology mindset with a practical mindset,” KKR’s Ghai said. “This is a model where the CIO needs urgency — if you think there needs to be change, then it needs to happen early on and quickly.”
+
+Financial acumen is a must. An ability to understand the value creation plan and to speak the language of investors can help CIOs/CTOs articulate technology investment tradeoffs in a way that investors understand. While experience working in private equity-backed companies can be valuable, other experiences such as merger integration experience, divestiture/carve-out experience, or work presenting to boards of directors in other ownership contexts can all be helpful training grounds for technology leaders preparing to step into a private equity-backed environment.
+
+“It’s not just about technology, it’s about how capable technology leaders are in terms of their financial acumen to manage the technology group,” Apollo’s Mahidhar said. “How good are they in terms of partnering with the business organization to make sure they understand the dependency on technology and what investments are needed to give the technology organization the headroom to create value?”
+
+Agility and humility are both key for a CIO/CTO joining a private equity-backed company: agility because of the capacity needed to solve a variety of types of problems as business needs quickly evolve over time, and humility because some parts of the journey may be less glamorous than the innovation and new technology work that often most excites technology leaders. While CEOs, CHROs and private equity sponsors will have to make tradeoffs when selecting a technology leader in situations where a business’s needs are likely to change dramatically in a short period of time, an agile, humble CIO/CTO has a greater chance of long-term success, not just during one stage of a company’s journey.
+
+Lastly, a strong “storyteller” can effectively demonstrate the technology function’s impact and ensure the leader has a seat at the leadership table to share that story. An ability to articulate the reasons behind investment decisions can go a long way to aligning the executive team on a course of action and then determining whether it succeeded.
+
+CIO: A lever for true value creation
+
+Whether or not a technology leader has direct experience working in a private equity-backed company, what was clear from our discussions was that a true understanding of a private equity sponsor’s investment thesis is critical to a CIO/CTOs success and whether they can truly add value.
+
+“The disposition has to be, ‘I’m going to help the company from a value creation standpoint,’” Mahdihar said. “Then the multiple the CIO can help deliver is very high.”
+
+Authors
+
+John Milman
+
+Chicago
+
+Eric T. Zakre
+
+New York
+
+Related Insights
+
+Private Eye: Insights on Technology and Leadership in the Private Markets
+
+February 2023
+
+7 min read
+
+When does it make sense for private capital firms to step up investment in technology, and what are leadership implications?
+
+Six Common Human Capital Pitfalls That Negatively Impact PE Deals
+
+December 2022
+
+2 min read
+
+Talent diligence that goes beyond gut instinct or cursory review has become critical for PE firms. We look at six common human capital pitfalls that negatively impact PE deals — and how to avoid them.
+
+The Implication of Private Equity in the World of Tech Services
+
+August 2023
+
+4 min read
+
+As private equity investors expand into tech services and tech-enabled services, what are they seeking in leadership at these companies?

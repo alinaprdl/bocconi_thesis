@@ -1,0 +1,338 @@
+Global markets focus: Evolving your leadership and talent strategy to turn uncertainty to strategic advantage | Perspectives | Heidrick & Struggles
+
+Global markets focus: Evolving your leadership and talent strategy to turn uncertainty to strategic advantage
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Financial Services Global markets focus: Evolving your leadership and talent strategy to turn uncertainty to strategic advantage
+
+The leadership capabilities global markets firms need to succeed are changing. Firms are reshaping how they approach four aspects of talent management to stay ahead.
+
+Elisabetta Bartoloni
+
+August 18, 2025
+17m to read
+
+Global markets firms have always thrived on speed, scale, and execution. But the operating environment for firms is changing more rapidly than ever, and strategies for acquiring talent have to account for the unprecedented, technological disruption, regulatory shifts and macroeconomic volatility.1 Success now depends on deeper organizational capabilities: adaptability, clarity of purpose, cross-functional alignment, and the ability to turn strategy into action—quickly.
+
+Leaders must rethink how they design teams, empower people, deploy technology, and hire for what’s next, not just what’s needed today. Our ongoing discussions with leaders across the sector have allowed us to identify four critical areas where high-performing firms are reshaping their talent efforts:
+
+Market dynamics and strategic growth
+Talent evolutions and skill development
+Leadership and building high-performing teams
+Using the hiring process as a strategic lever
+
+Market dynamics and strategic growth
+
+Today’s business environment requires a fundamentally different strategic approach than ever before. Sustainable growth is no longer about scale alone. It’s about clarity of direction, disciplined execution, and the ability to adapt without losing sight of purpose.
+
+To ensure they have those capabilities, high-performing firms are moving away from reactive planning. Instead, they are embracing disciplined prioritization, using technology to make real-time decisions, and executing with speed and precision—without sacrificing long-term vision or cultural coherence. We see leading firms implementing seven imperatives to navigate and shape this complexity.
+
+Basing your strategy on a clear vision of the future
+
+Organizations must define a long-term vision rooted in both a clear right to play (credibility in the market) and a right to win (distinct advantages that set them apart). This approach allows leaders to anticipate what is next, rather than just respond to what is needed now.
+
+How: Start with the long-term destination and work backward to design priorities, capabilities, and investments accordingly. It’s helpful to use structured scenario planning workshops that pull together leaders from across business lines. Understand, discuss, and ultimately map the disruptive forces—such as tokenized markets, digital asset infrastructure, or AI in liquidity management—at play, defining your firm’s role in each scenario. Retool your fixed income operations to adapt to a future shaped by intraday settlement and decentralized clearing. Ultimately, build strategy with a 5- to 10-year horizon in mind.
+
+Communicating the strategy clearly and continuously
+
+A strategy that isn’t widely understood is a strategy at risk. Teams need to see where the business is heading, how they fit in, and how their contributions matter. When communication is absent, people fill the void with their own narratives—and they’re often misaligned with leadership’s intent. This is particularly important in times of market volatility or crisis.
+
+How: Cascade the strategy from leadership to every layer of the organization through tailored, ongoing communication and feedback loops. To operationalize such communication, consider holding monthly town hall meetings that contextualize external market changes through the firm’s strategy. But don’t be afraid to also offer real-time updates during moments of strategic pivot, such as M&A activity, product shifts, or regulatory changes. Creating a transparent strategy scorecard can help employees better track alignment and clarity. Meanwhile, middle managers should be equipped with the right toolkits to help them localize and explain the plan to their teams.
+
+Adapting while retaining your core values and mission
+
+The ability to pivot is essential, but it must be grounded in a stable mission and set of values. Organizations that evolve while staying rooted in who they are gain trust, maintain consistency, and deliver results across cycles.
+
+Mike Kuehnel, CEO of Flow Traders, recently spoke to us about leading with purpose. To watch the full video interview, see “Leadership perspectives: A conversation with Mike Kuehnel, CEO at Flow Traders.”
+
+How: Reaffirm core values and purpose while allowing flexible responses to market conditions. A digital onboarding model can help with cultural affirmation while preserving firms’ high-touch client service ethos, and culture “ambassadors” can help translate new initiatives into team language and norms. In M&A contexts, culture-blending workshops can help bring together legacy financial firms and fintechs, aligning ways of working without diluting identity.
+
+Prioritizing ruthlessly, executing relentlessly
+
+Trying to do everything at once leads to diluted impact. High-performing teams identify the next critical step, execute it with discipline, then reassess and move forward. Progress is built through momentum, not perfection.
+
+How: Limit active initiatives to what matters most, tie them to clear outcomes, and reward progress. Projects should be ranked and tracked based on strategic return, not just internal sponsorship. And all work should be subject to quarterly “stop/start/continue” reviews that trim low-impact projects. For example, a capital markets team may choose to defer enhancements to a secondary analytics dashboard in favor of accelerating its expansion into private credit trading, where client demand is outpacing infrastructure.
+
+Investing in technology that drives impact and leverages AI
+
+Effective technology deployment—whether in the front office, infrastructure, or operations—should aim to streamline processes, enable smarter decisions, and create time for higher-value work. The goal is not to create flawless systems; organizations need scalable tools that evolve with the business.
+
+How: Focus investment on technologies that directly enable commercial outcomes or critical efficiencies. A few high-value options organizations should consider are: applying automation to onboarding, the know-your-customer process, or collateral reconciliation; deploying AI to flag client flow anomalies or detect pricing dislocations; and unifying customer data through a single CRM system adopted across the globe, which will enhance client insight sharing and support upsell opportunities.
+
+Engaging the broader ecosystem
+
+Leading firms actively monitor and engage with their wider ecosystem—clients, partners, regulators, and disruptors—to stay ahead of demand shifts and competitive moves. Insight doesn’t live only within the organization.2
+
+How: Set formal mechanisms to engage with external stakeholders regularly and translate insight into action. Quarterly external advisory board meetings with clients, regulators, and tech innovators can create a consistent feedback loop. Competitive intelligence should be embedded into product and business strategy teams to fuel strategic refinement. A sales and trading desk, for example, could co-develop execution tools with key clients to meet growing demand for real-time API-based access to liquidity.
+
+Accelerating execution by emphasizing cross-functional alignment
+
+Strategy execution succeeds when it is embedded across teams and functions, with clear accountability and internal buy-in. Whether they have grown organically or through M&A, the best organizations execute with speed, precision, and a shared sense of purpose.
+
+How: Define shared goals across teams, embed accountability, and shorten decision cycles. This could take the shape of cross-functional “squads” that combine legal, tech, compliance, and front office to launch a new product. Meanwhile, a centralized execution office tracks milestones, raises blockers, and ensures initiative continuity across regions. For a strategic move into structured credit, for example, organizations should get all stakeholders involved from day one, which will cut down the time to product launch significantly.
+
+Talent evolution and skill development
+
+As automation, AI, data, and regulatory complexity reshape every corner of the trading and investment value chain, the definition of “talent” in global markets is undergoing a fundamental reset. Success is no longer defined solely by pedigree or past performance—it’s increasingly measured by adaptability, cross-functional fluency, and the ability to learn and lead through change. Leading organizations are focusing on six areas to rethink the capabilities they will need and build multi-dimensional talent strategies that are positioned to respond faster, innovate earlier, and lead with confidence.
+
+Redefining what great talent looks like
+
+Organizations must shift their hiring and evaluation frameworks to prioritize synthesis, judgment in uncertainty, collaboration, and continuous growth.
+
+How: Incorporate behavioral dimensions beyond deal flow or P&L into performance reviews and promotion criteria. These should include dimensions such as curiosity, resilience, influence, acting as one team across internal silos, and protecting the firm’s license to operate. Interview processes should be designed to explore how candidates respond to volatility, collaborate under pressure, and integrate feedback over time.
+
+Developing multi-skilled, market-ready talent
+
+Organizations must build learning into the fabric of the business so that upskilling happens organically, within real work contexts, rather than in isolation.
+
+How: High-potential employees rotate across desks—from investment grade credit to structured finance—and geographies to broaden their commercial instincts and adaptability. Meanwhile, traders can receive Python training to better collaborate with quant teams and analyze trade data independently. Capital markets professionals are developing data visualization and storytelling skills to elevate client engagement and decision-making.
+
+Hiring for mindset, training for skill
+
+Organizations should focus recruiting efforts on identifying candidates with the attitude and ability to grow into the role, rather than requiring a perfect background match upfront.
+
+How: Rethink the interview format, incorporating real-time ambiguity simulations to reveal how candidates adapt, prioritize, and communicate when variables shift. Candidates from adjacent sectors, like product managers or consultants, can be brought into market-facing roles for their agility, stakeholder skills, and analytical mindset.
+
+Rebuilding the analyst-to-leader pipeline
+
+Organizations will benefit from creating clear and intentional development tracks that expose future leaders to broader strategy, risk, and leadership challenges early in their careers.
+
+How: Employees promoted to vice president-level roles are subject to structured feedback from peers across functions and have demonstrated their ability to manage complexity, not just execution. Mid-level talent get a voice in senior-level decisions through shadow boards and high-potential coaching programs, thus preparing them for executive responsibility.
+
+Embracing the integration of technology and revenue production
+
+Organizations should ensure that front-office professionals and technology teams speak a shared language by facilitating regular learning, alignment, and collaboration. Firms can no longer hire seasoned market professionals who are not equally technologically savvy, and technological fluency is important for all employees.
+
+How: Tech fluency sprints help market professionals understand the basics of APIs, data architecture, and digital tooling. Quants and traders can share joint KPIs on algorithmic or data-driven projects, reinforcing shared success. Analysts learn low-code platforms so they can prototype automation solutions for trade execution, reporting, and client communication.
+
+Cultivating a culture of feedback and experimentation
+
+Organizations should foster an open environment where leadership encourages experimentation, employees expect routine feedback, and teams normalize failure and share their learnings broadly.
+
+How: Establish after-action reviews and post-mortems as a standard practice following major trades or pitches, focusing on improvement rather than blame. Hold innovation labs and internal pitch sessions where employees at all levels have the space to propose and test ideas for process or product improvements. Train managers to be coaches and equip them with the tools to provide timely, constructive feedback and support their teams’ growth in real-time.
+
+Leadership and building high-performing teams
+
+In today’s fast-paced and unpredictable global markets, leadership is no longer about simply setting the direction—it’s about enabling the right people to deliver on that vision, even as the landscape shifts. The most effective leaders are working in seven areas to foster trust, collaboration, and adaptability—ensuring their teams remain resilient, engaged, and aligned, even under pressure.
+
+Leading with purpose and authenticity
+
+To build trust, leaders must connect day-to-day work with a broader mission and lead with transparency, personal values, and empathy.
+
+How: Personal stories make strategies more relatable. During town halls or other meetings, senior leaders shouldn’t hesitate to share lessons learned from market disruptions. To foster an environment where every voice matters, managers can invite team members to weigh in on business direction during planning sessions. It’s important that managers create environments in which all team members feel safe engaging.
+
+Building inclusive teams
+
+Leadership should actively embed the ability to ensure all employees, from any background, can fully contribute to decision-making, team composition, and innovation efforts. Ideally, no one should feel like they are in a job with no chance for growth; everyone should feel that they have the chance to build a career.
+
+How: Designated champions ensure inclusive perspectives are part of major business decisions, team reviews, and client planning. To harness a wide range of ideas, experiences, and problem-solving styles, firms can run cross-functional innovation sprints across regions or bring people from different areas together on mini-projects or initiatives that can help them build skills in new areas as well as build relationships across the firm.
+
+Empowering teams through decentralized decision-making
+
+Rather than dictating every action, leaders must set clear strategic direction and then give teams the autonomy to execute based on their expertise.
+
+How: Giving front office teams a “sandbox” environment to test trade ideas will enable faster learning and innovation, without bureaucracy. Trading desks should also develop their own risk models, tailored to their specific strategies, with accountability for monitoring and adjustments.
+
+Parker Corbin, a former COO at Morgan Stanley, recently spoke to us about leadership in global markets. To watch the full video interview, see “Leadership perspectives: A conversation with Parker Corbin, former COO at Morgan Stanley.”
+
+Fostering collaboration across silos
+
+Leaders must remove structural and cultural barriers that inhibit cross-functional work and create shared ownership of outcomes.
+
+How: Pull together joint teams of traders, technologists, and compliance professionals to launch new products or capabilities. Link risk management and front office leaders together to collaborate on real-time stress testing tools that incorporate operational and market risks.
+
+Prioritizing leaders’ presence and role modeling
+
+Leaders should model the behaviors they expect—showing consistency, accessibility, and commitment, especially in challenging times.
+
+How: Leaders should invest the time to cultivate a visible and approachable presence. CEOs can consider walking the trading floor during periods of market volatility to understand the pressure points and demonstrate presence and support. Senior leaders should take the time to coach and mentor emerging talent—while holding themselves to the same standards they apply to their teams.
+
+Focusing on results and accountability, not activity
+
+Leadership should align teams around clear, outcome-driven goals and foster a culture in which success is measured by impact, not just effort.
+
+How: Teams adopt weekly sprints with clear KPIs tied to business priorities, and then carve out time to reflect on performance and improvements. Managers reward progress and learning—not just perfect execution—so long as it moves the team toward its defined outcomes.
+
+Fostering resilience and embracing failure as learning
+
+Leaders must create a psychologically safe environment where failure is viewed as a pathway to growth and innovation—not as a setback.
+
+How: Teams host regular “lessons learned” sessions after market events, emphasizing what can be improved and how to move forward stronger. Leadership training includes modules on navigating uncertainty, emotional agility, and leading through disruption.
+
+Using the hiring process as a strategic lever
+
+In fast-moving, high-stakes environments like global markets, hiring can no longer be treated as a transactional function. The most forward-looking firms view it as a core element of strategy—an opportunity to shape culture, signal priorities, and add future-ready capabilities. Winning organizations are taking five steps to go beyond simply filling roles; they are developing talent pipelines that reflect their long-term business vision and competitive edge.3
+
+Building for agility, not just current need
+
+Organizations should establish hiring processes that are designed to identify individuals who can adapt, learn quickly, and contribute across evolving business needs—not just meet current job specs.
+
+How: Candidates participate in simulation-based interviews that reflect ambiguous, high-stakes market scenarios, allowing hiring teams to assess problem-solving under pressure. Cross-functional interview panels evaluate candidates from multiple perspectives—such as business acumen, collaboration, and growth mindset—enabling a more holistic selection process.
+
+Aligning hiring with business objectives and market signals
+
+Talent acquisition works best when closely integrated with strategic planning cycles, enabling hiring to anticipate and support business shifts. It is also important for talent acquisition staff to understand where the business is, and where it is going, so they can intentionally build the right team for the future and tell potential employees that story.
+
+How: Embed recruiters in quarterly business planning sessions to provide real-time insights into talent availability and capability gains. Dedicate sourcing teams for specific initiatives—a new direct lending platform, for instance, or expansion into an emerging region—to proactively build candidate pipelines.
+
+Treating the hiring experience as a brand moment
+
+Every step of the candidate journey serves as a reflection of the firm’s culture, values, and expectations—reinforcing its employer brand.
+
+How: Pairing senior-level candidates with “culture guides”—that is, leaders or peers at the organization who can offer candid insight into the firm’s working style and leadership ethos—gives candidates a transparent view and engenders trust. Firms show respect and keep candidates informed through personalized follow-ups throughout the process, even if they’re not selected.
+
+Expanding and diversifying the talent pool
+
+Organizations should broaden hiring strategies to reach non-traditional talent sources—expanding the mix of backgrounds, experiences, and problem-solving styles within their teams.
+
+How: Create returnship programs, veteran hiring initiatives, and partnerships with alternative education platforms to open new pathways for high-potential professionals transitioning into finance. Actively pursue fintech professionals, consultants, or data scientists for roles in trading, product strategy, or capital markets innovation.
+
+Reducing friction in the hiring process
+
+Organizations remove bottlenecks when they redesign workflows, simplify approvals, and empower hiring managers to act with speed and clarity.
+
+How: Efficiency in the hiring process is critical. Organizations should aim to consolidate and review interview feedback promptly—within 24 to 48 hours—and promptly make offer decisions to avoid losing top candidates to competitors. This also involves streamlining compensation frameworks by establishing pre-approved salary bands and digital tools that allow recruiters to extend offers quickly and transparently.
+
+Turning disruption into direction
+
+In today’s global markets, firms can no longer afford to separate strategy from execution, leadership from culture, or hiring from business goals. The most successful organizations are treating complexity not as a threat, but as a call to evolve with intention.
+
+By adopting a future-back view of growth, redefining talent through mindset and agility, enabling leaders to empower rather than control, and elevating hiring into a strategic function, firms can build organizations that are not only responsive to change—but capable of innovating to lead it.
+
+The opportunity is clear: transform fragmented systems into connected advantage.  Tomorrow’s leaders will win by building today, with purpose, precision, and people at the center.
+
+About the author
+
+Elisabetta Bartoloni (ebartoloni@heidrick.com) is a partner in Heidrick & Struggles’ New York office and sector leader of the Americas Global Markets Practice.
+
+References
+
+1 For more on CEOs’ and board members’ views on these challenges and how prepared organizations are to meet them, see For more, see “CEO and board confidence monitor 2025: Persistent concerns, pockets of increased confidence,” Heidrick & Struggles, February 5, 2025, heidrick.com.
+
+2 For more on why ecosystems are important to all kinds of organizations, see Regis Chasse and TA Mitchell, “The connecting leader: Five imperatives for leaders today,” Heidrick & Struggles, September 25, 2024, heidrick.com.
+
+3 Far too many companies across sectors are not satisfied with their efforts. For more, see “CEO and board confidence monitor 2025: Persistent concerns, pockets of increased confidence,” Heidrick & Struggles, February 5, 2025, heidrick.com; and Route to the Top 2025: Charting more effective ascents to the summit, Heidrick & Struggles, July 23, 2025, heidrick.com.
+
+Related content
+
+Leadership perspectives: A conversation with Mike Kuehnel, CEO at Flow Traders
+
+Mike Kuehnel discusses the leadership capabilities needed to navigate competing priorities and volatile market conditions and how to build and maintain inspired teams and strong company culture.
+
+Elisabetta Bartoloni
+
+Elisabetta Bartoloni
+
+16m to watch Video
+
+Leadership perspectives: A conversation with Parker Corbin, former COO at Morgan Stanley
+
+Parker Corbin discusses how firms are adapting to shifting market dynamics and a volatile risk environment.
+
+Elisabetta Bartoloni
+
+Elisabetta Bartoloni
+
+11m to watch Video
+
+2024 US Global Markets Compensation Survey
+
+Our first annual US Global Markets Compensation Survey examines organization and compensation data from a survey of sales, trading, and research professionals in the United States.
+
+Shannon Bade Neason
+,
+Elisabetta Bartoloni
+
+Shannon Bade Neason, Elisabetta Bartoloni
+
+Report
+
+Joining a SPAC board: What to expect and how to add value
+
+Elisabetta Bartoloni
+
+Elisabetta Bartoloni
+
+Video
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

@@ -1,0 +1,171 @@
+7 steps to increase sales enablement maturity
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Sales Transformation|June 14, 2022
+
+7 steps to increase sales enablement maturity
+
+Strengthening the formality of a sales organization’s sales enablement function can increase win rates, quota attainment and revenue attainment.
+
+Sales enablement is a framework for increasing sales productivity by providing essential content, tools, training and coaching to sellers. The function may look different in every organization. But regardless of its size and shape, sales enablement always has the same goal: making it easier for sellers to sell.
+
+Our research shows that best-in-class sales enablement functions are organized, formalized, strategic and aligned to the organization’s sales strategy. But far too few sales enablement efforts deliver on expectations. For many sales organizations, there’s no agreement on what enablement means and no overarching framework governing its practice.
+
+In this article, we’ll start by defining sales enablement maturity. We’ll then offer seven steps that can help your organization progress through each level.
+
+What is sales enablement maturity?
+
+After many years of working with organizations, we’ve refined our definition of sales enablement. We define sales enablement as a strategic, collaborative discipline. It’s designed to improve sales results by providing consistent information, training and tools that allow sellers and their managers to add value to every customer interaction.
+
+To be most effective, sales enablement has to be aligned with the buyer’s journey. Our research has helped us classify the maturity of organizations’ sales enablement functions into four levels:
+
+1. Random: Sales enablement is seen as a tactical one-off project with no formal vision and strategy. The organization’s sales enablement processes don’t reflect the buyer’s path.
+
+2. Informal: Sales leaders understand what sales enablement should look like, but their vision is not well-defined or documented. The organization understands the buyer’s path but hasn’t formally aligned all of its enablement processes with that path.
+
+3. Formal: The organization has completely, purposefully and strategically aligned its enablement efforts with the buyer’s path and documented those efforts.
+
+4. Dynamic: The organization has all of the formal qualities plus a sales enablement charter that defines its vision, goals and strategies. Senior executives sponsor and approve of these strategies. The organization aligns sales enablement and the buyer’s path using tools that adapt sales processes to changing buyer behaviors.
+
+Only 19% of organizations report dynamic alignment between their sales enablement processes and the buyer’s path, according to our 5th Annual Sales Enablement Study. And less than a third of sales organizations tailor their sales enablement strategies to all phases of the buyer’s path. As a result, they have lower win rates and quota attainment than organizations with formal and dynamic sales enablement processes.
+
+If you’re struggling to take your sales enablement efforts to the next level, here are seven steps to take.
+
+1. Create a sales enablement charter
+
+Sometimes, organizations implement sales enablement practices without aligning to their strategic goals. To avoid this disconnect, develop a formal sales enablement charter.
+
+Similar to a business plan, this document outlines the processes you will use to achieve your goals, defines how you’ll measure success and assesses the challenges you’re likely to encounter. A charter sets clear expectations for stakeholders by explaining the required resources and expected return on investment.
+
+According to our 5th Annual Sales Enablement Study, only 15.8% of organizations develop a formal sales enablement charter. Organizations with a sales enablement charter have a win rate of 55.1%. That’s 6.7% higher than organizations with a formal approach that lack a charter and 15.9% higher than organizations with a random approach.
+
+2. Align sales enablement with the buyer’s journey
+
+Before purchasing, prospective buyers take a number of steps. They consider the opportunity, research solutions, compare options, narrow down finalists and ultimately choose a provider. To win more deals, organizations must give sellers the sales enablement tools, technology and resources necessary to assist buyers throughout this decision-making process.
+
+That requires alignment between the buyer’s journey and your organization’s sales process.
+
+To advance your organization’s sales enablement maturity, ensure sales managers focus funnel review questions on the buyer’s path. For example, they should measure progress along the buyer’s journey, not sales activities such as meetings and proposals.
+
+3. Implement a content strategy
+
+Given the number of content contributors and types of content assets — presentations, case studies, white papers, videos, objection handling scripts, battle cards and much more — it’s important to ensure consistency and effectiveness. A content strategy defines the purpose of content, what goals content should help to achieve and how content is designed, created and managed to support the strategy.
+
+An effective content strategy defines who does what at each stage of the content production process. It also sets forth how each piece of content ties into the sales process and buyer’s journey. A content strategy that coordinates content with the buyer’s path ensures that sellers offer a unique perspective at the right time.
+
+In preparing your content strategy, consider business playbooks, core messaging guides, buyer personas and buyer journey maps. It can also be helpful to create a repository that groups content according to each stage of the buyer’s journey.
+
+4. Review your existing sales enablement content and training
+
+All of your sales enablement content should relate directly to the buyer’s journey, buyer roles or sales strategies. Create buckets to help organize your content, such as “keep,” “needs adjustment” and “delete.” Discard any content and training that’s redundant or no longer relevant. This process can also help you identify gaps in your content so you can assign them for creation.
+
+Then survey your sellers, sales managers and customers to gauge the effectiveness of your content. Technology, such as a sales enablement content management platform, can deliver analytics that help you rank content.
+
+Korn Ferry Talent Suite
+
+HCM software that unlocks the power of your best asset—your people
+
+Learn more
+
+5. Evaluate your training investment
+
+To close the gap between buyers and sellers, sellers have to be equipped to offer perspective. This will enable them to be prepared for every sales conversation and lead excellent conversations. To do this effectively they need to be trained in selling skills as well as defined sales processes and sales methodology.
+
+To advance your sales training, first evaluate your existing training materials. Because so many stakeholders provide training services, make sure there’s a consistent message throughout. Review what’s provided, by whom, for which target audiences, in what training areas and in what formats. Map the training materials to the buyer’s journey to identify redundancies and gaps, then group, adjust and discard.
+
+Be sure to pay attention to training that focuses on sales methodology, selling skills and sales process. Your organization’s training services in these areas must mesh with your business strategy. Also consider ways that you can amplify this training. For example, your CRM may integrate with technology that offers just-in-time training to refresh sellers on your sales methodology.
+
+And spend time training your sales managers in coaching techniques. As you implement training, make sure there’s corresponding coaching so what your sales team hears is consistent and aligned.
+
+6. Take a formal approach to sales coaching
+
+Sales coaching encompasses more than just funnel and opportunity reviews. It’s a structured conversation that helps sellers uncover improvement areas and opportunities to unlock new levels of sales success. Sales coaching covers different areas, such as lead and opportunity coaching, funnel coaching, skills coaching and account and territory coaching.
+
+Most organizations take a random or informal process to sales coaching. Either sales managers determine whether and when to coach their sellers, or they have loose guidelines to direct them. A more formal coaching process is well-defined, and sales managers are required to use it. Dynamic coaching processes are the most highly evolved and connect coaching to the sales enablement framework.
+
+To increase the formality of your organization’s sales coaching, start by making sure you get buy-in from sales managers. Everyone on the sales team needs to be working towards the same goal: enabling sellers. So, bring managers into discussions about new sales enablement services and content and overall strategy. Ask them for feedback on training and content and for suggestions on how to improve.
+
+As a starting point, try a sales coaching pilot around sales methodology. Run the pilot on one or two sales teams and measure the results as a proof of concept. Then, to improve adoption, use your results to create a business case to support more coaching. This can help you overcome the objections of those who view coaching as unnecessary or as a “soft” skill.
+
+7. Integrate technology into your sales enablement efforts
+
+The more entwined sales technology becomes with sales enablement, the better its scalability and the greater its success. But almost half of sales organizations share content with sales teams through email or in multiple online repositories. This disorganized way of sharing makes it hard to control content from a strategy and lifecycle perspective. It also makes it hard for sellers to access content and less likely that they’ll use it.
+
+However, when organizations integrate their sales enablement into their CRM, their quota attainment rates are 5.8% higher than average according to the 5th Annual Sales Enablement Study. AI-fueled sales enablement technology integrates with CRMs to learn about opportunities. These AI-based platforms then offer insights into which buying influences sellers should consider when engaging. They can also proactively push content to sellers that targets specific personas at the appropriate stage in their buying journey.
+
+To better integrate sales enablement and technology, understand what technology is and isn’t being used (even if it’s implemented). Be sure to identify all systems and shared drives or portals where sellers can access tools and services. Next, identify any redundancies, irrelevant resources, areas that need improvement and gaps.
+
+Finally, you’ll need to make a business case for filling the gaps based on the problems you want to solve and the goals you want to achieve. Connect the case back to your sales enablement charter to get buy-in from sales leaders. Then roll out the changes to sellers, with reinforcement through sales coaching.
+
+Sales enablement helps sales organizations attain goals
+
+For many years, buyers have relied less and less on sellers and engage them later and later in the sales cycle. That means sales teams have less opportunity than ever to influence outcomes. This is where sales enablement can change the course of a deal. Its goal is to help salespeople meet and exceed increasing buyer expectations, earning them the right to engage buyers earlier.
+
+For sales enablement to become the engine driving sustainable sales results, organizations must develop a more formal, holistic approach. To learn more about developing your sales enablement discipline, check out our sales enablement guide. And to discover how the Korn Ferry Talent Suite links sales enablement content to your sales process, get in touch.
+
+Related Capability
+
+Related Capabilities
+
+Sales Effectiveness
+
+Talent Suite
+
+Featured Insights
+
+How to Close Complex Tech Deals Without Discounting
+CFO Exits: Domino Effect or Burnout?
+The C-Suite Executives Watching Their Backs
+Delivering a Recipe for Sales Success to a Global Food Supplier
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Featured Topics
+
+Sales Transformation
+
+Sales Effectiveness
+
+Talent Suite
+
+Sales
+
+Kornferry4 SS
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

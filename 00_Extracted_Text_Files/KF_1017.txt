@@ -1,0 +1,120 @@
+Maximizing performance in life sciences with interim talent
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Interim Talent|May 10, 2023
+
+Maximizing performance in life sciences with interim talent
+
+Life sciences companies are looking to interim IT talent to maximize performance in the evolving market for specialized expertise.
+
+Key takeaways
+
+The major trends impacting hiring in life sciences
+The most in-demand life sciences roles and skills
+How interim hires bridge the talent gap for life science jobs
+
+With specialized expertise in high demand and an evolving market, more life sciences companies — and professionals — are looking toward interim roles in IT.
+
+“We were about to start our FDA approval process — then we lost our regulatory lead.”
+
+It’s an HR leader’s nightmare: after years of development, your biotech company is finally ready for the FDA approval process, but you can’t find a regulatory lead to hire, which could delay filing. Or your R&D team needs an electrical engineer to expedite device development, but the position remains unfilled six months later. Perhaps your company is exploring new opportunities with AI or machine learning but is unable to find an IT professional with life sciences experience.
+
+Scenarios like these have become increasingly common in life sciences companies and HR leaders are seeking flexible tech talent solutions to staff these pivotal positions. Working with an interim expert to hire IT contractors could be the missing piece to your talent puzzle. Below, we discuss the trends influencing life sciences driving the need for flexible hiring to bridge in-demand roles and skills.
+
+What trends are influencing hiring for life science jobs?
+
+The digital, data-driven future is reshaping how companies in life sciences innovate and monetize their work — and they need the right IT experts in place to maximize these opportunities.
+
+Faster, more efficient data processing: In 2001, sequencing a human genome cost more than $100 million. Today, it costs less than $1,000. This is one example of how faster data processing and tech breakthroughs are opening the door to more genetic data training and AI, simplifying the complex and expensive drug discovery process. R&D functions now use large virtual data sets that pair real-world evidence and digital twins with more traditional clinical drug trials. “Life sciences companies are combining traditional research approaches with smart technologies, like AI, which enables the use of digital twins,” says Bill Gilbert, Market Leader, Life Sciences & Health Services, Korn Ferry. “Since few companies in life sciences have the in-house expertise required to capitalize on faster data processing, these developments are driving new talent needs.”
+The rise of AI algorithms: In 1995, the FDA approved the first AI algorithm and approved only 50 more over the next 18 years. In contrast, between 2019 and 2022, more than 300 were approved. And in October 2022 alone, 178 AI and machine learning systems were approved — reflecting the tremendous growth potential in this industry. “Life sciences companies can expand their candidate pools by considering candidates with transferable skills in adjacent industries. This is especially true for engineering and R&D positions that require experience with AI and machine learning. Considering interim talent as a proven access point to transferrable expertise can quickly fill the need for your business,” says Matthew Pfennig, Managing Partner, Interim Professional Search, Korn Ferry.
+Bringing the human factor to Industry 4.0. The fourth industrial revolution (known as Industry 4.0) is underway, with digital transformation expenditures predicted to top $2.8 trillion by 2025. For life sciences companies, this means shifting away from standardized supply chains and exploring advanced segmentation and parallelization. Companies are using IoT, Robotic Process Automation, and AI to develop more resilient value chains and flexible processes. “Many organizations have poured time and money into new technologies,” says Pfennig. “The most successful ones are those that also invest in their workforce. Companies who ensure they are hiring and investing in next generation knowledge workers with the right skills to maximize the impact of these technologies and achieve true digital maturation are taking the right steps to prepare for the future.”
+
+The top 3 in-demand roles in life sciences: why is it so hard to fill these positions?
+
+Today’s job market is an unusual one. Ongoing economic uncertainty coupled with a tight talent pool is extending time-to-hire. Fewer professionals are actively exploring other opportunities, preferring the certainty of their current employer despite the high demand for their skills and experience. Turnover in the life sciences and medical device industries dropped to 17.8% in 2022, down from a post-pandemic high of 20.6% in 2021.
+
+Companies are also conservative in their hiring approaches. There’s a pressing need for tech talent and a fear that a hiring mistake could prove costly. Compounding this problem: some roles are so niche that the candidate pool may be limited to just a few qualified professionals. Candidate searches that may once have taken two or three months are now taking six months or longer.
+
+These are the three most in-demand life sciences roles that are also the hardest to fill:
+
+Data, AI and machine learning: Automated data management improves efficiency for faster clinical trials and life cycle development and engineering and R&D professionals must ensure the device or drug they design is effective while carefully managing development time and costs. These positions require highly specialized technical skills that are missing from many life sciences companies.
+Regulatory and compliance: These professionals manage the FDA approval process and need an in-depth understanding of complex FDA rules, as well as other rules for related regulatory bodies as they shepherd developments through the complex FDA approval process.
+End-to-end cybersecurity: Collecting, analyzing and sharing data through the cloud or connected devices is key to breakthroughs in life sciences. From digital signatures to cloud security, this data must also be carefully protected to minimize the risk of intellectual property theft. At every stage in the development process, these professionals protect intellectual property and trial data from security threats while ensuring all stakeholders can access this critical data.
+
+These tech roles are all “mission-critical” and work in tandem. An open position in any of them can have a ripple effect across the business. For example, an unfilled regulatory position can mean a delayed filing with the FDA and a slower product rollout. A missed cybersecurity vulnerability could result in a costly data breach. That often spells financial challenges, making it imperative for companies to hire quickly and strategically.
+
+Interim Executives & Professionals
+
+Lasting change starts with temporary talent
+
+Learn more
+
+The pros and cons of hiring IT contractors in Life Sciences
+
+IT contractors give companies access to top technical talent in adjacent industries, bringing experienced professionals on board to advance key objectives and bridge skill gaps. But they aren’t right for every business need. In some cases, organizations are served better by a full-time, permanent hire who is invested in building a career with their company. Costs can vary and some interim professionals may be more expensive than a full-time hire, depending on the role.
+
+On the flip side, paying more for an immediate talent solution may be worth it in a tight talent market. There’s also the possibility of an interim hire turning into full-time employment after a few months to a year. In those cases, a contract to hire is already fast-tracked with company processes and can continue driving innovation. Interim and permanent hires both have a place in your talent strategy: the key is finding the right mix for your business.
+
+How can I find IT contractors with life sciences experience?
+
+IT life sciences talent exists around the world. Beyond the immediate talent pool at biotech, pharmaceutical and medical device companies, qualified professionals in industry-adjacent roles with transferable skills are an untapped resource at many companies.
+
+Partnering with Korn Ferry gives you access to exceptional life sciences talent across the globe. From engineering and R&D to regulatory and medical affairs, you can find the best professionals to solve your business challenges.
+
+Ready to see how life sciences contractors can bridge the talent gaps in your organization? Get in touch with us today.
+
+Related Capability
+
+Related Capabilities
+
+Interim Executives & Professionals
+
+Featured Insights
+
+How to Cut Manufacturing Costs—Without Cutting Your Workforce
+How Interim Solutions Supported a Global Financial Leader
+Contingent Workforce Management—a Strategic Shift
+Juicing Up Talent at a Multi-Billion Dollar Beverage Company
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Featured Topics
+
+Interim Talent
+
+Talent Recruitment
+
+Interim Executives & Professionals

@@ -1,0 +1,170 @@
+5 sales operations challenges and how to overcome them
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Sales Transformation|July 8, 2022
+
+5 sales operations challenges and how to overcome them
+
+Sales operations teams can help organizations formalize sales processes, improve their data quality and sales forecasts and streamline selling workflows.
+
+What you'll learn
+
+How the role of sales operations teams is changing
+The best way for sellers to increase actual selling time
+How sales teams can improve forecast accuracy
+
+The growing role of sales operations teams
+
+In the past, we defined sales operations as a strategic function that provides a platform for sales productivity and performance. Today, almost anything that involves a process, technology or tool may fall under sales operations.
+
+As selling continues to evolve from an art to a science, the role of sales operations continues to expand. Sales operations teams typically are involved in 11 out of 21 total sales activities that include data strategy, lead generation and general reporting.
+
+However, the highest-performing sales organizations have sales operations teams that are involved in an average of 14.2 of these activities.
+
+Whatever the sales operations team tackles, their overarching goal is usually to bring order to a complex sales environment. But sales operations teams face significant headwinds as they strive to transform their sales organizations.
+
+Here are five common challenges that sales operations teams must address in order to successfully transform.
+
+1. Increasing selling time
+
+Sellers struggle to spend enough time selling. In fact, on average, they spend only 30% of their time actually selling. The rest of that time is spent on various preparatory and administrative activities. For example, call planning takes 20% of sellers’ time.
+
+One way to give sellers time back is to implement automation and other technology in order to streamline their work. But only 25.9% of sales organizations think they have the tools they need to support their sales team. And only 28.4% have integrated sales applications with their CRM.
+
+What does this mean for sellers? They’re using too many tools to be efficient and spend too much time entering data into multiple systems. And those systems often don’t work together to help them close more deals.
+
+How sales operations teams can address this challenge:
+
+Sales operations can increase selling time by identifying technology and tools that address their sales team’s most pressing needs. They can also encourage organizations to adopt and integrate tools with AI and analytics into their CRM. Only 27.3% of sales organizations are confident in their alignment, according to our 2nd Annual Sales Operations and Technology Study.
+
+Although standalone sales tools are cheaper and faster to deploy, they create duplicate work for sellers and lead to poor usage. Plus, the more integrated your sales tech stack, the higher your win rates and quota attainment will be. Sellers will end up spending less time moving between tasks and systems and can allocate more time in their day for selling.
+
+2. Formalizing sales processes
+
+Our research consistently shows that formal and dynamic sales processes lead to stronger sales performance. Nearly two-thirds of sales organizations reported following more formal processes in 2019, an 18.5% increase from 2014.
+
+But there is still room for improvement. Too many organizations still lack a documented sales process that sales teams should follow. And too few reinforce and monitor their documented sales processes.
+
+Organizations with a formal sales process hold their sales reps accountable for following that process. Their sales managers offer coaching when sellers are off base. Meanwhile, organizations with dynamic sales processes take formal processes to the next level. They add analytics and other technology to identify changes in process metrics over time.
+
+How sales operations teams can address this challenge:
+
+To evolve to dynamic sales processes, sales operations teams should identify sales technology that can improve their selling workflows. Unfortunately, most organizations (66.2%) haven’t embraced analytics and AI-based tools, according to our 2nd Annual Sales Operations and Technology Study.
+
+That’s often because sales leaders are skeptical of AI’s value. In part, that’s because AI needs a steady supply of high-quality data input to be useful and sales leaders see their sellers neglecting their CRMs, which leads to insufficient and inaccurate data.
+
+Sales operation teams looking to implement AI should consider other options to gather data across the enterprise. They may also be able to automate sellers’ data entry and clean up that data after it’s been entered.
+
+Sales operations leaders should prepare a change management initiative that encourages adoption and addresses misconceptions. To begin their change management strategy, they should articulate a clear purpose and goal for adding the sales technology. Then they should build a team to support the change with representation from different groups across the sales organization.
+
+3. Delivering accurate data to sales leaders
+
+Today, sales leaders are asked to make decisions faster than ever before. They’re also making these decisions in a highly uncertain environment. Plus, executives expect sales leaders to ground their decision-making in data.
+
+The amount of sales intelligence at sales leaders’ fingertips can be overwhelming, given the explosion of sales intelligence tools. The average sales organization has 10 sales technology tools and plans to add more. And given sellers’ reluctance to invest time in using all these tools, particularly their CRM, sales operations teams must figure out how to ensure their systems are complete and accurate.
+
+How sales operations teams can address this challenge:
+
+Sales operations teams should ensure that sales tools offer easy access to the information sales leaders need to make smart decisions. But they also need to make sure they have the proper “fuel” for these tools: high-quality data.
+
+Most sales organizations (70%) don’t have a data strategy, according to our World-Class Sales Practices Study. A data strategy is a documented plan that sets forth a framework for managing data as an asset. Sales operations should ensure this strategy is in place and up-to-date.
+
+A data strategy should be backed by executive support and set forth how your sales organization will use its data. It should also address how your organization will ensure data quality. Finally, the strategy should define how you plan to integrate your sales tech stack to minimize duplication and rework.
+
+Sales Effectiveness
+
+Breakthrough to immediate, predictable and sustainable sales effectiveness
+
+Learn more
+
+4. Improving forecast accuracy
+
+Accurate forecasting is critical to a business’s overall financial health. Forecasts are used to make decisions about staffing, investments and inventory. They’re also used to make representations for investors and other stakeholders.
+
+But only 18.7% of sales organizations achieve forecast rates of 75% or higher, according to our Sales Performance Study. And more than half of all deals forecast to close don’t. What’s to blame? Informal and subjective forecasting processes, insufficient data and limited tools.
+
+The more formal and rigorous the forecasting process, the higher the organization’s win rates. Sales organizations with a formal or dynamic forecasting process report 8.4% higher win rates for forecasted deals than those using an informal or random approach. Only 21% of sales organizations had formal or dynamic forecasting processes, based on our 2nd Annual Sales Operations and Technology Study.
+
+How sales operations teams can address this challenge:
+
+By taking the lead in formalizing processes and integrating technology into those processes, sales operations can influence productivity and predictability.
+
+Your sales operations team can inject formality into sales forecasts by aligning these with your sales process. The team should also specify a clear cadence for forecast reviews with sales managers: weekly, monthly and quarterly. Finally, the team should implement technology that offers predictive analytics to supplement your CRM’s historical, subjective data. The right sales tools can apply AI to your data and accurately assess an opportunity’s health.
+
+5. Getting buy-in for sales operations initiatives
+
+Sales operations teams have many projects under their umbrella. It may be difficult to convince executives to support them all. It’s especially hard if executives don’t understand the sales operations team’s vision for the sales organization.
+
+Most sales operations teams take a proactive approach to setting their direction. But historically, only about a quarter (26.7%) take the extra step of formalizing their approach in a business plan. A business plan can help communicate the team’s objectives and justify additional budget and resources to support its initiatives. When sales leaders understand how sales operations fit into the overall business, they can determine how to best partner with the sales operations team.
+
+How sales operations teams can address this challenge:
+
+When drafting a plan, the sales operations team should establish its mission, vision and short- and long-term initiatives. It should also specify who its initiatives will impact and what metrics will measure the impact of the team’s work. The team must connect its initiatives and metrics to broader sales goals, such as increasing selling time.
+
+Where sales operations should go from here
+
+Sales operations can be a driving force behind sales performance. But your sales operations team can’t live up to its potential unless it tackles the challenges outlined here.
+
+Read our 2nd Annual Sales Operations and Technology Study to learn more about evolving your sales operations team. Then, check out the Korn Ferry Intelligence Cloud. It’s an AI-driven digital platform that can help sales operations teams increase selling time, formalize their sales processes and improve their sales data and forecasts.
+
+Related Capability
+
+Related Capabilities
+
+Sales Effectiveness
+
+Talent Suite
+
+Featured Insights
+
+Why a Proven Sales Methodology Is a Roadmap to Success
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Featured Topics
+
+Sales Transformation
+
+Sales Effectiveness
+
+Talent Suite
+
+Kornferry4 SS
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

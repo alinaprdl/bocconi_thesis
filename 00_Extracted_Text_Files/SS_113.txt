@@ -1,0 +1,277 @@
+2024 CEO Transitions in Europe
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+2024 CEO Transitions
+in Europe
+
+March 2025
+
+| 8 min read
+
+SectionsIn this article
+
+Spencer Stuart has analysed every CEO transition since 2010 in each of the major European stock indices. Here we break down what the numbers mean for you as a board director, CEO or CHRO.
+
+Spencer Stuart has long tracked CEO turnover among major European listed companies. In this report we look at leadership changes and their implications at 579 of the top European companies during 2024, alongside trends in CEO transitions since 2010. We define a transition as the replacement of a permanent outgoing CEO with a permanent incoming CEO.
+
+It is hard to draw meaningful conclusions about why CEOs are leaving their jobs from the data alone. Industry dynamics, company structure, health or performance, internal talent pipelines and the presence of an activist investor are all
+factors playing a role in whether a CEO leaves or stays.
+
+Nevertheless, our analysis of 2024 transitions indicates several broad trends:
+
+More insiders are being appointed to run European companies, but still not as frequently as pre-pandemic.
+
+There are more first-time CEOs, including among external appointments, yet the average age at appointment has increased steadily over time.
+
+The average tenure of CEOs has dropped, with a higher number of departing CEOs in the role for less than five years.
+
+Fewer women have been appointed to lead European companies for the third year in a row.
+
+Transitions remain at a consistent level
+
+The number of CEO transitions in Europe has remained more or less constant for the past six years. Surprisingly, Covid-19 and its aftermath have had little effect on CEO departures from one year to the next. Across the region, 12.3% of companies changed their leader in 2024, with the highest proportion of new CEOs to be found in Switzerland (seven out of the SMI 20 companies). By contrast, no CEO in Portugal was appointed and only one in Belgium.
+
+Total number of transitions: 2010-2024
+
+CEO Transitions by country: 2024
+
+Number of transitions
+Number of companies
+Turnover
+
+Austria
+4
+20
+15%
+
+Belgium
+1
+20
+5%
+
+Denmark
+2
+20
+10%
+
+France
+11
+120
+9%
+
+Germany
+9
+90
+10%
+
+Netherlands
+7
+50
+14%
+
+Norway
+4
+25
+16%
+
+Italy
+5
+40
+12.5
+
+Portugal
+0
+20
+0%
+
+Spain
+3
+35
+8.6%
+
+Sweden
+7
+30
+23.3%
+
+Switzerland
+7
+20
+35%
+
+United Kingdom
+13
+100
+13%
+
+Total
+71**
+579*
+12.3%
+
+*  Some companies were dual listed in 2024 across the indices we are tracking in Europe.
+
+**  Two of them experienced a CEO transition: ABB Ltd is dual listed in Switzerland and Sweden. Stellantis is dual listed in France and Italy. CEO transitions count for Switzerland and Italy, as those companies are dual-listed.
+
+Download
+
+Download
+
+For the second year in a row, the highest proportion of transitions has occurred within the technology, media, telecommunications and services industry (TMTS, 19%), where increased CEO turnover mirrors the accelerating pace of disruption. The telco sector is particularly challenged at the moment, with CEOs feeling intense pressure on margins as their companies shoulder the burden of capital-intensive network infrastructure. In our board work, we see boards encountering more external pressure to intervene when performance wanes. In the US, by contrast, tech companies are riding high and CEO turnover is far lower at just 7%.
+
+The industries that saw the lowest levels of turnover were financial services (10%) and consumer (11%).
+
+CEO transitions by industry: 2024
+
+Number of transitions
+Number of companies
+Turnover
+
+Consumer
+11
+100
+11%
+
+Financial Services
+13
+136
+9.6%
+
+Healthcare
+6
+49
+12.2%
+
+Industrial
+28
+227
+12.3%
+
+TMT
+13
+67
+19.4%
+
+Total
+71
+579
+12.3%
+
+Insider appointments are on the rise
+
+The majority of new CEOs in Europe (59%) were internal appointments in 2024, a growing trend over the past four years following a dramatic increase in outsider appointments during 2020. As might be expected, one-quarter of insider CEOs were under 50 years of age at the time of appointment, whereas 28% of outsiders were over 60. The level of insider appointments in Europe is still significantly below the US, where 72% of new S&P 500 CEOs were company insiders. By contrast, only 42% of mid-cap companies in the US appointed an insider, an indication that smaller companies are typically less likely to have CEO-ready talent waiting in the wings.
+
+Insiders/Outsider
+
+Despite the trend towards internal appointments, our observation is that many European boards could be spending more time on rigorous succession planning. As we work with more boards that are investing in longer-term succession, they are also being more thoughtful about the readiness of internal candidates when making selection decisions, as well as the suitability of candidates to meet the organization’s needs in that moment in time.
+
+Who’s an insider and who’s an outsider?
+
+Internal successors are internally promoted CEOs, former company C-suite executives/CEOs and “insider-outsiders,” two-step appointments who were recruited from outside the company and promoted into the CEO role within 18 months.
+
+External successors are externally recruited CEOs and include those appointed from the company’s board of directors.
+
+Older CEOs are being appointed, despite most being first-timers
+
+The overwhelming majority of appointments in 2024 (84%) went to CEOs taking the helm of a listed company for the first time, the highest proportion since 2019. This includes an overwhelming majority of externally appointed CEOs. It is notable how few companies hired an experienced CEO in Europe (16%) compared with the US where 21% of incoming S&P 1500 CEOs had previously served as a public company CEO. In our experience, many boards looking to replace their CEO still tend to be biased in favour of candidates with prior CEO experience, yet the data does not bear this out in practice.
+
+In 2024, boards may not have shown a preference for CEOs who had done the top job elsewhere, but they did appoint older executives to lead their companies. Indeed, there has been a steady increase in the age of CEOs appointed since 2010. In 2024, nearly 20% of new CEOs were over 60 at the time of their appointment and only 20% were under 50. In 2010, by contrast, just 4% of new CEOs were over 60 and 42% were under 50.
+
+Nearly one-third of CEOs tapped to run TMTS companies were over 60 at the time of appointment, whereas companies in financial services and consumer industries were most likely to appoint younger CEOs; 27% of consumer appointees under the age of 50.
+
+If we look at the age of CEOs across the total universe of 579 companies, the trend towards appointing older, more seasoned executives has been evident since the financial crisis (see chart below). Today, 31% of all European CEOs in our sample are over 60, the highest proportion for 20 years. This may reflect a conscious preference among boards for age and experience over youth – or it may equally be an indication that people are living longer, healthier lives compared with previous generations.
+
+CEO age band distribution
+
+Divisional CEOs are the most likely executives to be promoted to CEO
+
+Our research shows that first-time CEOs typically ascend from four “last-mile” roles: chief operating officer (COO), divisional CEO, chief financial officer (CFO) and “leapfrog” leader promoted from below the C-suite.
+
+As in previous years, the largest proportion of first-time CEOs appointed in 2024 came from a divisional CEO role (46%). The preference for divisional CEO appointments suggests boards are looking for leaders with hands-on P&L experience who have already “walked the walk.” In fact, 71% of first-time CEOs hired externally came from a divisional CEO role.
+
+In the US, COOs/presidents account for the largest, though declining, share of S&P 1500 CEO appointments at 40%. In Europe, the COO/president role is much less common and internal succession candidates are less likely to be named COO as a “finishing” role to gain additional enterprise and stakeholder exposure: only 18% of new CEOs came from such a role.
+
+CFOs have been increasingly popular candidates for CEO in the last couple of years, with 16% of new European CEOs coming through the CFO role, compared with just 5 % in 2022. CFOs are steeped in the company’s strategy and financials, understand investors’ perspectives and often are skilled at communicating with shareholders. As our recent report shows, CFOs are data-oriented and have an overview of business functions — both of which are essential for any high-performing CEO. Financial services firms are most likely to appoint a CFO to the top job. In 2024, a remarkable 45% of new financial services CEOs came directly from the CFO role.
+
+Five first-time CEO appointments were “leapfrog” leaders, hired from below the second layer of management. Between 2020-21 only one leapfrog candidate was appointed CEO in Europe, due to the “flight to experience” that was evident during the global pandemic. The scarcity of leapfrog appointments likely reflects continued caution by boards, who overall turned to older, more experienced CEOs in 2024. Across the entirety of our sample of 579 companies, we see that the number of leapfrog CEOs has halved from the 16% to 8% since 2005.
+
+Prior role of new CEOs by industry
+
+Most new CEOs were appointed from four “last-mile” routes to the top
+
+46%
+
+Promoted from a divisional CEO role
+
+16%
+
+Promoted from CFO
+
+18%
+
+Promoted from a COO or president role
+
+7%
+
+“Leapfrog” appointments from below the C-suite
+
+*  Remaining appointments came from a range of other roles
+
+Separating the chair and CEO roles
+
+Not one of the newly appointed European CEOs in our sample assumed the role of chair at their start date in 2024. This is evidence of a longer-term trend towards separating the roles both sides of the Atlantic; only 5% of new S&P 1500 CEOs were also named board chair upon appointment. Boards in some European countries, particularly Spain and Italy, sometimes turn to an executive chair to provide continuity during a transition as well as strategic insight and hands-on onboarding support to the new CEO, especially a first-time CEO. Five new European CEOs started with an executive chair in place, three of them in industrial companies. Six outgoing chairs stayed with the company as board chair, three of them in Spain. While this can be a transition path for outgoing CEOs, our research suggests that the executive chair role should be used carefully.
+
+Fewer women are reaching the top
+
+Over the past three years there has been a decline in the appointment of women as CEOs across Europe. Female appointments reached a peak in 2021 at 15%, but no further progress has been made since: in 2024, just 10% of newly appointed CEOs were women.
+
+7
+
+Women out of 71 CEOs appointed during 2024
+
+The highest proportion of women among incoming CEOs were found in TMT companies (23%) and financial services (15%), whereas no women were appointed to lead either a consumer or healthcare company in 2024. Across our sample of 579 companies, only the UK (11%), Norway (14%) Belgium (15%) reach double figures for gender diversity.
+
+Our 2024 shows that women were more likely to be among the experienced CEOs appointed (20%) than first-timers (8%).
+
+Female CEO appointments since 2010
+
+CEO tenure and age at departure
+
+The average tenure of departing CEOs has dropped from 8.8 years in 2022 to 7.4 years in 2024. That peak in 2022 is most likely explained by some CEOs staying on slightly longer during the pandemic than they would otherwise. Time will tell whether the combination of higher uncertainty and the increased pressure on CEOs may be taking its toll among European CEOs. In the US we have seen a decline in average tenure among S&P 500 CEOs between 2021 and 2024, from 11.2 to 8.3 years.
+
+Of particular note is the high proportion of departing CEOs in Europe who served less than five years in the role – 42% compared with 33% in 2023. Of these relatively short-lived CEOs, 59% were outsiders. Eighty per cent of departing healthcare CEOs and 64% of consumer CEOs served less than five years. In terms of age, departing consumer CEOs were most likely to be in their 50s or younger (80%), whereas at least 50% of CEOs in every other sector were over 60.
+
+While it is tempting to surmise that outsider CEOs have been less successful in recent years, each CEO transition is unique; it is just as likely that many CEO outsiders were appointed to under-performing companies and were not expected to stay for more than five years. CEOs who served over 10 years in the role were far more likely to have been insider appointments, accounting for 32% of all departing CEOs compared with just 14% for outsiders.
+
+The challenge for boards
+
+There are many reasons why CEO transitions happen. Whether the CEO underperforms, retires or takes up another role elsewhere, the board should never be taken by surprise. Preparing for a leadership transition is one of the board’s most important jobs, if not the most important. Yet many companies do not plan for CEO succession sufficiently far in advance. In a recent survey, almost half of the directors we polled told us they are concerned that they won’t have a single internal candidate ready for a transition.
+
+Our advice to boards is to start the CEO succession planning process three to five years before an anticipated transition, taking into account multiple future succession scenarios and the related characteristics and capabilities needed in the next CEO. We guide boards through a robust development-centred CEO succession programme to ensure they have viable internal candidate options when the time comes.
+
+For more insights on CEO Succession,  click here.
+
+Related Insights
+
+Discovering the Life Cycle of a CEO
+
+7 min read
+
+An excerpt from our groundbreaking new book examining the real drivers of performance and providing practical advice for CEOs navigating the ups and downs of their tenure.
+
+Boards Around the World: Navigating Stormy Seas
+
+5 min read
+
+Find out how boards of public companies around the world compare in terms of composition, diversity, compensation and more.
+
+2024 CEO Transitions: The measure of the market
+
+8 min read
+
+Our analysis of CEO transitions, tenure and backgrounds among S&P 1500 companies, including breakdowns by large-, mid- and small-cap companies.

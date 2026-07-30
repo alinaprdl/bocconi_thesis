@@ -1,0 +1,119 @@
+(Data) Center of the Universe
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+(Data) Center of the Universe
+
+Stadium-sized data centers are being built at a stunning rate to support AI. But will all of them be needed?
+
+Latest Issue:
+
+​
+
+Download a PDF
+
+​
+
+Browse the Flip Version
+
+By Peter Lauria
+
+May 30, 2025
+
+Located in an office park bookended by the New York City skyline to the east and the Hackensack River to the west, blending in among the warehouses and industrial buildings, is NY5, a 380,000-square-foot data center owned by Equinix, the giant technology firm. Inside the boxy, black-paneled, unmarked building, past three interlocking steel doors that require a code and handprint for entry, are hundreds of miles of cables linked to tens of thousands of servers. These cables power the businesses of 140 clients, among them some of the biggest financial institutions in the world, including the Nasdaq stock exchange.
+
+​
+
+THE PROBLEM Thousands of massive data centers are being built to power the promising but uncertain future of AI.
+
+​
+
+WHY IT MATTERS Building frenzies can lead to bubbles.
+
+​
+
+THE SOLUTION Look for a way to meet power demand without overbuilding.
+
+Yet for all its importance, this place is eerily quiet. Except for the low humming of machines and the muted whir of cool air being circulated, you could hear a pin drop. With their gray concrete floors, the long and dimly lit halls, roughly 200 yards in length, give the impression of an underground bunker. Silver and black rows of locked cages securely house each client’s servers; they run like a maze through the main floor, accessible only to properly cleared clients, employees, and Equinix engineers. “Here’s where our customers can look over their investment,” says Equinix senior director of facilities operations Tony Sclafani, looking down on the cages from a conference room.
+
+Globally, there are about 10,000 data centers operating today.
+
+While no one would describe data centers as glamorous or sexy, they do happen to be one of the hottest sectors in tech, if not all of business. Everything in our digital lives, from our social media to our bank accounts to our health records, depends on the transferring, processing, and storing of data in these centers. They are what kept business and society functioning during the pandemic, and they play a critical role in training and developing AI models and other emerging technologies for the future. And, according to Gordon Dolven, director of Americas data center research for real-estate investment firm CBRE, they can’t be built fast enough. “Data centers are the new oil in terms of keeping business running,” he says.
+
+Our ever-increasing need for more computing power is fueling one of the biggest corporate bets of all time. Big tech companies, private-equity firms, government agencies, and others are all in a mad rush to secure agreements to develop more data centers. Globally, there are about 10,000 data centers operating today, but that’s only the start: The latest projections predict over 20,000 more in the next five years. Once thought of as small, dank basements with racks of servers, today’s data centers are massive complexes the size of several football fields that cost billions of dollars to construct and maintain. According to the Boston Consulting Group, spending on data centers will reach $1.8 trillion by 2030. Over that time span, revenue is expected to nearly double, to $406 billion from $213 billion today. “The money coming into—and that stands to be made from— data centers is unprecedented,” says Tim Walton, head of Korn Ferry’s Digital Infrastructure Executive Search practice in Europe, the Middle East, and Asia.
+
+When it comes to investments, however, nothing is a sure thing, not even with today’s great thirst for the kind of data that will service AI. For starters, the energy needed to power data centers is enormous, so much so that there may not be enough of it in critical areas of development. Same goes for access to the water and other cooling agents needed to reduce the heat servers emit and control humidity. Compliance with shifting regulations is another challenge. More importantly, there is also a risk of overbuilding, just as there is with housing. Indeed, by their own admissions, firms plan to spend sums on these centers—without knowing precisely what the customer need will be—that are higher than the GDP of countries like Australia, Ireland, and Portugal.
+
+Put another way, while it is unlikely that we will be living less digitally in 2030, the extent to which our lives will be online is unknown. “The market is very frothy right now,” says Jerry Upright, a senior client partner in the Global Infrastructure and Global Private Capital practices at Korn Ferry. The question is: Will this be a bubble as big as one of these centers—or a critical investment and infrastructure move?
+
+Peter Curtis, founder of critical infrastructure consulting and technology firm PMC Group One, started working on designing and overseeing data centers more than three decades ago. Back then, some of the biggest facilities were between 20,000 and 100,000 square feet and required about 10 to 50 megawatts of energy to run, which is enough to supply power to between 2,000 and 7,000 homes. Today, smaller data centers average 100,000 square feet, and it’s not uncommon for them to reach 1 million square feet or even more. In terms of power, 200 megawatts, or enough energy for 40,000 to 100,000 homes, is considered small. There are facilities under construction that will have enough capacity for 1 gigawatt of power, which equates to 1,000 megawatts. “The power needs are very different,” says Curtis. “Utility grids aren’t built to sustain the level of usage and demand we are going to need.”
+
+All of this underscores the evolution in today’s world—from so-called classical computing to the cloud and AI, and in the not too distant future, quantum computing. To be sure, it’s estimated that data-center power consumption will double or triple by 2030, from roughly 4 percent of all US electricity today to 10 percent or more. Or, to twist the famous quote from the movie Field of Dreams, it doesn’t matter how many data centers are built; if there isn’t enough energy available, they won’t run. Alternative-energy sources such as wind and solar are being used to generate power and reduce carbon emissions, but Curtis says none by itself is reliable or powerful enough to run a data center, let alone fully replace traditional energy supplies. Some firms, including the big tech players, plan to use (or are exploring using) nuclear power in new data centers under construction.
+
+Power scarcity, combined with the scale and scope of new data centers, comes with a cost—and a hefty one at that. New construction on large-scale data centers can cost anywhere from $250 million to more than $3 billion. Some big-tech and private-equity firms are spending upwards of $10 billion to build a single data center. Tariffs, supply-chain disruption, and other factors can drive up the costs even further. Worse, from an investment perspective, much of those costs—such as securing power contracts—are front-loaded, meaning that operators are paying up front and banking on making their money on the back end. Still, according to CBRE’s Dolven, demand is so great that data-center operators can often pre-lease space before building even begins. “The pre-leasing rate on data centers is much bigger than other areas of spec building,” such as commercial real estate or residential housing, says Dolven.
+
+The first thing you notice about the data-center floor at Equinix’s NY5 facility is the heat. It hits you in the face as if you’ve just opened the oven or a sauna door. As you walk deeper into the guts of the data center, pockets of cold air from the cooling system come over you, like when a gust of air conditioning blasts you from a store entrance on a hot summer day in Manhattan.
+
+To all outward appearances, NY5 seems like a clinical and sterile place to work. Not much exciting happens here, it seems, and to Sclafani that’s a good thing. As he stops outside the generator room, which houses five huge yellow industrial-size backup generators, he recounts one of his proudest achievements: how he and his team kept NY5 up and running for clients during Hurricane Sandy in 2012. “Other data centers went down, but we were able to stay online for over a week just on generators,” says Sclafani, who has been with Equinix for two decades and oversees the company’s data-center campus in Secaucus, New Jersey. Pretty impressive, considering that fewer than 40 engineers and technicians run the entire 30-megawatt facility.
+
+While no one would describe data centers as glamorous or sexy, they do happen to be one of the hottest sectors in tech.
+
+Located just seven miles outside of Manhattan, NY5 is, for a data-center location, the equivalent of beachfront property. It checks all the boxes—densely populated area, access to power and water, proximity to major international corporations, and more. It’s what’s known as a “co-location” facility, meaning clients rent out server space from Equinix. Think of these facilities as apartment complexes. They’ve dominated the current boom in data centers. “Lots of new companies have come into the industry trying to grab market share,” says Korn Ferry’s Walton.
+
+Many of those new companies are backed by private-equity firms, which is changing the investment calculus around data centers. Here, too, there are ominous parallels to the housing-market collapse, because many existing and new data-center builds are being financed with debt. At least two new constructions are being paid for with more than $2 billion in loans, for instance. To be sure, as costs have skyrocketed, more data centers are being funded through partnerships and joint ventures, often between international firms, including private and public companies, PE firms, sovereign-wealth funds, and data-center operators. While that helps spread costs and capital around, it also introduces more investors into the equation. “The returns aren’t there yet, but firms are afraid they could get crucially behind if they don’t invest heavily now,” says Christopher Kimm, a senior vice president at Equinix and chair of industry trade group the Data Center Coalition.
+
+Experts worry that this kind of thinking could lead to trouble. No one believes demand for computing power will fall off a cliff the way it did for housing, of course, but when relying on credit and debt, any miscalculation runs the risk of default and loss of control. And defaults don’t have to be financial, per se—for instance, client contracts often include penalties if power goes down. “Some step-in rights include kicking out the developer and taking over running of the facility,” says Bill Stein, executive managing director and chief investment officer at data-center investment firm Primary Digital Infrastructure.
+
+Spending on data centers will reach $1.8 trillion by 2030.
+
+Earlier this year, the entire sector went berserk over Chinese AI startup DeepSeek, whose low-power, low-cost model—it cost less than $6 million to develop—threatens the assumptions underlying the sector’s entire financial premise. If DeepSeek can operate a large-language model on a fraction of the power other models require, what does that mean for firms that have already pre-leased space for servers they won’t end up needing? Or for data-center operators who have cut huge checks to utility firms to secure energy commitments? Moreover, while co-location has been a financial boon to data-center operators, history provides a cautionary tale. During the first dot-com wave, some operators of co-location facilities bet heavily on an explosion in internet traffic. When their customers went out of business and couldn’t pay their rent, these operators either filed for bankruptcy or narrowly avoided it. “As those companies crashed, it trickled down to data-center operators,” says Stein.
+
+And yet, the building goes on and on. And it’s not hard to see why. Many experts and data giants like Equinix have mitigated investors’ fears somewhat by theorizing that the Chinese AI program will actually expand the overall need for AI. They also note that data centers may end up mirroring other large-scale digital innovations, like cloud computing or even the early internet, with a heavy investment cycle at the beginning that tapers down as the technology is adopted and scaled. In fact, most analyst reports suggest that despite record construction activity, the supply of data centers will struggle to keep pace with demand for the foreseeable future. Or, as Equinix’s Kimm puts it, “Firms aren’t focused on costs right now because the sky is the limit in terms of returns.”
+
+For his part, Zhichao Cao, a professor who leads the Intelligent Data Infrastructure Lab at Arizona State University, believes that the momentum for building is already there. “It’s a defensive move,” he says. “You are the trade-off between missing opportunity and overinvesting.”
+
+Image credits: Pengcheng Zhu/Getty Images; Modern Architecture HDR, Vjorn, ekazansk/Getty Images; John C Magee, Onfokus/Getty Images
+
+Related Articles
+
+View All Briefings Issue 69 Articles
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Briefings Magazine
+
+May 30, 2025
+Insight Articles
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

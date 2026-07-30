@@ -1,0 +1,157 @@
+Who's at the Wheel?
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Who's at the Wheel?
+
+The Autonomous Vehicle and Its Impact on Leadership
+
+By
+
+Lisa J. Caswell and
+
+Christie Coplen
+
+April 2017
+
+| 12 min read
+
+Authors
+
+Lisa J. Caswell
+
+Silicon Valley
+
+Christie Coplen
+
+Detroit
+
+The driverless car was once heralded as an innovation even too futuristic for The Jetsons. Sure, George Jetson drove a flying car, but it still had a steering wheel and he was clearly at the helm. A different future has arrived, and the days of an actual human getting behind the wheel and piloting a car may soon be as distant a memory as rabbit-ear TV antennae.
+
+Supplanting human-driven vehicles will be autonomous vehicles that drive themselves, and they’re becoming more prevalent by the day. So the issue isn’t if autonomous cars will arrive — the greater issue is to what extent they’ll change the automotive industry, and indeed, what effect they’ll have on the global economy of mobility.
+
+In order to remain relevant, traditional and emerging automotive-focused companies must develop a new approach regarding software, cybersecurity and the integration of the Internet of Things, just to name a few areas. The difficulty, then, is finding the leadership that can align these areas with a wide global view of rapidly advancing and changing technologies — as well as address the culture issues that come with such a dramatic paradigm shift. To put it succinctly, finding these leaders will be key to revenue growth and success in the market. New leaders must be able to lead a vast degree of change and have the appropriate automotive experience, while also possessing the innovative vision and digital experience to oversee such a transformation.
+
+To analyze the leadership needs within this new industry, we discussed the role of leadership and culture as the autonomous car and the resulting mobility-based business model becomes more prevalent. We spoke with leaders from several commercial vehicle suppliers and automotive companies, including American Axle & Manufacturing, Bosch, Ford, Meritor, and Siemens, as well as new disrupters like eDriving, Samsung and Velodyne Lidar.
+
+Bringing together a wide array of technologies necessitates creating a culture that can adapt to widely divergent ways of thinking, from the linear mindset of engineering to the broader thinking of innovation. How organizations reconcile these differences will alter their makeup as dramatically as autonomous cars will transform the roadways. Given this paradigm shift, integrating these new mobility-focused leaders will be key to each company’s success. The question then becomes: how do the new leaders break corporate glass without breaking the backbone of the automotive companies’ culture that’s focused around process and safety?
+
+The effects of manufacturing the autonomous vehicle
+
+To create the autonomous vehicle and capture the new revenue models associated with this change, companies within the ecosystem have been forced to look at new ways to approach innovation and product development. The move to driverless cars has implications for every system within a car — everything from navigation systems to brakes to steering wheels will be affected, in addition to vehicle-to-vehicle and vehicle-to-infrastructure communication. Companies also have to be nimble enough to adjust their products and innovate on a much shorter, consumer electronic timetable — all while maintaining the safety and quality measure expected in automotive.
+
+“The brakes that we’ve had in the past aren’t going to be the brakes of the future,” says T.J. Reed, general manager of Meritor. “We will simply have to reimagine ourselves. We currently have a market leadership position, but we really need to reinvent ourselves to keep that going. It’s been a nice run, but we really need to be thinking about what’s the next problem to be solved in order to stay in the game. We’re well on that path now, but it’s a constant challenge.”
+
+In the process of developing the vehicle, the key areas under drastic redesign that will improve and change consumer experience are:
+
+Then there are the dramatic cultural and business-model shifts autonomous cars will bring about: some believe consumers will largely stop buying their own cars, instead only using them on an hourly or as-needed basis. Urban landscapes could be dramatically altered if the need for parking decreases. Not to mention that the revenue model for an automotive company could be less about unit of sales, but more balanced with hours of usage. As a result, these companies will have to capture a far different consumer mindset. Leadership will need to be far-sighted enough to see the effects of this trend — not only within a company, but also on the greater culture and ecosystem.
+
+The brakes that we’ve had in the past aren’t going to be the brakes of the future. We will simply have to reimagine ourselves.
+
+T.J. Reed
+
+General manager of Meritor
+
+Indeed, leaders in this space need to possess a broad vision that goes well beyond current needs. “They need to be provocative as a futurist,” says Steve Hoover, CTO of Xerox. “They need not to wait for the future to be clear, but to invent the future before others can see it.”
+
+Finding the right leader
+
+As this chart illustrates, there are certain accepted paths that automotive executives have typically taken – but those will likely change within the new world of autonomous cars.
+
+For starters, leading the charge in the autonomous car realm requires a breadth of knowledge and leadership capabilities. Education is crucial: 59 percent of leaders in the automotive field hold a PhD, according to Spencer Stuart research. In addition to possessing expertise across the manufacturing and engineering spectrum, a leader in the autonomous division needs to be a strong leader who can drive transformation and strategic change.
+
+"We’re looking for leaders with proven records of experience on many levels: a leader of the business with strong results orientation and entrepreneurial spirit; a leader who can inspire both innovation and creativity in others; and a leader with a growth mindset to thrive in a rapidly evolving and dynamic market,” says Charlie Ackerman, senior vice-president of human relations at Bosch. “That may seem like a lot, but those are the competencies we need and look to find. It’s hard to find all these in one candidate, but we know it when we see it."
+
+Spanning this new field’s organizational culture chasm requires hard-nosed leadership, says Mike Jellen, president of Velodyne LiDAR: “Silicon Valley needs to start with Green Beret types who know how to build something from nothing. But they also need to be thoughtful about the process, which is the way, and keep an eye on the prize, which is results.”
+
+Beyond inspirational types, though, companies in the autonomous car space will need to find leaders whose knowledge is both tactical and strategic. Leaders will need to look at a host of disparate systems and see the gestalt — the forest and the trees. The knowledge base is continually expanding, so a capable leader will need to have expertise in a wide array of subjects. A recent article told of an ophthalmologist by-training who is now working on lenses for autonomous cars.
+
+“I first got my mechanical degree, then I got a master’s degree in mechanical engineering. Two years after that, I thought, ‘Boy, I wish I had an electrical engineering degree,’” recalls Dave Lauzun, vice president of automotive and transportation strategy at Siemens. “A few years later, I thought, ‘Boy, I wish I had a computer science degree.’ Today, you’ve got to know all of those disciplines. You’ve really got to be a total multi-domain leader and multi-domain engineer because you’ve got to deal with the mechanical, electrical and software systems in any product. The world’s definitely changed.”
+
+Beyond having a varied cross-discipline background, the ideal leadership needs to have an ability to lead and motivate across geographical borders.
+
+Skills needed for autonomous vehicle leadership
+
+The ability to lead across borders and build “something from nothing”
+
+Tactical and strategic knowledge
+
+A smooth cultural fit
+
+A non-linear mindset and the willingness to push a certain level of discomfort
+
+A deep knowledge — and love — of cars
+
+“We look for executives who are used to having their team spread across the globe and have experience in research and development, as well as sales,” says Kirk Gutmann, senior vice president of industry strategy at Siemens. “They’ve got to be comfortable running a widely spread organization, and they have to have that experience with diversity and an understanding that the challenge is pulling some of those people together. Essentially, they have to be able to have dinner with that group and motivate them. They have to be able to create enough of a vision so that the team understands what they’re trying to do.”
+
+Clearly, finding someone with such a wide degree of expertise is daunting. Some refer to it as searching for a unicorn — something that simply doesn’t exist. Checking all of the right boxes is key, but a culture fit is crucial. Culture misalignment is a key factor in 68 percent of new hire failures, according to Spencer Stuart data.
+
+To remedy this, some companies are searching for talent at an increasingly young age, where the mindset can be crafted, to a certain extent. Businesses are starting with college-aged students then going younger — sometimes all the way down to the grade-school level.
+
+“We’re sponsoring activities and competitions where students work on egg drop challenges, build with Legos or are involved with robotics,” says Lauzun from Siemens. “It really provides an opportunity for us not only to develop talent for Siemens but also for our customers, and helps train the next generation in digitalization.”
+
+Other companies are seeking college graduates with a wider degree of specialization, such as students who majored in robotics, embedded systems and telematics rather than engineering. The reasoning is that the expansive, non-linear mindset would lend itself to solving the complex challenges presented by the autonomous car.
+
+We should note that not all automotive leaders are sold on the idea that autonomous cars are going to be omnipresent very soon. For starters, technological, infrastructural and regulatory headwinds are likely to impede ubiquitous adoption, says Celia Stokes, CEO of eDriving. “Autonomous cars are coming, and I think they’ll make the roads infinitely safer,” she says. “But the transition in between, likely to last decades, will be very messy for the human driver in the equation who is already struggling with increasing distractions and overconfidence behind the wheel, and who will be called on in moments of urgency to take over the wheel. They will have less practice and will be dealing with a confusing mix of perfect autonomous cars, semi-autonomous cars with part-time distracted drivers and regularly distracted drivers in cars with little or no autonomous features. It is highly likely that performance of human drivers will only get worse than it already is in the meantime.”
+
+Yet even though Stokes is less bullish on the speed of ubiquity for autonomous cars, she still recognizes the importance of innovative leadership within this realm. Indeed, her company’s mission is focused on combining vehicle telematics with behavioral modification to address the 94 percent of collisions currently caused by bad driving. Disrupting the driver mindset through use of mobile and embedded telematics, cognitive science, and insurance incentives requires a unique combination of brain science, big data analytics, risk engineering, and gamification — and leaders who can effectively mix these mindsets. “When I’m looking for new leaders, I’m looking for people who can direct true innovation that harnesses athletic but diverse mindsets into transformational products,” Stokes says. “We’re getting people from telematics, from insurance risk engineering, from digital marketplace companies and from e-learning. We’re also combining talent from Silicon Valley with teams in other parts of the country and world. It’s a vivid assortment of aptitudes and personalities literally working around the clock through various time zones. It takes a lot of focus on clear communication, prioritization and appropriate stretch to keep these agile minds engaged and in synch. Leaders have to have deep domain expertise and a nuanced feel for effective leadership across domains in which they are less experienced. It is a hard talent set to find.”
+
+Samsung acknowledges it takes more than one leader to fully oversee the transformation to autonomous vehicles or new mobility business models. Companies are splitting the difference and hiring a left-brain leader to focus on traditional automotive functions such as foundation brakes or chassis systems, and a right-brain leader to help spur innovation and blue-sky thinking. Rather than fully integrate these groups, they are siloed to enable each group to thrive by maintaining the culture of the sub group, be it safety and order-driven or learning and purpose-driven. This allows the more innovative leader to break the glass with others who are flexible and adaptive to change, while the more traditional automotive leader can help provide an industry context, processes and tools that are relevant and critical and comfortable to the more traditional domains.
+
+Other companies, such as Ford, are combining more traditional automotive team members with those from technology and working to integrate the teams. “We’re looking for people who are good at consumer business models, who can design the user interface and who knows how to engage with customers and can concept new ways to introduce services,” says Raj Rao, CEO of Ford’s Smart Mobility program. “We look for those with e-commerce, telecommunication and Internet of Things design thinking, and we pair them with people who know automotive.”
+
+A brash mindset is crucial as well — leaders within this new field must be willing to launch innovative initiatives and push their company into a certain level of discomfort. “We’re looking for someone who has a strong creative streak and can bring a startup feel while leveraging global technologies,” says John Absmeier, vice president of smart machines at Samsung. “Someone who can drive a start-up on steroids, basically. We need grit, creativity, attitude and performance.”
+
+Which raises another point: the automotive industry is a singular enterprise — it’s not manufacturing dishwashers or satellite dishes or widgets. Cars have a deep history that’s inexplicably tied to the psyche of many countries, and creating a car that drives itself is a huge paradigm leap.
+
+“To put it simply, we need someone who loves cars,” says Phil Guys, vice president of global product engineering and chief technology officer at AAM. “We want people who get the connection between America and cars. And it can’t just be theoretical — we want people who are used to manufacturing a hard product, not just working with software. We’ve been looking to the Midwest and in California at places like UCLA for candidates, just because they seem to produce the right mix.”
+
+Creating the right culture
+
+The disruptive environment of the autonomous car and the mobility business model clearly requires a wide spectrum of perspectives and talent to become a reality. These mindsets aren’t necessarily harmonious — a company must be both methodically process-driven and disruptive and innovative. Reconciling these diverse approaches within one business culture is an onerous task, and it’s critical to find leaders who can direct this transformation.
+
+Spencer Stuart has identified eight primary and universal styles that can be used to diagnose highly complex and diverse behavioral patterns in a culture. As seen in this organizational culture model illustration, traditional OEMs and auto manufacturers tend to belong in the lower-right quadrant. These areas require regimented, strict and — for lack of a better word — automotive culture, valuing high order, safety and process engineering. On the other hand, in the top left quadrant, you find the software-centric, innovative culture of Silicon Valley that tend to value high learning, enjoyment and innovation. The challenge is to keep these cultures and help them flourish while also incorporating some of each into the other.
+
+Companies recognize that the disruptive thinking can be crucial for success in some functions — but not all. In some areas, status quo culture is perfectly acceptable. Culture change will happen, but it doesn’t have to be overnight — and it doesn’t have to be throughout the entire organization.
+
+"We’re transforming our organization by encouraging and enabling regional business unit autonomy,” says Charlie Ackerman. “Rather than forcing culture change of the entire organization all at once, we’ve installed a cultural change framework that encourages direction and enables the BU leaders to adopt the change components that make best sense for their business and market maturity.  We’re finding this approach to be very effective and the leaders feel ownership of the transformation that leads to business results."
+
+Boards are obviously an important element here, as well. A successful board in the automotive realm will help the company maintain its current brand while helping the company stay open to advancement. “We have a great board that challenges management,” says Matt Simoncini, CEO at Lear. “They challenge us in a way we need to be challenged, they play devil’s advocate. I think having that objective, fresh set of eyes from people who have been there, or who are from outside the industry, has been the right combination. Our board is diverse in experience, background, industry and gender, and that combo works. They’ve been progressive and independent.”
+
+To succeed in a transition to autonomous driving, organizational cultures will likely need to evolve from logical and systematic to order-driving innovative/learning and enjoyment-driven — or at least find a way to combine these divergent cultural and stylistic mindsets. A crucial first step in evolving organizational culture is to understand the current culture, then it is possible to define a target culture and the mindsets, behaviors and capabilities that will be needed for the future. If the organization needs to move to a more agile, innovation-focused culture, then training, development programs, the way meetings are run and how executives communicate all may need to evolve to signal to emerging leaders how to be successful in the future culture.
+
+Ultimately, many automotive companies may conclude that they need to preserve the pockets of stable, process-driven manufacturing culture even as they encourage other parts of the organization to become more flexible and innovative. In this environment, organizations will need leaders able to bridge the cultural divide. Developing an awareness of this chasm is a good place to start — then, change can slowly occur.
+
+Other companies eschew a siloed approach and instead pair a disruptive leader with a known leader. This allows the disruption and creative thinking but, with the pairing of divergent styles, the glass can be broken in a more controlled manner. “A lot of the big-idea folks are from the West Coast,” says Reed. “But they don’t know the manufacturing ins-and-outs like we do. They look to us and say, ‘Hey, you guys know the industry. You know the customers.’ So we have a good opportunity to pull those talents and resources together. Where we fit in the equation is, we understand our customers and our components. But it’s nice to have that big idea from time to time. They say, ‘What if you took it and did this and took it in a completely new direction?’ Many times, we’re not thinking that way. That’s the balance.”
+
+In order for culture to become a true advantage, it must be first understood and modeled in its current state. By assessing and then purposefully managing culture, an organization will find it easier to accomplish its objective, meet the needs of stakeholders and adapt to changing business conditions.
+
+Conclusion
+
+The autonomous car promises to be a game-changing development — one that will lead to dramatic cultural change within organizations and in the greater society. That same change will be felt in traditional automotive companies and suppliers, and they will need to radically transform their operations. Additionally, we are seeing a wider acceptance of traditional talent in the startup and high-tech companies entering the world of mobility and autonomous driving. Companies are recognizing the need to have talent that understands heavy manufacturing, has a passion for automotive and can bring processes that drive different outcomes. Finding a leader to manage this transformation is a difficult step, indeed.
+
+That said, companies realize that the terrain is shifting and are developing leaders who can see the big picture. The perfect leader may not exist, but neither did the autonomous car a few short years ago. As the technology develops, leadership will also evolve to encompass this new paradigm shift.
+
+More than any other single factor, organization culture holds the power to drive sustained business performance. At its best, culture unifies people and creates shared attitudes and behaviors that lead to the success of an organization. Left unattended, though, culture can become a limiting force and undermine the goals of the organization. Over the lifetime of an organization, the essential role that culture plays is enabling people and systems to respond to the key opportunities and threats. How the automotive industry responds within this new realm makes all the difference.
+
+Note: An abridged version of this article was also published in McKinsey & Company's quarterly magazine, Voices on Infrastructure. Click here to view the article.
+
+Learn more about our Automotive & Mobility Practice.
+
+Download
+
+Download
+
+Authors
+
+Lisa J. Caswell
+
+Silicon Valley
+
+Christie Coplen
+
+Detroit

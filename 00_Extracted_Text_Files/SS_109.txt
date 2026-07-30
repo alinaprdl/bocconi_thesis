@@ -1,0 +1,159 @@
+‘The biggest challenge is around talent, particularly skills and diversity’
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+‘The biggest challenge is around talent, particularly skills and diversity’
+
+A conversation with Russ Shaw CBE,founder of Tech London Advocates andGlobal Tech Advocates
+
+A conversation with Russ Shaw CBE, founder of Tech London Advocates and Global Tech Advocates
+
+By
+
+Veena Marr
+
+March 2025
+
+| 6 min read
+
+Author
+
+Veena Marr
+
+London
+
+As the founder of Tech London Advocates and Global Tech Advocates, Russ Shaw is a champion for London as a global tech hub and a vocal campaigner  on some of the biggest challenges facing tech companies in the UK — diversity, digital skills, immigration, infrastructure and access to funding.
+
+In 2015, Russ created Global Tech Advocates, which now licenses the Tech London Advocates operating model around the world, including Scandinavia, Belfast, Singapore, Shanghai, Spain and Bogotá. Russ previously chaired The Marketing Group of Great Britain, a role that followed senior positions at Skype, Telefónica and O2.
+
+He recently sat down with Veena Marr to discuss the key challenges facing technology leaders in the UK and beyond, and how to strengthen the tech ecosystem in an age of disruption.
+
+What are Tech London Advocates and Global Tech Advocates?
+
+These groups are open, inclusive, diverse communities of tech leaders all coming together as volunteers to support the start-ups and scale-ups in the various tech hubs where we have the groups operating. We currently have 42 groups covering more than 60 countries and there is much for us to do.
+
+Total funding for UK tech in 2023 was £18.4 billion, down from £31 billion the year before. So it gives you a sense of how it has slowed. We've seen a slowdown in the IPO market in terms of UK companies. We saw ARM list on the Nasdaq. We wanted them to list here but they listed for $50 billion. So when people ask me, ‘when is the UK or Europe going to create the next Google?’, I always say ‘we did create it!’
+
+Can you give us an overview of the current tech ecosystem?
+
+Obviously the focus is on AI and generative AI, that is the biggest thing.
+
+Our prime minister, Keir Starmer, introduced a UK AI Action plan in January, which I thought was a really good move.
+
+You've also got the EU AI Act which has really taken a much stricter approach to rules and regulations on AI. The US is going in another direction completely. The UK has an opportunity to have a third way on regulatory matters for AI but we’re still waiting to see where the UK is going to fall.
+
+Quote
+
+Of Ireland’s total electricity consumption last year, 18% was from households and 21% was from data centres. And you know that the data centre number is just going to increase significantly.”
+
+The big announcements recently in the AI space are coupled with an increasing focus on computing power. China invests more in quantum than all other nations combined. The US, EU, India and Japan are also all making big investments in chips and computing power.
+
+And then alongside of that I think we're going to see much more about the significant growth in the energy costs to drive all of this data. One interesting statistic from Ireland which came out last year was that of the country’s total electricity consumption, 18% was from households and 21% was from data centres. And you know that the data centre number is just going to increase significantly.
+
+How is the UK tech industry impacting the broader market and economy?
+
+There’s no doubt it's becoming a bigger and bigger slice. Looking at UK tech investment, 82% goes into London and the south east but Manchester is the fastest growing tech hub in all of Europe and the government clearly wants to make sure that tech is happening everywhere.
+
+The UK tech ecosystem is valued at $1.2 trillion, the third biggest in the world behind the US and China but India, currently fourth, will surpass the UK. My prediction is that in the next 10 to 15 years they'll probably have the largest tech ecosystem in the world. But the UK is a much smaller nation, a country of 65 million people, and it is really punching above its weight.
+
+The biggest investment has been AI over the past year. But fintech is holding strong, and climate tech has really moved up. But you've got good investment in cyber, in health and education all coming at pace. Part of the UK tech story is that it's not just one — it’s multiple areas that are really driving that agenda.
+
+What are your observations across Europe?
+
+There is a lot of activity in AI hubs across Europe, which is pretty exciting. We're watching Mistral as a great French AI company. Can they really keep moving forward and be a genuine competitor to OpenAI? I think they're one to watch. I'm also really fascinated by Scandinavia, a really vibrant region which is also good at creating strong start-ups and scale-ups.
+
+But many nations and the EU as a whole are all starting to embrace this notion of tech sovereignty — something that I think has been expedited by the Trump Administration.
+One of the things that I think will be interesting to watch is what's being called EU Inc. It's a petition to standardise investment processes, establish unified employee stock options, simplify cross-border operations and digitalise the incorporation process across the European Union.
+
+Many venture capitalists have signed up in support and Ursula von der Leyen has also said that she is firmly behind it. I think this will be a game changer to really make sure that the EU is one true region where start-ups can operate more seamlessly. If that can happen, that would be fantastic.
+
+What are the key challenges when it comes to developing and enhancing the tech ecosystem even further?
+
+Quote
+
+We and every nation needs to do a much better job of reskilling and upskilling the workforce. We need a workforce that is ready for this next generation, built around AI and generative AI.”
+
+I think the first biggest challenge is around talent, particularly skills and diversity. Tech is still dominated by straight, white men. There are a lot of initiatives underway to change that and that’s why I'm picking up lots of people being disappointed about the changes coming out of the US on DEI.
+
+We and every nation needs to do a much better job of reskilling and upskilling the workforce. And I've said directly to UK government ministers that is your collective gift to give. It doesn't cost a huge amount, and frankly, the private sector can fund a lot of that training. But we need a workforce that is ready for this next generation, built around AI and generative AI.
+
+And then the other piece of this equation is around scaling capital. The UK is number three in terms of start-ups created but only eight or nine in terms of scaling businesses. So the capital required to scale businesses is really critical. This is probably one of the biggest issues in the UK.
+
+What can be done to make the UK more attractive to international tech talent?
+
+There are a lot of Americans wanting to leave the US so how do we make it easier for them to come here? How do we make sure that we've got the right visa and immigration system? That's one of the things that we certainly push very hard on.
+
+There is no doubt that the tax regime is a minefield and when you look at things like employee stock options, the stock options are far more preferential when you're in the US than when you're in an EU market. So if you're looking for the incentives about how to encourage people to come here those are the things that are going to need to be addressed.
+
+How will businesses be likely to cope with the ongoing disruption, particularly around their supply chains?
+
+When I hear about the disruption, how things are going to be changing, it also says to me there could be opportunities for new companies to emerge and step up.
+
+Quote
+
+If China invades Taiwan, which produces 80% of chips, we've got a big problem. This means that the UK now needs to be chip independent — which would be a huge shift and will be very expensive.”
+
+For example, I know that there are start-ups looking at the power consumption that data centres are creating and the energy consumption. And I'm sure people are trying to figure out how we reduce that power consumption, not just with the chips that are being built, but other more practical, tangible ways.
+
+But at the same time, if China invades Taiwan, which produces 80% of these chips, we've got a big problem. This means that the UK now needs to be chip independent — which would be a huge shift and will be very expensive.
+
+So when I look at the disruption, I know it's going to be more costly for all of us in certain areas, but if we're smart there will be economic value that we can unlock and hopefully capture as part of those disruptive changes. Disruption usually leads to something better and more economically valuable.
+
+It was International Women’s Day earlier this month. Are there any bright sparks from a diversity perspective?
+
+In terms of the overall numbers, and at least from a UK perspective, they haven't moved that much and I think that people who bang the drum on diversity and inclusion, as we have done here years, can become a bit disheartened by the lack of progress.
+
+But given some of the pullback on DEI, I've been pleasantly surprised at the range of leaders I've met who are outspoken advocates for diversity. That to me is a really positive thing.
+
+I think where we have moved the needle is a deeper understanding and appreciation, for why diversity and inclusion is so important. The business case has been proven time and time again: that diverse companies and diverse management boards produce better products and services and are more profitable.
+
+How can government support the tech ecosystem?
+
+This can differ from country to country but I think it's important that government set a clear vision of where they're going. We banged the drum two years ago as there was no semiconductor strategy and we got a strategy a few months later.
+
+So it's understanding where the government wants to go, putting the parameters in place, but then letting people get on and deal with it. And if there are gaps like semiconductor strategy or pension funds investing in start-ups, that's where we need to work with them to say, ‘look, there needs to be something done here as this can be a win for the nation’.
+
+How you think about the word ‘trust’ when it comes to technology?
+
+Trust is a really interesting one because we've touched on technology where it can be used for the greater good. But in the hands of wrong actors it can be a real challenge.
+
+Quote
+
+I think there's lots of examples where big tech has done great stuff but more recently, I worry that because they're such a significant part of the overall economic picture, that they're not behaving in a trustworthy way.”
+
+For me, trust in technology comes through the companies, large and small, who are delivering that technology. Personally, over the past five to 10 years my trust
+in the bigger tech players has diminished significantly. I think there's lots of examples where big tech has done great stuff but more recently, I worry that because they're such a significant part of the overall economic picture, that they're not behaving in a trustworthy way.
+
+This is part of the reason why I get so excited about start-ups and scale-ups. I get to meet some really young, fabulous leaders who are setting up companies to deal with net zero and sustainability. They've got passion, they've got vision, they've got belief, they’ve got a purpose.
+
+We can enhance trust by showing that many of these companies have a sense of purpose, and they're producing products and services that are beneficial to society as a whole. But I think we have a lot of work to do.
+
+Note: This interview has been edited for length and clarity.
+
+Author
+
+Veena Marr
+
+London
+
+Related Insights
+
+Navigating digital turbulence: a guide for leaders
+
+5 min read
+
+We consider what tech leaders can do to ensure their teams and organisations survive and thrive through an era of permanent change.
+
+How to keep driving digital value
+
+What are the key ingredients for a successful digital transformation? We have spoken with more than 20 leaders who have shared their experiences and perspectives.
+
+‘Winning in the future is all about people, powered by technology’
+
+7 min read
+
+Rahul Welde, former global executive vice president, digital transformation, at Unilever, sits down with  Veena Marr to discuss leadership challenges in an age of digital transformation.

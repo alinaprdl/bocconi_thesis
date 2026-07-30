@@ -1,0 +1,220 @@
+How the Chief Risk Officer Role Is Evolving in Asia | Heidrick & Struggles
+
+Identified Country:
+
+Financial services focus: How the chief risk officer role is evolving in Asia Pacific
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Legal, Risk & Compliance Financial services focus: How the chief risk officer role is evolving in Asia Pacific
+
+Interviews with four chief risk officers highlight the expanding areas of risk they must navigate today, how they are making use of new technologies, and new capabilities they and aspiring CROs need.
+January 09, 2025
+
+Craig Williams ,
+Jiat-Hui Wu
+
+Read the full article
+
+At a time when more is expected of companies than ever before, more is uncertain, and disruption can no longer be thought of as a singular, high-impact “black swan” event but rather as a continuum with peaks and extreme peaks, chief risk officers (CROs) are shifting their outlook so they can be ever ready for the next “big thing.” Richard Wise, Group CRO at Hong Kong Exchanges and Clearing (HKEX), explains: “Severe risk events that textbooks suggest will happen once every geological age actually occur more frequently than expected, and these events have forced the evolution of the CRO role.” Shivkumar Mahadevan, CRO of Corporate, Commercial & Institutional Banking (CCIB), Standard Chartered Bank (SCB), adds that “from a mindset perspective, don't assume that something cannot go wrong. That is a fundamental change for us, especially in the last four or five years, that we have started to be prepared for.”
+
+Nigel Williams, Group CRO at Commonwealth Bank, says this new operating paradigm has pushed CROs to think beyond financial risks alone. “The CRO position used to be about credit and market risk, but if you think about all the events that have occurred in recent years, they’re actually nonfinancial risks that may manifest as financial outcomes or financial risks,” he explains. Other CROs underscored the importance of this shift in focus from financial risk to enterprise risk.
+
+In this context, a more integrated and proactive approach to managing both financial and nonfinancial risk has become crucial. Interviews with four CROs across the region offer insights on how risk is expanding and how they are managing it effectively.
+
+Where CROs are facing the most change
+
+SCB’s Mahadevan describes the balance of risks this way: “If we take the proxy of the CCIB risk committee that I run, roughly 60–70% of the time is spent on operational resilience, operational risk, information and cybersecurity risk, climate risk, and sustainability. This is not to undermine management of the basic financial risks like credit risk and market risk.”
+
+Overall, our conversations highlighted three areas where risk is changing substantially.
+
+Geopolitical volatility
+
+The Asia Pacific region has experienced rapid economic growth coupled with complex geopolitical dynamics. These factors add new layers of complexity for CROs, says HKEX’s Wise. He explains that “precepts and principles that were thought to be constants in a 40- to 50-year trend of globalization are, in fact, variables. If you've lived your career like mine under these precepts, you have to be capable of dramatically altering your assumptions about what's constant and what's variable. It's very broad, including the rule of law, geopolitical affiliations, and national security policy.” For instance, he adds: “Hong Kong, as a nexus of international finance, faces unique vulnerabilities, particularly in the context of potential US sanctions on Chinese entities.”
+
+Kian Tiong Soh, CRO at DBS Bank, emphasizes the need for sensitivity to global interconnections, where changes in one region can trigger cascading effects across portfolios, noting, “CROs now have to face a multipolarized world. So, the way that you are going to have to look at risk is really going to be quite different from how people looked at it in probably the last two decades. You have to be more sensitive to how one change will lead to another change or one measure to a countermeasure.”
+
+This new reality demands a more nuanced approach to risk management, particularly in scenario planning. “Antispatial scenario planning will become much more important,” Soh states.
+
+Climate change
+
+Sustainability considerations broadly are becoming central to risk management, particularly in the context of regulatory compliance and sustainability commitments. DBS Bank’s Soh notes, “They are going to continue to get a lot more attention, and the associated risks are going to become more and more stark.” Integrating these considerations into risk management frameworks includes assessing the impact of climate change, regulatory changes related to sustainability, and social factors affecting business operations.
+
+And among them, climate change rises to the top right now. For example, of the physical risks posed by climate change, Soh says, “Today a lot of attention is being paid to transition risk. But over time, the physical risk will become more and more important because the physical risk aspects have not hit us.” SCB’s Mahadevan notes, “I spend a lot of time understanding how the transition risks work, how the physical risks play out. And I'm really pushing my team to do that.”
+
+Regulation
+
+Regulators’ increasing scrutiny on risk management practices and compliance requirements, and new regulations in many markets addressing areas such as data protection, sustainability disclosures, and cybersecurity, require CROs to ensure far more of their firms’ operations are compliant than was traditionally the case.
+
+Post-2008, regulations including the Dodd-Frank Act and Basel III introduced stringent requirements for capital adequacy and risk management. “The convergence of private capital stewardship and regulatory oversight has enforced much more rigor in risk management,” HKEX’s Wise observes. Today, this is not easy to achieve in pr/pactice, because—as Wise points out—“regulatory compliance is increasingly complex, and CROs must navigate a maze of local and international regulations.”
+
+Commonwealth Bank’s Williams also notes that “understanding the intent of regulators is as important as what the black-letter law is. People’s and regulators' expectations of how banks should behave is as important as how they comply with the law. When a bank is outside those expectations, we’ve all seen events where it loses the confidence of the market traditionally—the financial market, but equally customers. The CRO’s role now is to understand those issues, and it’s not financial models that drive that. It's conduct. It's behavior.”
+
+A further challenge lies in balancing increasingly complex regulatory requirements with the need for increasing operational flexibility. Effective risk management now requires CROs to engage with regulators, understand emerging regulations, and implement robust compliance frameworks within their organizations, all while being careful not to stifle innovation and growth.
+
+The two faces of technology and data CROs see
+
+Advances in technologies such as artificial intelligence, machine learning, cloud computing, and data analytics are enabling CROs to manage and mitigate risks more effectively than ever before, just as they are driving fundamental change in every other corporate function.1 These tools provide unprecedented capabilities for identifying and analyzing potential risks, forecasting future scenarios, and automating routine risk management tasks.
+
+SCB’s Mahadevan envisions a future where risk management teams increasingly rely on AI and machine learning to streamline processes, predicting that “the risk function structure will become like a diamond shape. At the core, many of the basic activities will be automated, leading to a sharper, more focused team.”
+
+Of course, the rapid evolution of these technologies also introduces significant enterprise risks. DBS Bank’s Soh highlights the potential for AI-driven risks, such as deepfakes, and the challenges posed by large language models that can produce inaccurate or harmful outputs: “Generative AI is going to create huge changes in business models, the way people work, and the way people underwrite risk.”
+
+The transition to cloud-based solutions is another critical area of focus and risk. “The challenge today is that most banks and organizations are going to cloud-first and relying on software controls,” notes Commonwealth Bank’s Williams. As organizations move away from on-premises systems for storing, managing, and securing their data, CROs must develop a new awareness of software and data management, too. Mahadevan adds that “there’s the point around how geopolitics play out. For instance, we are not allowed to store our data in location X or Y. How are we creating our alternatives and backups?”
+
+Mahadevan stresses the importance of understanding data analytics and AI, something that until recently was seen as a functional skill for IT: “Do I need to know how to code? No. But do I need to understand how to use some of these applications? Absolutely.” This shift reflects a broader trend in risk management, in which CROs are expected to master complex technological landscapes while maintaining a deep understanding of traditional risk areas.
+
+HKEX’s Wise underscores the importance of CROs staying ahead of these developments: “Quantum computing, for example, could render current encryption techniques obsolete, posing a significant security risk. This is a 10- to 15-year horizon issue that should be top of mind for CROs today.”
+
+CROs for today and tomorrow
+
+The skills and capabilities current and future risk leaders will need are expanding as rapidly as the risks and technologies they must manage. DBS Bank’s Soh begins with the foundations, saying that “the CRO's main job is, broadly speaking, what I call risk sensing, meaning you are sensitive to the major risks that are going to be facing you not just now but also in the next 12–24 months. I think that element of it will not change. And the other element that will not change is the need to create a core base of people with all the relevant skill sets for managing the risk at any point in time.” Yet the pace of change will become faster and faster, he adds, and risk functions need to be able to evolve quickly.
+
+SCB’s Mahadevan describes the current situation, for example, as “if you do not understand the potential impact of climate risk, if you do not understand AI, if you do not understand how the technology is changing, your jobs will become redundant. That said, it’s not acceptable to undermine building the strong basic foundation around credit risk and market risk. You need to delve into both basic and emerging risk types.”
+
+Commonwealth Bank’s Williams believes that today “the number one skill set we need is the customer lens. Because if you think about it, regulation is trying to solve for customer outcomes. So we need to think back from the customer to all the activities we do—compliance, privacy, or the models we use. We're going to have to have people who actually understand the bank as a system, through software, models, conduct, and compliance. That's the change.”
+
+In terms of technology, HKEX’s Wise notes that “fifteen years on, the chief risk officer will need to be deeply knowledgeable about technology and its intersection with operational processes, while also maintaining a strong foundation in traditional financial risks.”
+
+In terms of risk teams, for Wise, the evolving CRO role requires a pluralistic approach to hiring and team composition. “You have to be employing individuals who have not traditional banking skills but orthogonal skills. The CRO of the future must be far more heterogeneous in their thinking and the types of people they hire,” he asserts. Williams believes that “the key characteristic to a great CRO is curiosity; we must remain curious.” He adds that “travel and different perspectives,” developed in part through participation in international organizations, are valuable ways to develop a network that can help CROs and aspiring risk leaders keep up to speed.
+
+To build new skills for the risk function, SCB’s Mahadevan seeks to “attract subject-matter experts, who may be relatively scarce to start with, but then use them to create a pool within the institution. You get two people from the street, and they train 20 people. A few might leave, but you’ll have a critical mass.” Williams adds, “One of the things I've tried to do at Commonwealth Bank was to ensure that we actually have rotations. Take people with some of those data skills and technology skills and rotate them through different businesses so that they build some breadth.”2 Over time, Soh adds, taking ESG as an example, “If we are going to look at ESG as something that's going to be so prominent, the key is that all our credit risk managers need to understand ESG risk so that it becomes business as usual in the future. Three years down the road, I hope I’ll be able to say that we don’t need ESG risk specialists."
+
+Conclusion
+
+These conversations with industry leaders suggest that the ability to adapt to emerging risks and understand them in context will define the next generation of CROs. Tomorrow’s CRO will need to be a versatile and forward-thinking strategist, capable of balancing traditional risk management with the demands of a digital, globalized world. Continuous learning, cross-disciplinary expertise, and a proactive approach to risk will all be crucial to success.
+
+Acknowledgments
+
+The authors wish to thank the following executives for sharing their insights: Shivkumar Mahadevan, CRO, Corporate, Commercial & Institutional Banking, Standard Chartered Bank; Kian Tiong Soh, CRO, DBS Bank; Nigel Williams, Group CRO, Commonwealth Bank; and Richard Wise, Group CRO, Hong Kong Exchanges and Clearing. Their views are personal and do not necessarily represent those of the companies they are affiliated with.
+
+About the authors
+
+Christoffer Black (cblack@heidrick.com) is a partner in the Tokyo office and a member of the Financial Services and Financial Officers practices.
+
+Craig Williams (cawilliams@heidrick.com) is regional managing partner of the Corporate Officers Practice and a member of the Financial Services Practice; he is based in the Sydney office.
+
+Jiat-Hui Wu (jhwu@heidrick.com) is partner-in-charge of the Singapore office and a member of the Financial Services Practice.
+
+References
+
+1For more on how other functional leaders are using AI, see “Heidrick & Struggles’ Insights on Artificial Intelligence,” Heidrick & Struggles.
+
+2 For more on building skills for future risk leaders, see Mark Jackson, “Financial services: Ensuring the next generation of risk leaders is ready,” Heidrick & Struggles.
+
+Related Services & Industries
+
+Leadership Development
+
+Legal, Risk & Compliance
+
+Related Content
+
+Corporate Affairs
+
+Balancing reputation and risk: The role of today’s corporate affairs director
+
+Reputation is now a measurable asset. Today’s corporate affairs directors must lead cross-functional, board-level strategy to turn trust and risk management into competitive advantage.
+
+Legal Officers
+
+Government and corporate affairs focus: Finding leaders who can effectively manage political and regulatory risk
+
+Navigating the constantly evolving global political and geopolitical landscape is a strategic necessity today. Our work with US and global companies suggests a comprehensive menu of options and some questions companies can use to navigate them, whether they are just starting out or already have a foundation to build on.
+
+Social Impact
+
+Building trust in AI systems and AI systems that deserve our trust: A conversation with Miriam Vogel, president and CEO of EqualAI
+
+Legal professionals face unique challenges in implementing AI while maintaining compliance and ethical standards.Miriam Vogel shares what it means to her to lead in an AI-enabled world and how she believes that legal leaders  must balance guardrails and innovation to remain competitive. This conversation explores how executives can build and use AI tools that earn and deserve trust in the legal sector.
+
+Legal Officers
+
+How legal leaders are using AI today
+
+Our second annual survey of legal professionals in the legal function shows that legal leaders are slightly more cautious about AI than their peers in other functions across the C-suite. The research examines how corporate legal departments are implementing AI technologies while maintaining regulatory compliance and business acumen. These findings provide critical insights for the legal industry and executive search professionals seeking qualified candidates with emerging technology expertise.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

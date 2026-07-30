@@ -1,0 +1,112 @@
+The Human+AI Equation: Escaping the Idea Trap
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Institute|March 31, 2026
+
+The Human+AI Equation: Escaping the Idea Trap
+
+Why abundant intelligence makes commitment the scarcest resource
+
+An executive team gathers to choose an AI pilot. The goal is simple: pick a direction and commit so execution can begin. An hour later, the meeting ends with attendees feeling energized, but no decision was made. Two months later, the team reconvenes, no closer to committing.
+
+This pattern, playing out in meetings around the world, is not a failure of intelligence or creativity. It is a predictable response to an abundance of possibilities.
+
+Research on choice overload shows that when people face multiple credible options, they hesitate to narrow their choices. Generative AI, with its ability to spin up dozens of new options in hours, accelerates and paralyzes decision-making. When well-structured alternatives can be created on demand, and continued exploration always feels justified, leaders don’t just need new ideas. They need the discipline to shut some down.
+
+Committing to a path forward has never been easy. GenAI is quickly exposing executive teams who struggle with it the most. As GenAI and other emerging technologies proliferate and morph into agents and additional capabilities not yet created, the number of potential areas to expand, innovate, and pilot will explode, not narrow.
+
+The idea trap is not a temporary condition, but the new operating environment in a world overtaken by GenAI.
+
+As Herbert Simon first observed in 1971, a wealth of information creates a poverty of attention. Today, the scarcest resource is not ideas; rather, the organizational discipline to concentrate attention and resources behind one idea.
+
+The 2025 Stanford AI Index reports that 78% of companies use AI in at least one business function, with total corporate AI investment reaching $252 billion in 2024. Experimentation has surged as organizations identify use cases and workflows for this accessible yet powerful general-purpose technology. This surge is rational—and increasingly risky.
+
+Human attention has limits. Deploying a team to execute something well has not been scaled by GenAI itself. If anything, it may be fragmenting teams’ ability to do so.
+
+In innovation-focused strategy discussions, preserving optionality is often equated with staying open. In execution-constrained systems—which most organizations are—this posture erodes focus. When resources are spread thin across parallel bets, no signal becomes strong enough to influence strategy.
+
+Innovation is often romanticized as insight, but its real value is learning. Advantage rarely goes to the organization that thought of the idea first, but to those who sustained effort long enough to convert possibility into something customers will buy. While GenAI enables more experiments, human attention is still required to design high-quality experiments, observe real-world responses, and act on next steps. When leaders defer commitment in favor of continued ideation, they delay the only feedback that truly matters—feedback from real end users.
+
+The organization becomes fluent in possibilities but slow to adapt.
+
+The teams most vulnerable to the idea trap are those who excel at generating novel ideas. Their creativity enables them to see merit in competing directions. Their experience gives them the pattern recognition to see why each path could work. Their intellectual sophistication makes them reluctant to oversimplify and is psychologically resistant to narrowing options under genuine uncertainty.
+
+Escaping the idea trap requires structural discipline, not stronger willpower.
+
+Being captivated by new ideas is not a deficiency to be eliminated. Instead, executive teams should adopt four design principles that create structure, build commitment, and prevent ideas from spiraling.
+
+Separate Exploration From Allocation
+
+Design distinct phases for ideation and decision-making. Exploration expands the set of options; allocation narrows it. Once criteria are defined and a commitment is made, resist reopening the decision space unless new evidence materially changes the case. Behavioral research on the sunk-cost fallacy shows how difficult it is to abandon losing bets people have invested in—but the inverse is equally dangerous. Organizations that never fully place a bet learn nothing at all.
+
+Make Initiatives Zero-Sum
+
+Every new direction pursued must displace an existing one. If nothing stops, then nothing has been strategically chosen. This operationalizes Richard Rumelt’s argument in Good Strategy Bad Strategy: bad strategy is the active avoidance of hard choices. Strategy without focus is not strategy.
+
+Tie Pilot Success to Learning Velocity
+
+The purpose of a pilot is not to signal innovation, but to generate fast, actionable feedback. Focused experiments accelerate learning; scattered efforts slow it down. The right question is not, “Is this idea new and exciting?” but “Will this teach us something we cannot learn any other way—and how quickly?”
+
+Reward Narrowing
+
+Organizations routinely celebrate idea generation, but few reward disciplined elimination. Make trade-off decisions visible and valued. Celebrate the leader who kills three pilots based on learning and fully resources a fourth. That leader creates far more value than one who runs all four at once, spreading learning so thin that it becomes obsolete. Human resources remain finite, even with large budgets, and focused learning creates compounding returns over time.
+
+Organizations are rushing to create, refine, and iterate on their AI strategies. It is worth repeating: having a strategy means choosing a path and moving forward.
+
+In environments where ideas are abundant and each one defensible, sacrifice becomes both psychologically harder and strategically more costly. The organizations that thrive will not generate the most possibilities—they will commit early to a few strategic bets and execute them well.
+
+The Human+AI Equation series explores why human judgment, attention, and commitment matter more—not less—in a GenAI‑enabled world. Read the other articles in the series: Turning Time Savings into Real Value and Letting Go of the Effort Illusion.
+
+Our Expert
+
+Our Experts
+
+Daisy Grewal
+Director, Analytics Innovation & Automation
+
+Meghan Lowery
+
+INSIGHTS TO YOUR INBOX
+
+Stay on top of the latest leadership news with This Week in Leadership—delivered weekly and straight to your inbox.
+
+​
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Institute
+
+AI in the Workplace

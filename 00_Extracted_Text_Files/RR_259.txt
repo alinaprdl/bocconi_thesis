@@ -1,0 +1,611 @@
+Embracing the Unknown: How Leaders Engage with Generative AI in the Face of Uncertainty | Russell Reynolds Associates
+
+Search
+
+Search
+
+Menu
+
+Menu Close
+
+Capabilities
+
+Expertise
+
+Insights
+
+About
+
+Contact Us
+
+en
+
+Login
+
+Back
+
+Search
+
+Succession
+
+Performance
+
+Accelerators
+
+Transformation
+
+Board
+
+Executive Search
+
+Our executive search consultants help you recruit great CEOs, CxOs, and board members in as little as 14 weeks.
+
+Back
+
+Industries
+
+Functions
+
+Organizations
+
+Board & CEO Advisory
+
+Is your board ready for what is next? We help boards and CEOs face the unprecedented challenges that shape our world—from disruptive technology to shifting demographics to pressure from investors and regulators.
+
+Back
+
+Leadership Topics and Trends
+
+Leadership Labs
+
+Flagship Research
+
+Data and Indices
+
+RRA Books
+
+Events and Webcasts
+
+Insights Library
+
+Global CEO Turnover Index
+
+We share the latest CEO turnover data across listed companies globally. Each quarter, you’ll find the proportion of CEO departures and appointments globally, as well as trends on CEO appointments by gender, tenure, and whether CEOs are internal or external hires.
+
+Back
+
+People
+
+Who We Are
+
+Careers
+
+Newsroom
+
+Consultant Directory
+
+Meet the people behind Russell Reynolds Associates, building proactive relationships around the world and around the corner.
+
+Back
+
+Get In Touch
+
+Advance Your Career
+
+Join the Conversation
+
+Find a Local Office
+
+Request for Consultation
+
+Complete the contact form and we will get back to you shortly. We look forward to connecting with you.
+
+Back
+
+Search Overview
+
+Board Search
+
+CEO Search
+
+Executive Search
+
+Back
+
+Succession Overview
+
+Board Succession
+
+CEO Succession
+
+C-suite Succession
+
+Back
+
+Performance Overview
+
+Assessment & Benchmarking
+
+Executive Development
+
+Executive Transition
+
+Team Performance
+
+Back
+
+Accelerators Overview
+
+Executive Mentoring
+
+RRA Artemis
+
+Back
+
+Transformation Overview
+
+AI and Tech
+
+Inclusion and Culture
+
+Strategy Decode and Activation
+
+Sustainability
+
+Back
+
+Board Overview
+
+Board Composition
+
+Board Effectiveness
+
+Back
+
+Industries Overview
+
+Business & Professional Services
+
+Consumer
+
+Education
+
+Financial Services
+
+Healthcare
+
+Industrial & Natural Resources
+
+Private Capital
+
+Technology
+
+Back
+
+Functions Overview
+
+Boards
+
+CEOs
+
+Corporate Affairs & Communications
+
+Customer Activation & Growth
+
+Finance
+
+Human Resources
+
+Legal, Risk & Compliance
+
+Operations & Supply Chain
+
+Sustainability
+
+Technology, Data & Digital
+
+Back
+
+Organizations Overview
+
+Family Enterprise
+
+Growth Tech
+
+Private Capital
+
+Social Impact
+
+Back
+
+Leadership Topics and Trends Overview
+
+AI and Leadership
+
+Board Leadership
+
+Family Enterprise Leadership
+
+Leadership Development
+
+Leadership Transformation
+
+Sustainable Leadership
+
+Technology & Innovation
+
+The Future of Leadership
+
+Your Leadership Journey
+
+Back
+
+Leadership Labs Overview
+
+Leadership Analytics: Predictors of CEO Success
+
+Unusual Suspects: New Leadership Archetypes
+
+AI Leadership, 100% Human
+
+Back
+
+Flagship Research Overview
+
+Divides and Dividends on Sustainability
+
+Leadership for a Decade of Action
+
+Global Corporate Governance Trends
+
+Transformational Leadership Study
+
+Back
+
+Data and Indices Overview
+
+Global Leadership Monitor
+
+Leadership Confidence Index
+
+Global CEO Turnover Index
+
+Global CFO Turnover Index
+
+Global CHRO Turnover Index
+
+Global COO Turnover Index
+
+Back
+
+RRA Books Overview
+
+Book: The Catalyst CEO
+
+Book: The New CEO
+
+Book: To the Top
+
+Book: Sustainable Leadership
+
+Back
+
+Events and Webcasts Overview
+
+Podcast: Redefiners
+
+Podcast: Leadership Lounge
+
+Events and Webinars
+
+Back
+
+Insights Library Overview
+
+Back
+
+People Overview
+
+Consultants
+
+Leadership
+
+Board of Directors
+
+Office Locations
+
+Back
+
+Who We Are Overview
+
+Sustainability
+
+Responsible AI
+
+Partnerships
+
+History
+
+Back
+
+Careers Overview
+
+Careers with our Clients
+
+Careers at RRA
+
+Back
+
+Newsroom Overview
+
+Back
+
+Get In Touch Overview
+
+Request Consultation
+
+Subscribe to Newsletter
+
+Access Events
+
+Submit Media Inquiry
+
+Back
+
+Advance Your Career Overview
+
+Start Career with our Clients
+
+Join RRA
+
+Back
+
+Join the Conversation Overview
+
+LinkedIn
+
+X (formerly Twitter)
+
+YouTube
+
+Spotify
+
+Apple Podcasts
+
+Back
+
+Find a Local Office Overview
+
+Americas
+
+EMEA
+
+Asia Pacific
+
+Language
+
+English
+
+中文(中国)
+
+日本語 (日本)
+
+Login
+
+Client Login
+
+Candidate Portal
+
+Login 4
+
+Login 5
+
+Login 6
+
+Login 7
+
+Login 8
+
+Login 9
+
+Login 10
+
+Embracing the Unknown: How Leaders Engage with Generative AI in the Face of Uncertainty
+
+Leadership StrategiesTechnology and InnovationTransformation and InnovationTechnology, Data, and Digital Officers
+
+Article
+
+January 22, 2024
+
+7 min
+
+Leadership StrategiesTechnology and InnovationTransformation and InnovationTechnology, Data, and Digital Officers
+
+Executive Summary
+
+With the speed at which the market is responding to GenAI, many leaders are making decisions about the tech without fully understanding it.
+
+Close
+
+Fawad Bajwa
+
+Toronto
+New York
+
+Tristan Jervis
+
+London
+
+Tuck Rickards
+
+San Francisco
+
+Feeling uncertain about generative AI? You aren’t alone.
+
+Generative AI refers to the subfield of artificial intelligence that is capable of generating text, images, or other media. This is done via foundational models, which generate output from one or more inputs (prompts) in the form of human language instructions. Models are based on complex neural networks including generative adversarial networks (GANs), transformers, and variational encoders.
+
+Since ChatGPT launched in late 2022, generative AI (GenAI) has been framed as a tool that will change everything, especially the way we work. While AI adoption has varied among organizations to date, GenAI has brought the barrier of adoption to an extraordinarily reachable place. Yet while 72% of leaders globally agree that “a strong understanding of generative AI will be a required skill for future C-suite members,” new Russell Reynolds data finds that only 32% leaders are confident in their own ability to implement AI in their organizations today.
+
+This gap puts tangible numbers to what we’ve heard from leaders globally in the market: while they know that GenAI is crucial to the future of their business, most leaders feel unprepared to deploy the technology or assess its long term impacts.
+
+What’s more, when we look at the ratio of leaders who have taken steps to implement GenAI to those who have not, we see similar percentages—71% of leaders report having taken at least one step towards bringing the tool into their function or team’s workflow, with 33% in the initial “investigated” phase, 12% in the “developed” phase, 20% in the “piloted” phase, and just 7% in the “implemented” phase. On the other hand, 29% of leaders have taken no action (Figure 1). These parallels suggest that leaders are letting personal comfort dictate their organization’s AI strategy.
+
+Figure 1: Leaders’ progress in their generative AI implementation journeys
+
+Source: Russell Reynolds Associates’ H2 2023 Global Leadership Monitor, n = 1,038 CEOs, C-level leaders, and next generation leaders.
+
+To better understand how leaders are responding to GenAI—and how that outlook will impact organizations long term—Russell Reynolds Associates surveyed over 2,500 leaders via our H2 2023 Global Leadership Monitor, determining how leaders view their own GenAI expertise, the ways they’re using these tools, and their confidence in their organization’s ability to embrace them.
+
+Most leaders have minimal knowledge of GenAI—but are taking steps to implement it anyway
+
+About half of leaders say they have “minimal knowledge” of GenAI, having experimented with the technology but possessing limited experience implementing it (Figure 2). This was the most frequently selected level of familiarity, with approximately one-third of leaders reporting limited to no knowledge of GenAI, and only 2% identifying as experts who have successfully implemented several GenAI solutions.
+
+Figure 2: Leaders’ familiarity and knowledge around generative AI
+
+% of leaders rating their familiarity and knowledge around generative AI
+
+Source: Russell Reynolds Associates’ H2 2023 Global Leadership Monitor, N = 1,321 CEO, C-level, next generation leaders, and board directors
+
+This is compounded by the fact that 55% of leaders name “knowledge and expertise” as a barrier to implementing these tools, making it the most selected concern (Figure 3).
+
+Figure 3: Top barriers for leaders implementing generative AI
+
+Source: Russell Reynolds Associates’ H2 2023 Global Leadership Monitor, N = 1,287 CEO, C-level, next generation leaders, and board directors
+
+The farther along an organization is in its GenAI implementation journey, the less likely its leaders are to name knowledge and expertise as a top barrier to implementation. In fact, 62% of leaders who have not implemented GenAI and 57% of those in the initial investigation phase name knowledge and expertise as a top barrier, while leaders in the developed, piloted, or fully implemented phases are more likely to point to data governance and quality as top challenges (Figure 4).
+
+Figure 4: Top 3 barriers to implementing GenAI, split by stage in implementation journey
+
+Source: Russell Reynolds Associates’ H2 2023 Global Leadership Monitor, N = 1,287 CEO, C-level, next generation leaders, and board directors
+
+As GenAI continues to evolve, all the barriers listed above merit serious consideration and scenario-planning as leaders develop and implement their generative AI strategy. Particular attention should be paid to the items that may feel less pressing now, but carry massive long-term risks if they do appear—including accuracy of outputs, ethics violations, bias perpetuation, and skill erosion.
+
+Leaders aren’t optimistic about their organization’s ability to engage with GenAI
+
+Despite the fact that most leaders have begun their GenAI implementation journeys, only 38% agree that their organizations have forward-thinking leadership who align resources to harness the power of the technology. Surprisingly, CEOs and next generation leaders are equally lacking in confidence, with only 36% of both groups feeling positive about their leadership’s capabilities (Figure 5).
+
+Leaders are even less likely to feel confident in their workforce’s AI expertise, with 32% of CEOs and 29% of C-level executives agreeing that their organization has employees with the right technical skills to implement GenAI solutions.
+
+Overall, leaders are most pessimistic regarding board members’ ability to embrace GenAI, with only 21% of CEOs agreeing that their board has the right expertise to advise on GenAI implementation.
+
+Figure 5: Leaders views on leadership, board members, and employees’ abilities to embrace generative AI
+
+Source: Russell Reynolds Associates’ H2 2023 Global Leadership Monitor, N = 1,297 CEO, C-level, next generation leaders, and board directors
+
+It’s worth noting that board members are most likely to feel positive about leaders’, employees’, and even their own abilities to embrace GenAI. This is consistent with our Leadership Confidence Index, which observes that board members tend to be more confident in their executive leadership teams’ abilities than leaders at other levels. The disconnect between board and executive perceptions may be due to board members taking a broader, long-term view, or because they’re removed from the day-to-day of business functions. In this case, it may also be due to a lack of familiarity with GenAI themselves. Regardless, it's crucial for board directors to be equally aware of GenAI’s implications and their organization’s preparedness to face them.
+
+Leaders are personally engaging with AI—to an extent
+
+Leaders are most likely to have engaged with a generative AI tool to 1) stay updated with current trends and developments, 2) gain familiarity with complex concepts more quickly, and 3) to solve a specific business challenge (Figure 6). On average, leaders selected 2.23 items from the list below, meaning they are experimenting with the technology in multiple ways.
+
+Approximately one out of five leaders say they have never used generative AI.
+
+Figure 6: How leaders are personally engaging with generative AI
+
+Source: Russell Reynolds Associates’ H2 2023 Global Leadership Monitor, N = 1,103 CEO, C-level, and next generation leaders
+
+I think the most important thing that leaders can appreciate is that, while AI has evolved to this moment in the hype cycle, it’s going to become central to how businesses operate. As a leader, the best thing you can do is better familiarize yourselves with the opportunities—as well as the limitations—that exist with the technology. To achieve this, leaders need a learning mindset and the ability to embrace ambiguity.”
+
+Joe Ghory
+Russell Reynolds Associates
+
+How to build confidence around a balanced AI strategy
+
+We’ve yet to uncover all the long term ways GenAI will alter and enhance how we work and lead. As with every tech leap, leaders need to thoughtfully engage with new tools and their associated skillsets before they can expect positive results. While a small fraction of leaders are using GenAI as often as they open their email, most are still determining how best to engage with these tools. And with the speed at which the market is responding to generative AI, many leaders are making decisions about the technology without fully understanding it.
+
+That’s nerve wracking. We know this pressure multiplies for leaders making decisions that impact employees, stakeholders, and the future of their organization. And when only 2% of leaders identify as GenAI experts, there simply isn’t enough expertise to go around (for now.)
+
+During times of accelerated technological advancement, we’ve seen organizations fail when they:
+
+Dive into implementation before fully understanding the technology’s implications for their business
+
+Develop a detailed, organization-wide roadmap that gets bogged down by stakeholders, leading to inaction
+
+Create tech and policy without defining clear use cases that align with the organization’s culture and its openness to innovation
+
+Instead, organizations that take measured steps to implement new technologies in strategic areas of the business that have a specific use for the tools—and the appetite to experiment with them—find the most success.
+
+To help leaders develop this type of balanced approach, we identified five key areas to help CEOs, boards, and senior technology leaders navigate its impact on their organizations, as well as questions they can use to gain familiarity and structure conversations around their implementation strategy.
+
+Authors
+
+Fawad Bajwa co-leads Russell Reynolds Associates’ AI, Analytics & Data Practice globally. He is based in Toronto and New York.
+
+Leah Christianson is a member of Russell Reynolds Associates’ Center for Leadership Insight. She is based in San Francisco.
+
+George Head leads Russell Reynolds Associates’ Technology Officers Knowledge team. He is based in London.
+
+Tristan Jervis leads Russell Reynolds Associates’ Technology practice. He is based in London.
+
+Tuck Rickards is a senior member and former leader of Russell Reynolds Associates’ Technology practice. He is based in San Francisco.
+
+The authors wish to thank the 2,500+ leaders from RRA’s global network who completed the 2023 Global Leadership Monitor Fall Pulse. Their responses to the survey have contributed greatly to our understanding of leadership in 2024 and beyond.
+
+Embracing the Unknown
+
+How Leaders Engage with Generative AI in the Face of Uncertainty
+
+Download here
+
+Technology and InnovationTransformation and InnovationLeadershipHealthcareTechnology, Data, and Digital OfficersAssessment and BenchmarkingDevelopment and TransitionExecutive Search
+
+Integrating the Digital Functions with the Business
+
+Technology and InnovationLeadership StrategiesLeadershipConsumerTechnology, Data, and Digital OfficersCulture AnalyticsExecutive Search
+
+Becoming a Best-in-Class Digital Operator
+
+We and our partners use cookies and other technologies on this site to collect data about your device and activities on this site for operating and protecting the site, enabling and optimizing site functionality, analyzing site usage, personalizing your experience, and targeting ads, as detailed in our Cookie Policy. Click “Accept All” to consent to all of this, “Reject Optional Cookies” to get only mandatory cookies, or “Preferences” for more options.
+
+Preferences
+Reject Optional Cookies
+Accept All
+
+×
+
+About Cookies
+
+Cookie List
+
+Web pages can store or retrieve info on your browser, including through cookies.  This info might be about you, your preferences, or your device, and it may contain identifiers that are unique to you or to your device. We and third parties collect that kind of info through cookies in each category below. You can turn most individual categories off by moving the toggle to the left and hitting “Save my choices” or turn them back on by moving it to the right and hitting that same button. You can revisit these choices later by clicking on “Cookie Preferences” in the footer of russellreynolds.com.  These choices apply only to russellreynolds.com.  These choices affect this browser only, and you will need to repeat this process if you use another browser, if you clear your cookies, or if you use a browser that automatically clears cookies.
+
+More information:
+
+Read Cookie Policy
+
+Accept All
+Reject Optional Cookies
+
+Mandatory
+Always Active
+
+These cookies are required and cannot be turned off.
+
+Cookie Details
+
+Functional
+
+These cookies mainly enable enhanced functionality and personalization. They let us provide a more personalized and convenient experience. Disabling or removing these cookies may make browsing pages less convenient or may prevent certain functionality from working correctly.
+
+Cookie Details
+
+Performance
+
+Performance cookies mainly allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors use and interact with them. If you do not allow these cookies, we may have fewer ways to know when you have visited a page and may be less be able to monitor their performance.
+
+Cookie Details
+
+Targeting
+
+These cookies may be used to target ads to you (such as by helping to build a profile of your interests to target ads).  If you do not allow these cookies, the advertising you experience may be more repetitive or less relevant to you.
+
+Cookie Details
+
+Unclassified
+
+We recommend leaving Unclassified cookies off.  The Unclassified category could contain Functional, Performance, or Targeting cookies that we have not yet moved into the Functional, Performance, or Targeting categories above.  If you turn on the Unclassified category, all Unclassified cookies will be activated, even if you deactivate the specific Functional, Performance, or Targeting category.
+
+Cookie Details
+
+Save my choices

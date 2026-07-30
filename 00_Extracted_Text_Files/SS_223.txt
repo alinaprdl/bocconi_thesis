@@ -1,0 +1,203 @@
+When an Executive Chair Helps or Hinders Company Performance
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+When an Executive Chair Helps or Hinders Company Performance
+
+Four ground rules for using the role effectively
+
+By
+
+Jason Baumgarten,
+
+Amitabh Sharma and
+
+Rowen Bainbridge
+
+December 2023
+
+| 6 min read
+
+Authors
+
+Jason Baumgarten
+
+Seattle
+
+Amitabh Sharma
+
+Dallas
+
+Rowen Bainbridge
+
+London
+
+SectionsIn this article
+
+Planning for the succession of a founder CEO or even a successful, long-serving CEO is a difficult topic for any board. It is also personally challenging for many CEOs.
+
+One succession approach is to name a new CEO and transition the former CEO into an executive chair (EC) role, ideally retaining their expertise and experience while the new CEO gets up to speed. Observing this trend, we decided to explore a fundamental question, “Does having the outgoing CEO transition to executive chair enhance business performance?”
+
+For context, 203 U.S.-based public companies with a market cap of at least $500 million have an executive chair today, a 56 percent increase since 2020 when 130 companies had an executive chair. Executive chairs in our study have been in their roles for a little less than two years on average, and most boards with an executive chair have an independent lead director. The majority of executive chairs, 57 percent, were CEO prior to becoming executive chair; 29 percent were a founder or co-founder of the company.
+
+When we examined the performance of these companies over the course of the executive chair’s tenure, we found that more than half — 54 percent — underperformed their peers, by an average of 14 percent.1 The remaining 46 percent overperformed by an average of 14 percent. Similar research on top listed companies with the executive chair model in Italy, Spain and Switzerland also showed mixed performance.
+
+Our research suggests there can be an upside to having an executive chair — when done right. To learn more, we spoke with executives who have been through this journey about how to manage a successful transition to executive chair and how to avoid the risks of having two prominent leaders at the helm. Here are four main ground rules to consider if contemplating this approach:
+
+The handover should be clear, visible and quick.
+
+Building trust is key to success.
+
+The executive chair and CEO need to be clear about the division of labor.
+
+The board should be built around the needs of the new CEO.
+
+1. There can only be one CEO, so the handover should be clear, visible and quick
+
+A recurring theme shared by those who got it right is that a successful transition requires the unwavering support of the outgoing CEO. If the CEO has second thoughts about transitioning out of the role, or even the smallest interest in retaining operating authority, alternative succession plans should be considered. Approaching the role with the right intention is crucial for success. This is not a shared CEO role.
+
+To build an effective CEO/EC relationship, it is imperative that the executive chair’s only interest is seeing his or her successor succeed. It cannot be about defending legacy or protecting the status quo. There can only be one CEO, and it must be clear to both the internal organization and outside shareholders who that is. The board and outgoing CEO will need to accept that the new CEO will do things differently, sometimes casting support behind different strategies or leaders. Many successful executive chairs share the belief that the board needs to be clear and resolute in their encouragement and backing of the new CEO, even when their style or ideas diverge from the past.
+
+The outgoing CEO should reinforce the transfer of decision-making power with visible cues to the organization, for example, giving the new CEO their office, reminding former direct reports to go to the new CEO, removing themselves from CEO distribution lists and limiting attendance in regular executive meetings. Successful executive chairs told us that these informal actions have a big impact on the organization’s view of and belief in the successor. The larger organization can more rapidly align behind the new CEO when they see the board and exec chair’s visible support of the successor.
+
+One recent exec chair further reinforced the need to make the handover quickly. A slow release of responsibility is likely to confuse the organization and hamper the success of the next CEO. Moving quickly does not just refer to the initial transition, but also when the executive chair transitions out of the role. Our research found that companies tend to have superior performance when executive chairs have shorter tenures (less than a year).
+
+1 Performance was measured using CAGR which discounts performance by the number of years and is not purely cumulative as opposed to TSR. We then compared average company CAGR values over the executive chair’s tenure to the average CAGR of their relative peer group. Peers were generated using S&P Capital IQ’s back-end algorithm that factors in (1) analyst coverage (2) financials/trade price requirement (3) company location (4) revenue and (5) industry coverage. Companies with executive chairs that are public, U.S. based, and have a market cap of +500M were included in the analysis.
+
+Download
+
+Download
+
+How prevalent are executive chairs among the largest public companies?
+
+When we expanded our analysis of the executive chair model to Europe, we found significant variance in its prevalence across countries.
+
+In Ireland, the Nordics and the UK, for example, governance codes strongly recommend the separation of chair and executive roles, and, in those countries, few if any companies have an executive chair. Under Germany’s two-tier board system, the supervisory board (Aufsichtsrat) and management board (Vorstand) are distinct legal entities. The CEO chairs the management board but cannot be a member of the supervisory board, so an executive chair in the terms described by this article is a governance impossibility. In Spain and Italy, where chair/CEOs are more common, so is the executive chair role.
+
+Executive chairs are more likely to be found in specific situations, including:
+
+At the helm of founder-led and family-controlled businesses
+
+When a specific board intervention is required, e.g., in a M&A situation or to enhance oversight where there may be an over-concentration of power
+
+To smooth the transition from a successful long-time CEO to an internal candidate
+
+To provide continuity following an external CEO appointment (especially in complex sectors)
+
+Proponents of the executive chair model see it as an effective approach for keeping the outgoing CEO close to the business in order to maintain high performance levels. An executive chair can provide stability and continuity during the early transition period to a new CEO. Ideally, the executive chair can provide much-needed strategic insight and hands-on onboarding support to the new CEO and management team and help align the board and management during the transition.
+
+Similar to our analysis of U.S. companies with an executive chair, however, we found mixed performance results among European companies with executive chairs. For example, in Spain, companies with executive chairs outperformed those led by chair/CEOs, but underperformed those with non-executive chairs. In Switzerland, the performance of companies with executive chairs and those with non-executive chairs was nearly identical — and higher than chair/CEOs on average.
+
+Executive chair prevalence in large listed companies
+
+Executive chair
+Chair/CEO
+Non-executive chair
+
+France
+0%
+31%
+79%
+
+Italy
+27%
+18%
+45%
+
+Spain
+26%
+25%
+49%
+
+Switzerland
+11%
+2%
+87%
+
+United Kingdom
+3%
+0%
+97%
+
+United States
+15%
+36%
+49%
+
+Source: Spencer Stuart Board Indexes: ¹France (SBF 120), Italy (top 100 listed companies, incl. FTSE MIB), Spain (Top 100 listed companies, incl. IBEX 25), Switzerland (SMI and SMI Mid), United Kingdom (Top 150 listed companies, incl. FTSE 100 and 50 of FTSE 250), United States (S&P 500).
+
+2. Whether an internal or external appointment, trust has to be paramount
+
+It is important to be transparent during the hiring process and explicit about what the transition and division of responsibilities will look like and how the board will intervene if it is not working. Candidate skepticism about why an executive chair role is needed or how the division of responsibilities will work is natural, but an incoming CEO must welcome the additional support from an executive chair. However, if the rationale for or scope for an exec chair transition isn’t landing well with potential CEO successors, it is worth considering why that is: whether the candidate has the right approach, the plan needs adaptation, the executive chair role is structured right or the executive chair’s attitude is problematic. It also should be made clear to candidates at the outset that this is a temporary move intended to support a smooth transition and provide continuity for the markets and the business by retaining institutional knowledge.
+
+Whether the successor CEO comes from inside or outside the organization, trust between the executive chair and the new CEO is critical to a successful outcome, our research shows. The outgoing CEO can start building trust with an internal successor by beginning to offload duties in advance of the formal transition. While it is undoubtedly easier to feel confident handing over the reins to someone already in the organization, a number of executive chairs who were succeeded by an external hire all emphasized the importance of treating the new CEO as “one of your own.”
+
+3. Who does what? Be clear about the division of labor
+
+In addition to building trust, the executive chair and new CEO must have an explicit conversation about who owns what functions and responsibilities. Our research finds transitions are more likely to be successful when outgoing CEOs are clear about how long they expect to be in the executive chair role, what they will and won’t spend time on, and how they envision the partnership working. Here are a few tips from those who have been through it:
+
+First and foremost, establish that the CEO is the ultimate decision maker. The executive chair should look to them for direction on how to best add value.
+
+Make sure the executive chair’s activities are transparent to the CEO.
+
+View the executive chair role as that of a coach or mentor.
+
+The executive chair should involve themselves in areas where they can be helpful, but not in activities that should be part of the CEO’s purview. Executive chairs can make themselves available to the CEO to provide a point of view on topics such as potential acquisition targets, changes to the organizational structure, which events to appear at, etc. They should be available to help the new CEO make decisions but understand those decisions (for good and bad) are ultimately not theirs to make.
+
+Executive chair responsibilities
+
+The executive chair is a non-independent member of the board and a member of management, making it even more important to clearly define the specific responsibilities of the role. Here are the most common responsibilities of an executive chair based on observations of a variety of successful transitions:
+
+Advising during the transition of the chief executive officer
+
+Focusing efforts on corporate strategy, strategic customer and partner relationships, and corporate development
+
+Signing financials
+
+Managing specific projects (JV, partnerships, new product launch, etc.) and other assignments delegated by the board
+
+Attending meetings as needed with the board, company leadership, business partners, vendors, employees and others
+
+Subjecting oneself to normal governance procedures relating to board membership
+
+Assisting the board with its oversight of the company’s risks
+
+Communicating to both internal and external stakeholders, as appropriate
+
+Acting as a liaison between the board and management
+
+Creating alignment with the board and management and supporting the execution of the strategy
+
+Setting the board meeting calendar and general board oversight
+
+Setting the agenda for board meetings (in partnership with the CEO and the lead independent director)
+
+Presiding over the company’s regular meeting of shareholders
+
+4. Build a strong working relationship with the new CEO
+
+The CEO needs to be clear with the lead independent director or chair of the board about what skills, experience and style will be most helpful for the executive chair to embody. Further, the new CEO should develop a strong relationship with the full board and individual directors — the lead independent director, in particular — and not allow the executive chair to become a gatekeeper to the board or to heavily influence board composition. To be effective, the CEO needs to know and respond to the questions the board has about the company’s challenges and the leadership issues the CEO is facing.
+
+The executive chair plays an important role in setting the right tone for the board and new CEO. For example, the executive chair should make sure the CEO is the one presenting and directing the conversation with the board. One executive chair noted how his CEO found it helpful to meet before board meetings to get guidance on potential hot spots with certain board members. Another recommended a regular cadence of discussions between the executive chair, CEO, independent chair/lead director and governance committee chair to candidly discuss the aspects of the exec chair and CEO relationship that were and were not working.
+
+• • •
+
+While it is tempting for boards to assume that adding an executive chair will reduce the risk associated with a CEO transition, our analysis suggests it is a complicated decision that should be made case by case. That being said, when the transition is done right, and where governance code allows, an executive chair can be a huge asset to an organization. Given the ongoing pressure for boards to split CEO and chair roles, we expect more boards will consider the executive chair model as a way to divide the chair and CEO responsibilities, while maintaining the expertise of the outgoing CEO. However, it is important to note that deciding to use the executive chair role as part of your succession plan is not just to avoid poor performance but to actually outperform, which has not been the case for many of the companies that have taken this approach. We hope these tips from those who have created value — and those who have struggled — will provide the insight CEOs and boards considering the role of the executive chair need to make the best decision for their companies.
+
+Authors
+
+Jason Baumgarten
+
+Seattle
+
+Amitabh Sharma
+
+Dallas
+
+Rowen Bainbridge
+
+London

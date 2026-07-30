@@ -1,0 +1,142 @@
+How Tech is Changing Strategic Workforce Planning
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Talent Recruitment|October 5, 2023
+
+How Tech is Changing Strategic Workforce Planning
+
+Select and deploy strategic workforce planning tools to predict future talent needs and plan for succession and talent acquisition.
+
+Key takeaways
+
+The importance of strategic workforce planning for future talent needs
+Technology's role in data-driven decision-making
+A four-step approach to selecting workforce planning tech
+
+How do you plan for tomorrow, today? By 2030, demand for skilled professionals will far outstrip supply. Workforce planning is essential to ensuring your organization has the right people in the right places doing the right things—regardless of future market volatility and talent availability. Effective workforce planning relies on having accurate data and then analyzing this data to extract meaningful and actionable insights. Unfortunately, it’s easy for organizations to end up with too many data points and no clear path forward.
+
+“What we’re seeing in the market is most companies lack the internal analytic capability; they’re data rich and insight poor,” says Lisa Harrison, Client Partner, Korn Ferry. Technology makes this process faster and more effective, but selecting and deploying the right tech to create actionable outcomes can be challenging.
+
+Get strategic workforce planning and analytics right: a business imperative
+
+Looking into the future is tricky—an organization’s workforce does not behave linearly. People are promoted, move laterally, take sabbaticals, resign and retire. Internal factors, like weak employee engagement or burnout, can increase the risk of early departures. External market factors can impact the availability of people with the right skill sets and the ability to make key hires.
+
+“Workforce planning technology can mitigate risk, reduce human bias and increase cost efficiencies,” says Adam Reeves, Director, TA Transformation. “For organizations drowning in data, the right tech stack will turn these numbers into easy-to-digest dashboards providing actionable insights so leaders can make evidence-based decisions. It’s changing how people talk about succession and talent acquisition at all levels.”
+
+The right tech solution can also break down barriers between workforce planning and budget planning. Historically, these have been separate processes. A department leader might ask, “I need this many people, how many can I actually afford to hire?” An executive might say, “Here is the budget for the new role, now go find someone we can afford within this salary range.” Technology can bring these processes together by clearly defining the implications, breaking down silos and streamlining operations.
+
+Managing workforce tech stack challenges
+
+Given the clear benefits, why are companies struggling to leverage data analytics for smarter workforce planning? From HRIS to ATS, the market is crowded with technology solutions producing data. Balancing this tech stack is a challenge. For example, adding an additional analytics system can lead to integration issues. But starting over with a “single solution” system may not work either. Single solution systems can be expensive and ultimately "average" at many things rather than excelling at one.
+
+Organizations often lack the budget, tools, decision-making governance and internal knowledge to successfully evaluate and deploy workforce planning tech, whether it’s an integration or full system solution. The result is tech that misses the mark for an organization’s immediate needs.
+
+“With so many workforce planning challenges, companies try to solve for everything at once and end up solving nothing at all,” said Reeves. “They’re trying to buy a mansion when they just need a roof over their heads. Workforce planning should be an integrated, agile and iterative process. Begin with the starter home and build from there.”
+
+Talent Acquisition
+
+Finding talent that sees you through today and tomorrow
+
+Learn more
+
+4 steps to selecting and deploying workforce planning tech
+
+Choosing the right workforce planning tools doesn’t have to be complicated. By defining the key challenges and understanding desired outcomes, you can select and deploy a solution that delivers meaningful planning insights. These are some steps to guide your organization:
+
+1. Clearly identify the workforce planning need
+
+Focus on the primary problem you must solve rather than trying to solve everything simultaneously. Are you struggling with skills gaps, succession planning, talent management, or employee engagement? Prioritize the outcomes you need for the most impactful changes, then choose your technology solution rather than picking a technology and trying to make it fit your problems.
+
+2. Understand how technology will solve the problem
+
+When you’re clear about your need, you’re also clear about the desired outcome—and how this outcome will differ from your current approach. For example, let’s say your primary problem is identifying and filling skill gaps. You need a faster, more efficient method of doing this versus your current manual skills capture, which is resource and time-intensive.
+
+Given these needs, the right tech solution will analyze the skills landscape within your organization, identify where these skills exist within your organization, and highlight the skills gaps. AI can augment data from CVs, LinkedIn profiles and Teams profiles, process those skills, and then turn the data into a clear visualization for instant insights and next steps.
+
+3. Use data to inform your solution
+
+Solutions typically fall into one of four categories: buy, borrow, build or bot. Continuing with our previous problem–identifying and filling skill gaps–data can help determine the right solution for your organization:
+
+Buy: External market analytics will tell you where people with the needed skill live, their current employers, pay scale, demographics and more. You can then use this data to develop a compelling recruitment strategy.
+Build/Borrow: Another option for filling skill gaps is to evaluate your current workforce for their performance and upskilling potential. AI can speed this evaluation, proposing potential outcomes for different scenarios such as offering additional training to high performers, opting for interim hires to bridge the gap or support skills transfer, and many other options.
+Bot: Workforce planning tech can help identify skill gaps that could be resolved through automation, particularly around repeatable tasks.
+
+4. Model different scenarios
+
+Before moving forward, use tech to consider how different solutions play out. For example, if you make zero changes to your current workforce, what is the expected attrition, at what rate would people age out of your workforce, and how would certain skill gaps worsen? Forecasting is never 100% accurate, but the goal is not to have perfect predictions.
+
+“Often the value is in the planning process itself, not the actual plan,” said Harrison. “Scenario planning allows you to consider all possible futures and prepare for the most likely scenarios based on your strategic priorities, developing plans to mitigate risk and maximize potential.”
+
+The next step for workforce planning tech deployment
+
+From talent acquisition to succession, the right workforce planning tech can play a transformative role in your organization’s future. If you need support evaluating vendors, Korn Ferry can help. We partner with a variety of vendors to develop customer solutions and build a 12-18 month forecast. Our team of experts support clients throughout the process of selecting and deploying workforce planning tech to create the outcomes identified and help solve talent challenges.
+
+Ready to take the first step towards workforce planning tech selection and deployment? Contact us to get started.
+
+Our Expert
+
+Our Experts
+
+Lisa Harrison
+Senior Client Partner
+
+No items found.
+
+Related Capability
+
+Related Capabilities
+
+Talent Acquisition
+
+Featured Insights
+
+2026: The Make-or-Break Year for Careers
+Should Parents Crash Job Interviews?
+How to Make Face-to-Face Work: 5 Ways
+A New High-Cost Center: Hiring
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Featured Topics
+
+Talent Recruitment
+
+Talent Acquisition
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

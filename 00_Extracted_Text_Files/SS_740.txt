@@ -1,0 +1,133 @@
+Finding the Talent to Bring Healthcare Supply Chains into the 21st Century
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Finding the Talent to Bring Healthcare Supply Chains into the 21st Century
+
+By
+
+Matthew D. Belda and
+
+Stewart Lumsden
+
+December 2016
+
+| 7 min read
+
+Authors
+
+Matthew D. Belda
+
+Chicago
+
+Stewart Lumsden
+
+Chicago
+
+Overseeing a healthcare supply chain can be a remarkably onerous job. Far too often, a supply chain is a byzantine operation with disorganized business processes and decentralized operational structures. Trying to gain economies through methods such as standardization, centralization and automation is a noble but difficult endeavor, made even more challenging by healthcare’s nettlesome dynamics.
+
+The healthcare industry lags behind other industries in supply-chain modernization, and that’s before taking into account the new financial modeling that we’ve seen over the last few years. This has increased the demand for a streamlined supply chain, as hospitals move away from fee-for-service care and toward a system where insurance pays for the entire course of treatment. Now, organizations strive for a more holistic approach to health care and prevention, which requires improved capabilities in care management, chronic disease management and data analytics.
+
+Underlying these issues is perhaps the most crucial fact of all: behind all of this complicated logistical work, the primary goal is providing sensitive patient care. So boosting the efficiency of the supply chain needs to be done, but always with the ultimate aim of giving patients a comforting, human experience.
+
+To learn more about the path to supply-chain modernity, we spoke with three accomplished healthcare executives who helped their healthcare systems become more efficient by consolidating operations, streamlining vendor management and implementing other innovative solutions. These three executives — Hector Boirie, senior vice president of supply chain, hospitality & engineering at Providence Health & Services; Bruce Mairose, vice chair of category management at Mayo Clinic; and Mark West, president of SharedClarity (and a former supply chain management executive at UnitedHealthcare and Cleveland Clinic) — shared key components in their organization’s roadmap to revamping their supply chain.
+
+One of the primary steps necessary for evolving the supply chain is finding the right talent in a highly unique industry. A broad range of healthcare jobs require a mix of left- and right-brain abilities, an understanding of the continuum of care as well as the ability to deftly navigate the complex dynamics of the healthcare environment.
+
+Defining the problem
+
+In a telling example of how complicated the supply chain can be within a healthcare system, West of SharedClarity recalled that he once tracked all the different ways a previous employer could purchase items. “We found there were more than 40 different ways somebody could buy something on behalf of the Cleveland Clinic, from a process point of view,” he said.
+
+Although it accounts for a high percentage of the cost in the healthcare world, the supply chain often gets little respect: “The vast majority of these departments are buried in the basement of the building and they’re kind of an afterthought,” West said. This despite the fact that the medical-surgical supply line make up nearly 20 percent of the cost structure of a health system, and non-clinical supplies add another 10 to 15 percent, he estimated.
+
+The isolation experienced by some materials management departments is a product of a bygone area, when providers were fully reimbursed for their expenses and products, and their cost was not critical. The environment today dictates the transition from a materials management concept to a supply-chain management organization that utilizes a more sophisticated infrastructure, with integration into the clinical practice.
+
+In 2000, the Mayo Clinic materials management group had 26 independent purchasing groups, minimal economies of scale and limited but successful engagement with clinical leadership. Change management, innovation and collaboration were key to the supply chain organizations transition, Mairose said.
+
+“Supply chain operations were independent and reporting to each of the separate campuses, with only cursory collaboration. We participated in five different group purchasing organizations (GPOs), and did not necessarily optimize any of them,” he said. “The materials management structure reflected the overall administrative structure of the organization. Clinicians routinely collaborated on clinical quality, safety and outcomes, but there was little discussion with respect to driving cost reduction or product standardization in a multi-campus collaborative manner. The creation of a supply chain management infrastructure has enabled and facilitated the incorporation of expense management with broader clinical outcomes initiatives.”
+
+To modernize a supply chain requires great deal of hands-on, logistical effort: Steps include building an in-depth roadmap to plan for a long-term strategy based on data accuracy, and converting it to practical information. Also, developing an internal performance consulting group and standardizing technology platforms across the enterprise are key to ensuring a physician-led strategy for decision making.
+
+Massive infrastructure changes may be required, as well. When West was at the Cleveland Clinic, they reengineered the purchasing and strategic sourcing, put in a new e-procurement system, made several new hires and even built a 230,000-square-foot warehouse. The standardized operations were a difficult process, but in the end they made it easier to schedule products and share knowledge, thereby improving care.
+
+Change begins at the top
+
+While the logistical work is important, the most crucial step may be finding the right leadership to drive this transition and put the right people in place. The chief supply chain officer must be able to lead strategic change at the highest level, creating a cohesive and transparent view of all areas in procurement while tracking their impact on the care continuum and quality patient care outcomes. Improving hospital efficiency and financial decision-making — while pushing innovative end-to-end solutions that integrate supply chain and operational activities — is also crucial.
+
+The ideal leader also has an ability to navigate between left-brain analysis and right-brain empathy. On the more analytical side, today’s healthcare providers must effectively manage costs and accept greater financial risk. This mandates the appointment of leaders who understand changing revenue risk models and the impact expense management has on clinical quality and outcomes. On the more empathic side, leaders need to walk the tightrope of change management, complex research and supplier relationships with caregivers — all while translating business processes into a clinical language that is relevant to clinicians.
+
+But where to find executives with such a broad perspective? The answer has changed over the years. Just as Moneyball-thinking shifted baseball management from grizzled old-timers to Ivy Leaguers with MBAs, the paradigm developed that healthcare could be run like any other business. Widgets are widgets, the reasoning went, and outsiders would likely bring fresh, unorthodox thinking. So why not find someone successful from elsewhere in the supply-chain world and just plug-and-play?
+
+But the nuanced provision of healthcare is not the plug-and-play ethos of manufacturing. “Hospitals do not build humans like an automobile — they function as a custom repair shop that must be prepared to fix any and all models that roll through the door,” Mairose said. One argument against bringing in an outsider is that the job requires such a mastery of such change management dynamics, participative decision making and a knowledge of the physician/supplier/hospital relationship. To apply this perspective through a hypothetical: suppose Dr. Smith is using a certain screw for his knee-replacement surgeries, while Dr. Parker prefers another. To create a level of standardization, the administration would decide on one screw for the procedure, accounting for both cost and patient satisfaction. So a leader will be faced with making a decision that will not only affect a hospital’s supplies, but will also likely upset the physician whose preferred item isn’t chosen.
+
+“You cannot walk into a group of caregivers and just say, ‘We’ve got a new way of doing business,’” Mairose said. “What you really have to do is win over individuals with opportunities and ensure decision-making ownership when they’ve been doing this on their own. It’s not about the supply chain pushing decisions down their throat. It’s about their physicians and their colleagues making decisions collectively, allowing everyone to move forward in an environment that creates high-quality outcomes and lower cost of care.”
+
+So leaders must be able to navigate a culture shift that’s both data driven and uses change-management principles that address requirements at the human level. “If the supply-chain staff function as technocrats, they will fail,” Mairose said. “Healthcare is a human business, and while we’re trying to pull applicable components from other industries like manufacturing, you need supply-chain leaders who can create and articulate a holistic value proposition, create a vision and hire the right people to drive innovation. These individuals need to build a team that understands change management and how to navigate a complex culture.”
+
+You cannot walk into a group of caregivers and just say, ‘We’ve got a new way of doing business.’
+
+Bruce Mairose,
+
+Vice chair of category management at Mayo Clinic
+
+Providing efficient, compassionate care
+
+Indeed, the underlying basis for healthcare is spelled out in its own word: it’s an industry that helps maintain “health” and provides “care.” So patients have certain needs that must be met in a compassionate manner, and the supply chain touches every element of their care. “The majority of folks who tap into healthcare services do because they have a need, they have an issue,” Boirie said. “So if they come in anxious about what they’re going to do, they don’t come into your world as they would in the commercial side, which is with a level of excitement. That changes the entire dynamic of how you’re going to interact with that client, with that customer.”
+
+The majority of folks who tap into healthcare services do because they have a need, they have an issue.
+
+Hector Boirie,
+
+Senior vice president of supply chain, hospitality & engineering at Providence Health & Services
+
+Navigating this complex terrain requires a deft touch, as well as a mandate from the top. Without executive support backing a cohesive approach, it would be very difficult to change the culture from independent decision making to a collaborative process that involves physicians.
+
+“This is not a supply chain initiative, it’s a C-suite initiative,” West stated. “The CEO needs to be a champion of the change and communicate it’s a priority to the executive team. There has to be very strong clinical alignment or I would recommend don’t even do it. Because let’s say you’re going to consolidate from seven suppliers to two, and some doctors aren’t happy with that decision. If they go into the hospital presidents or the C-suite and your decision gets overturned, you’re done.”
+
+This is not a supply chain initiative, it’s a C-suite initiative.
+
+Mark West,
+
+President, SharedClarity
+
+Finding the right leader
+
+So there’s a fine line for leaders to walk, which is why it’s difficult to find executives who are the right fit. There’s a school of thought that, despite the idiosyncrasies of the healthcare world, it’s best to find someone with high-level supply-chain experience elsewhere to lead the charge.
+
+Speaking from experience, West said his background in automotive and airline industries — not healthcare — might have been his biggest selling point. “When I got hired at the Cleveland Clinic, I believe my biggest qualification was that I had no healthcare experience,” he recalled. “They wanted somebody from a different industry, with a different perspective and a different mindset to complement their existing team.”
+
+But others say that healthcare experience is crucial, and can’t be earned in other industries. “When it comes to management theories, outside of healthcare, they don’t necessarily apply across the board,” Boirie said. “Because there are unique elements about healthcare — you’re dealing with patients, as well as healthcare providers, physicians, and nurses, who are very structured and have a strong point of view in how they do things.”
+
+In the end, the ideal talent would have a mixture of both internal and external experience to provide a blend of outside-the-box innovation and pragmatic, boots-on-the-ground experience.
+
+“I firmly believe that you don’t go out and hire everybody from outside corporations, and you don’t just hire people only from healthcare,” Mairose said. “You need staff who are willing to look beyond the box they live in, find diversity and skills throughout the country, bring each to bear and then teach them what they don’t know. A diverse leadership team will be far more successful than one with a myopic view. It would be a tragic mistake to do a clean sweep and bring an entirely new team to the table. You must build on the value that an established and experienced staff brings to the table.”
+
+A diverse leadership team will be far more successful than one with a myopic view.
+
+Bruce Mairose,
+
+Vice chair of category management at Mayo Clinic
+
+So it might seem supply-chain administrators require an unattainable mix of skills, an amalgam of capabilities that’s near impossible to find in real life. But it can be done, as long as new leaders —  whatever their background —  come into the position with the right attitude and are willing to learn from people with more experience.
+
+“My recommendation for folks coming from outside of healthcare into healthcare is twofold: number one, exercise extreme patience,” Boirie says. “Number two, have an insatiable appetite to listen. Keep your mouth closed, and your ears wide open.”
+
+Clearly, improving a healthcare system’s supply chain is no easy task. It involves finding the right talent (from inside or outside the industry), negotiating a complex culture and crafting an in-depth roadmap to plan a long-term strategy — all while keeping the patient experience paramount. But as we’ve seen, by following the right advice, even outsiders could eventually acclimate to the unique dynamics of the healthcare supply-chain realm.
+
+Download
+
+Download
+
+Authors
+
+Matthew D. Belda
+
+Chicago
+
+Stewart Lumsden
+
+Chicago

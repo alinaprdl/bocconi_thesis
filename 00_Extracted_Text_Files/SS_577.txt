@@ -1,0 +1,279 @@
+A Conversation with Keith Block, Co-CEO of Salesforce
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+A Conversation with Keith Block, Co-CEO of Salesforce
+
+Scaling a thriving culture as growth soars
+
+By
+
+Jason Hancock
+
+November 2018
+
+| 6 min read
+
+Author
+
+Jason Hancock
+
+Stamford
+
+Salesforce co-CEO and board director Keith Block was recruited by the global
+cloud computing company in June 2013 to turbocharge its high-performance
+sales and marketing engine, and scale its already-strong culture. Over the
+past five years, Block has been doing exactly that.
+
+Since Block joined Salesforce, the company’s annual revenue has
+skyrocketed — more than tripling to an expected $13-plus billion in fiscal
+year 2019 — largely driven by Block’s focus on international expansion,
+industry strategy and the growth of its partner ecosystem, as well as a
+succession of acquisitions that he championed.
+
+Despite the company’s rapid growth, Salesforce has remained true to its
+core values and created a world-renowned culture, earning the top spot on
+Fortune’s World's Best Workplaces list two years in a row.
+
+How is that possible?
+
+That’s among the questions Spencer Stuart’s Jason Hancock posed when he
+recently sat down with Block to discuss the challenges — and opportunities
+— that arise when companies achieve extraordinary business growth.
+
+Spencer Stuart: Salesforce has grown exponentially since you’ve been with the company. Tell us about
+the challenges you saw when you got there, then describe what you’ve done to enable the company
+to grow to where it is today.
+
+Keith Block: Salesforce was very successful before I showed up five years ago. It was a $4 billion company then, and
+this fiscal year we’ll do more than $13 billion in revenue. At that size and scale, our growth is unprecedented.
+
+One of the most important things that has enabled us to grow is our culture. I heard a lot about the culture before I
+came over here, but until you really experience and understand the importance of the culture to the company, you
+don’t really get an appreciation for what it’s all about. It’s the connective tissue at Salesforce, and I’ve never
+observed a company that has anything like it.
+
+The first of our four core values is trust. Because if you don’t have trust with
+your employees, your partners, your customers and your communities, then
+you don’t have anything.
+
+We are 32,000-plus people flying in formation who
+embrace the values. We walk the walk and talk the talk.
+It's the life force for our company, and it’s a guiding light
+in so many things that we do: our business decisions,
+and the way that we deal with our customers, our partners
+and our employees.
+
+Describe in your own words the culture and values
+of the company.
+
+The first of our four core values is trust. Because if you
+don't have trust with your employees, your partners, your
+customers and your communities, then you don't have
+anything. And that is really backed up by our business
+model: Unlike the perpetual license model that most software
+companies use, we pioneered a subscription model
+in which the customer can choose to walk away at the end
+of the term. That’s why building trust is paramount
+
+We're an incredibly transparent company. Just to give
+you an example, on our website we have an area called
+"Trust," which actually tells you about the real-time
+performance of our infrastructure. Everything is in there
+for our customers to see, and that’s something I hadn’t
+seen other companies do before Salesforce.
+
+This transparency helps drive our annual business plan,
+called the V2MOM, which stands for Vision, Values,
+Methods, Obstacles and Metrics. [Co-CEO Marc Benioff]
+and I publish our V2MOM, along with every employee at
+the company. These V2MOMs are all publicly available
+on our internal social network, Chatter, so that every
+employee knows what our priorities are for the year.
+
+Our second value is customer success, and this, again,
+is something that our 32,000 employees embrace every
+day, whether they’re in finance, HR, engineering, sales,
+service or marketing. Everything pivots around the
+customer and making sure the customer is successful.
+That, too, can be traced back to our business model,
+because when our customers are successful, our business
+model thrives.
+
+The third value is innovation, which is very cellular for us.
+We innovate both organically and inorganically, and we
+bring what we call the “beginner’s mind” to everything we
+do. Talent obviously drives a lot of our innovation, and
+that’s critical in who we hire, develop and acquire. But a
+lot of the innovation at Salesforce doesn’t just come from
+our employees. It comes from our customers.
+
+The last core value is equality, which we feel very
+strongly about. We've taken some very public positions
+around equality. Probably the most notable is our position
+fighting for LGBTQ rights in Indiana. It really comes
+down to protecting our employees and making sure they
+feel safe and secure in the workplace and in their
+communities. We believe in equality, and we believe that
+manifests itself in education, the environment and in
+gender equality — and we all live and breathe it.
+
+Equality not only means equal opportunity; it also
+means equal pay. Every year, we adjust the payrolls to
+make sure that we have equal pay. I’m personally very
+passionate about that. My wife and I have five children,
+and why our two daughters wouldn’t have the same
+opportunities as their three older brothers is beyond me.
+
+How do you handle folks who don’t fit in within the
+culture? What systems and programs are in place to
+ensure that good performers stay aboard even
+though they may be a little different?
+
+Because of our size and scale, we hire thousands of
+people each year. And when you hire that many people,
+you’re not going to be right 100 percent of the time.
+We’re very deliberate about setting people up to be
+successful with the right systems and mentoring. Some
+people may not make it because of performance, and
+then there are people who, quite frankly, don’t fit culturally.
+Just making their numbers won’t keep them here.
+They have to embody our culture and values as well.
+
+How do you assess for cultural fit when you’re
+hiring someone from the outside?
+
+I’m sure all companies say this, but we have a very rigorous
+process. When we interview people, we assess
+benchmarks related to our values, which is not always
+easy to do. We've seen some very successful people on
+paper who would not be a good fit here, and we've
+passed. It’s easy to hire people because they have a
+great résumé. But it's been proven over and over again
+here that if you don’t align with our core values, it's not
+going to be a successful outcome.
+
+How do you decide whether to promote from
+within, or hire from outside and risk losing the
+internal candidate because they didn’t get the
+job they wanted?
+
+One of the advantages we have is our incredible
+growth, and that growth creates opportunity for people,
+both within and outside of the company, to grow their
+careers at Salesforce.
+
+We're not afraid to try people out in a role that's in a
+completely different line of business. For example, we've
+had CMOs who were never in marketing. Our previous
+CMO, Simon Mulcahy, actually worked for the World
+Economic Forum for years, and he was more of a management-consulting
+type. But even though he didn't have a
+marketing background, he was brilliant; he understood
+our industry and he was incredibly creative.
+
+We don't just do this for the employees; it's also great
+for the company because they bring that “beginner's
+mind” to a new job. They see things that people didn't
+see before. So we do like to promote from within, but we
+also like to sprinkle in people from the outside because
+an outside perspective is good.
+
+If you scale a company, you need a combination of
+people you can promote from within, people you can
+rotate around in a job function and people you can
+bring in from the outside. All of them have their risks,
+to be perfectly frank. I'd love to say that we're batting
+one thousand, but you just try to mitigate the risk and
+put the best talent in the best position.
+
+What impact has all the acquisition activity had
+on the company? You have an evolving culture,
+but when you acquire, you’re bringing a new
+organ into the body. How do you stop the body
+from rejecting that organ?
+
+It starts when we're evaluating companies. When we do
+our due diligence, it's kind of a no-brainer that we would
+work out the product and go-to-market strategies, and
+the financial merit of the acquisition. But we also do an
+assessment for cultural fit. We have found that if you
+acquire a company that does not align with your core
+values, you will get what you referred to as organ rejection.
+And it won't just be the leadership, it will permeate
+throughout the entire organization.
+
+So, always, always, always, as part of any acquisition, we
+assess the cultural fit. We also talk about what the longterm
+vision is for them. That's from the very beginning.
+It's not after the acquisition is made.
+
+As hard as these things are, more than 90 percent of the
+employees who have come from acquisitions have
+stayed at Salesforce for at least one year.
+
+We believe in equality, and we believe that manifests itself in education, the
+environment and in gender equality — and we all live and breathe it.
+
+More than 90 percent? Wow!
+
+I know, it's a remarkable statistic, and we're really proud
+of it. People want to be here. They see that we're investing
+in their companies, and we're investing in them. That
+cultural environment is a talent magnet.
+
+For example, our most recent acquisition, the software
+company MuleSoft, is going incredibly well. Unprompted
+by us, their employees created this video at their headquarters
+with this giant “Thank you” to Salesforce, and
+they were so excited to be part of the company. That
+wasn't something that Salesforce put together — it was
+something MuleSoft put together.
+
+Culture really is everything, because it drives talent,
+and talent makes the world go around.
+
+Not every M&A exercise is perfect, and they all have
+their challenges, but we look at the table stakes that you
+would expect people to evaluate as part of an acquisition.
+But the culture is very important, and the location
+is also very important. Do we have offices in the same
+location? Because we want to make sure that we have
+cultural ambassadors who are embedded in the offices
+of the companies that we acquire. So we do a great job
+of plugging these people in when they come onboard.
+
+Drawing on all that you’ve experienced at Salesforce,
+what advice would you give to other senior leaders?
+
+Culture really is everything, because it drives talent, and
+talent makes the world go around. If you have a really
+strong culture that is values-based — rooted in trust and
+focused on making your customers successful — and if
+you have an environment where employees feel like
+they've been heard, and it's also a fun, creative place to
+be, those are very powerful ingredients. Don't pay lip
+service to the culture and don't pay lip service to the
+values. You have to find a way — your own way — to
+make sure that every employee really embraces and
+aligns with those values and that culture. And I do
+think it becomes the heartbeat for a company.
+
+You have to find a way — your own way — to make
+sure that every employee really embraces and aligns
+with those values and that culture. And I truly think it
+becomes the heartbeat for a company.
+
+Download
+
+Download
+
+Author
+
+Jason Hancock
+
+Stamford

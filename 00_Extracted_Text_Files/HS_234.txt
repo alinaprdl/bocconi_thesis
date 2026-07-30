@@ -1,0 +1,217 @@
+Becoming a digital-first organization: Making the most of crisis-driven digital transformation | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Becoming a digital-first organization: Making the most of crisis-driven digital transformation
+Explore this page Assessing organizational digital dexterityDefining digital leadershipBuilding a digital culture remotelyGetting to digital-firstAbout the authorsRelated Content
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Digital Leadership Becoming a digital-first organization: Making the most of crisis-driven digital transformation
+
+Companies are using digital tools and automation more than ever. Now, as leaders reimagine and reset their businesses for the future, those who focus on purpose and culture while they seek to make the most of technology will be in the best position to thrive.
+
+Chace Conroy
+
+Since the onset of the COVID-19 pandemic, every company has had to adapt the way it works, and most have become much more digital. The latest Fortune/Deloitte survey of US CEOs revealed that 77% say the pandemic expedited their digital transformation. Full-time virtual workers in the United States went from less than 4% to more than 50% in a matter of weeks. Digital banking, online grocery ordering and delivery, and telemedicine have also seen step changes in growth.
+
+Some companies were already highly digitally dexterous before the crisis and didn’t miss a beat. Others, whose digital transformations were partial, unconnected, or stalled, have had a harder time adapting to the sudden requirements for remote, contactless functions. Now, companies have an opportunity to build on the digital gains they made, however haphazardly, over the past few months. Indeed, many executives are patting themselves on the back for virtualizing their business. But the technology side of digital is the easy part. The real prize is becoming a digital-first organization: one in which technology and culture are interwoven to enable a greater level of agility. Achieving this goal will require leaders to take a step back and truly reimagine the business and how it operates. They will have to champion digital technologies and mindsets while leading with empathy and purpose.
+
+To start, executives must take stock of their company’s starting point—the progress they made through the crisis and the gaps that remain. Then, they can focus on building technical skills where needed in parallel with embedding a digital mindset in the organization by investing in leadership and culture. These efforts, like everything else companies are doing in the wake of the pandemic, should be guided by a renewed sense of purpose—for the business, its leaders, and its culture. Executives who do all this thoughtfully will put their organization in a better position to thrive in the long term.
+
+Assessing organizational digital dexterity
+
+For years, many companies have allowed a segment of employees to work from home for some portion of the work week, and digital tools have enabled collaboration for dispersed teams. These arrangements and tools seemed to represent the outer bounds of what was feasible and prudent for remote working. Indeed, an in-person presence was widely believed to be critical to productivity. When the pandemic forced companies to transition the whole of their operations to remote working at an unprecedented pace, executives were forced to revisit conventional wisdom. In parallel, both customer and employee expectations around convenience, speed, and safety, in the form of low- or no-contact experiences and operations, have ratcheted up dramatically.
+
+This transition has forced organizations to recalibrate their approach to digital transformation. Companies that were making steady progress on a carefully defined digital transformation had to set their road map aside to make changes that would ensure immediate survival. Others that had yet to embark on a digital journey, or were stalled, have now found themselves further along, in some ways, than they ever could have imagined. For example, companies previously had to carefully manage the rollout of digital collaboration tools to ensure uptake throughout the enterprise. In the immediate response to COVID-19, employees embraced new ways of working quickly and with little prodding.
+
+Such initial successes have given thoughtful leaders a head start in further accelerating their digital progress. Heidrick & Struggles research has identified several cultural factors that can undermine a digital transformation—resistance to change, passive-aggressive attitudes, and working in silos. The pandemic and resulting mandatory shift to remote-work arrangements have broken down many of these legacy barriers and mindsets. (For more on the cultural factors that can undermine a digital transformation, see “Building a digital culture.”)
+
+The challenge for companies now is figuring out how to build on the momentum of their jury-rigged digital efforts to develop a coherent plan that creates sustainable advantages for the business without losing pace. Leaders must assess the current state of their organization’s digital dexterity to determine progress, identify new capabilities, and develop a plan to build additional skills and address gaps. This process will also involve deciding which new ways of working should be retained and which need to be adjusted further or even reimagined.
+
+Leaders should, broadly, look at competencies and mindsets. Competencies include not only the use of digital technologies to engage and collaborate with remote teams but also the ability to reengineer processes and implement new ways of operating such as virtual sales and support in industries historically based on physical customer interactions. Mindsets, of course, are the attitudes that enable employees to embrace change and remain open to new ideas and ways of working. In addition to an openness to change, the pandemic elevated the importance of other mindsets, including psychological safety, hyper-collaboration, inclusion, and connection to purpose. Many of these mindsets can be harnessed to help restart digital transformation efforts—if they can be embedded in the culture.
+
+Adding to the degree of difficulty, organizations will have to develop and nurture a digital mindset either remotely or in very different working conditions compared with even a few months ago. On the other hand, workers—and leaders—may be more open to sweeping change than ever before. Companies that take a bold approach to reinventing how the organization engages workers, offers opportunities for development, and encourages collaboration and connectivity will get the people side of digital transformation right.
+
+Several questions can guide leaders’ exploration:
+
+Defining digital leadership
+
+Just as an organization must adapt to a remote, digital workspace, executives must also change their approach to leading a digital transformation in a post-COVID-19 world. Heidrick & Struggles analysis has identified a few key traits among leaders at tech-enabled and relatively high-performing companies that will help companies take full advantage of this digital opportunity.
+
+Empathy
+
+Far beyond digital, empathy was especially relevant in the immediate response to the pandemic: the entire workforce was dealing with disruption to their personal and professional lives as well as increased anxiety about the well-being of their immediate and extended families. The most effective leaders balanced a steadiness and resolve with genuine concern for and understanding of what their colleagues were experiencing. When Satya Nadella took over as CEO of Microsoft in 2014, empathy for employees and customers was a key element for driving innovation and enabling Microsoft employees to uncover unmet needs in their customer base. In navigating the pandemic’s challenges, Nadella again relied on empathy to rally his workforce and respond to customer needs. (For more on effective leadership in times of crisis, see “Leading through the crisis by counting on purpose and values.”)
+
+Now that companies are eyeing recovery, and work arrangements that once seemed temporary increasingly appear permanent, executives will need to model different modes of engagement and find ways to remain visible to their colleagues. Empathetic leadership will be at the core of every issue leaders are addressing. In a digital context, our analysis shows that high levels of empathy are a stark differentiator for leaders at digitally successful companies. What’s more, a lack of alignment between leaders and colleagues is significantly correlated with lower levels of digital acceleration. So, maintaining regular contact with employees beyond the C-suite and understanding their thoughts and concerns will be even more crucial in a post-COVID-19 future.1
+
+Purpose
+
+When the world outside of work has been characterized by such upheaval, clearly articulating the organization’s purpose can stabilize and inspire employees. Food and beverage retailers needed to flex their operations to get essential goods and services to those in need, automotive manufacturers redirected manufacturing resources to produce ventilators, luxury goods companies produced sanitizers and masks, and many companies have relied on their core purpose to guide tough decisions about layoffs.
+
+Before the pandemic, one of the greatest barriers to establishing a thriving digital culture was defining a clear business rationale for why employees should embrace both new technologies and new ways of working. The crisis has solved that problem to a great extent, but the transition being sudden and necessary does not guarantee that purpose will automatically follow.
+
+Connecting employees to the company’s broader purpose can reinforce the mindset that their own efforts in supporting a digital transformation contribute to the organization’s long-term ability to fulfill its purpose. During Hubert Joly’s tenure as CEO at Best Buy, for example, he led a daunting turnaround effort. Joly emphasized the company’s purpose “to enrich people’s lives with the help of technology” and helped employees connect their own personal dreams with that purpose.2 This mindset shift has fueled a new wave of growth for Best Buy, including a successful move into digital health.
+
+The best leaders will focus on new ways to model and communicate purpose and values. They must still reinforce the benefits of the digital transformation, a task that might require backfilling the transition to remote working with resources and additional support. Organizations might also need to build overt links between the new ways of working and the new ways the company will seek to thrive in the post-pandemic economy.
+
+Driving reimagination
+
+A digital transformation is an all-hands-on-deck exercise. An organization is truly digital-first only when finding new ways to apply digital technologies. Such efforts aren’t the exclusive domain of the C-suite. Leaders must ensure they inspire, motivate, and mobilize people in the middle of the organization to participate in reimagination; become evangelists for new tools and processes; and share their perspectives on innovation.
+
+Communication is a common thread across these three traits, but it must take on new and different forms with a remote workforce. For example, weekly emails could quickly get lost in the deluge of competing priorities, and a company-wide video call won’t have the same impact or immediacy as an in-person meeting. The challenge for executives is to find ways to vary their outreach, ensuring that broader communication is reinforced by engagement with small groups. They can focus on a couple of areas. First, leaders should celebrate initial wins and report on the hard-won business success of reimaginations. Championing continuous large- and small-scale innovation—based on reimagination—is an important characteristic of digital-first companies.
+
+Building a digital culture remotely
+
+Getting culture right is critical because it is one of the main accelerators of digital transformation and overall organizational performance. Culture has a direct impact on mindsets: good cultures support good mindsets, and harmful cultures can destroy the open mindsets needed for digital transformation. But even before the crisis, culture change was a delicate undertaking that required a carefully orchestrated set of actions reinforced with persistent communications across the organization. Executives set the tone by modeling the desired behaviors through in-person interactions and then creating incentives and recognition for exemplary behaviors across the workforce.
+
+Now, every company is struggling with how to maintain their organization’s culture and turn it in a more digital direction without the benefits of physical interactions. To set the pace, leaders should focus on three priorities.
+
+Reinventing ways of working. The shift to remote work is more than just using digital technologies to carry on with existing processes. It provides a unique opportunity to rethink everything from meeting cadence to team structure to the tools needed to be a digital-first organization. Rather than structuring processes to conform to digital tools, companies should reconceive team interaction based on what they learned during this disruption, and then draw from the palette of available digital technologies to enable new ways of working.
+
+The success most companies have seen with remote working will give organizations a sense of confidence that should bolster the chances of success of additional change right now—before new norms have entirely settled in. An agile approach, especially the focus on quick decision making, accountability, an empowered workforce, and small teams, is tailor-made for a remote working environment. (For more on the core characteristics of agile leaders—learning, foresight, adaptability, and resilience, see “From blame to gain: Leading with agility in a crisis.”)
+
+Translating co-creation and collaboration to remote work. An ecosystem-oriented mindset is crucial to digital acceleration, so organizations must pay special attention to implementing new approaches to creativity and collaboration both within and outside the organization. For example, translating brainstorming and whiteboard sessions—a staple of in-person problem solving—to a virtual environment will require experimentation and the full engagement of teams to establish productive digital approaches. Virtual environments provide an opportunity for more voices and new connections across different functions and geographies to be part of the innovation process, which can improve both the quantity and quality of ideas if managed well.
+
+Fostering diversity and inclusion. In a virtual world, everyone’s profile can be viewed on an equal playing field no matter what background they come from or what level they are. While a workforce of digital “haves and have-nots” could increase existing divides, companies have an opportunity to use new collaboration tools to create a sense of community and ensure all voices are heard. Leaders are struggling with this task in many contexts, most notably in countries where organizations of all kinds are redoubling efforts to address long-standing racial and social inequities. Successful leaders will make diversity and inclusion an integral part of their digital transformation efforts, continue to focus on connecting with team members, and create cultures that value new ideas and innovation.
+
+Getting to digital-first
+
+Having come through the disruption of the pandemic and all the accompanying changes, leaders might worry that plunging back into a digital transformation would create too much upheaval. In truth, the organization, employees, customers, and other stakeholders have likely never been more open to continued change. A focus on several priorities can provide the necessary direction to build on the digital gains of the immediate crisis response:
+
+For many companies, the blur of the past several months has given way to a mixture of relief at their resilience and uncertainty for what lies ahead. Rather than simply continuing to hurtle forward, executives should hit pause, harness their hard-won knowledge, and take the opportunity to reimagine their organization as a digital-first company. This commitment to a clear purpose can ensure that the unexpected digital gains made during the pandemic translate into a continued digital transformation.
+
+About the authors
+
+Chace Conroy (cconroy@heidrick.com) is a consultant in Heidrick & Struggles’ Chicago office and a member of Heidrick Consulting.
+
+Scott Snyder (ssnyder@heidrick.com) is the leader of Heidrick Consulting’s Center of Excellence in Digital Acceleration and Innovation and a partner in the Philadelphia office. He is a senior fellow at the Wharton School at the University of Pennsylvania and the coauthor of Goliath’s Revenge.
+
+Acknowledgment
+
+The authors wish to thank Duncan Wardley for his contributions to this article.
+
+References
+
+1 Based on Heidrick & Struggles analysis of proprietary data from some 14,000 surveys describing 2,134 executives at 26 companies, as well as additional public information on those companies’ digital acceleration and financial performance.
+
+2 John Vomhof Jr., “Best Buy volunteers help 400 students build computers,” Best Buy, October 4, 2017.
+
+Related Services & Industries
+
+AI & Technology Officers
+
+Digital Leadership
+
+Leadership Development
+
+Related Content
+
+Leadership Development
+
+AI focus: Leveraging your culture to accelerate GenAI enablement
+
+Realizing the value of your AI investments relies more on your culture than on the technology itself. Our work and interviews with five executives highlight how companies are engaging their leaders to speed GenAI progress.
+
+FinTech
+
+Stablecoins and the future of finance: A conversation with Marieke Flament, co-author of Euro Stable Watch, board member and advisor
+
+Marieke Flament explores how stablecoins are reshaping global finance and what today’s leaders need to thrive in a decentralized financial system.
+
+Marketing, Strategy & Communications
+
+AI leadership in communications: A conversation with Corey duBrowa, Global CEO of Burson
+
+Corey duBrowa shares practical guidance for corporate communications leaders on harnessing AI, staying ahead of emerging trends, and advising CEOs and boards on the right questions to ask.
+
+Digital Leadership
+
+AI and leadership: How finance, HR, and technology leaders are collaborating to make the most of AI across the enterprise
+
+When leaders of these key functions work together effectively, their companies are more able to benefit from implementing AI. Focusing on three areas will help keep progress going.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

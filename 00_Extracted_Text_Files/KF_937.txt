@@ -1,0 +1,163 @@
+AI Recruitment Tools: The Pros and Cons
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+AI in the Workplace|December 11, 2023
+
+AI Recruitment Tools: The Pros and Cons
+
+AI data analytics tools save time and offer unique insights, but it is vital to understand that using these tools also eliminates the skilled recruiter.
+
+Key takeaways
+
+The time and money-saving benefits of AI recruiting tools
+How the pros of using AI recruiting tools can easily become cons
+The importance of experienced human intervention when using AI for recruitment
+
+Almost every stage in the recruitment timeline from sourcing to talent retention is evolving with the development of AI assistance. But the utilization of AI in people-oriented professions like recruitment needs to be approached with care.
+
+While AI can be a useful tool, many executives are increasingly concerned about issues of accuracy and algorithmic bias. Therefore, it is crucial to understand AI’s pros and cons. It is often when humans are removed from the process that an AI pro can quickly become a con. Ultimately, the recruiter, CHRO and their team remain indispensable.
+
+Should you use AI in your recruitment—and if so, what do you need to be aware of?
+
+Do AI recruiting tools save time?
+
+PRO: Time-saving tool for recruiting at scale
+
+By instantly analyzing thousands of applications based on the data, AI recruiting solutions can often reduce the effort of identifying top talent by filtering out the better candidates in the fraction of a time it would take a person to do so manually. Depending on which AI is used, it can go beyond filtering to help schedule meetings and even conduct first-round interviews with the power of automated Q&A.
+
+CON: Waste of time for less-frequent users
+
+Learning to use these tools can be quite time-consuming, so if you’re not recruiting often, it might not be worth the effort of the learning curve. And if you don’t use it often, you will have to refamiliarize yourself with it—and its new features—every time you log on. These can both take longer than simply filtering the candidates manually.
+
+Can AI recruiting tools spot top talent?
+
+PRO: Wide-ranging assessment
+
+AI enables recruiters to cast the net much wider for talent by scraping information on potential applicants from across different networking sites, such as LinkedIn and other social media platforms, as well as additional existing online databases.
+
+CON: Risk of missing out on top talent
+
+With any AI tool, there’s a real risk that of missing that ideal candidate the recruiter would have identified but AI cannot. When you use the tools often enough, you learn how to get around this issue, but occasional users lack the experience to do this. And as AI in recruitment becomes more widely implemented, it’s inevitable some applicants will try to game the system, and many will also be using AI as well. This can mean that better-quality applicants fall through the net while less qualified applicants rise to the top.
+
+Do AI tools provide accurate information?
+
+PRO: AI tools as information providers and gatherers
+
+Many AI recruiting solutions incorporate generative AI engines, such as ChatGPT, which can have conversations with potential hires according to the prompts you add to the interview model. Built into your talent-acquisition software, automated chat assistants can provide job-seekers with vital first-stage information. They can share more detailed job descriptions and engage the candidate with typical interview questions with the power to respond to inquiries. Their questions and responses can provide recruiters and HR departments with a foundation for each candidate.
+
+CON: These tools need human guidance to ensure accuracy
+
+A justifiable and common criticism of AI such as ChatGPT is its accuracy. This should improve as it learns over time, but such improvements are partially reliant on human intervention and effective prompts.
+
+Recruitment Process Outsourcing
+
+More than RPO — talent realized
+
+Learn more
+
+Do AI recruiting tools support unbiased hiring?
+
+PRO: AI tools can help improve diverse hiring
+
+Bias, whether conscious or unconscious, keeps many organizations from recruiting the best people. Integrating AI into recruitment can help overcome human bias by programming tools to identify only qualifications, skills and experiences relevant to the job description while removing indicators of race, gender and class. But bear in mind that it takes well-informed and thoughtful energy to truly ensure that proper diversity access for candidates is a primary component of your recruiting program, so factor this into your planning from the start.
+
+CON: AI tools can also introduce bias
+
+AI algorithms, whether bespoke or off-the-shelf, are programmed by individuals whose biases, if unchecked, will be incorporated into the end tool. Moreover, these AI algorithms are learning from historic data that likely incorporate biases inherent in past hiring decisions. Such biases can then be reproduced, and if left unchecked, could be disastrous over time. You need to fully understand the capabilities and limitations of your tools to minimize the risk of this.
+
+How do AI recruiting tools use video content?
+
+PRO: AI video tools can improve interview flexibility and provide valuable data
+
+AI vision tools supplement talent searches by sifting through social media accounts and video content for characteristics that might benefit an employer. Moreover, video-interview platforms allow candidates to interview on their own time, after which the visual and audio intelligence can be analyzed.
+
+CON: Imaging platforms aren’t for everyone
+
+Left unchecked, these tools can discount qualified candidates for subtle, subjective differences, such as unusual speech patterns or self-consciousness, which could cause you to miss out on candidates who would be outstanding in the role, but don’t do well on camera for any number of reasons, including neurodiversity. Human intervention is absolutely necessary to ensure bias isn’t introduced into the analysis.
+
+Is AI a recruitment friend or foe?
+
+It’s clear that AI recruitment tools have the potential to save valuable time and money while being able to cast the net infinitely wider for candidates. But not all AI recruitment tools are created equal, and they require careful handling by people who are fully trained in the tools. What’s more, some have been trained on better quality underlying data, so you need to investigate that before making a decision.
+
+Before adopting AI recruiting solutions, every organization should have a team in place to ensure algorithms are fair by law, including conducting a regular "bias audit" and making hiring methods transparent. The legal issue is a huge one and not limited to biases. Mining a wealth of data means security has to be top notch to prevent data leaks to the greatest extent possible.
+
+At the end of the day, every AI recruitment solution pro comes with a caveat that human intervention can minimize. And experience as well as the underlying data and security are vital considerations.
+
+At Korn Ferry, we’re highly experienced in recruitment that places people at the center of the talent process while utilizing the most powerful tools available to help with the search. If you need help finding executive talent or talent at scale, get in touch.
+
+Related Capability
+
+Related Capabilities
+
+Talent Acquisition
+
+Executive Search
+
+Professional Search
+
+Recruitment Process Outsourcing
+
+Interim Executives & Professionals
+
+Featured Insights
+
+Enabling HR Technology to Work Smarter
+How Tech is Changing Strategic Workforce Planning
+
+Download the infographic
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Featured Topics
+
+AI in the Workplace
+
+Talent Acquisition
+
+Executive Search
+
+Professional Search
+
+Recruitment Process Outsourcing
+
+Interim Executives & Professionals
+
+Kornferry RPO
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

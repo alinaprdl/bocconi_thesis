@@ -1,0 +1,183 @@
+The evolution of the European procurement function beyond the pandemic | Insights | Heidrick & Struggles
+
+Identified Country:
+
+The evolution of the European procurement function beyond the pandemic
+Explore this page A more elevated, responsive procurement functionBuilding a more agile, tech-savvy procurement organizationAbout the authorsRelated Content
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Supply Chain & Operations Officers The evolution of the European procurement function beyond the pandemic
+
+Procurement needs to evolve into a more agile function to make sense of the wider ecosystem within which it operates.
+
+Camilla Gilone
+
+The COVID-19 pandemic has put intense pressure on companies’ supply chains and procurement organizations, which, in turn, have consolidated their evolution toward becoming critical business units that must be aligned to a company’s strategy and central to its execution. Though it began long before the pandemic, this transformation will surely continue with more clarity and renewed motivation, driven by the pervasive digitization of business, the multi-stakeholder pressure to act sustainably, and the increased need to respond to accelerating changes and disruptions with agility. The procurement function is playing a more and more central role in revenue generation—and, by extension, strategy—and procurement leaders need to follow suit and play a more strategic role that extends to innovation, transformation, and risk management.
+
+We surveyed 111 European chief procurement officers (CPOs) to better understand how their function has been affected by COVID-19 and how they expect their function will evolve in the near future. The executives we surveyed underscored the much closer alignment of the procurement function to the business strategy since the beginning of the pandemic and saw a clear need to manage their suppliers differently going forward. Agility emerged as a core competency for the future of the procurement function, mainly as it relates to the ability to pivot quickly to meet both risks and opportunities and to prepare leaders and their teams to navigate the short- and long-term changes on the horizon.
+
+Our research also shows that over the past year, there has been a clear shift in the predominant leadership styles demonstrated by the European chief procurement officers toward those that are more effective at engaging their workforce through difficult periods and rallying around their organizational purpose. This is consistent with the changes we have observed across the C-suite over the past years, and we expect this trend to continue.
+
+A more elevated, responsive procurement function
+
+The magnitude of the risks inherent to highly interdependent supply chains became extremely clear as the pandemic progressed. Early on, many companies experienced a shock when they were unable to source materials or products from their regular suppliers as the frequent lockdowns closed borders in a randomized manner and made it difficult to anticipate the next crisis. As the pandemic progressed, the disruption reinforced some of the key trends that had been emerging for some time in the procurement function, from the acceleration of digitization to the increased focus on sustainability. Procurement is now playing a more central role, not only when it comes to cost effectiveness but also as a value generator for the enterprise. That means it must align closer with business strategy: 80% of the CPOs we surveyed said they had seen a stronger strategic alignment between business and procurement since the beginning of the pandemic. Going forward, companies will have to adopt a different operational model for their procurement function that supports this new strategic role, aligning procurement objectives and structures to the business, supporting the upskilling of their workforce, and putting in place a central function to manage risks and coordinate the flow of information between the company and its suppliers. At the same time, the procurement function must play a more important role in innovation and the overall organizational transformation processes.
+
+Another important consideration is the increasing pressure from consumers, investors, employees, and regulators to act in a sustainable manner, both in the way they manage their own operations and in the way they select and track every organization in their supply chain; this more thorough monitoring of all their suppliers is intensive and reinforces the trend toward streamlining the supply chain. The procurement leaders who participated in our survey said they see a clear benefit of investing in sustainable supply chains, with 80% of them saying that companies that did so early on were more successful at meeting the challenges posed by the pandemic.
+
+It comes as no surprise that 63% of the chief procurement officers we surveyed said that they have been working differently with suppliers since the pandemic started. While virtual working provided procurement functions with more transparency in their interactions with suppliers and better data, it did not facilitate supplier visits, which are essential in ensuring requirements are fulfilled on the ground, especially when it comes to new suppliers.
+
+To deal with the fallout from the pandemic and be able to respond better and faster to the new issues or requirements triggered by COVID-19, 87% of CPOs said they will invest in new tools and capabilities. For some organizations, that will simply mean investing in a better digital tool for visibility, while, for others, it will be more complex and involve implementing multiple sourcing policies, adding a geopolitical or health assessment of supplier locations, putting active backup supplier agreements in place, making more stringent evaluations of suppliers’ financial and operational resilience, evaluating suppliers’ climate impact, increasing the amount of products developed in-house, or increasing traceability of the supply chain with technologies like blockchain.
+
+Building a more agile, tech-savvy procurement organization
+
+As the procurement function had to deal simultaneously with longer-term trends and the shocks delivered by the pandemic, it was not only the leaders’ styles and skill sets that had to adapt at pace. The speed required for dealing with the crisis early on helped streamline the decision-making and problem-solving processes, but many leaders we spoke to were pondering how much of that effectiveness they will be able to retain once the pandemic abates. For the procurement function, maintaining agility throughout the ranks will be a central challenge.
+
+We understand agility as the ability to pivot quickly with an open, flexible mindset in order to be able to respond rapidly, in real time, to changing conditions. Heidrick & Struggles has identified four capabilities that enable leaders and organizations to behave in more agile ways: foresight, learning, adaptability, and resilience.! Each one of these capabilities has an underlying trait that can be measured to indicate the extent to which a leader, team, or organization is mastering that capability: thinking dexterity, curiosity, social agility, and tenacity (see sidebar on page 3 of the full article, “Agility and its role in the procurement function”).
+
+Our cross-functional assessments of leaders’ agility potential over the past year—using a video- and game-based methodology that allows assessment of people’s behaviors in real time2 —show that fewer than half are strong at any of those four traits—and fewer than 10% are strong in curiosity and thinking dexterity. When we asked CPOs to rate their organization’s agility traits, their responses showed a positive sentiment overall about the way their organization and employees demonstrated the ability to solve new problems, learning and adapting, balancing assertiveness and empathy, and focusing on their priorities during the crisis (see chart on page 3 of the full article, “How CPOs rate their organization’s agility traits overall”)
+
+By improving the prevalence of these traits, procurement leaders can enhance their (and their function’s) ability to connect the dots and better anticipate how risks could affect their function. During the pandemic, a couple of things happened simultaneously: people repurposed their disposable incomes from travel and out-of-home entertainment to buying electronic items such as new phones, TV sets, and other appliances, and container clearance slowed down. Those who predicted these events and prepared for the shortage of ocean containers that would mean delays in freight transportation managed to better avoid increased costs and disappointing their customers.
+
+However, 72% of CPOs said that the talent gap in their function has increased as a result of updated strategies to further digitize the procurement function; some organizations had to reduce headcount significantly and make tough short-term decisions, which put more pressure on the remaining employees. And many leaders we spoke with said that they see continued pandemic fatigue threatening to derail some of the progress achieved over the past months.
+
+To reinforce (and maintain) the agile capabilities required for their function, there are three things procurement leaders should do:
+
+Track agility at the individual and functional levels. Understanding how leaders and employees measure against agility traits at different moments in time is essential for resilience, but also for undertaking a major transformational process such as redesigning the supply chain. The workforce is not static; its strengths and weaknesses will change, and so too should leaders’ awareness of them. Companies have a series of newer data analytics and artificial intelligence assessment tools at their disposal that can help them have a clear picture of the individual and collective skills and experiences in their workforces. Organizations that need to start (re)mapping end-to-end risks across their entire supply chain must identify appropriate response mechanisms and measure how individuals and functions respond to both known and new risks. Lessons learned from this type of system, shared in real time within the function, can be extremely valuable in building resilience across supply chains.
+Embed agility traits into regular tasks and projects. Building agility traits is a long-term endeavor and is best done on the back of the assessment to address skill set or experience gaps previously mentioned. Agility traits can be embedded within specific tasks or simulations aimed for specific skill development or through a learning program that takes a more holistic approach. Recognition is also an important element of turning a learned skill into day-to-day behavior, which means that individuals need to see how their agility skills contribute to their development and career progression. One of the benefits of embedding agility in the everyday tasks of the procurement function will be the enhanced ability to adapt negotiating styles with suppliers as needed, even if they cannot be met in person, which is one of the changes brought by the pandemic that is likely to persist.
+Offer continuous support. This can take the form of a feedback system, coaching, or access to the right resources, information, and people when needed. For the procurement function, this can take the shape of support for suppliers with product quality expertise when starting to manufacture a new product or expertise when scaling up deliveries for components of a new product.
+
+The COVID-19 pandemic undoubtedly provided a shock to European procurement organizations, but it also brought clarity to how the function is evolving to make sense of the wider ecosystem that connects all its players in real time and has the resilience to respond to known and emerging risks and trends. Therefore, we see the need for a more agile procurement function, better able to cope with the rising number of risks and uncertainties. That will require a generation of leaders with a new, more complex, human-centric skill set that combines empathy, adept digital leadership, and the understanding of how to nurture a sustainable business.
+
+About the authors
+
+Camilla Gilone (cgilone@heidrick.com) is an engagement manager in Heidrick & Struggles’ Industrial and Supply Chain & Operations Officers practices; she is based in the London office.
+
+Per-Arne Svensson (psvensson@heidrick.com) is a principal in the Industrial and Supply Chain & Operations Officers practices; he is based in the Stockholm office.
+
+References
+
+1 Steven Krupp and Becky Hogan, “Agility for the long term,” Heidrick & Struggles, April 13, 2021, heidrick.com.
+
+2 For more on Heidrick & Struggles’ Agile Leadership Potential (ALP) methodology go to heidrick.com/agileleader.
+
+Related Services & Industries
+
+Industrial
+
+Leadership Development
+
+Organization Acceleration
+
+Supply Chain & Operations Officers
+
+Related Content
+
+Supply Chain & Operations Officers
+
+Leadership perspectives: A conversation with Peter Gibbons, former Group President of Enterprise Supply Chain, 3M
+
+Heidrick & Struggles’ Alasdair Spink speaks with Peter Gibbons, former Group President of Enterprise Supply Chain at 3M, on the key skills and leadership capabilities chief supply chain officers need to become future-ready.
+
+Supply Chain & Operations Officers
+
+Supply-chain officer focus: The strategic value of succession planning
+
+Many organizations where the supply chain is crucial to operations have been elevating the strategic importance of their chief supply chain officers. But talent is scarce, and succession planning is taking on new urgency. Interviews with 30 supply chain leaders suggest three key elements of improvement.
+
+Supply Chain & Operations Officers
+
+Managing the semiconductor trilemma: A conversation with Dr. Roawen Chen, chief supply chain and operations officer at Qualcomm
+
+Dr. Roawen Chen shares the leadership capabilities critical to managing the three competing KPIs of the semiconductor industry: pursuing the most advanced technology, having the lowest cost, and having unlimited supply.
+
+Supply Chain & Operations Officers
+
+How AI is delivering value in an integrated supply chain: A conversation with James Borzi, EVP and chief supply chain officer at Baxter International
+
+James Borzi shares how he sees AI continuing to optimize the healthcare supply chain; and what it means to him as a leader to lead in an AI-enabled world.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

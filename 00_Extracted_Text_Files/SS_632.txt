@@ -1,0 +1,181 @@
+Turning vision into results
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Turning vision into results
+
+What makes a good transformational leader?
+
+By
+
+Emanuela Aureli
+
+March 2018
+
+| 13 min read
+
+Author
+
+Emanuela Aureli
+
+London
+
+“The fear factor isn’t my style, although there are times when the individual doesn’t suit the organisation and the right action needs to be taken,” said Nick Hugh, CEO of the Telegraph Media Group. Hugh is among eleven leaders we interviewed from the technology, media and telecoms sector who have recently led substantial transformation in international companies.
+
+Our goal was to determine what style of leadership they brought to their organisations. How much change was down to their personal orientation towards achieving results and exercising authority? How much could be attributed to creating different structures within the organisation, such as incentive plans, cross-functional or inter-regional teams? And how much was due to that special ingredient that makes people want to follow an individual, not out of fear or duty, but because they share the same sense of responsibility and vision for the organisation as a whole?
+
+There has been much talk about how leadership is about inspiring people, not commanding them, about crafting nurturing corporate cultures in which people feel valued and safe inside an organisation so that they collaborate together to face external dangers as well as seize opportunities to increase revenue. Individual leaders may adopt different styles of leadership in different circumstances. But what is the best style during a true crisis or during a major organisational transformation?
+
+Persuade the board
+
+Transformational leaders not only devise great plans, but are good at communicating them. If they don’t have sufficient persuasion skills to win board support, they certainly will not win over the rest of the organisation — and they won’t get the funding they need for change programmes.
+
+In the companies we looked at, the board’s response depended largely upon the particular situation facing the business. Boards operating within a narrow window before a deeper crisis took hold were the easiest to convince. “We had a burning platform and I used it to make the case for change,” said Adolfo Hernandez, CEO of SDL. “The board could see the last five years weren’t working so I was pushing through an open door.”
+
+Other boards acknowledged the need for change, but not at the scale required. At The Economist, the board understood the need for digital transformation. Chief digital officer Jora Gill’s task was to convince them of the size of the transformation required as well as his ability to lead it: “We had a first-rate product but were offering our customers a third-rate experience. I showed them what was possible digitally. I was lucky because Chris Stubbs, our CEO, was very supportive.”
+
+When Albert Hitchcock, Pearson’s chief technology & operations officer, arrived in 2013, the technology at Pearson reflected the company’s myriad acquisitions. It was complex with services operating across multiple different platforms. Internally, tech teams were reporting into functional areas of the business, and technology was perceived as a cost rather than an enabler. “I recommended a simplification strategy based on a platform model around which the operational processes ran,” he said. “We needed to create a consumer-grade experience equivalent in quality and capability to the 'digital native' platform companies.”
+
+Farah Ramzan Golant, CEO of Girl Effect, was cognisant of the individual priorities of the founding funders as the organisation became independent from Nike. A coherent strategy was key to Golant initiating positive changes and successfully streamlining a diverse portfolio. “Each of our funders has their own special areas of focus, so we had to create a coherent way for them to examine Girl Effect and to see that their investments were not just yielding a return for Girl Effect's mission, but were delivering the return on impact that they each expected based on their organisational imperative.”
+
+Get your hands dirty
+
+Transformational leaders know that if they want to mobilise people, they first need to mobilise themselves. The leaders we interviewed were willing to take action and get fully involved at all levels of the organisation, triggering change in the perceptions and beliefs of those around them.
+
+Patrick Tillieux, former CEO of Red Bee Media, said that while you have to ensure you have “focus, due care and analysis, if you are going to be a change leader you have to learn at an early age to take action. You might turn one piece of the business around and then go ahead and do more.”
+
+Hernandez would go to the customers to “apologise, commit to improve and demonstrate very early on that there was a change at hand and that we were going to do it very quickly. I stuck my neck out and made a number of promises that I thought we could rally the organisation to deliver on. The organisation took up the challenges and delivered on them.”
+
+Be comfortable with uncertainty
+
+Transformational leaders thrive in uncertain environments, creating opportunities out of crises. They are willing to take calculated risks in order to achieve results but look for data and information that will inform their decisions. Data serves as a means for learning about the market, creating an overall strategy and supporting that strategy to stakeholders, especially investors. It forms the basis of a picture of the status quo and helps demonstrate the incremental gains or “small wins” essential for maintaining momentum. Speaking of the importance of customer data, Christian Lang, VP EMEA of Commvault, said, “I needed to find out what was happening in the market. Whatever we were planning to do, it needed to come from the outside in. That is, what is valuable from the customer’s point of view.”
+
+Look for information that goes beyond the numbers
+
+The leaders we interviewed had to be willing to operate with less data and other information than was optimal, trusting their instincts while gathering a team together. Mittu Sridhara said that when he arrived at Hepsiburada as chief technology officer “assessing the current state was quite a challenge as there was very little documentation across the business as a whole.”
+
+At Pearson, Hitchcock found plenty of data, but few single sources of information. “One of the first tasks I set myself was to understand the technology landscape. Pearson had at one point been a collection of more than 43 ERP systems, over 40 different versions of Salesforce.com all separately implemented, and 93 data centres,” he said.
+
+The organic nature in which evidence and evaluation collection had evolved in the organisation was also an issue for Golant. “I had to take an interpretative view across the whole portfolio. There were about 12 initiatives live across different geographies and across different platforms, from content production to community engagement. Some of them were analogue, others were digital, some of them were tiny incubations in one country, some were starting to show merit to be replicable and translatable across regions. However, there were no consistent metrics across the portfolio.”
+
+Of course, even if the metrics are available, the numbers in themselves can only tell you so much. As Lang explained, “the numbers are a result of something. If I want to achieve sustainable growth, I have to focus on what that ‘something’ is.”
+
+Like the other leaders we spoke with, Lang looked for information that went beyond the numbers. “I did an as-is analysis at every level, every function. So not only with the teams that could contribute to the analysis because they had the numbers, for example, sales leaders or sales operations, or with finance, but also with HR, with marketing, with legal, and with every function in the organisation,” he said.
+Several of the leaders we spoke to created mechanisms for feedback. Jora Gill knew digital transformation at The Economist was critical to the future of the company, and that he had to get some digital in place as a means of getting the information necessary for decision-making down the line. “People think that at the end of the project we're digital. I keep telling people, no, at the end of the project, you're just beginning the digital journey.”
+
+Be willing to put forward a robust point of view
+
+Leading during a crisis requires strong conviction, and a willingness to put forward a robust point of view. Leaders can encounter a lack of understanding around what digital can do for the business and need to be strong advocates for its potential.
+
+Listen to what is happening
+
+The leaders we talked to encourage people to speak up, express their concerns, and point out where there are problems. Hugh advises anyone wishing to lead a successful transformation to “make yourself accessible, make yourself visible. I’ve been doing things like breakfast with different employees each week and quite a few round tables. A lot of that is just connecting with people, designed to get peoples’ thoughts as well as share some of my principles.”
+
+Hernandez said, “Maybe it is a bit unusual but I insisted on going to a number of factory floors, translation offices, project management offices. I wanted to know what we did for customers step-by-step, how we added value. As I sat with many translators and many project managers I realised what we were doing was totally nuts.”
+
+I did a lot of listening and explaining. The skill is in simplifying the problem.
+
+Sabby Gill, EVP international of Epicor Software, read every single one of 800 comments given by employees, looking for common themes. “Revenue is an outcome of sales — if I don’t have happy customers, then I don’t have happy employees. Unhappy employees are going to contribute to those numbers. These are key metrics that aren’t usually measured.”
+
+Create the vision
+
+The leaders we spoke with had to create a vision for what they wanted to achieve and were able to communicate it simply, but passionately.
+
+Create a vision — communicate it simply, but passionately
+
+When Jora Gill arrived at The Economist, he observed that people weren’t sure about their goals or objectives. “The initiatives in place just weren’t bold enough. Customers expect an Amazon-like experience. There were a number of incremental projects but nothing that was going to deliver the Amazon-like experience the market demanded.”
+Like several other companies, reducing the number of divergent initiatives and consolidating focus was an important step for Epicor. Sabby Gill explained, “We had too many resources focused in the wrong regions, the wrong territories. The result had been stagnation in international growth, with figures around 17–18%. I had to reduce down, deinvest, then focus on the industries we really wanted to go after.”
+Girl Effect's Golant also had to clear a path within a wealth of varied initiatives and discreet projects. “The organisation had been one of innovation and incubation (crucial for its early phase), but there was a need to look at what we were doing and decide where to divest, where to accelerate and how to create strategic integration so that we could go effectively from start-up mode to scale-up mode with a distinctive value proposition.”
+
+Not that establishing a vision always makes the next steps easier. Inevitably, transformation will be met with some resistance. Like many others we interviewed, Hugh found not everyone in the company shared the vision. Initially, there wasn’t a hundred per cent buy-in throughout the organisation. In part, this was because some people didn’t initially understand why they had to diversify away from the traditional business. They believed they were here to work on the newspaper, itself, and that this was the most important aspect of the company, as opposed to one of multiple important aspects.”
+
+Form a strategy and reveal “the why”
+
+It is one thing to come up with a workable strategy but quite another to successfully execute it. The leaders we spoke with had various means of imbuing their ideas across the company as well as encouraging the adoption of their strategy.
+
+Make sure decisions about strategy are anchored in facts
+
+Tillieux said he convinced others to take up his strategy for Red Bee by making sure decisions about strategy were anchored in facts. Tillieux presented and re-presented facts to the executive committee about the company’s performance in recent years in order to demonstrate the necessity for large-scale change.
+
+Communicating with those throughout the organisation and talking about business goals helps to clarify what people expect from the transformation and make sure people are unified about goals and objectives. Hernandez always tried to be “open and direct, plain-speaking, non-political. That, in itself, gave people hope.”
+
+Lang feels it is vital to convince people why a new strategy is being put in place. “Usually, we leaders talk about what will happen and how. But some of us miss explaining why the changes are taking place. People are looking to understand the ‘why’ because they can then make a decision based on that. By telling them why the changes are being made we treat them as mature people instead of just making decisions for them,” he said.
+
+Part of Lang’s success at Commvault is due to involving key stakeholders in his decisions. He not only consulted with senior and regional management in the change, but levels below that. His leadership programme included managers throughout EMEA, including all the functional leaders. “We shared with them the findings in our as-is analysis and then we considered their feedback. We said, ‘if these are the findings, then from your point of view, what do you think we should do?”
+
+Validate the strategy
+
+In persuading people over to a strategy, it helps to deliver small wins that show the strategy working. In order to guarantee smooth execution at a company-wide level, Hernandez took a group that was “representative of the complexity and the scope of what was necessary and piloted there first.” He felt it was important that people within the organisation could see the benefits of the advancement in technology and systems right away. “By working with small groups first we could get our work validated not by those who are doing the change but by those to whom the change is being done.” The management has to be right “because you could get a technology right, you could get the process right, but if you don’t get the change management side right it doesn’t matter how much you improve functionality, it’s not going to happen.”
+
+Another way to validate the strategy is to demonstrate it to customers. Like many of the leaders we spoke with, Tillieux involved himself with key customers in order to smooth the company’s relationship with them, demonstrate that the new strategy could bear fruit, and win business. “I would often involve myself with clients, for example I spoke to the top of the BBC in order to convince them to continue working with us. In the end that proved very helpful because it proved my point that customer-centricity was the key.”
+
+The characteristics of transformational leaders
+
+The CEOs we spoke to share a number of characteristics that are found in most transformational leaders.
+
+First, our proprietary assessment methodology shows these CEOs to have a clear orientation towards results: setting goals and driving outcomes.
+
+Second, while the use of soft skills is important in a transformational setting, the reality is that leading change still requires a high propensity towards authority. Transformational CEOs are action-oriented, independent thinkers, unafraid to take difficult decisions, whether about people or commerce.
+
+Third, the CEOs have a strong learning disposition. Since learning is a key component of an organisation in transformation mode, it is important that leaders exhibit a learning mindset. In addition to bringing a vision and conviction about what needs to be done, and a drive to achieve results, they demonstrate curiosity and open-mindedness, cultivating this attitude in others.
+
+Other characteristics evident in these leaders are the ability to collaborate and influence, and to build and develop people under their supervision.
+
+Tell the story
+
+It is far easier for strategy to gain momentum across an organisation if the leader can construct a story supporting its adoption. And part of that story has to be one of new identity and culture. Golant felt that her storytelling skills greatly enhanced her success with Girl Effect. “Resistance had been based on the lack of a shared identity or a real perception of what we do differently, but that resistance fell away quickly with the story of what Girl Effect does that is unique, different. People could then say, ‘Okay, I get that. Now, how does my bit fit in?’
+
+Bringing people together across multiple locations is never easy. Hernandez gave the impression his presence was everywhere throughout the organisation by posting photographs on social networks of himself meeting with various part of the business. “I’d be with the India team, then reviewing customer accounts in China, then in Texas. It was important that people saw me driving change everywhere and knew that they were part of it all.”
+
+The narrative of transformation has to reach every part of the organisation and every stakeholder. No matter how good a leader is, change only works if there is true alignment. And true alignment only comes through ceaseless communication that supports the change. “Bringing a truly agile culture into the company has been important,” said Sridhara. “A team that is aligned around mission, strategy and sequence can work through change.”
+
+Find the talent
+
+Every transformational leader knows that it is critical to develop trust, respect, and admiration from your team, because ultimately it is the team that creates the change. But how do you make sure you have the right team? The leaders we spoke with were happy to draw from the talent within their organisations, but ready to bring in new talent as needed. “I didn’t want people who were doing this for the first time. I wanted people who were at the top of their game and brought in a team of people who have done work that is several times bigger than this, so we’d have low risk on the execution,” said Hernandez.
+
+Sabby Gill came into a culture at Epicor in which many people had been there a long time and felt the organisation wasn’t really willing to change much. He brought in a lot of new talent and advises those doing the same to make sure the changes made are credible in order to ensure buy-in from rest of the company. “Of course, people would always like promotions from within and pretty much for every single role were always one or two internal candidates, but I think once they realised the calibre of the individuals who were out there externally they actually appreciated the fact that these were people they could learn from.”
+
+Be ready to bring in new talent as needed
+
+Some of the leaders we spoke with felt able to develop talent from within. Golant says she came into an organisation “full of incredibly diverse, talented people — from brand and ideas people to gender experts to data scientists — but, with few exceptions, they were individuals and not teams.” She worked hard on talent management through every layer in the organisation. “I wanted to unlock talent, beyond the senior leaders and across both global and in-country functions, to see where there were pockets of really strong entrepreneurial, dynamic potential that needed to be unleashed and enabled to rise quickly."
+
+For Hitchcock, changes are ongoing: “In all our functions we’ve developed and upgraded our talent, both on and offshore. Initially this was about following or adopting best practice but now it’s about taking a leadership position in our sector. As the strategy becomes embedded we’re starting to see results, gaining authority and influence.”
+
+When tough decisions are made, leadership is vulnerable to dissention. It is important to identify people whose retention is critical and work to keep them on board even during the worst of tough times. The key to doing so is complete transparency.
+
+Of course attracting top talent is sometimes difficult for an ailing business.
+
+In challenged organisations or toxic situations it is often the leader that becomes the lighthouse that attracts talent rather than the company. During The Telegraph’s transformation, Hugh was surprised at how hard he had to sell the company, but sell he did. “To be really successful you’ve got to have people around you on the same journey so that you are more than one voice. Now the executive team is fully on board, with more than half the team new in the last year,” he said.
+
+Culture Matters
+
+In the all-important quest to find talent, it is vital to understand how an individual candidate’s style profile relates to the desired culture for the organisation and that of the team he or she is joining. Poor cultural fit is one of the main reasons why newly appointed executives fail to achieve what is expected of them; it often leads to an early exit.
+
+Truly understanding your existing and desired culture, and diagnosing the elements of the culture that do or do not support the strategic priorities of the business, can unlock the full potential of an organisation. Because the senior leadership team tends to have a disproportionate influence on the culture, selecting and developing executives and teams that reinforce the current culture — or help to evolve it — is one of the most important ways to make sure the culture is supporting the business. This is much easier to do when the framework directly connects individuals to the culture by using the same language to describe both organisational culture and the personal styles of individuals.
+
+Culture and leadership are inextricably linked, but before leaders can bring about cultural change they must first become aware of the culture that operates in their organisations and map the specific effects of their culture on people and performance.
+
+There are two key dimensions to understanding a company’s culture: people interactions and response to change.
+
+People interactions: How independently or interdependently do people like to work? Does the organisation place greater value on autonomy and competition or does it emphasise managing relationships and group effort?
+
+Response to change: Does the organisation emphasise stability, consistency and predictability or flexibility, adaptability and receptiveness to change?
+
+Spencer Stuart has developed a culture alignment framework that describes eight primary and universal styles that shape all social and cultural behaviour. Each style represents a distinct and valid way to view the world, solve problems and be successful, both as individuals and as organisations. While no single style can fully depict a culture or personal style, individual styles and organisational cultures tend to be more heavily weighted in two to three styles that reflect their orientation toward people and change.
+
+For more information on Spencer Stuart’s approach to culture, read “The Leader’s Guide to Corporate
+Culture”, Harvard Business Review, January–February 2018.
+
+Download
+
+Download
+
+Author
+
+Emanuela Aureli
+
+London

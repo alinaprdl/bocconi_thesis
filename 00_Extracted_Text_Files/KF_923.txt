@@ -1,0 +1,147 @@
+Six Strategies to Address Pharma Industry Trends in 2024
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Future of Work|January 22, 2024
+
+Six Strategies to Address Pharma Industry Trends in 2024
+
+Discover six ways to navigate pharma industry trends in the New Year with actionable steps that will position your organization for growth.
+
+Key Takeaways
+
+How refocusing field teams on customer experience quality is differentiating a select few biopharma organizations
+Why pilot initiatives often seal the fate of change programs before they begin
+How divisional leaders are winning with critical roles and workforce planning
+
+The pharmaceutical market is undergoing a profound transformation, shaped by external forces and internal dynamics. These pharma industry trends include downward price pressure on pharma patent values from the Inflation Reduction Act, declining M&A deal values, and rising life sciences salaries. The upside potential for new therapies has decreased, with payers becoming more selective and pressuring manufacturers. Physicians are becoming less inclined to entertain meetings with multiple biopharma companies. And organizations are facing data overwhelm and data governance challenges, making it difficult to translate the potential in their data into reality.
+
+These pharma industry trends pose unprecedented challenges in adapting to patient and physician expectations. Many organizations’ efforts to engage customers and grow are falling short. All of these trends are putting stress on legacy operating structures, capabilities and budgets.
+
+To address these trends and ignite growth, pharmaceutical companies must recalibrate their strategies as they step into the new year. Based on our research, third-party data, and work with Fortune 1000 pharma companies conducted by the 130 associates in our global life sciences consulting practice, we’ve developed six strategies that will help pharma companies create value and differentiation for their organizations in the new year.
+
+1. Use digital to (truly) do more with less in-field
+
+Traditionally, pharma field teams have engaged in travel-intensive campaigns to drive demand. Yet top organizations achieve the same healthcare practitioner (HCP) reach with 40 to 50% less headcount by capitalizing on more channels and the time savings recovered from traveling less, delivering a more contextual, higher-quality customer experience in the process.
+
+Central to this is busting the myth that “digital” means non-human. For example, video calls with medical science liaisons (MSLs) receive the highest HCP satisfaction rating of all field interactions at 69/100. By shifting to more thoughtful, quality-based, omnichannel interactions, including video and inbound chat, leading field reps are averaging more than twice the interactions of their competition, who focus on face-to-face contact only. This is in spite of physician preference for less contact overall from manufacturers. As a result, they’re seeing 70% to 80% more treatment starts than their peers.
+
+How are commercial leaders doing it? By taking a fresh approach to hybrid field team structures, using customer experience quality as a core design principle, and making a step-change in talent strategy with updated success profiles for key roles. Importantly, coverage and frequency metrics (finally) give way to more qualitative, customer-driven expectation measures.
+
+2. Advance medical excellence for launch and growth
+
+Almost all (91%) physicians favor medical interactions, yet say they are underutilized. Spending on medical affairs relative to revenue has decreased 20% in the last five years worldwide. Further, 70% of physicians don’t think sales reps understand their content needs, with a growing number turning to MSLs for patient journey advice, including questions around access.
+
+In 2024, biopharma has an opportunity to rebalance medical and commercial field team composition to unlock physician access and safeguard launch success. Healthcare organizations whose key opinion leaders are engaged by MSLs pre-launch (digitally or in-person) experience 1.5 times greater treatment adoption rates within six months, while new treatment starts are 1.3 times more sustained within 18 to 24 months post-launch.
+
+Leading biopharmas capture the competencies, traits and drivers for MSLs and leaders that produce superior physician experiences and build the in-field ecosystem around them. This approach, coupled with competency development and change management, elevates medical affairs in the organization and serves as a differentiator for portfolios centered on launch and growth in the medium term.
+
+3. Focus on speed, not haste, for tangible generative AI results
+
+Generative AI has the potential to revolutionize the entire biopharma value chain from lab to field. However, while the upside is significant, so too is the distraction risk. Top companies achieve 2.2 times greater ROI on their generative AI investments than their peers by tackling governance early and being more disciplined around use case prioritization. Focusing on a single in-field use case helped one biopharma achieve a 5% increase in total prescribing and a 46% lift in HCP-agreed actions within nine to twelve weeks working compliantly with medical and sales teams.
+
+Pursuing use cases that solve employee (more so than customer) problems and resisting the temptation to release features at a rate that employees can’t keep up with are consistent practices across companies achieving faster, more sustainable results with generative AI.
+
+Life Sciences
+
+Creating new formulas for organizational success
+
+Learn more
+
+4. Accelerate change with neuroscience
+
+In stark contrast to advancements in technology and drug discovery, change approaches remain stubbornly old-school in most biopharmas: noisy, process-driven, and unfit for human consumption. Bringing approaches into line with the neuroscience of change offers significant upside, yet the price to do it commands a rarer currency: executive boldness.
+
+The problem is that organizations often engineer change too late after deciding what initiatives to pursue, resulting in overlap and saturation for employees. It’s the equivalent of designing a therapy before analyzing patient data and ending up with duplicate drugs. At the brain level, another challenge is the temporary premise of change itself. For example, consider the signal that a generative AI pilot sends: “This is new. We’re not sure whether we’ll do it. We want you to invest your time and reputation to try it out.” Given the brain’s heavier predisposition to avoid threat than pursue reward, this change approach is flawed by design. Contrast this with a “test and learn” approach, which signals, “This is new, but we’re committed to improving HCP experience quality, and we’re equipping you to shape the pathway.” The first approach is laced with risk, but the second is bolstered with motivational drivers of certainty and choice.
+
+Leading biopharmas understand that the human experience is constant, whereas traditional change approaches are points in time. The few executive sponsors who are prepared to say “no” to more are succeeding by producing change signals that cut through and by creating environments that send a more consistent message, translating to faster adoption, deeper embedding, and superior employee engagement and productivity.
+
+5. Address succession challenges for critical pharma roles
+
+Talent is the lifeblood of the pharmaceutical industry. However, few organizations (19%) are prepared to address a shortage of critical talent. Even fewer (14%) have succession plans for critical roles.
+
+As biopharma companies expand and contract around portfolios in increasingly shorter cycles, they need to build talent strategy around critical roles to safeguard business continuity and fuel growth.
+
+Traditional approaches are often inconsistent. They rely on crude measures such as leader judgment, individual visibility, and financial performance, often falling victim to assumptions, such as “our top 50 most senior people are surely our most critical.”
+
+Critical roles and succession are often bolted on to talent strategy, whereas they should form the foundation; informing career, acquisition and total reward. Leading biopharmas assess critical roles against three categories of potential: strategic value (alignment to longer range priorities), business value (medium term continuity & growth), and role value (market scarcity). This perspective paints a fuller picture by considering financial and non-financial factors (e.g., new idea facilitation). For numerous biopharmas, this process has unearthed hidden existing talent, making this exercise attractive and often self-funding.
+
+6. Integrate teams to strengthen commercialization
+
+With 73% of physician interactions unsynchronized across medical and commercial field teams, global HCP satisfaction levels hover at an underwhelming 59%. Where team alignment once served as a differentiator, it has now become table stakes, with physician access itself no longer a given.
+
+For best practice biopharmas, the payoff for integrated teams is significant. At the front end of the value chain, up to eight additional touchpoints per HCP per month can be achieved, while over the longer term, one company increased Phase III trial success: from 4% to 23% with a focus on cross-team quality culture over a 10-year period. Teams that mobilize resources effectively shorten their time to market by delivering a more cohesive employee experience and, therefore, a more relevant, higher-quality customer experience.
+
+While breaking down functional barriers is central to commercial effectiveness, this isn’t code for simply organizing around therapeutic areas or pursuing an agile structure. Numerous companies have used strategic workforce planning to successfully reshape role designs, team composition, and ways of working around customer experiences as they vary across product lifecycle stages. When tied to strategic account management, this approach puts divisional biopharma leaders in the driver’s seat to drive transformation without a hard reset on structure.
+
+Korn Ferry’s radically human approach to pharma excellence
+
+Excelling in the challenging pharmaceutical market doesn’t come down to technology or process; it comes down to people. Organizations with a radically human focus on leadership, culture, team dynamics, and talent experience higher engagement and generate 40% better team performance and 30% more profit, helping deliver life-saving medicines faster despite a current of increasingly volatile market conditions.
+
+Contact us to learn how Korn Ferry can help you set people-centered strategies that deliver on your promise of improving patient outcomes and experiences.
+
+Our Expert
+
+Our Experts
+
+Becky Sanderson
+Senior Client Partner, North America Life Sciences
+
+No items found.
+
+Related Capability
+
+Related Capabilities
+
+Workforce Transformation
+
+Featured Insights
+
+Generative AI in the Workplace
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Featured Topics
+
+Future of Work
+
+Workforce Transformation
+
+Life Sciences
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

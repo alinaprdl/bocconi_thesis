@@ -1,0 +1,182 @@
+CIO Selection in Financial Services
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+CIO Selection in Financial Services
+
+Four questions to consider when appointing a new technology leader
+
+By
+
+Eric T. Zakre
+
+May 2022
+
+| 6 min read
+
+Author
+
+Eric T. Zakre
+
+New York
+
+SectionsIn this article
+
+Key findings
+
+Since 2010, CIOs of Fortune 100 financial services companies are much more likely to have prior CIO experience and be hired from outside the company — and the industry.
+
+Over the same period, there has been a sharp decline in the representation of women among CIOs — 46% in 2010 versus 15% in 2022 — and almost no change in the racial diversity of CIOs.
+
+Understanding what’s driving these trends and the specific context for their business, leaders can make more informed selection decisions.
+
+Technology leadership-selection decisions are often daunting for the CEOs and boards of financial services companies. Digital-native fintech disruptors are developing new business models, cybersecurity threats loom, technology-related operational risks pose existential business risk, and regulatory scrutiny has increased. The technology function plays a role of great importance in financial services companies, and the CIO position in particular has transformed into a specialized function less easily understood by leaders without technical backgrounds.
+
+Download
+
+Download
+
+While there is no one-size-fits-all CIO persona for every company, an organization in the midst of a CIO selection process can draw upon experiences from other CIO appointments in the industry — both positive and negative — to ensure they make the best decision for their organization.
+
+Do we have the talent to promote internally, or should we hire a CIO from the outside?
+
+Beginning in 2010, Spencer Stuart has conducted an ongoing analysis of the CIOs leading the technology functions of each financial services company in the Fortune 100 — examining characteristics such as industry experience, functional experience, demographic information, path to promotion and educational background. Here are our top findings to date, with color around why we may be seeing these trends and what to consider in the context of your organization, guided by questions CEOs and boards of directors might consider when embarking on a CIO selection process.
+
+35%  There’s been a 35% decrease in the proportion of CIOs promoted internally relative to the proportion of CIOs hired externally. 71% of CIOs were hired internally in 2010, compared to only 46% in 2022.
+
+CIO objectives often revolve around change mandates, and “insider” company experience can be an edge for a new CIO with cultural fluency and preexisting relation­ships from day one. Our findings reveal, however, that there has been a dramatic decrease in the number of CIOs who were internally promoted into their role — from 71% to 46% — between 2010 and 2022.
+
+Spencer Stuart analysis
+
+We find that many financial companies perceive themselves as “under-mature” from a technology perspective and conclude that they would therefore benefit from “outsider” talent who has already achieved what the organization hopes to achieve. These companies also are hiring more CIOs with STEM degrees than ever before: 65%, up 55% since 2010.
+
+Still, we find that the vast majority of financial institutions are grappling with similar technology challenges: building modern foundations with cloud hosting and microservices-driven architectures for flexibility, adopting the agile product delivery methodologies for enhanced customer experience, building data analytics capabilities for enhanced insight, strengthening cybersecurity postures, etc. Because of this, what often distinguishes top CIOs from others are, in fact, leadership capabilities — how their behaviors as executives serve to drive results over the long term through people.
+
+Must our new CIO have previous CIO experience?
+
+63%  There’s been an even more dramatic decrease in the number of first-time CIOs. 83% of CIOs in 2010 were in the role for the first time, compared to only 31% in 2022.
+
+In our study, we found that there has been a 63% decrease in the number of first-time CIOs between 2010 and 2022. CEOs and boards are demonstrating that they are less willing to take a chance on an “unproven” CIO. A first-time CIO has not served on a company’s leadership team, will likely have limited experience at the board level, and will likely not have even led all technology functions on an end-to-end basis. Top financial companies are less willing to take the perceived risk of going with an unknown quantity in what has become such an important position.
+
+Spencer Stuart analysis
+
+There is certainly real value in the experience of having been a CIO in the past, at the very least conferring day-one credibility, which may allow a newly appointed CIO to influence change quickly. However, we find that some organizations over-rely on previous CIO experience during the selection process, particularly in cases when interviewers who are uncomfortable with their own level of technical expertise feel unable to distinguish between modern technology leaders and their less forward-thinking counterparts. Previous CIO experience does not mean previous successful CIO experience, and it certainly does not guarantee future success as a CIO given the rate at which the technology ecosystem is changing.
+
+In making a CIO selection, CEOs and boards of directors should work to enhance their own technical acumen so they can distinguish best-in-class technology track records of leading change (at the CIO and CIO-1 levels) from the baseline experience of having sat in the CIO seat. This will also enable them to employ forward-looking assessment methodologies in order to better predict future success.
+
+How important is previous financial services experience when hiring our new CIO?
+
+27percentage point increase  There’s been a jump in CIOs hired from outside the financial services sector — from 4% (2010) to 31% (2022), a 675% increase.
+
+Financial services companies greatly value industry experience when appointing new CIOs due to the unique nature of the sector’s regulatory oversight, general product complexity, and the high technology availability and reliability requirements. In 2010, 96% of the Fortune 100 financial services CIOs were industry insiders. A growing number of financial companies are open to hiring technology leaders without sector experience; nearly one-third of current Fortune 100 financial services CIOs came from outside of financial services.
+
+Spencer Stuart analysis
+
+Financial companies have become less risk-averse when it comes to one dimension of new CIO appointments: industry experience. Due to the perception that other industries are more advanced with respect to their use of technology (detailed above), more financial companies are looking to industry outsiders to jumpstart their technology change initiatives and catch up to other industries. In our experience, this approach can be successful (Goldman Sachs’ new co-CIO came directly from Amazon Web Services) but has created challenges for some organizations.
+
+What’s most important: taking an honest accounting of what’s needed in the context of your business and technology agenda and finding a CIO who has the experience leading such agendas and the capabilities to do so successfully. For example, if your organization is in the early stages of cloud and agile transformation, a technology leader who has spent their whole career in an early-stage digital-native company may not understand the complexities of modernizing legacy technology environments.
+
+How can we ensure we are considering a diverse slate of qualified candidates?
+
+67%  Fewer female CIOs than 12 years ago
+
+More and more, financial companies recognize the societal and business value in having more diverse teams, but many struggle to create diverse leadership teams representative of the broader population. In some dimensions, we have seen consistently disappointing statistics — with the proportion of financial company CIO seats held by leaders from underrepresented racial and ethnic groups hovering just above zero since 2010. In other dimensions, the statistics have been downright alarming: the proportion of women CIOs among Fortune 100 financial services companies has decreased from 46% in 2010 to 15% in 2022.
+
+Spencer Stuart analysis
+
+There is clearly a disconnect between the outcomes we are seeing and the stated objectives of many financial services companies. Several well-documented factors are likely contributors to the lack of diversity, including unconscious bias (one Harvard Business Review study found that with one woman in a pool of four finalist candidates for a position, her odds of being hired were statistically zero) and low representation of women and people of color in STEM degree programs (URM from Pew Research; women from UScensus.gov).
+
+For this to change, organizations must embrace leadership development and succession planning approaches that increase the diversity of the leadership pipeline. Unfortunately, organizations in the midst of a CIO selection process today are typically constrained with a short timeline and must find ways to diversify the CIO candidate pool now. We encourage CEOs and boards of directors leading financial services companies to think more critically about which selection criteria are the best predictors of CIO success. If a financial services company is only willing to consider corporate-level CIOs of peer financial institutions as candidates, the pool of available talent will look the same as it has in the past. If a financial services firm invests the time to learn how to evaluate against less surface-level selection criteria — for example, leadership capabilities demonstrated in analogous situations outside the industry as well as individuals’ capacity to thrive in new, unfamiliar and complex situations — they will find a broader and more diverse pool of executives to consider.
+
+From a search perspective, financial companies could be more open to considering industry outsiders from beyond fintech and technology. The larger the pool of candidates being evaluated, the more likely it is to be diversified. But in the long term, it comes down to developing diverse talent earlier in the ranks of leadership in every industry — rotating rising stars to make them credible CIO candidates in the future.
+
+The snapshot synopsis of our 2022 analysis
+
+While financial services companies are taking fewer risks on unproven CIOs, even from within the financial services industry, they’re much more open to recruiting from other industries in the hopes of capitalizing on new ways of approaching technology challenges. But only considering leaders in full CIO roles today is coming at a significant cost to diversity.
+
+2022
+2020
+2015
+2010
+% Change 2010–2022
+
+Promoted from within
+46%
+46%
+52%
+71%
+-35%
+
+Years as CIO (average)
+4
+6
+7
+7
+-43%
+
+First-time CIOs
+31%
+38%
+48%
+83%
+-63%
+
+CIOs from outside financial services
+31%
+18%
+12%
+4
+675%
+
+STEM degree*
+65%
+62%
+64%
+42%
+55%
+
+Years work experience before being named CIO (average)
+27
+28
+27
+25
+8%
+
+Female representation
+15%
+12%
+16%
+46%
+-67%
+
+* We were unable to determine whether some CIOs had a STEM degree: 4% in 2022, 4% in 2020 and 13% in 2010.
+▲ - denotes an increase from prior period.
+▼ - denotes a decrease from prior period.
+
+Author
+
+Eric T. Zakre
+
+New York
+
+Related Insights
+
+The future of technology leadership
+
+December 2020
+
+8 min read
+
+Businesses will emerge from the crisis with a greater reliance on digital technology. CIOs have a unique opportunity to use their enhanced status to accelerate the path towards digitization.
+
+Defining the New Technology Leaders
+
+June 2021
+
+11 min read
+
+In the wake of digital acceleration and the pandemic, new specialized technology leadership roles have emerged. We explore what they are, how to distinguish between them and their importance.

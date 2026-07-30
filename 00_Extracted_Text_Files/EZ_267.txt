@@ -1,0 +1,436 @@
+Power of Product Management: Insights from the CPO of Kognity - Egon Zehnder
+
+Skip to main content
+
+Search for “”
+
+... in Consultants
+
+... in Offices
+
+... in Services
+
+... in Insights
+
+Search all results
+
+Our Services
+
+Shaping Successions
+
+CEO Successions
+
+Executive Successions
+
+Board Successions
+
+Chair Successions
+
+Committee Chair Successions
+
+Advancing Governance
+
+Board Review
+
+Board Development
+
+Board Advisory
+
+Building Advisory Boards
+
+Sustainability Board Advisory
+
+Discovering Leaders
+
+CEO Search
+
+Executive Search
+
+Board Search
+
+Advisor Search
+
+Executive Assessment
+
+Developing Leadership
+
+Individual Development
+
+Accelerated Onboarding
+
+Development Planning
+
+Coaching
+
+Team Journey
+
+Unlocking Transformations
+
+Transformational Development Programs
+
+Chair and Board Potential
+
+Executive Breakthrough
+
+Executive Discovery
+
+Transformational CHRO
+
+Voyager
+
+Customized Leadership Immersion
+
+Explorer
+
+Cultural Transformation
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Chief Executive Officers
+
+Founders
+
+Technology Officers
+
+Chief AI, Data & Analytics Officers
+
+Chief Information Officers
+
+Chief Information Security Officers
+
+Chief Product Officers
+
+Chief Technology Officers
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+Consumer
+
+Consumer Products
+
+Media & Entertainment
+
+Restaurants, Leisure and Hospitality
+
+Retail, E-commerce, Apparel and Luxury
+
+Sports
+
+Financial Services
+
+Asset Management
+
+Banking and Markets
+
+Digital Assets, Crypto, & Web 3
+
+FinTech
+
+Infrastructure
+
+Insurance
+
+Private Equity
+
+Retail Financial Services
+
+Risk Management
+
+Sovereign Wealth Funds
+
+Wealth Management
+
+Health
+
+Biopharmaceuticals
+
+Healthcare Delivery & Services
+
+Life Sciences Tools & Pharmaceutical Services
+
+Medical Devices, Diagnostics and Technology
+
+Industrial
+
+Aerospace & Defense
+
+Chemical & Process Industries
+
+Energy
+
+Machinery & Industrial Technology
+
+Mining & Metals
+
+Mobility & Automotive
+
+Public & Social Sector
+
+Arts, Culture & Sports
+
+Economic, Social & Human Development
+
+Education & Research
+
+Environment & Sustainability
+
+Interest Representation & Public Affairs
+
+Public Administration
+
+Public Finance
+
+Public Health
+
+Public Infrastructure
+
+Services
+
+Air Transport
+
+Business Services
+
+Hospitality, Travel & Leisure
+
+Professional Services
+
+Real Estate Services
+
+Transportation & Logistics
+
+Technology & AI
+
+Artificial Intelligence
+
+Communications & Connectivity
+
+Cyber Security
+
+Digital
+
+Enterprise Tech
+
+Internet of Things
+
+Semiconductors
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+Functions
+
+Industries
+
+Meet our Consultants
+
+Discover Insights
+
+Find Offices
+
+About Us
+
+English
+
+Change
+
+Functions
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Industries
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+About Us
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+English
+
+Deutsch
+
+中文
+
+日本語
+
+Technology OfficersUnleashing the Power of Product Management
+
+Insights from Erik Almenberg, Chief Product Officer of Kognity
+
+June 2023
+
+8 mins read
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Erik Almenberg has always had one finger in product management, another in engineering and another in design. He draws on all three of those passions as the Chief Product Officer (CPO) of Kognity, an online teaching and learning platform based in Stockholm. He spoke with us about his path to product and the types of talent product organizations need.
+
+How did you get into product?
+
+I have a rather long and varied career, but the common theme has always been product development in some form. It was a field I have wanted to work in for as long as I can remember. I was always thinking, “What if we could make something that could solve this problem?” and it's fascinated me since I was a kid. I was originally trained as an industrial designer, and in that profession, you learn a lot about product development because you are there from the grain to the loaf. You meet all the functions involved at various stages, such as engineering, tool manufacturing, packaging, and marketing and communications.
+
+Then in parallel, the Internet hit really big when I was in my teens, so I started working with it right when I left high school. I've worked in product development and innovation on the consulting side and then in large companies in Silicon Valley, such as Yahoo, and Motorola in Chicago throughout the smartphone revolution, and eventually at EY Doberman here in Stockholm, then back on the consulting side.
+
+In all of these experiences, I was always concerned with the future and what could happen in five years. I often had to work with things where the path was unclear, and it was extremely fun for 15 years. But then I was questioning why it didn’t feel fun anymore. It was because almost none of this work comes to market. Companies tended to stick to their old core businesses, either because they don’t want to disrupt it or can’t afford to, or their Plan A worked so Plan B wasn't needed.
+
+At Motorola, for example, I worked on an alternative operating system to Android. The fear that Google would eventually charge for Android drove us to craft a Plan B. Although we had about 200 people working on it and the operating system worked, no customer ever saw it. It was an awesome operating system but with the disadvantage that it could never have had the same budget behind it as Android, so it was right in practice by the company to do this. I started to think that impact is what I had always been looking for. As a product-oriented person, I always want to find out how the product can make a difference.
+
+How do you think the product function will evolve?
+
+You have to remember that the product is the foundation of the business, so the product function needs to be deeply engaged in building a sustainable business. The trick is to find effective ways to connect the product function with other parts of the business, such as the sales department, while also ensuring customer retention through product performance and development.
+
+In B2B in general, and in the education sector in particular, customers are increasingly looking at the efficacy of the products they buy. This can be really challenging to do in the B2B world where the buyer and user are often different. Let's say you buy Microsoft's 365 Solution— it becomes crucial to identify what is good and bad for the user and measure it in real time. But users engage with Microsoft 365 in very different ways, which makes it challenging to understand what success is. If you do that, you can steer the product development exactly where the business is going, and you can get signals back from the business. It is where these gaps exist that it is much more difficult to collaborate.
+
+What do you wish management teams and CEOs better understood about product?
+
+I’ve had the advantage of working with very good CEOs, but some things stand out. First, you have to be able to link the product to the business. If the connection is weak, you have to work to build it. Building this link may be extremely expensive. For example, it’s possible for us to measure learning directly, but it comes with a very high cost, so that can't be our main metric. It might be in a few years, but not now. But we need to nurture that link because it connects product better to finance and sales, making this a company thing and not a product thing.
+
+The second is that debt accumulates over time. In product, you always work with debt. The key lies in determining how much debt is acceptable and manageable at any given time.
+
+We’re seeing instances where a CPO steps into a CEO role in the United States, but less so in Sweden or the Nordics. What makes a CPO a good successor to the CEO?
+
+Product development is business development. If you have that mindset, you are in the pool for a future CEO position. Then there's the customer contact, which is so valuable, and you have these strategic path choices. You can't just follow this sales cycle; you have to look further ahead all the time. What a product person tends to need to learn more about is how to sell, and that is usually what you have the least control over. You are more deeply involved in what users need and how to deliver those solutions, but you also need to know how and where it is sold.
+
+What kind of leadership is required in a CPO today?
+
+The more you lead, the more T-shaped you need to be. To deliver in my function, you have to be able to work sideways—that is exceptionally important. One must focus on the “C” part of the CPO role, gaining a deep understanding of how the company works and how the product function can help. To effectively run product, it must be an integrated part of the business and integrated into all planning.
+
+One thing that I see as absolutely central is that you have to think beyond empowered teams. I usually talk about the three As: Autonomy, Alignment and Accountability. Autonomy: we have smart, well-educated people with as much power and mandate in the organization as possible, but if you just do that, everyone runs in all directions. You have to have alignment so that everyone is moving toward the same goal. Lastly, there is accountability, which ensures you have the right people doing the right things, making the right decisions and learning from those decisions. It could be that someone made the wrong decision or even made the right decision, but it turned out to be the wrong outcome.
+
+Where should the product function sit within an organization?
+
+I think it's quite contextual. How big is the company? What does the industry look like? How many markets are you in? There is no boilerplate answer, you always have trade-offs. Someone once said that you have to think about where the seams are between the roles in the management team because that's where you get friction. As CEO, is it creating the debates you want and are they happening close enough to you? How do you want it in your management team? There should be constructive friction, otherwise, you are not challenging yourselves enough.
+
+I have a hard time seeing that product doesn't have some kind of role in a management team, but I'm very biased there. In the Four Fits Growth Framework, you have market, product, channel, and model, and that's how I try to shape our dialogues in our management team in the company.
+
+Tell us about building a world-class product team. Where does the talent come from?
+
+In building a Product team, you must have roles that manage the sellable product. If you don't do that, the question falls by the wayside and creates all kinds of problems. Then I believe in cross-functional teams. The right person depends on your company, so it's contextual. In our case, we need a mix of two things: one is the industry and the other is innovation. You need to find this tension between the disruptor and the insider at the same time. In our case, it is hard to find insiders in Sweden, so we hire a lot remotely.
+
+What about bringing in employees who haven’t worked in the industry before?
+
+Absolutely yes, 110 percent! But you have to have the right mix of know-how. Much of the industry specifics can be learned and is about being really good at the fundamentals, such as sales or technology. But if you don't know anything about the industry, you have a greater risk of choosing the wrong door when you select a path. If you have knowledge of the industry, you know a little about which choices are good to make.
+
+That balance is key, and it has been especially redeeming because of the pandemic. When we closed on the first day of the pandemic, I remember so clearly that feeling in the winter darkness. There was a concern we wouldn’t be able to achieve anything, but it turned out to be exactly the opposite. We became even more productive.
+
+We had already established the tools needed to work remotely so there was no interruption, but I can still feel this strong sense of surprise a few weeks in that the problems that were supposed to arise never came. Other problems came, but not the ones we expected. Then you have to ask yourself the question as a company, what does this mean when we now reopen? We concluded that you cannot be semi-remote because then you become in-between and how you engage becomes inconsistent. I can tell you more about how it works practically. For example, when we set up meetings now, they are default remote. Everyone opens their laptops and has their individual camera on, so everyone is on the same terms, which also applies to virtual whiteboards and everything like that. You then have 100 percent the same conditions. This, in turn, has meant that we also recruit where we find the skills and can look at more places than Stockholm.
+
+But we don't believe in running a company completely remotely. We fly in the entire company two times a year. Then we have additional trips for the teams and functions. Every now and then the agenda is to be together. It's not that you have to be productive, but then you have to build and strengthen relationships.
+
+What books would you recommend that inspire you?
+
+The blog post on Four-Fits 4-fits by Bryan Balfour changed how I think about product-market fit. "Continuous Discovery Habits" by Teresa Torres, especially how she uses outcome opportunity solution trees to steer prioritization.
+The third book I’d suggest is April Dunford's book about positioning called “Obviously Awesome.” It’s such a good name because that's exactly what positioning should be; it should be obvious that this is the right product for you.
+
+Topics Related to this Article
+
+Product
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Stay up to date with our latest insights.
+
+Subscribe now
+
+Changing language
+
+You are switching to an alternate language version of the Egon Zehnder website. The page you are currently on does not have a translated version. If you continue, you will be taken to the alternate language home page.
+
+Continue to the                 website
+
+Back to top

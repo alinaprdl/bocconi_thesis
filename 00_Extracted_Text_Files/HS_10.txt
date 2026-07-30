@@ -1,0 +1,228 @@
+Making transformation stick: Using interim leaders to turn ambition into execution | Perspectives | Heidrick & Struggles
+
+Making transformation stick: Using interim leaders to turn ambition into execution
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+On-Demand Talent Making transformation stick: Using interim leaders to turn ambition into execution
+
+Discover how interim leaders and on-demand experts help organizations make continuous transformation stick by closing the ambition–execution gap.
+
+Laura J. Klein
+
+May 14, 2026
+10m to read
+
+Transformations are no longer discrete, time bound initiatives. Instead, they have become the operating environment for the leaders we speak with today. Geopolitical shocks, market volatility, shifting stakeholder expectations, and technology disruption—particularly AI—have created a landscape in which change arrives in overlapping waves rather than neat phases. Large, "capital T” Transformation programs run alongside countless local pilots and “small t” transformation efforts bubbling up across the business.
+
+Faced with this transformation tsunami, most executive teams do not suffer from a lack of ambition. Strategies are thoughtfully crafted; targets are set; leadership teams can articulate a compelling vision. Yet execution routinely falls short of expectations.
+
+Our recent polling of senior leaders underscores the point. A large majority expect to pursue significant transformations in the near term, but confidence in their ability to fully execute lags meaningfully behind their strategic intent. In one 2026 LinkedIn poll conducted by Heidrick & Struggles, 80% of respondents said they were planning a transformation in 2026, yet 42% reported they were not confident in their leadership and available resources to execute it. When asked where they struggle more—strategy or execution—only a small minority (10%) selected strategy alone. The majority (87%) pointed to execution, or to both strategy and execution together.
+
+These findings echo our ongoing conversations with executives and transformation leaders about complex, multi-year transformations. The message is clear: in a world where transformation is the operating environment, the differentiator is no longer who has the boldest ambition, but who can build an execution engine that turns vision into results—without breaking business as usual.
+
+Transformation as the operating environment
+
+Often, transformation programs are still conceived as if they were finite, self-contained projects with a start date, a roadmap, an implementation period, and a handoff back to “normal.” That model is increasingly at odds with reality.
+
+The transformation context leaders now face is:
+
+Continuous: New waves of change arrive before prior initiatives have fully landed.
+Episodic: External shocks—regulatory shifts, supply chain disruptions, competitive moves—require rapid, discrete responses.
+Uneven: Different parts of the organization move at different speeds; AI pilots, for example, may advance quickly in one function while others struggle to adapt.
+
+In this context, treating transformation as an off-the-side-of-the-desk effort is no longer viable. We see leaders trying to run today’s business and tomorrow’s business on the same engine, with the same people and structures, and without a distinct operating model for change. Instead transformation needs to be designed into the way the organization operates. That means explicit choices about governance, talent, and resourcing—not just a list of initiatives.
+
+Why execution lags behind ambition
+
+If ambition is not the primary constraint, what is? Several recurring execution challenges show up across industries.
+
+The strategy–execution disconnect
+
+Most organizations can point to a well-articulated vision, quantitative targets, and what appears to be alignment at the top. Where things break down is in translating that ambition into a practical plan:
+
+Workstreams are loosely defined or overly aligned to the org chart rather than outcomes.
+Decision rights are unclear, which slows progress and creates shadow governance.
+Ownership for “who does what by when” is ambiguous, so no one feels fully accountable.
+Budgets and capacity aren’t aligned with the scope of change, and the expected ROI isn’t clearly defined.
+
+The BAU vs. transformation squeeze
+
+Frequently, I speak to senior leaders who’ve been asked to drive major change alongside full P&L or functional responsibilities. Transformation work is done “off the side of their desk,” but without clear cadence and forums, decisions slip, workstreams drift, and attention returns to the urgent demands of business as usual.
+
+Capacity and expertise constraints
+
+Program management offices (PMOs) are often staffed with capable generalists, but transformations hinge on deep expertise in specific domains—pricing, supply chain, data, digital, operating model redesign—that cannot always be sourced internally at the speed required.
+
+Inflexible resourcing and burnout
+
+Transformations do not demand the same level of effort from all teams at all times. Peaks of intensity—for example, during integration cutovers, ERP deployments, or major cost-takeout waves—are often staffed using static headcount, resulting in sustained overload, stalled initiatives, and growing skepticism about “yet another transformation.”
+
+Over reliance on fully outsourced models
+
+At the other extreme, some organizations hand execution almost entirely to large external firms. While this can create short-term momentum, it can also be long, expensive, and less likely to embed new muscles that endure once the firm departs.
+
+The result is a lot of motion, but too little meaningful change in how the business performs. Steering committees meet, decks multiply, and yet financial and operational outcomes look largely the same quarter after quarter.
+
+What execution readiness really looks like
+
+Closing the ambition–execution gap requires a different standard for “readiness.” Execution-ready organizations exhibit several common characteristics.
+
+Running today’s and tomorrow’s business simultaneously
+
+Execution readiness is the ability to deliver current results while building the capabilities and business models required for the future—at the same time, not sequentially. This demands explicit trade offs, not informal heroics.
+
+Bottom-up plans anchored in value
+
+Top-down targets set ambition; bottoms-up planning makes it executable. Effective plans operate simultaneously as business, project, and financial plans, spelling out actions, sequencing, required assets, and expected returns for each workstream. That rigor forces clarity and creates transparency on what is truly required to deliver.
+
+Cross-functional, outcome-based workstreams
+
+Instead of aligning work to existing silos, leading companies structure workstreams around clear outcomes: for example, “improve order-to-cash performance” or “accelerate digital sales conversion,” with cross-functional teams accountable for the result.
+
+Clear ownership and governance
+
+For each workstream, it is unambiguous what will be delivered, by whom, and by when. A transformation office—distinct from a traditional PMO—sets decision rights, sponsorship, and escalation paths so workstreams have clear direction and support.
+
+Rhythm and analytics as the engine of discipline
+
+Execution accelerates when there is a predictable cadence of meetings and decisions—weekly or even daily where needed—supported by robust analytics. The focus shifts from “What did we do?” to “What value did we create?” and “What needs to change next?”
+
+A resourcing plan with dollars and people
+
+Finally, execution-ready organizations match their ambition to a concrete plan for both budget and capacity. They specify who will do the work, for how long, and with what funding behind each workstream—rather than assuming already stretched teams can absorb more on top of existing responsibilities.
+
+How interim leaders and experts unlock execution at pace
+
+Even with strong structures, most transformations demand skills and capacity that internal teams alone cannot provide. This is where interim leaders and on-demand experts can play a decisive role.
+
+Flexible resources = capacity + skills + expertise
+
+Interim leaders and experts function as “organizational cloud capacity.” They can be deployed in weeks rather than months, scaled up or down as needs shift, and targeted to the workstreams that matter most. Experienced interim leaders bring deep pattern recognition, an external perspective unconstrained by internal politics, and the emotional intelligence to navigate complex stakeholder landscapes.
+
+Here are some of the ways we’re seeing organizations supplement internal teams with external expertise:
+
+Secondments: Junior consulting resources embedded to add hands and analytical capacity where teams are thin
+Targeted expert resources: Independent specialists—such as FP&A professionals, AI and data leaders, or process optimization experts—brought in to close specific skill gaps on priority workstreams
+That proved to be the solution for a global financial services company whose high-priority digital platform build had slipped 6–8 weeks behind schedule. The organization engaged a small team of seasoned digital executives with deep product, testing, and agile program leadership experience. Embedded alongside internal leaders, the team took ownership of critical workstreams, brought the program back on track, and reduced reliance on traditional consulting support.
+Interim workstream leads: Seasoned leaders who take full accountability for running individual workstreams for a defined period, often after a roadmap has been set but before permanent roles are in place
+When a large consulting firm exited a complex post-merger integration at a global media company, the client needed to assume ownership without losing momentum. A targeted team of interim integration, FP&A and change leaders drove priority workstreams alongside internal executives. This allowed the client to rapidly regain control, sustain their execution pace, and reduce external spend.
+Dynamic skill mix: The ability to swap external talent in and out as needs change, so workstreams always have the right capabilities, rather than a static team that is mismatched to different phases of the journey
+During a broader commercial transformation, a leading retail chain brought in an interim CMO to refresh its brand and customer experience. Partnering with the internal team, this leader developed a differentiated strategy and improved the in-store experience. As permanent capabilities took root, they smoothly scaled back their involvement, showing how external expertise can flex up or down as needed.
+Leadership risk mitigation: A pragmatic senior advisor working alongside the transformation leader to pressure-test decisions, provide an experienced sounding board, and help derisk high-stakes choices
+Facing a complex in-flight transformation, a large facility services company brought in a seasoned executive with large-scale change experience to coach an emerging internal leader. Working side by side, they rapidly stood up a high-performing transformation office, tightened governance, and maintained momentum while materially reducing leadership risk.
+
+Critically, the goal is not to substitute external talent for internal leadership, but to create blended teams. When interim leaders and experts are intentionally paired with high-potential internal talent, every deliverable becomes an opportunity for coaching, knowledge transfer, and capability building. Done well, the organization emerges from the transformation not only with results delivered, but with a stronger bench of leaders equipped to sustain and extend the change.
+
+From episodic change to enduring capability
+
+In a world of continuous transformation, the organizations that pull ahead are those that treat execution as a core capability—investing in disciplined workstreams, clear ownership, and a thoughtfully blended mix of internal leaders and interim experts.
+
+For executive teams seeking more guidance on when and how to deploy interim leaders and experts, The Transformation Playbook provides a practical roadmap. It highlights where internal capacity typically reaches its limits, how to pair interim talent with high-potential internal leaders, and how to use “organizational cloud capacity” to flex resources around moments of peak demand while laying the foundation for scalable standards and governance.
+
+About the author
+
+Laura Klein (lklein@heidrick.com) is a partner in the Financial Services Practice focused on interim solutions. She is based in the Boston office.
+
+Related content
+
+2026 High-End Independent Talent Report
+
+Report
+
+2026 Talent Lens Survey: The State of Interim Talent
+
+By Heidrick & Struggles
+
+By Heidrick & Struggles
+
+9m to read Article
+
+Interim leadership: A lifeline for the UK industrials sector
+
+Josh Doyle
+
+Josh Doyle
+
+5m to read Article
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

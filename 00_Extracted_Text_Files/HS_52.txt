@@ -1,0 +1,210 @@
+AI and leadership: How finance, HR, and technology leaders are collaborating to make the most of AI across the enterprise | Insights | Heidrick & Struggles
+
+Identified Country:
+
+AI and leadership: How finance, HR, and technology leaders are collaborating to make the most of AI across the enterprise
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Digital Leadership AI and leadership: How finance, HR, and technology leaders are collaborating to make the most of AI across the enterprise
+
+When leaders of these key functions work together effectively, their companies are more able to benefit from implementing AI. Focusing on three areas will help keep progress going.
+September 03, 2025
+
+Ryan Bulkoski ,
+Jaimee Eddington ,
+Katherine Graham Shannon ,
+Brad Warga
+
+AI is reshaping organizations—the way they operate, the way they hire, and the talent they need.1 But as AI becomes embedded in most companies’ operations, the most profound changes still lie ahead. As companies expand their use of AI, they are beginning to plan how they will bring humans and AI agents into productive harmony, and to better understand what that fundamental shift in the workforce will mean for individual corporate functions, for how key functions work together, and for organizational leadership. Without coordinated leadership, organizations risk fragmented AI deployments, culture clashes, and falling behind their competitors.
+
+With coordinated leadership, companies will be able to ensure AI makes the best contribution to their business success, and that their functions and functional leaders are able to use the time AI will free up productively, focusing on a deeper level of collaboration and strategic thinking. This article draws on our ongoing work and discussions with leaders in the finance, HR, and technology functions to suggest considerations for functional leaders at this stage of AI deployment.
+
+How AI is changing individual functions
+
+Leaders of the technology, HR, and finance functions are being called on to partner on AI implementation at an enterprise level. To do so effectively, they must understand both how AI will affect their individual functions and what that can mean for other functions and for the enterprise business model. All that is changing the capabilities these leaders need.
+
+Technology leaders are moving beyond tech
+
+Technology leaders today sit at the forefront of enterprise innovation. As every business became digital, technology leaders’ influence widened considerably. Now, CEOs are increasingly seeking technology leaders who can range well beyond the remit of managing legacy infrastructure and emerging technologies, to architecting and operationalizing AI capabilities that transform how work gets done and decisions are made. Technology leaders serve as translators and collaborators, bridging complex technologies and business priorities to enable sustainable growth, operational excellence, and competitive differentiation.
+
+One crucial element of their role is ensuring scalability and governance of AI deployments while embedding AI systems across core business functions. AI systems are performing functions including automating dynamic, multi-step processes (such as fraud detection or manufacturing equipment performance monitoring and repair), facilitating real-time decision-making (in situations such as sudden supply chain disruptions or complex customer questions), and continuously adapting workflows with minimal human intervention. Because these deployments range across functions, technology leaders must collaborate with other C-suite leaders to align initiatives with strategic goals, and to foster a culture that balances innovation (such as humans and autonomous AI agents working together) with ethical governance and risk management.
+
+Yet not every organization is equally equipped to harness agentic AI. The differentiator lies in having the technology leaders who can architect these systems and collaborate with their peers to navigate the cultural and operational shifts required to adopt them at scale.
+
+HR leaders are leveraging AI to ensure AI works for the whole organization
+
+Chief people officers (CPOs) are also taking on a more strategic role in their businesses, in an evolution that was accelerated by Covid-19 and is now a response to AI as well as a number of other trends.2 With AI specifically, CPOs face the challenge of ensuring the organization has the AI talent it needs, as well as the opportunity to use AI as a tool to free up time for humans to spend on strategy and change management.
+
+CPOs are starting by considering how they can weave AI into the expectations, experiences, and expertise of current team members. They are finding efficiencies in recruiting, for example, and in assessing employee engagement data more quickly to understand cultural barriers to AI adoption (and to culture broadly). In parallel, they are collaborating with other functional leaders on the fundamental changes in the size and structure of the human workforce that AI is creating; on using AI to make faster, more informed decisions about the organization’s location strategy; and on setting the trajectory for training, change management, and hiring for AI-related skills.
+
+Unlike the adoption of earlier HR information system tools, which required project-level coordination between CPOs and technology leaders, making AI work for the enterprise requires ongoing strategic collaboration. This enables CPOs to gain a firm grasp on how AI can enable their work in areas like recruitment and culture-building—where it is already showing transformative potential—as well as understand the fundamental changes AI is driving in other functions and how that will affect the employees those functions need.
+
+However, there is a long way to go. Our 2024 survey of chief data, analytics, and AI officers found that only 5% of those leaders named HR as the function they spend the most time with—yet more than five times as many identified HR as a stakeholder. Building those relationships is an investment HR leaders will benefit from taking on.3
+
+Finance leaders are collaborating to plan for AI-driven changes more effectively
+
+Finance leaders, of course, need to approve the significant investments that AI requires and model its potential benefits. They need to work more closely with both technology and HR leaders on these investments than they did with earlier technology deployments because of the way AI can fundamentally upend both costs and benefits at the enterprise level. Companies are finding that setting goals, planning for innovation and experimentation, and deciding how to reinvest cost savings are most effective when done collaboratively across functions.
+
+One simple example is that an HR team may have needed a relatively large number of people to manage employee benefits just a couple of years ago, but with AI, that number can be reduced. HR, finance, and technology leaders can then come together to forecast cost savings and strategize how to redeploy both the capital and the people to further equip and upskill the workforce across functions.
+
+However, our 2024 survey of AI leaders also found that the percentage saying finance is among the functions they spend the most time with fell to 15%, down from 20% the previous year.4
+
+Focus areas for leaders
+
+Technology, HR, and finance leaders are already working together on implementing AI, and will benefit from investing in strengthening those collaborations. Our ongoing discussions suggest three specific areas of focus that most leaders will find helpful:
+
+Planning the future workforce now: AI is already shifting how work is getting done across most functions, and other surveys we have conducted have found that functional leaders are focused on internal productivity improvements.5 The first step in planning the future workforce is identifying the tasks still ripe for automation, a collaborative effort across function leads. This work will inform recruitment and upskilling efforts to build the digital and AI capabilities required to drive transformation. Then, executives will benefit from projecting how the overall workforce configuration might shift over time, the ideal balance for their organization between humans and AI, the right skill sets and locations of the human workforce, and how to invest to get from here to there.
+
+Getting realistic about AI opportunities: Cross-functional conversations about how AI is actually changing operations, and how the organization is coping with change, can help leaders cut through the noise and hype of AI to understand their real—and realistic—opportunities for long-term performance improvement. These will certainly include new products and services as well as internal productivity improvement. With a clear understanding of resource and timeline constraints, organizations can then prioritize how to move forward.
+
+Investing in culture to support change: Because AI can so fundamentally change how work gets done, it’s crucial to support employees at all levels through the change. Some cultures are inherently flexible, while in many organizations leaders will have to invest effort into reshaping the culture. This will take clearly articulating the long-term benefits of the organization of AI, reiterating support for retraining employees and engaging them with higher value work as AI takes on simple tasks, and role-modeling comfort with using AI, among other factors. Encouraging experimentation and learning from mistakes will go a long way.
+
+Conclusion
+
+As AI becomes a normal part of day-to-day work, boards increasingly recognize that competitive advantage hinges on more than AI awareness—it demands empowered leaders who can operationalize it responsibly, collaboratively, and at scale. Executives across the HR, technology, and finance functions are being called upon to work together more closely than ever before to guide their organizations through the strategic, operational, and cultural challenges—and opportunities—AI presents. With the right approach to relationship-building and cross-functional collaboration, they can give their organizations the best chance of thriving in an AI-enabled future.
+
+About the authors
+
+Ryan Bulkoski (rbulkoski@heidrick.com) is a partner in Heidrick & Struggles’ San Francisco office and global head of Artificial Intelligence, Data & Analytics within the Frontier Tech Practice.
+
+Jaimee Eddington (jeddington@heidrick.com) is a partner in the Dallas office and global managing partner of the Corporate Officers Practice.
+
+Katie Graham Shannon (kshannon@heidrick.com) is a partner in the San Francisco office and global head of the Digital and Technology Officers practices.
+
+Brad Warga (bwarga@heidrick.com) is a partner in the San Francisco office and co-head of the global Human Resource Officers Practice.
+
+References
+
+1 For more detail on these changes, see Dorothy Badie, Ryan Bulkoski, Christina Cary, and Regis Chasse, “CPO focus: Leadership essentials for an AI-enabled HR function,” Heidrick & Struggles, May 21, 2025, heidrick.com; Ryan Bulkoski and Adam Howe, “Structuring the AI function: The right questions to find the right model,” Heidrick & Struggles, November 14, 2024, heidrick.com.
+
+2 Darren Ashby, Emma Burrows, Sandra Pinnavaia, Sharon Sands, Brad Warga, and Jennifer Wilson, “Chief people officer of 2030: Building a tool kit to get from here to there,” Heidrick & Struggles, February 20, 2025, heidrick.com.
+
+3 Ryan Bulkoski, Brittany Gregory, and Frédéric Groussolles, 2024 Global Data, Analytics, and Artificial Intelligence Executive Organization and Compensation Survey, Heidrick & Struggles, October 9, 2024, heidrick.com.
+
+4 Ryan Bulkoski, Brittany Gregory, and Frédéric Groussolles, 2024 Global Data, Analytics, and Artificial Intelligence Executive Organization and Compensation Survey, Heidrick & Struggles, October 9, 2024, heidrick.com.
+
+5 “How functional leaders are using AI—and barriers to progress,” Heidrick & Struggles’ Insights on Artificial Intelligence, Heidrick & Struggles, heidrick.com.
+
+Related Services & Industries
+
+AI & Technology Officers
+
+Digital Leadership
+
+Financial Officers
+
+Human Resources Officers
+
+Organization & Culture
+
+Related Content
+
+Leadership Development
+
+AI focus: Leveraging your culture to accelerate GenAI enablement
+
+Realizing the value of your AI investments relies more on your culture than on the technology itself. Our work and interviews with five executives highlight how companies are engaging their leaders to speed GenAI progress.
+
+FinTech
+
+Stablecoins and the future of finance: A conversation with Marieke Flament, co-author of Euro Stable Watch, board member and advisor
+
+Marieke Flament explores how stablecoins are reshaping global finance and what today’s leaders need to thrive in a decentralized financial system.
+
+Marketing, Strategy & Communications
+
+AI leadership in communications: A conversation with Corey duBrowa, Global CEO of Burson
+
+Corey duBrowa shares practical guidance for corporate communications leaders on harnessing AI, staying ahead of emerging trends, and advising CEOs and boards on the right questions to ask.
+
+Consumer Markets
+
+Emerging talent needs across the retail media and ad tech sectors: A conversation with Lisa Valentino, president of Best Buy Ads
+
+Best Buy Ads’ Lisa Valentino discusses the growth in retail media networks and what this means for talent across the retail, media, and ad tech sectors.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

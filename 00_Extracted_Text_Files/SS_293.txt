@@ -1,0 +1,132 @@
+Private Eye: Insights on Technology and Leadership in the Private Markets
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Private Eye: Insights on Technology and Leadership in the Private Markets
+
+By
+
+Peter Hodkinson and
+
+George S. Craft
+
+February 2023
+
+| 7 min read
+
+Authors
+
+Peter Hodkinson
+
+New York
+
+George S. Craft
+
+New York
+
+Spencer Stuart spoke with a variety of leaders in the industry — investors and functional executives, from firms large and small — to seek insights into the evolving value proposition of technology for private markets investors. Emerging from these discussions are technology questions that private capital leaders should be asking and insights into how to make far-from-simple decisions in this area.
+
+From the financial crisis to early 2022, the private capital industry enjoyed more than a decade of benign conditions and record returns. This includes not just private equity (PE) and venture capital (VC), but also “growth equity” (sitting between VC and PE), real-asset investors and credit alternatives to traditional bank lending. Money has followed, both in scale and velocity. The Economist reports that the sector has at least quadrupled in size since 2007, with perhaps $10 trillion under management by early 2022.
+
+While many scaled financial companies — including banks, exchanges and payments providers — now describe themselves as “technology firms” or seek to become “platform companies” for their industry, only a very few of the very biggest investment firms that focus on private investing have developed genuinely technology-enabled business models. Most are surprisingly old-world regarding their adoption of technology. Even the largest private equity firms tend to have core business processes — from capital raising and limited partner (LP) communication, to measurement of performance — far removed from equivalent activities in a modern retail brokerage or bank.
+
+Download
+
+Download
+
+To understand why the private capital industry has been a technology laggard, it’s helpful to think about the speed and volume of transactions that take place in this industry. As one private market leader we spoke with put it: “The velocity of transactions is so much slower in the private markets. That is a central reason why the business case for technology investment is often weaker.” As they point out, herein lies an underappreciated strength of the industry — “It’s also the case that the speed at which we make mistakes is slower.”
+
+Quote
+
+The velocity of transactions is so much slower in the private markets. That is a central reason why the business case for technology investment is often weaker.
+
+In other words, in private markets, speed of execution isn’t as important as the quality of the inputs to the decision-making, hence the relative value of data and analytics over technology. For many private markets-focused investment firms, this has meant the incubation of data science techniques into the investment process, often without the addition of a distinct data/analytics function. Investment in technology is typically to broaden niche capabilities — perhaps serving just, say, the credit team, in a way that benefits the whole firm, allowing it to scale.
+
+Things are changing quickly, and this article seeks to offer some insights to leaders in the private capital industry — identifying key inflection points and milestones when it may make sense to step up investment in technology and help with benchmarking against the market. Spencer Stuart spoke with a selection of leaders across different investing and functional backgrounds with deep private markets experience to get their perspectives, exploring the following questions:
+
+What are some of the indicators that you might need to invest in technology or technology leadership?
+
+To what extent should you be investing in technology given your current business and ambitions?
+
+How can you benchmark your firm (are you in danger of being left behind)?
+
+What are the culture or leadership implications of a meaningful shift to a more structured approach to investing in and using technology?
+
+Technology table stakes
+
+What are some indicators that you might need to invest in technology or technology leadership?
+
+You face challenges raising capital. One of the most basic technology needs most private firms have is a worthy customer relationship management (CRM) tool. The right CRM can differentiate your fund in competitive fund-raising scenarios. Put simply, if you’re still using Excel for limited partner (LP) reports, you may not be accessing the capital you could. CRM is used for activities from fundraising to deal pipeline, performance analytics and client reporting. A good CRM platform is a relatively small investment with a high return if adopted properly.
+
+The important connection between the LPs and general partners (GPs) is clunky. Another indicator that you may need to invest in technology is the length of time it takes you to report to the firm’s LPs. If they are asking for reports and you can’t deliver, you should probably invest in technology rather than people or time. A lack of modern digital reporting capability can be an important inhibitor to growth and scaling.
+
+The back office can’t keep up. If you are struggling to launch a deal or report on performance or opportunities at a company because the finance or fundraising teams can’t support it fast enough, technology can help. Finance, for one, is often where the problem becomes most acute because they are compiling data from multiple sources on a variety of platforms and are then answering bespoke questions on a range of complex matters (capital calls, tax implications, etc.). Stress among your finance and operations staff is often an indicator that business process could be modernized.
+
+The basics of “data governance” are not in place. Small, fast-moving investment firms tend not to prioritize seemingly arcane issues like data consistency or compatibility between functions or teams. With scale, this starts to become a real challenge, making life harder and more manual for the finance team and raising the risk of costly mistakes. Improvements in data governance can lead to a meaningful lift in speed and performance, as teams across the organization become able to seamlessly share data and content. Leadership teams that foster a strong data culture — a shared understanding of the importance of good data hygiene and stewardship —­­­ such as BlackRock and Amazon — tend to build foundations to enable scaling.
+
+Information security is weak. Cybercrime gets more sophisticated by the day, and every investment firm can become a victim. In order to be set up for sustainable growth, you need to make sure the firm’s basic infrastructure and information security programs are solid and resilient. If those aren’t in place, it can detract from sponsorship for investment in more strategic initiatives by the tech team. We also see LPs more regularly asking questions of the funds they invest in on information security and operational risk management.
+Relatively inexpensive investments in these areas will improve the team’s capacity to manage existing business demands and lay the foundations for real scaling.
+
+Relatively inexpensive investments in these areas will improve the team’s capacity to manage existing business demands and lay the foundations for real scaling.
+
+How does your fund compare?
+
+How does your fund compare to others when it comes to technology investment? While meaningful benchmarking data in this area is hard to come by, our informal surveying of a cross-section of leaders in the private markets provides some insights:
+
+The total number of technology employees as a percentage of total headcount ranges between 7 percent and 12 percent, with a 10 percent median.
+
+Across the board, the operational technology spend per employee hovers around $20,000.
+
+Cybersecurity spend spikes for those companies that invest in cyber insurance.
+
+The “right” level of investment in technology and leadership will depend less on the challenges you’re facing in the short term and more on the firm’s level of ambition. As one of our contributors commented: “If you’re a $200 million fund, the business case for real investment in portfolio analytics or deal pipeline technology is difficult to make. But if you’re serious about scaling to be a $1 billion fund, the calculation changes.”
+
+Another leader sees a large and growing divergence between the “haves” and the “have-nots.” The haves are firms that — through sustained investment in technology and data analytics over time — have developed outsize returns such that they have free cashflow to invest, creating a flywheel of sorts. Meanwhile, the have-nots find it difficult to break out of the cycle of maintaining expensive legacy technologies that are no longer necessarily fit for purpose.
+
+How can you tell if you’re a have or a have-not? Ask yourself this question: Does our firm “have our arms around” our data?
+
+Put differently, how good is your data? Do you have confidence in it? How are you using it? The still relatively small number of haves have cracked this code and are enjoying the operational and investment alpha as a result. But the majority of private markets investors will give either a purposeful, “No, we don’t,” or, worse, proffer an unsure, semi-positive answer that belies a lack of conviction to improve.
+
+One of our private equity contributors encourages firms to “just try.” Start small, pick an operational area or portfolio investment and work with an in-house team or a third party to apply a meaningful technological solution. See the results and leverage the experiences elsewhere as use cases arise. For example, a mid-market private equity firm with a transportation business discovered while automating some of its processes to make the business more efficient and scalable that the resulting data produced (“digital exhaust”) — such as contents of the truck and route information, information on the sender and receiver, etc. — was very valuable to hedge funds. This data became an important asset in itself.
+
+Leadership and culture
+
+What distinguishes private markets companies that have gotten this right and seen a sustainable positive return on investment from technology? The top leadership of such firms have avoided the classic mistake of hiring a good chief technology officer (CTO) and staying out the way to let them solve the problem. The business and investment leadership of firms that have enjoyed success with technology have purposefully given their technology leader a “seat at the strategy table” and then personally invest time in the topic so that they make wiser decisions and show real sponsorship for the CTO and the overall technology journey. As one of our interviewed leaders puts it: “Investing in technology creates a natural negative carry. You need to spend the time and think like a customer to make it successful. You can’t tune out when the tech guy comes in to present, and you can’t outsource this. The leaders of companies that get this right have made a mental shift and really feel accountable for the investments they sign off on.”
+
+Here are some of the indicators of a leadership gap:
+
+The firm starts seeing pockets of value from technology that can’t scale horizontally. For example, they aren’t applied equally well to other use cases or problems elsewhere in the business. This often leads to tension that simmers at first, then becomes obvious. We often see this dynamic in firms with technology or engineering leadership reporting to investment teams. A good CTO, with clear business sponsorship, can break down “silos” and deliver enterprise value.
+
+Technology is used as a stopgap — or the only solution — to the problem. Often in private markets companies, technology is seen as a solution to a specific problem. That tends to be the wrong way to think about it. Leaders need to instead think about the underlying business process. If you simply automate a bad business process, you’ll only benefit from a temporary reprieve. Involve your technology and data teams in solving real business problems.
+
+The most important value-add from a leadership perspective is to invest in the culture of the technology team.
+
+The organizational culture does not embrace a digital shift. For many private markets participants, technology is considered only a tool, not an ethos. The most important value-add from a leadership perspective is to invest in the culture of the technology team. If you’re not promoting and marketing them internally and externally, you’re not showing technology to be strategically important. Doing so can lead to meaningful jumps in productivity and value creation. At the leadership level, the CTO or chief information officer (CIO) should feel they have a seat at the table and are a key part of the bigger decision-making process.
+
+Moreover, if investment teams don’t believe they have to update the CRM, the return on investment (ROI) won’t materialize. That’s a culture issue. By the same token, front-office investments — deal pipeline, portfolio analytics, visualization, etc. — can be very impactful if there’s a real culture of adoption.
+
+Your technology leader doesn’t feel part of the business. Having made a decision to invest in technology leadership, then of course the question is what type of leader you should hire. A good CTO will immerse themselves in your business, learn to speak your language and frame solutions in business terms. When that doesn’t happen — either because the individual isn’t motivated or able to do or they feel shut out — trust is lost, and everyone suffers. Having seen expensive imports from Silicon Valley fail to adapt, one of our contributors suggests that firms starting out on the journey “try to find a tech professional with an investment mindset, someone who doesn’t overwhelm with years of experience, who you can easily integrate into the investment process. Those people are probably hungrier and scrappier than more experienced people and will carry less ‘organ rejection risk.’”
+
+If you’re feeling unsure about the firm’s technology capabilities and how they compare in the market, take solace that you’re in the majority. Making meaningful progress in building competitive advantage, or just catching up, requires a personal investment in learning about technology and its possibilities.
+
+We would like to particularly thank the following leaders for their valuable time and the resulting insights that went into this article:
+
+Lauren Dillard, CFO, Vista Equity Partners
+
+Luke Flemmer, Head of Digital Strategy for Alternative Investments, Goldman Sachs Asset Management
+
+Suhit Gupta, CIO, General Atlantic
+
+Authors
+
+Peter Hodkinson
+
+New York
+
+George S. Craft
+
+New York

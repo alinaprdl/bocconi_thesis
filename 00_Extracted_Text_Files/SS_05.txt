@@ -1,0 +1,103 @@
+How Leaders Can Navigate Volatility
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+How Leaders Can Navigate Volatility
+
+A Q&A with Rebecca Patterson, chair of the Council for Economic Education
+
+By
+
+Thomas T. Daniels
+
+June 2026
+
+| 5 min read
+
+Author
+
+Thomas T. Daniels
+
+New York
+
+Key insights
+
+The U.S. economy’s apparent strength is a bit more tenuous upon a closer look, Patterson says. The AI buildout and higher-end consumers are currently carrying much of the load.
+
+The biggest challenge from AI is governance and organizational design, not the technology itself. Questions about strategy, decision-making, adoption and communication must be answered early.
+
+Big risks in the year ahead include an AI backlash, capital flows from the Gulf, international trade uncertainties and borrowing costs. “Leaders have to be comfortable making decisions amid uncertainty,” Patterson says.
+
+In a business environment shaped by geopolitical instability, market concentration and the rapid adoption of AI, leaders today are being forced to make bigger decisions with less certainty.
+
+Tom Daniels, a senior leader in Spencer Stuart’s Financial Services, CEO and Board practices, recently sat down with Rebecca Patterson, chair of the Council for Economic Education, former chief investment officer of Bessemer Trust and former chief investment officer of Bridgewater Associates, for a wide-ranging discussion about the macro forces reshaping the landscape and what they mean for how leaders lead.
+
+This conversation has been edited for length and clarity.
+
+The economy and equity markets continue to perform well, despite geopolitical uncertainty and generally less positive sentiment. How can we reconcile this disconnect between where markets are pricing risk and what’s happening in the world? What should CEOs be thinking about from a macro standpoint?
+
+The economy and equity markets are connected, but there are different threads. Headline GDP growth in the U.S. economy looks fine on the surface, but under the hood things are less certain. The economy is increasingly reliant on the AI buildout and on higher-end consumers keeping things going.
+
+Remember, roughly 70% of the U.S. economy is driven by consumption. Right now, we’re depending a lot more on the higher-end portion of the consumer pie. Beyond that, businesses more exposed to the war — either directly or indirectly — are struggling, as are lower-end or even lower-middle-class consumers. Even people who are doing okay are anxious, given all the uncertainties. The best thing we can point to is the labor market: It’s not booming, but it’s not deteriorating either. People who have jobs are generally keeping them, which helps support consumption.
+
+Now, the equity market is also reliant on AI-focused companies, which have led the recovery since the lows after the war in Iran started, and frankly have led the market since ChatGPT came out at the end of 2022. If something were to happen to a few or even one of those AI hyperscalers, the whole equity market could fall with it, because there’s no other cushion. The potential catalysts for that scenario are endless — an idiosyncratic issue for hyperscalers, drops in overseas capital funding, the impact of war or higher-than-expected inflation leading to higher interest rates.
+
+What are the implications of these trends for boards, CEOs and business leaders? How should they think about their risks and their investment spending in this environment?
+
+First, as an executive, make sure you’re proactively educating your board. You can arrange field trips around board meetings, encourage directors to attend relevant conferences or invite subject-matter experts to board meetings. One board I’m on brings in an AI leader to each meeting so we hear different perspectives on AI, gain confidence in what we know and what we need to learn, and have better strategic conversations with our management.
+
+Second is scenario planning. More than a year before the 2008 financial crisis, when I was at JPMorgan, we were asked to provide forecasts for different scenarios — an economic “speed bump,” a “ditch” and a “black hole.” The bank was thinking through what was needed to prepare for a worst-case scenario since internal data suggested the odds of that were rising. Thanks to scenario analysis and a fortress balance sheet, JPMorgan got through the crisis much better than many peers.
+
+That experience stuck with me. Now I live in scenario analysis: thinking about my base case and the plausible alternatives, and planning for each possibility. The more you plan ahead, the more likely you’ll navigate any hit more smoothly. You have less risk of being caught off guard.
+
+When it comes to AI, research shows only about a third of companies are getting meaningful ROI from AI, even though almost everyone’s deploying it and budgets keep rising. From your vantage point, how much of that gap is a technology problem versus a leadership and organizational design problem?
+
+There can be tech challenges, but I think most of the challenges are organizational, not technical. Who decides the AI strategy? Who executes it? Who’s accountable for rolling it out? It can’t just be the IT department, and you can’t let every department do its own thing. You need to decide what benefit you want from AI, then work backwards. Identify the priority use cases and how they affect org structure and processes. It takes a top-down, holistic approach.
+
+For example, Amazon created a program to help clients define a strategic AI goal and implement it quickly, rather than letting adoption proceed piecemeal. That’s the right approach: Be clear on the goal and align the organization around it.
+
+Communication matters, too. A senior military officer recently shared a great story with me. He mentioned casually to his direct reports that he wanted his people to use AI more. Soon, even simple questions came back as lengthy, AI-generated responses. His offhand comment was treated as a strict mandate, creating inefficiency. His story is a reminder that strategy and communication must go hand in hand.
+
+Looking at the rest of 2026, what specific forces do you think business leaders are underestimating?
+
+One underappreciated risk is a potential AI backlash. Polls show people are increasingly growing nervous about job displacement, energy costs from data centers and insufficient regulation. That concern is quickly growing, and it could easily become a political issue, beyond the internal corporate management challenge.
+
+Another is capital flows from the Gulf. Over the past decade, countries like Saudi Arabia and the UAE have invested heavily in U.S. tech and AI. If the war pressures their revenues and budgets, more capital may stay at home. AI companies, and related financial intermediaries, have relied heavily on this funding source. If it pulls back, it could spill over more generally for markets.
+
+Trade is another risk. The USMCA is up for review this summer. I expect it will be renewed, but it could be a bumpy process. Beyond that, existing tariffs are expiring and new ones are coming, which means tariff uncertainty will be with us all year.
+
+Finally, borrowing costs. The 10-year Treasury yield has been drifting up, reflecting inflation worries and higher expected debt issuance. Companies may be operating in a world of structurally higher rates, and that should factor into investment decisions.
+
+What advice would you give to CEOs about leading through the next decade of volatility?
+
+I have a lot of sympathy for CEOs — it’s hard to stay on top of all this and run a company at the same time. That said, it’s critical to understand what’s happening and how geopolitical events can affect your organization. If any CEO feels they need to have all the answers before acting, stop. No one knows everything. Often, we don’t know much at all. You can’t wait for perfect information.
+
+None of us knows when AI will generate productivity gains, how severe labor disruption might be, or what the world order will ultimately look like. But inaction has a cost. Leaders have to be comfortable making decisions amid uncertainty.
+
+Scenario analysis helps. So does frequent, honest communication — where you explain what you think is likely, what you’re doing and what your backup plan is. That builds trust, even when you don’t have all the answers.
+
+You’ve been recognized as one of the most powerful women in finance. Looking at today’s emerging leaders, what strengths do they have that your generation didn’t, and what still needs development?
+
+Younger leaders today are tech natives in a way we weren’t. They’re comfortable with technology and not afraid to jump in.
+
+But some muscles are underdeveloped. One is sustained focus. We live in a world of short sound bites and constant stimulation, and sitting with a hard problem for days can be challenging. Another is that this generation hasn’t experienced a traditional, prolonged economic downturn like 2008. Going through something like that prepares you for future shocks.
+
+I also see less reading and writing. Those skills are critical for deep thinking, and in an AI-driven world, strong critical thinking will be essential. Leaders need to mentor and create opportunities for younger people to build those capabilities.
+
+One last question. What can we expect from your new book?
+
+Talking with other women in finance, we realized we’re all asked similar questions by friends and family about investing — where to start, whether to hire an advisor, how to think about different assets. These are often very successful people who simply haven’t had time to build financial expertise.
+
+So we asked 25 women to each write a chapter sharing the advice they give to people they care about, along with stories from their careers. The book focuses on practical guidance — how to think about asset allocation, choosing an advisor, insurance and alternatives — without telling people what to buy. The goal is to help people feel more confident about their finances, and any proceeds will go to financial literacy and education charities.
+
+Rebecca Patterson’s forthcoming book, Investment Wisdom for our Friends and Loved Ones, is scheduled for publication with Harriman House in November 2026.
+
+Author
+
+Thomas T. Daniels
+
+New York

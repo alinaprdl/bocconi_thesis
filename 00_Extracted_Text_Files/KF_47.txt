@@ -1,0 +1,214 @@
+The CEO’s Hidden Helper
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+The CEO's Hidden Helper
+
+As AI gets better at making decisions for CEOs, investors and boards may ask: Who’s in charge here?
+
+Latest Issue:
+
+​
+
+Download a PDF
+
+​
+
+Browse the Flip Version
+
+By Peter Lauria
+
+May 28, 2026
+
+The debate went on well past midnight. On paper, the acquisition made sense, but the CEO still needed convincing. He peppered his high-level colleague with questions about the target company’s financial performance and growth projections. He asked questions about employee and customer posts on Glassdoor and LinkedIn. He proposed different black swan events to gauge vulnerabilities and asked for a perspective on how shareholders would react.
+
+​
+
+THE PROBLEM Leaders who are relying on AI for decision-making can create risks and liabilities for their firms.
+
+​
+
+WHY IT MATTERS Directors and investors can be blindsided by new risks.
+
+​
+
+THE SOLUTION Improve—and continually update—AI training for high-level decisions.
+
+The eager-to-please colleague, who had an uncanny ability to process information, offered persuasive responses, and ultimately gave the CEO enough confidence to move forward with the deal.
+
+The only problem? The “colleague” was AI.
+
+CEOs—like everyone from priests to grammar-school students—are using AI tools more than ever before. One recent study found that leaders spend up to eight hours per week thinking about, working with, or learning about AI. Another study found that CEOs are relying on AI more than CFOs and other C-suite leaders for basic tasks like punching up speeches, synthesizing market data, and preparing for board meetings.
+
+“Lots of decisions made by CEOs today can be taken over by AI.”
+
+They are using AI to redesign operations, analyze emerging risks, and make major decisions on acquisitions and workforce needs. Where CEOs used to turn to their executives for input on these decisions, experts say more are now turning—often quietly—to ChatGPT, Claude, and Copilot.
+
+The more CEOs use AI models, the more they are training them to take on high-level thinking, decision-making, and judgment responsibilities. So much so, in fact, that leading CEOs—across industries; not just those in tech with skin in the game—are speculating about a radical notion: that AI could eventually do the top job. “Lots of decisions made by CEOs today can be taken over by AI,” says Darko Butina, cofounder of an AI management company and author of several books on AI and leadership.
+
+Does it seem unthinkable? Consider that AI can outperform human CEOs in data-driven tasks such as market optimization and product design. One study that pitted AI against humans running an auto company found that the AI achieved higher market share and greater profitability than its carbon-based counterparts. And companies run exclusively by AI agents are being launched every day. Tang Yu, the AI-powered CEO of a publicly traded gaming company in China, won the “China’s Best Virtual Employee of the Year” award in 2024.
+
+“The CEO’s advantage must shift from ‘knowing more’ to ‘deciding better.’”
+
+For investors, board directors, and other stakeholders, the key question is whether CEOs are using AI to inform decisions, or to make them. It’s a fine line. According to a report from the Global Association of Applied Behavioural Scientists, 85 percent of mid- to senior-level professionals, including CEOs, have never received training in decision-making, and 45 percent have no structured process for making decisions. Against that backdrop, some leaders may be susceptible to taking AI’s advice without proper vetting, which could expose firms and boards to all sorts of fiduciary, regulatory, and legal liabilities. Shareholders can’t exactly sue AI for a value-destroying acquisition. Or, as Bryan Ackermann, head of AI strategy and transformation at Korn Ferry, puts it, “The buck stops with a person, not an agent.”
+
+A Rudimentary Use of AI
+
+History suggests that CEOs as a class aren’t early adopters of new technology. Computers were initially considered a clerical tool, and studies by Pew and Harvard in the early 2000s cited instances of Fortune 500 CEOs dictating emails to assistants and receiving printed copies of messages. So far, a similar pattern is emerging with AI—but with some key differences. For instance, the use of emerging technologies has usually been mediated by IT leaders, but CEOs are experimenting with large-language models, or LLMs, largely unsupervised (at least within the framework of firms’ approved tools and policies).
+
+The problem is that most CEOs still don’t really know how to use LLMs. Nor do they understand what the technology is and isn’t capable of, says George Westerman, an MIT senior lecturer in information technology and author of several books on digital transformation. Westerman is frequently invited to speak and run demonstrations for corporate boards and has provided private trainings to several Fortune 500 CEOs. “At this point, they are just using it as a substitute for a search engine,” he says. To be sure, younger generations have described the way CEOs—and older people in general—use AI as “the boomer way.”
+
+Doubting Thomas
+
+AI may be helping leaders make decisions, but even without the technology they have plenty of telltale signs that should set off alarms for stakeholders.
+
+Consensus Without Conflict
+
+Healthy debate, even as
+an exercise, should be a
+part of any major
+decision-making
+process. Studies
+show that decisions
+made with little or no
+disagreement could be
+a sign that people are
+afraid to voice their
+true feelings
+or opinions.
+
+Time Pressure with No Deadline
+
+It’s the business
+equivalent of
+“hurry up and wait,”
+and managers often
+fall victim to it. They
+feel pressure
+from the top,
+real or not, to
+quickly make
+decisions without
+proper analysis
+or vetting. The risk is even higher with
+the expectations for
+productivity and efficiency
+that come with AI.
+
+Overconfidence
+
+Any decision that
+is described as
+a “home run,”
+“slam dunk,”
+or “sure thing”
+should be viewed with
+caution, say behavioral
+psychologists. It signals
+overconfidence and a
+failure to acknowledge
+potential risks and
+plan accordingly.
+
+Dismissing the Data
+
+Not every decision has to go
+along with
+what the data says.
+Dismissing contradictory
+data when making
+decisions, rather than
+taking it into account,
+should be a red flag.
+
+Insular Advice
+
+What looks like a great decision from
+the inside could look
+completely different to
+employees, customers,
+investors, and other
+stakeholders. Experts
+advise leaders to
+seek outside
+opinions
+on major
+decisions.
+
+For their part, CEOs seem to be aware of what they don’t know. Westerman recalls a training session with a Fortune 500 CEO that underscored the existential fear lurking beneath the surface in many cases: “He said to me, ‘I’m supposed to be making all these big decisions about AI, but I have no one to ask the stupid questions to.’”
+
+That’s a precarious position for a leader, and one that has massive implications for business strategy, talent management, and more. For starters, executives are using AI—which means CEOs need to be able to vet the information that informs their subordinates’ decisions. “The probability of making bad strategic decisions based on unvetted AI inputs is growing exponentially,” says Korn Ferry’s Ackermann.
+
+The Achilles’ Heel of AI
+
+Studies show that while AI excels at data-driven insights like pattern recognition or operational analysis, it struggles with unpredictable events, ambiguity, and social relationships. In a test run, Andon Labs put an AI agent in charge of running a vending machine and found that it successfully handled many of the operational aspects of the business, such as supplier negotiation, pricing decisions, and marketing strategies. In trying to achieve its goal of maximizing profitability, however, the AI agent engaged in questionable tactics—for instance, attempting to collude on prices and misleading customers about refunds. “Leave an AI agent alone long enough, and it can run a profitable business,” says Andon Labs cofounder Axel Backlund. “But when it interacts with humans, that’s where the problems start.”
+
+Studies also show that LLMs, rather than challenge a user’s request, are more likely to affirm, or seek to confirm, it. Sophisticated users—which CEOs are not—also know that LLMs respond differently to the wording and tone of prompts. Put another way, if a CEO is prompting an LLM to explain why a potential acquisition makes sense, the LLM will find reasons to support the underlying argument, rather than question its wisdom.
+
+“CEOs as a whole feel more exposed than ever.”
+
+The inherent desire of AI to be agreeable can be thought of as analogous to a common CEO underling: the “yes” man. The dynamic is compounded by the fact that CEOs, whether by preference or not, don’t often get questioned about their decisions.
+
+Only about three in 10 executives (and even fewer middle- and junior-level employees) feel comfortable questioning leadership. The same reluctance is well-documented at the board level as well: Studies show directors rarely oppose CEOs publicly, and that if they do, it tends to be after decisions have already been made. Even worse, nearly 80 percent of executives say they only “sometimes or rarely question the data or insights” they rely on for decisions.
+
+In practice, the playing out of that dynamic inside organizations is nothing short of a governance crisis, says Claudia Pici Morris, leader of North America Board and CEO Succession Solutions at Korn Ferry. Executives who are trusting AI blindly can potentially send information up the corporate food chain to a CEO who is making decisions the board likely won’t question. For this to happen would be a spectacular failure of oversight controls, of course, but such things can sometimes happen in corporations. “This is a defining governance moment,” says Morris. “Directors should move now to make oversight of agentic AI a standing element of board-level performance and risk dialogue.”
+
+First-Time CEOs
+
+Last year, CEO turnover at public companies totaled 446, a new record. Overall CEO exits were 2,032, 9 percent fewer than in 2024. CEO tenure has been steadily declining, averaging around seven to eight years, but the number of CEOs leaving within three years increased by 79 percent in 2025, indicating boards are moving faster to make a change when leadership isn’t performing.
+
+Unlike their predecessors, however, boards today aren’t replacing these CEOs with more seasoned and experienced leaders. Quite the opposite: They are opting for younger, less experienced successors. CEOs under the age of 60 are being appointed more than ever, and last year, 84 percent of the 168 CEOs appointed to S&P 1500 firms were first-time CEOs. Experts say the transformational power of AI is driving the shift. “No one has experience with the kind of business change AI presents,” says Constantine Frantzeskos, a founder of AI-run businesses in sales and travel who provides executive-level training to boards and C-suite leaders.
+
+CEOs certainly feel the pressure. In a recent survey, half of leaders reported feeling that their professional success hinged on getting AI right. Another study found that three-quarters of CEOs believe they could be fired if they don’t deliver measurable returns from AI within the next two years. Or, as Frantzeskos puts it, “CEOs as a whole feel more exposed than ever.”
+
+Delivering measurable results from AI can take many forms. Among the tangible ones are revenue growth, increased market share, lower capital costs, and higher stock prices. Achieving those metrics, say experts, will be less about big decisions and more about humans and AI working both independently and collaboratively to make hundreds of little ones—for instance, whether a legal department is still needed (hint: it is!), to cite an example from one of Westerman’s training sessions. Investors and boards are already closely scrutinizing capital allocation, restructuring, layoffs, and other decisions made by leaders in the name of AI. Given what’s at stake, even the slightest strategic miscalibration could be catastrophic.
+
+As it currently stands, AI is clearly influencing how CEOs evaluate problems, assess options, and make decisions. But AI doesn’t stay the same for long: An LLM can develop proficiency faster than a human can develop leadership skills. As AI reasoning and critical-thinking capabilities get more advanced, they will have an increasing influence on decision-making. As a result, CEOs’ judgment will become more visible and more important to strategic direction. “AI will handle the implementation,” says Frantzeskos. “It’s up to CEOs to set the values, rules, strategy, and risk appetite.”
+
+Ackermann agrees. As in any other role, he notes, the CEO position will evolve in tandem with AI, as will the definition of good leadership. “The CEO’s comparative advantage must shift from ‘knowing more’ to ‘deciding better.’”
+
+Image credits: Showcake/iStock/GettyImages, Gearstd/Getty Images, Caia Images, Simple Images/Moment,Stefanamer/Getty Images, PeopleImages, Jon Feingersh Photography Inc, Maria Korneeva/Moment/Getty Images
+
+Related Articles
+
+View All Briefings Issue 74 Articles
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Briefings Magazine
+
+May 28, 2026
+Insight Articles
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

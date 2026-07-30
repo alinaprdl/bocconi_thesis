@@ -1,0 +1,244 @@
+Leadership assurance: A fresh look at measuring the impact of leadership development | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Leadership assurance: A fresh look at measuring the impact of leadership development
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Leadership Development Leadership assurance: A fresh look at measuring the impact of leadership development
+
+Companies are spending more on leadership development, and it is becoming increasingly critical for them to understand the return on their investments. Taking a fresh perspective on five keys to success provides a practical path to align leadership development outcomes with value creation.
+
+Read the full article
+
+This article is one of many exploring Leadership Assurance: How the alignment of leadership succession planning with business strategy as well as a continuous, data driven, holistic, and enterprise-wide approach best-positions organizations for long-term stability and success.
+
+Explore additional insights
+
+Recent Heidrick & Struggles research indicates that companies around the world intend to increase their investment in leadership development by an average of 10% a year over the next three years, which will bring spending to an estimated $51 billion in 2026.1 Companies are investing to build the leadership skills and capabilities needed to survive and thrive in economically, socially, and politically volatile times. They are also investing because development opportunities are important elements of any company’s strategy to retain leaders and top talent.2 Other recent Heidrick & Struggles research shows that 77% of executives say they are at risk of losing team members because better promotion and development opportunities can be found elsewhere, and 92% cite learning and development and development opportunities as top retention tools.3
+
+But leadership development has long been an area in which measuring impact is murky at best. There is a widely accepted model to measure impact at four levels: reaction, learning, behavior, and results.4 Yet our survey of HR and learning leaders found that although 85% believe that measuring the impact of leadership development programs is important, 48% are not satisfied with their measurement approach.5 In the age of increasingly sophisticated people analytics and critical leadership shortages, there is no excuse for this failure. Even among companies that claim to measure impact, we find in our work that they rarely venture beyond the most basic measure: participant reactions. Even when they do, most find it hard to define metrics that meaningfully correlate leadership development journeys—which can take months or years—to specific business outcomes. Furthermore, key stakeholders often resist engaging in the effort it takes to tease out these types of findings.
+
+Reframing the goal of measurement can change the game: instead of assessing whether a given learning intervention was well received, the focus should be on the extent to which a leadership development journey fostered observable growth and helped leaders generate more value for the business. An emphasis on value creation can motivate sponsors of leadership development to engage in the discussions and planning that are necessary to demonstrate true business impact.
+
+That said, it is important to note that a simple calculation of return on investment is unlikely to ever be straightforward for leadership development, as is the case for most investments in people. There will almost certainly be other variables in play within an organization that will make it difficult to claim that any given outcome was definitively caused by a leadership development initiative. However, being able to show specific correlations between development investments and positive business outcomes is an important step in the right direction. Companies that are thorough and thoughtful should, over time, be able to understand which investments are linked to the greatest value creation. Then they will be able to more effectively position development journeys as a key component of a broader career development strategy that also includes, for example, rotational postings or stretch assignments, mentoring, and inclusion in robust executive succession plans.
+
+Through our work, we have seen five success factors for an evidence-based approach to measuring the impact of leadership development:
+
+Leading companies are reframing their assessments of these factors to create robust measurement plans. The more robust the plan, the easier it is to engage stakeholders throughout the learning journey; hold individual leaders accountable for improvements; adapt learning programs quickly when expectations aren’t met; and trace clear connections from programs to specific business performance indicators. In other words, a virtuous cycle from investment to return.
+
+Factors underpinning an outcomes-focused approach
+
+Embedding measurement throughout the learning journey requires strong collaboration between business stakeholders, L&D teams, and learners in order to ensure that the right evidence is collected at the right times.
+
+Defining success in tangible terms
+
+Before designing a learning journey, the business stakeholders and L&D team must align on the metrics that will signal the journey’s success. They should ask the following questions:
+
+What business problem(s) are we trying to address?
+How can learning help?
+What business outcome(s) are we trying to achieve?
+Which business key performance indicators should we target?
+By when can we expect to see significant movement in these KPIs?
+
+The table below shows how problems, learning goals, desired outcomes, and specific metrics can be defined in some illustrative situations.
+
+As leaders develop their outcome expectations and KPIs, it is important to consider why similar goals weren’t reached in the past and whether or not developing leaders’ capabilities is actually the right way to address the business problem. Sometimes, it clearly is: leaders at one organization felt that their prior change management efforts had focused too much on tools to manage a single change event. But now, in a period of continuous and acute transformation, they believed that focusing on mindsets, skill sets, and behaviors would yield more relevant and sustainable benefits.
+
+Conversely, when leaders find it hard to define exactly how learning can move them from problem to improved KPI, it may be a sign that building new leadership capabilities is not the optimal solution for the problem at hand. Another company aspired to address a long-standing conflict between two business units that would need to work together more closely in the future. To avoid escalating existing tensions among leaders in these units, the company decided to focus on building collaboration capabilities for leaders in general versus hitting the problem head-on. Before long, though, it realized that this safer, more indirect approach was missing the mark. The company then deployed a solution that engaged leaders from these two units in cross-functional team building and conflict management exercises. The learning was, as anticipated, more uncomfortable, but it was more impactful.
+
+Diagnosing baseline data
+
+To measure success, you must know where you are starting. This step is not always as simple as it sounds. Baseline measures of current revenue or cost typically exist, but more operational business metrics may not. For example, a retailer designing a learning program to support a data and analytics transformation decided to create a set of metrics to measure how data was used across the organization. The baseline in this case was that there were only a handful of operational dashboards used by a very small number of leaders and primarily focused on point of sales operations in a couple of countries, despite the fact that the company had stores in 16 additional countries. The existing dashboards did not cover the enormous amount of data collected from shoppers on their buying patterns or satisfaction with the shopping experience. Yet the transformation would only be successful if dashboards were more comprehensive and their use more pervasive. This understanding provided a clear reference point to evaluate if the learning journey designed to support the transformation improved the use of dashboards and customer data.
+
+For leadership capabilities and skills, determining a baseline will likely require a rigorous up-front diagnostic at the individual, cohort, or organizational level. Many companies have competency models to codify the behaviors leaders and others must exhibit, from which they can then assess a baseline.
+
+One global pharmaceutical company realized it had a shortage of executives ready for key leadership roles in a particular division. So, it assessed the capabilities of all leaders from this division who would be part of a learning journey. It discovered notably low scores on agility, which clarified for the company that agility should be the priority focus for its learning program and that the key impact metric would be the degree to which participants’ aggregate scores on agility increased from pre-program to post-program.
+
+There are many tools and metrics that can be used to help determine a baseline, from specific data in existing financial or operational dashboards to performance reviews of participants to employee surveys to individually focused assessments and 360-degree evaluations. A newer type of tool is digital conversations, targeted online surveys that can be live or asynchronous and that allow individuals to respond in real time and react to the responses of their peers as well. At one organization where the CEO had introduced five leadership imperatives as the focus of a leadership development journey, digital conversation input from hundreds of participants was able to determine a clear baseline on how well the organization was doing before learning started.
+
+Developing a data-informed learning experience
+
+Building on the defined business outcome and targeted baseline data, business stakeholders and learning leaders can then develop a program customized to reach the goals.
+
+At the global pharmaceutical company, for example, the division president, along with HR and learning leaders, developed an 18-month leadership journey designed to address specific gaps identified in the data. The journey included some content, such as building agility, for all participants, and some content tailored to each individual based on their own assessments, gaps, and interests.  The experience included intensive live workshops, coaching, mentoring, networking, virtual micro-learning modules, meetings with the president, and engagement of the full cohort in high-priority projects to address business transformation. Senior leaders other than the division president played the role of “diagonal coach” to participants, offering targeted support outside their direct reporting line to help address specific succession readiness gaps. This coaching not only helped participants develop critical insights that spurred their development, but it also increased their exposure to the divisional leadership team. This visibility helped to ensure that their names came up in critical promotion and succession planning conversations. This focus clarified one of their key outcome metrics: to track and measure succession planning in order to address the gaps.
+
+A global technology company built a learning journey focused on accelerating the readiness of female leaders for more senior roles. The company had administered a robust 360-degree assessment to all participants to identify collective strengths, gaps, and behaviors that could derail success. Leaders then designed a journey that included four multiday, in-person modules that were held at locations around the world where the company had innovation centers. This decision stemmed from the CEO’s and CHRO’s desire for these leaders to be at the vanguard of the firm’s—and their clients’—digital transformation. The knowledge they gained ultimately enabled these leaders to become champions of the firm’s strategic transformation from a traditional IT services company to a premier digital solutions advisor. This aligned with one of their key outcome metrics: to increase digital transformation projects and innovations.
+
+Determining early indicators and adapting incrementally
+
+As the learning journey kicks off, it is crucial to communicate the business and individual goals and KPIs, along with the baseline, to learners so that each person understands and can take ownership of their individual part of the learning experience. Then, the question becomes, “How soon can we look for progress?” Depending on the capabilities in question, it can take months—sometimes more than a year—to observe the full benefits of a program. But leaders can hardly wait that long, given the size of their investments and the potential benefits.
+
+Leading companies establish and measure a series of early indicators to gauge progress or the lack thereof. When an early indicator shows that the program is deviating from the expected outcomes, they have the opportunity to course correct early on, either on an individual basis or by making adjustments to the program as a whole. Effective early indicators signal the extent to which individual leaders have improved their behavior or performance by acting on what the program taught them.
+
+Facilitators, program managers, and sponsors can gather real-time information during a leadership development session through, for example, quizzes on specific content and by asking leaders to share key insights from the session and specific commitments to apply these insights back at work. Another technology company, for example, was focused on shifting mindsets and building skills related to a broad leadership capability. To achieve this aim, the company developed a series of virtual group sessions, each of which was focused on just one or two areas within this broader capability. Despite carefully designing these sessions, stakeholders obtained feedback from the first session that indicated that leaders hadn’t fully understood, internalized, or applied what they were supposed to have learned. And so the company shortened subsequent sessions and reduced the amount of content to allow for longer breakout segments where leaders could really dig into the content together and come up with ideas for how they could apply it day to day. The company also increased the role and presence of executive sponsors to further underscore the urgency and business imperative of the learning sessions and to serve as role models for taking the learning seriously.
+
+A follow-up survey immediately after any given session asking not whether learners enjoyed it but instead how they will experiment with their new skills in their day-to-day work can also help gauge early effectiveness. In addition, in many cases companies can send learners follow-up online tool kits to further equip them to implement new skills or capabilities.
+
+Companies can then track whether these tool kits are opened and used. In some cases we’ve seen, learners meet in “peer coaching circles” to share what they’ve applied and what went well and what they found difficult. Such sessions can also be tracked. Some companies also use peer champions, who get additional training or support for their roles, to do just-in-time check-ins, observations, and peer coaching to reinforce and facilitate the application of learning. Other companies deploy senior leaders to check in on and support the application of new concepts or tools.
+
+A slightly longer-term tactic is running surveys or focus groups a month or so out from a given learning session. At this point, companies are able to gauge what leaders have retained from the program and to gather examples of how they’ve applied this learning. The retailer focusing on a data transformation, for example, asked about leaders’ memory of the data and dashboards available in the organization and how they were using this information to make decisions differently. Those who weren’t yet using them were given individual nudges that promoted newly available dashboards and asked whether they needed more support from IT. (Quizzing participants on past learnings just before each new session in a learning journey can also be helpful to determine whether review content is needed.) And sometimes surveys identify additional benefits. During the global pharmaceutical company’s program, for example, participants particularly highlighted the value of the network and connections they were able to build.
+
+After a few months, leaders have their first opportunity to understand if the applied skills are starting to deliver the expected individual and collective improvements. Feedback from the manager or other key stakeholders is instrumental, alongside relevant individual KPI data compared with the baseline data. At the global pharmaceutical company, for example, 360-degree assessments at this stage showed that the group as a whole had increased their scores related to agility by 32%.
+
+When a learning program includes participation in solving a real business problem for the company, reviews of progress by senior leaders are another important early indicator. Both the global pharmaceutical company and the global technology company used this approach, and, in both cases, the senior leaders reviewing the work found that the business problem was being addressed successfully and that individual learning goals were being met.
+
+Documenting and reporting evidence of business impact and creating the virtuous circle
+
+Finally, based on the previously agreed timeline, the identified business metrics can be collected and analyzed. The data, combined with qualitative interviews with participants and their managers, can provide insights and recommendations not only on the effectiveness of the leadership development journey in driving business results but also on whether better results could be reached with changes, either to the learning journey or to the metrics. It is important that business stakeholders, as well as the L&D team and HR management, fully engage with the results and agree on next steps to improve learning and business impact.
+
+At the global pharmaceutical company, 92% of participants greatly reduced their time to readiness, and 47% were promoted within two years. Another learning journey, focused on helping commercial leaders adapt to a fast-changing policy environment, supported leaders in finding more than $25 million in revenue opportunities through application of new skills including scenario planning and data-driven customer interaction. Even so, leaders found room for improvement, such as adding work on a strategic project for later cohorts and adding a formal review from the business sponsor.
+
+At the technology company focused on accelerating top female talent, 40% of participants had been promoted at the one-year point, compared to an external benchmark of a 6% annual promotion rate among women in technology. At a consumer goods company focused on accelerating the careers of people of color, nearly 50% of participants had been promoted after a year, and the remainder had a promotion plan in place. This strong promotion rate resulted in an overall increase in the representation of people of color at the director level—the most senior level participating in the program—from 18% to 24%.
+
+These successes highlight another important step leading companies can take to make the most of learning journey data: linking learning to other aspects of talent management. Both companies seeking to accelerate the career paths of underrepresented leaders also shifted a critical aspect of their talent management system by setting aside some succession planning and promotion meetings to focus solely on the people who were on the learning journey. This allowed these companies to avoid the common failure of overlooking underrepresented talent in critical talent conversations. Steps like these are essential to a company’s ability to leverage its leadership pipeline as a strategic asset.6
+
+When results are less positive, business goals may have changed, or it may become clear that a different metric would offer better insight. At one company, for example, the CEO added four leadership principles, and all the learning journeys in progress had to reorganize around those.
+
+Finally, learning journeys and elements of them can be not only continuously improved based on the evidence collected from cohort to cohort but also repositioned, as another global company learned. It had built a leadership development program to support fast growth because external hiring was proving to be expensive and a third of new hires were leaving in less than a year. Over three years, the program has led to a retention rate of 98% for participants—but only because of a significant adjustment after the first year. The company had positioned its program as a reward for high performance and found that leaders being trained expected immediate promotion or pay raises as a result. They left when that didn’t happen. Repositioning the program as a “high-visibility, high-pressure career acceleration program,” with clearer expectations for next steps, led to success.
+
+Whether a company determines that its learning journeys need few changes or complete redesigns, taking full stock as soon as early indicators and business KPIs can reasonably be measured will ensure the company can capitalize on its leadership development initiatives. This will create the most value as quickly as possible and establish a virtuous cycle from business goals to data-informed learning journeys to business outcomes.
+
+Measuring the impact of leadership development is difficult and will never be an exact science. However, most companies can do much more than they currently are throughout the life cycle of any leadership development journey. Honest, transparent, and data-driven conversations about the expected outcomes, observed impact, how to enhance the program elements, and how to improve the measurement approach will pay dividends on the organization’s investment in learning and ensure learning is supporting meaningful business outcomes. All this is one important step for companies seeking to treat their leadership pipeline with as much care as they do any other strategic asset.
+
+About the authors
+
+Regis Chasse (rchasse@heidrick.com) is a partner in Heidrick & Struggles’ Washington, DC, office and a member of Heidrick Consulting.
+
+Steven Krupp (skrupp@heidrick.com) is a partner in the Philadelphia office and a member of the Heidrick Consulting, CEO & Board of Directors, and Healthcare & Life Sciences practices.
+
+References
+
+1 Proprietary Heidrick & Struggles global leadership development market analysis conducted in spring 2023.
+
+2For more, see Cynthia Emrich, Steven Krupp, and Amy Miller, “Developing future-ready leaders: From assessments to strategically aligned learning,” Heidrick & Struggles.
+
+3 Proprietary Heidrick & Struggles research from a survey of 250 executives across non-HR functions conducted in spring 2023.
+
+4 This is the Kirkpatrick Model. For more, see “What is the Kirkpatrick Model?” Kirkpatrick Partners.
+
+5 Proprietary Heidrick & Struggles research from a survey of 351 HR and learning executives in nine countries conducted in spring 2023.
+
+6 For more on this, see Alex Libson, TA Mitchell, and Mark Watt, “Making leadership development a team sport,” Heidrick & Struggles.
+
+Related Services & Industries
+
+Corporate Transformation
+
+Cost Advantage
+
+Executive Assessment
+
+Leadership Development
+
+Related Content
+
+Financial Officers
+
+Finance function focus: How chief tax officers are rewriting the role of tax
+
+The modern chief tax officer is part strategist, part operator, and part talent builder—rewriting the tax function for a more complex, capital-conscious era.
+
+Leadership Development
+
+How AI is reshaping legal services: A conversation with Julien Tanguy, CEO of Lefebvre Group
+
+Julien Tanguy, CEO of a leading European provider of legal and tax services, shares how AI is driving cultural change, redefining leadership roles, and accelerating innovation through trusted data, talent, and technology.
+
+Leadership Development
+
+Building long-term resilience in consumer markets: A conversation with Aku Vikström, CEO of Orkla Foods Europe
+
+Aku Vikström, CEO of a pan-Nordic branded food supplier, shares how leaders can build long-term success and resilience in consumer markets during times of macroeconomic disruption.
+
+Leadership Development
+
+Becoming purposeful and performance-driven: A conversation with Jean-Luc Fleurial, EVP and CHRO of UCB
+
+Jean-Luc Fleurial, CHRO of a global pharma company, shares how to become a more effective CHRO and build a purposeful, performance-driven culture.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

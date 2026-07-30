@@ -1,0 +1,73 @@
+Leading in the Telecommunications Industry: Visualising the Future
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Leading in the Telecommunications Industry: Visualising the Future
+
+A conversation with Vivek Badrinath, incoming Director General of GSMA
+
+By
+
+Emanuela Aureli
+
+March 2025
+
+| 4 min read
+
+Author
+
+Emanuela Aureli
+
+London
+
+Vivek Badrinath’s appointment as director general of GSMA, the global organisation unifying the mobile ecosystem, was a natural step after nearly three decades in the telecommunications industry.
+
+In 2004, Badrinath was selected CTO of France’s Orange, where he later held unit and deputy CEO roles. After a deputy CEO role at Accor, he joined Vodafone, where he was regional CEO before being tapped as the CEO of its spin-off Vantage Towers, that he then took to a public flotation before half the company was sold to KKR and GIP in in 2023. On April 1, Badrinath will take office as GSMA’s newest leader.
+
+Less than a month before he started his new job, Emanuela Aureli, global leader of Spencer Stuart’s Technology, Media, Telecommunications & Services (TMTS) Practice had the pleasure of sitting down with Badrinath for a conversation at MWC25 Barcelona. The wide-ranging conversation touched on the future of the telecom industry, the DNA of industry CEOs, and the impact of AI on the industry today and in the future. The conversation below has been edited for clarity and brevity.
+
+The past few years have brought many changes to telecommunications industry boardrooms and C-suites. What is driving this change, and how does it support business strategy and help drive innovation?
+
+Quote
+
+The challenge for boardrooms and C-suites is balancing the need to innovate and invest with shareholders’ demands.”
+
+Vivek Badrinath: Some of it is related to going back to the basics: customer care, revenue per user, return on capital, managing capex. Meanwhile, the industry must identify what the next big growth items are. There are a few things the industry should focus on to drive revenues up again, and the priorities should be to complete the 5G journey and to look for opportunities like Open Gateway and AI.
+
+The challenge for boardrooms and C-suites is balancing the need to innovate and invest with shareholders’ demands, which inevitably will always include an element of focus on returns. Having diversity will help, in particular bringing in people from other sectors who bring their unique perspectives.
+
+As the complexity of stakeholder engagement increases, from customers, to employees, to the board and shareholders, what does that mean for industry CEOs?
+
+Vivek Badrinath:  One important thing that hasn't changed is a simple rule, which I personally felt and experienced to be an absolute truth: Every day, the CEO must look at the full range of stakeholders. Each day, if you have not done something for the customer, for employees, for government and regulators, for suppliers and competition, then you shouldn't go to bed yet. I know it sounds like a hamster wheel. But, for example, if you go even a few days without thinking about your employees and what message you’re sending them, then you will have a problem very soon.
+
+When you take stock of these challenges, what do you think is the DNA of the CEO of the future? How different is it than what a CEO needed to succeed in the past?
+
+Vivek Badrinath:  The most important thing a CEO needs is the ability to visualise the real scale of what can be achieved by technology in our sector. You need people who are trying to get to the moon, so to speak. You need execution-driven people, because you can’t get to the moon if you don't build the rocket first. What I mean by this is that you need people who can see all the implications of a technology, in ways you may have never previously even dreamed of.
+
+Quote
+
+The most important thing a CEO needs is the ability to visualise the real scale of what can be achieved by technology in our sector.”
+
+I think back to 1992, when I was in Canada doing my master’s thesis and my girlfriend-now-wife was in Paris. We communicated with each other by teletyping on a computer through the first version of the internet. We chatted that way because it was super cool, and also it was much cheaper than phone calls. I had an aha moment right then, which was that there is no entry barrier to scaling this to the whole planet. Fast forward 20 years later and there we were, texting, WhatsApping and FaceTiming across the world.
+
+Back to the question, the key element is bringing that overarching vision, and making sure you don't miss the big bets. The people who are winning today are the ones making big bets. They see AI, and say, “If I have one GPU, I can train it to recognise a burger instead of a hot dog; if I have thousand GPUs, I can teach it Armenian; and if I have 10,000 GPUs, it can run the entire Encyclopedia Britannica.” That whole scaling mentality is key. It’s hard because that’s not something you learn at school — you are taught linear, not exponential.
+
+What is your perspective on AI? How do you envision it will impact the telco industry?
+
+Vivek Badrinath:  One immediate impact is that the industry will be hit by a big investment wave linked to AI. But at the same time the core question today for most telecoms executives — and executives in every sector — is, How do I use AI to improve my business?
+
+Now, the industry hasn’t slept through this wave — they saw it coming. The industry is applying AI, because this is an industry that does reasonably embrace innovation, and in this case it did. For one, they took the big data wave before, and were already thinking about how to automate based on huge unstructured volumes of data. If you carry that through, that is at some level what LLMs (large language models) can do. AI is also optimising the white-collar organisation. AI can summarise long meetings and even do the minutes. The subject matter in telecommunications is also quite AI friendly. For example, if you look at what a call center does, you can train a machine to handle it effectively while also helping your human agents perform more effectively, which greatly reduces the time to treat a call.
+
+One unmapped challenge from AI is how telecom networks will have to evolve when all sectors of economy are using AI. There are some very tricky things to do, starting with how much the models consume in terms of water, electricity, etc. Like any industrial system, these things tend to optimise themselves over time and it is already happening. And AI is already helping to reduce the energy consumption of networks themselves.
+
+Perhaps the biggest challenge for the industry is how to engage AI early — and certainly earlier than we have in previous moments. One of my ambitions in my new role is to really address the question of how telecom networks can enable the growth of AI. That works in two directions: AI for telco, and telco for AI.
+
+Author
+
+Emanuela Aureli
+
+London

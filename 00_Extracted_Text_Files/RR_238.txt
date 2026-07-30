@@ -1,0 +1,611 @@
+Sustainable Leadership Across the Digital Ecosystem | Russell Reynolds Associates
+
+Search
+
+Search
+
+Menu
+
+Menu Close
+
+Capabilities
+
+Expertise
+
+Insights
+
+About
+
+Contact Us
+
+en
+
+Login
+
+Back
+
+Search
+
+Succession
+
+Performance
+
+Accelerators
+
+Transformation
+
+Board
+
+Executive Search
+
+Our executive search consultants help you recruit great CEOs, CxOs, and board members in as little as 14 weeks.
+
+Back
+
+Industries
+
+Functions
+
+Organizations
+
+Board & CEO Advisory
+
+Is your board ready for what is next? We help boards and CEOs face the unprecedented challenges that shape our world—from disruptive technology to shifting demographics to pressure from investors and regulators.
+
+Back
+
+Leadership Topics and Trends
+
+Leadership Labs
+
+Flagship Research
+
+Data and Indices
+
+RRA Books
+
+Events and Webcasts
+
+Insights Library
+
+Global CEO Turnover Index
+
+We share the latest CEO turnover data across listed companies globally. Each quarter, you’ll find the proportion of CEO departures and appointments globally, as well as trends on CEO appointments by gender, tenure, and whether CEOs are internal or external hires.
+
+Back
+
+People
+
+Who We Are
+
+Careers
+
+Newsroom
+
+Consultant Directory
+
+Meet the people behind Russell Reynolds Associates, building proactive relationships around the world and around the corner.
+
+Back
+
+Get In Touch
+
+Advance Your Career
+
+Join the Conversation
+
+Find a Local Office
+
+Request for Consultation
+
+Complete the contact form and we will get back to you shortly. We look forward to connecting with you.
+
+Back
+
+Search Overview
+
+Board Search
+
+CEO Search
+
+Executive Search
+
+Back
+
+Succession Overview
+
+Board Succession
+
+CEO Succession
+
+C-suite Succession
+
+Back
+
+Performance Overview
+
+Assessment & Benchmarking
+
+Executive Development
+
+Executive Transition
+
+Team Performance
+
+Back
+
+Accelerators Overview
+
+Executive Mentoring
+
+RRA Artemis
+
+Back
+
+Transformation Overview
+
+AI and Tech
+
+Inclusion and Culture
+
+Strategy Decode and Activation
+
+Sustainability
+
+Back
+
+Board Overview
+
+Board Composition
+
+Board Effectiveness
+
+Back
+
+Industries Overview
+
+Business & Professional Services
+
+Consumer
+
+Education
+
+Financial Services
+
+Healthcare
+
+Industrial & Natural Resources
+
+Private Capital
+
+Technology
+
+Back
+
+Functions Overview
+
+Boards
+
+CEOs
+
+Corporate Affairs & Communications
+
+Customer Activation & Growth
+
+Finance
+
+Human Resources
+
+Legal, Risk & Compliance
+
+Operations & Supply Chain
+
+Sustainability
+
+Technology, Data & Digital
+
+Back
+
+Organizations Overview
+
+Family Enterprise
+
+Growth Tech
+
+Private Capital
+
+Social Impact
+
+Back
+
+Leadership Topics and Trends Overview
+
+AI and Leadership
+
+Board Leadership
+
+Family Enterprise Leadership
+
+Leadership Development
+
+Leadership Transformation
+
+Sustainable Leadership
+
+Technology & Innovation
+
+The Future of Leadership
+
+Your Leadership Journey
+
+Back
+
+Leadership Labs Overview
+
+Leadership Analytics: Predictors of CEO Success
+
+Unusual Suspects: New Leadership Archetypes
+
+AI Leadership, 100% Human
+
+Back
+
+Flagship Research Overview
+
+Divides and Dividends on Sustainability
+
+Leadership for a Decade of Action
+
+Global Corporate Governance Trends
+
+Transformational Leadership Study
+
+Back
+
+Data and Indices Overview
+
+Global Leadership Monitor
+
+Leadership Confidence Index
+
+Global CEO Turnover Index
+
+Global CFO Turnover Index
+
+Global CHRO Turnover Index
+
+Global COO Turnover Index
+
+Back
+
+RRA Books Overview
+
+Book: The Catalyst CEO
+
+Book: The New CEO
+
+Book: To the Top
+
+Book: Sustainable Leadership
+
+Back
+
+Events and Webcasts Overview
+
+Podcast: Redefiners
+
+Podcast: Leadership Lounge
+
+Events and Webinars
+
+Back
+
+Insights Library Overview
+
+Back
+
+People Overview
+
+Consultants
+
+Leadership
+
+Board of Directors
+
+Office Locations
+
+Back
+
+Who We Are Overview
+
+Sustainability
+
+Responsible AI
+
+Partnerships
+
+History
+
+Back
+
+Careers Overview
+
+Careers with our Clients
+
+Careers at RRA
+
+Back
+
+Newsroom Overview
+
+Back
+
+Get In Touch Overview
+
+Request Consultation
+
+Subscribe to Newsletter
+
+Access Events
+
+Submit Media Inquiry
+
+Back
+
+Advance Your Career Overview
+
+Start Career with our Clients
+
+Join RRA
+
+Back
+
+Join the Conversation Overview
+
+LinkedIn
+
+X (formerly Twitter)
+
+YouTube
+
+Spotify
+
+Apple Podcasts
+
+Back
+
+Find a Local Office Overview
+
+Americas
+
+EMEA
+
+Asia Pacific
+
+Language
+
+English
+
+中文(中国)
+
+日本語 (日本)
+
+Login
+
+Client Login
+
+Candidate Portal
+
+Login 4
+
+Login 5
+
+Login 6
+
+Login 7
+
+Login 8
+
+Login 9
+
+Login 10
+
+Sustainable Leadership Across the Digital Ecosystem
+
+Sustainable LeadershipTechnology and InnovationEnvironmental Social and GovernanceEnergy and Natural ResourcesSustainability Officers
+
+Article
+
+April 22, 2024
+
+9 min
+
+Sustainable LeadershipTechnology and InnovationEnvironmental Social and GovernanceEnergy and Natural ResourcesSustainability Officers
+
+Executive Summary
+
+Sustainable leadership offers providers of digital infrastructure a competitive advantage in a booming market.
+
+Close
+
+Dan Cullen
+
+Singapore
+
+Hans Reus
+
+Amsterdam
+
+Almost halfway through the Decade of Action, companies across the digital ecosystem—such as data center operators, telecom networks, equipment manufacturers, utility providers, mobile device manufacturers, and the investors fueling their growth—are facing a critical sustainability challenge: a market disequilibrium for green electricity.
+
+Demand for green electricity is skyrocketing, driven by generative artificial intelligence (AI), cryptocurrencies and other innovations requiring massive computing power and extensive data handling capabilities.
+
+According to the International Energy Agency (IEA), global electricity consumption by data centers could double between 2022 and 2026, reaching more than 1,000 TWh. For context, that’s equivalent to the entire electricity consumption of Japan. And based on 2022 estimates, generative AI alone is expected to drive more than three-quarters of global data centers’ power demands in 2027. By 2050, the energy consumption of data processing within the digital ecosystem is projected to reach 3,750 TWh  (see Figure 1A) and constitute 7 percent of global electricity consumption (see Figure 1B), driven by both operational needs and cooling this vast array of equipment. As such, there is increasing pressure from regulators, customers, and society at large to push for a shift from traditional grey electricity to more sustainable, green sources in an effort to curb greenhouse gas emissions. However, this sharply increasing demand collides with a stark reality in terms of supply.
+
+The supply of green electricity is anticipated to be constrained due to the need for a massive scale-up of key low-carbon technologies like solar, wind and hydropower.
+
+By 2030, we may already see global shortages in green electricity (see Figure 1C). An additional $4 trillion could be needed annually compared to 2020 to reach net-zero goals, representing around 9 percent of global GDP. Additionally technological hurdles, such as energy storage for handling demand mismatches, must be overcome to ensure grid stability and prevent immense costs.
+
+Figure 1A: Global Digital Energy Demand (2010-2050)
+
+Figure 1B: Global Digital Electricity Consumption (2010-2050)
+
+Figure 1C: Global Energy Use by Source (1990-2030)
+
+Source: Thunder Said Energy’s “Digital Technologies in the Energy Transition”, April 2023
+
+In addition to this dilemma of sourcing green electricity, players within the digital ecosystem face other crucial sustainability challenges, as outlined by the United Nations’ Sustainable Development Goals. Mobile device manufacturers, for instance, may focus on the longevity and repairability of their hardware and software, as well as living wages and better labor conditions for miners of rare earth metals. Furthermore, across the sector, there is a heightened emphasis on promoting gender equality and diversity. To further advance solutions to achieving sustainability objectives, these companies should embrace a two-pronged strategy:
+
+Partner across the digital ecosystem: Collaboration across different segments of the digital ecosystem is crucial. A good example are “hyperscalers,” who guarantee a minimum price level per kWh green electricity for a predefined period of time, which enables utility companies to invest in capital intensive renewable energy facilities such as off-shore wind parks. By pooling resources and expertise, stakeholders can collectively enhance their sustainability efforts.
+
+Drive sustainability from within: It is in the best long-term interest of individual entities within the digital ecosystem to intensify their focus on minimizing their carbon footprints. This entails adopting innovative technologies, optimizing energy usage, and shifting towards greener alternatives wherever possible. For example:
+
+The transition from traditional cooling methods, such as room-based cooling to more energy-efficient systems like rack-based or immersion cooling.
+
+Transferring data processing tasks from a data center experiencing a temporary shortage of renewable electricity to one with abundant renewable electricity. Shifting data (megabytes) is more efficient than transferring electricity (megawatts) hour by hour.
+
+From navigating the green electricity dilemma and broader sustainability issues, to the usual business challenges around innovation, supply chain complexities, and managing a high-performing organization, leaders across the digital ecosystem face a formidable challenge. To succeed, they need a team of sustainable leaders, reinforced by a purposeful governance structure.
+
+Talent actions for a sustainable digital future
+
+Cultivate sustainable leadership
+
+The journey towards a greener digital infrastructure demands leaders who not only understand the technical nuances of digital operations, but also prioritize sustainability within every decision-making process. This calls for a new breed of sustainable leaders (see Figure 2), who embody a commitment to environmental and social stewardship while navigating the complexities of the digital realm. Across industries, these leaders bring a sustainable mindset to their organizations to channel four key competencies into sustainable outcomes:
+
+Figure 2: RRA’s Sustainable Leadership Model
+
+Multi-level systems thinking is required to understand the intricate interdependencies between technology, environment, and society. This approach enables leaders to strategize and implement solutions that optimize digital infrastructure operations while minimizing environmental impact. For instance, sophisticated data center operators now demand hourly matching of demand and supply for sustainable electricity, not just on an annual basis, reflecting a deep commitment to real-time sustainability. Furthermore, several digital infrastructure companies are utilizing AI to enhance site efficiency and are driving clean energy policies within their data center operations. These examples underpin how companies are making strategic decisions with a systemic understanding of their impact on both the environment and society.
+
+Stakeholder inclusion is paramount to actively engage with a diverse range of voices, from investors and employees to communities and customers. By valuing and integrating these perspectives into their decision-making processes, sustainable leaders ensure that their strategies are equitable, sustainable, and have broad support. In addition to partnering across the digital ecosystem as discussed in the previous section, industry leaders have formed coalitions to work towards common sustainability goals.
+
+Disruptive innovation results from understanding that maintaining the status quo is insufficient for the challenges we face. Sustainable leaders are unafraid to explore and invest in groundbreaking technologies and practices. In addition to the distribution power arrangements and cooling innovations discussed in the previous section, this might include advancing energy-efficient data processing or adopting renewable energy sources, thereby driving the industry towards a more sustainable future.
+
+Long-term activation is another hallmark of sustainable leadership. Rather than being swayed by the pressures of short-term gains, executives need to focus on long-term sustainability goals and investments, committing to strategies that may take years to bear fruit, but ultimately lead to more sustainable and resilient digital infrastructure ecosystem. They embed sustainability into the culture of their companies.
+
+Companies seeking sustainable leaders need to identify, nurture and reward talent with a keen interest in this space, offering training and development programs that promote sustainable practices and innovative thinking.
+
+Integrate sustainability into core competencies
+
+The complexity of achieving sustainability goals in the digital infrastructure sector necessitates collaboration across various functions to embed sustainability into corporate strategy. Talent management strategies should, therefore, encourage cross-functional teams that work together to identify and implement sustainable practices.
+
+Implementing comprehensive sustainability programs and focusing on education and leadership training are pivotal for advancing green initiatives. Organizations are establishing extensive Environmental, Social, and Governance (ESG) frameworks, setting ambitious sustainability targets, and engaging in rigorous reporting to monitor progress. This systemic approach ensures accountability and fosters a culture of continuous improvement.
+
+Concurrently, by investing in sustainability education and embedding these values deeply into the organizational ethos, companies are preparing a new generation of leaders. These leaders are not only adept in their technical and commercial roles but are also committed to driving sustainability within their operations, demonstrating a holistic approach to integrating sustainable practices across the industry.
+
+Executives who possess a deep understanding of the sustainability challenges and opportunities within the digital infrastructure sector can embed sustainability into the core of organizational culture and operations. This will empower organizations to lead with innovation, resilience, and a commitment to environmental stewardship, positioning them as frontrunners in the industry.
+
+Reward sustainable innovation
+
+To motivate and retain talent passionate about sustainability, organizations must establish clear incentives and rewards for sustainable innovations and practices.
+
+In some cases, a few industry players have introduced sustainability as a significant factor in determining bonuses for their senior leaders, allocating a notable percentage of these bonuses based on meeting specific sustainability targets. This approach not only incentivizes leadership to prioritize green initiatives but also signals to the entire organization the critical value placed on sustainability. Additionally, other entities have positioned sustainability as one of their strategic pillars, highlighting its importance at the executive level and across the organization's operations. Such strategies demonstrate a commitment to not just achieving business objectives but doing so in a way that is environmentally responsible and aligned with broader sustainability goals, thereby attracting and retaining talent passionate about making a meaningful impact.
+
+Prepare for the future workforce
+
+Finally, as the digital infrastructure sector evolves, so must its approach to talent management. This involves not only adapting to the changing skills landscape, driven by advances in technology and sustainability, but also preparing for the expectations of the future workforce. Younger generations place a high value on sustainability and purpose-driven work. Companies that prioritize sustainability are more likely to attract and retain this talent, ensuring a resilient and forward-thinking workforce.
+
+Conclusion
+
+In summary, the exponential growth in demand for digital infrastructure highlights the urgency for ecological and social sustainability. Sustainable leadership offers an opportunity for providers of digital infrastructure to gain a competitive edge. Forward-thinking leaders who prioritize sustainability initiatives will be instrumental for the long-term financial success of their companies as well as for achieving the Sustainable Development Goals.
+
+Methodology
+
+Between December 2023 and April 2024, RRA interviewed 14 global executives in all major global regions to understand the challenges that sustainable leaders face in digital ecosystems.
+
+These executives include board directors, CEOs, CXOs, and next-generation leaders who oversee global markets in the US, Latin America, Europe, and Asia Pacific regions.
+
+These executives represent the broad ecosystem of digital infrastructure: from investors to hyperscalers and data centers; hardware suppliers to telecommunication operators to utility companies and customers.
+
+With thanks to the following leaders
+
+Alexandra Schless, CEO of NorthC
+Carolina Maestri, Head of People & Culture, EHS & ESG of ODATA
+Craig Scroggie, CEO of NEXTDC
+Eugene Bergen Henegouwen, President Europe of Equinix
+Francisco Sorrentino, Chief People Officer of Digital Bridge
+Jeff Ginsberg, Chief Administrative Officer, Chair of ESG Committee of Digital Bridge
+Jeremy Deutsche, President, APAC of Equinix
+Kees-Jan Rameau, Chief Strategic Growth Officer of Eneco
+Mark Smith, Co-Founder & Executive Chairman of Qarbon Technologies
+Mauricio Giusti, Partner, Digital Infrastructure of Actis
+Monique Lempers, Chief Impact Officer of Fairphone
+Peter van Burgel, CEO of AMS-IX
+Shami Nissan, Head of Sustainability of Actis
+
+Authors
+
+Robert Alexander is a member of Russell Reynolds Associates’ Technology Knowledge team. He is based in New York City.
+Dan Cullen leads Russell Reynolds Associates’ Technology practice in APAC. He is based in Singapore.
+Hans Reus is a senior member of Russell Reynolds Associates’ Sustainability and Technology practices. He is based in Amsterdam.
+
+Sustainable Leadership Across the Digital Ecosystem
+
+DOWNLOAD THE FULL ARTICLE
+
+Additional RRA Reading
+
+Leadership for the Decade of Action
+
+Find out more
+
+The Board’s Role in Sustainable Leadership
+
+Find out more
+
+The ROI of Responsible AI
+
+Find out more
+
+We and our partners use cookies and other technologies on this site to collect data about your device and activities on this site for operating and protecting the site, enabling and optimizing site functionality, analyzing site usage, personalizing your experience, and targeting ads, as detailed in our Cookie Policy. Click “Accept All” to consent to all of this, “Reject Optional Cookies” to get only mandatory cookies, or “Preferences” for more options.
+
+Preferences
+Reject Optional Cookies
+Accept All
+
+×
+
+About Cookies
+
+Cookie List
+
+Web pages can store or retrieve info on your browser, including through cookies.  This info might be about you, your preferences, or your device, and it may contain identifiers that are unique to you or to your device. We and third parties collect that kind of info through cookies in each category below. You can turn most individual categories off by moving the toggle to the left and hitting “Save my choices” or turn them back on by moving it to the right and hitting that same button. You can revisit these choices later by clicking on “Cookie Preferences” in the footer of russellreynolds.com.  These choices apply only to russellreynolds.com.  These choices affect this browser only, and you will need to repeat this process if you use another browser, if you clear your cookies, or if you use a browser that automatically clears cookies.
+
+More information:
+
+Read Cookie Policy
+
+Accept All
+Reject Optional Cookies
+
+Mandatory
+Always Active
+
+These cookies are required and cannot be turned off.
+
+Cookie Details
+
+Functional
+
+These cookies mainly enable enhanced functionality and personalization. They let us provide a more personalized and convenient experience. Disabling or removing these cookies may make browsing pages less convenient or may prevent certain functionality from working correctly.
+
+Cookie Details
+
+Performance
+
+Performance cookies mainly allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors use and interact with them. If you do not allow these cookies, we may have fewer ways to know when you have visited a page and may be less be able to monitor their performance.
+
+Cookie Details
+
+Targeting
+
+These cookies may be used to target ads to you (such as by helping to build a profile of your interests to target ads).  If you do not allow these cookies, the advertising you experience may be more repetitive or less relevant to you.
+
+Cookie Details
+
+Unclassified
+
+We recommend leaving Unclassified cookies off.  The Unclassified category could contain Functional, Performance, or Targeting cookies that we have not yet moved into the Functional, Performance, or Targeting categories above.  If you turn on the Unclassified category, all Unclassified cookies will be activated, even if you deactivate the specific Functional, Performance, or Targeting category.
+
+Cookie Details
+
+Save my choices

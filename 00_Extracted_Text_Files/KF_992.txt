@@ -1,0 +1,167 @@
+Could AI Transform Sales Efficiency in APAC?
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Sales Transformation|July 25, 2023
+
+Could AI Transform Sales Efficiency in APAC?
+
+Do sellers have the skills to use generative AI effectively in a sales landscape where trust matters more than ever?
+
+Key takeaways
+
+The generative AI tools that sales teams are using to boost productivity and efficiency
+Why these tools are only as good as their users, and the risk of relying on bot-generated sales comms
+The human skills that sales professionals will need for effective selling in the future
+
+Widespread adoption of generative AI could make sellers more efficient. But do they have the skills to use it effectively in a sales landscape where trust matters more than ever?
+
+At our recent Executive Sales Leadership Roundtable in Sydney, Forecast by Korn Ferry, senior sales leaders gathered to focus on the key issues impacting sales. Generative AI’s potential for greater efficiency was one of the hot topics, with attendees discussing how tools like ChatGPT could impact each touchpoint of the customer journey.
+
+They also shared ideas on how to translate those potential efficiencies into effectiveness.
+
+“It was interesting to consider what this might mean for individual sellers, and the development journey they need to go on,” says Adam Thorp, who facilitated the roundtable and leads Korn Ferry’s Sales Effectiveness and Transformation Advisory practice. “This led to a broader discussion about the types of sales roles organizations will need to invest in—such as digital and hybrid sellers.”
+
+The potential efficiency of generative AI has certainly captured sales leaders’ attention. “Time is the biggest killer in sales, and generative AI could help keep things moving,” he observes.
+
+Moving towards a Golden Age of productivity
+
+We recently surveyed 240 CEOs around the world to understand how they are preparing for the AI shift. Over 82% told us they believe AI will have a “significant to extreme impact” on their business. More than a third are already experimenting with ways to leverage AI to boost productivity and operating efficiency—and the majority are planning to spend up to 50% more than they currently allocate to AI-related strategies.
+
+Thorp says he is also seeing experimentation take hold in sales teams across APAC.
+
+“Sellers are already using generative AI to take care of mundane tasks like generating emails or responses to meetings. They’re using AI tools to find patterns in customer feedback and recommend next steps or create sales coaching videos to rehearse responses to difficult scenarios,” he says.
+
+A YouGov survey in Singapore found an overwhelming 92% of sales and marketing professionals who have already adopted generative AI tools in their role say it is important for their day-to-day work—but 60% believe knowledge gaps are holding them back from realizing their full potential.
+
+Similarly, our research on the use of ChatGPT in the workplace found more than 80% of professionals believe ChatGPT is a “legitimate, beneficial work tool” that will be a regular part of their workday in the future.
+
+It’s no wonder there has been an explosion in the number of tools available. That includes significant enhancements to existing platforms like Microsoft 365 (Viva) and Salesforce (Einstein GPT), as well as a multitude of browser extensions—like Engage AI, which can write LinkedIn posts and comments in seconds.
+
+“You could take the sentiment of meeting discussions using Viva, and present ideas to move a sales deal forward,” says Thorp. “Or get prescriptive insights and analytics with Microsoft Dynamics 365 Copilot. Writing tools like Compose.ai, Gamma, Scribe AI and QuillBot can create presentations, slide decks, sales playbooks, tutorials or scripts. And AI video creation platforms like Synthesia and D-ID could help you develop sales coaching plays and learning nudges using talking avatars.”
+
+Using AI to help with administrative tasks
+
+Gartner research confirms AI’s potential to improve sales productivity, with sellers agreeing ChatGPT can be a helpful assistant for message drafting, meeting prep, or finding new ways to tackle a specific selling roadblock. Sellers are using it to research target roles and personas, generate ideas for meeting agendas, and summarize meeting notes.
+
+Spending less time on admin could give sellers more time to build a human relationship with prospects. Precision-targeted coaching can also help improve sales conversion.
+
+As Esther Colwill, President of technology, communications, and professional services at Korn Ferry says, “It’s about process improvement and leveraging whatever tools are at an employee’s disposal to create an outcome that meets customer need.”
+
+Generative AI alone can’t improve sales effectiveness
+
+Of course, there are many risks associated with depending on generative AI to drive client engagement and conversion. “A generic AI-produced proposal or tender won’t feel personalized to the underlying drivers of a client decision,” notes Thorp.
+
+ChatGPT is also known for taking creative license with its responses. “ChatGPT might ‘hallucinate’ an imaginary solution you cannot provide, and procurement might start scanning for AI-generated content before agreeing to proceed,” Thorp adds.
+
+AI outcomes are also only as good as the user’s skills, and 82% of leaders anticipate employees will need new skills in the AI era.
+
+“Every employee will need AI aptitude,” observes Thorp. “Soon we may not be able to imagine work without AI—which means every sales professional will need skills in prompt engineering or adapting their workflows.”
+
+For example, generative AI can be a valuable prospecting assistant. Feed it ideal client attributes, and it can give you a list of organizations, along with questions to ask to get that client meeting.
+
+“It’s what you do with all that information that will ultimately determine sales effectiveness,” Thorp says.
+
+Sales Effectiveness
+
+Breakthrough to immediate, predictable and sustainable sales effectiveness
+
+Learn more
+
+Humans still needed in a generative AI world
+
+Human traits will be just as important—if not more so—in an AI-enabled world. While the majority of APAC sales leaders agree their team’s traditional skills will be obsolete within five years, they also acknowledge affiliation, agility and empathy will be essential to building trust and strengthening relationships in the new sales landscape.
+
+While AI can automate many tasks to help sellers become more agile and adaptive, it cannot replicate these very human traits. ChatGPT doesn’t actually think—it draws on a vast source of data to predict the best way to complete your task. It cannot bring empathy for your customer challenge, align everyone around the decision-making table towards a shared goal, or tap into an internal network of experts to solve problems.
+
+Sales professionals who excel in interpersonal skills, emotional intelligence, curiosity and relationship-building will differentiate themselves by providing the human touch and deep connections that generative AI cannot replicate.
+
+However, as generative AI becomes more prevalent and sophisticated, it will get better at identifying problems and matching these to solutions.
+
+What role will sales play then?
+
+It’s likely human sellers will increasingly be depended on as the builders of trust and the custodians of the relationship. “There’s no point in sales professionals duplicating the software by pushing out more messages or qualifying leads,” Thorp says.
+
+Instead, they will be able to use time saved on repetitive tasks to interact with the customer, understand what really matters to them and draw on their human networks to create a solution that no competitor can match. Increasingly, sellers will focus on ‘the last mile’ in the buying and sales process—with a combination of buyer self-discovery, digital insights and generative AI taking care of the earlier steps.
+
+To learn more about how Korn Ferry can help your sales teams upskill for the future, get in touch or learn more about our Sales Effectiveness solutions.
+
+Our Expert
+
+Our Experts
+
+Adam Thorp
+Senior Partner, APAC Practice Leader, Sales Transformation & Sales Effectiveness
+
+No items found.
+
+Related Capability
+
+Related Capabilities
+
+Sales Effectiveness
+
+Organization Strategy
+
+Leadership & Professional Development
+
+Leadership Development
+
+Featured Insights
+
+How to Close Complex Tech Deals Without Discounting
+CFO Exits: Domino Effect or Burnout?
+The C-Suite Executives Watching Their Backs
+Delivering a Recipe for Sales Success to a Global Food Supplier
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Featured Topics
+
+AI in the Workplace
+
+Sales Transformation
+
+Sales Effectiveness
+
+Organization Strategy
+
+Leadership & Professional Development
+
+Leadership Development
+
+Sales
+
+Kornferry4 SS

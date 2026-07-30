@@ -1,0 +1,429 @@
+Influencing Your Board: Best Practices from Biopharma CTOs - Egon Zehnder
+
+Skip to main content
+
+Search for “”
+
+... in Consultants
+
+... in Offices
+
+... in Services
+
+... in Insights
+
+Search all results
+
+Our Services
+
+Shaping Successions
+
+CEO Successions
+
+Executive Successions
+
+Board Successions
+
+Chair Successions
+
+Committee Chair Successions
+
+Advancing Governance
+
+Board Review
+
+Board Development
+
+Board Advisory
+
+Building Advisory Boards
+
+Sustainability Board Advisory
+
+Discovering Leaders
+
+CEO Search
+
+Executive Search
+
+Board Search
+
+Advisor Search
+
+Executive Assessment
+
+Developing Leadership
+
+Individual Development
+
+Accelerated Onboarding
+
+Development Planning
+
+Coaching
+
+Team Journey
+
+Unlocking Transformations
+
+Transformational Development Programs
+
+Chair and Board Potential
+
+Executive Breakthrough
+
+Executive Discovery
+
+Transformational CHRO
+
+Voyager
+
+Customized Leadership Immersion
+
+Explorer
+
+Cultural Transformation
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Chief Executive Officers
+
+Founders
+
+Technology Officers
+
+Chief AI, Data & Analytics Officers
+
+Chief Information Officers
+
+Chief Information Security Officers
+
+Chief Product Officers
+
+Chief Technology Officers
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+Consumer
+
+Consumer Products
+
+Media & Entertainment
+
+Restaurants, Leisure and Hospitality
+
+Retail, E-commerce, Apparel and Luxury
+
+Sports
+
+Financial Services
+
+Asset Management
+
+Banking and Markets
+
+Digital Assets, Crypto, & Web 3
+
+FinTech
+
+Infrastructure
+
+Insurance
+
+Private Equity
+
+Retail Financial Services
+
+Risk Management
+
+Sovereign Wealth Funds
+
+Wealth Management
+
+Health
+
+Biopharmaceuticals
+
+Healthcare Delivery & Services
+
+Life Sciences Tools & Pharmaceutical Services
+
+Medical Devices, Diagnostics and Technology
+
+Industrial
+
+Aerospace & Defense
+
+Chemical & Process Industries
+
+Energy
+
+Machinery & Industrial Technology
+
+Mining & Metals
+
+Mobility & Automotive
+
+Public & Social Sector
+
+Arts, Culture & Sports
+
+Economic, Social & Human Development
+
+Education & Research
+
+Environment & Sustainability
+
+Interest Representation & Public Affairs
+
+Public Administration
+
+Public Finance
+
+Public Health
+
+Public Infrastructure
+
+Services
+
+Air Transport
+
+Business Services
+
+Hospitality, Travel & Leisure
+
+Professional Services
+
+Real Estate Services
+
+Transportation & Logistics
+
+Technology & AI
+
+Artificial Intelligence
+
+Communications & Connectivity
+
+Cyber Security
+
+Digital
+
+Enterprise Tech
+
+Internet of Things
+
+Semiconductors
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+Functions
+
+Industries
+
+Meet our Consultants
+
+Discover Insights
+
+Find Offices
+
+About Us
+
+English
+
+Change
+
+Functions
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Industries
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+About Us
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+English
+
+Deutsch
+
+中文
+
+日本語
+
+HealthEngaging and Influencing Your Board in an Age of Rapid Change: Biopharma CTOs Share Their Best Practices
+
+August 2022
+
+6 mins read
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+The role of the biopharma Chief Technology Officer (CTO) is evolving faster than ever these days. Responsibility for the development and scale-up of new medicines hardly covers the breadth of the role today. In addition to technical expertise, today’s CTO (also referred to as the Chief Tech Ops Officer or Chief Technical Officer) must be a communicator, an educator, a unifier and even an entertainer to ensure smooth sailing for biopharmas, whether in the early stages of clinical development, or in the market with commercialized products. This collection of skills is especially important for the CTO’s growing presence and impact around the boardroom table.
+
+Egon Zehnder recently invited CTOs from top U.S. biopharma companies to discuss their experiences and best practices in today’s rapidly changing environment, where both the pace of science and volatility of company valuations are moving at record speed. Their collected wisdom surfaced a set of key strategies for shaping and influencing the CTO agenda with your board of directors.
+
+First, get the C-suite on your side.
+
+A CTO will never gain traction in the boardroom without the support of other executives.
+
+The CEO is an obvious ally to seek out, but many other leaders can also play a role in the CTO’s success. Enlisting the support of the Chief Commercial Officer and Chief Financial Officer is also important. Perhaps one of the most important connections a CTO can make will be the Chief Scientific Officer. “If the CSO is on your side, it goes a long way,” shared a CTO in a clinical-stage company. “The CSO has historically had a lot of influence and interaction time with the Board, so not only do they have a better understanding of the Board’s priorities, but they also have a closer understanding of the challenges that you might be working through in tech ops.”
+
+Ultimately, the CTO must demonstrate the ability to work across silos and connect with other leaders at the enterprise level. “You can’t win over your board until you win over the C-suite,” said Melissa Rewolinski, a former R&D executive at Intercept and current board member of Lannett and ATCC.
+
+Understand what a board member needs.
+
+When you meet with the board of directors, you may assume you’re there to share technical expertise. But veteran CTOs say it’s critical to understand what the board wants to hear and often that is a discussion around risk.
+
+The CTO of a commercial gene therapy company shared that the Board’s priorities are often not what the CTO is most comfortable discussing. “Everything you say needs to be framed in what the Board needs and where their concerns might lay. Are we going to hit our goals? Are we getting a return on our investment? We love to talk about the science, but in the end, the Board’s focus is on a number of things, including fiduciary responsibilities, governance, company progress and resources,” she said.
+
+"Everything you say needs to be framed in what the Board needs and where their concerns might lay. We love to talk about the science, but in the end, the Board’s focus is on a number of things."
+
+Mike Kamarck, who is the former CTO of Vir Biotech and sits on boards across the biopharma space, said CTOs must realize that when addressing the board, not everyone in the room will have the same bedrock education in science. “Here is a department that no one understands. And the board doesn’t have a clue why it all can’t just be easier, faster and simple. When this happens, you better be the best communicator in the company. You need to get the right info across in an accessible way that they understand.”
+
+To build influence with the board, know your board’s entrance points.
+
+Often a CTO must jockey for time to address the board, either as a gathered group or in individual one-on-ones. Some new CTOs may not be aware of their opportunities to seek out board members apart from full board meetings, but these connections can offer substantial benefit for the CTO and lead to greater success in educating (and influencing) the board to the CTO’s overall agenda.
+
+In many cases, the entry point for additional facetime can come via a committee, such as the Audit Committee or a Science/Technology Advisory Board. These subgroups can help a CTO in two ways. First, they offer a smaller audience and that can make it easier to convey complex materials that require a bit of education (and in a more comfortable environment where the board members can probe deeper into questions that they might have). Second, when a CTO puts in time to get to know individual directors, that allows the CTO to approach the larger board with existing alliances already in place. The committee members may act as valuable voices of support with the full board.
+
+Don’t be afraid of a little theater.
+
+A technologist as actor? Yes, if you really want the board on your side. The participant CTOs agreed that a bit of the bard goes a long way when presenting to directors.
+
+When facing the board, it’s important to remember to tell a story. It’s your role, as CTO, to convey how your plan advances other goals across the company. How does it bring products to market faster? How does it contribute to environmental, social, and corporate governance goals? Your story must hit all these notes.
+
+“When you’re talking to the board and/or your senior team, it’s a theatrical presentation,” said Mike Kamarck. “With a board, a sense of humor takes a lot of tension out of the air.” As you make your case, be sure to name other members of the leadership team in your storytelling, he said. This helps to showcase your effort in building the CTO’s agenda as an enterprise-wide team project, not a silo pitch.
+
+Looking ahead.
+
+Even with the best of advice, CTOs agreed that each company and board have their own peculiarities. There is no one-size-fits-all, even across a function in a single industry. The makeup and stage of the biopharma company you are in makes the role of the CTO totally different.
+
+"You have visibility as a unifying force that connects the dots across the company. And our roles will continue to evolve as the science and technologies advance further.”
+
+And even when you can craft your role so that it meets your Board’s needs, be prepared for that to change over time. The board is always changing with governance trends. You may find new board members added who bring a new type of expertise to the discussion. Your efforts will need to flex and adapt with these additions.
+
+That sense of change applies to the CTO, as an individual, as well. “[I have seen the] evolution of the CTO role. Today I have global portfolio management as part of my scope as well,” said the CTO of a clinical-stage cell therapy company. That broad set of responsibilities places the CTO in a unique position to serve the company goals as the firm grows, he said. “You have visibility as a unifying force that connects the dots across the company. And our roles will continue to evolve as the science and technologies advance further.”
+
+Topics Related to this Article
+
+Health
+
+Technology
+
+Leadership
+
+Board
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Written by
+
+Stay up to date with our latest insights.
+
+Subscribe now
+
+Changing language
+
+You are switching to an alternate language version of the Egon Zehnder website. The page you are currently on does not have a translated version. If you continue, you will be taken to the alternate language home page.
+
+Continue to the                 website
+
+Back to top

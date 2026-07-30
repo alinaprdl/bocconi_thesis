@@ -1,0 +1,450 @@
+Why AI Is Redefining the CTO Role in Technology Services - Egon Zehnder
+
+Skip to main content
+
+Search for “”
+
+... in Consultants
+
+... in Offices
+
+... in Services
+
+... in Insights
+
+Search all results
+
+Our Services
+
+Shaping Successions
+
+CEO Successions
+
+Executive Successions
+
+Board Successions
+
+Chair Successions
+
+Committee Chair Successions
+
+Advancing Governance
+
+Board Review
+
+Board Development
+
+Board Advisory
+
+Building Advisory Boards
+
+Sustainability Board Advisory
+
+Discovering Leaders
+
+CEO Search
+
+Executive Search
+
+Board Search
+
+Advisor Search
+
+Executive Assessment
+
+Developing Leadership
+
+Individual Development
+
+Accelerated Onboarding
+
+Development Planning
+
+Coaching
+
+Team Journey
+
+Unlocking Transformations
+
+Transformational Development Programs
+
+Chair and Board Potential
+
+Executive Breakthrough
+
+Executive Discovery
+
+Transformational CHRO
+
+Voyager
+
+Customized Leadership Immersion
+
+Explorer
+
+Cultural Transformation
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Chief Executive Officers
+
+Founders
+
+Technology Officers
+
+Chief AI, Data & Analytics Officers
+
+Chief Information Officers
+
+Chief Information Security Officers
+
+Chief Product Officers
+
+Chief Technology Officers
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+Consumer
+
+Consumer Products
+
+Media & Entertainment
+
+Restaurants, Leisure and Hospitality
+
+Retail, E-commerce, Apparel and Luxury
+
+Sports
+
+Financial Services
+
+Asset Management
+
+Banking and Markets
+
+Digital Assets, Crypto, & Web 3
+
+FinTech
+
+Infrastructure
+
+Insurance
+
+Private Equity
+
+Retail Financial Services
+
+Risk Management
+
+Sovereign Wealth Funds
+
+Wealth Management
+
+Health
+
+Biopharmaceuticals
+
+Healthcare Delivery & Services
+
+Life Sciences Tools & Pharmaceutical Services
+
+Medical Devices, Diagnostics and Technology
+
+Industrial
+
+Aerospace & Defense
+
+Chemical & Process Industries
+
+Energy
+
+Machinery & Industrial Technology
+
+Mining & Metals
+
+Mobility & Automotive
+
+Public & Social Sector
+
+Arts, Culture & Sports
+
+Economic, Social & Human Development
+
+Education & Research
+
+Environment & Sustainability
+
+Interest Representation & Public Affairs
+
+Public Administration
+
+Public Finance
+
+Public Health
+
+Public Infrastructure
+
+Services
+
+Air Transport
+
+Business Services
+
+Hospitality, Travel & Leisure
+
+Professional Services
+
+Real Estate Services
+
+Transportation & Logistics
+
+Technology & AI
+
+Artificial Intelligence
+
+Communications & Connectivity
+
+Cyber Security
+
+Digital
+
+Enterprise Tech
+
+Internet of Things
+
+Semiconductors
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+Functions
+
+Industries
+
+Meet our Consultants
+
+Discover Insights
+
+Find Offices
+
+About Us
+
+English
+
+Change
+
+Functions
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Industries
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+About Us
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+English
+
+Deutsch
+
+中文
+
+日本語
+
+Chief Technology OfficersThe CTO’s New Mandate in Technology Services: From Running Tech to Transforming the Business
+
+February 2026
+
+5 mins read
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Download the PDF
+
+For decades, the Chief Technology Officer (CTO) in technology services played a highly defined role: oversee the tech stack, manage vendors, train teams, and ensure reliable delivery. In a labor-intensive industry built on utilization, chargeability, and delivery pyramids, the CTO was tasked with executing the business model, not reinventing it.
+
+Artificial Intelligence has ended that era. AI is not simply reshaping how software is built, but it is forcing a fundamental rethink of what a technology services firm sells, how it delivers value, and what type of leadership the future demands. As a result, the CTO role is being reshaped.
+
+The question is no longer how well do CTOs modernize technology, but whether they can modernize the entire business.
+
+How We Got Here: Why the CTO Role Was Ripe for Reinvention
+
+To understand why the CTO role is changing so quickly, it helps to look back at the industry’s evolution. In the 1990s, services firms also built products. They delivered bespoke, on-premise software for their clients. As packaged software matured, the industry shifted toward a hybrid model: standardized products delivered 80% of functionality, with services firms customizing the remaining 20%.
+
+SaaS then simplified delivery further: one version, many deployments. Services firms moved away from custom builds and focused on configuration, integration, and management of third-party platforms.
+
+The CTO’s job was to track the stack, orchestrate vendors, and keeping teams current on fast-moving tools. But AI disrupts that role clarity. “CTOs must understand the new stack and innovate on how customization, configuration, and management are provided — productizing what was previously manual services,” explains Subha Tatavarti, CEO and founder of an AI startup, still in stealth role and former Global CTO of Wipro.
+
+What was once human-intensive work, provisioning, monitoring, remediation, testing, even elements of architecture, can increasingly be encoded into platforms, agents, and workflows. Services are no longer just delivered; they are engineered.
+
+AI Is Collapsing the Old Services Model and Rewriting the CTO Role
+
+AI’s most immediate impact is on the economic engine of technology services firms. For decades, their revenue scaled with headcount. Today, that logic is collapsing. AI agents can execute runbooks, monitor environments, resolve incidents, and perform previously human-only tasks at machine speed. Florin Rotar, Global CTO of Atos, captures the shift succinctly: “IT services is moving from selling projects with pyramids of people to delivering outcome-based value through service-as-software where analysis, insights, software development, IT operations are delivered as instant software output.”
+
+For CTOs, this reframes success. The mandate is no longer to scale teams efficiently; it is to decide which work becomes productized, and how humans and AI combine to deliver outcomes.
+
+CTOs in Services Firms Have an Advantage
+
+“Services firms sit on cross vertical client insight — that’s where the best bets come from,” highlights Subha Tatavarti. AI disruption does not doom services firms to commodity status. Many possess a unique strategic asset: cross-vertical intelligence.
+Unlike software vendors, services firms operate deep inside client environments — manufacturing, telecom, utilities, healthcare, financial services and more. This proximity enables:
+
+Technology innovation: building tools and platforms grounded in operational realities.
+
+Business innovation: identifying vertical platforms, markets, and bets.
+
+But leveraging this advantage requires something many firms lack: a CTO empowered to lead business model change.
+
+The CTO Becomes a Business Architect
+
+As technology becomes inseparable from the business model, the CTO role expands accordingly. Rotar describes the shift plainly: “The CTO role is being fundamentally reinvented. Technology is AI, and AI is technology. But the profile of the role is also changing. A successful CTO must also be a catalyst for business model transformation, and also deeply understand organizational transformation. As the nature of work for software engineers and consultants evolves to be much more on critical thinking, comprehension, evaluation, a CTO also needs to manage both technology and people.” In practice, this means the CTO now operates across three domains:
+
+Technology architecture
+
+Operating model design
+
+Commercial and business-model strategy
+
+Some firms are formalizing this evolution by reframing the role altogether. “The CTO is really becoming a Chief AI Officer,” Rotar says — not because the job is only about GenAI models, but because AI now sits at the center of delivery, go-to-market economics, and differentiation.
+
+The most effective CTOs are already acting less like engineering leaders and more like transformation leaders inside the enterprise: helping decide what to cannibalize, where to platformize, and how to reshape revenue models before competitors do.
+
+As part of this evolution, CTOs must also operate across three simultaneous horizons: defend today’s business; extend today’s business; and disrupt tomorrow’s business. Most organizations overweight the first horizon. Productivity dominates, cost reduction consumes attention, and AI becomes an efficiency story.
+
+Boards, however, often have a different expectation. “Most CTOs over-focus on productivity — 90% of their effort,” Rotar observes. “But boards expect 90% focus on revenue growth and only 10% on productivity.”
+
+For the CTO to succeed, CEOs and boards must ensure this leader has the following:
+
+mandate to cannibalize legacy revenue
+
+authority to influence business model decisions
+
+protection from quarterly quota pressures
+
+a seat at the table for commercial and operating model strategy
+
+As Rotar puts it, “If the CTO is only responsible for offerings or engineering, it won’t work. The role must lead organizational transformation.”
+
+This role expansion is not limited to just Technology Services services—it is happening across all tech-intensive sectors. Across technology-driven industries, the CTO is no longer just the steward of infrastructure and applications. Instead, they are becoming architects of business reinvention, leveraging technology and AI to fundamentally reshape how organizations create value, compete, and grow. The CTO’s success will be measured not by technical prowess alone, but by their ability to orchestrate change, drive new revenue streams, and redefine industry standards.
+
+Topics Related to this Article
+
+Technology
+
+Artificial Intelligence
+
+Leadership
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Download the PDF
+
+Written by
+
+Stay up to date with our latest insights.
+
+Subscribe now
+
+Changing language
+
+You are switching to an alternate language version of the Egon Zehnder website. The page you are currently on does not have a translated version. If you continue, you will be taken to the alternate language home page.
+
+Continue to the                 website
+
+Back to top

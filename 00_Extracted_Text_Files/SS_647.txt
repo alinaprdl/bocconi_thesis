@@ -1,0 +1,109 @@
+Separating the Myth from Reality
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Separating the Myth from Reality
+
+Why Leadership Remains Critical in an Era of Self-Driving Cars and Humanoid Robots
+
+By
+
+Danny Koh and
+
+Edward M. Stadolnik
+
+February 2018
+
+| 5 min read
+
+Authors
+
+Danny Koh
+
+Singapore
+
+Edward M. Stadolnik
+
+Chicago
+
+The rapid rise of digital technologies like artificial intelligence (AI), big data analytics and mobility has not just enabled businesses to run more efficiently and effectively. In addition, companies that fully embrace these tools have found them to be a key source of competitive advantage. In a matter of years, trailblazing companies such as Netflix, Amazon and Facebook have evolved from scrappy startups to global behemoths, threatening the very existence of their decades- or even centuries-old counterparts.
+
+These advancements, however, come with a downside. As more human jobs are (or are threatened to be) displaced by the emergence of innovations like self-driving cars, humanoid robots and AI-produced medical diagnoses,it is unsurprising that some worry about a dystopian future in which people are rendered obsolete and only a rarified set of professions still require work by humans.
+
+Despite how easy it is to fall prey to this idea, we would argue that it is a myth. We believe this prospect is far from reality, and the roles of capable talent and strong leadership, especially technology leaders like the chief technology officer (CTO) and chief information officer (CIO), are even more important than in the past. Here’s why:
+
+Digital technologies are a means to an end and not an end in    themselves. In other words, there will always be a need for tech leaders    who can provide strong direction, deep insight and strategic vision.
+While digital technologies have become increasingly powerful, pervasive    and transformational, there are still fundamental limitations that make    them largely more suited to augmenting — as opposed to replacing —    humans. Leaders, then, are necessary to guide this integration.
+Adoption of digital technologies within organizations requires    inspirational leaders who can conceive, create and maintain a    culture that can win the hearts and minds of the employees to    embrace these new changes
+
+Technology: The journey, not the destination
+
+Tech experts note that overblown fears about the effects of new developments    have always been around, and these changes have never created the    chaos that doomsayers envisioned. Examples include the inflated anxiety    that greeted the printing press, advanced industrial machinery and, now,    robot technology or artificial intelligence. Technological change is happening    across the globe to different degrees, and disruption is clearly universal.
+
+As the myth of all-powerful technology grows, it’s crucial that technology    leaders remain grounded and advocate the idea that, while technology is an    important driver of customer experience, innovation and operational synergies,    it is only one piece of the puzzle. In other words, technology is a    means to an end, not the end itself. A company still needs a wide-focused    vision, forward-thinking strategy and the right people in place to incorporate    technological innovation and stay apace.
+
+Higher-level executives may be prone to buying into the myths of technology,    as well. So tech leaders must be able to evaluate the scope and    limitations of technology so they can advise management teams about what can — and cannot — drive their organizations forward. Tech leaders    must also ensure C-level leaders are fully engaged with the organization’s    technological initiatives, so that there is alignment within the company’s    highest levels.
+
+As the myth of all-powerful technology grows, it’s crucial that technology    leaders remain grounded and advocate the idea that, while technology is an    important driver of customer experience, innovation and operational synergies,    it is only one piece of the puzzle.
+
+As they incorporate this technology-oriented perspective, tech officers are developing    a credible voice within the boardroom and C-suite. Eventually, it may    benefit companies to consider tech officers who can combine tech awareness    with strategy — i.e., they can see the forest AND the trees — as possible CEOs.
+
+Imperfect technology means people will    always be necessary
+
+Technological advancements are impressive, but hardly flawless. Andrew Ng    — the founding lead of the Google Brain artificial intelligence project,    former director of the Stanford Artificial Intelligence Laboratory and former    lead of Baidu’s AI team — notes that AI tasks are still fairly limited. Ng    wrote in Harvard Business Review1    that, despite AI’s breadth of impact, its    typical tasks are largely confined to situations where some input data is    used to generate a quick, simple response. Ng highlighted that supervised    learning, the type of software that enables this input-to-output generation,    has an Achilles heel: it requires a huge amount of data to train it. For example,    while language translation is a popular usage of AI, it requires a human    to input the data and create the program. Translation programs also have a    difficult time capturing the critical nuances of language. Even the previously    lionized term “big data” is losing its luster, as examples of its shortcomings    have proliferated and analytical analysis has become standard.
+
+The best AI-powered systems    require humans to play an    active role in their creation,    tending and operation.
+Christopher Mims, Technology Columnist
+Wall Street Journal
+
+While AI can automate many human tasks, these tasks often fit into a larger    context and business process. Consequently, tech leaders still need to figure    out the linkages to the rest of the business, understand what AI can and    cannot do, and identify where value is created in order to formulate a    winning business strategy.
+
+“The best AI-powered systems require humans to play an active role in their    creation, tending and operation,” Wall Street Journal technology columnist    Christopher Mims recently wrote.2    “Far from displacing workers, this combination    is spawning new non-engineer jobs every day, and the preponderance    of evidence suggests the boom will continue for the foreseeable future.”
+
+Indeed, as noted in The Economist,3    “Automating a particular task, so that    it can be done more quickly or cheaply, increases the demand for human    workers to do the other tasks around it that have not been automated.”    The article cites the example of ATMs, which were initially predicted to end    the position of bank teller. Instead, the reduced costs of banking allowed    banks to open more branches, thereby moving tellers “away from routine    tasks and toward things like sales and customer service that machines    could not do.”
+
+... ATMs were initially    predicted to end the    position of bank teller.    Instead, the reduced    costs of banking    allowed banks to open    more branches ...
+
+These views are consistent with those expressed in a recent McKinsey    Global Institute report4    on automation and its implications for employment    and productivity. Based on an analysis of 2,000 distinct work activities    across 800 occupations, McKinsey’s research found that full automation is    far from inevitable: According to their study, 60 percent of occupations have    at least 30 percent of their activities that can be automatable, but few occupations    can be fully automated. The underlying reason is that most    occupations still involve leadership-related activities like managing people,    interfacing with stakeholders and thinking creatively, all of which are not    easily automatable (at least for now).
+
+The cultural implications of    technological transformation
+
+As technology advances, the cultural ramifications for companies grow    increasingly significant. To stay atop new developments, well-rounded tech    leaders should be conversant in cultural issues and help their companies    embrace the inevitable changes and align around the benefits of the transformation.    Some companies are more advanced digitally than others, so the    larger the transformation the greater the effect may be on the culture. In    these situations, a diagnostic assessment of a company culture can be    crucial in helping the organizational culture align with the strategic vision.
+
+Now, tech leaders must deftly navigate the perpetually shifting terrain of the    technological world and evaluate how it affects their organizations.    Companies must adapt quickly within this new paradigm, so cultures that    are more cautious need to become more experiment-driven and failure-tolerant.    Next-generation tech leaders must help their organizations adapt on    the fly within a more innovative environment.
+
+To help direct this shift, tech leaders will need to augment — or develop    — new, “softer” skills, such as critical thinking and listening, as well as a    highly attuned sense of culture. Tech leaders likely have the requisite technological    knowledge, but succeeding in this area requires a more holistic    sense of leadership.
+
+Within the workforce, it’s true that automation does indeed displace    workers. However, the result is that new jobs are often created in different    areas. Leaders must be aware that workers are bound to worry that their    jobs will disappear as technology advances. It’s crucial for company    morale that workers know they are appreciated and kept apprised of how    technology will affect them.
+
+Tech leaders must deftly navigate the perpetually shifting    terrain of the technological world and evaluate how it affects    their organizations.
+
+Conclusion
+
+In the end, it’s clear that technological advances have    dramatically changed — and will continue to change    — our world. But it’s a never-ending balancing act    as companies incorporate these changes, and smart    leadership will always be necessary to direct technology    in our favor — not the other way around.
+
+1 Andrew Ng. “What Artificial Intelligence Can and Can’t Do Right Now.”    Harvard Business Review, November 9, 2016.
+
+2 Christopher Mims. “Without Humans, Artificial Intelligence Is Still Pretty Stupid.”    Wall Street Journal, November 12, 2017.
+
+3 The Economist. “Automation and Anxiety: Will Smarter Machines Cause Mass Unemployment?”    June 25, 2016.
+
+4 McKinsey Global Institute. “What the future of Work Will Mean for Jobs, Skills and Wages.”    November 2017.
+
+Download
+
+Download
+
+Authors
+
+Danny Koh
+
+Singapore
+
+Edward M. Stadolnik
+
+Chicago

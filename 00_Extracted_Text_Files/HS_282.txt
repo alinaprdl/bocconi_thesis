@@ -1,0 +1,270 @@
+Transforming Asia: The search for digital leaders | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Transforming Asia: The search for digital leaders
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Digital Leadership Transforming Asia: The search for digital leaders
+
+Organizations that find the right digital talent and align their transformation with local conditions and their business strategy will have the edge in the APAC region.
+
+Graham Kittle
+
+Digital transformation requires the right leadership, and difficulty in finding seasoned executives with the necessary digital skills makes the task all the more complex. Asia Pacific is witnessing unprecedented rates of technological disruption, and competition for digital leaders is fierce. However, there is no unified regional market for talent, and understanding national nuance is critical if leaders are to prove effective.
+
+Thus, finding leaders who can digitally transform a business is a particular challenge in the Asia Pacific (APAC) region. To find out how APAC companies can succeed, Heidrick & Struggles surveyed 307 corporate leaders from across the region to determine how they were aligning their leadership and talent pool with digital transformation.
+
+Definitions of digital transformation vary across organizations and industries, but our survey highlights that a big part is optimizing customer experience, which is a focus of the digital strategies of three-quarters of respondents in our survey, while almost two-thirds cite the use of data and analytics to drive business development as their focus. In terms of investment, mobile apps are the most common means to achieve digital transformation (picked by 57%), ahead of cloud computing (42%) and e-commerce (37%).
+
+These findings reflect the fact that digital-native firms have driven very rapid digital disruption in APAC markets, increasing the competition for customers along with digital talent. In 1999, for example, five friends in Shenzhen launched a free messaging service for desktop computers. Twenty years later, their company, Tencent, is one of the world’s most valuable, with its online ecosystem boasting more than a billion installations of its app-based services such as WeChat and Tenpay.
+
+It’s not just a Chinese story: the ride-sharing service Grab is the most popular app downloaded to Apple devices in Southeast Asia, after the company bought Uber’s assets and localized its offering for the subregion. In South Asia, meanwhile, the Paytm payments and e-commerce app is available not only in English but also in 10 Indian languages and writing systems, giving it penetration into India’s 1.3 billion-strong market that English- and Hindi-only apps lack. Founded in 2010, Paytm is now valued at US $10 billion to US $12 billion.1 Grab and Paytm show that understanding local needs and conditions can give digital pioneers a critical edge.
+
+Generational and monopoly shifts push digital change
+
+For companies not born into APAC’s digital age, identifying the drivers behind digital transformation requires a granular analysis that goes beyond the headline data to look at the individual circumstances of countries and sectors.
+
+External pressures, customer experience in particular, provide an essential impetus. One way that the original “Asian Tiger” economies (Hong Kong, Singapore, South Korea, and Taiwan) differ from the rest of APAC is that businesses are predominantly state-owned or state-backed or are large family conglomerates (or a hybrid of these).
+
+This can breed resistance to change. Often, these established businesses see digital transformation simply as an exercise in eliminating costs from legacy systems. However, the loss of state-monopoly privileges and the retirement of the older generation of family leaders, along with increased competition, are driving moves toward more wholesale transformation.
+
+On the other side of the coin, the new-growth Asian countries—including Indonesia, Malaysia, Thailand, and Vietnam—can take advantage of their lower barriers to transformation. These markets also have large state-owned businesses and some family businesses, but they do not have the legacy or foundations of more than half a century of success, so they are in a better position to leapfrog the more traditional markets. One of the change drivers is a younger, digitally savvy, more urban consumer market where new lifestyles create massive opportunities to shape business models. That creates a different approach to talent: the focus is less on past experience and more on what people bring to the table and how much they understand their local markets.
+
+Though family-owned businesses are most predominant in traditional Asian Tiger markets, they are an important feature throughout the region; they represent the second-largest demographic in our survey sample after multinational corporations (MNCs). The vast majority have their roots in real estate, manufacturing, and other traditional sectors. Their generational shift is seeing some of these family-owned businesses transformed from typical operating companies to family investment businesses. As part of this transformation, a long-standing tradition of employing loyal, generalist executives is giving way to hiring industry and digital specialists in order to remain competitive and to allow family members to step back from day-to-day management. This presents a natural opportunity to review their technology base and understand how it must be strengthened to ensure corporate survival, even if this involves taking on more risk as part of their cultural change.
+
+APAC MNCs benefit from the scale, experience, and access to talent that come with being part of large international organizations. They have more confidence in their digital progress and current talent base. Importantly, they tend to engage their collective C-suite more than other types of organizations.
+
+Shifting to a digital structure and culture
+
+Digital transformation is a challenging leadership task even for the best-resourced organizations. To understand the approach of the most successful companies, we segmented our respondents by their progress toward digital transformation, in order to learn what they were doing differently. We then talked to our own experts based in Hong Kong, New Delhi, Shanghai, Singapore, Sydney, and Tokyo to provide an integrated picture of how digital talent drives transformation.
+
+Only 22.8% of our respondents describe themselves as in the “advanced” stage of digital transformation. This group is most satisfied with their digital progress, with almost 70% describing themselves as satisfied or very satisfied—more than twice the rate of those in the next-most-advanced cohort (those “looking into the future”) who feel this way. Advanced companies also more often describe their organization as close to the ideal digital transformation scenario in improving processes, engaging talent across the organization, and driving value through new business models.
+
+Advanced companies differ in three key ways from organizations at earlier phases of digital transformation, according to our survey findings:
+
+1. A commitment to innovation over efficiency
+
+When asked for the main driver behind their digital strategy, companies across the board say they want to improve customer experience. When it comes to second-order drivers, however, the advanced group diverges from the pack. They see their chief secondary motivation as the opportunity to innovate in products and services, while the other groups cite improving the efficiency of current business processes and operations. This is borne out in behavior: the advanced group says more often than the other groups that their organization’s culture values autonomy and innovation.
+
+This emphasis on innovation is a signifier of companies at the leading edge of digital transformation. In Heidrick & Struggles partner Scott Snyder’s recent book, Goliath’s Revenge, the authors find that the key to making innovation actionable is making it “a fundamental part of your company culture, not just a slogan printed on the wall near the employee entrance.”
+
+Digital leaders are always looking at how they can innovate and rethink, whether it’s business models, products, or technologies. Therefore, these individuals have a very high risk tolerance. They learn from their mistakes and often actually celebrate them. Jack Ma, the founder of Alibaba and China’s richest man, is a proponent of this mentality. “You have to get used to failure,” he told students in Kenya in 2017. “If you cannot get used to failure—just like a boxer—if you can’t get used to [being] hit, how can you win?”2
+
+2. Strategic alignment
+
+Leaders in our advanced group more often say, “Our digital strategy is integral to our overall strategy,” than do those in the other groups. They also allocate considerably more of their time to digital transformation than those in the catching-up phases: 40% of the advanced-group executives say they spend half or more of their working time on digital, compared to 9.9% of executives in companies looking into the future and 5.1% of those in the early-adaptation stage who say so. The reason for this is fundamental: for leading companies, digital transformation is not about transforming just one part of their business—it’s a total overhaul of everything they do, including their internal culture.
+
+With this mind-set, digital transformation becomes indistinguishable from the company’s day-to-day activities, which is why advanced-company leaders devote so much time to it. In our experience, the very best technology teams are in 100% synchronization with the rest of the business.
+
+One example in APAC is the Discovery Channel, a venerable media company specializing in documentaries. It embraced a digital-first strategy for China and brought in young leadership talent from pure-play online companies to achieve this. The company realized that younger commuters riding metro trains to work were much more likely to stream short videos than to view the channel’s traditional long-form films. By understanding how this younger “golden generation” demographic preferred to consume such media, Discovery adapted its offerings and unlocked rapid growth in its viewers and business.
+
+3. Investing in people
+
+Advanced companies also more often say they have a strategy in place to ensure a good flow of digital literacy throughout the organization. They also have a much stronger preference for developing teams and people than do those in the catch-up phase, and more often seek to recruit leaders with digital talent.
+
+This matches the findings of an SAP study that surveyed more than 3,000 executives worldwide in 2017. Of the top 100 most advanced companies in terms of their digital transformation, the study found that one of their four key traits was to be talent-driven and that digital transformation in itself makes it easier to attract, retain, and engage personnel.3 Going forward, talent will solidify its role as a differentiator in the success of any digital transformation.
+
+APAC currently faces a shortfall in digital leadership talent. CHROs are in a particularly exposed position, with only 19% of the respondents in our survey saying the HR function is able to find and retain the best people to support the company’s digital strategies. CHROs themselves are sounding the alarm: Gartner research found that almost two-thirds of CHROs don’t feel prepared for their organization’s digital transformation.4 Compounding this concern in APAC is the intense competition for digital leaders.
+
+Effective talent attraction and retention is pivotal to APAC digital growth, but many companies are playing catch-up. In Goliath’s Revenge, the authors present research that shows that less than a third of companies believe they have the right talent for digital transformation. According to our survey, this finding also holds true for APAC, even among the advanced group.
+
+Navigate Asia by understanding talent pockets and mobility limits
+
+So what can companies do to remedy this? Our recent article, “Digital acceleration: The right C-suite expertise,” shows how an organization’s leadership strategy shifts through the various phases of digital transformation. Enterprises operating in APAC must consider some additional factors, too.
+
+For example, we know that “paying a premium to get the best resume out of Silicon Valley may be a quick path to frustration,” because a candidate who does not understand an organization’s values, culture, and industry often cannot work with the rest of the leadership team. This point is magnified in APAC, given the region’s immense cultural and linguistic diversity.
+
+The perception of India as a difficult place to do business is changing for the better. When it comes to the portability of talent, we see a positive operating environment. Large India-based companies are attracting leadership talent from as far away as Europe, the US West Coast, Singapore, and Israel, including Indian nationals who have gained experience in those locations and are reimporting it to India. And you only have to look at some of the world’s leading technology companies such as Google, Microsoft, Nokia, and Adobe to see Indian talent success stories.
+
+India has become more livable for executives, particularly those who structure their careers with three- or four-year stints in a series of countries. There are higher-quality schools and hospitals in India’s tech hot spots—Chennai, Bangalore (Bengaluru), Hyderabad, and, increasingly, Pune. Some companies will base operations wherever the tax rate is lowest, but unless that location has an existing pool of digital talent and offers high living standards for a footloose digital workforce, it will be difficult to build the teams and attract the leaders necessary for digital transformation to work.
+
+Singapore has long had an advantage in this regard. It remains the preferred center for many multinational corporations in Asia and has a sizable pool of digital specialists, along with the ambition to attract such leaders and entrepreneurs to the market. However, traditionally, for multinationals, digital strategy has not necessarily been developed in Singapore but rather at global headquarters. It is only more recently that the pivot to an APAC center of digital strategy has really emerged in Singapore, signaled by an increasing number of technology companies that have been placing their APAC digital leaders there.
+
+Southeast Asia is becoming an increasingly unified market. It is demographically young and has a highly mobile urban population. The multilateral Association of Southeast Asian Nations (ASEAN) has a combined GDP of more than US $2.5 trillion and is pursuing regional economic integration, making for a sizable business opportunity for companies that can operate ASEAN-wide. Although the bloc is still a long way from EU levels of market integration, it is nonetheless taking advantage of digitally enabled leapfrog development that promises to improve the purchasing power of consumers in the subregion.
+
+The World Bank, for instance, has used Grab’s wealth of driver data to develop traffic-management tools for the Philippine government, allowing it to ease urban congestion, improve road safety, and plan new infrastructure in a smarter way.5 Singapore, Thailand, and Vietnam are racing to be among the first countries to implement 5G mobile connectivity, which could make cable connections redundant and enable the creation of new, high-technology industries.6 Although ASEAN has not embraced freedom of movement, as the European Union has, it is increasingly a single market for talent, as companies and countries vie for the best digital leaders.
+
+Intraregional mobility is less straightforward in Northeast Asia. Japan presents high cultural barriers unless a candidate has extensive in-country experience under his or her belt. Likewise, our experience in the region shows it would be a mistake, for instance, to transplant executives in countries with vastly different cultures, given the potential for culture shock and challenges in reading local cultural trends for consumer insights. Mainland China remains something of a microclimate for talent. In their early stages of development, China’s pure-play digital companies tend to recruit Chinese nationals from supplier companies such as IBM and Microsoft, looking toward China’s four digital poles: Beijing, Shanghai, Shenzhen, and Hangzhou. Only after perhaps two decades of existence will they expand their search to markets outside mainland China, with the Greater Bay Area (Guangdong, Hong Kong, and Macau) acting as a bridge to the wider world.
+
+Disrupted sectors produce insightful leaders
+
+Looking beyond geography, the most valuable talent often lies in industries that have already been most disrupted by digitization. Examples in Australia are sectors such as hospitality, gaming, publishing, and media. Leaders in disrupted industries are likely to have survived “near-death experiences” and will have learned important lessons as a result, such as those seen by the Discovery Channel in China, which can be transferred to sectors facing the same kind of disruption, such as real estate. (To give an idea of the potential speed of change, China’s open-platform real-estate portal ke.com has posted a growth rate of 32.2% over the past three years.7 Ke.com is owned by Lianjia, a large established real-estate brokerage.)
+
+However, given the battle for human capital and mobility constraints sometimes imposed by Asia’s cultural differences, importing external talent is not likely to be enough on its own. It is imperative to develop people internally, too.
+
+Where are these digital leaders to be found? Although the technology function is perhaps the most obvious place to search, there are other business units worth monitoring when it comes to digital talent. One is marketing. If an organization has been through a data- and insight-driven marketing transformation, for instance, this can be a very rich source of digitally savvy and agile leaders.
+
+Supply chain is another place worth looking. Many organizations benefit almost immediately when they start digitizing their supply chain and function, and lessons from that transition can be applied elsewhere.
+
+Anatomy of the APAC digital transformation leader
+
+Wherever digital transformation leaders come from, our research and experience show they share some common characteristics that are crucial in the APAC context.
+
+Vision
+
+The ideal digital transformer is a visionary with a flair for communicating not only how the technology scene looks today but also how it will look in a decade’s time. When we asked executives about what competencies they are looking for in their digital leaders, experimenting and innovating to create new growth engines and reinvent existing businesses ahead of the market (59.9%) and spotting opportunities to create a competitive advantage by adapting and pivoting at a faster pace than competitors (58.6%) topped the list. But having a vision is not sufficient; digital leaders need to be storytellers who can evangelize their vision, with emotional heft, to the rest of the C-suite, because although the idea for digital transformation can come from anywhere in an organization, it must be driven by the board and the CEO.
+
+However, in APAC, it is essential that the story is told in a way that has clear relevance to local market conditions, which vary widely across the region, and that bridges the at-times divergent outlooks of older and younger generations. For family businesses, this may involve overcoming traditional approaches to leadership, in which those at the top are expected to set a course and never deviate from it. When it comes to multinationals, more attention should be given to navigating the complex institutional matrix and devolving some of the decision making to local leadership. In all cases, leaders in the digital transformation must be able to not only inspire colleagues but also mobilize them if they are to be effective.
+
+Agility
+
+The concept of agility is particularly key in APAC. Agile leaders in this context can be seen as those who have shown an ability to effect digital transformation in multiple countries and multiple industries. Their broad cultural experience gives them the core competencies to work in multiple APAC countries, using their portable soft skills. (Even then there are limits, such as in Japan, South Korea, and mainland China, where leaders tend to be produced indigenously.) A greater barrier for many large APAC companies is their long-standing role as monopoly players, a status that does little to foster the agile leaders who become so crucial when monopoly privileges are lost.
+
+Digital proficiency
+
+Digital transformation leaders need to understand their customers, and in order to do that, they must appreciate the importance of data. However, they need not be data specialists themselves. Nor do they need to be technology specialists, but rather individuals who immerse themselves in the potential of technological change while absorbing and synthesizing information from external sources and internal stakeholders. Balancing this equates to “digital dexterity.”
+
+The path forward for APAC digital transformation
+
+Generational handover provides an opportunity for digital change, but nonfamily leaders must understand the outlook of both generations. And the new-growth economies in Indonesia, Malaysia, Thailand, and Vietnam are fertile grounds to leapfrog traditional markets worldwide.
+
+Digital strategy also requires a different strategic approach: agreeing on the broad, customer-focused vision but remaining flexible and responsive; innovating through small projects; and learning from them when they fail. Digital leaders should have a long track record of real-world achievements as a result of pursuing this approach.
+
+By screening for these attributes, and by learning where pockets of leadership exist within their own organizations and elsewhere in the region, C-suite leaders can find the people to drive the digital transformation that is required for success and, in many cases, sheer survival in APAC. For those that can tap the potential for digital growth in this huge and ever-more-prosperous marketplace, the rewards promise to be impressive.
+
+About the authors
+
+Dan Cullen (dcullen@heidrick.com) is partner-in-charge of Heidrick & Struggles’ Singapore office and a member of the Global Technology & Services Practice.
+
+David Hui (dhui@heidrick.com) is the regional managing partner of the Industrial Practice for Asia Pacific and the Middle East; he is based in the Hong Kong office.
+
+Graham Kittle (gkittle@heidrick.com) is the regional managing partner of the Global Technology & Services Practice for Asia Pacific and the Middle East; he is based in the Sydney office.
+
+The authors wish to thank Aya Iinuma, Gauri Padmanabhan, and Ed Zheng for their contributions to this article.
+
+References
+
+1 Trefis Team, “Is Paytm worth $20 billion?” Forbes, December 3, 2018.
+
+2Ali Montag, “Billionaire Alibaba founder Jack Ma was rejected from every job he applied to after college, even KFC,” CNBC, August 10, 2017.
+
+3SAP Digital Transformation Executive Study: 4 Ways Leaders Set Themselves Apart, SAP Center for Business Insight, 2017.
+
+4 Gartner, “The path to HR digitalization,” research presented at Gartner 2018 ReimagineHR conference, Orlando, FL, 2018.
+
+5 World Bank, “Philippines: Real-time data can improve traffic management in major cities,” press release, April 5, 2016.
+
+6 Tomoya Onishi and Marimi Kishimoto, “Southeast Asia hastens 5G shift to close development gap,” Nikkei Asian Review, March 18, 2019.
+
+7 Deloitte, “Technology Fast 500 Asia Pacific 2018 Ranking,” 2018.
+
+Related Services & Industries
+
+AI & Technology Officers
+
+Digital Leadership
+
+Technology
+
+Related Content
+
+Leadership Development
+
+AI focus: Leveraging your culture to accelerate GenAI enablement
+
+Realizing the value of your AI investments relies more on your culture than on the technology itself. Our work and interviews with five executives highlight how companies are engaging their leaders to speed GenAI progress.
+
+FinTech
+
+Stablecoins and the future of finance: A conversation with Marieke Flament, co-author of Euro Stable Watch, board member and advisor
+
+Marieke Flament explores how stablecoins are reshaping global finance and what today’s leaders need to thrive in a decentralized financial system.
+
+Marketing, Strategy & Communications
+
+AI leadership in communications: A conversation with Corey duBrowa, Global CEO of Burson
+
+Corey duBrowa shares practical guidance for corporate communications leaders on harnessing AI, staying ahead of emerging trends, and advising CEOs and boards on the right questions to ask.
+
+Digital Leadership
+
+AI and leadership: How finance, HR, and technology leaders are collaborating to make the most of AI across the enterprise
+
+When leaders of these key functions work together effectively, their companies are more able to benefit from implementing AI. Focusing on three areas will help keep progress going.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

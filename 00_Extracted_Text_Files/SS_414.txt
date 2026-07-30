@@ -1,0 +1,193 @@
+Becoming a “Data-driven” Organization in Latin America: 3 Myths and 2 Opportunities
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Becoming a “Data-driven” Organization in Latin America: 3 Myths and 2 Opportunities
+
+By
+
+Estefania Henao,
+
+German Hernandez,
+
+Marie Rosso,
+
+Juan Pablo Solar and
+
+Charlie Stack
+
+May 2021
+
+| 7 min read
+
+Authors
+
+Estefania Henao
+
+Bogota
+
+German Hernandez
+
+Austin
+
+Marie Rosso
+
+Lima
+
+Juan Pablo Solar
+
+Santiago
+
+Charlie Stack
+
+New York
+
+SectionsIn this article
+
+For over a decade now, digitization has presented businesses with new ways of creating value. The opportunities are almost limitless. Yet in Latin America, many organizations still are figuring out how to take best advantage of those opportunities.
+
+We know that data and analytics are vital to enabling organizations to relate digitally to consumers and gather valuable information about their behavior, preferences and needs. Internally as well, technologies such as artificial intelligence, the Internet of Things and the cloud are transforming in-house processes — such as finance, production, logistics and others. As these processes are digitized and automated, organizations are gaining new-found access to data about their business performance and evolution.
+
+However, becoming a “data-driven” organization is about a lot more than simply hiring a team of data scientists and architects. It calls for cultural change. The challenges can seem daunting. How much should the organization invest? What talent does it need to hire? How can it maximize value creation? And how can it overcome natural resistance to change?
+
+To answer some of these questions and demystify the process for Latin American organizations, over the past year we interviewed data and analytics leaders at 18 companies that have risen to the digital challenge. The interviewees covered a wide range of professional backgrounds — such as risk management, technology, business intelligence and consulting — in a range of countries, including Argentina, Brazil, Chile, Colombia, Mexico and Peru.
+
+In these interviews, the leaders challenged some of the common myths that deter companies from embarking on their own road to becoming data-driven, and pointed out some of the major opportunities as well. In this piece, we look at some of the main findings.
+
+Download
+
+Download
+
+Myths demystified
+
+Companies preparing to implement change — particularly cultural change — are always concerned about the potential risks. But our interviews pointed to three pervasive myths that hold companies back.
+
+Myth 1: Internal resistance is a major obstacle
+
+Internal resistance to organizational change is of course a challenge for creating a data and analytics capability. However, our interviewees were nearly unanimous in telling us that this is far from an insurmountable problem, and that there are many effective ways to build trust in change. The key is positioning the new area as an ally in creating value for the company.
+
+CEOs play a key role in combatting negative internal sentiment. One major theme of our interviews was that when a CEO played a central role, it could gain and consolidate trust in data and analytics.
+
+The fears are natural. When you dismantle internal silos in order to increase synergies, other areas of the company can feel threatened, perceiving a loss of control over their tasks. The feelings can be accentuated if the data reveals inefficiencies that must be addressed. Moreover, the vital relationship with finance in demonstrating the value and return on investment data can be slow to get started.
+
+However, there are several ways that our interviewees overcame these challenges.
+
+CEO leadership. CEOs play a key role in combatting negative internal sentiment. One major theme of our interviews was that when a CEO played a central role, it could gain and consolidate trust in data and analytics. With the CEO’s backing, the area will have more power and will enhance its persuasive capacity.
+
+Strong cross-company relationships. Interviewees underlined the importance of developing relationships with other parts of the company. Partnering with the IT function was identified as particularly important for creating a companywide analytics community using common data. Similarly, if the organization already had functions and teams such as business intelligence, reporting and data architecture, with any overlap to the new data and analytics areas, then teaming up with leaders in those areas is important.
+
+Getting the whole organization’s buy-in is a long process of convincing everyone to trust in the ultimate aim of processing information to generate value.
+
+Strong communication. When embedding a “data-driven” culture, it is important to communicate how robust data and analytics can help solve the company’s main pain points. This calls for well-honed listening skills, and not falling prey to criticism, as it is wise to understand the problems faced by different functional areas. Getting the whole organization’s buy-in is a long process of convincing everyone to trust in the ultimate aim of processing information to generate value. Our interviewees emphasized the importance of setting reasonable expectations, and of seeking and respecting internal allies with their respective values and way of working. Change management and a collaborative, learning-centric culture will be vital to finding those early successes that will encourage widespread use within the company. Successful companies have used the cascade communications model which, through e-learning modules, provides training and builds understanding in different aspects of the data world.
+
+Our interviews regularly returned to two key recommendations: start with small investments, and choose high-impact problems to solve.
+
+A future focus. The data generated must be part of a yearslong transformation process, under way today and planned for the future. Every section of the organization must understand that data is everyone’s responsibility, and that each area may need a formal department responsible for providing support for various initiatives. By revealing the benefits of the change, this will contribute to acceptance of the transformation process.
+
+Myth 2: The process is expensive
+
+Many companies contemplating digital transformation are concerned about the resources and equipment that must be acquired to make it work. Certainly, a large investment puts pressure on CEOs who feel they need to demonstrate monetary returns to the board.
+
+However, the chief data officer success stories we heard about in our interviews showed that this does not have to be a problem. Our interviews regularly returned to two key recommendations: start with small investments, and choose high-impact problems to solve. Starting humbly can give your new data and analytics team time to complete their job well, and keeping it in a more limited business area can limit the risk, generating high-value results.
+
+In the initial stages, organizations can win with a small but robust team with technology capabilities, knowledge and innovativeness to understand, transform and implement a data and analytics transformation, with a clear understanding of both the technological and business needs.
+
+While a large team may seem more conducive to better results, most of our interviewees favored smaller teams. An extensive structure simply isn’t necessary to create the new area; more important is finding the right talent. And in the face of a talent shortage, in some cases the companies have to look outside their own market.
+
+In the initial stages, organizations can win with a small but robust team with technology capabilities, knowledge and innovativeness to understand, transform and implement a data and analytics transformation, with a clear understanding of both the technological and business needs.
+
+Myth 3: Seeing results takes a long time
+
+Everyone agreed that showing results quickly can give data efforts credibility as a tool for monetization and to facilitate the cultural change that this implies. They also told us that their experience showed that by finding internal allies, their first projects could generate a big expected impact.
+
+There is broad consensus that around 70 percent of efficiency gains come in the commercial area, and 30 percent are in business support.
+
+There is broad consensus that around 70 percent of efficiency gains come in the commercial area, and 30 percent are in business support. However, it is important to consider that each of these projects may involve the automation of certain tasks and, therefore, the way in which the commercial areas in particular do their work. In this context, the processes of evangelization within the company and work with those areas that are the greatest believers in the impact of data take on special importance.
+
+Lessons learned
+
+So what lessons did executives learn as their organizations transformed their businesses to become more data-driven?
+
+Lesson 1: Make the most of data
+
+The interviewees told us that a focus on data quality, beyond its basic cleanliness and accuracy, can yield a huge and often unexpected gold mine of dividends, making an important contribution to value creation.
+
+One way to take full advantage is to automate data processing by investing in a few, relatively inexpensive tools such as data robotics. In typical circumstances, analysts spend almost 80 percent of their time preparing the data they will later run through the models, leaving only some 20 percent of their time to work on the intelligence behind the data. By automating data preparation, companies can free up time and significantly boost their analytics and intelligence capacity, increasing the possibilities of a greater impact from analysis.
+
+Lesson 2: Buck the talent shortage
+
+Many of the interviewees recognized Latin America’s shortage of data and analytics talent as one of the most important challenges they had faced. This is, after all, a relatively new field globally and even more so in Latin America. However, our interviewees pointed to many steps to mitigate this problem.
+
+Internally, the data and HR teams can systematize the learning acquired during the change process by creating a “school” within the company to transfer the knowledge generated to new generations of executives. More broadly, there was consensus among interviewees on the need for new university courses in fields such as statistics, data analytics, artificial intelligence and machine learning to bolster the early development of students’ data and analytics capabilities. Here, as interviewees noted, many companies have taken a proactive approach, partnering with top universities to help develop the appropriate talent and expose it to real business problems.
+
+In typical circumstances, analysts spend almost 80 percent of their time preparing the data they will later run through the models, leaving only some 20 percent of their time to work on the intelligence behind the data.
+
+The greatest returns on data science investments come from acquiring and developing deep engineering skill sets and then enabling those engineers to rethink critical business problems, rather than merely take technology orders. In data-driven transformations, most of the work is in engineering, not math or statistics. However, companies often either lack leading-edge engineering talent or fail to give the authority to address core business problems.
+
+In most companies, more than 80 percent of the work done by analysts is data cleanup, rather than analytics. Moreover, the analytics being done tend to be ad-hoc, answering individual questions or analyzing individual decisions. More effective analytics, are instead of constructing models that can be automated, scaled, re-used and/or self-served on an ongoing basis.
+
+The big wins come more from engineering better data ingestion capabilities, instrumenting critical business processes to yield valuable data assets, automating data pipelines, refactoring legacy systems and designing end-user tools and feedback loops that are seamless, intuitive and integrated into the way people work.
+
+The big wins come more from engineering better data ingestion capabilities, instrumenting critical business processes to yield valuable data assets, automating data pipelines, refactoring legacy systems and designing end-user tools and feedback loops that are seamless, intuitive and integrated into the way people work. Many of the algorithms powering optimization, recommendation or natural language processing engines are already available in open source libraries and require only a handful of math PhDs and machine learning experts to fine-tune them for use — if the company has the engineering muscle to harness and deploy the insights.
+
+Conclusion
+
+Technology’s benefits — through process digitization, both internally and for end-customers — are undeniable. The key to a digital transformation, however, starts with having the right people and convincing the organization of the benefits of change. In this sense, data may be the most important way to capitalize on efforts, by monetizing the return on investment and demonstrating the value analytics can provide.
+
+To start, the leaders of the data world are designing capacities that require small investments, establishing small teams and scaling up only once the results have been proven and the organization already believes in the value that the area contributes. Achieving peer area sponsorship is fundamental if the change process is to run as smoothly as possible. For this, we recommend choosing high-impact “quick wins” where the value contributed is clear. It is important to be prepared for the shortage of talent facing our markets today, reach agreements with universities and support HR in developing internal capabilities that support this commitment.
+
+Interview participants
+
+Pablo Arboleda, Director of Data & Analytics and Data Governance, Grupo Bancolombia
+
+Silvina Arce, Chief Data Officer and Digital Transformation Lead, Banco de Chile
+
+Michael Christian Collemiche, Executive Director, Data & Analytics, Belcorp
+
+Alejandro Correa, Chief Artificial Intelligence Officer, RappiBank
+
+Sandro Denegri, Chief Data Officer and Chief Information Officer, Grupo El Comercio
+
+Tomás Durandeau, Chief Customer and Data Officer, SMU
+
+Tomás Gazmuri, Chief Data & Analytics and Incubation Officer, S.A.C.I. Falabella
+
+Iván Herrero Bartolomé, Chief Data Officer, Intercorp Group
+
+Guilherme Loureiro, President and General Director, Walmart México
+
+Miguel Paredes, Executive Vice President and Chief AI & Data Officer, Rimac Internacional Cia. Seguros
+
+Leandro Rocha de Andrade, Chief Data & Analytics Officer, Banco de Crédito del Perú
+
+Carolina Stein, VP Global Data & Analytics, Equifax
+
+Denise Zoccoli, Global CDO Oversight, Banco Santander
+
+Carlos Zuzunaga, Managing Director — Digital Transformation and Advanced Analytics, Alicorp
+
+Authors
+
+Estefania Henao
+
+Bogota
+
+German Hernandez
+
+Austin
+
+Marie Rosso
+
+Lima
+
+Juan Pablo Solar
+
+Santiago
+
+Charlie Stack
+
+New York

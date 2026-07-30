@@ -1,0 +1,199 @@
+AI in Talent Acquisition: Top Challenges for 2025
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Talent Recruitment|December 9, 2024
+
+AI in Talent Acquisition: Top Challenges for 2025
+
+With AI adoption on the rise, we identify the growing pains TA leaders need to be aware of—and how to address them.
+
+Key takeaways
+
+How to tackle AI bias in the hiring process
+The best way to keep up with changing AI regulations
+How to drive ROI from AI in 2025
+
+Overcome AI Limitations to Transform Your TA Team’s Success
+
+AI is transforming talent acquisition (TA), boosting productivity, speeding up hiring, and reshaping processes.
+
+More than two-thirds of leaders see increased AI usage as a top TA trend for 2025. Yet as its usage booms, many TA teams are experiencing growing pains with the new technology.
+
+Issues such as algorithmic bias, ROI concerns, and the loss of the human touch in hiring mean that AI may not be delivering all they had hoped. By directly addressing these key challenges, organizations can ensure AI becomes a strategic asset, not a hindrance.
+
+Challenge: AI May Have Algorithmic Bias
+
+TA leaders worry that AI hiring bias might lead to top candidates being overlooked during the recruitment process. Algorithmic bias often stems from underlying biases in the data used to train AI systems, resulting in unfair outcomes.
+
+For instance, AI might unintentionally favor candidates with certain credentials (e.g., Ivy League degrees), experiences, locations, or identities. This bias can be deeply embedded in the code, making it hard to detect.
+
+How to Overcome It
+
+“Biased outcomes are likely the result of how AI is being implemented within your business,” says Korn Ferry’s Matthew Renick. “It’s not that the AI tools themselves perpetuate bias, but rather the human input and utilization of them.
+
+“Poor prompting—when combined with limited or inaccurate data used to train large language models (LLMs)—can make AI tools more susceptible to delivering a biased result.”
+
+AI learns from your organization’s data and historical hiring decisions, and it’s only as accurate as the information it’s based on—and the briefing it’s given.
+
+By identifying biases in your data and training AI to filter correctly, you can significantly reduce hiring bias within your organization.
+
+For example, if you notice the same types of candidates coming up again and again, check that your success criteria are properly aligned. Renick notes that even small human errors—such as preferring a particular type of spelling like British or American when sorting resumes, can influence results.
+
+Challenge: Loss of the Human Touch in Talent Acquisition
+
+Forty percent of talent specialists worry that AI and recruitment process automation will make the candidate experience impersonal, our TA Trends 2025 report reveals.
+
+It’s a worry on two levels. First, without the human touch, preference may be given to candidates who are strong “on paper” but aren’t the right fit for other reasons.
+
+Secondly, the interview process is a two-way street, and if top candidates feel like the experience is impersonal, they may feel less connected to a company—and, in turn, be less likely to accept a role.
+
+How to Overcome It
+
+AI has an unrivaled ability to streamline processes. This should lead to an improved, high-quality recruitment experience for both the candidate and the employer.
+
+But there are many human nuances that AI hasn’t mastered.
+
+"For example, in an interview, if someone says, ‘I have cold feet,’ it might mean they have cold feet because it’s -10°C, or it might mean they aren’t sure they want to do something,” says Korn Ferry’s Dominique Virchaux. “AI might not be good at delivering an interpretation.”
+
+Mitigating dehumanization with AI comes down to understanding what the tech can currently do well and where it’s most appropriately used.
+
+AI productivity excels in reducing admin, interview scheduling, basic resume review, and matching skills, but it lacks the judgment, empathy, and intuition required in complex decision-making.
+
+“Define the steps of your recruitment process clearly. Automate anything that doesn’t impact the candidate experience or require judgment. Then, refocus the human effort on key moments that matter—for example, interviews or making offers..”~ Dominique Virchaux,, President Global Consumer Practice, President, South America
+
+Challenge: Regulation Around AI Is Evolving
+
+AI is moving faster than legislation. There’s no standardized regulatory environment for AI in talent acquisition, and laws that do exist vary between states and countries. When it comes to regulation, AI is still the Wild West.
+
+“Legislation is struggling to keep up, and there’s a lot of debate—for example, about what types of data can be used where. Laws that do exist are often up to interpretation, too,” says Korn Ferry’s Tanyth Lloyd.
+
+How to Overcome It
+
+“In the simplest of terms,” advises Lloyd, “the general directive is not to rely solely on AI for decision-making.” It is crucial to balance AI and any other recruitment automation technology with human input.
+
+Further regulation is inevitable, so companies need to be ready. Renick suggests appointing a dedicated individual within the business to monitor legislative developments as they arise, ensuring ongoing organizational compliance.
+
+Beyond legal requirements, companies should consider drafting and adopting their own policies on AI use, which could include:
+
+Conducting regular audits to ensure the AI is not biased
+Setting clear parameters for how and when it might be used
+Ensuring there is human oversight and decision-making guiding any AI-generated recommendations
+
+Challenge: The ROI of Using AI for TA Is Uncertain
+
+While AI promises to streamline recruiting and improve outcomes, integrating AI into the recruitment process is costly. It requires a significant upfront investment in technology and employee training, as well as ongoing training and compliance as regulations evolve.
+
+While traditional, more manual hiring approaches continue to work, TA leaders on tight budgets wonder whether AI recruiting methods deliver sufficient ROI.
+
+How to Overcome It
+
+What’s worked to attract leading talent in the past might not work in the future—particularly when your competitors have moved on to more efficient systems.
+
+Popular AI tools such as ChatGPT and Microsoft Copilot have made mainstream AI accessible for many. But most AI tools used for TA are much more costly, especially if they’re customized to your business.
+
+While the outlay might seem high, it’s really a question of value for money.
+
+To determine this, TA leaders should consider which parts of recruitment their teams find most challenging or time-consuming, and whether there is an AI tool that can help with them. Then ask:
+
+Will these tools drive efficiency, ultimately saving costs?
+Will they help my teams find better candidates more quickly?
+Can they help me understand the right rewards needed to secure top talent?
+
+"Don’t forget about the value of a great candidate experience,” says Lloyd. “AI can allow for smooth hiring that is immediate. If candidates have to fill in a long manual form and wait weeks for a response, that’s contrary to the experience they’ve now come to expect.”
+
+Not only might you lose top candidates during a clunky, old-fashioned recruitment process, but you’ll also take longer to fill the role, which costs money. A chair that sits empty for 30 days costs more than one that’s empty for seven.
+
+When used smartly for activities like volume screening and reducing admin work, AI can also free up recruiters’ time so they can be more productive.
+
+Before investing in AI, consider what you’re paying for, how and where you’ll use it, and how it fits into your wider business strategy. This will help you determine ROI for your organization.
+
+Talent Acquisition Trends 2025
+
+Progress over perfection
+
+Learn more
+
+AI Limitations: A Useful Tool, but Not a Silver Bullet
+
+Most TA leaders are keen to use AI, but initial excitement can quickly turn to frustration without a clear plan. Incorporating AI into your recruitment process requires a clear strategy if you want AI to become a long-term asset to your hiring strategy.
+
+Discover our AI tools for talent acquisition to improve your organization’s recruitment process.
+
+Our Expert
+
+Our Experts
+
+Dominique Virchaux
+President, Global Consumer Practice, & President, South America
+
+Matthew Renick
+Principal, Global Technology & Digital Officers COE, Co-Head, Global AI Practice
+
+Tanyth Lloyd
+Global Vice President, Technology & Transformation
+
+No items found.
+
+Related Capability
+
+Related Capabilities
+
+Talent Acquisition
+
+Recruitment Process Outsourcing
+
+Featured Insights
+
+Changing Collars
+The Return of… People Who Just Left
+No One Left to Hire
+Never Overlook These 7 Classic Job Interview Questions
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Featured Topics
+
+Talent Recruitment
+
+Employee Experience
+
+AI in the Workplace
+
+Talent Acquisition
+
+Recruitment Process Outsourcing
+
+Kornferry RPO

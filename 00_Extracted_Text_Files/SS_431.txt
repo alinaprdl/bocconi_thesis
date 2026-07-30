@@ -1,0 +1,163 @@
+Product Organization Structure: Which Product Management Leadership Model is Right for Your Business?
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Product Organization Structure: Which Product Management Leadership Model is Right for Your Business?
+
+By
+
+Muthiah Venkateswaran,
+
+Christian T. Daniels and
+
+Michael Dickstein
+
+March 2021
+
+| 10 min read
+
+Authors
+
+Muthiah Venkateswaran
+
+Silicon Valley
+
+Christian T. Daniels
+
+San Francisco
+
+Michael Dickstein
+
+Seattle
+
+Developments in areas such as cloud computing, data and analytics, and artificial intelligence (AI) are disrupting businesses and customer expectations within and outside of the technology sector. Businesses do not have a choice but to keep up with the fast pace of change. Enter “product management” — a discipline with roots in the technology sector that is becoming more prevalent across sectors.
+
+Product management sits at the intersection of business, customers, market and technology, and it has become a critical enabler of technology-driven innovation, disruption and business results. Effective product leadership drives growth by translating the business strategy into a winning strategy for digital assets and creating differentiation in the market. Product leaders are responsible for defining a roadmap for those offerings as technology and consumer dynamics evolve, as well as the detailed management of the often-digital customer experience and channels. Most product leaders own pricing and packaging and either own or have significant influence in impacting go-to-market (GTM) strategy and product marketing.
+
+A growing number of non-technology companies are establishing a product management organization/function. As technology is disrupting non-tech businesses, having a thoughtful product roadmap and a well-functioning product management function has become critical. There are enough examples of failed IT-led “digital transformations” that have helped companies up-level their technology assets but still left them behind in the market and unable to achieve the full potential benefits of technology-enabled transformation. This has increased the need for a product management-led approach to transformation. The question for many leaders is how to develop best-in-class product capabilities within their organization and structure the organization to deliver on the product roadmap.
+
+The product-led transformation series
+
+This article frames and introduces the key topics to be addressed in our ongoing series on product-led transformation written by the Product Practice at Spencer Stuart. As the role of technology, digital and product-led transformation in business is fast evolving, this series was written to guide CEOs, boards and product leaders looking to gain competitive advantage through product-led transformation. There is a lot to learn. We hope these articles can be a starting point for robust discussions and continued learning.
+
+Download
+
+Download
+
+Product organizational archetypes: evaluating which is right for your business
+
+How to organize the product management function is just one consideration, but an important one for leaders. Organization design needs to be tied to future business strategy, the current state of the organization, talent in the organization and the environment in which the business competes. It also likely will need to evolve as the needs and context of the business change.
+
+You may also like:
+
+Product Leadership: How to Select the Right Product Leader for Your Organization
+
+Advice for thinking about which product leader is right for your organization.
+
+A key question when organizing to support product development is how centralized or decentralized the product management and engineering functions should be. Each approach has benefits and drawbacks, and some companies have experimented with different models at different times, as they have scaled or been met with technology or market-driven disruptions. We have identified three distinct organizational archetypes based on their degree of centralization: the two traditional models — functional and general manager (GM) — and the more recently emerging platform model.
+
+In the functional model, the product and engineering functions are centralized and kept separate. These organizations have a chief product officer (CPO) and chief technology officer (CTO) as peers reporting to the CEO. This model works well when scale is important or when there is a relatively stable product. Driven by centralization, the engineering organization develops deep expertise in solving for the scale, stability and reliability of the product. In a functional model, the product leaders may own a broader set of product-focused responsibilities, including product strategy, product roadmap, pricing, packaging, user interface and design, product marketing and sometimes different aspects of go-to-market planning. Product leaders may serve as the “voice of the customer” for the rest of the organization.
+
+Because product and engineering are co-equal entities in this model, natural tensions can arise between the functions. When harnessed right, however, this tension can lead to better outcomes with each entity pushing the boundaries under the following conditions:
+
+Product and engineering leaders collaborate well and prevent the creation of silos.
+
+Product leaders are adept at getting things done through influencing rather than owning.
+
+Product leaders understand technology and development cycle times so that they know what to push, when to push and how much to push.
+
+The engineering leadership keeps teams focused on continuous improvement and enhancements.
+
+Engineering leaders understand the business needs so they can prioritize appropriately.
+
+Many consumer-focused companies have used the functional model for their product organizations. The product function ends up focusing on product-driven growth (including experimentation), user experience, design and differentiation, while the engineering teams create a scalable, highly reliable and responsive platform. In many of these companies, product leaders manage much smaller teams while the engineering teams are much larger, but the product leaders own some of the most critical growth metrics for the company.
+
+In one example, a travel services company created a new chief product officer role and a product management function from scratch. It was not a technology company and its leaders were thinking about product management for the first time. The goal was to evolve from a collection of technology/digital solutions to a product-led organization able to monetize products more effectively and meet evolving customer needs and expectations. Their vision was to provide the end customer with a true product-led experience, similar to what they would get from a technology company. The product management function was intended to be the “voice of the customer,” translating customer and market needs into a long-term product strategy and roadmap and working with the engineering teams to deliver on the same.
+
+In the general manager model, GMs own the product and engineering resources, which are dispersed across business units. Because the GMs are responsible for the business outcome in totality, they can be more agile in driving prioritization. This model tends to work best for organizations solving for nimbleness, for example, when developing new technologies targeted at an industry vertical or other niche. Many emerging businesses also embrace the GM model.
+
+In a classic GM model, there is a chance of duplicating engineering efforts across teams and the potential to miss opportunities for driving synergies across different products from an end-customer perspective. In some cases, the GMs own product marketing, pricing, packaging and some of the go-to-market aspects, while some large enterprises keep these as centralized functions to increase synergies. In many cases, the GMs end up having P&L (or shadow P&L) responsibility and are expected to think and act like mini-CEOs of their business.
+
+The GM model works most successfully under the following conditions:
+
+GMs in these organizations have the ability to manage both engineering and product teams effectively.
+
+Leaders prevent duplication of engineering effort across different businesses. Identifying a central team that can own common engineering areas like infrastructure and platform can help realize synergies across different verticals.
+
+Creating a central go-to-market function that cuts across different products sometimes can help drive synergy across products, delivering different products in a thoughtful way to a given customer/market segment. This allows the organization to benefit from cross-product synergies and additional “attach” revenue from other products.
+
+Many enterprise technology companies have successfully used the GM model. The GMs are able to focus on customer needs for a vertical or market segment and leverage product and engineering resources to deliver value to customers. They develop a strong view of customer needs and competition, enabling them to rapidly reprioritize resources as needed to meet the business needs. Similarly, a global consumer marketplace company using the GM product organization model has a CTO who owns the engineering for the core infrastructure while the chief product officer owns product and a smaller engineering team that drives front-end engineering. This allows them to quickly adapt the front end to the needs of different countries based on customer preferences, while gaining from the underlying infrastructure’s robustness.
+
+The platform model is quickly becoming the preferred structural model for many organizations leveraging cloud, data and APIs with the goal of becoming the platform of choice for other companies to build functionality on top of. In a platform model, the organization creates a technology platform (or different platforms) that other engineering and product teams can build on top of using APIs. This provides the scale benefits of the platform and a higher level of security, enabling the organization to maximize the benefits of all customer- and market-specific data. By creating platforms and developing a thoughtful ecosystem strategy, organizations enable their customers and partners to build solutions and leverage the same benefits of the platform approach. The platform model can be viewed as a hybrid of both the functional and GM models, whereby an organization gains the scale benefits of the common platform and the flexibility to tailor solutions for different businesses or customer segments. Leveraging the platform, organizations are creating smaller agile product/engineering teams that innovate on top of the platform to drive disruption at speed. The head of platforms generally reports to the CTO or, in some organizations, holds the title of CTO. It is a strategic role responsible for building a platform that meets the needs of internal and external customers at scale and with high reliability. The platform model works most successfully under the following conditions:
+
+Strong strategic ability is needed to conceptualize and build well-thought-out platforms and APIs for internal and external use.
+
+Platform models work effectively when all critical needs across verticals (e.g., customer data, customer identity, etc.) are well thought out and centralized into the platform. It requires effective collaboration across the platform teams and the individual businesses to make this model work successfully.
+
+Extending the platform model beyond the company is highly dependent on the ability to create a meaningful developer ecosystem and a partnership model to enable customer to leverage the platform and the APIs. Externally focused platforms need to have a business model that is anchored in principles of collaboration for it to be successful and mutually beneficial.
+
+There are successful cloud-focused enterprise technology organizations that have created platform as a service (PaaS) for customers to build on top of. Internally, they also establish a common technology and data platform supported by a centralized platform engineering team. One of the top cloud service providers has multiple GMs who own product and engineering teams that build solutions on top of the platform targeted different verticals (IoT, mobile, security, etc.). Adept in both product management and engineering, these GMs bring a discipline to execution, so the organization can innovate faster than the competition across multiple verticals. Even consumer companies like Nike publicly spoken about their platform, which developers can access using APIs and SDKs. This provides developers quick access to millions of global users who are looking for digital solutions for healthy living, while Nike is able to promote a broader set of digital solutions that create more value for its end customers.
+
+Facing disruption: when to consider a change to product structure
+
+While some organizations are setting up product management organizations for the first time, others are making changes to their organization structure in response to market disruptions or changes in their business model. For example, a large enterprise technology company is shifting from a GM model to a functional model for one of its businesses to reduce duplication of engineering efforts and to free GMs from focusing on internal dynamics and instead focus on winning in the market. Another enterprise technology company is doing the reverse, moving to a GM structure to drive more accountability for growth in specific business segments (building on top of a common platform).
+
+Multiple internal and external disruptions drive leaders to consider changing their product organizational structures. Some potential internal drivers of change include:
+
+The decision to modernize architecture and implement best-in-class agile continuous deployment practices
+
+The need to break down silos arising from the functional structure over time and address a mismatch in engineering priority versus product needs and customer priority
+
+The need to drive integration and coordination across businesses and reduce the duplication of efforts arising from the GM model — increasing revenue opportunities by improving the ability of customers to fully leverage the product suite
+
+In addition to these internal drivers, many organizations take a fresh look at their product structure in response to external disruptions and opportunities, including:
+
+Cloud: The need to build cloud-native and SaaS products leads some organizations to hire new talent and re-imagine their product structure and go-to-market approach. To build cloud-native products and transition on-premise products to cloud, organizations must step back and consider how to organize and succeed in a cloud-first world. In a SaaS world, the switching cost for customers is very low and expectations for product capabilities is high. With modern practices in product development and expectation of rapid releases and upgrades driven by cloud, organizations need to have the right organizational structure that will ensure the ability to meet these demands.
+
+Data: Enhanced AI capabilities combined with data are producing insights about customer behavior that suggest opportunities for enhanced product features and product value-add. Creating a thoughtful data strategy and data platform that cuts across products and customer use cases has become critical.
+
+Platform and ecosystem: “Platform” is emerging as the ultimate destination for many organizations. Many companies are trying to become the platform of choice in the space they operate in and want others to build solutions on top of their technology platform. This requires organizations to be able to both leverage other platforms/APIs and create their own ecosystem, on top of which partners and developers can build solutions.
+
+New innovations: There are many new innovations in the works (augmented reality/virtual reality, blockchain, etc.) and each of them will bring new challenges that will need to be addressed and exciting opportunities that can be harnessed. Organizations that can leverage these innovations to create better and more value-added products will stay ahead of the curve; those that don’t will end up opening the door for competition. Irrespective of the organization structure, thinking about the best ways to drive innovation and integrate newer areas into the mainstream organization and product strategy will be critical for success.
+
+Lasting change is created when structure is linked to key elements of the organizational system.
+
+Holistic view of organization structure
+
+Organization structure does not exist in isolation. The right organizational structure has to be tied to business strategy and exist in the context of the talent, processes, metrics and culture in the organization. It is important to ensure that the “organization system” works effectively, and structure is just one part of the organization system.
+
+Here are some of the other key areas within the organizational model that are linked to organizational structure and related considerations:
+
+Strategy: Organizational structure has to be consistent with future business strategy. Leaders should ensure that the structure will help the organization achieve its strategic goals and create competitive differentiation.
+
+People and leadership: Before making a change, leaders need to evaluate organizational capability and identify the capabilities for which they need “change agents” from outside the organization versus upskilling the existing organization. For example, while moving to a functional model or a GM model may make sense, it will be important to think about whether the company has the right person to lead the new organization or has to hire someone from outside who can help drive this change.
+
+Culture: The “culture shift” that is needed in this changing landscape is important to manage thoughtfully. Which aspects of the culture support the direction the organization needs to move? Which need to change? For example, while increasing innovation may be the right objective, it is important to evaluate whether the culture supports innovation. Is there room for experimentation? What happens when things don’t work? Are mistakes viewed as learning opportunities, or does the organization look for who to blame?
+
+Processes: Formal processes, protocols, information systems, incentives, performance measurements, platforms for knowledge exchange and ways of working may also need to change to support the new structure.
+
+It is important to have a good baseline and clarity on the organization’s strengths and weaknesses across these dimensions when embarking on the journey of driving change. While change is complex, consider taking a cue from some of the best product development techniques of launching a “minimum viable product (MVP)” and driving continuous improvement when it comes to organizational change. This includes committing to change; establishing metrics/feedback mechanisms to help track the change; creating transparency around change to provide feedback and build momentum; using the metrics and feedback mechanisms to identify pain points to resolve and make improvements; and redesigning and relaunching. Executives who have led their product organizations through change tell us that they wished they had “pulled the trigger” earlier on making changes to the organizational structure. Most leaders underestimated the scope and impact of the change that was coming their way.
+
+Conclusion
+
+The answer to which product management organizational structure is right for your business is very dependent on your company’s situation, current talent and future business strategy. In the constantly evolving world of technology, organization structures that work for today may not be the right answer for the future. Revisiting organizational structure periodically to evaluate its effectiveness is key. The functional, GM and platform models work effectively when applied in the right context, including the needs of different parts of their business.
+
+Jason Baumgarten (Seattle), Chris De Rose (Chicago) and David Metcalf (Atlanta) contributed to this article.
+
+Authors
+
+Muthiah Venkateswaran
+
+Silicon Valley
+
+Christian T. Daniels
+
+San Francisco
+
+Michael Dickstein
+
+Seattle

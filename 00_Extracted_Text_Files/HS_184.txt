@@ -1,0 +1,220 @@
+Why you need a dynamic digital talent strategy | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Why you need a dynamic digital talent strategy
+Explore this page Identifying the right mix of digital expertise and the gaps from here to thereHiring for the long termEngaging on-demand talentDevelop talent and build a digital cultureAbout the authorsRelated Content
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Digital Leadership Why you need a dynamic digital talent strategy
+
+A three-pronged strategy will help leaders ensure they have the digital experience they need, today and tomorrow.
+
+Sam Burman ,
+Adam Howe
+
+What digital expertise do we need?
+
+How do digital opportunities and threats drive our overall strategy?
+Compared with our peers, how digitally enabled are we today?
+Which emerging technologies are most likely to disrupt our business model? Do we have the knowledge to adapt to those disruptions?
+What specific digital roles, skills, and capabilities do we need to implement our strategy and make the most of current and emerging technologies?
+What balance do we need to strike between technological expertise and transformation expertise?
+To what extent do we have those roles, skills, and capabilities today?
+
+Which options for which roles?
+
+In which roles are digital capabilities critical to implementing all or part of our strategy?
+Which leadership roles do we need to ensure are filled for the long term by people with strong digital capabilities?
+Where are technologies or competitive conditions changing so rapidly that we need immediate expertise?
+Do we need to pilot a few options for role structures or needed capabilities to find the best way to organize for digital talent?
+Do we have a specific, targeted, and short-term transformation goal?
+Where do we need to build long-term digital capabilities?
+How can we help all our leaders stay up to speed on the technologies likeliest to affect our business model?
+How can we ensure that digital mindsets and behaviors are embedded in our organizational culture?
+
+There’s no doubt that digital capabilities are now crucial to all leadership teams. But even after the accelerated digital adoption of the past 18 months, too many teams still don’t have the capabilities they need. Research from 2020, just before COVID-19 became a pandemic, found that only 40% of leaders thought their companies were building robust digital talent pipelines.1 We know that share is higher now, given how companies have adjusted throughout the pandemic. But we also see the digital goalposts moving faster than most companies can act. New and accelerating strategic challenges mean that leaders must redouble their efforts to ensure their teams have the right digital capabilities.
+
+Building those capabilities is akin to building organizational muscle: it doesn’t happen overnight and it isn’t a one-off task. Progress requires a continuous effort to invest in digital skills and capabilities, mindsets, role redefinition, and culture. Companies can begin this journey by gauging what digital capabilities their leaders will need to meet their strategy. The next step is to systematically assess the digital dexterity of their current leaders—that is, the mix of adaptive, strategic, innovative, and executional skills that support both the technological and human sides of transformation. Companies more often make such assessments piecemeal, focused on a specific project or strategic need; that gives them a start, but a holistic approach will be the foundation of a long-term digital talent strategy.
+
+An integrated strategy consists of three components: hiring expertise that is needed immediately, engaging on-demand leaders, and developing digital expertise and culture for the long term. By pursuing these activities simultaneously and continuously, companies can ensure their leaders have the digital expertise to steer the organization confidently.
+
+Identifying the right mix of digital expertise and the gaps from here to there
+
+Determining what roles organizations will need in order to develop and implement their strategy as well as which skills and capabilities all leaders and employees will need should start with the understanding that executives need to have a baseline knowledge of digital along with spikes depending on their role. For example, a CMO needs to understand how to use data and analytics to monitor consumer demand, build forecasts, and establish data-driven decision-making processes to direct marketing spending to the best channels. (For more, see “Building better connections between brands and technology: The right mix of skills for CMOs today.”) The skills needed on the leadership team as a whole, however, will vary depending on how digitally advanced the company is. Companies that are less digitally mature will likely benefit from including a dedicated chief digital officer to jumpstart progress; as digital becomes fully embedded, companies often find that a more distributed model is more effective. (For more, see “Why successful digital officers don’t always have ‘digital’ in their title” and “How pharma leaders can build necessary digital capabilities.”)
+
+Companies should then take a systematic and holistic look at their current mix of digital roles and teams including both full-time employees and on-demand executives, as well as whether their current executive team has the necessary skills. They can use a diagnostic to evaluate current leaders on their digital skills. (See “Digital Dexterity Questionnaire” for an example of a diagnostic.) Follow-on interviews can provide qualitative insights to give a more detailed picture of the factors underlying shortcomings across the organization.
+
+With all this information, leaders can set priorities among hiring permanent roles, filling shorter-term gaps with on-demand leaders and investing in long-term knowledge and culture development—with the understanding that they will get the best results when they pursue all three tactics continuously over time.
+
+Hiring for the long term
+
+Hiring candidates with the right digital experience can have a virtuous ripple effect on the organization by immediately injecting new digital capabilities into an organization’s leadership, thus signaling new ways of working. This is most important for roles where digital capabilities are critical to the long-term success of the strategy and it is clear exactly which capabilities are needed.
+
+Particularly for enterprise companies that are falling behind their peers, adding a chief digital officer (CDO) can be a very powerful—and sometimes necessary—step. However, it must be undertaken thoughtfully rather than in the spirit of finding one person to “fix” digital, as it is not a silver-bullet hire. While the CDO role can vary by organization, adding this position may require a restructuring of responsibilities across IT/tech, marketing and/or commercial, or product. (For more, see “Can CIOs really do it all?” and “Why successful digital officers don’t always have ‘digital’ in their title.”) The redistribution of responsibilities will depend entirely on the nature of the CDO’s remit, what the organization already has available in terms of skill sets and leaders, and what the end goal of the hiring is. Through the evolution of the CDO role, we are also seeing hybrid versions surface, such as a chief digital and information officer (CDIO). The birth of the CDIO is reflective of the fact that many CDO roles now include IT, given the important role technology plays in any digital transformation. Either way, today’s CDO role looks very different from the way it did when it first appeared around 2013, and the role can come in many shapes and sizes. But however it is structured, providing clear definition, particularly in relation to peer roles, is critical, because ambiguity among leaders can lead to a lack of accountability. And, most critically, the CDO must have full sponsorship from the CEO and the authority to make change.
+
+Of course, the simple act of hiring digital-first executives won’t automatically make an organization more digital. Ken Gabriel, former president and CEO of The Charles Stark Draper Laboratory, noted that hiring a CDO will “no more magically fix everything than if I moved to an open floor plan.” (For more, see “How pharma leaders can build necessary digital capabilities.”) Instead, adding such roles can ensure that digital influences strategy and decision making and can help ensure all leaders become more digitally focused.
+
+Furthermore, at this point, many companies are rethinking their digital leadership in the wake of the changes over the last 18 months and in anticipation of a hybrid future for their workforce and increasingly digital customer interactions. All of these considerations must come into play as companies consider exactly which mix of digital capabilities they need to find externally and how to shape the roles for those people. Onboarding leaders in a hybrid or remote environment is yet another challenge for many right now. (For insights on how to do this well, see “A culture of servant leadership: Interview with Darin Harris, CEO of Jack in the Box.”)
+
+Engaging on-demand talent
+
+The on-demand labor market is continuing to evolve to meet companies’ demand for digital experts and other roles needed to respond to ongoing volatility. And on-demand talent is here to stay: more than 80% of skilled independent professionals report high levels of satisfaction, optimism about the future, and a desire to continue working independently.2 For digital experts in particular, we have seen that many more are choosing to work this way, meaning that companies will only have access to the full range of strong talent if they include on-demand talent as a core component of their strategy.
+
+Therefore, drawing on temporary, on-demand leaders is an increasingly important part of digital talent strategies for many companies. This approach is particularly effective in three situations. First, when technologies are emerging and companies need expertise immediately, such as an unexpected executive departure or a new technological advance. Second, when the company has a specific, targeted transformation goal or when speed is crucial. And third, when companies are adding new roles, such as a chief data officer, or see potential benefit in reallocating responsibilities among existing roles and want to pilot changes to determine what will work best for the long term. Indeed, as companies continually experiment with which digital skills and responsibilities to centralize and which to decentralize, on-demand talent is a safe and powerful way to trial organizational structures and roles. Such situations often come up for highly specialized skills for which demand far outstrips supply, such as, currently, data science, AI, and cybersecurity, or ecommerce expertise last year, when companies rapidly shifted their businesses online.
+
+For example, a Fortune 100 supermarket chain experienced a sudden, spectacular spike in its online business in the early stages of the pandemic. The CHRO realized that the company needed ecommerce expertise immediately and was able to access two experienced, on-demand executives who started within a week. One had previously built an online grocery business for a Fortune 50 drugstore chain, and the other had led an ecommerce team for a Fortune 50 retailer. Under their leadership, the company was able to quickly expand online sales and fulfillment capabilities across its supermarkets, and not only maintain but build market share.
+
+And on-demand talent is not only effective at the executive level; people in these roles can also make a marked impact across many levels and functional roles, including data scientists, technologists, and project managers. In addition, because digital is continuously changing, no company can know enough about every technology that might affect it—but there will always be an expert in the on-demand talent pool who can assist. At the same time, demand for digital expertise fluctuates, and so having surge capacity for digital skills is valuable.
+
+Develop talent and build a digital culture
+
+Whether a leader is a permanent hire or an on-demand one, the most effective executives are what we call digital triathletes: simultaneously digital strategists, digital innovators, and digital drivers. In other words, they understand the impending disruptive shifts, how to create the conditions for innovation within the organization, and how to execute the most promising ideas. However, no matter how good a leader is, in the long run even the best are only effective in the context of a culture that supports innovation, experimentation, and agility. Companies need to find ways to keep leaders and teams up to speed on technologies likely to affect the business, fill gaps in current knowledge, and ensure that digital mindsets and behaviors are embedded in the culture.
+
+A major department store chain, for example, wanted to move toward a more personalized, data-driven, and omnichannel experience for its customers. The goal was to make all interactions feel one-to-one and seamless across channels. The company needed help raising awareness and developing a more digital mindset and skillset within the senior executive team, including a deeper understanding of emerging retail technology. The CEO and CHRO led an initiative focused on disruptions in retail, exploring technologies such as AI, augmented reality, virtual reality, NFTs, blockchain, and digital-first business models. The initiative also provided coaching to leaders on how they could personally help their teams stay on top of such new technologies through collectively sharpening their knowledge foundation, scanning the market for new use cases, and running frequent experiments to stay agile. Several ideas, including a new type of virtual storefront, are now being implemented. To give those ideas the best chance of success, executives were also charged with cascading what they had learned to their teams, helping to build digital mindsets and a spirit of innovation into the organization’s culture.
+
+The story of a technology company underscores the importance of a supportive culture: the company’s senior team, led by the CIO, had restructured the organization, including new job profiles and processes. But 12 months in, the company, far from accelerating, was falling further and further behind key milestones. The CIO’s increasing frustration with the lack of progress led to a reevaluation by senior management that eventually identified legacy mindsets as the root cause of underperformance. For example, the organization was still focused on efficiency instead of innovation and growth, and business units had become closed off rather than collaborative. The restructuring had also caused a great deal of fear, and the team lacked the necessary accountability to translate its plan into reality. The CIO and senior team worked to “unfreeze” old habits and define the ideal culture. Within a few weeks, the top 150 leaders were more engaged. Several weeks later, senior management kicked off a communications campaign and regular “culture conversations” in which they noted familiar aspects of the company that needed to change and used stories to help the organization begin to move forward. These efforts helped to cascade the “unfreezing” experiences throughout the global IT organization and get the transformation back on track. (For more, see “Building a digital culture.”)
+
+There is no question that digital will only become more important to strategy, and that both technologies and strategies are changing faster than ever. Leaders with the right skills and capabilities are still rare and not always interested in traditional corporate career paths. Companies therefore need a dynamic digital talent strategy to keep pace. They must define their particular digital needs in the context of their strategy and then simultaneously make use of three tactics—permanent hiring, engaging on-demand talent, and developing skills and culture—to ensure they will always have the digital leaders they need.
+
+About the authors
+
+Yulia Barnakova (ybarnakova@heidrick.com) is a principal in Heidrick & Struggles’ Philadelphia office and the leader of Digital Innovation for Heidrick Consulting.
+
+Sam Burman (sburman@heidrick.com) is the global managing partner of Crypto & Digital Assets, Cybersecurity, Data & Artificial Intelligence, and Robotics & Internet of Things Specialty practices; he is based in the London office.
+
+Adam Howe (ahowe@heidrick.com) is a principal in the London office and the leader of Organization Simplicity for Heidrick Consulting.
+
+Sandra Pinnavaia (sandra.pinnavaia@businesstalentgroup.com) is the executive vice president and chief knowledge & innovation officer for Business Talent Group (BTG); she is based in the New York office.
+
+References
+
+1  Douglas A. Ready, Carol Cohen, David Kiron, and Benjamin Pring, “The new leadership playbook for the digital age: Reimaging what it takes to lead,” MIT Sloan Management Review.
+
+2  The State of Independence in America: 2020, MBO Partners, December 2020.
+
+Related Services & Industries
+
+Digital Leadership
+
+Health Tech
+
+Interim Executives
+
+On-Demand Project Leaders, Consultants, and Experts
+
+On-Demand Talent
+
+Performance Culture
+
+Related Content
+
+Leadership Development
+
+AI focus: Leveraging your culture to accelerate GenAI enablement
+
+Realizing the value of your AI investments relies more on your culture than on the technology itself. Our work and interviews with five executives highlight how companies are engaging their leaders to speed GenAI progress.
+
+FinTech
+
+Stablecoins and the future of finance: A conversation with Marieke Flament, co-author of Euro Stable Watch, board member and advisor
+
+Marieke Flament explores how stablecoins are reshaping global finance and what today’s leaders need to thrive in a decentralized financial system.
+
+Marketing, Strategy & Communications
+
+AI leadership in communications: A conversation with Corey duBrowa, Global CEO of Burson
+
+Corey duBrowa shares practical guidance for corporate communications leaders on harnessing AI, staying ahead of emerging trends, and advising CEOs and boards on the right questions to ask.
+
+Digital Leadership
+
+AI and leadership: How finance, HR, and technology leaders are collaborating to make the most of AI across the enterprise
+
+When leaders of these key functions work together effectively, their companies are more able to benefit from implementing AI. Focusing on three areas will help keep progress going.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

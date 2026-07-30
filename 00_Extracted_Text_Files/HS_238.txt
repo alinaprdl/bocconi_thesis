@@ -1,0 +1,266 @@
+How pharma leaders can build necessary digital capabilities | Insights | Heidrick & Struggles
+
+Identified Country:
+
+How pharma leaders can build necessary digital capabilities
+Explore this page Four opportunitiesAbout the authorsRelated Content
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Digital Leadership How pharma leaders can build necessary digital capabilities
+
+Even before the COVID-19 crisis, most pharma companies were struggling to make the most of digital. With operations radically changed by the crisis, getting the right digital leadership in place is more important than ever.
+
+Sam Burman ,
+Charles Moore
+
+How accelerated is your company?
+
+From extensive research into companies across industries, Heidrick & Struggles has defined five levels of digital acceleration—that is, the ability to harness digital technologies to innovate a company’s operating model and customer experience while developing new digital offerings and ways of working.
+
+Organizations that are digitally embarking may have people with digital skills, but they are likely scattered across levels and functions, with the bulk of resources tucked away in IT. Digital initiatives are fragmented and scattered due to a lack of clear digital strategy. Organizations that are digitally evolving may struggle with a lack of internal capabilities to make difficult digital choices, despite understanding just how complex, far-reaching, integrated, and critical such decisions are. Meanwhile, digitally steady organizations have probably made a series of important decisions and investments in digital technologies—however, they were likely about infrastructure or technology, not human capital or data management. These companies, therefore, find themselves at a standstill. By making these additional investments and recognizing the importance of digitized customer journeys and operations, organizations may move into the digitally advancing stage. And from there, they can become digitally accelerating companies by ensuring digital touches and improves every part of the business. All leaders in these companies have digital acumen and continuously take stock of market conditions, adapting the business as needed.
+
+By recognizing where in this progression toward acceleration their company is, leaders can identify what they need to do to reach the next level—what skills they need to build on or obtain and what cultural adjustments they need to make—and they can align the organization around these priorities. And, critically, they can ensure they have the digital leadership needed to support these goals.
+
+Despite the pharmaceutical industry’s overall technological and scientific horsepower in R&D and growing use of direct-to-consumer channels, pharma companies tend to lag behind other industries in making the most of digital. To start, innovation investments in pharma are often focused on scientific research rather than operational improvements or new business models. In addition, the industry is marked by a high level of regulation, which can create risk aversion and resistance to significant change. Finally, many pharma companies lack clarity and urgency on digital strategy and struggle to find, attract, and retain the digital leadership they need, especially if it comes from outside their industry.
+
+Yet, as some industry leaders have proven, an increased reliance on digital technologies and data can help pharma companies in many ways, including supporting patient engagement and personalization, improving R&D and overall efficiency, and enhancing the commercial model through direct-to-patient initiatives, suggestive selling, point-of-care diagnostics, and more.
+
+To give themselves the best chance of success, pharma CEOs and boards seeking to build their digital-leadership capability should start by understanding their current level of digital acceleration and where, specifically, they need to improve to meet their strategic goals. They must also assess the digital expertise among their current leadership team to understand any gaps and determine the right expertise and model to meet their needs.
+
+For some—but not all—pharma companies, this will include adding a chief digital officer (CDO) to their leadership team. According to Ken Gabriel, former president and CEO of The Charles Stark Draper Laboratory, an engineering solutions company that works with pharma companies, hiring a CDO will “no more magically fix everything than if I moved to an open floor plan.” He continued, “It’s all a part of making sure there’s the right balance between the things that you have to do well and how digital transformation helps you do them better.” (For more on how companies in other industries are meeting their digital leadership needs, see “Why successful digital officers don’t always have ‘digital’ in their title.”)
+
+Whether or not pharma CEOs and boards decide to hire a CDO, a few lessons from early adopters will help them accelerate their digital performance. We interviewed a handful of industry executives across Europe and the United States who underscored four primary areas of opportunity in which a CDO can make a significant difference.
+
+Four opportunities
+
+There are a few areas in which pharma companies can improve performance most significantly by accelerating their digital efforts and in which having a CDO’s focus and expertise can help them succeed.
+
+Accelerating traditional R&D
+
+The pharma industry revolves around the development of new drugs and treatments. Companies have the opportunity not only to reengineer their R&D processes to become more efficient but also to embed digital technologies into the products they build. Examples of this include Eli Lilly and Company partnering with Atomwise on AI-powered drug discovery and Orion partnering with Propeller Health to deliver digital COPD and asthma therapies via its smart inhaler. Such efforts will likely only be effective if relevant digital capabilities are embedded into the entire R&D process versus including them as an afterthought. A CDO may bring fresh, outside-in thinking and experience that are critical for this fundamental change.
+
+An important area in which digital can accelerate processes is finding patients to participate in clinical trials, which requires a significant amount of time. Typically, when a company files a drug patent, it lasts for 20 years—and the R&D to go from a compound to a drug ready for the market takes 8 to 10 years. Shrinking that time to market to 5 to 7 years would add as much as double the amount of time for a company to have an exclusive market for a new drug. Novartis is one company making strides here. It has appointed Bruno Villetelle as global head of data and digital—essentially the division CDO for R&D. And Novartis is now finding patients for clinical trials online using a UK patient data set. “We are now increasingly using advanced data science to model disease progression,” Villetelle explains. “For example, we are testing the use of a validated AI-based algorithm to predict how long a transplanted kidney will keep working, [which] could accelerate substantially the clinical trials of new transplant medicine.”
+
+Quote
+
+“We are now increasingly using advanced data science to model disease progression. For example, we are testing the use of a validated AI-based algorithm to predict how long a transplanted kidney will keep working, [which] could accelerate substantially the clinical trials of new transplant medicine.”
+
+Bruno Villetelle
+Global Head of Data and Digital, Novartis
+
+Other digital leaders are finding success by borrowing models from tech companies. Stéphane Bancel, CEO of Moderna Therapeutics, brought Marcello Damiani on as CDO. Damiani’s background spans from tech to life sciences. Together, they keep close tabs on how the tech world develops products and benchmark against these models. One approach the company has adopted is designing drugs on the computer. “Coming from pharma, this seems like science fiction,” says Bancel. Every Moderna employee receives an iPad and laptop when they join the company. If scientists have an idea while jogging or taking a shower any day of the week, they are able to design a drug using just their fingers while sitting on their couch. Scientists can design 20 drugs in parallel for the same disease, testing different hypotheses.
+
+Still others have pursued strategic partnerships—some with unorthodox partners—to accelerate their R&D processes. In 2011, for instance, GlaxoSmithKline plc (GSK) joined with the Formula One engineers at McLaren Group to better analyze and interpret its data, with the ultimate goal of allowing scientists at GSK to gain a more comprehensive understanding of new compounds. In one specific project, GSK leaned on McLaren’s sensor and telemetry expertise to monitor the mobility of patients who have suffered a stroke or have severe arthritis. Such monitoring could transform the drug trial process, leading to more accurate results and bringing a drug to market faster.1
+
+Implementing personalization
+
+The modern pharma industry is built around the idea of doing the most good for the most people through what is called the “standard of care.” If someone has diabetes, there is a standard for how that person will be treated, and it involves insulin, pumps, and injections developed through traditional R&D. Drugs such as aspirin were popularized because they generally make most people feel better even though a small percentage may have an allergic reaction to them.
+
+However, the industry is moving away from generalized standards of care toward precision, or personalized, medicine. “This push toward precision medicine is being driven by, and will continue to be driven by, the fact that it is now relatively trivial for us to read our own DNA,” says Gabriel. As a result, for example, cancer treatments can now be individualized to reprogram a patient’s immune system. In 2018, Roche Pharmaceuticals acquired Flatiron Health, an electronic health-record software provider specializing in oncology. Because Flatiron partners with hundreds of cancer clinics as well as academic research centers and therapeutic companies, Roche is better armed with insight into the experience of cancer patients. Thus, Roche is able to find the right patients quickly and improve clinical-trial yield by using the data advantage provided by Flatiron.
+
+In the COVID-19 crisis, companies and medical associations are moving swiftly to create databases not just to track the pandemic as a whole but also to understand its effects on smaller groups of patients, such as kidney transplant recipients.2 The technology company Oracle Technology has built a “therapeutic learning system” that allows doctors to enter information about individual patient treatments that permits both tracking of individual daily progress and an immediate understanding of broader trends.3
+
+Making data an asset
+
+The proliferation of data, far beyond what is driving personalization and targeting patients for clinical trials, allows companies to diagnose and intervene with patients at an earlier stage—when companies have the expertise to do so. “As a company, we are committed to ‘going big on data and digital,’ which means embedding digital technology and data science across the enterprise,” says Bruno Villetelle, global head of data and digital at Novartis. “To achieve that, we designed our data and digital strategy in a way that touches every part of the value chain."
+
+The proliferation of data, far beyond what is driving personalization and targeting patients for clinical trials, allows companies to diagnose and intervene with patients at an earlier stage—when companies have the expertise to do so.
+
+CDOs are helping companies use data more effectively, sometimes by identifying the companies to acquire, which includes companies that could provide needed data. When Yan Beynon, former president of digital services at Siemens Healthineers, served as CDO of Roche Diabetes Care, he led the company in its acquisition of mySugr, a diabetes tracking app. This acquisition provided Roche access to patient data from mySugr’s approximately one million users. “While we already had access to plenty of anonymized, clinical trial data, mySugr had real-life patient data,” said Beynon. That is, data on how actual patients behave and what their needs are. “It would have taken decades for Roche to gather this amount of patient data on its own because it’s too complex, too regulated.” CDOs may play a range of roles in such acquisitions—from establishing the targets and making the business case to owning the process.
+
+There are also opportunities within a company to exchange data across different therapeutic areas. Joris Silon at AstraZeneca is well positioned to see how diseases are interrelated as the senior vice president of cardiovascular, renal, and metabolism. “We’re always working to figure out how many patients that have chronic kidney disease also have heart failure, and how many together with that have diabetes,” he says. “If we can look internally and externally at how many of these assets actually converge within that patient population, we can better determine what a patient will need in five years’ time, and data can really help us solve that. But in order to do that we need to have strong systems internally to help talk to each other and to integrate.”
+
+Facilitating faster, more informed decisions
+
+Companies with strong digital leadership and capabilities will be able to operate more efficiently for a number of reasons. Critical among these is the ability to scale quickly because they use integrated systems. “With access to the cloud and other capabilities, you can scale the enterprise very easily,” says Bancel. “Much faster than many big companies that have legacy systems that do not talk to each other and are on local servers.”
+
+In addition, 9 of the top 20 pharma companies are engaged in the MediLedger Project to develop a blockchain-based solution for meeting digital track-and-trace requirements to support future global drug safety demands. This will require not only new software development skills but also a new approach to collaboration regarding the drug supply chain. In the COVID-19 crisis, pharma companies are among the many healthcare organizations seeking every opportunity to speed up their operations from beginning to end, and many are changing processes now in ways that will make them more efficient in the long term.
+
+Finding digital leaders to seize opportunities
+
+What works for one pharma company may not work for another. It is critical for CEOs and other senior leaders to first consider what their organization’s current level of digital acceleration is (see sidebar “How accelerated is your company?”), and what it will take to meet their goals. Once they have determined their needs, three tactics, in our experience, will help kick-start progress.
+
+Form digital partnerships
+
+Many in the pharma industry are still discovering what is possible through data, how to make the most of the data they have, or what additional data could be useful. The COVID-19 pandemic has certainly accelerated that learning curve, easing one challenge that Gabriel pointed out before the crisis: “They don’t know what to ask for because they’re not close to the technology. It’s not that they’re not intelligent; it’s just that they’re not in that world.”
+
+Quote
+
+"[Many in the pharma industry] don’t know what to ask for because they’re not close to the technology. It’s not that they’re not intelligent; it’s just that they’re not in that world.”
+
+Ken Gabriel
+Former President and CEO, The Charles Stark Draper Laboratory
+
+Building the internal resources necessary for a digital transformation, especially given many pharma companies are still digitally behind, requires sign-off from relevant leaders, finding the budget for new hires, going through the hiring process, and onboarding a new team. The COVID-19 crisis is increasing both the importance of having the right leaders and the difficulty of finding them. “This would take easily a year and a half,” says Gabriel. “And a year and a half is an infinity in almost all industries right now.” Partnerships with digital players outside the industry can help pharma leaders identify where they can have the biggest impact and what they need to make that happen. And they can help get there sooner.
+
+The pharma industry has a history of successful scientific partnerships with the biotech industry, and it can learn from them when pursuing strategic digital partnerships. CDOs who have experience piloting and scaling innovation partnerships to fill digital gaps are accelerating time to impact and can help guide these partnership decisions to much better outcomes. AstraZeneca, for example, recently formed a partnership with eko.ai, a company that uses artificial intelligence to detect cardiovascular disease early. Together the companies aim to explore the diagnostic and predictive capabilities of eko.ai’s technology, develop new solutions, and explore larger collaborations to reach more patients.4
+
+Shift the organization’s mindset
+
+To glean more from existing data or discover data and capabilities that could have a significant impact on the company, pharma company leaders can benefit from shifting their mindsets—moving from solely seeking efficiencies in existing practices to asking open-ended questions. “What if I had this data? What if I knew the pH of the cells that are affected?,” asks Gabriel. How would this unlock new markets or new areas of care? Could I use a companion digital solution to drive better outcomes or collect new forms of data that would enhance my R&D capability? (For more on how leaders can effectively shift mindsets to improve strategy implementation, see “Successfully shifting mind-sets to accelerate performance.”)
+
+“It’s a bit like a highly dimensional game of Clue,” Gabriel continues. “No additional information about the room you’re in or the person who committed the crime will tell you anything about the weapon. But if you could get information about the weapon, that would unlock the whole thing.” It is about identifying the type of information you need that you didn’t know you needed—and then figuring out how to obtain it.
+
+Another important way that many pharma companies can make a fundamental mindset shift is in their cultures. For good historical reasons, pharma companies tend to be slow-moving and failure averse. Success in the digital realm often requires the opposite traits, and successful digital leaders in the industry have to find the right balance and the right way to shape a digital culture.
+
+One way to achieve a digital culture is to ensure that digital leaders have executive support. According to Beynon, if a CDO doesn’t report to the CEO, digital efforts are “mission impossible.” Furthermore, Beynon points out, “you need to have quick wins to show that the transformation is working.” And finally, he suggests that global pharma companies need to implement country-specific digital solutions to aid successful cultural integration. “This way you can sell machines or other services and not just devices clumped together as a digital service,” he says. “Then you have the people who are selling, making the money in the country, discussing what makes sense—not removed, global leaders. This allows more focus.”
+
+Choose your digital leader
+
+Each company has distinct needs for a digital leader, based both on the company’s level of digital acceleration and the opportunities they will most benefit from pursuing.
+
+CEOs and boards must be precise in determining which skills they need, whether they exist in the company currently, and whether adding a CDO will add necessary expertise or focus. For example, when Moderna’s Bancel was CEO of biotech company bioMérieux and looking to hire a CDO, he only wanted to see candidates from tech who knew about system design integration. “I would rather teach this person the Code of Federal Regulations—a tech requirement in the pharma and biotech industry from an FDA standpoint—than how to be a great IT leader.”
+
+Hiring a single digital leader isn’t the only, or necessarily best, approach. AstraZeneca, for example, has three digital leaders, each overseeing commercial, R&D, and IT. These three people together form the enterprise council. The council jointly shapes the company’s digital agenda and strategy and reports to the executive team and the board. “This federated model helps achieve the transformation at the business level, by having them sitting in the various leadership teams rather than being at a functional level,” says Silon.
+
+Novartis has taken a similar approach; Villetelle is just one of a handful of divisional CDOs, hailing from the R&D, commercial, and manufacturing functions. Each of these roles reports both to the head of their division and to the corporate CDO. It’s also important to remember that successful digital leaders don’t even have to have “digital” in their titles, particularly given the mix of digital and scientific expertise required in pharma companies.
+
+For any digital leader, such clear organizational structure and strong executive support—as well as a supportive and change-oriented culture—are critical. (For more, see “Can CIOs really do it all?”) In a traditional industry like pharma, these factors may be even more important for success. While an organization may need a CDO—or five—to kick-start the company’s harnessing of the four opportunities and to embrace digital technologies, that does not relieve other leaders from playing a role as well.
+
+“At the end of the day, it’s all about disproportionately increasing the outcome we have on populations and on people individually,” says Silon. “We are in this enormously exciting moment where digital capabilities make it possible to do so many things that have never been possible to do before as a biopharmaceutical company.”
+
+There are many paths to successful digital transformations for pharma companies. While it might not always come down to a CDO, companies must have digital leaders who are able to consider their companies’ unique positions—in terms of digital acceleration, mission, and culture—and how they can harness the opportunities brought about by digital capabilities to improve the way they work and the impact they have on patients.
+
+About the authors
+
+Sam Burman (sburman@heidrick.com) is the leader of Heidrick & Struggles’ Digital Practice in Europe and Africa and a partner in the London office.
+
+Charles Moore (cmoore@heidrick.com) is a partner in the London office and a member of the Healthcare & Life Sciences Practice.
+
+Scott Snyder (ssnyder@heidrick.com) is the leader of Heidrick Consulting’s Center of Excellence in Digital Acceleration and Innovation and a partner in the Philadelphia office. He is a senior fellow at the Wharton School at the University of Pennsylvania and the coauthor of Goliath’s Revenge.
+
+Acknowledgments
+
+The authors wish to thank the executives who shared their insights: Stéphane Bancel, CEO, Moderna Therapeutics; Yan Beynon, Former President of Digital Services, Siemens Healthineers; Ken Gabriel, Former President and CEO, The Charles Stark Draper Laboratory; Joris Silon, Senior Vice President of Cardiovascular, Renal, and Metabolism, AstraZeneca; and Bruno Villetelle, Global Head of Data and Digital, Novartis. Their views are personal and do not necessarily represent the views of the companies they are affiliated with.
+
+References
+
+1   McLaren Group, “Case study: GSK.”
+
+2 “ERA-EDTA, one of the biggest nephrology associations worldwide, launches European COVID-19 database,” Vascular Disease Management, April 13, 2020.
+
+3 Tony Baer, “Launching Oracle’s COVID-19 therapuetic app: The back story,” ZDNet, April 10, 2020.
+
+4 “AstraZeneca constructs global healthcare network through health innovation hubs,” BioSpectrum, February 13, 2020.
+
+Related Services & Industries
+
+AI & Technology Officers
+
+Biopharmaceuticals
+
+Digital Leadership
+
+Healthcare & Life Sciences
+
+Related Content
+
+Leadership Development
+
+AI focus: Leveraging your culture to accelerate GenAI enablement
+
+Realizing the value of your AI investments relies more on your culture than on the technology itself. Our work and interviews with five executives highlight how companies are engaging their leaders to speed GenAI progress.
+
+FinTech
+
+Stablecoins and the future of finance: A conversation with Marieke Flament, co-author of Euro Stable Watch, board member and advisor
+
+Marieke Flament explores how stablecoins are reshaping global finance and what today’s leaders need to thrive in a decentralized financial system.
+
+Marketing, Strategy & Communications
+
+AI leadership in communications: A conversation with Corey duBrowa, Global CEO of Burson
+
+Corey duBrowa shares practical guidance for corporate communications leaders on harnessing AI, staying ahead of emerging trends, and advising CEOs and boards on the right questions to ask.
+
+Digital Leadership
+
+AI and leadership: How finance, HR, and technology leaders are collaborating to make the most of AI across the enterprise
+
+When leaders of these key functions work together effectively, their companies are more able to benefit from implementing AI. Focusing on three areas will help keep progress going.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

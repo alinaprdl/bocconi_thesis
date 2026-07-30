@@ -1,0 +1,247 @@
+Software update: Strengthening Europe’s software industry
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Software update: Strengthening Europe’s software industry
+
+By
+
+Emanuela Aureli and
+
+Lars Alexander Gollenia
+
+July 2023
+
+| 10 min read
+
+Authors
+
+Emanuela Aureli
+
+London
+
+Lars Alexander Gollenia
+
+Frankfurt
+
+SectionsIn this article
+
+Key findings
+
+Europe can boast the single market, world renowned universities and a rich industrial and engineering heritage but there are few sizeable, listed European software companies relative to the size of its economy, particularly when compared to the US.
+
+European software companies have historically been vulnerable to acquisition, and also weighed down by issues such as a subdued investment climate, a fragmented regulatory system and a fierce global war for talent.
+
+Europe’s software leaders need to establish stability and direction but also create the motivation and engagement needed to harness the innovation, talent and entrepreneurial thrust which exists within its borders.
+
+Europe is many things. A melting pot of cuisines and languages. A magnet for tourists and visitors from near and far. A home of celebrated art and history, sport and culture. But a global hub for world leading software businesses? Maybe not.
+
+Of course, there are abundant examples of pioneering technology — the first covid vaccine was created by the German biotechnology company BioNTech, after all. But at the same time, few would boast about Europe’s track record of sustainable growth and the long term survival of its software businesses.
+
+Download
+
+Download
+
+Although the value of this industry is increasing exponentially and is expected to show an annual growth rate of 5.4 percent over the next five years, most of this expansion will likely be generated in the US and by a small cadre of key players, such as Microsoft, SAP, Adobe, Oracle, and Salesforce. In 2020, well over a third of the 100 most valuable companies in the US came from the sector, as did about a quarter of those in Asia. In Europe, however, that figure stood at just 7 percent.
+
+This is something of a puzzle in many ways. Europe’s universities are world renowned, and the region enjoys a rich industrial and engineering heritage. And in addition to action from national governments, the European Union has constructed the single market — still the world’s largest free trading bloc — and designed countless platforms, communities, and infrastructures to support businesses and encourage growth. And yet the hard fact remains that there are few sizeable, listed software companies in Europe relative to the size of its economy, particularly when compared to the US.
+
+So what can be done about this, and where are the most promising growth opportunities? What qualities and skills are needed in the next generation of software leaders? To help answer these questions, we have sat down with software leaders, mainly CEOs and chairs, from across Europe to spotlight these issues and discuss their experiences and insights.
+
+Taking stock
+
+When looking back at the recent history of software companies in Europe, it soon becomes apparent that once they reach a certain stage of growth and success, they become vulnerable to external forces. One of these is acquisition — which is what happened to London-based AI start up, DeepMind Technologies. After just two years of its pioneering work in machine learning, advanced algorithms, and systems neuroscience, Google swooped in to buy it for approximately $500 million.
+
+Quote
+
+Growing software companies is easier, rewards for success are not so contentious and with faster growth and more opportunity for people, if done out of the US.”
+
+andreaS andreadaS
+
+CEO,
+TEMENOS
+
+In other cases, companies can be acquired by competitors who want to close down competition, whereas others delist or go private. For example, British chip manufacturer Arm, whose technology is widely used in smartphones, was bought by Japan’s Softbank in 2016 for $32 billion. It will shortly be listed in New York, not London, for its public offering.
+
+Their decision to opt for an American IPO did not go unnoticed but perhaps should have come as no surprise given that the US is viewed favourably by many software European leaders. London accounted for just 5 percent of global IPOs between 2015 and 2020. With companies typically commanding higher valuations in New York, criticism has mounted over its approach to regulation and corporate governance and its attitudes to remuneration and risk — none of which are likely to appeal to European software companies considering where to go public.
+
+Andreas Andreades, CEO of Swiss listed fintech company, Temenos, admits to having cast an occasional envious glance across the Atlantic. “If circumstances allow, I'd say start and list in the US,” he said. “I would argue that if Temenos had started in the US instead of Europe, it would have perhaps grown faster and been a different company. Growing software companies is easier, rewards for success are not so contentious and with faster growth and more opportunity for people, if done out of the US.”
+
+After all, with every listing that takes place in the US, more capital — both intellectual and financial — moves stateside. Melissa Di Donato, former CEO of open source software company SUSE, which listed on the German stock exchange, DAX, during the pandemic, strongly believes that European software companies should list in Europe.  “I am so passionate about trying to get listings in the UK or Europe more broadly,” she said. “European tech needs to stay in Europe.”
+
+Barriers aplenty
+
+Such financial issues are far from alone in shaping the future of Europe’s software companies, however. It is helpful to think of the landscape they operate on as a complex tapestry, one that is threaded with a number of different strands, which all too often combine to prevent them from achieving the scale of a Meta or Google or Microsoft.
+
+Quote
+
+The mentality I have  seen in the US is more  entrepreneurial. If they fail, fine, they go on to  the next project, and they try harder to get  something done.”
+
+patriCK de SMedt
+
+CHAIR,
+BYTES TECHNOLOGY GROUP
+
+A recurring complaint is Europe’s investment climate, often seen as being weighed down by an intolerance of failure. Patrick De Smedt, chair of Bytes Technology Group, believes this mindset is rooted in the US being less risk averse and that their ecosystem allows for easier and faster access to risk capital. “I think that the mentality I have seen in the US is more entrepreneurial,” he said. “They are not afraid to start something. If they fail, fine, they go to the next project, and they try harder to get something done. Although there are fantastic entrepreneurs in Europe, I think it's more embedded in the US culture.”
+
+Similarly, the attitude to success also varies, with a far more muted response likely to be found on European shores than in the US. “Over there, they celebrate success, and they give second and third opportunities if they believe in the idea,” said Andreas Andreades. “In the US, if you're a successful entrepreneur, you are not looked down on — you are looked up to as a role model. It's a cultural thing. We don't encourage this; unfortunately, tech needs a little bit of that.”
+
+A lack of understanding of the specific issues facing software businesses doesn’t help either — such as when software companies switch to a Software as a Service (SaaS) business operating model. Investors often lack detailed software knowledge and have to take an initial hit before any longer term gains roll in. Ensuring that they understand the SaaS process is far from straightforward, says Peter Herweck, CEO of Schneider Electric and who was CEO of FTSE100 software company AVEVA, when we spoke to him.
+
+“People who have spent some time understanding software companies know that a transition to SaaS is extremely stressful from a revenue recognition perspective,” he said. “This is because you need to explain the transition in form of a revenue curve (known as ‘swallow the fish’) without having all the data at that point in time.”
+
+A software company’s ownership structure also has a role to play here. Software vendor Nemetschek Group is listed, and majority owned by a combination of family and foundations. Its CEO, Yves Padrines, points out that fully listed companies, by contrast, risk being overly focused on short term priorities.
+
+Quote
+
+Silicon Valley was once known only for being a university town. Well, we have some of the world’s best universities so why are we not doing that here?”
+
+MeLiSSa di donato
+
+Former CEO,
+SUSE
+
+“When I talk to investors, their main worry is ‘are we going to be successful in our Subscription and SaaS move?’ US investors are very familiar with this type of story. Some in Europe still have to digest that although this transition will impact the top line and bottom line in the short term, in the mid and long term it will be substantially value accretive.”
+
+There is also the need to secure increased private equity and foreign investment. Despite Europe being home to an abundance of world leading universities (the region is home to 31 percent of the world’s top 100 universities for computer science), it has not managed to replicate the success of US cities that have been similarly blessed with leading academic institutions.
+
+“Keep in mind, Silicon Valley was once known only for being a university town,” pointed out Melissa Di Donato. “And it really became a beacon for talent, investment infrastructure, ideas, and academics. Well, we have some of the world's best universities, so why are we not doing that here?”
+
+University students and the courses they are taught are also not immune to the critical spotlight. Andreas Andreades believes that not enough Europeans pursue tech as a career — unlike the US or India, where software engineering is still considered a highly desirable profession. “Software is engineering,” he said. “You need to get your hands dirty, you need to do stuff. But in Europe, we don't consider ourselves to be people who want to get our hands dirty. And that, for me, is the biggest barrier.”
+
+Go big or stay home?
+
+So what’s to be done? Is scale the ultimate goal? Or should European software businesses instead focus on serving their own complex continent and remain focused on more niche opportunities within their regional ecosystem?
+
+There are few easy answers. Certainly, a large gap exists between the size of European software companies and their counterparts in the US but a former CEO of a FTSE 100 company, for one, isn’t convinced that bridging this gap is a goal worth pursuing. “I'm not sure that scale in and of itself is the goal I would chase,” he admitted.
+
+“I don't know how you would get scale in Europe to compete with the US. The US has this massive domestic market and associated depth of talent pool that means CEOs can build companies of scale before they have even have to think about international expansion. UK companies have to actually execute internationally before they can get scale. This is a very different set of challenges and requires different skillsets.”
+
+He went on to pinpoint the need to concentrate on their core strengths. “Rather than focusing on scale I would focus on being brilliant at what they do, which may require a narrowing of focus, and leverage this differentiation as the foundation to win and drive growth,” he said. “And looking beyond an individual company then creating an ecosystem of brilliance in a specific area is an achievable and worthwhile goal that government could help enable.”
+
+Patrick De Smedt believes there are many reasons why scaling is so challenging for a European software company, starting with the fact that the region’s market is so fragmented. “This increases the cost of doing business and adapting software,” he said. “It comes down to things like the complexity of translation, the need to adapt the software to different countries — not only language but also privacy, currency, and other things.”
+
+Thomas Saueressig, member of the executive board of SAP SE, where he leads SAP product engineering, also believes the US gains much from the uniformity of its language and regulatory system. "The US is only one market with one language, which is only English, and one jurisdiction,” he said. “This and the fact that more venture capital is available makes the US an attractive location for start ups.”
+
+It’s a point echoed by Andreas Andreades, who highlights the benefits and importance of standardisation when it comes to software itself. “The more standard the solution, the more homogeneous the market, the easier it is to grow,” he said. He does, however, admit that regional complexity has been a benefit in the financial services industry.
+
+“Being in 150 different countries with 100 different currencies over the years and introducing so much complexity has forced us to think through and solve issues that the Americans didn't really have,” he said. “And that's what gave us an advantage.”
+
+Talking talent
+
+And what of the issue of talent? Are European software businesses able to attract the best people, or is the magnetic allure of their US counterparts too powerful? What sectors are most in need of the best and brightest?
+
+Thomas Saueressig says that finding the right talent is crucial when it comes to software engineers. “First and foremost, I think everyone is facing the war for talent,” he said. “We also need to acquire a tremendous amount of new skills, especially given the generative AI revolution.”
+
+Quote
+
+Transformations mean you need to transform your team … their capabilities may not be compatible with the new requirements.”
+
+peter herweCK
+
+CEO,
+SCHNEIDER ELECTRIC
+
+As mentioned earlier, Europe lacks the equivalent of a Silicon Valley to help draw new people into the industry and persuade them to pursue software as a career. But there is certainly no shortage of employment opportunities — the industry needs to fill a variety of specialisms and roles for it to flourish. This is not only for priority sectors such as cloud migration, AI, and cybersecurity but also for wider business priorities, a point made by Peter Herweck, who cites the fluctuating talent requirements for transforming to SaaS as a key example.
+
+“If you move a company through this transition, it's not a stable environment,” he said. “Transformations mean you need to transform your team. Somebody who may have been a great software architect yesterday may not be the same anymore for cloud architecture. They’re still a great person, but their capabilities may not be compatible with the new requirements.”
+
+The fierce competition for talent across software businesses around the world means that companies are all vying for the best recruits from the same pool of candidates. According to Patrick De Smedt, this results in higher salaries and an increased cost of doing business. “Brexit has not helped us, and I think remote working has also increased competition because it's easier for employers to hire talent from anywhere in the world,” he said.
+
+You may also like:
+
+Growing gains: The role of digital leaders in Europe’s unicorns
+
+Europe’s high-growth companies are often fuelled by technology but what has been the contribution of their digital leaders? We examine how they help their business take flight.
+
+“And so we see that when you hire graduates, they are often not adequately prepared for the job. So the company has to make major investments in training, upskilling, and bridging the gap between what you have when you're a graduate and the industry’s actual needs.”
+
+His comments are supported by Melissa Di Donato, who points out that the UK alone suffers from a digital skills gap that costs an annual £63 billion in lost GDP. “That's a big, big number,” she said. “It’s something that is a substantial cost to our economy, our innovation, and our thought leadership. I think the government needs to step in and really help to try and bridge that gap.”
+
+But it can’t all be down to policymakers. Strengthening the talent pipeline also requires the industry to sell itself more effectively to future generations and become more valued within the education system — and there is certainly an abundance of selling points it can deploy.
+
+As a starting point, clarity of purpose and vision is essential. Leaders can attract purpose driven recruits by explaining how the industry can solve some of the toughest business problems while also contributing hugely to societal transformation by making everyday life easier. The software industry can also help enable greater sustainability by ensuring regulatory compliance, monitoring non renewable energy sources, and helping minimise emissions.
+
+Strengthening the talent pipeline also requires the industry  to sell itself more effectively to future generations and  become more valued within the education system
+
+“We need to be proud, and we need to try to do more as European tech leaders,” said Andreas Andreades. “Unfortunately, we don't do much. Perhaps we are all very busy with our own little thing, but we should be more visible, tell the story and influence young people because honestly, there's no better place than tech to fulfil young people's aspirations.”
+
+Diversity matters
+
+At the same time, though, conscious, deliberate effort is also needed to create more diverse and inclusive organisations.
+
+For example, our analysis reveals that only three of Europe’s top 50 publicly listed software companies have female CEOs at the helm, and only one of the top 15. We also discovered that of the 32 percent of these companies that are founder led, only one of them is a woman.
+
+Our analysis also revealed that all the female CEOs had experience at software companies before joining their current firms. However, 45 percent of the male CEOs who were externally hired had no prior software experience. This suggests that their female counterparts have to clear an additional hurdle on their way to the top role.
+
+There is no one size fits all solution, however. Cultural and historical differences across European countries means that some of them focus more on this issue than others do. Peter Herweck believes that progress is being made, but leaders themselves must drive the diversity agenda forward. “If you would've asked me 15 years ago, this was not on my radar screen,” he said. “But if you don't start this from the top, it's not going to happen.”
+
+Quote
+
+When women go off to have children, they’re going to come back, and tech, unlike any other industry, will have changed… You leave confident, and you come back uncertain.”
+
+MeLiSSa di donato
+
+FORMER CEO,
+SUSE
+
+The tactics to best deploy are open to debate, but Melissa Di Donato is clear that quotas, such as German plans to ensure 30 percent representation of women on boards, should be avoided. “This is going to cause irreparable damage,” she said. “I don't want to be part of a quota because they're always going to wonder if I'm on that board because of a quota system and I don't have the right skills or I wasn't the best candidate.”
+
+She goes on to say that strengthening the talent pipeline requires fresh ideas, programmes, and thought leadership but also warned rapid technological advances have the unfortunate consequence of hindering further improvements.
+
+“When women go off to have children, they're going to come back, and tech, unlike any other industry, will have changed,” she pointed out. “They'll be like, ‘ChatGPT? What? Where did that come from?’ This is a very hard place for most women to be. You leave confident, and you come back uncertain. That has caused a lot of women not to return.”
+
+Leading questions
+
+Guiding Europe’s software industry towards ever greater profit will require its leaders to create stability and direction by being the strong, resilient core at a time of huge external pressure. This is especially pertinent for listed company CEOs who are expected to take a public stance on geopolitical and social issues, not to mention the current wave of large scale layoffs due to declining stock valuations, which may or may not be a temporary phenomenon.
+
+But it can’t be down to the CEO alone — it will be crucial that they inspire their teams and create the motivation and engagement needed for success, especially in the world of hybrid work with its extra focus on work life balance. “Focusing on empowerment, cooperation, transparency, and trust is essential when you're a CEO,” said Yves Padrines. “With all this volatility going on, leadership is about people; inspiring them, motivating them, working and collaborating with them. As a software company, our people are our main assets.”
+
+This emphasis on soft skills is supported by Patrick De Smedt, who says that empathy is the number one asset for a software CEO, as well as the ability to always look for improvement within yourself. “In the old days, we called this ‘paranoia’,” he said. “What I mean is that it's about questioning yourself all the time and asking, ‘what can I do better?’”
+
+Quote
+
+Leadership is about people; inspiring them, motivating them, working and collaborating with them. As a software company,  our people are our main assets.”
+
+yVeS padrineS
+
+CEO,
+NEMETSCHEK GROUP
+
+Leaders also need to be able to ask the right questions, particularly when it comes to gamechangers such as generative AI, and seek to understand their implications for the future. Thomas Saueressig believes that knowledge is not the only determining factor anymore.
+
+“Yes, you need to have a solid knowledge base and technical understanding,” he said. “But fundamentally, to lead organisations through this uncertainty and considering all the advances with AI, it's not only about the knowledge itself: it's about how other relational, social, collaborative qualities come to the fore. Empathy is key.”
+
+Amidst this uncertainty, CEOs also need to possess self confidence that will inspire and reassure their less experienced colleagues that their organisation is well placed to navigate any upcoming turbulence.
+
+“The person who sits at the helm of the company needs to give direction and be a beacon of calmness and security,” said Peter Herweck. “We live in a highly complex multi geographical world, so it's important to be able to analyse and understand complex systems in a more local environment.”
+
+Back to the future
+
+There is no doubt that today’s challenging geopolitical situation is fuelling a ricocheting blend of headwinds and complexity, which has left no sector of the economy untouched.
+
+And yet, despite these difficulties, the prospects for the global software industry remain broadly positive. Although recession may still be looming, the International Data Corporation has forecasted that ICT spending in Europe will reach $1.2 trillion this year, and developments in areas such as generative AI, predictive analytics, and cloud based services are continuing apace.
+
+But Europe’s software leaders will not have it easy. They continue to compete against US companies for customers and for talent — all against the backdrop of what is widely seen to be America’s friendlier regulatory system and huge domestic market, as well as their more positive attitude to risk and more knowledgeable investor base.
+
+This situation has serious implications, not least for Europe’s overall economic competitiveness against other global regions. It also impacts the growth prospects of individual countries because larger software players help attract clusters of smaller partners, suppliers, and customers. In their absence, generating this type of tech fuelled ecosystem is harder.
+
+There is little doubt that Europe’s software industry finds itself behind in a global race against their US competitors. At the same time, though, the region remains studded with abundant examples of innovation, talent and entrepreneurial thrust. It is incumbent on leaders to create the right environment for these businesses to take root and flourish. If they do so, the alluring image of the US, shimmering on the horizon, will surely start to slowly fade from view.
+
+***
+
+Spencer Stuart would like to thank all of our interviewees for taking time out of their busy schedules to share their reflections and insights.
+
+Authors
+
+Emanuela Aureli
+
+London
+
+Lars Alexander Gollenia
+
+Frankfurt

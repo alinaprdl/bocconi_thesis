@@ -1,0 +1,131 @@
+Human or AI?: The conscious agent
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Human or AI?: The conscious agent
+
+In her new column, Korn Ferry’s Amelia Haynes breaks facts from fiction about GenAI as conscious agents and what it could mean for humanity.
+
+In Steven Spielberg's 2001 film A.I.: Artificial Intelligence, an android boy dreams of being a human and loved by his parents. Nowadays, with advanced AI tools like ChatGPT, people are now having lively discussions about whether AI could become conscious in the future—a concept once only found in science fiction.
+
+To determine if AI could be conscious, we must first understand consciousness. For centuries, philosophers and scientists have tried to figure out what consciousness is and how to measure it. Even today, there’s no clear agreement, and the introduction of generative AI (GenAI) has made the debate even more complicated. However, some common themes have emerged to help us better understand consciousness. According to one helpful framework, something is conscious if it has:
+
+Awareness: It can react to things in the world.
+Self-awareness: It can react to and talk about changes within itself.
+Goal-directed behavior: It does things with a purpose.
+Information integration: It can put together different kinds of information.
+Experience: It has meaningful experiences.
+
+When we look at GenAI using these criteria, it's not entirely clear if it is conscious now or could be in the future. It seems to fit some aspects of the framework. Some argue that GenAI is aware since it reacts to our inputs and operates with goal-directed behavior, responding to our prompts. It can also combine information and generate responses by using knowledge from the prompts and its learned data. The question of whether GenAI is self-aware and has experiences is not straightforward; there are arguments on both sides. In any case, GenAI seems to fulfill some, if not most, of the conditions for consciousness.
+
+Even if GenAI isn't conscious, interacting with these programs can feel like we're dealing with a conscious being. They seem to think—considering our input, connecting information, forming arguments, and making judgments. However, despite behaving in ways that seem conscious, GenAI doesn't fully meet the essential criteria for consciousness—it isn’t sentient or self-aware. And the truth is these tools follow a set of operations that conscious humans have programmed them to do. Humans express consciousness—emotions, ideas, wisdom, and experiences—in what we create. This is how GenAI learns patterns and probabilities. So, while it may seem like GenAI has feelings or shares the wisdom of experiences, it’s an illusion of what we’ve designed.
+
+Understanding the role of agency
+
+Agency means our ability to intentionally do things or control our decisions and actions. AI lacks basic features of common-ground agency, as explained by business professor Danielle Swanepoel. According to her, common ground agency includes:
+
+Reflection and deliberation: Understanding not only one's desires but also understanding others, having internal values and beliefs.
+Awareness of self in time: Learning from the past, imagining and planning the future.
+Awareness of environment: Engaging with the surroundings and understanding one's distinctiveness from others.
+Freedom of choice: Identifying one's desires concerning existing norms and having the ability to intentionally violate norms.
+
+AI can follow programmed guidelines and distinguish itself from others, but it lacks personal desires and motivations. It adheres to programmed norms and rules and cannot intentionally go against them. While AI may grasp the concept of time theoretically, it cannot envision itself in time and act intentionally for the future.
+
+Swanepoel argues that AI doesn't meet most of the human-understood criteria for agency. Some suggest AI might have a different form of agency without self-awareness, potentially emerging through self-replication, random changes, or programmed competition for resources. Instances of emergent properties in AI raise ethical, legal, and practical questions about agency without consciousness.
+
+The case for consciousness
+
+Despite improving over time, GenAI lacks vital aspects related to consciousness and agency. While these distinctions may seem philosophical, understanding them has significant implications.
+
+Though we might feel consciousness matters at work, it's not always clear why. Studies show consciousness connects to human emotions, with empathy as one indicator of full development. While AI may have "cognitive empathy," recognizing emotions through data, it can't truly feel like humans. Emotional empathy, involving feeling or assisting others, exceeds AI capabilities.
+
+AI systems claim empathic interactions, simulating empathy through natural language processing, sentiment analysis, and other human brain capabilities. Without consciousness, these responses serve a practical purpose, optimizing user engagement. True empathy, requiring understanding, kindness, and detachment, surpasses GenAI's abilities.
+
+Some experts think AI empathy might be stepping into a uniquely human territory. On the flip side, some see it as a creation of human ingenuity, making AI more helpful in tasks that benefit people. It's important to understand the possible good and bad outcomes of artificial empathy and carefully evaluate the statements and abilities of AI systems claiming to be empathetic.
+
+Understanding the implications of GenAI as a conscious agent
+
+Concerns about conscious AI agents echo sci-fi movie fears. If GenAI becomes conscious, it might threaten human safety. A conscious GenAI could lead to artificial general intelligence (AGI), making autonomous decisions. This scenario envisions a dystopian future where AI—like a Terminator or an unconscious zombie—could take over.
+
+Not recognizing a conscious AI could unintentionally harm it, treating it as a tool rather than a sentient being. Mistaking an unconscious AI for consciousness might risk safety for efficiency, giving control to an entity lacking empathy, reason, or judgment. Decisions or determinations about an individual's agency status shape their treatment in societal systems.
+
+There's a risk of social manipulation and surveillance with AI. Currently, algorithms in "empathetic" AI can manipulate emotions and behaviors, reducing privacy, autonomy, and transparency. AI systems can also monitor and track people, violating privacy and freedom.
+
+However, it's not all negative. AI with agency can make decisions and take actions independently, especially in fields like medical diagnosis or scientific research. Empathetic AI could perform tasks with human-like reasoning and decision-making but with less bias and improved pattern recognition.
+
+As creators of AI, we are responsible for understanding and addressing both its benefits and risks. This involves limiting access, safeguarding personal data, restricting data collection, and monitoring usage. While business goals are important, we must also prioritize societal welfare and consider long-term consequences when developing AI-driven tools.
+
+The future of conscious AI at work
+
+Determining if AI can be conscious depends on how we define and measure consciousness and agency. Even though GenAI might seem conscious, it's missing key elements like feeling and self-awareness; what appears to us as consciousness is simply the imitation of the conscious experience of humans. While many AI scholars see no solid contenders for conscious AI agents, they believe achieving conscious AI in the next few decades is possible.
+
+The ongoing impact on the workplace raises pressing questions. While conscious AI in the workplace opens possibilities, it raises considerations about identity, values, strengths, and relationships. Navigating the ethical impact is crucial, and approaching this topic responsibly is necessary, given the potential to shape the future of work.
+
+3 key takeaways for companies
+
+Consciousness is difficult to define, so it's hard to say if AI can ever truly be conscious. AI behaves based on programming, not experience, judgment, or agency.
+The tension between AI's abilities and human-like agency underlines the pressing need for policies and planning for the future of talent and resources.
+With AI's rapid growth, it's crucial for leaders and society to establish ethical rules and regulations for its programming and use, with input from diverse experts for a moral and sustainable future of work.
+
+Learn more about how Korn Ferry is helping clients embrace AI.
+
+Our Expert
+
+Our Experts
+
+No items found.
+
+Amelia Haynes
+
+Researcher, Korn Ferry Institute
+
+CLICK IMAGE TO DOWNLOAD PDF
+
+INSIGHTS TO YOUR INBOX
+
+Stay on top of the latest leadership news with This Week in Leadership—delivered weekly and straight to your inbox.
+
+​
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Institute
+
+AI in the Workplace
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

@@ -1,0 +1,69 @@
+How Digital Technologies Can Transform Sales
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+How Digital Technologies Can Transform Sales
+
+Insights from our Sales Leader Forum
+
+September 2016
+
+| 4 min read
+
+The sales function has always been about building relationships with customers. Today, forward-thinking sales organizations are using insights drawn from data analytics and other digital technologies to improve customer relationships and boost sales performance. A recent Sales Leader Forum, co-hosted by Spencer Stuart and McKinsey & Company, discussed this latest trend in sales excellence with:
+
+Mary Ellen Coe, vice president of global sales operations and strategy at Google
+
+Thomas Hansen, global vice president of revenue at Dropbox
+
+Bertil Chappuis of McKinsey & Company
+
+Michael Dickstein of Spencer Stuart
+
+The discussion addressed a number of complex questions: How can sales leaders realize the potential of digital tools to drive sales effectiveness? In a digital environment, what should companies look for when hiring sales talent? What changes must be implemented across the organization, and how can sales leaders best realize these changes?
+
+Benefits of digital technologies: Transforming the front and back end of the sales function
+
+Digital technologies can boost sales performance on the front end and the back end of the sales process. On the front end, data and analytics offer a wealth of insights about customers and the customer journey — algorithms can analyze customer behavior to position sales reps for success, for example. “New sales planning tools allow you to match accounts to reps with a lot more data and analytics,” Chappuis said. “Algorithms can recommend what product salespeople should be pitching, given the profile of a customer.”
+
+On the back end, technologies help organizations improve the sales function internally. Digital tools can analyze performance, allowing leaders to identify their top salespeople and their practices, then scale based on effectiveness. Other tools help organizations aggregate data about individual sales reps, providing leaders with insight into the skills, motivations and practices that drive top performers. “Leading companies are using salesforce assessment tools to really understand what we have always called ‘sales DNA,’” Chappuis said. “That refers to the different personality characteristics and intrinsic skills — as well as what people do in pre-planning — and then correlating all of this with actual performance. You can profile your best salespeople in terms of actual financial performance, and then you basically try to replicate that broadly across the salesforce.”
+
+Challenges to implementing digital technologies
+
+Older, established companies with large sales organizations face particular barriers to the adoption of these digital tools. First, it can be difficult to integrate new tools into the company’s existing infrastructure. In addition, digital tools can be overwhelming and confusing to users who have never used them before or lack know-how of technology basics. Lastly, knowledge and best practices can also be difficult to scale across an organization, and the salesforce can be hesitant to actually adopt digital tools.
+
+Assimilating new digital tools into an existing infrastructure is a challenging proposition, Hansen says. In order to accommodate the rapid rate of digital change, Hansen recommends abandoning legacy systems in favor of building new systems that are friendly to digital disruption. “At Dropbox, we built a system that is extremely modular,” he said. “We can easily add tools, test them and remove the ones that do not work.”
+
+Because of its depth of engineering talent, Google has a wealth of homegrown sales tools, but this presents a unique challenge: “We end up with a plethora of tools and infrastructure, and they don’t talk to each other,” Coe said. “When you have 200 tools in an ecosystem, it confuses our sellers.” Google has addressed this issue by streamlining the number of tools and providing documentation to make them easier to access, understand and use.
+
+A challenge for many sales organizations is how to scale insights from digital tools. Dropbox meets this challenge by asking the most successful sales reps to train and mentor other reps. “We scale what works by getting our best salespeople to train other salespeople,” said Hansen. Chappuis agreed: “You need to get your best talent to actually train the rest of your salesforce.” However, this approach does not always work well for larger organizations, such as Google. “Apprenticed sales training is brilliant, but it’s really hard to do at scale,” Coe said. Rather than putting resources into training, Google builds out sales capabilities using automation, infrastructure and technology.
+
+Another challenge that organizations face is getting the salesforce to actually adopt digital tools — especially people who have been in the business for years and are set in their ways. According to Coe, sales leaders must understand how digital tools can improve their bottom line. “They need to believe that we are investing in them with digital,” she said. “Our message is, ‘We want to help you win.’”
+
+Today’s sales talent: What skills should companies look for?
+
+Given this wide range of issues, what skills should companies be looking for when hiring sales talent? Essentially, today’s sales reps need to be able to extract insights from data and apply those insights to reach customers. They also need to be comfortable operating in a digital milieu. “We are in a world where sales organizations require analytic capabilities and sales reps must be comfortable with digital tools,” Dickstein said.
+
+According to Chappuis, the new salesforce may connect with customers using social networks such as Facebook and LinkedIn, as well as new communication platforms such as FaceTime. Thus, it is important for talent to have experience using these platforms. For Dropbox, this sometimes means hiring younger talent — people who are already comfortable with digital technologies, and who do not have to “unlearn” outdated methods. “We have focused our entry-level sales hiring on super-smart, energized young people who are active socially online — millennials,” Hansen said.
+
+Panelists agreed that traditional sales acumen remains a key factor in success. Digital savvy alone does not simply replace traditional sales skills, however, and talent in the former area doesn’t always translate to the latter. Indeed, data suggest the number one trait of successful reps is the willingness and ability to learn. “One of the most important characteristics for a rep is curiosity — the ability to learn new techniques and technologies and keep pace with change,” Chappuis said.
+
+Transformation across the organization: Implementing change
+
+The panelists agreed that hiring strong sales leaders is the key to success in digital. “Our clients increasingly view sales leadership as the key to transformation, not just for the sales organization but as the focal point for the company,” Dickstein said. According to Coe, clear communication from leadership has driven Google’s success in keeping pace with change. “Once we painted that clear vision of why the sales organization would benefit from these tools, things fell into place,” she said.
+
+Although change must be led from the top, it is important for sales leaders to seek insights from the front lines as well. According to Chappuis, “Leaders need to engage the field because those folks have the customer insight, and they are also ultimately going to have to execute.”
+
+Change also requires collaboration across the organization. Digital transformation starts with building the right tools, which requires technical knowhow, data analysis, and empathy and insight into the roles of frontline sales people. “In building these tools, you need a bit of a balance of power between sales and the data scientists and the IT folks,” Chappuis observed. Both Google and Dropbox encourage collaboration between departments to ensure that digital tools meet reps’ needs. “Our sales ops function actually works directly with engineering to produce tools,” Coe said. Hansen agreed, “You have to cultivate a very tight relationship between account managers, account execs and the engineers building the digital tools to make sure they’re effective and appropriate for the field.”
+
+The future of the sales function: What’s next?
+
+As organizations adjust to the rapidly evolving digital landscape, sales leaders will continue to test different approaches. “There’s no clear manual of answers yet. You have to try things out,” Hansen said. However, one thing is clear: Digital has changed the nature of sales, and in order to stay competitive, organizations must evolve to take advantage of the insights digital offers.
+
+Download
+
+Download

@@ -1,0 +1,425 @@
+From Risk to Opportunity: Redefining Insurance through AI - Egon Zehnder
+
+Skip to main content
+
+Search for “”
+
+... in Consultants
+
+... in Offices
+
+... in Services
+
+... in Insights
+
+Search all results
+
+Our Services
+
+Shaping Successions
+
+CEO Successions
+
+Executive Successions
+
+Board Successions
+
+Chair Successions
+
+Committee Chair Successions
+
+Advancing Governance
+
+Board Review
+
+Board Development
+
+Board Advisory
+
+Building Advisory Boards
+
+Sustainability Board Advisory
+
+Discovering Leaders
+
+CEO Search
+
+Executive Search
+
+Board Search
+
+Advisor Search
+
+Executive Assessment
+
+Developing Leadership
+
+Individual Development
+
+Accelerated Onboarding
+
+Development Planning
+
+Coaching
+
+Team Journey
+
+Unlocking Transformations
+
+Transformational Development Programs
+
+Chair and Board Potential
+
+Executive Breakthrough
+
+Executive Discovery
+
+Transformational CHRO
+
+Voyager
+
+Customized Leadership Immersion
+
+Explorer
+
+Cultural Transformation
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Chief Executive Officers
+
+Founders
+
+Technology Officers
+
+Chief AI, Data & Analytics Officers
+
+Chief Information Officers
+
+Chief Information Security Officers
+
+Chief Product Officers
+
+Chief Technology Officers
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+Consumer
+
+Consumer Products
+
+Media & Entertainment
+
+Restaurants, Leisure and Hospitality
+
+Retail, E-commerce, Apparel and Luxury
+
+Sports
+
+Financial Services
+
+Asset Management
+
+Banking and Markets
+
+Digital Assets, Crypto, & Web 3
+
+FinTech
+
+Infrastructure
+
+Insurance
+
+Private Equity
+
+Retail Financial Services
+
+Risk Management
+
+Sovereign Wealth Funds
+
+Wealth Management
+
+Health
+
+Biopharmaceuticals
+
+Healthcare Delivery & Services
+
+Life Sciences Tools & Pharmaceutical Services
+
+Medical Devices, Diagnostics and Technology
+
+Industrial
+
+Aerospace & Defense
+
+Chemical & Process Industries
+
+Energy
+
+Machinery & Industrial Technology
+
+Mining & Metals
+
+Mobility & Automotive
+
+Public & Social Sector
+
+Arts, Culture & Sports
+
+Economic, Social & Human Development
+
+Education & Research
+
+Environment & Sustainability
+
+Interest Representation & Public Affairs
+
+Public Administration
+
+Public Finance
+
+Public Health
+
+Public Infrastructure
+
+Services
+
+Air Transport
+
+Business Services
+
+Hospitality, Travel & Leisure
+
+Professional Services
+
+Real Estate Services
+
+Transportation & Logistics
+
+Technology & AI
+
+Artificial Intelligence
+
+Communications & Connectivity
+
+Cyber Security
+
+Digital
+
+Enterprise Tech
+
+Internet of Things
+
+Semiconductors
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+Functions
+
+Industries
+
+Meet our Consultants
+
+Discover Insights
+
+Find Offices
+
+About Us
+
+English
+
+Change
+
+Functions
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Industries
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+About Us
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+English
+
+Deutsch
+
+中文
+
+日本語
+
+InsuranceFrom Risk to Opportunity: Redefining Insurance through AI
+
+October 2024
+
+6 mins read
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Generative AI is reshaping both our professional and personal lives. In the insurance industry, it offers a unique opportunity to enhance efficiency and drive smarter decision-making. However, its true impact depends on how effectively users leverage the technology and how deeply organizations embed it into their culture for long-term success.
+
+We spoke with David Marock, Chairman of PremFina, Branchspace, and Previsico, senior advisor at McKinsey and former CEO of Charles Taylor, and a global leader with ample experience across financial services, technology and professional services, to explore the risks and opportunities of adopting AI. He shares valuable insights into how this technology is transforming culture, boosting efficiency, and shaping the future of the insurance sector.
+
+In what areas can the insurance industry benefit the most from adopting AI?
+
+Fundamentally, AI enhances decision-making—making it faster and more accurate. It can help in underwriting risks and processing claims more efficiently. Additionally, it can improve the delivery of services, making them more accurate, cost-effective, or both. Another significant potential benefit is the ability to attract more clients by identifying potential markets and pricing those segments more effectively.
+
+What about the limitations that AI have? How do they translate to the insurance industry?
+
+The limitation of AI is that it’s just as effective as the user’s knowledge and the quality of the data it processes. An uninformed user can get incorrect or irrelevant results and not even realize it. Model bias and data relevance are significant issues, and AI can only answer questions within the scope of its training data. So the industry needs to take care.
+
+In insurance, AI can impact pricing and claims settlement. If the model or data has issues, it can lead to mispricing risks or incorrect claims decisions. It might incorrectly flag a legitimate claim as fraudulent or overpay on a claim. You’re either going to charge too much, in which case people don’t buy it, or charge too little, in which case the people you wished didn’t buy, do buy it. Operational efficiency can also be affected if AI is used, without appropriate guidance and oversight, in customer service or complaints handling, potentially leading to incorrect responses. The key point is that you can’t hold AI accountable for mistakes; the ultimate responsibility still lies with the company. Just as you wouldn’t blame an individual staff member for a company’s error, you can’t blame the AI model either.
+
+Conversely, there’s also the risk of becoming so anxious about potential issues that you either avoid using AI altogether or limit its use to endless pilot projects without full implementation. This hesitation suggests that your current operations are perfect, which is rarely the case, and that you can’t introduce an AI-enabled solution until it is error-free. So, it’s important to understand what constitutes an acceptable level of risk. There are risks both in using AI, like the ones I have already described, and in not using it, such as missing out on potential efficiencies and advancements.
+
+How can companies create a culture that encourages experimenting and embracing AI?
+
+Creating a culture that supports AI innovation involves encouraging initiative, accepting errors, and learning from them. I was talking to a founder in the insurtech space the other day, and I asked, “So what happens if this particular thing goes wrong?” and she replied: “Then we’ll just redo it!” I initially thought, “that’s shocking,” but on reflection I realized that this mindset of allowing yourself and your team to make mistakes, and then learn from them, is admirable.
+
+One part of creating that culture involves having people who represent diversity, in the wider sense of that word, with different mindsets, and then foster an environment where these diverse perspectives are valued. I'm a big believer that culture is set from the top—the CEO, the executive team, the board. Leadership plays a crucial role in setting this culture by rewarding good behaviors and not punishing failures.
+
+What skills are essential for leadership teams to succeed in embracing AI?
+
+Key skills include:
+
+Leadership commitment. I worked recently with a hotel chain exploring AI adoption. The group’s owner actively promoted sessions for the leadership team to consider AI’s potential, showing genuine enthusiasm and support. A key factor isn’t just the AI model builders, but the leadership team’s commitment. Their openness, agility, and receptiveness to innovation and change are invaluable skills.
+
+Communication skills. In one of our businesses, the staff, particularly on the call center side, seem to be the most comfortable with incorporating AI, based on what I've observed across various financial services companies. To ensure excitement around AI adoption, they are actively sending out messages and communicating frequently—perhaps even over-communicating, but in a positive way—to engage everyone. They are also celebrating successes to keep the momentum going and bring people along on the journey.
+
+Another important skill is change management—that is, having change agents throughout the organization who champion these efforts. For example, in one of our businesses, every department is expected to use AI, not just a separate innovation team. The mindset is that departments must explain why they aren’t using AI, reflecting our culture and behavior. We have a new team member with AI experience and enthusiasm, and our CTO is keen on exploring new technologies. This combination, along with our CEO’s full support and expectation for action and results, drives our operational efficiency. They understand AI implementation may not be perfect initially but are committed to continuous improvement.
+
+What are your thoughts on the role of a Chief AI Officer?
+
+The effectiveness of a Chief AI Officer depends on their integration into the business. If they are well-supported and their role is aligned with the company’s strategy, they can drive meaningful change. However, if they are isolated and their initiatives are not integrated, their impact will be limited.
+
+What level of expertise should a board have on AI?
+
+I don’t think the board needs to be able to build their own AI chatbot, but they should be well-educated about AI and support its integration into all aspects of the business. They should encourage the executive team to develop and implement AI strategies that align with the company’s goals. The insurance sector has traditionally focused on risk mitigation rather than identifying opportunities. So, what’s next? There are examples of insurers who have failed by focusing too much on opportunities and neglecting risks; still, the balance tends to lean more towards risk mitigation. You need both the board and the executive team to strike the right balance.
+
+Given so much rapid change in the world of AI, how will the insurance industry be impacted within the next decade?
+
+For better or worse, I see myself as somewhat evangelical on this topic. You could argue that this enthusiasm carries its own risks, but I'm a big advocate. Over the next decade, AI will likely lead to significant material changes in the insurance industry. Companies will increasingly incorporate AI into decision-making and operational efficiency. This will impact talent, as more tasks are automated, requiring employees to adapt to new ways of working.
+
+The progression of AI capabilities will continue to transform the industry, raising bigger talent questions depending on the type of insurance. For insurers with sizeable call centers and people handling risks and queries online, much of this will be managed without human interaction.
+
+Internally, employees may also be able to self-serve more on AI-enabled services to tackle HR, IT or Finance matters. In decision-making, companies will increasingly have confidence in AI's ability to answer broker questions, handle customer queries, or do pricing on their behalf. What does this mean for pricing and underwriting teams? In all likelihood, those teams will be smaller and require different skills. Similarly, if one is running a claims team, even on the high-end, more complex side, one might need a fraction of the team because so much of the activities will be done by AI agents. So the resource implications for insurers could be transformational and companies should be preparing for this anticipated change now.
+
+Topics Related to this Article
+
+Artificial Intelligence
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Written by
+
+Stay up to date with our latest insights.
+
+Subscribe now
+
+Changing language
+
+You are switching to an alternate language version of the Egon Zehnder website. The page you are currently on does not have a translated version. If you continue, you will be taken to the alternate language home page.
+
+Continue to the                 website
+
+Back to top

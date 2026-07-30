@@ -1,0 +1,355 @@
+Board Governance and SPACs
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Board Governance and SPACs
+
+New Competition for Capital and Talent
+
+By
+
+George Anderson,
+
+Jason Baumgarten and
+
+Lauren E. Callaghan
+
+May 2021
+
+| 8 min read
+
+Authors
+
+George Anderson
+
+Boston
+
+Jason Baumgarten
+
+Seattle
+
+Lauren E. Callaghan
+
+New York
+
+SectionsIn this article
+
+Since January 2021, SPACs have raised more than $38 billion and more than 250 SPAC IPOs have come to market.1  While the pace of activity has showed signs of slowing in response to new Securities and Exchange Commission accounting guidance, 2021 is on track to shatter 2020’s record of 248 SPAC IPOs, four times the number in 2019, according to SPACInsider.
+
+The overall rise in popularity of SPACs can be attributed to the dramatic consolidation in the number of public companies, the massive growth of private investing and the fact that SPACs are more established and visible now. Currently representing 40 percent of the entire IPO market, SPACs are quickly becoming an alternative way for companies to go public, positioning them as mainstream competitors for talent and capital.
+
+This pace of SPAC activity is also redefining traditional corporate governance. Like all public companies, SPACs are required to have a corporate board with independent directors prior to filing for an IPO. And, as is the case among corporate boards, there is tremendous variation in board skills, diversity and governance practices among SPAC boards. However, the governance practices of SPAC boards tend to be less systemized, given the unique remit and short life span of a SPAC board.
+
+Experienced SPAC directors are in high demand. “I get called three times a week to serve on a SPAC board,” one director shared. Many SPAC directors today have long-term personal and professional relationships with the SPAC sponsor. Many SPAC sponsors find that they can efficiently formulate a board by leveraging existing personal networks. This approach can, in some cases, lead to reduced focus on securing racial, ethnic and gender diversity.
+
+We sat down with more than a dozen independent directors of high-profile SPACs to better understand how SPACs approach board recruitment, the responsibilities of SPAC boards, the lifecycle of a SPAC board and the most important lessons from their experience for those considering forming or joining a SPAC board.
+
+Download
+
+Download
+
+SPAC 101
+
+Special-Purpose Acquisition Companies (SPACs) have been around since 1993 and are known as “blank-check” shell companies created for the sole purpose of acquiring an unspecified target company.
+
+SPACs are created by sponsors to raise equity capital through an IPO with the goal of acquiring an operating business. They can be attractive alternatives to the traditional IPO route for several reasons:
+
+Speed: Companies can go public through a SPAC in 4 to 6 months versus 12 to 18 in a traditional IPO process
+
+Increased certainty in the financing for the target
+
+Enhanced disclosure to the board
+
+Less management diversion: Freed from the need to participate in investor roadshows, management can focus on growing the business
+
+Access to late-stage growth capital
+
+SPAC sponsors are often seasoned executives with deep experience in investing. Since a SPAC has no product or commercial operations, investors are betting on the sponsor. After the capital is raised and placed into an interest-bearing trust account, the SPAC looks to acquire an existing privately held company. The SPAC sponsor has two years to make an acquisition. If they fail to do so in the time period, the SPAC dissolves and investors’ money is returned. The SPAC’s sponsor loses whatever initial investment it had made. Acquisitions are made official upon the vote of approval from shareholders. Once the merger is complete, the new entity trades under a different name.
+
+How SPAC boards differ: oversight
+
+Most critical job
+
+SPAC Boards
+
+Approve suitable acquisition candidate within two-year time frame (extension may be granted)
+
+Must comply with all listing requirements at the time of the IPO
+
+Corporate Boards
+
+Comply with all listing exchange requirements
+
+Ensure the company has the right strategy and leadership
+
+Strategy
+
+SPAC Boards
+
+Varies, but most evaluate potential acquisition targets in addition to approving the acquisition
+
+Corporate Boards
+
+Probe, challenge, test and ultimately approve a winning strategy
+
+Capital allocation
+
+SPAC Boards
+
+Acquire the right business — may target any field or market
+
+Corporate Boards
+
+Review and assess merger and acquisition opportunities, stock buybacks and other uses of capital
+
+Risk
+
+SPAC Boards
+
+Compliance with all SEC regulations
+
+Corporate Boards
+
+Ensure risk management approach is consistent with the company’s strategy and overall risk appetite
+
+Leadership succession
+
+SPAC Boards
+
+Because of the SPAC timeframe, generally no formal CEO succession processes
+
+Corporate Boards
+
+Monitor talent development processes; ensure robust CEO succession plan in place
+
+How SPAC boards differ: structures and practices
+
+Number of independent directors
+
+SPAC Boards
+
+Required to have at least 3 at formation
+
+Corporate Boards
+
+8 to 10 (S&P 500 average board size = 10.7)
+
+Skill sets
+
+SPAC Boards
+
+Independence and financial expertise
+
+Potential to help identify and evaluate target companies
+
+Very few commonly established norms, although some prioritize specific industry expertise
+
+Corporate Boards
+
+Independence, financial expertise
+
+Commonly establish norms around a mix of CEO/general management and other former job roles, relevant industry expertise, and prior public company board expertise
+
+Diversity
+
+SPAC Boards
+
+Generally exempt from gender, ethnic and racial diversity regulations because of board size; as attention on SPACs increases, may face similar scrutiny on board diversity as corporate boards
+
+Corporate Boards
+
+Increasing investor and stakeholder scrutiny on gender, ethnic and racial diversity, and government-imposed regulations in some jurisdictions
+
+Conflicts and interlock issues
+
+SPAC Boards
+
+Should limit related relationships and transactions that may represent conflicts of interest but may be difficult to predict
+
+Corporate Boards
+
+Identifiable and carefully reviewed
+
+Time commitment
+
+SPAC Boards
+
+Widely variable, but can be very intense when vetting potential investments
+
+Corporate Boards
+
+4 to 5 long meetings a year + prep time, typically 250 to 350 hours per year
+
+Compensation
+
+SPAC Boards
+
+Pre-IPO founder shares. SPAC founder shares are converted into common shares on the day of the public offering
+
+No salary or remuneration until the business combination
+
+Corporate Boards
+
+Cash and equity, roughly 40/60 (S&P 500 average = $308,462)
+
+Length of service
+
+SPAC Boards
+
+Typically, less than 2 years; directors serve until the acquired company goes public
+
+Corporate Boards
+
+6 to 10 years (S&P 500 average board tenure = 7.9 years)
+
+Committees
+
+SPAC Boards
+
+Audit for all; some also form compensation and nominating and governance committees
+
+Corporate Boards
+
+Audit, compensation, nominating and governance
+
+Board leadership (chair, lead director, committee chairs)
+
+SPAC Boards
+
+Typically, chair/CEO, lead independent, committee chairs
+
+Corporate Boards
+
+Typically, chairman or chair/CEO, lead independent, committee chairs
+
+Disclosure and shareholder engagement
+
+SPAC Boards
+
+Select disclosures (e.g., proxy/registration statement) and financial statements generally consistent with the requirements for a traditional IPO
+
+Corporate Boards
+
+All established disclosures (e.g., 10k, 10Q, proxy statement); scheduled shareholder events, such as the annual shareholder meeting, analyst calls or public announcements
+
+Common SPAC director profiles today
+
+Most SPAC boards are formed at the onset of a SPAC’s creation after the SPAC originator commits to the necessary sponsor capital. SPAC boards are usually formed rapidly and well before the SPAC’s IPO, given that having a board is legally required and because the board can be helpful in sourcing acquisition targets and attracting follow-on capital. There is often enormous time pressure to build a board — in many cases, weeks or at most a few months.
+
+You may also like:
+
+Achieving Diversity in Private Equity
+
+Leading figures from some of the top limited partners in private equity share their thoughts on increasing diversity in the industry.
+
+SPAC boards are required to have at least three independent directors. SPAC directors tend to come from a wide range of functional backgrounds. They are typically recruited for specific industry expertise or financial acumen that will help the SPAC successfully secure a target company. Sometimes directors have a pre-existing relationship with the SPAC sponsor. Most important is the bandwidth and capacity to prioritize SPAC activities as the pace can be demanding. However, while some sponsors seek directors with deep, specific knowledge of the relevant industry sector, others prioritize private equity or banking expertise, and many are still quite industry-agnostic. Among executives considering SPAC board opportunities, some view SPAC boards as potential vehicles to a new CEO role, much as executives have historically viewed PE advisory roles as a pathway to a new operating role.
+
+At the time of a SPAC’s formation, its prospectus must include an acquisition strategy. This strategy tends to be broad enough to pursue a range of target companies across many sectors. largely because many sponsors are not certain which industry they will target. “You can write something broad in the S-1 and can deviate from it. So, it is best to just stay open minded,” one director advised.
+
+As a result, most sponsors we talked to recommend keeping an open mind about director backgrounds upfront. In general, SPAC sponsors prioritize potential directors’ professional networks and reputation, given the influence that the board can have in supporting deal sourcing. They may also solicit entrepreneurs and CEOs as board members, whose expertise may be attractive to potential company targets in an increasingly crowded SPAC market. This broad target does make a SPAC riskier for an executive with a full-time operating role as conflicts of interest are harder to predict.
+
+Like boards of other public companies, SPAC boards must form an audit committee. However, unlike other public company boards, little time is spent in formal committees. The audit committee has the most responsibility because (1) the only asset in the SPAC at the outset is cash; and (2) SEC filings need appropriate oversight.
+
+What is the role of a SPAC director?
+
+SPACs vary on the degree to which their directors are involved in the deal-hunting process. For some, once a pipeline of opportunities is established, the board plays a significant role in evaluating targets. In other cases, directors contribute ideas and solicit companies for the pipeline. One director described the process he has experienced as follows: “Everyone on the board contributed names of potential targets. We started with an incredibly long list of targets, and we hired three investment bankers to help us funnel the list down to about 300 that we then seriously considered.” Typically, sponsors that closely involve directors in the deal-sourcing process are those that recruited board directors with specific industry knowledge. In these cases, we find industry-specific expertise proves beneficial once a transaction closes and directors may bring significant value in an outside advisory role to the target company’s management team.
+
+Alternatively, other SPAC sponsors bring together a high-profile board simply for its brand power. These directors may stay out of the sourcing and deal-vetting processes until an acquisition is a near fait accompli. In these cases, the SPAC sponsor likely already has an experienced and involved deal team that drives the decision-making process around a transaction, and a star-studded board is a differentiator to win the deal.
+
+The brand power of the SPAC board and management team has become more important in recent years as competition for deals has grown. As more SPACs form, target companies have become more selective when choosing a SPAC as a partner for going public. “SPAC offs” have become increasingly common and, as a result, the optics of board membership have become more important in attracting sought-after targets. The caliber of a SPAC’s board, paired with the reputation of the sponsor, can give target company leadership comfort that they are going with an established, experienced group bringing an extensive network of experts/advisers across their space, one director commented.
+
+Given the goal of a SPAC is to find a target company within a two-year time frame, the time commitment for SPAC board service tends to be fast and furious when a strong target is identified, although the overall time demands are much more modest than for a public company board. “We created a SPAC in March 2019, and the time from announcement to acquisition was exactly five months. It took us two months to get ready for the SPAC IPO,” one director said. Given the potential for a brief but intense spike in meetings (up to four meetings a week for some boards) and the potential for conflicts of interest with broadly defined target sectors, most SPAC directors are not active operating executives, with many serving on other corporate boards or advisory roles. Increasingly SPAC board members are “SPAC-monogamous,” as sponsors are asking board directors to only sit on one SPAC board.
+
+What is the role of directors once an acquisition is made? The official responsibilities of the SPAC board end. However, SPACs are structured in a way that incentivizes board directors to remain active to support the growth of the business and increase the value of the shares even when their official board responsibilities conclude. The typical lock-up period for SPAC IPOs lasts from 180 days to one year from the closing of the de-SPAC transaction.2  “Essentially, we are on speed dial for them to call us. They can’t tell us inside information, but they can call and ask for characteristics they should look for in, say, their next head of manufacturing,” one director explained. When a specific director may be able to add invaluable expertise to the acquired company or bring needed public company experience, some SPACs elect for a director to stay on as an official independent director on the acquired company’s board. Typically, no more than one SPAC director rolls onto the new entity’s board in an official capacity, and even that is not common. However, directors have a vested interest in the asset and thus often opt to serve as unofficial advisers.
+
+Looking ahead: governance trends for SPAC boards
+
+As SPACs continue to increase in popularity, we predict it is only a matter of time before scrutiny increases on SPAC board governance and director backgrounds, including areas such as diversity and director independence.
+
+Already, SPACs are facing Increasing scrutiny from the SEC, which recently announced that accounting guidance that will classify SPAC warrants as liabilities, rather than equity instruments. Should this guidance turn into law, both existing SPACs and new SPACs will need to calculate their warrant value on a quarterly basis and reflect this in 10-K and 10-Q statements. This could add a significant layer of time and cost, which was not previously anticipated by SPAC investors.
+
+You may also like:
+
+Board Governance Trends: A Global View
+
+Spencer Stuart has long played an active role in corporate governance by exploring key concerns of boards and innovative solutions to the challenges they face.
+
+SPAC boards, in theory, should be the most diverse boards, given the nature of their responsibilities and the flexibility sponsors have in recruiting directors from various backgrounds, industries and skill sets. There is real upside for sponsors going outside their network to recruit; in particular, having diversity of thought on the board may enhance the sponsor’s ability to identify and attract the right target organization. As competition for SPAC target investments grows, target companies will want to work with SPACs with diverse, well-connected boards who can serve as informal advisers once the company is public. Rather than long-standing industry contacts or friends of the SPAC sponsors, target company management may prioritize active or recently retired operators who can help them gain traction quickly.
+
+Going forward, we expect SPAC boards will prioritize director backgrounds and expertise in the following four areas:
+
+The ability to assess a market, business and team
+
+Individual network and personal brand reputation
+
+Personal integrity and character
+
+True independence to protect shareholders
+
+Interested in serving on a SPAC board? Considerations for directors
+
+As a SPAC director, you may be investing risk capital, but you will also invest reputational capital. You will be committing to a public company board role and, thus, SEC over-boarding rules do apply — prohibiting you from serving on another public board if you are currently an operator at a public company. When you look at the sheer number of SPACs being raised, it is difficult to imagine that even a majority will be able to close transactions, so individuals or groups putting up the sponsor equity are bearing some risk. Of course, even if a deal is closed, there is a risk that the target company wasn’t able to be successful in the public market and struggles with its newfound responsibilities as a public company.
+
+Therefore, directors will want to carefully consider the track record and dynamics of the SPAC sponsor(s). It is important for directors to align with a sponsor they believe has a strong relationship with institutional investors and will be able to successfully raise a PIPE (private investment in public equity) after the SPAC transaction. A PIPE provides additional proceeds beyond the cash in the trust from the SPAC. It can also help validate the investment. Without it, the deal is not going anywhere. Experienced SPAC directors also say it is important to understand whether the SPAC sponsors have worked together in the past — not just that they are friends. “The one thing I learned in my private equity business is that it doesn’t matter what the track record of someone is if you don’t understand what the chemistry and culture of that investing partnership is,” said one director, adding, “One of the things that made me very comfortable was the fact that the founding sponsors had raised money and done several SPAC deals together prior to inviting me to join the board.” Finally, many SPAC sponsors have multiple responsibilities but your responsibility as a SPAC director will be to your specific SPAC.
+
+For most, joining a SPAC board is a positive, additive career experience. Those interested in pursuing a corporate board portfolio should carefully evaluate the decision to serve as a SPAC director. Some public company boards are not keen on directors concurrently serving on SPAC and public company boards. There is also some view that governance standards can vary widely amongst SPACs, just as it can on public company boards.
+
+Similarly, experienced directors advise conducting thorough due diligence on the management team of the SPAC sponsor group that will be sourcing the deals. “This field is quite crowded and there is going to be some wreckage coming sooner rather than later, so you really want to partner with folks of high integrity,” one director told us. Said another, “As a board member, you need to be very mindful of who you are affiliating yourself with. You should ask yourself if joining is a net add for you in the first place because not all of them will be successful, and you risk losing your equity capital (if you contributed) as well as the reputational damage of being involved in a failure.”
+
+* * *
+
+The rise of SPACs as an alternative path to a traditional IPO suggests that they represent a possible systemic change. With more money flowing into these deals and increased attention on the SPAC model, SPACs are likely to face increased scrutiny on the makeup of their boards. By expanding beyond their traditional networks, SPAC sponsors can build diverse, well-connected boards that enhance their ability to attract the right target company for investment and differentiate themselves in an increasingly crowded market.
+
+Interviewees + SPAC affiliations
+
+Scott Delman
+Diamond Eagle Acquisition Corp. (Acquired DraftKings)
+Flying Eagle (Acquired Skillz)
+
+Alan Masarek
+Virtuoso Acquisition Corp.
+
+Tom Neff (consultant, Spencer Stuart)
+Atlantic Avenue Acquisition Corp.
+
+Mark Pincus
+Reinvent Technology Partners
+Reinvent Technology Partners Z
+
+Jackie Reses
+Pershing Square Tontine Holdings
+Social Capital Hedosophia (Acquired Virgin Galactic)
+Social Capital Hedosophia III
+
+Brock Strasbourger
+Ventoux Acquisition Corp.
+
+Dr. Kneeland Youngblood
+TPG Pace Holdings (Acquired Accel Entertainment)
+TPG Pace Beneficial II Corp.
+TPG Pace Solutions Corp.
+TPG Pace Beneficial Finance Corp.
+TPG Pace Tech Opportunities Corp.
+
+1Data from SPACInsider shows that through April 28, 2021, 308 SPAC IPOs had come to market. Furthermore, SPACs have already raised more than
+$87.9 billion in 2021 (as of March 19, 2021) according to SPAC Research. In 2020, 248 SPACs had initial public offerings and in 2019 there were 49 IPOs.
+
+2Harvard Law School. “Special Purpose Acquisition Companies: An Introduction, https://corpgov.law.harvard.edu/2018/07/06/special-purpose-acquisition-companies-an-introduction/.”
+
+Authors
+
+George Anderson
+
+Boston
+
+Jason Baumgarten
+
+Seattle
+
+Lauren E. Callaghan
+
+New York

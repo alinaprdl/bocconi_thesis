@@ -1,0 +1,169 @@
+What’s in store for retailers and AI?
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+What’s in store for retailers and AI?
+
+By
+
+Veena Marr
+
+June 2024
+
+| 7 min read
+
+Author
+
+Veena Marr
+
+London
+
+SectionsIn this article
+
+Key findings
+
+Although retail leaders have long used AI in their supply chains and in store, Generative AI is ushering a new and exciting era for customers and retailers alike.
+
+But with the playbook undergoing multiple rewrites, there is no user-guide for them to follow and identifying the right approach remains a work in progress.
+
+AI can be a transformative long-term force for retailers and customers but it will take a village for its full potential to be harnessed.
+
+What was the last item you bought?
+
+It doesn’t matter whether it was food from your local supermarket, some clothes or some hardware, something for the garden or a newspaper from your corner store, artificial intelligence (AI) would have been involved somewhere along the supply chain and customer transaction.
+
+Perhaps this should not be surprising. AI has long since taken root in our everyday life. We may not see it but it is there. Accepted. Expected.
+
+This technology now looms large in our conversations with CEOs, board members, digital leaders and almost everyone we speak with. Retail leaders, like their counterparts in every other industry, would be remiss if they were not seeking to use it to maximise efficiencies, win market share and boost their bottom line.
+
+Much of the focus is on their stock; retailers can use AI for automated inventory management. It can be deployed to forecast demand, help make pricing decisions and ensure the right products are in the right place in store. AI can also be used in areas such as cashierless checkouts, personalised customer recommendations and logistics optimisation — the list goes on.
+
+Download
+
+Download
+
+These applications are only going to accelerate given the explosive impact of generative AI (GenAI), which is quickly uprooting old assumptions and rendering processes obsolete. At the same time, its pervasive impact means that it is reshaping conversations from the boardroom to the kitchen table.
+
+Perhaps one would expect AI to be a topic in the working world but you now also overhear it in the airport or in restaurant conversations, in television dramas and across social media. It’s a topic you discuss with your friends over a weekend coffee, or even with your kids — my 13-year old son thinks it’s “cool” that AI is something I work on.
+
+This all means that AI is no longer remote, the stuff of the lab or science fiction. It is now very real, a dominant topic of conversation in the working world, and its implications are profound for everyone, retailers included.
+
+The impact of AI on retail
+
+Against this rapidly changing context, and the seemingly endless list of emerging tools, retail leaders could be forgiven for being unsure about how to make the right AI choices for their organisation. With the playbook undergoing multiple rewrites, there is no user-guide or map for them to follow, no set of easy to follow instructions. Knowing what is right for their culture, their customers and their ambitions for the future remains open to question.
+
+Quote
+
+AI is a transformative force which is going to change every industry.”
+
+DEVESH MISHRA
+
+PRESIDENT AND CHIEF PRODUCT AND TECHNOLOGY OFFICER OF CORE AI,
+KEYSTONE
+
+At the same time, they are also awash in exciting opportunities, so much so that today they find themselves in a “golden age” of AI, according to Devesh Mishra, president and chief product and technology officer of Core AI at Keystone, and former vice president of global supply chain at Amazon.
+
+“AI is a transformative force which is going to change every industry,” he said. “There has been huge progress on the raw processing power of chips, as well as a lot of innovation around hardware and the use of cloud technology to democratise computing and storage power. The result has been a million-fold increase in applications’ processing power. That’s why I say it is ‘a golden age’ for AI.”
+
+A good example of how retailers are taking advantage of these opportunities is how some of them are using this technology to turn product description into customer conversion, according to Eric Chemouny, managing director, retail and CPG industries across EMEA at Google Cloud.
+
+“As a consumer, if I search for a product and its description is not correct I will have some doubts and will not buy it,” he said. “So if AI is being used as a base of conversational commerce, to harmonise and improve the product description, retailers can strengthen conversion rates and increase customer loyalty."
+
+It’s not just in store where AI can play a pivotal role in optimising efficiencies and productivity, he adds, it also offers huge potential in the back office as well. “Retailers have a lot of suppliers and they can use GenAI to search through their contract library to find the right information to go on an RFP, for example,” he said.
+
+Placing ethics front and centre
+
+When confronted by the sheer pace at which AI is now moving, leaders, including those in the retail industry, are often worried about taking too long to make decisions and being left behind by their competitors. But they also have to balance the need for speed with harnessing the technology in a way that is responsible to their customers. Striking the right balance is no small feat.
+
+Quote
+
+GenAI is very powerful and definitely not hype.”
+
+DR. NOZHA BOUJEMAA
+
+GLOBAL VP, AI INNOVATION AND TRUST,
+DECATHLON DIGITAL
+
+Dr. Nozha Boujemaa, global VP, AI Innovation and Trust at Decathlon Digital, says it all comes down to marrying innovation and trust. “GenAI is very powerful and definitely not hype,” she said. “Let me quote Spiderman who said ‘with more power comes more responsibility’. And so for very impactful and powerful technologies we need at the same time to have the appropriate safeguards.”
+
+Asked what these safeguards might look like for retailers, she cited an example from Decathlon, where they are able to connect a customer and product without knowing the customer’s personal information.
+
+“We are able to personalise customers’ search based on recommendations and it really is a gamechanger,” she said. “The technology allows us to explain why the product has been recommended so it is really about sport experience storytelling with an ethical dimension. It is fundamentally human-centric.”
+
+Devesh Mishra agrees that taking a human-centric approach is critical, explaining that it was one of the factors that enabled Amazon to grow and scale. “The vision we had was called ‘Hands off the Wheel’ and it was about creating a human-centric AI platform which would automatically start making a lot of decisions for Amazon in collaboration with the human.”
+
+He goes on to describe the process as “a symphony,” one where humans, algorithms and robots come together to create a richly enhanced customer experience. “The AI started acting as the conductor and what I mean by that is it started using millions of pieces of data to start predicting what the customer wants, how much they want and when they need it,” he said.
+
+“And then it started using the whole logistics network of robots and humans to provide a fantastic customer experience. As we started doing this journey, humans were able to stop doing mundane activities and instead work on new business ideas, on auditing and new business development ideas.”
+
+Talent hunt
+
+As the ripples of AI spread through any organisation, the leadership challenge takes on many forms, in part due to the number of teams which will be impacted by its new-found prevalence.
+
+Quote
+
+The more people who are trained about what and how to do with AI, the better the impact that will be reached.”
+
+ERIC CHEMOUNY
+
+MANAGING DIRECTOR, RETAIL AND CPG INDUSTRIES ACROSS EMEA, GOOGLE CLOUD
+
+Of course, engineers and technologists will be vital but so, too, will be those from beyond the scientific sphere. Legal scholars, intellectual property specialists, and data privacy experts, for example, will all be needed — it takes a village to do it in the right way. Bringing together the right combination of talent will help retailers do the fundamentals well, such as developing a strong data platform.
+
+“I’ve seen so many retailers trying things here and there without having the potential impact because they were not able to build a solid, secured and unified data platform,” said Eric Chemouny. “The platform delivers data security because using the wrong data to build AI models could impact a brand’s reputation. Leaders need to take some time to think about the kind of impact they want to have and then to deliver projects at scale.”
+
+So, how can retailers go about identifying the talent they need? What are some of the traits and experiences they are looking for? Nozha Boujemaa firmly believes that interdisciplinary skills are essential. “In the AI universe we need to have social scientists,” she said. “It is about providing solutions that help the user and so in terms of skills, we need to look for more than data scientists.”
+
+Eric Chemouny also believes that talent has a key role to play in any AI transformation. “The more people who are trained about what and how to do with AI, the better the impact that will be reached,” he said. Retailers should not focus on comparing models but on defining the impact they are aiming for, such as increased workforce efficiency, more agile operations and increased consumer conversion.”
+
+Identifying leaders in this new world
+
+So what does this all mean for leaders? How should they adapt their style and approach to the role when AI advances are ricocheting towards them in every direction? Yes, the potential is enormously exciting but there are risks, too, and navigating this uncertain terrain is far from straightforward.
+
+Leaders will only achieve positive results if they avoid treating it as humans versus machines, according to Devesh Mishra. “It’s humans plus machines and building an ecosystem which blends the creativity of humans and then leverages the computing power of software to drive it faster and faster,” he said. “It is not a Band Aid either. It has the ability to completely transform operations and so you have to think about that as a platform; having a long-term view about that is super important.”
+
+He goes on to say that getting the culture right is vital. “AI is going to make mistakes, it’s going to be wrong on occasion,” he said. “So creating a culture where any new mistakes are a stepping stone towards improvement is an important fundamental shift that companies have to make. Partly this comes down to auditability. Humans are great at auditing things and it is very important that AI systems are designed to be open and transparent for people to audit so they can then improve.”
+
+Upping their game
+
+While there are abundant examples of retailers around the world using AI to their great advantage, the fact that this is very much an ongoing process means that there will always be new avenues to pursue, fresh opportunities to seize and improvements to be made.
+
+Doing so requires leaders to think differently, according to Devesh Mishra, who believes there needs to be a “paradigm shift” in their mindset and approach. “Leading with AI means being visionary, patient, and responsible, focusing on long-term strategies that integrate AI into the heart of your business,” he said.
+
+“AI is not a quick fix, but a transformative force. It should be part of a comprehensive strategy that transforms your entire operation, not just individual tasks. There isn’t a ‘one and done’ solution. It’s about long-term, systemic solutions to core challenges rather than quick-win, short-term fixes for symptoms of bigger issues. But as we integrate AI into our organisations, ethical considerations are paramount. Transparency, fairness, and accountability should guide AI development and deployment.”
+
+Eric Chemouny believes that fully reaping this technology’s benefits starts with the right level of preparation. “Many retailers are testing AI without having decided on a real roadmap and this makes it harder to measure success,” he said.
+
+The good news, he adds, is that thousands of use cases already exist. “Retailers should select those that solve their challenges and raise the bar to solve even more complex ones,” he said. “Those which achieve impact need to scale fast and not go on testing and testing — it’s a race after all!”
+
+Whether it is viewed as a marathon or a sprint, there is little doubt that the starting gun has well and truly been fired. While there will no doubt be obstacles to traverse, AI’s exciting potential will help ensure that retail will continue to evolve anew — and both customers and the retailers themselves stand to benefit.
+
+Author
+
+Veena Marr
+
+London
+
+Related Insights
+
+In conversation with Stuart Rose
+
+5 min read
+
+AI, sustainability and high performance in retail are just some of the topics in this new Q&A with Lord Stuart Rose, Chair of Asda, EG Group and Zenith Automotive.
+
+A new playbook for high-performing retail CEOs
+
+7 min read
+
+The concept of a high-performing retail CEO is evolving as the business environment becomes more complex. What will it take to succeed going forward?
+
+Great leadership is about how you make people feel
+
+2 min read
+
+Sally Elliott explains why operating under intense scrutiny while still treating others with respect and humanity is the mark of a fine leader.

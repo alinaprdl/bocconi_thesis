@@ -1,0 +1,140 @@
+CMOs: The New Vanguards of Innovation
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Perspective|March 10, 2025
+
+CMOs: The New Vanguards of Innovation
+
+CMOs, far from being de-emphasized, are taking on an increasing scope of responsibility that includes technology decisions and investments that drive overall business growth.
+
+The problem: Conventional wisdom that the CMO role is declining in importance belies the fact that the role is a more integral part of leadership than ever before.
+
+Why it matters: CMOs are being looked at to drive technological innovation and digital transformation in critically important areas like AI and predictive analytics.
+
+The solution: High-functioning firms are fostering strong collaboration between finance, sales, IT, and marketing to drive change across the enterprise and achieve strategic business goals.
+
+When Peter Scherr first got into marketing, rising to be the CMO of a big global brand seemed out of reach. After all, his expertise was on the digital side, which (like a lot of functions at the time) was considered a separate organ and not really part of marketing’s central nervous system. Back then, it was all about building brands with big, creative ideas.
+
+But as the media landscape changed and digital began to devour traditional marketing functions from the inside out—and technology writ large began to do the same throughout the entire organization—Scherr noticed people began to look at him differently. The more digital marketing became just marketing, the more becoming a CMO seemed within reach. “The way I rose to be CMO happened the reverse of how it traditionally does. I came up on the digital side and then learned brand building; it used to be the opposite,” says Scherr, who got his first CMO role ten years ago and currently holds that position at high-growth digital health and wellness company Noom.
+
+“CMOs are now being looked at to drive technological innovation beyond marketing to the entire organization.”
+
+Scherr’s trajectory mirrors the evolution of the CMO role over the last decade, during which the prevalent narrative that the role is an expendable part of the C-suite has become increasingly inaccurate. (It’s true only for a certain type of CMO, namely the traditional type who has lived on brand building alone.) The role of the CMO is—if anything—expanding to become an even more integral part of organizational leadership, particularly as it relates to innovation and digital transformation, says Matthew Siegel, a principal in the Technology and Marketing practices at Korn Ferry. “CMOs are at the vanguard of change at many organizations,” he says, “with an increasing scope of responsibility that includes technology decisions and investment.”
+
+Think about it: CMOs are among the earliest adopters in most organizations, developing sophisticated analytics platforms that capture massive amounts of customer data that can inform decision-making and drive growth across the organization. That perspective will only become more valuable as AI and predictive-analytics usage grows. “CMOs are now being looked at to drive technological innovation beyond marketing to the entire organization,” says Siegel.
+
+There will always be a need and place for traditional creative and brand building to drive awareness, of course. But the CMOs of today—and, more importantly, tomorrow—will need to master those skills and marry them with deep technological integration. It won’t be easy. Many CFOs still see marketing as a cost center, one they often turn to first when they’re making layoffs or budget cuts. As CMOs get more involved in technology investments, tensions are sure to arise with CTOs and CIOs, who typically own those decisions. And then there’s the matter of finding talent with the right blend of leadership, traditional marketing acumen, digital skills, and strategic vision that the CMO roles of the future will require.
+
+* * * * *
+
+In high-functioning companies, CMOs work closely with CTOs not only to implement tools and platforms for marketing, but also to ensure they can be integrated—or at least don’t conflict—with broader, enterprise-wide applications. The problem is that most companies aren’t high-functioning. “As marketing comes together with sales and technology, the question of who owns tech decisions is going to be a tension point,” says Daniel Salzman, an independent marketing consultant and former Global Head of HP Workforce Solutions Marketing.
+
+Historically, marketing hasn’t had a strong voice in tech decisions, says Salzman, in part because it didn’t have the talent in place to understand and communicate how marketing technology tied into other parts of the business. He says CMOs made the mistake of ceding decision-making and management of marketing technology, known in industry parlance as “martech,” to corporate IT.
+
+“As marketing comes together with sales and technology, the question of who owns tech decisions is going to be a tension point.”
+
+But that is starting to change. Three-quarters of marketers now believe that mastering martech is critical to achieving business goals, and that managing the tech stack—which includes customer relationship and content management platforms, social media, programmatic automation, and more—should reside within the function. For this very purpose, forward-thinking companies like DirecTV have hired martech leaders and created martech centers of excellence within their marketing departments. “We needed to invest and engage with our IT team in a more modern way,” says DirecTV CMO Vince Torres.
+
+As AI gets more pervasive, some companies are creating counsels and advisory committees comprised of the CEO, CFO, CTO, and—underscoring the importance of martech to business growth—the CMO to evaluate applications for enterprise-wide use, says Peri Hansen, leader of the Consumer Products sector and Marketing Officers practice in North America for Korn Ferry. “It speaks to how companies are looking for a different type of marketer,” says Hansen, “one with a broader lens on the business who understands how marketing, finance, technology, and sales all come together.”
+
+5 Traits of the Technological CMO
+
+CMOs are becoming an even more integral part of organizational leadership, particularly as it relates to innovation and digital transformation.Here are 5 traits common to tech-driven CMOs.
+
+Data Devotees
+
+AI, predictive analytics, and more serve as the foundation for decision-making, generating insights to optimize campaigns and grow ROI.
+
+Martech Masters
+
+Seventy-five percent of CMOs believe mastering martech is critical to achieving business goals, and more of them are moving to own and manage the tech stack separate from IT.
+
+Strategic Shapeshifters
+
+Underscoring the importance of marketing to overall business growth and objectives, more CMOs are reporting to—or being appointed as—CEOs.
+
+Innovation Influencers
+
+Best-in-class CMOs serve as change agents for the entire enterprise, fostering experimentation and innovation by breaking down silos and being more vocal business leaders.
+
+Experience Evangelists
+
+The importance of experience in personalization and customization the CMOs of tomorrow must represent the voice of the customer across sales, products, services and more.
+
+As tech investments account for an ever-larger share of corporate capital expenditures, a CMO may need to argue their case first to their CTO (that the firm should deploy a particular application, for instance), then to their CFO (that the expense is worth it). Doing that has historically been a challenge, however, in part because CFOs don’t understand the language of marketing. A recent LinkedIn survey found that 90 percent of marketers believe their budgets are restricted because CFOs don’t comprehend the returns generated from marketing investments.
+
+Data and analytics like sales-conversion rates and other revenue-generating insights are helping CMOs demonstrate the value of marketing investment on a daily or weekly—instead of monthly or quarterly—basis. Now, instead of committing a certain amount and projecting potential revenue, models can be built in reverse, by setting a certain revenue target and adjusting investment to meet it. The flip side of that, however, is that CFOs expect more revenue generation from marketing more quickly. Three-quarters of marketers in the LinkedIn survey say they feel pressure to demonstrate greater short-term ROI. “It’s more coin-operated now,” says Salzman. “CFOs know that if they put this much in, they will get this much out. That makes them more interested in what CMOs are building from a technical and growth standpoint.”
+
+* * * * *
+
+One way to tell that CMOs have been elevated instead of de-emphasized is by looking at an org chart. In the past, when marketing was viewed as a purely operational function, they reported to the CFO or COO. But as marketing evolved to become more strategic, more and more CMOs began reporting directly to the CEO: Surveys show that nearly 60% of them currently do so, for instance. Even more telling, a trend is developing in which CMOs themselves become CEOs, with at least five being appointed to the top role last year alone. “CMOs are evolving from a spoke of the C-suite to the hub,” says Siegel.
+
+The tech-driven nature of marketing is part of why CMOs have risen in stature in the C-suite, but it’s not the only reason. The fickleness of the modern customer also plays a major role. Their constantly changing behaviors and ever more demanding expectations, along with the fragmentation of media channels, make finding and selling to them a game of whack-a-mole. As a result, CMOs are increasingly involved in sales, product development, pricing, market expansion, and other strategic decisions not previously within their purview.
+
+“CMOs are evolving from a spoke of the C-suite to the hub.”
+
+Take Lea Stendahl, for example. In her current role as CMO of digital alternative-investment platform Yieldstreet, Stendahl leads an enterprise operating committee that includes members from the investments, technology, product, and growth teams. “In most of my roles, marketing has been recognized as a key growth driver of the business instead of a cost center,” says Stendahl, who has reported directly to the CEO in two of her three CMO roles. While her experience is more typical of CMOs at early-stage startups with rapid growth mandates, it is becoming more common at larger, more established brands that are battling for customers with—and often losing to—those very companies.
+
+Perhaps the biggest challenge for the CMOs of tomorrow is to develop leadership capabilities and agile teams commensurate with the role’s more expansive mandate. On the leadership side, Hansen says CMOs need to switch their mindset: rather than thinking about marketing success, she says, they need to consider what the CEO and board view as business success. It’s also critical for them—as new, or at least more prominent, voices in the C-suite—to hone their soft skills and learn the subtle art of how to influence people. “Strike a balance between being a learner of other functions and a teacher of yours,” she says.
+
+When it comes to talent, CMOs place an extremely high premium on strategic thinking, which only underscores the broader need for a pipeline of business—as opposed to marketing—leaders. Strategic thinking is also one of the most difficult qualities to find: In previous Korn Ferry research, CMOs cited it as the most significant capability gap in the marketing function. Noom’s Scherr says he also looks for talent with a blend of traditional skills and future capabilities. That includes a mix of creative vision and technological know-how. “You need to have a blend of art and science,” Scherr says. “You can’t be great at one and subpar at another, because then nothing will work.”
+
+For more information, contact Matthew Siegel at matthew.siegel@kornferry.com or Peri Hansen at peri.hansen@kornferry.com.
+
+Our Expert
+
+Our Experts
+
+Matthew Siegel
+Principal, Global Technology, Marketing Officers, Board & CEO
+
+Peri Hansen
+Senior Client Partner, Sector Leader, Consumer Products, North America, Leader, Marketing Officers Practice, North America
+
+INSIGHTS TO YOUR INBOX
+
+Stay on top of the latest leadership news with This Week in Leadership—delivered weekly and straight to your inbox.
+
+​
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Perspectives
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

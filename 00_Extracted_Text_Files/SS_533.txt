@@ -1,0 +1,147 @@
+The Data and Analytics Leader: Your Competitive Advantage
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+The Data and Analytics Leader: Your Competitive Advantage
+
+By
+
+Charlie Stack
+
+June 2019
+
+| 9 min read
+
+Author
+
+Charlie Stack
+
+New York
+
+SectionsIn this article
+
+The corporate world is undergoing monumental change. Commerce is more competitive and global than ever and businesses need to pursue every advantage to win customers, optimize operations, and build new products and services. Strategy cycle times of three to five years have shrunk to just 12-18 months. The pace of change means that long-range planning is increasingly difficult — and risky.
+
+Leaders must draw upon everything they know to point an enterprise in the right direction — and to react quickly and nimbly when assumptions change. This new approach is as fundamental as it is radical. It is based on one deceptively simple question: what does the data tell us to do?
+
+Organizations have always used data to help inform decisions, of course. Every board pack contains data in the form of market analysis or customer insight, but the scale of impact and depth of analysis is increasing exponentially.
+
+The availability and value of data now extends beyond the C-suite into the hands of managers and workers who are using data routinely to drive better experiences for customers and increase opportunities for sales. But how effective those teams are will largely depend on the quality of data and analytics leadership in the organization. Over the past five years, Spencer Stuart has seen a 320% increase in hiring activity in the data and analytics domain, with no sign of the demand for talent decreasing.
+
+Lessons from the great early adopters
+
+The current trend towards data-oriented business models is founded in part on the success of early adopters. Amazon, for example, is famously data-driven; few decisions are made without the supporting page of evidence-based customer insight. And in part the shift is driven too by the ubiquity of tools for processing vast amounts of data in novel ways. The combination of cloud computing and the open source movement has put astonishingly powerful and inexpensive toolkits in the hands of businesses, allowing broad adoption and cost-effective experimentation.
+
+Other factors propel the trend even further and faster. Customer expectations are driving momentum for change. GenZ and millennials are happy to share their data, provided they receive benefits in the form of personalized offers, tailored products and more — something organizations can achieve only by using all of the data they have on customers and products in near-real time.
+
+Facebook, Google, Amazon, Uber, Stitch Fix, Airbnb and others have paved the way for this new data use paradigm, building a variety of business models driven by the latent value of data assets. Companies including Netflix, Salesforce, and Workday have retooled their existing entertainment, software and services businesses, daring not just to invest in the trend, but also to completely overhaul their business models and re-architect their platforms around the value of data.
+
+Catch-up means some pain, all gain
+
+However, not every business is in a position easily to re-invent itself. Digital natives are a step ahead on data because they have already architected their systems with access to the data. Traditional businesses face the extreme change management challenge of playing catch-up during a period of revolutionary transition: each process and decision-making mechanism will change and each employee will have to relearn how to do their job. Businesses trying to catch up will need to:
+
+acquire new math and engineering skill sets
+
+open up and normalize using data assets to enable business decisions
+
+create an agile IT organization to move more quickly
+
+transform their culture with a greater orientation towards learning, flexibility, and agility in order to create better products and services for customers.
+
+Attempting to put in place even one of these elements in isolation requires significant effort; doing so in parallel is enormously difficult, but it is essential.
+
+A new kind of leader
+
+Companies have struggled to navigate these changes without the vision and orchestration of leaders with enterprise-wide reach and direct influence on corporate strategy.
+
+While there are differences in the strategic value and utilization of data across and within industries and sectors, there are almost no examples of success stories where delivering a modern data and analytics agenda is treated as an isolated experiment outside the core business. In the coming decade, the winners will be those businesses that fully embrace a spirit of data-driven experimentation in a way that permeates all elements, from product development, sales/marketing, and the customer experience, to the supply chain and employee development.
+
+Every employee must embrace and take ownership of the transition into a data culture, but to achieve lasting success in this transformation there must be visionary leadership and strong coordination from the center. Without it, companies may invest and even make short-term progress, but in the long run are likely to fall even further behind. This is because they will generate more complexity through a tidal wave of half-baked one-off experiments, technologies, and standards.
+
+The challenge of finding an exceptional chief data and analytics officer begins with buy-in at the board and the C-suite level, alongside the creation of an organizational and reporting structure that will set the new leader up for success.
+
+Non-linear is the new normal
+
+Candidates with experience of several disciplines will be preferred because the change journey demands someone with a nuanced understanding of strategy, mathematics and engineering, in addition to outstanding leadership qualities.
+
+We speak with many engineers who studied math in college, or MBAs who have learned how to code at the leading edge of data/analytics. The most compelling career trajectories tend to be non-linear, involving a shift across industries and time spent in different functions such as risk, technology, operations, or marketing. Such candidates have learned to apply analytics-driven insights to a variety of different business problems and have experimented with a range of different tools and technologies to improve results.
+
+Data and analytics leadership: how to avoid the pitfalls
+
+There are a number of successful paths to data transformation, but there are also many obvious pitfalls. Many companies try the low-risk option and fail, dipping a toe in the water rather than fully embracing the imperative of creating a data-driven business. This plays out in the following scenarios:
+
+Don't prioritize hiring a visionary data scientist into the top role
+
+While it is possible that a candidate at the forefront of technical proficiency will also have great strategy and leadership talents, this combination of skills is actually quite rare. Our experience is that without the leadership gravitas or experience to drive organizational change through others, the subject matter expert is likely to do little more than tinker on the margins, working alongside a small team of data scientists and engineers and pointing to the delivery of a new recommendation engine or some other gizmo as proof of success. Short-term gains in this scenario are common (often seen in marketing, customer service, or e-commerce verticals), but such gains tend to be hard to scale or sustain. Indeed, they may become just another one-off solution or tool that someone has to support, adding to the organizational gridlock. Your top leader needs to have domain depth, but not on the leading edge.
+
+Don't put the role too far down the organization
+
+We sometimes see the data and analytics leader not being given access to strategy development and the broader change management agenda. This is often seen when the leader concerned is attached to technology, marketing, finance, or risk functions. Instead of being given a remit that spans business units, their access and influence is limited to the functional area to which they are most closely aligned. As a result, their vision and the message they wish to carry gets diluted by more senior leaders with bigger priorities concerning the corporate strategy and change management agenda.
+
+Don't appoint a generalist who lacks data & analytics domain expertise into the role
+
+Companies often lack the math and engineering skills to deliver a modern data and analytics platform. Appointing an internal executive to lead the function who does not fully understand data and analytics can make it difficult to attract talent from the outside. Even if it is possible to recruit the right talent, a completely naïve leader may lack the vision and awareness to capitalize on the skills available. Compared with Google or Amazon, both of which employ a large number of digital natives with math and engineering PhDs, most companies have a preponderance of people with marketing and business degrees in roles aligned to data and analytics. Your leader needs to understand the fundamentals of new skill sets and capabilities enough to recruit and harness new talent.
+
+Four requirements of a top data and analytics leader
+
+We have identified the four most important tasks for chief data and analytics officers and the qualities they will need to possess if they are to excel as leaders and deliver lasting impact.
+
+Build bridges across the C-suite and the entire organization
+
+Regardless of where the chief data and analytics officer reports in the organization, they need to be a strategic asset owner, capable of setting a vision and delivering on it. The best strategic ideas, however, come from business partners who best understand the problems that they face in their markets or functions.
+
+The best data-driven companies have figured out that the value of data increases in proportion to how freely and efficiently it can travel across traditional organizational silos. To smooth this path, companies require leaders who can connect strategic ideas from different parts of the business and thereby free up the movement of information and ideas.
+
+Talent implications: Look for a leader who can demonstrate that he or she has worked across silos to resolve disputes — someone who does not seek the limelight but rather prefers to share ownership of solutions and celebrate with the team, excited when business partners begin to take ownership for themselves. Such a person must also be a clear communicator, capable of simplifying complex concepts and of connecting with the leadership team; both a leader of people and a change agent.
+
+Architect for business value
+
+Companies in search of a chief data officer often describe the challenge of deciding between a less technical leader who understands the business and a brilliant data scientist who has trouble articulating business value. Spencer Stuart’s experience is that companies are better off hiring someone in the middle ground. In order to set the company’s data strategy and evaluate the potential value and risk of data assets, tools, and services, this leader needs to have both a deep understanding of the domain as well as an ability to structure enterprise business cases — however, he or she will rarely be the best data scientist or business analyst at the company. Data management and technology investments must be based on use cases and rigorous cost-benefit analysis. Use cases and new business opportunities should be prioritized according to their potential to deliver value, but these opportunities are impossible to evaluate without a certain depth of understanding in the domain.
+
+Talent implications: Outstanding data and analytics leaders are able to see both practical business problems and elegant mathematical or technical designs, and to connect the dots between them. Look for someone who demonstrates a steady business focus but who also works with the best engineers to understand the underlying technology well enough, allowing them to make informed decisions and to influence IT architecture.
+
+Build a multi-disciplinary team
+
+Many leaders have a tendency to build teams in their own image. But today’s data leader must be able to attract and evaluate a range of employee skill sets, including business analysts, quants, engineers, designers, governance and control leaders, and program managers. Moreover, that leader needs to be able to motivate these diverse groups to collaborate fluidly, prioritize complicated tasks, and integrate seamlessly with business partners.
+
+Talent implications: Seek out someone who is eager to find new sources of talent, and is capable of building partnerships with universities and startups; someone who is thoughtful about how best to motivate and retain employees, for example through development programs and ensuring that colleagues are exposed to different parts of the business and relevant external groups.
+
+Transform the organizational culture
+
+The best data leaders tell us that building platforms and data models is the easy part of the data science journey — the harder part is changing human behavior. In order to derive real value from data, there has to be a shift in organizational culture. To achieve the necessary cultural change, the organization (led by the executive team) must value learning and intellectual curiosity, talk about failures, share lessons learned, and encourage an attitude of “test and learn”. Individuals need to be willing to change the way they behave, interact, and make decisions.
+
+All organizations encounter problems as they start paying attention to data, and retraining is unavoidable. The best data leaders can lead systemic change, helping redirect instinctive behaviors and decision-making habits through engagement and by empowering people at all levels of the business.
+
+Talent implications: The challenges of cultural leadership depend on context. Start with a thorough assessment of the company’s existing culture and be clear about what the desired culture needs to be. This way it is possible to assess senior executives for the most appropriate styles and approaches that will resonate in the business.
+
+Look out for a leader who is intellectually curious and learning-oriented; someone who can help the organization navigate awkward or vulnerable stages of the data journey, who is comfortable with and can even celebrate “strategic failures”, and who can be the catalyst for behavioral and culture change.
+
+Growing demand for data & analytics leaders
+
+Over the past five years, the number of data & analytics leaders we have placed into organizations has increased four-fold (see figure 1).
+
+Figure 1: Data & Analytics Leadership Placement Increase by Region 2013 to 2018
+
+Financial services companies were the first to identify the need for data & analytics officers, although there has been a significant rise in demand among technology, communications and media (TMT) companies. There are also clear indications that healthcare, consumer, industrial, education and non-profit organizations are building their data & analytics functions and seeking new leadership talent in this area (see figure 2).
+
+Figure 2: Data & Analytics Leadership Placements by Industry 2008 to 2018
+
+Conclusion
+
+In order to unlock the hidden value in data and produce insights that will reduce customer pain points and grow profits, organizations must prioritize agile development and adopt the mantra of “test and learn”. However, agile technology development doesn’t work unless everyone is testing and learning together in a coordinated way. Isolated agile development groups either build things that don’t work efficiently with existing business processes and systems or, worse still, solve problems that nobody needed to fix.
+
+Organizations have to be willing to take measured risks, including appointing a leader who will develop and orchestrate this new capability on behalf of the executive team and with their full support. Having a central leader doesn’t have to be a huge expense. The top talent is expensive, but such leaders won’t need huge teams to build momentum. Many of the tools and platforms necessary to pilot approaches are either free or easy to test-drive and concrete ROI potential can be demonstrated before major financial investments are made.
+
+Download
+
+Download
+
+Author
+
+Charlie Stack
+
+New York

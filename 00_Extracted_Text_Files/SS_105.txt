@@ -1,0 +1,175 @@
+Accelerating Success: Navigating the High Stakes of Technology Leadership Transition
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Accelerating Success: Navigating the High Stakes of Technology Leadership Transition
+
+By
+
+Christian T. Daniels,
+
+Erin L. Henry, Ph.D.,
+
+Christopher Uhrinek and
+
+Eric T. Zakre
+
+April 2025
+
+| 6 min read
+
+Authors
+
+Christian T. Daniels
+
+San Francisco
+
+Erin L. Henry, Ph.D.
+
+Chicago
+
+Christopher Uhrinek
+
+New York
+
+Eric T. Zakre
+
+New York
+
+SectionsIn this article
+
+From the world’s largest corporations to sponsor-backed companies and nonprofits, an organization’s performance increasingly hinges on its technology capabilities — and the capacity of its technology leaders. Amid ever-present cybersecurity risks and AI’s explosion onto the scene and its promise of rapid disruption, technology is central to a company’s ability to serve clients and customers, operate efficiently and quickly adapt to a changing competitive landscape.
+
+Against this backdrop, Spencer Stuart’s recent analysis of Fortune 500 C-suite leadership profiles found that almost two-thirds (62 percent) of C-suite technology executives in the Fortune 500 are serving in the role for the first time. Furthermore, 57 percent were appointed from outside the company rather than promoted from within (well above the 41 percent average for other C-suite roles); of those, almost half joined from a different industry sector.
+
+Download
+
+Download
+
+The stakes for getting technology leadership “right” are high and the learning curve for these leaders is steep. Yet many organizations take a laissez-faire approach to supporting new technology executives. The “ramp-up” may include short-term executive coaching in some cases, but is often as limited as simply including the leader in the company’s generic onboarding process for all new hires.
+
+Drawing upon our decades of experience helping leaders perform at their best, we set out to develop a framework for technology officer performance acceleration — the steps early in one’s tenure that can help set them up for long-term success. In this article, we provide an early preview of the work we are doing with clients to ensure CIOs, CTOs, CPOs and other C-level technology executives understand where to focus in their early days in a new role, as well as how organizations can ensure they are getting the time, attention and support required for these leaders to succeed.
+
+In addition to our own experience, this article is also based on interviews with several prominent C-suite technology leaders across industries, whose personal experiences and insights offer a unique look at fast success.
+
+Below we look at four focus areas for helping ensure technology leaders successfully transition into the role.
+
+Interviewees
+
+Seemantini Godbole, chief digital and information officer, Lowe’s
+
+Klara Jelinkova, vice president and university chief information officer, Harvard University
+
+Eunice Kim, chief product officer, Netflix
+
+Pragati Mathur, chief digital and information officer, ConocoPhillips
+
+Ramesh Razdan, global chief technology/information officer, Bain & Company
+
+Neal Sample, chief information officer, Walgreens
+
+1.	Establishing credibility: Make early strategic moves that challenge the status quo and serve long-term organizational objectives
+
+During those first weeks on the job, it’s important that the new leader balance short-term actions and long-term strategic thinking — making a quick impact by solving urgent problems, establishing key relationships and looking at how to best prioritize efforts. We have seen many new leaders get bogged down by the urgent work at hand without being able to spend the time necessary to identify how they can deliver outsized impact over a longer period of time. It takes the right balance of strategic moves for a new technology leader to build momentum and signal the direction of travel to stakeholders and the entire organization.
+
+A C-suite technology leader — and by extension, the CEO, CHRO and board — must be comfortable with the idea that they don’t, and can’t, know everything. Furthermore, what worked in a prior role may not necessarily work in a new role. A new leader needs room to learn (and adapt to) the culture, system and external market pressures at play.
+
+“New CIOs should approach the job with humility,” said Neal Sample, who joined Walgreens as its chief information officer in late 2023. “Rather than playing to your strengths, a new leader should ask, ‘What can I learn about the business that should inform my strategy and approach?’”
+
+At the same time, it’s crucial that new leaders take steps to challenge inertia and build momentum by quickly establishing themselves as drivers of innovation who can make an exponential impact. For example, in our work with clients, we’ve seen some new technology officers place an immediate focus on assessing cybersecurity readiness, knowing that a crippling attack could have an immediate bottom-line impact on the company. The exercise not only addresses a major issue, but also demonstrates to the rest of the company that the new technology leader will be a forward-thinking business partner.
+
+2.	It’s all about the team: Build, align and engage
+
+Activating a high-performing team is critical to finding one’s footing and driving fast results in the first year on the job. Several research studies have found that many executives who fail within the first two years do so because of team-related issues.
+
+Organizational models often need a redesign to better serve business strategy, the right people are not always in the right roles, and leaders can be reticent to make difficult and often emotionally taxing people-related decisions. For technology executives in particular, poor relationships among product, engineering and other functions can hinder technology delivery, and weak culture can lead to underperformance. Successful teams establish trust quickly and mobilize around a united vision.
+
+“First of all, we have to establish where we are trying to go,” said Pragati Mathur, chief digital and information officer for ConocoPhillips. “Then, we ask ourselves, ‘How can we elevate and empower our teams so that they can support and equip the entire company?’ I believe in fostering a culture of trust, collaboration and continuous learning. With the right tools, resources and support, teams can innovate and excel. This empowerment not only boosts confidence and skills but also ensures that we collectively support the company’s strategic goals and drive success.”
+
+With this in mind, it’s key for the top team to have the right talent. Amid a rapidly changing technology landscape, the technology leader must quickly identify what capabilities are needed and whether or not they are present on their top team (or at the right level below); from there, they can make changes swiftly if needed. Once you know the right capabilities are there, then it’s your job to retain them. The delicate balance is making changes, building credibility and fostering the right team culture all at the same time.
+
+“You need people who understand how to solve problems at scale and think about things differently, in non-traditional ways,” said Seemantini Godbole, chief digital and information officer at Lowe’s.
+
+3.	Relationships are key: Engage the CEO, C-suite, board and other key stakeholders
+
+CEOs today are turning to C-suite functional leaders to serve as key advisers as they navigate complexity, uncertainty, risk and change. Today’s technology executive is also much more likely to engage with the board of directors — particularly as cybersecurity topics and new technologies like AI have become regular board-level conversation topics. Developing relationships with these key stakeholders is critical to success, yet can be challenging and even intimidating when a new technology leader enters the C-suite for the first time or joins from another company or industry.
+
+“It’s important to establish yourself not just as the task master, but as the person with a broader viewpoint,” said Klara Jelinkova, vice president and university chief information officer at Harvard University.
+
+Technology leaders often face conflicting demands for specific technologies or functionalities from stakeholders and must determine how to prioritize and where to push back. There is also an educational element, where a CIO must help the C-suite and board understand and navigate the highly complex external technology ecosystem.
+
+“Every program and every change must serve the company’s strategic ambition,” said Eunice Kim, chief product officer at Netflix. “And it’s not just about ensuring visionary planning, but also ensuring execution to deliver tangible results across the organization.”
+
+Quote
+
+Every program and every change must serve the company’s strategic ambition. And it’s not just about ensuring visionary planning, but also ensuring execution to deliver tangible results across the organization.”
+
+EUNICE KIM
+
+CHIEF PRODUCT OFFICER,
+NETFLIX
+
+Working to quickly establish relationships and align with other C-suite leaders and the board will enable a new technology executive to get up to speed as quickly as possible about how the business works, its strategic positioning and how the technology function can support other teams in achieving their goals.
+
+One common challenge we see for new executives is building intuition around the company’s culture and how to successfully operate within it. We advise new technology leaders to actively seek out knowledge networks, key influencers and, in particular, those often-unwritten or unspoken conventions that are key to “how things work around here.” Solicit views on the culture from a wide range of people. Look for clues about how things get done at the company, then listen and learn.
+
+“Managing change is as much about culture as it is about the methodologies and technologies we implement,” said Walgreens’ Neal Sample. “Focus on understanding the people as much as the processes. ... Just repeating what made you successful in another role or organization won’t necessarily work because the system and context is not the same.”
+
+4.	Activate the full organization: Everyone has a role to play in this new chapter
+
+Technology today is an organization-wide proposition; everyone today works with and is impacted by technology. As much as your own team and strong relationships with C-suite peers matter, it is also critical that the technology leader drive impact beyond the leadership team by engaging those leaders who translate strategies into the real work of the organization, and who have their ear on the “truth on the ground.”
+
+Ramesh Razdan, global chief technology and information officer for Bain & Company, pointed to “servant leadership” as a critical component of aligning the organization around the goals of the technology function.
+
+“Gone are the days of command-and-control leadership — now it’s all about collaboration and open communication,” Razdan said. “Lead with purpose and serve your people. The best leaders add value by putting their team first and embodying the servant leadership mindset.”
+
+Quote
+
+Lead with purpose and serve your people. The best leaders add value by putting their team first and embodying the servant leadership mindset.”
+
+RAMESH RAZDAN
+
+GLOBAL CHIEF TECHNOLOGY AND INFORMATION OFFICER,
+BAIN & COMPANY
+
+Early momentum throughout the organization can help guide technology in the right direction and drive better results. How can technology be embedded organization-wide to ensure maximum impact? How do you anticipate how people will respond to new technology? Indeed, connecting with the rest of the organization is perhaps as important as any other factor as technology leaders seek to make quick change.
+
+For example, ConocoPhillips’ Pragati Mathur shared with us how her team has engaged other teams at her company to see the value of technology and start embedding it into the company’s oil and gas work.
+
+“Part of the journey is taking a few technologies, explaining their purpose and how they can help us solve problems, and doing proofs of concept with stakeholder groups across the business,” Mathur said. “This allows us to test new technologies in a controlled environment, identify potential issues and refine solutions before wide-scale adoption. This helps to ensure that we introduce the right technologies into the company, minimizing risks and maximizing benefits.”
+
+Technology leadership is an area that all organizations need to get right — and fast. Considering both the importance of the technology function and the propensity for this role to involve hiring a new leader from outside the organization and even industry, it’s important that CEOs, CHROs, boards and technology leaders themselves create the scaffolding needed to help support success. By quickly defining strategic moves, building the technology leadership team, engaging key stakeholders, activating leaders at all levels of the technology function and evolving their own leadership effectiveness, new C-level technology leaders can make a measurable positive impact from day one.
+
+Strengthening your own leadership effectiveness
+
+As is the case for any functional leadership position, there are skills and capabilities that are must-haves to be in the role. But it’s also critical that a new executive have the latitude to continue to adapt and evolve as a leader without being fully consumed by the never-ending day-to-day “urgent priorities” that continue to arise.
+
+For new technology executives, how can you carve out the time to become a better leader while keeping pace with changing demands?
+
+Our work as advisers to top leaders has demonstrated how leadership typically follows a three-stage “odyssey,” from departure to voyage to return. Navigating this journey involves recognizing the need for change and taking deliberate steps to change how you work; learning from — and transforming through — the obstacles you face along the way; and then arriving at a new understanding of who you are and what kind of leader you want to be, and transferring the new knowledge that they’ve learned to others.
+
+This lines up with the experiences our interviewees described — for example, the CIO who entered a role confident that transformation could occur within months, but learned quickly that the organization itself wasn’t ready, and that it would take years rather than months.
+
+Part of the necessary humility for the job is finding ways to check in with your own teams, peers and the CEO regularly on your leadership style and effectiveness so you can continually adjust. That vulnerability can show the team that you appreciate the unique situation you’re stepping into without undermining your credibility.
+
+Authors
+
+Christian T. Daniels
+
+San Francisco
+
+Erin L. Henry, Ph.D.
+
+Chicago
+
+Christopher Uhrinek
+
+New York
+
+Eric T. Zakre
+
+New York

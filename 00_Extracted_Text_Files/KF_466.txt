@@ -1,0 +1,124 @@
+Nothing Crashes the Party Like a Tech Failure
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+This Week in Leadership|June 24, 2025
+
+Nothing Crashes the Party Like a Tech Failure
+
+While companies are focused on AI, more prosaic failures continue to cost them trillions.
+
+First came the cyberattack on the food distributor that led to empty produce aisles at tens of thousands of stores. Then came the software-update error that cleared the calendars of an entire consulting firm. And that was just last week.
+
+Even as companies pour $644 billion into generative AI this year, some of them are suffering crippling tech collapses that threaten their very survival. “The risk is not being able to serve customers,” says Karena Man, senior client partner in the Technology and Digital practice at Korn Ferry. “And that’s what businesses exist to do.”
+
+Though phishing attacks alone are up 1265% in 2025, according to a report by cybersecurity firm SentinelOne, the bigger problem is the growing complexity and interwovenness of companies’ tech stacks. The interconnected ecosystem of external vendors means that one small mistake, like an IT team uploading a bad patch, can crash entire networks—leaving planes idling on runways and retail shops shuttered. “Most companies are increasingly tech companies, whether they’re in distribution or consumer goods or hospitality,” says Natura De Pinto, senior associate at Korn Ferry. “They are all tech enabled, which is why these incidents have such big ramifications.”
+
+The risk extends beyond lost days (or weeks or months) of business. Reputational blowback can be so enormous that many PR departments have to work overtime to keep tech collapses out of the news. A system failure “implies that your operation isn’t airtight,” says Man—particularly devastating for firms that market their tech expertise. The post-crash legal risk is also enormous: A single lawsuit over lost sales can bankrupt a company. The Securities and Exchange Commission now requires firms to report cybersecurity incidents within four days, however, which means that sometimes public attention is unavoidable.
+
+Cyberattackers target the finance, retail, and healthcare sectors in particular because of their troves of consumer and financial data. A recent study on cybersecurity by Korn Ferry found that the retail sector has 20% to 30% more cybersecurity staffers than other industries. “That’s because retail has so much more liability and so many points of access,” says retail expert Craig Rowley, senior client partner at Korn Ferry.
+
+Experts say that the answer is not to give extra attention to cyberattacks and network failures. Rather, companies should “focus on resilience,” says Man, co-author of Cyber in the Boardroom, a research paper. That includes disaster recovery—restoring critical systems and data, often by using redundancy and backups—as well as business-continuity strategies that allow companies to keep functioning. For example, firms might switch over to browser-based functions, or (gasp!) revert to paper and landlines, as some hospitals did when they were hit by cyberattacks during the pandemic.
+
+“We suggest several questions that board directors and leaders can ask,” says De Pinto, the paper’s other co-author. The most important of the questions (which cover risks, priorities, and mitigation controls): What keeps you up at night when it comes to cybersecurity?
+
+Learn more about Korn Ferry’s Organization Strategy capabilities.
+
+Read more This Week in Leadership articles
+
+Our Expert
+
+Our Experts
+
+Karena Man
+Senior Client Partner, Technology & Digital Practice, San Francisco, CA
+
+Craig Rowley
+Senior Client Partner
+
+Natura De Pinto
+
+Senior Associate
+
+Featured Insights
+
+This Week in Leadership (Jan 12 - Jan 18)
+5 Ways to Move from ‘Toying’ to Working with AI
+
+INSIGHTS TO YOUR INBOX
+
+Stay on top of the latest leadership news with This Week in Leadership—delivered weekly and straight to your inbox.
+
+​
+
+Related Insights
+
+See All Related Insights
+​
+
+Article|July 3, 2026
+
+The Glitter Leader
+
+July 3, 2026
+
+This Week in Leadership (June 29 - July 5)
+
+July 3, 2026
+
+This Week in Leadership (June 29 - July 5)
+
+Article|July 1, 2026
+
+6 Ways to Handle Work During Vacation
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+This Week in Leadership
+
+Leadership
+
+Attrition & Retention
+
+AI in the Workplace
+
+People Strategy & Performance
+
+Change Management
+
+Organization Design & Analytics
+
+Workforce Transformation
+
+Organization Strategy
+
+Leadership & Professional Development
+
+Talent Acquisition

@@ -1,0 +1,122 @@
+AI as a powerful accelerant: Combining technology with culture in product management
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+AI as a powerful accelerant: Combining technology with culture in product management
+
+By
+
+Veena Marr
+
+October 2025
+
+| 6 min read
+
+Author
+
+Veena Marr
+
+London
+
+Meet Oliver Ridley. From managing raw internet usage data at Media Metrix in New York to senior leadership roles at eBay to serving as CTO for Gelato — the Norwegian unicorn enabling on-demand, localised production of custom-printed products — his career has been as varied as it is impactful.
+
+He sat down with us to discuss the role of product management at the intersection of technology, commerce and operations and to share leadership lessons from scaling fast-growing organisations.
+
+Do we still need product management in the age of AI?
+
+Yes! Product management is often misunderstood, confused with project management. But while project management is about execution, product management is about discovering solutions that create value and aligning stakeholders around a prioritised plan. That role is more critical than ever as (generative) AI reshapes how we work.
+
+Done well, product managers experiment, learn and deliver outcomes that truly unlock value. Done badly, they churn out features as fast as possible in the hope that something sticks.
+
+Quote
+
+Done well, product managers experiment, learn and deliver outcomes that truly unlock value. Done badly, they churn out features as fast as possible in the hope that something sticks.”
+
+Today’s hype around AI mirrors past technology shifts. LinkedIn is full of magical prompts and agent workflows claiming to replace consultants, predict stock markets, reinvent software development. The challenge for product managers is to stay close to these developments, understand LLM capabilities and limits, and help their organisations “unlearn” old approaches. The transformation is obvious in hindsight, but much harder to navigate while inside it.
+
+At Gelato, AI coding tools pushed us to re-evaluate our engineering processes. Coding is essentially translation: knowing what you want and expressing it in frameworks and languages. AI excels at translation, democratising code creation — but the output is not automatically efficient, secure, or scalable. AI amplifies productivity for skilled engineers, but can equally amplify mistakes for the inexperienced or the over-confident.
+
+That’s why all engineers should be leveraging tools like Cursor and Claude, and all product managers should be experimenting with tools like Replit, Bolt or Lovable to
+to prototype fast. Quick iterations accelerate feedback but don’t replace the expertise required to scale production systems.
+
+Software engineers aren’t going away soon — complex, efficient, large scale systems still need human judgement.
+
+How did you bring AI to the whole organisation?
+
+For Gelato, adoption wasn’t confined to engineering. Founder Henrik Muller-Hansen set the tone and championed a culture of urgently reimagining roles and ways of working with AI across every department — HR, legal, finance, marketing. The push came from the top, encouraging experimentation, celebrating both wins and mistakes and learning from sideways progress where tools didn’t help.
+
+As CTO, I partnered closely with Henrik to channel that energy into real change. Culture was key: creating space to explore new tools, while ensuring an honest voice called out where AI wasn’t delivering value. The expectations were crystal clear across the organisation — the world is changing, and as companies and individuals we need to also change.
+
+What are some of the toughest conversations you’ve had in a high-pressure, fast-scaling environment and what has that taught you about leadership?
+
+The hardest conversations in high-growth companies are often about resources: how to allocate teams, spend money and make trade-offs. Prioritisation — what to build now, what to park — is where opinions differ and healthy tensions emerge.
+
+Quote
+
+As a leader, you must make necessary decisions early, even if unpopular. Problems ignored only grow. At Gelato we had a saying: “liked by all, respected by none.” Taking the easy route as a leader wins short-term popularity but erodes trust."
+
+Product leadership ties very closely to the founder’s vision and product leaders need to recognise that as a valuable dynamic, not interference. Success depends on leveraging each other’s strengths, listening and integrating perspectives. At Gelato, we emphasised “playing the team” — we knew each other well and how to work together to make fast, high-quality strategic decisions through context, technical insight and data.
+
+I have always felt that product managers at all levels need to make sure great decisions are made. That is not the same thing as making all the decisions themselves. Of course, there are times when leaders must stand firm — scalability, reliability and security need investment on the roadmaps and cannot be compromised.
+
+Outages happen even in world class organisations and protecting engineers under pressure while they diagnose and mitigate problems is paramount. As CTO, the buck stopped with me: being direct and blunt with my colleagues, representing the full technology challenge and visibly owning issues when things went wrong on my watch.
+Pressure also comes from investors and boards. Leadership isn’t just about building the right thing; it’s about navigating ambiguity, managing emotion and guiding the business even when messy.
+
+How many investors, board members and other leaders really understand what you do?
+
+It’s not necessary for everyone to understand exactly what you do, the onus is on you to lead this part of the business and to be able to communicate complex needs or requirements with clarity and precision. If you need help, you need to ask for it in a language that the leadership team or board can understand.
+
+At large firms like eBay, where I worked for a decade, there were world-class technologists to collaborate with. At smaller companies, it can be lonelier. Often you’ll pitch a great idea and get blank stares. Product management means listening widely, shaping individual needs into a coherent story and building compromises that make sense across the organisation.
+
+A career in product management working with diverse stakeholders and customers has taught me the value of clear, straightforward communication of complex topics and when I took on the CTO role of Gelato, this experience of translating up to leadership and down to the engineers was invaluable to help alignment and understanding so we could continue to move quickly as a company.
+
+What do you think of the CTPO/CPTO role that combines product and technology under one person?
+
+Combining product and technology into a single CPTO role can be powerful - if the right person is in the role. Historically, I valued the tension between separate product and engineering organisations. But leading Gelato’s technology teams changed my view: there can be real benefit in one person connecting both sides.
+
+I feel many CPTO appointments today are cost-driven. They also sometimes push technical depth out of leadership discussions — dangerous if your business is fundamentally about software. If technology is merely an enabler, and leadership discussions tend to revolve around sales or operational progress, then there is less risk of combining under one person.
+
+Success depends on balance: prospective leaders should know if they are “big P, small T” or “big T, small P”? A technology leader dabbling in product risks ignoring customer needs or over-engineering systems; a product leader treating engineering as a cost centre risks stifling innovation. In my experience, most great roadmap ideas come from engineers — it’s the product manager’s role to mine and integrate them.
+
+How have your career experiences shaped how you lead teams and people?
+
+As a leader, you must make necessary decisions early, even if unpopular. Problems ignored only grow. At Gelato we had a saying: “liked by all, respected by none.” Taking the easy route as a leader wins short-term popularity but erodes trust.
+
+Quote
+
+Measuring the impact of AI is harder than it looks. The key is whether AI genuinely improves the underlying problem — a better approach for the customer. Cosmetic AI features are vanity; real value comes from transformative improvement.”
+
+At C-level, the buck stops with you. You can’t escalate the hardest calls upwards — you must own them. That means confronting underperformance, correcting strategic missteps and having painful conversations with senior leaders or founders. Decisiveness, grounded in honesty and respect, is better than hesitation.
+
+What metrics can be used to track AI’s benefits?
+
+Measuring impact is harder than it looks. A/B testing can isolate results, but in fast-moving environments with multiple daily releases, statistical clarity is not always available.
+
+For customer-facing AI, the metrics are familiar: transactions, revenue, product usage, NPS. The key is whether AI genuinely improves the underlying problem — a better approach for the customer. Cosmetic AI features are vanity; real value comes from transformative improvement.
+
+Operationally, product managers must track underlying metrics like reliability, latency, error rates, throughput and cost. Developer efficiency is another hot topic, but reducing it to e.g. “% of code written by AI” is misleading. I prefer frameworks like DORA and more recently SPACE, blending hard delivery metrics with engineers’ own perceptions of their workflow.
+
+Directional movement matters more than a single KPI. Most current AI tools deliver incremental improvements: faster, cheaper, better. But the true systemic value, as with past technology shifts, will come later — when we rethink systems entirely around AI, not just bolt it on.
+
+How did you transition from legacy technology to scaling a private equity-owned, rapidly growing organisation? Lessons learned?
+
+Legacy organisations will struggle if they cling to existing ways of working. Survival demands reinvention. At Gelato, one mantra was “we change until we win.” It kept teams moving forward, unafraid to write off sunk cost and unproductive frameworks when evidence suggested they weren’t working.
+
+Curiosity and humility are essential traits for individuals in this environment. Enthusiasm about AI must be balanced with rationality: not every problem is best solved with an AI solution and not every solution is significant enough to deserve the investment. The sweet spot is confidence to question approaches, combined with vulnerability to admit gaps in knowledge and learn fast.
+
+What’s the one principle in this shifting age of AI when thinking about talent?
+
+If there is one principle for hiring today, it’s open-mindedness. Companies will change dramatically, even those far from coding. You need people willing to adapt as the company transforms.
+
+For product and engineering especially, flexibility is crucial. Senior professionals must balance accumulated wisdom with a willingness to unlearn and rebuild mental models. It’s not about chasing every trend, but about recognising opportunities, grounding them in business realities and adjusting as new truths emerge. Leaders also have a duty to champion and catalyse change within their teams, they need to lead by example.
+Experience still matters — customers, needs, markets and regulations remain. But the ability to inhale what’s happening with AI, and reshape strategies accordingly, is the defining talent trait for the years ahead.
+
+Author
+
+Veena Marr
+
+London

@@ -1,0 +1,80 @@
+Leadership Connectivity Unleashed
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Leadership Connectivity Unleashed
+
+A Look at the Latest Trends out of MWC 2022
+
+By
+The Technology, Media & Telecommunications Practice
+
+March 2022
+
+| 4 min read
+
+SectionsIn this article
+
+Since we last touched down in person at Mobile World Congress (MWC) Barcelona in 2019, the entire world has changed. Last year’s event was virtual, and the 2020 event, which was scheduled to take place just as the pandemic began, was canceled. This year, more than 60,000 attendees came together from around the world from February 28 to March 3. The energy was high, with a lot of lively conversation.
+
+Ironically, chatter about the virtual metaverse dominated a lot of those in-person conversations, as did “5G connect” – a major theme of the show. As at CES earlier this year, 5G and metaverse-focused products and services were everywhere, and companies across industries seemed eager to get in on the conversation. At MWC, the metaverse talk had a lot to do with 5G.
+
+5G is headed toward mainstream
+
+After years of hype, 5G is finally going mainstream. By the end of 2025, this technology standard is expected to cover a quarter of total mobile connections around the world. In fact, 5G is now so ingrained in the telco mainstream that the conversation has shifted away from what 5G is and why we should embrace it to the expectation that it’s already here — so here’s what you can do with it.
+
+The leadership POV: Leaders have two big challenges to contend with: how to deliver on the promise of 5G and how to monetize it. Companies need a vision and a clear strategy in order to execute successfully. Research indicates the 5G revenue opportunity for communications service providers (CSPs) could reach $11.6 billion by 2026 — if it’s done right.
+
+CloudNet and OpenRAN are hot topics
+
+Hand in hand with the conversation about 5G comes talk of OpenRAN — an open, interoperable model of future mobile networks that won’t rely on the reliance of single 5G vendors for expansion of the telecom infrastructure. OpenRAN is starting to take shape as a distinct ecosystem, and there were around 46 demos of OpenRAN technology at MWC, along with several announcements from telco operators committing to OpenRAN technology.
+
+The umbrella over this conversation was the idea of cloud computing — a theme MWC called CloudNet — and particularly edge computing, a distributed computing model where data is stored close to where it's being used. The cloud is critical to any kind of large-scale digital transformation.
+
+The leadership POV: Increasing complexity in these models means that telcos need to focus on attracting talent from software and cloud technology domains — not just relying on pools of candidates from the traditional telco sector. A cross-pollination of talent pools from different industries is essential to attract talent — and also to keep culture and diversity at the forefront of HR efforts.
+
+To truly capitalize on all of the technologies that MWC spotlighted, telcos will also need to focus on creating a broader executive base. They need to attract C-level execs who don’t just have stellar technology experience, but a strong leadership orientation to navigate into these new territories.
+
+IoT has become the Internet of Everything
+
+5G and OpenRAN are central to the future of Internet of Things, or IoT. Smart devices will continue to advance and will support high-quality virtual experiences to tap into the potential of the metaverse. This puts the pressure on device manufacturers to increase mobile hardware quality: cameras, displays, speakers, processors.
+
+A presiding theme at MWC was the “Internet of Everything” — billions of connected devices around the world affecting areas like healthcare, smart cities, drones and driverless cars. Interestingly, Fisker, the electrical vehicle maker, chose MWC to debut its Fisker Ocean all-electric SUV, with its turn-able large-screen display and the Flexee mobile app, to the European market. This shows just how much mobile technology matters even in other sectors.
+
+The leadership POV: For telco leaders, the lines are no longer drawn strictly around industry boundaries, and the conversation is not just about technology devices, but the people and processes they can bring together. Taking advantage of IoT opportunities will require savvy management of partnerships across a complex ecosystem: telcos need to define their approach to creating value and winning propositions with hyperscalers and other ecosystem players. This will require different leadership approaches and a collaboration mindset that will be new to many organizations. It also requires diverse representation across all dimensions — thought, skills, gender, race and ethnicity, etc. — at all levels in the organization to take advantage of the opportunities IoT presents. Leaders will need to consider the cultural implications of bringing on non-traditional telco talent and create inclusive and collaborative environments that fully leverage these diverse perspectives.
+
+AI just keeps advancing
+
+Artificial intelligence is becoming a lever for most industries, and telco is no exception. There were a lot of notable AI applications discussed at MWC. Salesforce announced a new feature for its Tableau CRM that will help customers retain subscribers and keep them engaged via AI functionality. Customer retention is a huge cost-saver, so this feature is intended to help telcos hang onto their existing customers by offering more attentive, relevant service. Qualcomm also introduced its latest 5G modem-RF system, the Snapdragon X70, the first-ever modem-to-antenna 5G system with an integrated AI processor, which will ostensibly improve speed, create better coverage and latency, and enable more energy efficiency.
+
+The leadership POV: With AI, the IoT, the metaverse, and many more of these trends, one of the biggest hiring issues is that it’s challenging to build talent in an area without a lot of history. There is no talent pool for the metaverse, specifically, so telcos look for talent with more broad technology innovation experience, not necessarily experience in a particular domain.
+
+Technology with purpose
+
+While talking about technology for the sake of technology is interesting in its own right, many of the conversations at MWC were elevated by their relevance to pressing contemporary issues in the greater world. The idea of the Tech Horizon was another official theme of MWC Barcelona and the one that tied it all together. Topics included diversity, the climate and creativity. China Unicom, for one, won the GloMo for Best Mobile Innovation for the Connected Human for its contribution to healthcare in the realm of 5G, with the initiative “5G Smart Healthcare Lights up Hainan Healthy Island.”
+
+The leadership POV: Purpose is critical to culture today. This is an area on which leaders across industries are focused. Creating products and workplaces in which people can invest in and express their personal values ultimately leads to higher performance and happier employees.
+
+Don’t forget the human element in telco leadership
+
+It wasn’t an official conference theme, but one of the most poignant takeaways of MWC Barcelona was the emphasis on the human side of the business. The pandemic and war for talent have heightened attention to the changing needs of employees, including the demand for flexible work arrangements, inclusive and equitable work environments, and compassionate and empathetic leadership. More and more, employees are looking to leaders to build diverse, inclusive and equitable organizations.
+
+***
+
+As in most arenas of business today, the world of mobile is leaning heavily into progressive technology — but keeping people at the center of it all, and that goes for employees, customers and global citizens.
+
+Five leadership takeaways from MWC
+
+Have a clear strategy & focused execution
+
+Cross-pollinate talent pools; prioritize diversity & culture
+
+Embrace savvy partnership management across the ecosystem
+
+Look outside the box for talent
+
+Make purpose a priority

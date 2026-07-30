@@ -1,0 +1,166 @@
+When Performance Declines: The Case for Acting Fast on CEO Intervention
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+When Performance Declines: The Case for Acting Fast on CEO Intervention
+
+By
+
+Jason Baumgarten
+
+December 2021
+
+| 11 min read
+
+Author
+
+Jason Baumgarten
+
+Seattle
+
+SectionsIn this article
+
+Key findings
+
+Our analysis of more than 1,850 public company CEO transitions between 2007 and 2017 and stock performance before and after the transition found that the longer boards take to act when company performance declines, the less likely the business will improve.
+
+When company performance lags, the board’s loyalty to the CEO, involvement in the approval of the plans/budgets, uncertainty about the signals, and lack of options can make it difficult to act quickly.
+
+Boards will be better prepared to react to performance problems when they align on a holistic performance dashboard, regularly evaluate performance and maintain a robust CEO succession plan.
+
+Most importantly, boards must be willing to move quickly when performance concerns arise, whether to replace the CEO or to intervene and recommit to the plan.
+
+There is no more important decision for a corporate board than the selection of the CEO, and there is no more difficult decision for directors than intervening when a CEO is underperforming.
+
+Directors have competing responsibilities; they collectively serve as adviser and partner to the CEO on the company’s most important decisions, but also must hold the CEO accountable to owners for performance. When company performance lags, the board’s loyalty to the CEO, involvement in the approval of the plans/budgets, uncertainty about the signals, and lack of options can make it difficult to act quickly.
+
+Our analysis of 1,850 public CEO transitions and the company performance before and after demonstrates that the timing at which boards intervene does matter. The longer boards take to act when company performance declines, the harder it is for businesses to improve — and many never do. While CEO transitions can also be triggered by non-financial performance issues such as integrity issues or non-financial stakeholder management, our research focused on transitions where financial performance was a major catalyst.
+
+Download
+
+Download
+
+While the data tells a compelling story, the decision-making process for the board of directors is far from straightforward. It is extremely challenging for boards to reach a consensus about underperforming CEOs and about what to do when performance slips. In addition to examining data from 10 years of public company CEO transitions, we spoke with dozens of experienced corporate directors about why boards struggle with these decisions and how directors can better balance their support and oversight responsibilities to act faster.
+
+Timing matters
+
+We analyzed more than 1,850 public company CEO transitions that occurred between 2007 and 2017 and tracked stock performance1  for the two years pre- and post-transition. Our goal was to examine the effect that the transition had on company performance and determine whether there is a benefit to boards intervening swiftly, and, when needed, replacing a CEO. Our research shows that the further an asset deteriorates, the harder it becomes for the company to achieve a positive, near-term2  turnaround. This finding remained consistent when we took a longer-term view and analyzed performance at the five-year post-transition mark. Analysis showed that roughly one-third of companies achieved turnarounds and restored growth. The majority of companies experienced even further deteriorating performance or stalls.
+
+Further, companies that passed increasing levels of sustained negative performance3  struggled to recover. The sooner directors recognized a sustained dip in performance and acted on it, the higher likelihood of a turnaround. If the board is considering a CEO intervention or change due to performance, we advise directors to act fast given the impact that both severity and duration have on chances of turnaround.
+
+1As defined by BHAR: Buy-and-hold abnormal returns have become the standard method of measuring long-term abnormal returns. Buy and-hold abnormal returns measure the average multi-year return from a strategy of investing in all firms that complete an event and selling at the end of a pre-specified holding period, versus a comparable strategy using otherwise similar non-event firms.
+
+2As defined by a two-year period
+
+3Steep decline defined as companies performing on average at -20% to -100% BHAR
+
+The steeper the decline, the less likely the recovery
+
+Average two-year BHAR pre-transition
+
+0% to -20%
+
+-20% to -40%
+
+-40% to -60%
+
+-60% to -80%
+
+-80% to -100%
+
+Percentage that achieved positive bounce back post
+transition within two years
+
+40%
+
+20%
+
+13%
+
+6%
+
+1%
+
+The board directors we spoke with confirmed that waiting too long to replace the CEO is costly. “We left so much money on the table figuratively and literally by moving too slow,” one director recalled. Said another: “I’ve learned that once you know it is right to make a change, the sooner you do it, the better off you are. You never want to kick yourself later, asking why didn’t we do it earlier? Why weren’t we listening to the right indicators?”
+
+So, why is it so hard? How board directors can overcome the obstacles
+
+Denial: The first step for many CEOs and boards is to deny that the performance is a problem. When faced with negative outcome metrics, CEOs often rationalize them as short term or point to market dynamics. Furthermore, directors who have been involved in approving the plans and strategies or who are not deeply steeped in the industry are often reluctant to intervene.
+
+Acceptance: When a decline in performance deepens in severity or persists for longer, CEOs usually acknowledge that action is required. Logically, these leaders mount a clear and actionable plan to address the issue. The board is relieved, the plan seems eminently sound and they again wait for a change. If a change does not materialize, the trust between a CEO and board can begin to fray.
+
+Quote
+
+When boards put a CEO in the seat, they believe it is their job to wholeheartedly support them in being successful. There is a sense of loyalty, especially for directors who have been a CEO themselves and understand the tough variables that come with the title. Put simply, it is easy when things are not going well for a board to sympathize.
+
+Intervention: Once directors begin to realize they have a problem that is not going to be resolved by the existing team without significant change, the board must decide on an intervention plan. Boards can hire advisers, replace some executive team members, set up special committees of the board to delve into operational or strategic direction, or begin to work on a plan to replace the CEO. Getting 7-12 people used to meeting quarterly to dive deep and work on this difficult problem is complex and can take several board meetings. Without a very strong and respected board director championing an intervention, the plan usually simmers until the situation worsens.
+
+Decision: If the intervention does not produce a change in direction, then the board must take the ultimate step to replace the CEO. Few CEOs are asked to step down explicitly for performance, and rarely does a board go on record acknowledging a CEO is not meeting expectations. The sudden, unexpected departure of the CEO carries a range of real and perceived risks, including but not limited to the potential to destabilize or distract the organization, talent flight and/or negative publicity. Even those who are more inclined to replace the CEO may be stalled because of a lack of ready alternatives to the current chief executive. Given the high-risk nature of these decisions, it is easy to see why few boards take this route.
+
+“Replacing a CEO is one of the toughest things a board has to get its head around. When boards put a CEO in the seat, they believe it is their job to wholeheartedly support them in being successful. There is a sense of loyalty, especially for directors who have been a CEO themselves and understand the tough variables that come with the title. Put simply, it is easy when things are not going well for a board to sympathize,” said one veteran director.
+
+Directors unanimously agreed that the most difficult situations are those in which the CEO has not done something egregious and company performance hasn’t plummeted, but rather is slowly declining and there is a lack of clarity about what is really the CEO’s fault. Aligning the board on the need for change is especially difficult in these situations.
+
+“It is unusual for everyone on the board to reach the same conclusion at the same time, and it’s an extremely delicate conversation to have,” said one director, describing the boardroom dynamics. “Eventually, one director reaches a point where they are uncomfortable enough with the situation — whether it’s a lack of trust, not scaling teams, poor 360 reports, share price, etc. — that they express their concern. Once one board member has made up their mind, the generalization is that others will likely come along. This often happens later than it should.”
+
+How can boards overcome these challenges? Our interviews revealed four key themes
+
+Stay alert to the signals. From our experience, there are several indicators that it could be time for a leadership change well before it is made clear in the balance sheet. The “dashboard” directors use to assess CEO performance has been evolving beyond “hard factors” (share price, revenue, profitability and investor sentiment). Widening the aperture to also measure performance on “softer” responsibilities such as ESG, branding, business model transitions, etc., can be helpful signals for directors to pay attention to. Joining quarterly investor calls is one way directors can stay attuned to the market’s view about changing industry dynamics and the strategic moves the company is making.
+
+Quote
+
+As a director, you want to listen to members of the management team and pay attention to the mood and culture because that gives you a feel for what is really going on. Do this in ways that are light touch — drop in for a visit, have a coffee, etc. Listen, but don’t get in the way.
+
+Internal perspectives from the management team (including skip-level interaction beyond the direct reports) can provide a clear signal about the performance of the CEO, but directors often lack direct visibility into the organization, and their exposure to senior company leaders is generally limited to formal board meetings. The CEO is largely the gatekeeper of what goes to the board and thus it is particularly difficult for the board to know if, when and to what extent the management team is navigating a challenging CEO. In one extreme example shared by a director, the CFO and chief legal officer of the organization resigned on the same day, which was a massive “uh-oh” moment for the board. Had the board had a better pulse on the top team’s sentiment, directors may have made a quicker decision to replace the CEO, the director said. “As a director, you want to listen to members of the management team and pay attention to the mood and culture because that gives you a feel for what is really going on. Do this in ways that are light touch — drop in for a visit, have a coffee, etc. Listen, but don’t get in the way. You want to get to the point where these interactions are comfortable, and you can really get in touch with the mood.”
+
+Directors also recommend paying attention to whether the company is hiring the right people and building teams in line with growth strategies. “Another realization that it was time for the CEO to go was a recognition that they were not scaling the team,” one director recalled. This isn’t information that can be found on a balance sheet. Rather, it comes down to having a strong board recognizing that the existing CEO does not have the skills needed to drive the company into its next phase of growth.
+
+One of the commonly mixed signals is that the context of competition has changed and the CEO, while competent, is not able to adjust or recognize the magnitude of the market change.
+
+You may also like:
+
+The CEO Life Cycle: A Study of Performance over Time
+
+Very little data exists on how CEOs tend to perform over time. Featured in Harvard Business Review, our CEO Life Cycle study of 747 chief executives sheds some light.
+
+Regularly and rigorously discuss CEO performance. The most effective boards regularly and rigorously discuss CEO performance, which helps to align director expectations. To avoid getting caught flat-footed in a performance decline, boards can regularly discuss questions such as: What decisions and actions are driving the positive (or negative) performance? What are the CEO’s strengths and weaknesses? Do these strengths align with the direction the business needs in the next three to five years? For more insight on how CEOs tend to perform over time and how boards should establish their expectations for their CEO’s performance relative to peers and general market conditions, we recommend reviewing our extensive research on the CEO Life Cycle. The best boards contemplate these questions well in advance of a change in performance.
+
+The moment well-respected and tenured directors start to wonder “Can this person take us where we want to go?” is typically what triggers a serious discussion about CEO performance. How the board handles the process from that point separates good boards from great boards, directors shared.
+
+Some boards spend months, even years, debating everything from the cause of the decline and whether the CEO is to blame to whether there is anyone better suited to the job or whether there is enough information to make a decision. Delays in decision-making increase the risk of further declines and lower the odds of a positive turnaround. Wise boards take on the issue quickly, whether they decide to support the CEO and recommit to their shared plan for the business or make a leadership change. “The most important thing as a board member is to be willing to put the energy into the decision-making process so that the board reaches a place (quickly) where they are all in. If someone is uncomfortable at the table, spend the time to figure out why and how to get them on board.” The pace comes down to board leadership. “It takes a strong chairman or lead independent director who feels a greater pressure to show leadership to step up and broach the subject in the boardroom.”
+
+Don’t send mixed signals to the CEO. Once the signs of a problem become clear, ideally the board will speak clearly to the CEO about the loss of momentum. Too often, a conversation about the board’s concerns and the actions the CEO will take never happens. And the board starts to plan around the CEO instead of with the CEO. Understandably, as one director put it, it is a difficult conversation, particularly when directors like the CEO personally and feel invested in his or her success.
+
+Whether it starts with a one-to-one conversation between the CEO and a single director or a subset of the board, it is critical that directors identify their concerns and expectations. One director explained the tension that can exist as follows. “My philosophy is that when you get along interpersonally with the CEO, it is easier to have those tough conversations. Having a similar style and a shared sense of trust and respect is helpful to fall back on because the reality is this discussion is personal,” one director explained. “While I will never join a board that has a CEO I don’t really like, I also will never try to go too deep on the personal level and become friends with a CEO I do like. The moment the friendship line is crossed is the moment that the decision goes beyond personal and, in turn, destabilization of the organization becomes a risk.”
+
+Approach succession planning as an ongoing responsibility. Another reason directors hesitate making a leadership change is a lack of ready alternatives to the current CEO. Without an obvious internal successor or board director able to step into the CEO role, boards face the prospect of an external search. Given that internal successors can fare less well within underperforming companies, this is a real concern. “If you don’t have a strong internal candidate, the thought of removing your CEO and spending six months looking for someone who might end up not even being better is paralyzing. It is an uncomfortable place to be in when the board is conversing about the CEO’s performance but isn’t feeling ready to replace,” explained one director we interviewed. “You can be stuck in this place for a really long time unless someone on the board can take the lead in driving the situation forward.”
+
+Quote
+
+Anything you can do that gives you a leg up on the process when the time comes, you should do. Spend time developing internals and getting to know external talent so you can benchmark against the current leadership team every two to three years to ground your thinking, but do realize the limits of the process — sometimes you need to just hit go.
+
+The best boards prioritize succession planning even when the organization and the CEO are performing well. Seasoned directors know the importance of continually evaluating the readiness of the leadership team for future roles, setting themselves up for quick action if a CEO change is needed. Investing in executive development internally and relationship building externally in advance of a change is critical. One director quipped, “When our new CEO walked in the door on his first day, we applauded him. We told him, ‘you’re our guy, we love you. Now, who will your successor be?’ His jaw dropped. ‘You just gave me the job?’ ‘Yes,’ we replied, ‘and now you need to start thinking about the succession plan.’”
+
+Having experienced directors — preferably at least one or two former CEOs — around the table to lead proactive planning and push debate forward is helpful to moving quickly, multiple directors advised. “Anything you can do that gives you a leg up on the process when the time comes, you should do. Spend time developing internals and getting to know external talent so you can benchmark against the current leadership team every two to three years to ground your thinking, but do realize the limits of the process — sometimes you need to just hit go.”
+
+Boards position themselves to be prepared for any transition scenario by thinking about succession in terms of different time horizons. As one director explained, “A transition is inevitable, so boards should plan for different timing windows. Boards can break it down and look at the 18-month mark, the three-year mark and the five-year mark and ask themselves, ‘If our hand is forced at this time, what do we do? Would we take six months to run an external search? If so, how do we marshal a committee to ensure it’s an intellectually honest process?’ We spend so much time talking strategy as a board and yet so many boards don’t spend the time to think about these timing windows that are crucial to getting a leg up on succession planning.”
+
+Concluding thoughts
+
+Changing CEOs is a daunting process for board members — and rightly so. While many of our suggestions seem straightforward, our interviews suggested even the highest-performing boards can struggle to execute. The uncertainty, risk of destabilization and the difficulty defining and aligning on performance signals make it challenging for boards to agree on if, when and how to replace the CEO. This research focused primarily on companies undergoing mediocre or negative performance, but all boards can benefit from adopting practices that position them to respond quickly — whether it is to a decline in performance, a change in the market or other changes. As one director concluded, “When things are going ‘fine,’ that can be the most dangerous spot to be in.”
+
+By aligning on a holistic performance dashboard, regularly evaluating performance and maintaining a robust CEO succession plan, boards will be better prepared to react to performance problems. Most importantly, boards must be willing to move quickly when performance concerns arise, whether to replace the CEO or to intervene and recommit to the plan. For the best chance of success, timing does in fact matter.
+
+Methodology
+
+We researched more than 1,850 Russell 3000 CEO transitions that occurred between 2007 and 2017 and tracked stock performance for the two years pre- and post-transition. Our goal was to examine what effect the transition had on company performance and determine whether there is an optimal time for boards to replace the CEO for underperformance. Performance results were indexed against peer groups generated by revenue as well as the companies’ sectoral performance to provide us with a more standardized picture of growth. Every CEO was subsequently categorized along several qualitative variables to better understand if any aspect of their professional background was explanatory of performance.
+
+Author
+
+Jason Baumgarten
+
+Seattle

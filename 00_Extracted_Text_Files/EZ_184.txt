@@ -1,0 +1,539 @@
+AI in Product Management: Understanding the Skills and Tools Needed for the Future - Egon Zehnder
+
+Skip to main content
+
+Search for “”
+
+... in Consultants
+
+... in Offices
+
+... in Services
+
+... in Insights
+
+Search all results
+
+Our Services
+
+Shaping Successions
+
+CEO Successions
+
+Executive Successions
+
+Board Successions
+
+Chair Successions
+
+Committee Chair Successions
+
+Advancing Governance
+
+Board Review
+
+Board Development
+
+Board Advisory
+
+Building Advisory Boards
+
+Sustainability Board Advisory
+
+Discovering Leaders
+
+CEO Search
+
+Executive Search
+
+Board Search
+
+Advisor Search
+
+Executive Assessment
+
+Developing Leadership
+
+Individual Development
+
+Accelerated Onboarding
+
+Development Planning
+
+Coaching
+
+Team Journey
+
+Unlocking Transformations
+
+Transformational Development Programs
+
+Chair and Board Potential
+
+Executive Breakthrough
+
+Executive Discovery
+
+Transformational CHRO
+
+Voyager
+
+Customized Leadership Immersion
+
+Explorer
+
+Cultural Transformation
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Chief Executive Officers
+
+Founders
+
+Technology Officers
+
+Chief AI, Data & Analytics Officers
+
+Chief Information Officers
+
+Chief Information Security Officers
+
+Chief Product Officers
+
+Chief Technology Officers
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+Consumer
+
+Consumer Products
+
+Media & Entertainment
+
+Restaurants, Leisure and Hospitality
+
+Retail, E-commerce, Apparel and Luxury
+
+Sports
+
+Financial Services
+
+Asset Management
+
+Banking and Markets
+
+Digital Assets, Crypto, & Web 3
+
+FinTech
+
+Infrastructure
+
+Insurance
+
+Private Equity
+
+Retail Financial Services
+
+Risk Management
+
+Sovereign Wealth Funds
+
+Wealth Management
+
+Health
+
+Biopharmaceuticals
+
+Healthcare Delivery & Services
+
+Life Sciences Tools & Pharmaceutical Services
+
+Medical Devices, Diagnostics and Technology
+
+Industrial
+
+Aerospace & Defense
+
+Chemical & Process Industries
+
+Energy
+
+Machinery & Industrial Technology
+
+Mining & Metals
+
+Mobility & Automotive
+
+Public & Social Sector
+
+Arts, Culture & Sports
+
+Economic, Social & Human Development
+
+Education & Research
+
+Environment & Sustainability
+
+Interest Representation & Public Affairs
+
+Public Administration
+
+Public Finance
+
+Public Health
+
+Public Infrastructure
+
+Services
+
+Air Transport
+
+Business Services
+
+Hospitality, Travel & Leisure
+
+Professional Services
+
+Real Estate Services
+
+Transportation & Logistics
+
+Technology & AI
+
+Artificial Intelligence
+
+Communications & Connectivity
+
+Cyber Security
+
+Digital
+
+Enterprise Tech
+
+Internet of Things
+
+Semiconductors
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+Functions
+
+Industries
+
+Meet our Consultants
+
+Discover Insights
+
+Find Offices
+
+About Us
+
+English
+
+Change
+
+Functions
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Industries
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+About Us
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+English
+
+Deutsch
+
+中文
+
+日本語
+
+Technology OfficersHow AI Is Redefining Product Management
+
+The Future of AI in Product Management: What Skills, Tasks, and Mindsets Will Define Tomorrow’s Leaders?
+
+June 2024
+
+9 mins read
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+As artificial intelligence (AI) reshapes industries at breakneck speed, product management is entering a pivotal era of transformation. While product managers (PMs) have long been the bridge between technology, commercial needs, and customer experience, AI in product management is forcing a new evolution.
+
+This next chapter requires PMs to enhance their data fluency, rethink traditional workflows, and lead organizations through disruptive innovation with even greater strategic insight and empathy.
+
+In this article, we explore how AI is redefining product management, which tasks are being automated or augmented, and what skills and priorities today’s PMs must embrace to stay competitive in an AI-driven future.
+
+What Impact Does AI Have on Product Management?
+
+AI is reshaping product management in ways that extend far beyond simple task automation. It’s transforming how products are imagined, built, launched, and iterated – changing not just workflows, but the very competencies product leaders must cultivate to succeed.
+
+Product Strategy
+
+First and foremost, AI enables data-driven product strategy at an unprecedented scale. With the ability to process massive volumes of customer data, usage metrics, market signals, and competitor insights, AI equips product managers with richer, faster intelligence than traditional methods ever could. Instead of relying on intuition or limited datasets, today’s product leaders can use AI-powered tools to uncover emerging customer needs, forecast trends, and identify market gaps earlier. This ability to proactively shape product strategy, rather than react to developments, has become a critical differentiator.
+
+Product Discovery and Specifications
+
+AI is also redefining product discovery and specification processes. Natural Language Processing (NLP) and generative AI models assist product managers by drafting early versions of user stories, identifying user pain points hidden within feedback data, and even suggesting new feature ideas. These tools don't replace human creativity but act as accelerators, allowing product teams to move faster from insight to action.
+
+Execution and Resource Management
+
+On the operational side, AI is streamlining execution and optimizing resource management. Machine learning models can predict project risks, suggest optimal sprint plans, automate bug detection, and analyze feature adoption rates – helping product teams improve speed, quality, and efficiency across the development cycle. AI can also forecast how different resource allocations might impact project timelines or customer outcomes, supporting smarter decision-making at every stage of shipping a product.
+
+Collaboration Across the Product Team
+
+Importantly, AI is transforming collaboration within and beyond the product team. Virtual assistants and AI-powered project management tools automate note-taking, meeting summaries, action item tracking, and stakeholder updates. This reduces administrative burdens and enables cross-functional teams to stay aligned more easily– particularly critical in hybrid or global environments where seamless communication is essential.
+
+Is AI Replacing the Product Manager?
+
+Not fully– but the most profound impact of AI in product management may be how it elevates this role. As AI increasingly handles data analysis, forecasting, and tactical project management, the human product leader’s role shifts toward higher-value activities: crafting strategic vision, driving user-centric innovation, guiding organizational alignment, and navigating the ethical considerations of product decisions powered by AI.
+
+In this new era, product managers must blend deep technical fluency with strong emotional intelligence, balancing hard data with human-centered design. They must not only master the latest AI tools but also sharpen timeless leadership skills – critical thinking, storytelling, cross-functional influence, and customer empathy.
+
+And, despite all its growing capabilities, many AI-driven tools are still imperfect and prone to mistakes. Having a human touch for anything you produce is not just suggested, but necessary.
+
+Ultimately, AI isn’t replacing the product manager. It’s amplifying the potential of the role while raising the bar for what excellence looks like.
+
+What Areas of Product Management Will AI Have the Biggest Affects On?
+
+AI is reshaping the product function across three critical dimensions:
+
+Shaping the Product (Strategy, Goal Setting, Discovery)
+
+Shipping the Product (Execution, QA, Resource Management)
+
+Communication and Collaboration (Stakeholder Alignment, Cross-functional Coordination)
+
+Let’s dive into each of these areas in more detail to understand the impacts and things we can do to prepare for AI pervasiveness in product management.
+
+Area #1: Shaping the Product
+
+AI is fundamentally changing how product managers shape strategy and guide discovery. With the ability to analyze vast amounts of data and uncover hidden patterns, AI-powered tools are influencing the development of smarter, more informed product strategies. By surfacing insights on market trends, customer behaviors, and competitive landscapes, these tools enable product managers to craft strategies and visions that are more data-driven and forward-looking.
+
+AI also plays a significant role in goal setting and KPI identification; machine learning algorithms can suggest performance indicators aligned with broader business objectives, helping product leaders establish more accurate and achievable targets.
+
+When it comes to product discovery and specification creation, AI tools – including Natural Language Processing (NLP) and generative AI – streamline and accelerate the process. They can assist in drafting initial specs, analyzing customer feedback, and uncovering valuable insights to inform development. Roadmap building is similarly enhanced through AI integration. Rather than relying solely on intuition or limited datasets, product managers can now prioritize features and plan roadmaps using predictive analytics that reflect real-time customer needs, emerging market demands, and long-term business impact.
+
+Ultimately, AI empowers product leaders to move faster, think bigger, and align product shaping activities more tightly with strategic goals.
+
+Area #2: Shipping the Product
+
+AI is also transforming the way products are shipped – enhancing quality, optimizing resources, and unblocking obstacles faster than ever before. In quality assurance and testing, AI-powered tools can detect bugs, usability issues, and potential risks early in the development cycle. Machine learning models can automatically generate test cases based on product specifications, significantly reducing the manual time and effort typically required for quality assurance.
+
+AI further supports smarter resource allocation and budget management by analyzing historical project data, forecasting potential bottlenecks, and recommending proactive adjustments. This allows product managers to allocate time, people, and funding more effectively and avoid costly missteps. When it comes to managing timelines and roadblocks, AI-driven project management platforms provide real-time visibility into project risks and workflow delays, enabling faster interventions and more agile decision-making.
+
+Together, these capabilities mean product managers can ship faster, with higher quality, and with more confidence in every release.
+
+Area #3: Communication and Collaboration
+
+Communication and collaboration – critical elements of any product leader’s role – are becoming faster, smarter, and more seamless with the help of AI. AI-powered virtual assistants and meeting tools can create more structured and productive conversations. Collaboration platforms enhanced by AI enable real-time sharing of product updates, facilitate feedback loops, and synthesize input across teams to ensure stakeholders stay aligned and informed.
+
+AI tools can also surface hidden misalignments early by analyzing sentiment in communications, allowing product managers to resolve potential conflicts before they escalate. Cross-functional collaboration benefits as well, with AI-driven systems offering centralized access to critical product documents, tracking task dependencies, and making it easier for geographically dispersed teams to work together efficiently.
+
+In a world where stakeholder alignment and cross-team execution are non-negotiable for product success, AI acts as the connective tissue that makes collaboration more dynamic and results-oriented.
+
+Evolving the Product Manager's Role for the Age of AI
+
+As tactical tasks become automated or augmented by AI, the true value of product managers is shifting toward higher-order thinking and human connection.
+
+Here's how:
+
+Tasks Likely to be Significantly Impacted by AI:
+
+Strategy and vision development
+
+Goal setting
+
+Quality assurance and testing
+
+Roadmap optimization
+
+Tasks Enhanced but Still Human-Driven:
+
+Spec creation and refinement
+
+Cross-functional coordination
+
+Stakeholder communication
+
+Tasks That Will Always Require a Human Touch:
+
+Critical thinking and creative problem solving
+
+Emotional intelligence and cultural navigation
+
+Strategic storytelling and product evangelism
+
+New Priorities for Product Managers and Leaders in an AI-Driven World
+
+As AI reshapes traditional product management tasks, the role of the product manager is evolving rapidly, with new priorities coming into focus. With AI increasingly handling tactical execution and data analysis, product managers must sharpen their strategic thinking and vision-setting abilities. Developing a deep understanding of customer needs, market dynamics, competitive shifts, and long-term business objectives will become even more critical. Product managers will be expected to set the direction for product development efforts with clarity and foresight, crafting strategies that go beyond immediate operational concerns.
+
+In this AI-enhanced environment, cross-functional collaboration and influence are becoming vital leadership skills. Product managers must not only foster trust and build strong relationships across diverse teams but also align varying perspectives into a cohesive product vision. As AI platforms speed up communication, the human element of relationship-building and consensus-driving will be indispensable.
+
+Despite AI’s power to surface user insights, true product excellence still demands what many refer to as “product sense” – an intuitive understanding of user behaviors, pain points, and emotional drivers. Product managers must maintain a close connection to the customer experience, ensuring that the products they build resonate deeply with end users and differentiate meaningfully in the market.
+
+Equally important is the ability to communicate effectively and manage a growing ecosystem of stakeholders. As the central bridge between technical teams, business leaders, and customers, product managers must hone the ability to translate complex technical concepts into actionable business insights, articulate a compelling product vision, and manage expectations in an increasingly fast-paced, high-stakes environment.
+
+To thrive in this new era, product managers must focus on developing a blend of the following critical capabilities:
+
+Strategic acumen to navigate uncertainty and steer long-term success.
+
+Influential leadership to align and energize cross-functional teams.
+
+Deep product intuition to deliver exceptional user experiences.
+
+Sophisticated communication to bridge the business and technical worlds effectively.
+
+By embracing these expanded priorities, product leaders will not just adapt to AI—they’ll unlock new levels of impact and set the pace for the future of the function.
+
+Tips for Embracing the AI-Driven Product Management Landscape
+
+To thrive in the AI-driven product management landscape, both product leaders and their organizations need to embrace change and adapt to the new reality.
+
+This includes:
+
+Upskilling and Adapting to the New Reality
+
+Product managers must continuously invest in developing new skills and competencies, such as data literacy, strategic thinking, and emotional intelligence. Embracing a growth mindset and committing to lifelong learning will be crucial for staying relevant and competitive.
+
+Leveraging AI Tools and Technologies Effectively
+
+Organizations should prioritize the adoption of AI tools and technologies that can enhance product management processes. However, it is essential to strike a balance between leveraging AI's capabilities and maintaining human oversight and decision-making.
+
+Fostering a Culture of Innovation and Continuous Learning
+
+Companies should cultivate a culture that encourages innovation, experimentation, and continuous learning. This includes providing ongoing training, creating dedicated innovation teams, and encouraging cross-functional collaboration to explore new AI-driven solutions.
+
+Closing Thoughts on AI in Product Management
+
+AI won’t replace product managers. But product managers who know how to use AI will replace those who don’t. Those who recognize how to pair machine intelligence with human insight will define the future of the product function – building smarter, faster, and more human-centered solutions than ever before.
+
+Organizations that invest now in upskilling their product teams and strategically deploying AI will capture a lasting competitive advantage in the years ahead.
+
+Ready to Future-Proof Your Product Leadership?
+
+At Egon Zehnder, we partner with organizations to identify, develop, and support the next generation of product leaders. Whether you’re adapting to AI-driven changes or building a future-ready product function, our expertise can help you navigate the evolving landscape with confidence.
+
+Learn more about how Egon Zehnder supports leaders navigating the future of AI in product management.
+
+Topics Related to this Article
+
+Product
+
+Artificial Intelligence
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Written by
+
+Stay up to date with our latest insights.
+
+Subscribe now
+
+Changing language
+
+You are switching to an alternate language version of the Egon Zehnder website. The page you are currently on does not have a translated version. If you continue, you will be taken to the alternate language home page.
+
+Continue to the                 website
+
+Back to top

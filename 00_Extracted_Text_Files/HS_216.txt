@@ -1,0 +1,227 @@
+Financial services: Ensuring the next generation of risk leaders is ready | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Financial services: Ensuring the next generation of risk leaders is ready
+Explore this page What CROs need to know nowWhat’s missing in traditional risk-executive development processesDeveloping the risk leaders of the futureAbout the authorRelated Content
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Audit, Risk, Compliance & Controls Financial services: Ensuring the next generation of risk leaders is ready
+
+Chief risk officers in financial services need to be far more than financial risk experts today. Firms need to fundamentally change how they develop risk executives to ensure they will have the leaders they need.
+
+Mark Jackson
+
+Advice for aspiring risk leaders
+
+Many CROs see ongoing learning on a broad range of topics as a crucial element for how people can prepare themselves for becoming a CRO. “If I have one bit of advice, it’s that they be curious and open-minded, and force themselves out of their comfort zone,” says Aylin Somersan-Coqui. Building knowledge not only about the business but also in areas such as emerging technologies and economic trends will help aspiring CROs connect the dots across their organizations. Andrew Williams, a former global compliance leader and now a prominent executive coach, adds that challenging yourself and having different experiences are what is important. “You have to take a strategic view of your own career, and the path is rarely linear,” he says. “Sometimes you have to move downward or take side steps to gain a breadth of experience.”
+
+Nordea’s Elderfield adds, “My career advice to people is, don’t be so fixated on the next step in your silo path. Be willing to take a sideways move to develop your breadth of knowledge. Some areas are easier to move across, like compliance and operational risk, but you have to look beyond, into areas of weakness. Invest your time and meet stakeholders.” Andrew Williams adds: “People in the next level down would benefit from knowing that soft skills matter more than the hard skills because they are rare. They’ll need someone to help them, and making that investment is important.”
+
+Chief risk officers (CROs) could once thrive in financial services solely on the basis of strong credit- or market-risk expertise. Now, however, a CRO needs much more, and firms are having trouble finding people with the right mix of skills. At international banks, for example, just over half of the CRO roles turned over in the four years between 2017 and late 2020 as financial services firms sought a different skill set from the functional leaders. Today, financial services CROs need to have not only a strong background in traditional risk types but also business acumen; knowledge and curiosity about emerging risks; credibility and influence in the organization; and digital dexterity. Stephen Shelley, CRO at Lloyds Banking Group, says, “Technical competency will give you immediate credibility, but it doesn't help do the job. What will make people successful in the job are the softer skills around strategic thinking, influencing, the ability to build relationships, curiosity, and the like.”
+
+What’s changed? First, the increasing range of material non-financial risks, which includes those created by technology, globalization, climate change, political instability, and even pandemics. Though once these were beyond the scope of the risk function, today many such risks are deeply complex, interrelated, and quickly scalable. In addition, the size of the risk function has grown in response to these new risks, as well as to the growth of firms themselves. Regulators, meanwhile, have become harder to please. They still tend to want to see firms appoint CROs whose bulk of experience is in traditional financial risk, even though that is a shrinking—though still crucial—part of the role. Kirsty King, global head of HR, global functions, at HSBC, likens the search for a CRO to “looking for a unicorn.”
+
+The main reason risk leaders with broad experience are so rare has to do with the way most financial services firms develop people in the function, as interviews with leading chief risk officers and other experts suggest. Firms still focus on the strong quantitative analysis skills that have been traditionally valued in the environment. Analysis of proprietary Heidrick & Struggles data adds more understanding of where the skill gaps are and highlights some strengths that are helping risk executives make the leap to the top role. These strengths include curiosity, self-awareness, and the ability to solve complex problems. Our experience and interviews suggest several steps that CEOs, CROs, and CHROs can take to fundamentally change the way their firms think about developing talented risk executives to ensure the next generation of leaders will be ready.
+
+What CROs need to know now
+
+Aylin Somersan-Coqui, CRO at Allianz, has a background that gives her a particularly broad perspective: “I have been a CFO, CEO, and CHRO, and very much valued the close cooperation of the key functions within the business. This is true for the risk function as well: if you don’t understand the business, all the models you develop can be irrelevant to the business.” She adds that even the fundamentals have changed, saying, “Non-financial risks are growing in importance with the disruption the insurance sector is going through and all the digitalization trends being accelerated by the COVID-19 pandemic. These include transformation risk, operational risk, conduct risk, IT, cyberrisk, or IT security risk.” HSBC’s King adds that she sees a need within the risk function “to find the intellectual agility to underwrite climate risk, cyberrisk, third-party risk, reputational risk, and so on. There is a need to evolve from being a traditional risk function, strong in underwriting financial risks, to also underwriting a much broader spectrum of risks.”
+
+Somersan-Coqui’s point on CROs getting close to the business has another layer: CROs today need to be translators, able to explain risk management through a business lens to multiple stakeholders. These include the CEO, the board, senior colleagues, and regulators. “Stakeholder management is very important,” emphasizes Matthew Elderfield, CRO at Nordea. “It helps CROs set the agenda. But they must be clear, transparent, and calm in all interactions so as not to provoke disproportionate reactions.” Nigel Williams, group chief risk officer at Commonwealth Bank of Australia (CBA), adds, “It’s a tough role, so you’re going to need someone who is independent and comfortable with disagreement. A CEO should have a CRO who is asking questions across the organization—someone who is independent, will challenge them, is curious across the organization, and has the ability to communicate the risk appetite as it’s aligned to strategy.”
+
+Mandy Norton, CRO at Wells Fargo, also emphasizes the importance of being able to drive the right risk conversations with the front line, noting, “I’ve seen risk leaders who sit too far from the business, and others get too involved and lose their ‘independence.’ What’s important is the balance of empowering the business to manage its risk while providing appropriate independent review and challenge; the translation of programs and policies into effective tools that can be implemented is key to this objective.”
+
+A successful CRO must also be an influencer. “Sophisticated influencing skills are one of the most important skills we look for and a key indicator of success,” says Sarah Grice, global head of HR functions and talent at Standard Chartered Bank. Grice, who has focused on the risk function for the past two years, adds, “To influence, you need to have a high level of credibility. And to do that, you need to understand the business you are working with, bringing high levels of commercial acumen and strategic focus.” Paul Fabara, CRO at Visa, says bluntly, “If you are not good at influencing people, you will not be a very capable CRO.”
+
+Having the business perspective and ability to influence also means that CROs must have solid relationships inside and outside the organization. According to Jodi Richard, CRO of U.S. Bank, this has been fundamental to her growth in the role: “My approach relies on me developing personal relationships and sharing and over-communicating information.” Close relationships between a CRO and other leaders help to make sure they have each other’s backs. Says Richard, “If they trust you, they will see you as a valued partner who helps them solve issues rather than just get approval for their initiatives.” Richard adds that the ability to spot emerging risks is another key skill for the CRO: “How do you make sure you have that keen eye when something may seem small but has the potential to be big?"
+
+Finally, CROs must be familiar with digital: the source of important new risk management tools and significant new risks. Jason Davey, head of non-financial risk optimization and group head of operational and resilience risk at HSBC, says, “Technology can be a big enabler of risk management—automation, artificial intelligence, machine learning, and so on. The first obstacle is the fact that many risk professionals don’t know what can be done with technology or understand what AI is or how to use machine learning to improve the effectiveness or efficiency of risk management.”
+
+Visa’s Fabara wholeheartedly agrees. “A CRO who doesn’t have a technology background or is uncomfortable with AI or machine learning will have a problem operating effectively in this industry in the future,” he says. “The CRO of the future has to understand technology a lot more, at least as well as they understand the business.”
+
+Over our years of talking with CEOs, CROs, CHROs, and boards about the role, we have seen these concerns become more intense, and the right candidates increasingly rare. We believe that the best way for financial services firms to reduce their own risk is to develop more potential risk leaders internally.
+
+What’s missing in traditional risk-executive development processes
+
+CROs have traditionally been promoted through the ranks of the risk function by being very good at a single discipline of risk analysis such as credit risk, market risk, or, more recently, non-financial risk. That approach is not only traditional but one that regulators most often look for. Standard Chartered’s Grice says, “It’s hard to consider someone for a CRO role who doesn’t have a strong credit background, while recognizing that increasingly a broader set of skills is also required to be a successful CRO for the future.” Graeme Hepworth, CRO at Royal Bank of Canada (RBC), adds that “the regulatory environment has created a stretch in the CRO role that requires different competencies and development needs compared to 10 years ago.”
+
+From the regulatory perspective, Sam Tymms, a former UK regulator and now a regulatory consultant at Promontory Financial Group, explains that regulators don’t have an incentive to support financial institutions innovating in CRO roles. She notes that regulators are aware that what’s needed “is a leader, not a technical expert,” but potential CROs still “need to be able to hold a technical conversation with the regulator.” And, since the interview process focuses on technical competency and past experience, it becomes challenging for the largest banks to avoid “recycling the same talent.”
+
+Now, in our view, there is more risk in not shaking up the system. The industry needs to disrupt itself in this area and take a more proactive approach to the approval process. Indeed, there is a view from many within the regulatory community that financial institutions are making outdated assumptions and that a wider dialogue when looking to appoint diverse talent would be welcomed. Tymms confirms that “when organizations challenge [the traditional approach] with a very well-prepared candidate, it is possible to get them through.”
+
+The core issue with the current approach to developing potential CROs is that it is failing to consistently build risk leaders with the dynamic, frontline, relationship-building experience that is needed now and for the future. “As a package, I think people with the range of soft skills we need are sparse on the ground,” says Mark Smith, group CRO at Standard Chartered. “I think the skills are there, but our organization and other organizations need to do better to find and foster them.”
+
+“People often lack the breadth of experience needed for the skill set,” adds Wells Fargo’s Norton. “Many risk managers have career experience only within risk management teams. I would like to see more people who have varied career paths, including roles within the front line—managing a P&L—taking roles within risk management teams.” She adds that solving problems together will also help build bridges: “Go help fix an issue from a risk management perspective. You learn a lot from this. Don’t be afraid to run into a fire and help fix things and move things forward.”
+
+The skill gaps many risk executives face between where they are today and what’s needed to be a successful CRO are illuminated by Heidrick & Struggles research. A survey conducted with the Global Association of Risk Professionals shows that, compared with executives overall, risk executives tend to be less comfortable with change and ambiguity. They also tend to do less well with team building, establishing relationships, communication, and considering dissenting points of view.
+
+In the context of the industry’s digital transformation driven by the COVID-19 pandemic, skills such as team building and communication are even more important. That’s because, for financial services firms, the pandemic has necessitated remote working as well as increased the demand for contactless payments and other innovations. Other work we have done highlights that CROs, like any other senior executive, need to lead with empathy, purpose, and innovation to ensure they make the most of these technological changes. (For more, see “Becoming a digital-first organization: Making the most of crisis-driven digital transformation.”)
+
+Furthermore, analysis of Heidrick & Struggles proprietary data quantifies the concerns of the CROs we talked with about the distance from the front line. Our data shows that current risk leaders score markedly lower than their peers on a whole set of leadership behaviors related to understanding customer needs and being able to disrupt and challenge in a constructive way. In addition, CROs more often see themselves as being too perfectionistic.
+
+Beyond their customer-facing capabilities, successfully challenging other parts of the business is core to being a successful CRO, as CBA’s Williams explained. It’s notable that our analysis also shows that most companies don’t seek executives who can disrupt and challenge. Our experience underscores that they do so even more rarely for risk leaders. In this context, Visa’s Fabara highlights a crucial balance: “The worst thing you can have is a CRO who doesn’t want to take risks. Decisions need to be calculated, informed, [and we need to] understand the consequences of them and so on, but if we didn’t have the appetite to take a risk, it would hugely stall the world of finance.” (For more, see “Disruptive leaders: An overlooked source of organizational resilience.”)
+
+Developing the risk leaders of the future
+
+The question becomes how financial services firms can develop the right balance of filling the CRO skill set gaps without losing the role’s traditional core skills. Succession planning for senior roles is a significant annual exercise for HR leaders, and rightly so. But CROs have sometimes stood aside. Sam Tymms also points out that if something goes wrong from a risk perspective, boards and other leaders can, essentially, blame the system if they’ve hired someone who looks good on paper. Zdenek Turek, the EMEA CRO at Citi, notes that “part of the problem is the fault of the institution. They see risk executives as a safe pair of hands and don’t think of developing their leadership skills.”
+
+When CEOs, CROs, and CHROs think differently about risk leaders, they can help their organizations develop the right pipeline. Particularly in a function that is changing and growing, leaders need to step back and understand what barriers they will face while developing the next generation. Are they cultural or structural? Is there a fear of change? The key is determining how they can support the career paths to develop the leaders of the future. Then, leaders should assess executives across their organization in the context of the structure they develop for support, as well as against the crucial CRO capabilities. Such an approach should allow firms to create individualized development plans for potential CROs that will support them in building the necessary new and traditional capabilities. (For more on matching executives and roles, see “Navigating top talent decisions for mergers and acquisitions.”)
+
+Although there are some large gaps between what leads to success at the lower levels in the risk function and what CROs need to know and do, there is some good news. Our proprietary data highlights that current CROs are typically more curious and open-minded than other executives, have greater self-awareness, have a greater ability to solve complex problems, and more often invest time in learning about the world around them.
+
+Changing the institution
+
+Firms can build on those strengths from deep in the organization. Mandy Norton says, “We need to be bold. We need to go down three or four levels to push people, give them support, and put them in another role—to guide them in the areas they have had less experience in.”
+
+Firms should ensure development plans include rotating potential risk leaders through frontline business roles to build their business acumen and experience—what HSBC’s King describes as “cross-pollination.” CBA’s Williams adds, “Moving people around different roles to build talent is critical. Skills are transferable, but curiosity and communication need to be developed.”
+
+Rotations will help build the connection to the customer that current senior risk executives often lack, as well as a much deeper understanding of the business and how P&L owners think. RBC’s Graeme Hepworth explains, “I have awesome domain experts, but risk managers who can connect issues in counterparty credit with market risk and operational risk are better positioned for more senior roles where commercial balance helps inform effective decision making.”
+
+It can be difficult for firms to support such sideways career paths. It takes long-term investment, and many people don’t want to risk stepping off the traditionally linear promotion track. Not all rotations will be successful, a point several CROs noted as a core problem with this approach. They stress that it’s important for firms to build an organizational and psychological safety net so that a failed rotation isn’t necessarily career defining. “We must always be patient and allow our colleagues to test, learn, and sometimes fail when navigating through different career journeys. If we ask people to take a big leap of faith, we also guarantee them a return ticket,” says Stephen Shelley.
+
+Another often-cited drawback to career rotation is compensation. Second-line functions such as risk and compliance are typically paid less than counterparts in the business. So, the risk function must be able to incentivize highflyers to return from their rotation in other parts of the organization.
+
+Some CROs also suggest having frontline leaders make a rotation through the risk function as part of their development. This would further improve communication. “Often, what CEOs think they want from the role, and what they think the role is, may be very different,” says Hepworth. Turek adds that after stepping recently into a CRO seat after a career in the business, his biggest surprise was “how little I understood the risk organization—and I thought I knew a lot about it. It is not commonly understood in the front office or other areas. It’s clear that risk needs to explain itself better.” (See sidebar, “Advice for aspiring risk leaders.”)
+
+Beyond business acumen and relationships, digital dexterity is another development area for risk executives (as well as those in many other functions). Firms should focus on the digital skills of risk leaders just as much as frontline leaders. A greater focus on customer experience, ongoing learning, leveraging new technologies, and supporting executives stepping out of their comfort zones is one of the most important facets of building a digitally dexterous executive team. Many current CROs are strong proponents of ongoing learning, such as Visa’s Fabara and Senthil Kumar, senior executive vice president and CRO of BNY Mellon, both of whom have taken courses on emerging technologies to stay up to date. (For more, see “Building digital dexterity in your leadership team.”)
+
+*** Financial services firms know they are seeing significant turnover among their risk leaders. CEOs, CROs, CHROs, boards, and regulators must act now to avoid the risk of not having the right leaders to help them navigate the vastly complex environment in which global financial institutions now operate. Business acumen, digital dexterity, and a range of soft skills are all needed now and will become only more important. Organizations must identify high-potential risk leaders early and focus on the core skill set for the role today and in the future, rather than the past. Those that create thoughtful career paths for those leaders have the best chance of succeeding.
+
+About the author
+
+Mark Jackson (mjackson@heidrick.com) is a partner in Heidrick & Struggles’ London office and a member of the Financial Services Practice.
+
+Acknowledgments
+
+Thanks to the following Heidrick and Struggles colleagues for their contributions to this article: Lucy Bull, Paul Gibson, Liz Langel, Teresa Rodriguez, and Craig Williams.
+
+The author also wishes to thank Jason Davey, Head of Non-Financial Risk Optimization and Group Head of Operational and Resilience Risk, HSBC; Matthew Elderfield, CRO, Nordea; Paul Fabara, CRO, Visa; Sarah Grice, Global Head of HR Functions and Talent, Standard Chartered Bank; Graeme Hepworth,
+CRO, Royal Bank of Canada; Kirsty King, Global Head of HR, Global Functions, HSBC; Senthil Kumar,
+Senior Executive Vice President and CRO, BNY Mellon; Mandy Norton, CRO, Wells Fargo; Jodi Richard, CRO, U.S. Bank; Stephen Shelley, CRO, Lloyds Banking Group; Mark Smith, Group CRO, Standard Chartered Bank; Aylin Somersan-Coqui, CRO, Allianz; Sam Tymms, Regulatory Consultant, Promontory Financial Group; Zdenek Turek, EMEA CRO, Citi; Andrew Williams, Executive Coach; and Nigel Williams, Group CRO, Commonwealth Bank of Australia, for sharing their insights. Their views are personal and do not necessarily represent those of the companies they are affiliated with.
+
+Related Services & Industries
+
+Audit, Risk, Compliance & Controls
+
+Banking
+
+Financial Services
+
+Leadership Development
+
+Legal, Risk & Compliance
+
+Wealth & Asset Management
+
+Related Content
+
+Financial Officers
+
+Leadership perspectives: Insights from Alison Henwood, Chair of the Audit Committee of Umicore
+
+In this video, Alison Henwood, Independent Non-Executive Director, Chair of the Audit Committee of Umicore, shares insights into the ideal audit chair-CFO relationship, and the leadership capabilities required for mutual success.
+
+Legal Officers
+
+Government and corporate affairs focus: Finding leaders who can effectively manage political and regulatory risk
+
+Navigating the constantly evolving global political and geopolitical landscape is a strategic necessity today. Our work with US and global companies suggests a comprehensive menu of options and some questions companies can use to navigate them, whether they are just starting out or already have a foundation to build on.
+
+Audit, Risk, Compliance & Controls
+
+Financial services focus: Attracting and retaining the next generation of risk leaders
+
+As financial services firms face an unprecedented and volatile mix of risks, nine considerations will help them identify and develop the risk leaders they’ll need to be future-ready.
+
+Audit, Risk, Compliance & Controls
+
+Navigating the regulatory environment and balancing stability and innovation: A conversation with Michael Held, partner at WilmerHale
+
+Michael Held, partner at WilmerHale and former general counsel at the Federal Reserve Bank of New York, discusses how traditional finance and crypto and fintech leaders can navigate the ever-evolving regulatory environment.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

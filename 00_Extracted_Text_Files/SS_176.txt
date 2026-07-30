@@ -1,0 +1,170 @@
+Private Eye: Data and AI in Private Investment Markets
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Private Eye: Data
+and AI in Private
+Investment Markets
+
+By
+
+Peter Hodkinson,
+
+Tim Ogle and
+
+Charlie Stack
+
+June 2024
+
+| 6 min read
+
+Authors
+
+Peter Hodkinson
+
+New York
+
+Tim Ogle
+
+New York
+
+Charlie Stack
+
+New York
+
+SectionsIn this article
+
+A year ago, our first “Private Eye” article investigated how the private capital industry — private equity firms, hedge funds, “growth equity” firms, real-asset investors and credit alternatives to traditional bank lending — were addressing key technology questions. All but a handful of elite investment firms are still playing catch-up when it comes to developing technology-enabled business models. The explosive growth of private capital markets in the past two decades — and in particular the past few years — has exposed the general need for more modern technology basics such as CRM, data storage, reporting and information security.
+
+For our next Private Eye article, we look at the next step in these technology investments: how some leading firms are harnessing their rich data assets to power sustainable value and competitive advantage in a data-driven, AI-enabled future. We spoke with several top leaders whose firms are in the vanguard of this shift, driving significant value creation as they navigate forward. These firms are building a “flywheel” of capabilities, deploying data science and AI to improve performance across the investment life cycle, from deal sourcing to portfolio optimization. They are fully committed to building new capabilities, learning new skills and adopting new ways of working that will be more difficult to deploy at scale. The result is that they are unlocking value, both for investors and the companies they own, from the advantages inherent to the private portfolio business model.
+
+Upgrading data foundations
+
+The extremely lean structures common in private markets and the resulting paucity of data assets have for many years provided a significant barrier to effectively adopting data-driven approaches. In the early days of big data, armies of people were needed to organize data and build models. Even when that was possible, monetizing the efforts was difficult, as private firms often lacked the volumes of standardized information that publicly traded firms regularly generate through public filings and real-time market data. The overarching result is a general underinvestment in data-driven capabilities by the private capital industry, which more commonly has run investment and reporting processes on the backs of spreadsheets, spinning cycles on manual data munging and manipulation.
+
+However, advances in cloud technology and greater access to open-source models have enabled some private investors to test and deploy AI and data solutions more easily. Further improvements in data science and machine learning have also allowed them to work with private equity data sets, from sourcing to due diligence to ownership and operation.
+
+Outsourcing partners and cloud providers are helping lay some of these foundations, while some firms are using small internal teams to develop proprietary approaches. Either way, long-term effectiveness comes from a financial and organizational commitment. But where does that commitment come from? The next sections look at some answers to this question.
+
+Common challenges to navigate
+
+Cost. While low-budget progress is possible, meaningful returns typically
+require meaningful investment.
+
+Talent. Experienced practitioners, especially those with investing
+experience, remain thin on the ground and highly sought-after.
+
+Cultural resistance and change. Successfully capturing the value of data
+and AI requires real behavioral change from practitioners who have largely
+succeeded without them until recently.
+
+Scalability. Designing and deploying a new capability or platform across a
+diverse business and portfolio is challenging. Few companies have so far
+managed it.
+
+Download
+
+Download
+
+Embracing AI for operational efficiency
+
+At the GP level, artificial intelligence can automate routine tasks and optimize complex operations, allowing firms to focus precious human capital on more strategic, higher-value activities. Predictive analytics can also ensure regular, reliable and accessible risk assessment and tracking.
+
+Integrating AI into operations is perhaps the easiest for firms to tackle, yet also generally does not lead to the type of behavior change that drives major value down the line. As expectations evolve, and as competitive positioning changes, moving the needle will require more sophisticated reporting. One investor we spoke with said that many private investment firms do not offer clients a detailed view of risk across large asset portfolios. In other words, they have a strong overall understanding of the quality of an investment, but perhaps less understanding of the potential risks. AI-enhanced operations can help with improving that.
+
+Building scale through portfolio operations
+
+Whether an asset is simply an arcane debt portfolio or an operationally intensive retail, technology, healthcare or industrial business, being part of the portfolio can offer considerable top-line growth and bottom-line efficiency when multiple assets tap into common platforms and specialist talent.
+
+While many businesses within a portfolio may individually lack the sophistication or investment to embark on the journey, their private equity owner can offer that access. The most common model is to build a small team of experts to build a common capability accessible to portfolio companies.
+
+For example, Blackstone sponsors a 350-person data science “community” across portfolio companies that helps individual portcos build data-driven cultures. Over time and scale, pattern recognition becomes more precise and reliable, and best practices and insights are shared across the portfolio, allowing for “thought leadership at large scale.”
+
+Whether an asset is simply an arcane debt portfolio or an operationally intensive retail, technology, healthcare or industrial business, being part of the portfolio can offer considerable top-line growth and bottom-line efficiency when multiple assets tap into common platforms and specialist talent.
+
+How do you establish a strong portfolio operations team? The companies that have made meaningful advances offer the follow advice:
+
+Establish a common vernacular across the portfolio
+
+Build a data-team culture focused on portco success
+
+Include your data/AI leader on the investment committee
+
+Ensure that your portcos also have digitally minded leaders devoted to positive outcomes
+
+Define the right use cases that deliver the biggest ROI
+
+Focus on patiently accumulating small successes (rather than a “big reveal”)
+
+Modernizing the investment process
+
+Public markets have been on a digitization journey for more than 30 years. In asset management, even large “traditional” managers use sophisticated data and machine intelligence to aid their investment process; some quantitative investors are almost entirely automated.
+
+Private markets have a lot of catching up to do, but also a huge opportunity, especially if a “higher-for-longer” macro environment carries on and pre-2021 returns become harder and harder to achieve. Some larger private market firms have already begun seeking ways to better leverage their proprietary data assets to help deal teams both identify and evaluate opportunities faster and more accurately than their peers. EQT, the Stockholm-headquartered global investor, is a leader in this regard, with its Motherbrain platform that “future-proofs” its portfolio companies using the firm’s proprietary data assets coupled with external data sets and AI.
+
+Data not only ensures investment evaluation but also provides a competitive edge by identifying trends and opportunities ahead of the market and monitoring the performance of and risks inherent in the existing portfolio. These opportunities require new processes to fully take advantage of the new tools, so the opportunity is usually more difficult to unlock; typically these sorts of investments start with pilot programs to determine whether they are worth scaling.
+
+Data not only ensures investment evaluation but also provides a competitive edge by identifying trends and opportunities ahead of the market and monitoring the performance of and risks inherent in the existing portfolio.
+
+Investing in private markets is often about “conviction”: how confident an investment team is in a particular investment decision. In highly competitive markets, how fast you can reach the conviction to make a deal (or walk away from one) is a core “edge,” and the leaders we spoke with illustrated how AI can accelerate this advantage. For example, using AI to retrieve insights from past deals and precisely summarizing pros and cons could revolutionize the decision-making process and help firms navigate complicated dynamics. One leader told us his firm is applying “alternative” data to test and validate investment theses and reach conviction sooner. In the end, AI can help private equity firms get ever better at what they do: understanding what makes a great deal for them.
+
+Embracing nimbleness
+
+Scale — i.e., access to more data — begets greater pattern recognition and, ultimately, smarter, more informed choices, a key element of what gives the largest PE firms an advantage, akin to Warren Buffett’s “moat.” But the value of those assets depends on how quickly and efficiently you extract insights from them. As one leader we spoke with explained it, “You get your edge in private equity from information. You’re capitalizing on perspectives and information that you hope others don’t have.” Small and mid-sized firms can capitalize on their size and their generally greater agility and flexibility to remain competitive. In particular, smaller firms can often be nimbler in their decision-making compared to the largest GPs, which can be bogged down by process and layers of approval. A well-run small firm can build a strong competitive edge.
+
+In highly competitive markets, how fast you can reach the conviction to make a deal (or walk away from one) is a core “edge,” and the leaders we spoke with illustrated how AI can accelerate this advantage.
+
+One leader from a smaller-cap firm successfully developed a productive camaraderie among its portcos. It adopted an informal approach to facilitating informal knowledge sharing among digital leaders across its portfolio, generating organic, conversation-driven interactions rather than rigid structures. Open sharing of experiences, insights and challenges drive the discussions. This inclusive approach not only facilitates knowledge exchange but also cultivates a sense of common purpose and mutual support.
+
+While large investment houses may be able to build a proprietary platform and team of data scientists, such a move likely doesn’t make as much sense for small and mid-sized firms. However, a growing array of external options is available today that can bridge some of the game. S&P Global, for example, developed an industry-specific benchmark intended to help teams evaluate generative AI models’ ability to understand and solve realistic finance problems, along with other platforms accessing its huge financial database. These options offer clients confidence that the analysis is sound.
+
+An alternative narrative
+
+PE at times has suffered from unfavorable press over the years: accusations of short-termism, financial engineering and other issues. But advances in AI show how private equity and the broader private investment industry could soon come to be seen more favorably in comparison to comparable public companies as they invest meaningfully in building capabilities to deliver real and meaningful advantages to the assets in their portfolios.
+
+While both theory and experience in other industries have shown that this trend could favor the firms with the most extensive data assets and deepest pockets, at these early stages there’s no way to know how the endgame will play out in private markets. What we have seen, in fact, are many new ways for investors of all sizes to innovate and drive value.
+For every company, however, being “in the game” requires adopting and nurturing a culture that values data-driven insights over intuition in decision making. As the industry grows and matures, the firms that have invested in developing such cultures are the most likely to see success.
+
+Questions for private investors as they consider their AI/data strategy:
+
+How data-driven is your decision making today?
+
+How do your investment teams arrive at “conviction”?
+
+How much time do your investment teams waste? ]
+
+Do you know what defines a good deal at your firm?
+
+Have you attempted to understand the impact AI could have on the companies you own?
+
+Interviewees
+
+The authors wish to thank the following people for speaking with us for this piece:
+
+Todd Cullen, Operating Partner, AI and Digital Business Transformation, Oak Hill Capital
+
+Bhavesh Dayalji, Chief AI Officer, S&P Group; CEO, Kensho, S&P Global’s AI innovation hub
+
+Matt Katz, Senior Managing Director and Global Head of Data Science, Blackstone
+
+Alexandra Lutz, Head of Motherbrain, EQT
+
+Matthew Papas, Chief Data Officer, Sixth Street
+
+Authors
+
+Peter Hodkinson
+
+New York
+
+Tim Ogle
+
+New York
+
+Charlie Stack
+
+New York

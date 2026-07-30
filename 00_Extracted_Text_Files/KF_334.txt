@@ -1,0 +1,244 @@
+How to Close the Tech Skills Gap: Recruit or Retrain?
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Talent Recruitment|October 16, 2025
+
+How to Close the Tech Skills Gap: Recruit or Retrain?
+
+In tech, the skills gap is widening. Learn how to recruit, retrain, or both to future-proof your workforce and fuel transformation.
+
+Key takeaways
+
+Why the tech skills gap is a human challenge, not just a hiring one
+When to recruit, borrow, or retrain based on your business goals
+How a skills framework helps future-proof your tech workforce
+
+The Tech Skills Challenge: Why Innovation is Outpacing Tech Talent
+
+If you lead in tech, you may already feel the pressure to innovate, deliver, and scale faster than ever. Here’s the truth that no roadmap can hide: technology evolves faster than people can catch up.
+
+The skills that got us here likely won’t get us where we’re going.
+
+Cloud, AI, cybersecurity, and DevOps are now critical. But the pipeline of talent with these skills is strained. Your people are talented, but many are overwhelmed, burnt out, or unsure how to take the next step in their careers.
+
+The result is a widening gap between what your teams can do and what the business demands.
+
+Let’s stop treating the tech skills gap like a hiring problem. It’s a human one. The solution starts with a human-centric approach for external recruitment and internal development of the tech workforce.
+
+Understanding the Tech Skills Gap
+
+The “skills gap” is more than a headline. It’s a complex, often misunderstood challenge. Many tech leaders assume it means a lack of smart people. It doesn’t.
+
+At its core, the tech skills gap is a mismatch between the skills employers need and the skills workers and job seekers have today.
+
+Three Core Factors Behind the Gap
+
+1. Digital Acceleration Has Outpaced Learning
+
+The speed at which AI, cybersecurity, and cloud are evolving has far outrun most companies’ internal learning curves.
+Engineers are being asked to adopt tools and paradigms they’ve never seen before and do it yesterday.
+
+2. Traditional Career Paths Don’t Match Modern Tech Needs
+
+Yesterday’s job titles don’t match today’s business problems. A backend engineer may now need to understand container orchestration, infrastructure as code, machine learning pipelines, and much more.
+Organizations are slow to redefine what good looks like, so people get left behind.
+
+3. Skills Are Fragmenting and Specializing
+
+In tech, the shelf life of a skill can be less than 18 months, as technological advances require constantly evolving skillsets.
+We’re not short on smart people. We’re short on systems that help people learn, adapt, and contribute continuously.
+
+A better question than “Who’s missing the right skills?” is “What barriers are preventing our people from gaining them?”
+
+Understanding this lets tech leaders respond with strategy, not just urgency.
+
+Recruit: When Fresh Talent Fuels Fresh Thinking
+
+Recruiting external talent is a vital part of any tech workforce strategy, particularly when you need to fill critical capability gaps quickly.
+
+But traditional hiring methods often fall short. Today, skills, not résumés, are the new currency of innovation. Skills-based hiring for business-critical roles was cited as one of Korn Ferry’s top Talent Acquisition Trends for 2025.
+
+Why Skills-Based Hiring Matters in Tech
+
+Technology is moving too fast for job descriptions to keep up. Titles like “data engineer” or “DevOps specialist” don’t tell you if a candidate can:
+
+Fine-tune a transformer model
+Optimize infrastructure-as-code pipelines
+Implement zero-trust architecture
+
+That’s where skills-based hiring comes in. Instead of relying solely on degrees, years of experience, or brand-name employers, tech leaders are shifting toward hiring based on proven capabilities, the actual competencies someone brings to the table.
+
+This matters most when:
+
+You’re competing for emerging skills like prompt engineering, real-time data orchestration, or AI deployment.
+You need people who can contribute fast, regardless of pedigree.
+You want to diversify your team by opening doors to high-potential candidates from nontraditional backgrounds.
+
+The Upside and the Tradeoffs
+
+Skills-based hiring gives you:
+
+Access to underutilized talent pools, including self-taught engineers, bootcamp grads, and career changers.
+A faster match to specific project needs, not just broad roles.
+Confidence that people can succeed because you’re hiring for what they can actually do.
+
+Korn Ferry’s Senior Vice President for Global Talent Acquisition Transformation, David Ellis, advises against hiring for skills without also integrating skills-focused practices into your broader talent strategy.
+
+“If you hire for skills, but don't wire skills-centric approaches into your other talent practices—such as rewards, performance management, learning and development (L&D)—then skills-based hiring alone will not give optimal results.”- David Ellis, Senior Vice President, Talent Transformation, Korn Ferry
+
+Skills-based hiring requires:
+
+Rethinking your job architecture: Are your roles built around outcomes and skills, or outdated templates?
+Rewiring how you assess candidates: Interviews need to measure real capabilities, not just experience.
+Matching hiring with development. Once you bring in a candidate based on skills, you need to keep growing them for what your business will need tomorrow.
+
+Human-first tip:
+
+Be transparent about what matters. If you’re hiring for adaptability, a growth mindset, or collaboration across distributed teams, say so. Assess for it. That’s how you build trust with candidates and teams alike.
+
+Where External Hiring Works Best
+
+Launching new digital platforms or AI initiatives where speed is crucial
+Entering new markets where local expertise is key
+Filling niche roles (e.g., secure multi-cloud integration, machine learning operations, quantum simulation) that internal teams aren't ready to absorb
+
+Even here, hiring should be intentional. Don’t just hire to plug a hole. Hire to improve your culture, your capability, and your capacity for the future.
+
+Borrow: When You Need Talent on Tap
+
+Korn Ferry research indicates that over one-third of tech workers are looking for more flexibility. Meanwhile, Karat’s latest Tech Hiring Trends report reveals that 28% of U.S. tech leaders identify contractor outsourcing as a top area of focus in the coming year.
+
+Why? Sometimes, you just need extra hands (and brains). Borrowing contractors, consultants, or gig experts buys you time and flexibility.
+
+In tech, borrowing works best when:
+
+You’re piloting AI tools and want a thought partner, not a permanent hire.
+You need security specialists for a critical audit or migration.
+You’re bridging the gap while internal teams ramp up.
+
+Interims may arrive with the skills you need, but they still need time to plug into your systems, people, and ways of working. Without understanding your culture and tools, they can’t deliver their best work. Don’t confuse agility with sustainability. Without a plan to transfer knowledge, borrowed talent leaves, and so does the learning.
+
+Ask yourself: Will this solve the problem, or just delay it? Is short-term support setting the stage for long-term growth?
+
+Retrain: When Your Best People Deserve a Next Chapter
+
+Here’s what doesn’t get said enough: most tech teams don’t lack talent. They lack support.
+
+Your engineers want to grow. Your analysts want to stretch. Your IT teams want to build what’s next, not just maintain what’s here.
+
+Retraining isn’t a consolation prize. It’s a commitment to your people and your strategy.
+
+"Retraining can offer businesses long-term cost savings," says Scott DeKoster, a Leadership and Development Outsourcing Principal at Korn Ferry. "We estimate that organizations could save around $20,000 per employee by building skills internally instead of hiring for them."
+
+Retraining produces:
+
+Loyalty that recruiting can’t buy
+Cost savings over churn-heavy hiring
+IA workforce that builds on what it knows and continues to grow
+
+Helping Your People Step Into the Future
+
+Across the tech landscape, forward-thinking organizations are finding new ways to access potential by retraining from within. The following scenarios reflect the types of moves many companies are making to close critical skill gaps without losing the talent, trust, or institutional knowledge already in place.
+
+Quality assurance testers are building new skills in automation and agile ways of working. That growth is helping them shift into engineering roles, where they boost speed and quality.
+Legacy developers are being reskilled to support cloud-native environments. With targeted learning in container orchestration, infrastructure-as-code, and observability, they can use their new skills to update older systems so the business can run faster and scale smarter.
+Business analysts and product team members with an interest in data are moving into more technical roles. Many begin by learning tools like Python or prompt writing, then grow into careers focused on data modeling or machine learning support. In each case, the shift isn’t just technical. It’s cultural. These internal moves signal to employees that growth is possible and supported.
+
+Retraining doesn’t just address a talent shortage. It deepens loyalty, strengthens culture, and prepares your people for tomorrow's challenges. The payoff? People stay. Teams evolve. Innovation accelerates.
+
+Buy, Borrow, or Build? Here’s How to Choose
+
+Professional Development
+
+Individual performance for better performing teams
+
+Learn more
+
+Build a Tech Skills Framework, Not Just a To-Do List
+
+Transformation doesn’t happen in one-off workshops. It takes systems, habits, and support that sticks. That’s why you need a skills framework, a living map of where your workforce is now and where it needs to go.
+
+A good framework includes:
+
+Future-state visioning: What skills will matter in 12–24 months?
+Current-state inventory: Who has what now? What’s missing?
+Gap analysis: What can we teach? What must we hire?
+Learning journeys: Personalized, measurable, and matched with business outcomes
+Clear metrics: Tie development to performance, innovation, and retention
+
+Korn Ferry brings over 10 billion data points and decades of insight to help tech leaders build this foundation. The tools exist. So does the talent. Now it’s time to connect the two.
+
+Close your tech skills gap with clarity. Partner with Korn Ferry’s technology experts to build, buy, or borrow the talent you need.
+
+Our Expert
+
+Our Experts
+
+David Ellis, PhD
+Senior Vice President, Talent Transformation
+
+No items found.
+
+Related Capability
+
+Related Capabilities
+
+Recruitment Process Outsourcing
+
+Professional Development
+
+Featured Insights
+
+Meta-what? A Primer for Executives
+Move Over, Equity. Cash Is King
+Shifting Gears on Privacy
+The Twitter Deal: 5 Ways Social Media May Change
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Featured Topics
+
+Talent Recruitment
+
+Recruitment Process Outsourcing
+
+Professional Development
+
+Technology
+
+Digital
+
+Technology Officers

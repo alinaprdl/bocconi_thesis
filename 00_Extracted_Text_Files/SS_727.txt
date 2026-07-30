@@ -1,0 +1,65 @@
+Our Takeaways from RSA 2017
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Our Takeaways from RSA 2017
+
+By
+
+Michael Dickstein and
+
+Bernhard Kickenweiz
+
+February 2017
+
+| 3 min read
+
+Authors
+
+Michael Dickstein
+
+Seattle
+
+Bernhard Kickenweiz
+
+New York
+
+Spencer Stuart hosted an annual gathering of chief information security officers (CISOs) and security industry leaders at the recent RSA Conference in San Francisco. Our conversations echoed many of the issues we hear in our work helping organizations find cybersecurity leadership talent. The resounding theme: Cybersecurity has been elevated to the board agenda for most organizations, with significant implications for organizational leadership and the cybersecurity industry.
+
+How boards are addressing cybersecurity
+
+Boards increasingly understand that cybercrime is a risk management issue that affects the entire organization and requires board oversight. While directors know that they need to stay informed about cybersecurity, keeping up with it in the complex, rapidly evolving world of IT is often a challenge.
+
+We heard many different approaches to addressing cybersecurity at the board level from attendees of our RSA gathering: Some boards deal with cybersecurity issues as a whole board, while others choose to delegate these matters to a standing board committee, such as the audit or risk committee. One-quarter of corporate secretaries we surveyed as part of our research for the Spencer Stuart Board Index said the full board is responsible for cybersecurity oversight and 75% said the board has assigned cybersecurity oversight to a specific board committee. Of those, 74% said the audit committee oversees cybersecurity risk, 14% said the risk committee is responsible and 5% said the responsibility falls to the technology committee.
+
+We’re also seeing a growing number of boards reassessing the skills they need in light of increasingly pervasive and sophisticated threats. Companies that are at particularly high risk for cyberattacks, e.g., organizations in financial services and healthcare or in any industry that conducts significant business online, have turned to us to help recruit directors with cybersecurity expertise to their boards. This cybersecurity expert can help the management team make difficult risk management decisions as well as increase the general level of cybersecurity knowledge and awareness on the board. However, the board should not isolate cybersecurity responsibility to just this one board member, but continue to view it as a full board priority.
+
+The evolution of the CISO role
+
+With cybersecurity now on the board agenda, the role of the CISO has shifted from the back office to the boardroom. Today’s chief information security officer needs to be able to translate security issues into implications for the business, and be comfortable presenting these issues to the board. The CISO must also bring a holistic view of enterprise risk, but still be deeply operational when needed.
+
+Demand for this CISO profile continues to outpace supply. The CIOs and CEOs we spoke with at RSA told us that finding a CISO with a command of the technical issues is not the most significant challenge — the real struggle is finding the CISO who can clearly articulate to the board and management team what those issues mean for the business, and work across the business to implement the cybersecurity program. Additionally, we see organizations investing in the development of their current security leadership bench to bridge the talent gap.
+
+The opportunity for security providers and system integrators
+
+At the same time, an interesting paradox has emerged: While security has become an enterprise-wide issue, the technology solutions to address it have fragmented dramatically, in part fueled by an influx of venture capital and private equity investment. We often heard this frustration from our event attendees. Organizations now find themselves looking for a comprehensive cybersecurity solution amid a sea of smaller-scale providers (consider that more than 550 exhibitors filled the floor at RSA this year). This creates a significant opportunity for security companies that are able to convey to senior leaders beyond the operational level that their offerings address broad security issues. In addition, system integrators that are able to stitch separate products into a cohesive solution for enterprise clients also stand to win big in the years ahead.
+
+The leadership imperative of cybersecurity
+
+Our conversations at RSA 2017 reinforced the fact that, as with every development in the digital realm, success hinges not just on the technology, but on the commitment of leadership. With the emergence of new players in the market and a shortage of senior-level talent, leadership will be a critical differentiator and determining factor of success. As scarce cybersecurity leaders continue to shift roles throughout the industry, we see organizations beginning to look to adjacent industries and unconventional sources for talent. Organizations that invest in building teams with the right leaders — from the CEO and board to general managers and CISOs — will be poised to protect themselves from new cyber threats while also advancing their digital and business strategies.
+
+Download the PDF
+
+Authors
+
+Michael Dickstein
+
+Seattle
+
+Bernhard Kickenweiz
+
+New York

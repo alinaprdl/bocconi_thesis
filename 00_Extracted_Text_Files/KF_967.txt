@@ -1,0 +1,157 @@
+How Technology Is Changing Total Rewards
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Attrition & Retention|October 2, 2023
+
+How Technology Is Changing Total Rewards
+
+Technology is changing the total rewards landscape—here are 4 ways compensations and benefits technology can improve total rewards.
+
+Key takeaways
+
+The different ways that technology is changing the landscape of Total Rewards
+How HR technology is helping organizations build reward programs that are internally fair and externally competitive
+4 ways compensation and benefits technology improve total rewards
+
+HR and talent leaders are always facing a large number of questions when it comes to total rewards. For example:
+
+Have we fully evaluated pay equity throughout the company? Is the salary range we’re offering competitive for this role? How do we answer compensation questions in real time? Is our compensation package designed to incentivize high performance and innovation?
+
+Building an employee reward program that’s internally fair and externally competitive is a classic business imperative–and HR tech can help. The right technology makes assessing, optimizing and deploying total rewards more efficient and effective, delivering organizational benefits on four key fronts: increased productivity, enhanced relationships, augmented intelligence and actionable data insights.
+
+The increased pressure placed on employee rewards programs
+
+“Total rewards”—also known as an employee reward program—is everything with perceived value that a company provides its people in exchange for their work. This includes financial compensation, non-financial rewards that create value for the employee, and services that support the physical, mental and financial wellbeing of employees.
+
+Developing an effective employee rewards program is increasingly complex. Generational changes to the workforce have altered expectations for employee experience and rewards. These generational shifts, plus changes to the regulatory environment, are increasing scrutiny on salary transparency and pay equity. At the same time, new jobs are emerging with no pay precedent and limited benchmarking, adding new pressure to ensure a fair job level, equitable titling and compensation opportunities.
+
+Flatter structures, matrix organizations, agile work methods and contingent workforces mean career paths are no longer clear-cut. Rewards programs must be fit-for-purpose but flexible enough to address everything from executive pay to salesforce rewards along with broad-based pay fairness, competitiveness, pay-for-performance and fiscal effectiveness. It is a balancing act that requires an in-depth understanding of value-drivers of the business, employee preferences and excellence in change and communication processes—all of which can be aided by the right benefits technology.
+
+4 ways compensation and benefits technology can improve total rewards
+
+1. Increase productivity
+
+Instead of manually sifting through market data or making assumptions about rewards based on outdated information, technology can provide a real-time, fact-based answer. AI can efficiently scan market pricing databases and competitor salary ranges, as well as assess internal pay for equity concerns. Tech solutions can then equip managers with answers to frequently asked questions. For example, suppose your organization is disclosing salary ranges for the first time. Managers may face a barrage of questions from employees curious about why they fall where they do in the pay range and how they can increase their salary. The right tech platform, such as Korn Ferry Pay, can provide just-in-time information for managers that support answers to frequently asked questions from employees. Managers can then confidently address employee concerns with answers that are consistent across the company, engaging employees in a constructive conversation.
+
+Tech can also enhance the employee development and feedback process, helping people understand the link between their performance and compensation.
+
+“People who understand why they’re paid the way they are and what they need to do to improve are more engaged and motivated,” says Brian Reidy, Global Practice Leader, Workforce Rewards. “Part of this is about transparency and openness, but it’s also about training and communication. Technology is a tool for success on all those fronts.”
+
+Total Rewards
+
+A great total rewards program is better for business and your employees
+
+Learn more
+
+2. Enhance relationships
+
+Open communication builds trust and credibility, but managers are sometimes ill-equipped to answer more detailed compensation questions. This can lead to a lengthy and time-consuming email referral chain as employees and their managers wait for an answer from HR. A chatbot can support employees navigating reward information portals, serving as a “single source of truth” with prompt responses. Chatbots directly deliver relevant and authorized information, addressing employee concerns at the point of need. This also frees HR team members for higher-level work, minimizing the need to answer the same benefits question repeatedly.
+
+Tech can also humanize communication between executive leadership and the broader team, which is especially important in companies with a geographically dispersed workforce. For example, a video of senior leadership discussing how and why an incentive plan is changing feels far more personal than a mass email update sent to all employees. These channels work both ways—senior leadership needs to hear from employees, too.
+
+“Effective communication is not just about information dissemination; it’s also about having an open channel to gather employee insights,” says Mark Royal, Senior Client Partner, Advisory. “Organizations can maximize the potential of their reward technology for relationship building by focusing on point-of-use.”
+
+Pulse surveys are a popular option for gathering employee insights. However, these surveys are often distributed via email and there’s a risk the survey will get lost in the employees' inbox. Technology like Korn Ferry Listen helps organizations sidestep this problem by delivering the survey at the point of use for maximum engagement. For example, when someone logs into their employee portal, they may be prompted to answer a “question of the week” about topics ranging from health benefits to vacation policies. These pulse surveys quickly gather insights around where employees stand on key issues, flagging topics of concern for HR teams. Gathering frequent insights into employee experience gaps allows leadership teams to translate those insights into effective change and transformation.
+
+3. Augment intelligence
+
+A renewed push to close the gender pay gap—the measure of what women are paid relative to men—is bringing increased scrutiny to pay equity. For example, most employers in the United Kingdom are required to report their gender pay gap annually. Tech advancements make it possible to build mathematical models assessing pay equity in organizations, identifying individuals who are pay outliers and are potential pay remediation candidates.
+
+“Technology can provide deeper insight into critical issues like pay equity,” says Tom McMullen, Senior Client Partner, Workforce Rewards. “On one end, there’s radical levels of transparency, like the company GitHub creating a public-facing website for employees and candidates to calculate pay. There are also opportunities to not just assess pay gaps but understand what actions to take to close the gaps. This is where real change happens.”
+
+Evaluating pay equity is just the start. It’s now also possible to mine off-cycle pay treatment data to determine if there may be unconscious bias in compensation across employee groups. Leaders can also assess pay in various ways, including pay versus retention, pay versus engagement, pay versus productivity, and employee reward preferences. Critically, tech advancements also make it possible to see how perceptions about reward programs are related to employee engagement and retention.
+
+4. Win the war for talent with actionable data
+
+Data for data’s sake is not especially helpful. It’s easy for organizations to end up with too many data points and no clear path forward. To better understand the connection between rewards, people and performance, choosing the right tech stack is critical.
+
+“The company with the most data doesn’t win the war for talent,” says Scott Schnijderberg, Associate Client Partner, Organizational Strategy and Total Rewards. “It’s the company that can extract meaningful insights from this data and then take action—they’re the ones who will win.”
+
+The right tech stack turns numbers into easy-to-digest dashboards, providing actionable insights so leaders can make evidence-based decisions. At Korn Ferry, we use data mining in our surveys to identify retention and engagement drivers across all employees and demographic groups (e.g., gender, race, job roles, etc). While some larger companies can do this internally, many midsize companies do not have the resources yet. Compensation and benefits technology can augment these capabilities. Organizations can then better understand what their people value the most or least in their reward programs, developing authentic employee value propositions informed by reality.
+
+Using technology to enhance your total rewards program
+
+A well-designed rewards strategy has the potential to solve some of the toughest organizational challenges such as driving growth, optimizing ROI in people investments, and achieving pay equity and transparency—and the right technology can make all the difference.
+
+Learn more about mastering your total rewards strategy, or contact us today to start the conversation.
+
+Our Expert
+
+Our Experts
+
+Mark Royal, Ph.D.
+Senior Client Partner, North America
+
+Tom McMullen
+Senior Client Partner
+
+No items found.
+
+Related Capability
+
+Related Capabilities
+
+Total Rewards
+
+Employee Rewards
+
+People Cost Optimization
+
+Featured Insights
+
+2026: The Make-or-Break Year for Careers
+Should Parents Crash Job Interviews?
+6’1”, Loves Hiking, Seeks Series A Funding
+Side Gigs: Is Anyone Noticing?
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Featured Topics
+
+Attrition & Retention
+
+Total Rewards
+
+Employee Rewards
+
+People Cost Optimization
+
+Kornferry7 TR
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

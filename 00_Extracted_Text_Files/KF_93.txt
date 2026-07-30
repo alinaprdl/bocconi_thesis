@@ -1,0 +1,239 @@
+The Hidden Cost of Disconnected Talent Data
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+The Profit Leak in Your Talent Strategy
+
+Why workforce intelligence gaps are preventing leaders from predicting performance—and quietly draining profit.
+
+​
+
+Download as a PDF
+
+Leaders make high-stakes talent decisions every day—about who to hire, who to promote, how to pay, and where to invest in development.  And with so much talent data available, you’d think they’d have all the insights they need to inform those decisions.
+
+But new Korn Ferry research shows that only 34 percent are confident that those insights are reliable.
+
+The rest are operating with talent data that’s split across platforms and frameworks, making insights difficult to rely on for workforce planning.
+
+This fragmentation is creating real financial drag for organizations. In our survey, 99 percent said disconnected data is having a negative financial impact on their business, and more than 80 percent estimate it costs at least three percent of total payroll.
+
+This talent data problem, say Korn Ferry experts, is likely responsible for a quiet profit leak at many organizations.
+
+Read on to explore the scale of the talent data problem—and its impact on your business.
+
+How We Did It
+
+For the Korn Ferry 2026 Global Talent Analytics Survey, we surveyed 1,600 C-suite and senior HR leaders of large organizations across 10 countries to understand the impact of fragmented talent data on enterprise decision-making.
+
+Take our Talent Analytics Quiz to see where your organization stands
+
+Register for the US WebinarRegister for the EMEA Webinar
+
+Drowning in Data
+
+The crucial numbers are all over the place.
+
+Across most organizations, the data needed to make better talent decisions already exists, but it is spread across multiple systems that were never designed to work together. Each platform provides a partial view—performance in one system, skills in another, pay and job structure elsewhere.
+
+In our survey, 84 percent of leaders said they operate 3–10 different platforms.
+
+Originally, those platforms were implemented to solve specific needs. But today, they’ve left leaders stitching together answers from systems that don’t speak the same language—and often, aren’t meaningfully integrated:
+
+68% operate with only partial or minimal talent data integration
+Just 5% report having fully connected talent data systems
+26% said it can take weeks to access connected talent insights
+
+Leaders can access reports and dashboards across platforms. What they struggle with is bringing those data points into a single, reliable view that makes sense of the data and supports talent decisions.
+
+Without that shared definition, even connected data can produce conflicting answers.
+
+The Impact
+
+When systems don’t meaningfully connect, true insight doesn’t exist.
+
+Answering simple questions, like who's ready to step up or how pay aligns with performance, often requires pulling information from multiple platforms and reconciling it manually. Even then, leaders are left reconciling not just numbers but competing definitions of what “great” actually means in a role.
+
+“As an executive, if you don't have a clear picture of your own workforce, that should keep you up at night. It might be too late to do something about it when decisions need to be made,” says Jan Machtelinckx of Korn Ferry EMEA. Without that clarity, even the most fundamental talent decisions become guesswork.
+
+Risky Instincts
+
+Leaders rely on intuition every day, but it only works when informed by data-led insights.
+
+When talent insight is incomplete or hard to access, leaders go with their gut. That’s why 71 percent of leaders told us that they rely on instincts, instead of insights, when making talent decisions.
+
+Instincts have real value, of course. They’re hard to quantify but typically are based on years of experience.
+
+The risk emerges when intuition becomes the default because the data needed to support it is unreliable or too slow to assemble.
+
+In many organizations, different tools surface different answers about performance, potential, and value. When the picture doesn’t come together cleanly, leaders default to the one thing they trust most—their own judgment.
+
+Ironically, the more talent data systems organizations add, the more this pattern grows. Leaders in organizations with 10 or more talent systems are almost twice as likely to rely on intuition­­. This is particularly true when it comes to promotions and succession.
+
+The best talent decisions happen when they're informed by a mix of data-led insights and experience-led intuition.
+
+Connected data doesn’t replace judgment—it strengthens it.
+
+Organizations with the most HR data are 2x more likely to rely on intuition.
+
+The Impact
+
+Decisions driven primarily by instinct are difficult to audit, difficult to defend, and difficult to replicate.
+
+When a promotion goes wrong or a succession plan falls apart, the follow-up question is predictable. What evidence informed this decision? For leaders, that question carries weight.
+
+“The goal isn’t to replace judgment,” says Roger Philby of Korn Ferry UK. “On their own, neither data nor human judgment tells the whole story. But used together, they’re much stronger.”
+
+‍
+
+The Credibility Problem
+
+When talent data isn't trusted, HR’s expertise gets ignored.
+
+The same scenario plays out frequently in businesses with talent data siloed across multiple systems.
+
+HR brings insights to the table. Leaders acknowledge them but hesitate to act because they don’t trust the insights. Over time, HR is consulted less frequently.
+
+In our survey, 55 percent of leaders admitted that they rely less on HR for decisions when they don’t trust the talent data.
+
+“It’s unfortunate because the function that should serve as a strategic partner ends up on the fringes of some crucial talent decisions,” says Philby.
+
+When talent data is siloed, no one wins—especially HR.
+
+The Impact
+
+At its core, this is a credibility issue.
+
+When workforce insights feel incomplete or inconsistent, HR’s voice carries less weight. Leaders default to instinct because the evidence presented doesn’t feel reliable.
+
+“The business doesn’t believe HR because they don’t believe the data can be trusted. And that’s because HR isn't always great at being data practitioners and communicators—pulling everything together and translating it into a story the business can act on,” says Philby.
+
+Unless that gap is closed, HR’s strategic influence is diminished at precisely the moment it's most needed.
+
+‍
+
+Weak Data's Price Tag
+
+Workforce intelligence gaps create measurable financial drag.
+
+Fragmented talent data is not only a strategic concern. It carries real and often underestimated financial consequences.
+
+When leaders lack a clear view of workforce capability, people are placed in roles that don’t fully take advantage of their capabilities. For example, 31 percent of leaders report that over a quarter of their workforce is underutilized.
+
+Across the organization, those gaps translate into real cost. In our survey, a staggering 99 percent said disconnected talent data is having a negative financial impact on their organizations. More than 80 percent estimated that it costs their company at least three percent of their total payroll.
+
+"When workers' potential is missed, the business loses out. They end up buying what they might not need or missing innovations that could lead to growth. And their staff turnover rises, too, as those people get bored and look to spread their wings elsewhere," says Korn Ferry’s Matias Spinetta.
+
+The Impact
+
+For CHROs, underutilization is one of the hardest costs to quantify and, therefore, one of the easiest to overlook.
+
+It rarely appears as a line item. Instead, it shows up in productivity gaps, inconsistent performance, and high-potential employees who leave for more interesting work elsewhere.
+
+The data to prevent these outcomes often exists within the organization. It just doesn't connect in a way that leaders can act on.
+
+The Confidence Advantage
+
+How winning organizations make talent decisions
+
+When businesses have a unified view of their talent, 55 percent of leaders feel confident using workforce insights to guide business decisions.
+
+When they don't, that confidence falls to just four percent.
+
+That gap changes how decisions get made. When talent data is connected, organizations see measurable gains.
+
+Most organizations do not need more tools or more data. They need a single view of their workforce. Instead of logging into multiple systems, leaders should be able to see everything in one place:
+
+Performance against defined role expectations
+Leadership potential based on validated assessments
+Pay aligned to market benchmarks and internal equity
+Skills and mindset matched to strategic priorities
+Succession readiness mapped against future needs
+
+Korn Ferry’s Talent Suite is designed to provide that clarity.
+
+Built on decades of proprietary research, it brings together your workforce data with market insights and Korn Ferry’s expertise to give leaders a clear, consistent view of talent.
+
+This allows leaders to move from fragmented insight to confident action across hiring, development, pay, and succession.
+
+Talent Suite turns data into performance insight, helping leaders make talent decisions based on evidence.
+
+“You could hire an army of HR analysts to assemble the data behind every decision,” says Spinetta. “But that approach doesn’t scale. A connected platform does.”
+
+When you can see your workforce clearly, leaders can shape it strategically.
+
+Not sure where your organization stands?
+
+See what it takes to move from uncertain data to confident talent decisions in our upcoming webinar.
+
+Register Now
+​
+
+Related Insights
+
+Our Experts
+
+Jan Machtelinckx
+
+Growth Leader Digital Assessment, Succession & Development, EMEA
+
+Matias Spinetta
+
+Senior VP, North America Commercial
+
+Roger Philby
+
+Global Lead, People Strategy & Performance Practice
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Talent Suite
+
+Human Resources
+
+Workforce Management
+
+Article
+
+Featured Topics
+
+Board
+
+CEO
+
+CHRO
+
+April 21, 2026
+Insight Articles
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

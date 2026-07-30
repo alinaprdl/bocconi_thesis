@@ -1,0 +1,441 @@
+Pursuing Authenticity: Q&A with Michele Catasta, VP of AI at Replit - Egon Zehnder
+
+Skip to main content
+
+Search for “”
+
+... in Consultants
+
+... in Offices
+
+... in Services
+
+... in Insights
+
+Search all results
+
+Our Services
+
+Shaping Successions
+
+CEO Successions
+
+Executive Successions
+
+Board Successions
+
+Chair Successions
+
+Committee Chair Successions
+
+Advancing Governance
+
+Board Review
+
+Board Development
+
+Board Advisory
+
+Building Advisory Boards
+
+Sustainability Board Advisory
+
+Discovering Leaders
+
+CEO Search
+
+Executive Search
+
+Board Search
+
+Advisor Search
+
+Executive Assessment
+
+Developing Leadership
+
+Individual Development
+
+Accelerated Onboarding
+
+Development Planning
+
+Coaching
+
+Team Journey
+
+Unlocking Transformations
+
+Transformational Development Programs
+
+Chair and Board Potential
+
+Executive Breakthrough
+
+Executive Discovery
+
+Transformational CHRO
+
+Voyager
+
+Customized Leadership Immersion
+
+Explorer
+
+Cultural Transformation
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Chief Executive Officers
+
+Founders
+
+Technology Officers
+
+Chief AI, Data & Analytics Officers
+
+Chief Information Officers
+
+Chief Information Security Officers
+
+Chief Product Officers
+
+Chief Technology Officers
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+Consumer
+
+Consumer Products
+
+Media & Entertainment
+
+Restaurants, Leisure and Hospitality
+
+Retail, E-commerce, Apparel and Luxury
+
+Sports
+
+Financial Services
+
+Asset Management
+
+Banking and Markets
+
+Digital Assets, Crypto, & Web 3
+
+FinTech
+
+Infrastructure
+
+Insurance
+
+Private Equity
+
+Retail Financial Services
+
+Risk Management
+
+Sovereign Wealth Funds
+
+Wealth Management
+
+Health
+
+Biopharmaceuticals
+
+Healthcare Delivery & Services
+
+Life Sciences Tools & Pharmaceutical Services
+
+Medical Devices, Diagnostics and Technology
+
+Industrial
+
+Aerospace & Defense
+
+Chemical & Process Industries
+
+Energy
+
+Machinery & Industrial Technology
+
+Mining & Metals
+
+Mobility & Automotive
+
+Public & Social Sector
+
+Arts, Culture & Sports
+
+Economic, Social & Human Development
+
+Education & Research
+
+Environment & Sustainability
+
+Interest Representation & Public Affairs
+
+Public Administration
+
+Public Finance
+
+Public Health
+
+Public Infrastructure
+
+Services
+
+Air Transport
+
+Business Services
+
+Hospitality, Travel & Leisure
+
+Professional Services
+
+Real Estate Services
+
+Transportation & Logistics
+
+Technology & AI
+
+Artificial Intelligence
+
+Communications & Connectivity
+
+Cyber Security
+
+Digital
+
+Enterprise Tech
+
+Internet of Things
+
+Semiconductors
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+Functions
+
+Industries
+
+Meet our Consultants
+
+Discover Insights
+
+Find Offices
+
+About Us
+
+English
+
+Change
+
+Functions
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Industries
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+About Us
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+English
+
+Deutsch
+
+中文
+
+日本語
+
+Artificial IntelligencePursuing Authenticity: A Q&A with Michele Catasta, VP of AI at Replit
+
+Catasta's career inspires us to embrace life's unfolding journey, taking one courageous choice at a time.
+
+July 2023
+
+6 mins read
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Michele Catasta currently holds the role of VP of Artificial Intelligence at Replit, a software development platform to build and collaborate in any programming language. As of today, they have a community of 22M+ creators and learners with a mission to empower the next billion software creators with the help of AI.
+
+Michele has a simple yet powerful purpose: to be true to himself. His journey as an accomplished leader has been far from linear. With a Ph.D. in Computer Science and experience as a Research Scientist focused on AI at Stanford University, he recently held the position of Head of Applied Research at Google Labs and Google X. However, his path to success involved introspection to discover his genuine passions as a leader.
+
+In this interview, we explore the pivotal moments that shaped Michele's career in AI and discuss some key insights he gained along the way. Our hope is that his story inspires others to embark on their own journeys of self-discovery, guiding them to pursue careers that ignite genuine excitement and drive.
+
+Read on for the conversation highlights:
+
+Part I: Personal Journey
+
+What was your entry point into computer science?
+
+I had a math and physics professor who introduced me to computer science—basic concepts of data structures and algorithms, and even lent me a book to explore further. But even earlier than that, I had the inspiration and example from my father and my older brother, who got me used to having Unix systems in the house since I was very young and who instilled in me the notion that computer science was much more than a part-time hobby. Over time, I started to view it as a field to be studied in a principled way, rather than just being interested in its consumer applications. It was an exciting development for me, and it laid the foundation for who I am today.
+
+How did the rest of the journey play out? Can you sketch us a summary?
+
+It all played out in a non-linear way: after my Bachelor’s in Computer Science I took a “detour” in Ireland that led me to start working as a researcher even before graduating from my Master’s, which consequently took more time. Then I was in the founding team of what became one of the first successful Semantic Web startups (Sindice.com), and after a few years got back to academia to pursue a Ph.D. at EPFL. Then again, while in the United States, I moved back and forth from academia to small and large corporates, until I finally settled in my current role as VP of AI at Replit.
+
+What was the biggest challenge in pursuing a career in Artificial Intelligence?
+
+It came with a cost in terms of stability and ease of building relationships, and it required to always fight not to go back into “autopilot”. My parents keep asking me why I left, why I never “settled”: ultimately, I feel a sense of duty to myself to fully, wholeheartedly embrace my lifelong passion for AI, even if other aspects of life got harder. It is just who I am.
+
+Play
+
+Part II: Professional Growth
+
+What skills did you transfer from academia to industry?
+
+Leadership growth opportunities are available in all contexts and environments. What influences how much you take from it is your mindset rather than the specific challenges. Reflecting on my experiences, I discovered that research involves more than just solving captivating problems; it encompasses holistic growth as a professional. Writing papers and giving talks, for instance, hones essential skills like communication and the ability to distill complex concepts into concise explanations. This process of growth was particularly impactful in my life, especially as a foreigner not raised as a native English speaker. This led me to embark on a personal journey to open up and communicate effectively, a process that spanned several years and continues to shape me today.
+
+As a researcher, you are constantly urged to push boundaries and be highly productive. However, when working with individuals who don't prioritize pushing the boundaries of science, work dynamics become highly challenging so there was growth in navigating that. I also gained valuable experience in managing teams and efficiently dealing with large groups of people. These experiences have been instrumental in my career progression, even though they didn't directly enhance my research profile.
+
+Academia wasn't your life passion. Can you recall an 'Aha!' moment that made you realize this?
+
+I had a candid discussion with a professor that led me to reflect on my career path. While I excelled in technical aspects, such as problem-solving and finding solutions, I realized I had a drive for teamwork and building things collectively. Coming to this realization helped me understand that pursuing a professorship at a top-tier university might not be the best fit for me. I wanted to be true to myself and find a career path that aligned with who I am and what I find exciting. I can't see myself waking up every day and pretending to be someone else in order to accomplish a certain career path. That's when Google X reached out to me, recognizing my work in applying AI to source code. It was a perfect match, allowing me to combine my passion for programming with a vision of making developers more productive.
+
+Play
+
+Part III: Building Resilience
+
+Can you tell us about your experience working in Series A startups?
+
+It has been thrilling and stressful! The pace was quite fast, with compressed timelines of about six months to a year. Unlike established companies that may have decades of history and established processes, startups require you to build everything from scratch. In a C-level position in a startup, you are often dropped into a situation where there is either no existing structure or minimal processes, and you are expected to make things happen. The responsibility falls on you to believe in yourself and create the necessary foundation for the company's growth.
+
+Did you feel that was the true Michele? Did you feel it was you?
+
+I enjoyed the experience, but I'm not sure if I was the best person for that role. I've met many individuals who excel at the zero-to-one phase, coming up with innovative ideas and building something from the ground up. Perhaps I am better suited for the 0.1 to one stage or even later stages of growth. I'm still exploring and trying to understand where my strengths lie.
+
+Building a generational company is a different level of challenge, and while I haven't achieved that yet, I remain open to the possibilities. I don't have unrealistic expectations about what I should have accomplished by a certain age, and I'm patient with my personal journey. I do things for myself and don't feel external pressure to be more than I am today.
+
+What advice would you give to CEOs who are eager to attract and retain top AI talent?
+
+Ownership! When you bring in a person, someone who is not just a self-proclaimed expert but possesses genuine expertise and years of experience in the field, it is crucial to give them the space and agency to excel. As a CEO, your role is to guide and align their efforts in the right direction, but it is equally important to allow them to leverage their skills and knowledge in shaping what they are expected to build.
+
+Professionals like me, with a similar profile, seek opportunities to make their mark on the world, to say, "I did that." I believe that one of the reasons why many talented individuals leave big tech companies today is because they are capable of doing more and don't want to feel confined to a small role within a larger system. By fostering a culture of ownership and providing avenues for individuals to showcase their abilities and contributions, CEOs can create an environment that attracts and retains top AI talent. And for those who aspire to or are embarking on the field of AI, I would encourage them to be patient. This is a long, enriching journey full of growth opportunities, if you embrace them even if it’s not through a linear path.
+
+Play
+
+Topics Related to this Article
+
+Artificial Intelligence
+
+Technology
+
+Digital
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Written by
+
+Stay up to date with our latest insights.
+
+Subscribe now
+
+Changing language
+
+You are switching to an alternate language version of the Egon Zehnder website. The page you are currently on does not have a translated version. If you continue, you will be taken to the alternate language home page.
+
+Continue to the                 website
+
+Back to top

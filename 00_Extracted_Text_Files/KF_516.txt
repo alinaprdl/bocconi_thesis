@@ -1,0 +1,245 @@
+How AI in Recruiting Is Reshaping Hiring
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+AI in the Workplace|May 8, 2025
+
+How AI in Recruiting Is Reshaping Hiring
+
+Discover how AI in hiring is transforming the talent acquisition process—from predicting talent needs to sourcing, screening, and onboarding.
+
+Key takeaways
+
+Why so many talent acquisition pros are embracing AI
+How AI fits within each stage of the TA process
+What’s next for AI in recruitment
+
+How to Use AI in the Hiring Process
+
+Artificial intelligence is no longer a futuristic promise. The technology is here and is already showing impressive results. In fact, 70% of talent acquisition leaders say using AI in hiring improves efficiency.
+
+But efficiency is only part of the story when it comes to AI and recruiting.
+
+Tools like chatbots are reshaping the hiring experience for organizations and talent alike. When used well, AI can paradoxically make the process feel more personal, timely, and human.
+
+“I heard a lot of talk early on about how we can either provide human, high-touch experiences, or we can use technology and AI more. But it’s not binary like that,” says Korn Ferry’s David Ellis.
+
+“The sweet spot for AI and automation in recruitment activities is where you’re leveraging it to elevate the human experience. That’s the aim in forward-thinking TA organizations today.”
+
+From predicting hiring needs to sourcing, scheduling, and onboarding, AI can improve nearly every stage of the talent acquisition life cycle.
+
+Here’s what that looks like—and where AI in hiring might go in the next three to five years.
+
+1. AI and Workforce Planning
+
+Predicting which skills a company will need in the future is no easy task. While it’s not a crystal ball, AI can analyze past hiring trends, industry shifts, and business growth to provide insights.
+
+“Skills and hiring needs are evolving so rapidly that no tool has all the answers, and probably never will,” says Korn Ferry’s Tanyth Lloyd. “But what AI can do is help identify the core skills that will always be relevant, like curiosity, learning agility, and resilience.”
+
+As such, AI also plays a growing role in internal talent mobility, helping organizations spot employees with transferable skills who can grow into new roles. This ensures that companies don’t just hire externally but also invest in developing existing talent.
+
+2. AI and Job Ad Creation
+
+This is one of the areas where AI shines. It can provide a starting point by drafting content for a job posting, then quickly refine it based on a recruiter’s input.
+
+“You can iterate really quickly instead of having to write and rewrite,” says Lloyd.
+
+What's more, AI-assisted tools can help ensure job ads are inclusive and skill-focused, she adds.
+
+For example, AI can scan job descriptions for biased or gendered language, then offer alternatives to make postings more accessible to diverse applicants. The shift toward skills-based hiring is another major AI-driven change, allowing HR professionals to focus on core competencies rather than rigid job histories.
+
+The result? More applicants from diverse backgrounds and a better alignment between job postings and actual hiring needs.
+
+3. AI and Candidate Sourcing
+
+Finding the best candidates has always been a time-consuming task.
+
+AI candidate sourcing is changing that, making it easier than ever to find active candidates as well as passive ones—those who aren’t actively job hunting but might be open to the right opportunity.
+
+Tools powered by AI can search vast online sources beyond the usual channels to surface potential candidates. But what makes AI especially powerful is its ability to look beyond skills and experience to locate the right talent.
+
+“AI is able to match candidates to opportunities really accurately based on a number of characteristics, like skills, work experience, engagement, interest, proximity to role, and more,” says Lloyd. “There are infinite factors that AI can consider.”
+
+4. AI and Candidate Application
+
+AI-driven chatbots can guide candidates through the application process 24/7 by asking relevant questions in a format that feels conversational.
+
+For example, instead of filling out lengthy forms, applicants can text responses and easily complete an application. Candidates provide only enough information to determine their suitability for the role, making the process easier, faster, and less invasive.
+
+“Candidates appreciate that they can apply at any time, in a way that doesn’t feel like an onerous admin task," says Lloyd.
+
+In some cases, applicants can even know if they are moving forward by the end of the exchange, which generally takes 10 to 15 minutes. Of course, the use of AI tools in this way needs to be fair, transparent, and legally compliant.
+
+“Even if candidates aren't progressing with the role, they’re still having a good experience because they’ve got certainty about the outcome,” adds Lloyd. “They don’t need to sit and wait for days, weeks, or months—or never get a response.”
+
+This streamlined approach is especially beneficial when hiring high-volume roles, such as contact center staff, care workers, or manufacturing employees. After all, there’s no recruiter anywhere that can process thousands of applications in real time.
+
+5. AI and Candidate Screening
+
+Once candidates are in the pipeline, AI can take on the heavy lifting of screening. Gone are the days of Boolean searches for job titles and other keywords on resumes, cover letters, and other application materials.
+
+Today’s AI tools not only automate that process but also use machine language capability to identify strong candidates who might otherwise be overlooked.
+
+For example, AI can map career trajectories, uncovering professionals who may have taken non-traditional paths but who have the right competencies for success in a given role.
+
+AI can also anonymize candidate details to enable blind screening, reducing bias in the hiring process. “It's a significant opportunity to use AI to serve up best-fit candidates based on skills,” says Lloyd.
+
+Legal requirements for using AI tools in this way are emerging rapidly, so be sure to check with your legal department for the latest requirements.
+
+6. AI and Interview Scheduling
+
+One of the biggest AI shifts coming in the talent acquisition process? Self-scheduling interviews.
+
+Instead of all the back-and-forth of emails to set up interview times, candidates are increasingly warming up to the convenience of automated interview scheduling.
+
+“I’m seeing candidate sentiment change, irrespective of level. Even executives, in a lot of cases, are not only okay with scheduling their own interview, but might prefer that,” says Lloyd.
+
+“Of all the opportunity areas in AI, this one has the lowest barrier to entry, and it’s where we’ll see mass adoption.”
+
+AI tools can also support the interview and assessment process by:
+
+Summarizing recruiter notes and resumes for hiring managers
+Generating candidate-specific interview questions
+Synthesizing feedback from multiple interviewers into a comprehensive summary
+
+When it comes to selection, the balance is critical—AI should be a decision-support tool, not a decision-maker.
+
+Laws governing AI in hiring are still evolving, and companies must ensure their use of AI remains transparent and fair—and of course, legally compliant.
+
+7. AI and Onboarding
+
+Even after a candidate is hired, AI can continue to enhance the experience. Generative AI can create personalized onboarding documents and guide new hires through paperwork, benefits enrollment, and training materials, helping onboard them into the company and their new role.
+
+According to Lloyd, it’s about delivering the right content at the right time and making sure new hires feel supported from day one.
+
+What’s on the AI Horizon?
+
+So where is AI in recruitment headed next? Lloyd points to agentic AI—AI agents that pass information seamlessly between different hiring stages, ensuring a more connected, intelligent process.
+
+“We’re moving beyond stand-alone AI tools and toward integrated AI ecosystems,” she says. “The goal is to create a hiring journey that feels seamless, where AI helps recruiters and candidates every step of the way.”
+
+Ellis believes automation will expand. “In 2030, it’s going to be at least 50% more automated than it is today,” he says.
+
+“So many hiring processes have already benefitted from AI and automation, and I think we’ll see them incrementally expanding into other segments of hiring.”
+
+Recruitment Process Outsourcing
+
+More than RPO — talent realized
+
+Learn more
+
+Embrace the Power of AI
+
+AI is redefining every stage of the recruitment life cycle, improving efficiency and enhancing the candidate experience. But the technology is evolving quickly, making it challenging for TA professionals to take full advantage of it.
+
+At Korn Ferry, our goal is to help companies navigate AI’s opportunities, ensuring they use technology responsibly while maximizing its benefits.
+
+Ready to take your recruitment process to the next level? Click here to find out more about our AI-powered solutions.
+
+Our Experts
+
+Our Experts
+
+David Ellis, PhD
+Senior Vice President, Talent Transformation
+
+Tanyth Lloyd
+Global Vice President, Technology & Transformation
+
+No items found.
+
+Related Capability
+
+Related Capabilities
+
+Recruitment Process Outsourcing
+
+Nimble
+
+Featured Insights
+
+7 Key Topics Leaders May Be Ignoring
+Raises, Raises, and More Raises
+Some Hot Job Markets Persist. But Where?
+Build Now. Maybe Hire Later
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Featured Topics
+
+AI in the Workplace
+
+Recruitment Process Outsourcing
+
+Nimble
+
+Life Sciences
+
+Consumer & Commercial Financial Services
+
+Consumer Products
+
+FinTech
+
+Energy & Natural Resources
+
+Financial Services
+
+Healthcare
+
+Insurance
+
+Manufacturing
+
+Real Estate
+
+Software & Platforms
+
+Technology
+
+Telecommunications
+
+Cybersecurity
+
+Digital
+
+Human Resources
+
+Kornferry RPO
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

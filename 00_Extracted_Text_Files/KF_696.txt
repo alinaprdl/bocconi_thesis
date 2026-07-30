@@ -1,0 +1,188 @@
+How AI Sales Tools Help Managers Improve Team Performance
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Sales Transformation|October 17, 2024
+
+How AI Sales Tools Help Managers Improve Team Performance
+
+Sales managers using AI to develop data-driven sales strategies can help their teams improve win rates and beat the competition.
+
+Key takeaways
+
+Why real-time insights help make better and faster sales decisions
+Five ways AI in sales coaching boosts team performance
+How AI sales tools prioritize the deals that matter most
+
+Using the Right Technology in Sales Can Significantly Improve Win Rates
+
+More businesses are dealing with longer sales cycles than in the past, and this is piling pressure on Chief Sales Officers (CSOs) to improve team performance. But it’s not just external market forces causing headaches—many sales organizations are struggling internally, too.
+
+In fact, a quarter of top sales companies say they’re not fully leveraging data to help with decision-making, Korn Ferry’s 2024 Sales Maturity Survey reveals, and this is impacting both individual and team outcomes.
+
+That’s where artificial intelligence in sales comes in. AI sales tools are changing the game for sales managers, offering actionable insights and real-time feedback that transforms how they coach, manage, and lead.
+
+In this article, we dive into how AI-driven technologies are reshaping sales performance management to deliver better results.
+
+AI’s Value: Delivering Actionable Insights That Help Sales Managers Excel
+
+Sales organizations that learn to harness and use data the right way can reap big rewards, including:
+
+41% higher win rates
+29% higher quota attainment
+8% higher revenue attainment
+
+That’s how much better teams who used sales tech along with mature coaching and ongoing enablement performed, according to our 2024 Sales Maturity Survey.
+
+And one of the best ways to do this is with AI.
+
+“With generative AI, sales managers can shift from relying on historical trends to leveraging real-time insights.”
+
+AI in sales simplifies the data analysis process, freeing up managers’ time by pulling insights from CRM systems and other sources.
+
+It doesn’t just suggest the next best action. It offers predictive analytics—giving sales managers tailored recommendations for advancing deals.
+
+“With generative AI, sales managers can shift from relying on historical trends to leveraging real-time insights,” explains Lou Turner, Korn Ferry’s Head of Sales and Service.
+
+Managers can assess today’s data, predict deal success, and identify risks to adjust strategies on the fly. Using AI in sales can also simplify deal strategy and help sellers navigate the complexities of buyer behavior.
+
+“Early on, AI finds patterns between new prospects and past successful customers, guiding managers and sales reps to craft winning strategies,” says Rob West, Senior Partner at Korn Ferry. “Later, it helps sellers identify key decision-makers and guides them on how to have meaningful conversations at each stage of the sale.”
+
+1. Building Better Coaching
+
+Sales organizations that use dynamic coaching can boost win rates by 15%, increase quota attainment by 14%, and even reduce voluntary attrition by 18%, Korn Ferry’s 2024 Sales Maturity Survey reveals.
+
+Yet sales managers often give coaching less attention. The reasons for this can range from time constraints to a lack of coaching skills.
+
+Using AI in sales coaching can help managers improve outcomes in the following ways:
+
+Spotting Trends: AI quickly sorts through data to help managers identify patterns, allowing them to develop data-driven sales strategies and offer better advice to their sales teams.
+Nudging Sellers: AI can provide timely “nudges” at critical decision points, showing sellers the best actions to take next. This means fewer bottlenecks and more productive meetings.
+Real-Time Feedback: If a sales rep struggles during a call, AI can pinpoint key coaching points and relay them to the sales manager. This equips the manager to provide instant feedback, significantly enhancing the seller’s chances of success.
+Personalized Development: AI doesn’t just show if a rep is meeting or missing their targets. It explains why and offers suggestions for improvement. This helps sales managers quickly identify where to step in and guide their team more effectively.
+Precision Coaching: AI can help managers coach team members more effectively, even in larger teams, by highlighting individual strengths and areas in need of improvement.
+
+While AI enhances a manager’s tool kit, it can’t replace the essential human touch in sales coaching. Top sales performers generate a significant portion of an organization’s revenue—and teams need skilled coaches who can balance technology with interpersonal skills to boost sales productivity and develop critical competencies.
+
+“AI-driven features, like conversation intelligence, can pinpoint areas needing improvement in sales calls,” says Rachelle Zhang, Associate Client Partner at Korn Ferry. “But it’s up to human managers to grasp the ‘why’ behind the behaviors.” Effective coaching is about understanding emotions and challenges, and using that knowledge to help team members elevate their performance.
+
+The bottom line? AI sales coaching shines brightest when it complements human interaction and collaboration within your sales organization.
+
+2. Improving Forecasting and Pipeline Health
+
+Markets and buyer behaviors are in constant flux, and every seller brings their own unique set of variables to the table. Using AI in sales helps managers to remain agile by analyzing market trends, recognizing shifts in buyer behavior, and recommending necessary updates to sales strategies.
+
+It’s particularly valuable for keeping a healthy sales pipeline.
+
+“Every sales manager does pipeline forecasting to answer questions like, ‘Will we hit our target?’ and ‘Where do we need to adjust?’” explains West. “But AI’s real-time insights allow managers to quickly flag pipeline issues, such as a shortage of prospects or a backlog of unclosed deals, enabling faster decisions regarding pipeline health.”
+
+It also helps managers focus on the deals most likely to yield returns.
+
+“Big deals can stretch over long periods, and you don’t want to waste time chasing the wrong one,” Turner warns. “Spotting early on that a deal might not close is incredibly valuable.”
+
+3. Shaping High Performance with Strong Data
+
+Implementing AI sales tools becomes far easier when the entire sales team is on board. However, the effectiveness of AI relies on the quality of the CRM data it uses, which means the sales team must input data consistently.
+
+“It’s all about the flow of information,” explains West. “If the CRM data isn’t accurate, you won’t get the right AI nudges.”
+
+Before diving into AI sales training, many organizations need to rethink how they approach CRM systems. Korn Ferry’s 2024 Sales Maturity Survey shows that 46% of top sellers use CRM systems daily, compared to just 31% of their peers.
+
+Sales managers play a vital role in encouraging their teams to embrace these tools.
+
+“CRM data is there for one reason—to help the team win,” says Turner. “CSOs need to ask themselves if their managers see CRM as a burden or a tool to drive success.”
+
+To ensure data integrity, sales managers can also establish clear processes and workflows that make it easy or even mandatory for reps to engage with the CRM consistently.
+
+“The stakes are high when it comes to data accuracy,” West cautions. “Consider implementing business rules in the CRM that require sellers to comply in order to do their jobs.”
+
+Sales Effectiveness
+
+Breakthrough to immediate, predictable and sustainable sales effectiveness
+
+Learn more
+
+Start the AI Conversation in Your Company—Today
+
+“Don’t wait to tackle AI a year from now,” Turner advises. “What you’re looking at will be materially different, and the gap between you and the competition will only widen.”
+
+Learn more about how technology in sales can accelerate sales transformation in your organization.
+
+‍
+
+Our Expert
+
+Our Experts
+
+No items found.
+
+Lou Turner
+
+Head of Sales and Service, EMEA
+
+Rob West
+
+Senior Partner
+
+Related Capability
+
+Related Capabilities
+
+Sales Effectiveness
+
+Korn Ferry Sell
+
+Featured Insights
+
+Proven Strategies for Sales Success in 2025
+Behind The Scenes: How High Performing Sales Teams Stay On Top
+Why Sales Leaders Might Not Always Be the Best Sales Coaches
+Sales Success: Unlocking the Code on Successful Seller DNA
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Featured Topics
+
+Sales Transformation
+
+AI in the Workplace
+
+Sales Effectiveness
+
+Korn Ferry Sell
+
+Sales
+
+Kornferry4 SS

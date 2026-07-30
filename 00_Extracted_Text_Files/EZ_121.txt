@@ -1,0 +1,483 @@
+Data Center Leadership: Managing Growth in Changing World - Egon Zehnder
+
+Skip to main content
+
+Search for “”
+
+... in Consultants
+
+... in Offices
+
+... in Services
+
+... in Insights
+
+Search all results
+
+Our Services
+
+Shaping Successions
+
+CEO Successions
+
+Executive Successions
+
+Board Successions
+
+Chair Successions
+
+Committee Chair Successions
+
+Advancing Governance
+
+Board Review
+
+Board Development
+
+Board Advisory
+
+Building Advisory Boards
+
+Sustainability Board Advisory
+
+Discovering Leaders
+
+CEO Search
+
+Executive Search
+
+Board Search
+
+Advisor Search
+
+Executive Assessment
+
+Developing Leadership
+
+Individual Development
+
+Accelerated Onboarding
+
+Development Planning
+
+Coaching
+
+Team Journey
+
+Unlocking Transformations
+
+Transformational Development Programs
+
+Chair and Board Potential
+
+Executive Breakthrough
+
+Executive Discovery
+
+Transformational CHRO
+
+Voyager
+
+Customized Leadership Immersion
+
+Explorer
+
+Cultural Transformation
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Chief Executive Officers
+
+Founders
+
+Technology Officers
+
+Chief AI, Data & Analytics Officers
+
+Chief Information Officers
+
+Chief Information Security Officers
+
+Chief Product Officers
+
+Chief Technology Officers
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+Consumer
+
+Consumer Products
+
+Media & Entertainment
+
+Restaurants, Leisure and Hospitality
+
+Retail, E-commerce, Apparel and Luxury
+
+Sports
+
+Financial Services
+
+Asset Management
+
+Banking and Markets
+
+Digital Assets, Crypto, & Web 3
+
+FinTech
+
+Infrastructure
+
+Insurance
+
+Private Equity
+
+Retail Financial Services
+
+Risk Management
+
+Sovereign Wealth Funds
+
+Wealth Management
+
+Health
+
+Biopharmaceuticals
+
+Healthcare Delivery & Services
+
+Life Sciences Tools & Pharmaceutical Services
+
+Medical Devices, Diagnostics and Technology
+
+Industrial
+
+Aerospace & Defense
+
+Chemical & Process Industries
+
+Energy
+
+Machinery & Industrial Technology
+
+Mining & Metals
+
+Mobility & Automotive
+
+Public & Social Sector
+
+Arts, Culture & Sports
+
+Economic, Social & Human Development
+
+Education & Research
+
+Environment & Sustainability
+
+Interest Representation & Public Affairs
+
+Public Administration
+
+Public Finance
+
+Public Health
+
+Public Infrastructure
+
+Services
+
+Air Transport
+
+Business Services
+
+Hospitality, Travel & Leisure
+
+Professional Services
+
+Real Estate Services
+
+Transportation & Logistics
+
+Technology & AI
+
+Artificial Intelligence
+
+Communications & Connectivity
+
+Cyber Security
+
+Digital
+
+Enterprise Tech
+
+Internet of Things
+
+Semiconductors
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+Functions
+
+Industries
+
+Meet our Consultants
+
+Discover Insights
+
+Find Offices
+
+About Us
+
+English
+
+Change
+
+Functions
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Industries
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+About Us
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+English
+
+Deutsch
+
+中文
+
+日本語
+
+Data Center Leadership: Managing Rapid Growth in a Changing World
+
+A shared expertise from Arthur D. Little and Egon Zehnder
+
+March 2025
+
+6 mins read
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Artificial Intelligence is everywhere—permeating organizations and every personal device, and its prevalence is accelerating at lightning speed as new AI companies emerge, disrupting even this already disruptive industry.
+
+But where does this intelligence live? Data centers—sprawling labyrinths that house and process unimaginable volumes of data and form the backbone of today’s AI-driven world.
+
+Unsurprisingly, the global demand for data centers (DCs) is skyrocketing—in 2024, the world was set to generate 1.5 times the amount of digital data than two years previously. This places immense pressure on leaders to adapt, strategize, and develop the capabilities needed to thrive in this rapidly evolving landscape—all while navigating a severe talent crunch.
+
+This article explores the key leadership and talent trends facing the DC industry—from the factors critical to scaling successfully, the leadership qualities essential at each stage of maturity, and strategies to attract, develop—and retain—the talent that will drive the industry’s future.
+
+Explosive growth ahead
+
+As we move towards a fully digitalized society, demand for DCs will continue to soar. The need for data storage and processing is increasing rapidly, accelerated by relentless advances in technology. In fact, the DC market is poised to be worth $775 billion by 2034, rising from $229 billion in 2023.
+
+Data centers consist of servers supporting the internet and digital services, powering everything from social media to online banking.
+
+Political leaders also recognize AI's importance. U.S. President Donald Trump has introduced “Stargate”, a joint venture between OpenAI, Oracle and SoftBank backed by $500 billion in investment to open data centers across the U.S. France’s President Emmanuel Macron responded by announcing €109 billion in AI investment to build new data centers in France. The giants of tech have responded with massive infrastructure investments of their own. In 2025 alone, AWS will invest $100 billion in AI infrastructure, while Google will invest $75 billion and Meta $65 billion.
+
+Different stages of DCs’ growth
+
+As DCs grow, management roles should also evolve to meet new operational demands.
+
+1. Foundational stage
+
+Initially, leaders should establish operational stability and financial sustainability. At this stage, founders tend to adopt a 'just do it’ attitude, with leadership taking on multifunctional roles to manage both technical and strategic responsibilities.
+
+Key success factors
+Success relies on DCs’ strategic location and proximity to clients, stakeholder management, as well as a robust sales strategy and rapid client acquisition.
+
+Capabilities needed
+Leaders need to comprehensively understand operational and facility management; be proficient at managing IT infrastructure and cybersecurity and possess basic financial oversight to drive profitability and growth.
+
+2. Operational stage
+
+DCs scale to meet growing demand. Management roles become more specialized, with dedicated executives focusing on areas such as compliance, sustainability, and technology integration to support larger facilities and meet greater client expectations.
+
+Key success factors
+The focus now shifts to network and service operations, more complex stakeholder management, as well as scalability and flexibility.
+
+Capabilities needed
+Leaders should become proficient at managing larger infrastructures and ensuring consistent quality across multiple sites.
+
+3. Strategic stage
+
+By now, DCs operate on a global scale, which calls for sophisticated, strategic leadership. The management team typically expands to include more specialized roles, reflecting the need for expert oversight in areas critical to global operations.
+
+Key success factors
+The primary focus is on ensuring business continuity and reliability, as well as achieving cost efficiency and energy optimization.
+
+Capabilities needed
+Leaders require advanced skills in strategic vision, understanding market trends, and identifying growth opportunities for global operations. They also need high-level financial oversight and the ability to manage complex international operations.
+
+So, what does this mean for DC leaders?
+
+As the data industry transitions to the next phase, our discussions with industry leaders highlight several key factors which leaders need to hone to succeed.
+
+Business continuity and reliability – DC leaders must ensure uninterrupted operations, for example by using advancing cooling systems.
+Here, leaders can implement operational and facility management to ensure infrastructure efficiency and reliability.
+
+Seamless network connectivity and comprehensive service offerings are essential to provide robust interconnection options.
+Technical and security skills coupled with operational and facility management help leaders manage IT infrastructure and emerging technologies.
+
+Energy optimization prioritize cost efficiency while low Power Usage Effectiveness (PUE) scores attract sustainability-focused clients.
+To achieve this, leaders need to hone financial and investment management skills and focus on budget control and cost optimization.
+
+Strategic location and proximity to clients help to optimize response times.
+To succeed here, leaders need to use strategic and business acumen to identify optimal locations for low-latency connections as well as sites with access to renewable energy and cooler climates.
+
+A robust sales strategy and rapid client acquisition combined with effective stakeholder management ensures sustained growth and market presence.
+Strong people management creates a knowledgeable sales team, builds client trust and communicates unique value propositions.
+
+Transparent governance, strong investor relations, and continuous stakeholder engagement secures the capital needed for long-term competitive success.
+Leadership and people management are crucial for managing stakeholder relationships, while regulatory, compliance, and sustainability ensure alignment with stakeholder expectations within complex regulatory landscapes.
+
+A fierce fight for talent
+
+For DC operators to deliver on all of these capabilities, they need to attract and keep the right people. Yet rapid growth, increasing complexity in operations and low awareness outside of the industry has resulted in a talent crunch. Nearly six out of ten DC operators are struggling to find qualified candidates for open positions, while more than half find it difficult to keep the right people around. And data centers have a historically high CAPEX/FTE ratio compared with other industries, highlighting the need to find and retain talent.
+
+To tackle these issues, we propose a multifaceted approach that includes both targeted training programs and strategic hiring practices to ensure organizational resilience and adaptability.
+
+Beyond the DC market: Recruiting from adjacent fields, such as IT, telecommunications, and energy management provides access to professionals with transferable skills, innovative approaches and diverse perspectives.
+
+MBA executive programs: Setting up MBA executive programs tailored to the DC industry can create a pipeline of future-ready executives.
+
+Partnerships: Collaborating with other organizations can provide access to new talent pools and foster cross-industry collaboration.
+
+Joint training: Shared training programs with other DCs or educational institutions can ensure that employees can handle emerging technologies while fostering industry collaboration.
+
+Alumni networks: Seasoned professionals can add value via consulting roles, short-term projects, or full-time positions.
+
+Beyond salary: Comprehensive benefits packages can help to retain talent and enhance job satisfaction.
+
+Global mobility programs: Attracting international talent through relocation assistance and visa sponsorship can build a diverse workforce.
+
+Keeping the right people around
+
+Once they have found great people and trained them, the next challenge for leaders is to keep them around. Setting strategic goals, for example via career pathways and development programs can help to retain talent. And remember, good people expect to be paid well.
+
+Ultimately, great leadership will create growth opportunities and attract great talent. The next generation of DC leaders, whether DC managers or operations directors, need to combine technical expertise, operational knowledge, people management and strategic foresight to ensure their DC runs smoothly and efficiently while staying ahead of technological advancements and meeting evolving industry demands.
+
+As the DC market expands, leaders need to adapt to a quickly evolving competitive landscape. However, by staying agile and forward-thinking, leaders can position their DCs as industry frontrunners.
+
+Ultimately, those who master these challenging new dynamics will define the next era of the DC industry.
+
+Topics Related to this Article
+
+Artificial Intelligence
+
+Big Data
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Written by
+
+Stay up to date with our latest insights.
+
+Subscribe now
+
+Changing language
+
+You are switching to an alternate language version of the Egon Zehnder website. The page you are currently on does not have a translated version. If you continue, you will be taken to the alternate language home page.
+
+Continue to the                 website
+
+Back to top

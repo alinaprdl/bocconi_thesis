@@ -1,0 +1,406 @@
+What Your Chief Data Officer Wants You To Know - Egon Zehnder
+
+Skip to main content
+
+Search for “”
+
+... in Consultants
+
+... in Offices
+
+... in Services
+
+... in Insights
+
+Search all results
+
+Our Services
+
+Shaping Successions
+
+CEO Successions
+
+Executive Successions
+
+Board Successions
+
+Chair Successions
+
+Committee Chair Successions
+
+Advancing Governance
+
+Board Review
+
+Board Development
+
+Board Advisory
+
+Building Advisory Boards
+
+Sustainability Board Advisory
+
+Discovering Leaders
+
+CEO Search
+
+Executive Search
+
+Board Search
+
+Advisor Search
+
+Executive Assessment
+
+Developing Leadership
+
+Individual Development
+
+Accelerated Onboarding
+
+Development Planning
+
+Coaching
+
+Team Journey
+
+Unlocking Transformations
+
+Transformational Development Programs
+
+Chair and Board Potential
+
+Executive Breakthrough
+
+Executive Discovery
+
+Transformational CHRO
+
+Voyager
+
+Customized Leadership Immersion
+
+Explorer
+
+Cultural Transformation
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Chief Executive Officers
+
+Founders
+
+Technology Officers
+
+Chief AI, Data & Analytics Officers
+
+Chief Information Officers
+
+Chief Information Security Officers
+
+Chief Product Officers
+
+Chief Technology Officers
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+Consumer
+
+Consumer Products
+
+Media & Entertainment
+
+Restaurants, Leisure and Hospitality
+
+Retail, E-commerce, Apparel and Luxury
+
+Sports
+
+Financial Services
+
+Asset Management
+
+Banking and Markets
+
+Digital Assets, Crypto, & Web 3
+
+FinTech
+
+Infrastructure
+
+Insurance
+
+Private Equity
+
+Retail Financial Services
+
+Risk Management
+
+Sovereign Wealth Funds
+
+Wealth Management
+
+Health
+
+Biopharmaceuticals
+
+Healthcare Delivery & Services
+
+Life Sciences Tools & Pharmaceutical Services
+
+Medical Devices, Diagnostics and Technology
+
+Industrial
+
+Aerospace & Defense
+
+Chemical & Process Industries
+
+Energy
+
+Machinery & Industrial Technology
+
+Mining & Metals
+
+Mobility & Automotive
+
+Public & Social Sector
+
+Arts, Culture & Sports
+
+Economic, Social & Human Development
+
+Education & Research
+
+Environment & Sustainability
+
+Interest Representation & Public Affairs
+
+Public Administration
+
+Public Finance
+
+Public Health
+
+Public Infrastructure
+
+Services
+
+Air Transport
+
+Business Services
+
+Hospitality, Travel & Leisure
+
+Professional Services
+
+Real Estate Services
+
+Transportation & Logistics
+
+Technology & AI
+
+Artificial Intelligence
+
+Communications & Connectivity
+
+Cyber Security
+
+Digital
+
+Enterprise Tech
+
+Internet of Things
+
+Semiconductors
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+Functions
+
+Industries
+
+Meet our Consultants
+
+Discover Insights
+
+Find Offices
+
+About Us
+
+English
+
+Change
+
+Functions
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Industries
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+About Us
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+English
+
+Deutsch
+
+中文
+
+日本語
+
+DigitalWhat Your Chief Data Officer Wants You To Know
+
+January 2017
+
+4 mins read
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Download the PDF
+
+As more and more organizations undertake digitalization and innovation initiatives, they are turning to the chief data officer (CDO) to help them fully leverage those investments. While the role still is evolving, its broad outlines are clear. A CDO provides vision, strategy and oversight for all data management activities, including global data management, governance and quality across the enterprise, as well as oversight of the associated vendor relationships. He or she is the company’s evangelist for data sharing and spurs the creation of new data products. In this way, the data leader and his or her team provide the organization with the foundation for deeper understanding of customer behavior, supply chain inefficiencies and operational patterns. Those learnings then can be used to expand market share, drive innovative product development and improve profitability.
+
+However, the vast potential of the data function can be undermined if the rest of the company has unrealistic expectations in what the data leader and his or her team can do. Based on our conversations with data leaders across a range of industries, we have identified five key thoughts to keep in mind:
+
+Data wrangling is a team sport. Half the challenge of this function lies in inventorying the array of internal or proprietary data siloed in different parts of the enterprise so that connections across data sets can be discovered and analyzed. While the data leader is the orchestra conductor who brings those assets together, he or she can’t do it alone; each collection of data comes with nuances and caveats best known by its owner. Developing and executing a finely tuned data strategy require a concerted and ongoing group effort.
+
+To find gold, you need to sift through a lot of dirt. The aura around Big Data has obscured the fact that the insights that are generated emerge from the bottom of a wide funnel—and there are times when nothing comes out at all. Ultimately, the data and analytics functions are about identifying recurring behavior or process patterns that can be translated into actionable or monetizable recommendations. But finding patterns is a matter of trial and error that rarely follows a predictable path. This calls for agility inside the data function and patience outside it.
+
+A CDO can’t do everything for everyone at the same time. The function can quickly become overwhelmed with requests from various parts of the enterprise seeking to harness the ever-growing volume, velocity and variety of new data available. While this embrace of data-driven decision making is a positive development from the data leader’s perspective, it must be balanced against available team bandwidth and capacity/capability limitations. Prioritization of initiatives based on the value add of the data analytics and the overall project net present value for the organization is critical. Executive committee oversight to regularly review and realign priorities keeps data strategy supporting evolving business goals.
+
+What worked yesterday may not work today. One of the appeals of analytics is its ability to reduce complex, qualitative phenomena to quantitative numbers and patterns. However, doing so involves both art and science—and an awareness that the universe of available data is continually changing. Therefore, an approach that worked under one set of conditions may not be appropriate in another. Each project should be viewed as a fresh endeavor so that past performance is not assumed to be an indicator of future success or a template that will be effective indefinitely.
+
+Data security is part of the job. In the excitement around building better data capabilities and value creation, companies can sometimes forget the added risks to the organization. The increasing prevalence of partners, third-party providers, cloud solutions and open-source platforms like MongoDB makes it absolutely essential for the CDO to ensure that new technology is properly installed, regular security reviews are conducted and adequate investment is made in defensive measures. If, on occasion, the CDO takes a hard line on policies involving data handling, there’s a good reason.
+
+Few functional leaders are burdened with greater expectations than the chief data officer—and the right one can be a powerful catalyst in leveraging the benefits of digitalization and fostering powerful collaboration between the organization’s business, technology and analytics. However, the CDO isn’t a magician. Understanding the needs and limits of this critical function goes a long way to ensuring that the organization provides the CDO with a solid foundation to deliver ongoing value.
+
+What Your Chief Data Officer Wants You To Know
+Download as PDF
+
+Topics Related to this Article
+
+Digital
+
+CIO
+
+CyberSecurity
+
+Leadership
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Download the PDF
+
+Written by
+
+Stay up to date with our latest insights.
+
+Subscribe now
+
+Changing language
+
+You are switching to an alternate language version of the Egon Zehnder website. The page you are currently on does not have a translated version. If you continue, you will be taken to the alternate language home page.
+
+Continue to the                 website
+
+Back to top

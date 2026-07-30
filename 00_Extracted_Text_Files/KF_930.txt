@@ -1,0 +1,123 @@
+AI for Business Leaders: 3 Steps to Take in 2024
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Leadership|December 14, 2023
+
+AI for Business Leaders: 3 Steps to Take in 2024
+
+Education, experimentation and smart planning are key to helping leaders maximize the benefits of AI in the workplace.
+
+Key takeaways
+
+How leaders can go beyond buzzwords to determine practical AI use cases
+4 questions about AI that all leaders must ask
+How to balance the strengths of people and technology
+
+Most business leaders agree that artificial intelligence will reshape the competitive dynamics in their industries. But being aware of AI’s potential and harnessing it are two different things.
+
+When it comes to AI in the workplace, what are the practical steps leaders should take now to prepare for its use in the near-future? It comes down to three things: education, experimentation, and planning.
+
+Become a sponge for all things AI
+
+AI can help companies make better decisions, increase efficiency and reduce costs, but this doesn’t mean every application is right for every business. And while we’ve seen significant strides in AI tools like ChatGPT, others are in their infancy, and real-world use cases are distant.
+
+One of the biggest challenges business leaders face is determining which applications are worth the investment and which aren’t quite ready for prime time. “Leaders must differentiate between AI solutions that genuinely solve problems and those that are simply hyped,” says Deepali Vyas, a Senior Client Partner at Korn Ferry. “This means going beyond the buzzwords and really understanding the practical application—and that takes education.”
+
+A critical part of this education is reading trusted, authoritative sources to stay current on the latest trends around AI in the workplace. But an equally important component occurs on a very practical level, with leaders experimenting with AI technology to assess business relevance in real time.
+
+Encourage experimentation (with boundaries)
+
+Many AI platforms have “sandboxes” or places to test without fear of losing or altering company data. Giving people the freedom to experiment here can de-mystify AI and empower employees to expand their skills. To help people feel safe making mistakes, emphasize the importance of process rather than outcome. The goal is to experiment, iterate, learn, and improve, rather than to achieve perfection.
+
+That said, this doesn’t mean allowing a free-for-all—leaders also need to put up guardrails. “Leaders frame the boundaries for AI in their organization,” says Steve Newhall, a Managing Partner at Korn Ferry. “Creating the governance around experimentation, adoption and regulation is key.”
+
+Ask key questions about AI when determining use cases
+
+There are several realistic use cases for AI in the workplace across industries, such as developing more dynamic product pricing, delivering a better user experience with chatbots, and eliminating repetitive tasks to free up time for complex projects.
+
+As you build your AI roadmap, help maximize its benefits by asking these four questions:
+
+What are we trying to accomplish? Many AI projects fail because there’s a lack of clear direction from the start. Make sure your team is aligned on goals and outcomes, which will make implementing AI smoother.
+What data do we already have? AI and machine learning rely on data sets to train models and improve their outputs. Using existing company data may give you more valuable results, though buying AI tools also has advantages. If you build AI internally, clean your data to remove inaccurate, duplicate, or incomplete information.
+How can I empower my team? Consider how you can support and empower your team, including implementing additional training, developing task forces or focus areas, or encouraging employees to experiment.
+What are the potential ethical complications? As AI becomes more widely adopted, the importance of governance rises. Models use publicly available information, which can be impacted by bias or have issues with privacy and accountability. Creating a robust AI code of ethics and adhering to it will be essential for businesses moving forward.
+
+These aren’t intended to be a comprehensive list of questions or considerations, but they’re a good starting point as leaders plan for what’s next.
+
+If you have not done so already, you may also want to determine how AI tools will fit into budgets and workflows, set expectations among team members, and understand the level of buy-in from other company leaders.
+
+Leadership Development
+
+Leaders who can tap into the power of all
+
+Learn more
+
+How today’s top leaders are approaching AI in the workplace
+
+The most innovative organizations look to maximize AI’s benefits while empowering employees in a change-ready culture. Combined with reskilling people for AI success, this approach provides companies with a strong foundation for the future of AI.
+
+The most successful leaders also have realistic expectations about AI. A recent study from MIT Sloan found that Generative AI can improve a highly skilled worker’s performance by up to 40%. While that sounds like a no-brainer addition to the workforce, there’s a risk of relying too heavily on AI to solve major business problems. After all, this same study found that AI use reduced the diversity of ideas by 41%.
+
+Leaders must be aware of this and balance the need to keep diversity of thought across their organizations high while using tech like AI to drive towards more standardized outcomes. Everyone in your organization has unique experiences and backgrounds that shape their perspective. AI offers a nice complement, but it can’t—and shouldn’t—replace the human element.
+
+What business leaders need to know about AI in 2024
+
+To learn more about AI in the workplace and how to best use it for your business, watch our webinar on demand.
+
+Featured Insights
+
+How to Make Face-to-Face Work: 5 Ways
+5 Ways to Tailor Skills to What Firms Want
+6 Signs Leaders Lack AI-Readiness—And How to Fix It
+5 Ways ‘Night Owl’ Workers Can Thrive
+
+Related Capability
+
+Related Capabilities
+
+Leadership Development
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Featured Topics
+
+Leadership
+
+AI in the Workplace
+
+Leadership Development
+
+Kornferry2 LD

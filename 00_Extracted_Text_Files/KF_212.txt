@@ -1,0 +1,343 @@
+Pay Equity Audits: How to Run One and Act on the Results
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Pay Equity Audits: How to Run One and Act on the Results
+
+A key part of the pay transparency process is a pay equity audit. But where do you start? Our guide walks you through it.
+
+Pay Equity Audit: A Vital Step in the Pay Transparency Process
+
+Enacting pay transparency involves more than simply sharing salaries publicly or listing pay ranges in new job postings.
+
+If you jump in without proper preparation, your organization risks being inundated with queries about pay gaps and accusations of unfairness—or worse, found in breach of legislation.
+
+To avoid a hit to your company’s reputation and minimize risk, it's best to start the pay transparency process with a pay equity audit.
+
+Key Insights
+
+​
+
+Why “work of equal value” might not be what you think it is
+
+​
+
+Some justifiable reasons for pay gaps
+
+​
+
+How to decide between global vs. local processes
+
+This gives CHROs and rewards leaders a clear picture of how equitable workers’ compensation actually is across the company.
+
+But how do you conduct a pay equity audit, and what do you do with the results? Here’s everything you need to know.
+
+Why You Should Do a Pay Equity Audit
+
+As pay transparency legislation rolls out in many countries across the globe, organizations are urgently auditing their pay practices to ensure they're compliant.
+
+But even if the law doesn’t compel your business to do so, pay equity audits are a smart step for any business.
+
+Conducting an audit, and taking action to make pay equitable, can improve your ability to:
+
+Attract the right talent
+Reduce turnover
+Enhance productivity
+Minimize pay-related conflict
+Mitigate legal and reputational risk
+
+A lot of the benefits of pay equity come down to one thing:
+
+“Narrowing the gap between what you say you do and what you actually do feeds very much into trust in the organization,” says Claire Field of Korn Ferry.
+
+Trust Boosts Employee Engagement
+
+14% higher productivity*
+
+78% lower absenteeism*
+
+21–51% lower turnover*
+
+80% of workers say they would stay in a job because they have a manager they trust**
+
+Sources: *Gallup, 2024; **Korn Ferry Workforce 2025
+
+What Is a Pay Equity Audit?
+
+A pay equity audit is a structured data analysis of an organization’s employee data.
+
+“The goal is to see whether people are being paid equally for the same or similar work—that means work of equal value,” says Steve Munday of Korn Ferry.
+
+Over time, pay systems can become individualistic, even when they’re designed to keep things fair. Structural guardrails, such as pay bands, only go so far when individual managers—who have their own approaches and biases—decide how much to pay for each new hire, raise, and bonus.
+
+“An equal pay audit looks at the cumulative impact of all those individual decisions,” says Field. “How equitably are we making those decisions?”
+
+An audit will identify pay gaps and pinpoint the individuals and groups who are most affected, revealing where targeted corrective action is needed. It can also uncover biases and structural barriers within an organization that keep it from achieving pay equity.
+
+Pay Transparency Vs. Pay Equity
+
+Pay Transparency
+Openly sharing compensation information with people internally, externally, or both. A key component of pay equity.
+
+Pay Equity
+Equal pay for work of equal value. In many countries, pay equity legislation focuses on gender, but organizations often extend pay equity audits to examine differences by race, ethnicity, age, and other characteristics.
+
+Before You Get Started
+
+To get the best value from an audit, you need to be in a good starting position. If you’re not, then your ability to act upon the audit and make meaningful changes in your organization will be more difficult.
+
+Here are the four key things you need before you begin:
+
+Solid People Data
+
+It’s worth investing time to build an accurate and robust dataset, or you could find that your audit is worthless.
+
+“You could end up not having enough data to make a meaningful analysis,” says Field.
+
+Your dataset might include some or all of the following, depending on the scope of your audit:
+
+Base salary
+Bonus payouts
+New starter salaries
+Annual pay increases
+Promotions
+Promotional increases
+Level or grade of work
+Length of service
+Functions
+Job family
+Performance rating
+Location
+Gender
+Other characteristics, like race or disability
+
+Accurate Job Evaluation
+
+A successful audit hinges on being able to compare people who are doing work of equal value.
+
+Yes, that means looking at those who do the same job, but it also includes comparing the pay of employees across various departments, like between HR and IT.
+
+To do that, you’ll need a good grading structure or job evaluation methodology in place, such as the Korn Ferry Hay Method.
+
+“Proceeding with incorrect leveling gives you numbers that you can’t rely on,” says Field.
+
+Senior Leadership Buy-In
+
+To ensure success, leadership should not only support the pay equity audit but also be prepared to act upon any findings.
+
+“You could do all this work, and then get to the point where you want to make changes, and leadership says, ‘Hold on a sec. Why are we doing this?’” says Munday.
+
+Enough Time
+
+A pay equity audit isn’t something you can bang out in a week. It will take several months to identify pay gaps, then create an action plan and remediate any gaps you find.
+
+If you’re not starting with good data, accurate job evaluations, or leadership support, then you’ll need to allow more time to get those elements in place before you start your audit.
+
+Munday also points out that you’ll want to complete the work before the next pay review. “Otherwise, it would just be a mess,” he says.
+
+‍
+
+How to Conduct a Pay Equity Audit
+
+For a comprehensive pay equity audit, follow the five-step EQUAL approach:
+
+Step 1: Establish Parameters
+
+The first step is to decide what the scope of your audit is.
+
+Who will you include?
+
+Some audits encompass everyone in the company, but there may be legitimate reasons to exclude some groups or audit them separately. For example, contractors might be left out.
+
+Will you look at more than just base salary?
+
+An audit isn’t a full reward review, but it could include things like benefits and bonuses in the calculations. “Ideally, you should look at these independently of each other, because you might be paying equally on base, but not on bonuses or incentives,” says Munday.
+
+What pay gaps will you investigate?
+
+While laws like the EU Pay Transparency Directive require pay data to be broken out by gender, your organization may want to go beyond legal requirements and examine, for example, race disparities too.
+
+Step 2: Quantify Gaps
+
+Run a gap analysis on the groups you’ve identified for investigation. Gaps can show up in starting salaries, annual pay increases, promotions, bonus pay, and more. For example, are men and women who start in the same role getting paid the same at the beginning?
+
+Some comparisons may be relatively straightforward, but Munday warns that discrepancies can show up in unexpected ways.
+
+“For example, sometimes there's not a huge difference between male and female employees in terms of the distribution of performance ratings, but when you then compare full-time versus part-time employees, you find ratings skewed to the negative end of the scale for part-time employees,” he says.
+
+“Where most part-time workers are women, that means there could be indirect discrimination.” If that’s the case, it might be a sign that the culture of the organization doesn’t value part-time work as much as full-time work.
+
+Typically, a pay gap of more than five percent between groups doing equal work requires further investigation.
+
+Step 3: Understand Drivers
+
+Some gaps in pay are objectively—and legally—justifiable.
+
+“The EU Pay Transparency Directive doesn’t necessarily say you must pay everybody exactly the same money,” Field says. “It says you have to be able to justify, in a gender-neutral way, why people might be paid differently.”
+
+Pay transparency and equity laws vary by region, but here are some potentially acceptable reasons for pay gaps:
+
+Market rates
+Location
+Managers vs. independent contributors
+Length of service (for some types of work)
+Performance
+
+If the gaps can’t be justified, look at policy, process, and practice to understand why they exist.
+
+“What’s your policy? What is it that you say you’re going to do, and what do you actually do in practice?” asks Field. “If you, say, have performance rating as one of your variables, that doesn’t necessarily mean that the performance process underneath it is fair.”
+
+Step 4: Action Planning
+
+You have to change the underlying systems that led to the inequity, or the gaps are going to reappear. “If we carry on making the same decisions, we’re never going to correct what we’re doing wrong,” says Field.
+
+Consider the policies, processes, and practices that need to change for change to happen.
+
+For example, if you’ve determined that there’s been too much discretion in the bonus payout decision-making, design it out so managers can’t give one person twice as much as others.
+
+Or if men and women aren’t being paid the same when they join the organization, your action plan might involve adjusting your recruitment policies around negotiating starting salaries.
+
+Your plan also needs to include who will do what in order to deliver these actions.
+
+And you’ll also need to establish a process for monitoring and measuring changes and outcomes.
+
+“This isn’t a one-off exercise,” says Munday. “Best practice would be to monitor equity on an ongoing basis.”
+
+Step 5: Lead Change
+
+Like all organizational transformations, correcting pay gaps and implementing structural changes will require strong leadership to be successful.
+
+“The organization has to be able to take forward the actions from the audit,” says Field.
+
+Senior leaders, HR, managers, stakeholder groups, finance, and employee groups all have their part to play:
+
+Follow through on the action plan
+Monitor and measure progress
+Communicate messaging throughout the organization
+
+“Senior leaders need to lead the charge,” says Field. “They need to constantly send the right message and role model the right behaviors.”
+
+‍
+
+Comms Are Critical
+
+A strong messaging strategy before, during, and after an audit is essential for its success. Leaders, managers, and workers—especially of different generations—have varying comfort levels when it comes to talking about how much money people make. Thoughtful communications can help:
+
+Get Buy-In
+
+Alongside getting senior leadership to back your efforts, anyone involved in executing your pay equity action plan should understand why the organization is making changes.
+
+Establish Trust
+
+Work done in secrecy breeds suspicion and low morale. And everyone has a different definition of “fairness.” By explaining which changes you’re making and why, you vastly increase trust levels among workers.
+
+Change Minds
+
+“If you don’t change mindsets, then everything stays the same,” says Munday. “When people continue to think the same way, then the same patterns of behavior are going to happen, and nothing’s going to change.”
+
+Auditing a Global Workforce
+
+When your organization is spread across regions, legal requirements and employee expectations may vary widely. This can make the logistical practicalities of conducting an audit and implementing pay transparency highly complex.
+
+During the first step of an audit, when you’re establishing its parameters, you’ll have to decide whether you’ll go company-wide or take a more regional approach.
+
+Munday says most global organizations perform their pay equity audits country by country or entity by entity.
+
+“In a country like France, for example, you might have multiple legal entities,” he says. “Rather than analyzing them as a single population, many organizations assess each entity separately—while still structuring the analysis so results can be combined if needed.”
+
+How you roll out your audits in multiple regions will depend on how your company operates.
+
+Centralized: lead a company-wide approach from headquarters
+Decentralized: allow each country or entity to perform their own audits
+Hybrid: design and provide the key tools to each entity to execute an audit on their own
+
+Tracking Progress
+
+How do you measure the return on investment of doing a pay equity audit?
+
+If you act on your findings and increase trust within the organization, you could see higher productivity, lower turnover, and lower absenteeism—all of which have real costs attached to them.
+
+“Measure these numbers pre-audit, and then track them periodically post-audit,” says Munday. You should see improvements over time.
+
+Prepared for Pay Transparency
+
+With a thorough pay equity audit complete, you’re well-equipped to start implementing pay transparency within your organization.
+
+Ready for the Next Step?
+
+Learn how job architecture helps organizations scale pay transparency.
+
+Learn More
+​
+
+Related Insights
+
+Learn More
+​
+
+Our Experts
+
+Claire Field
+
+Senior Client Partner
+
+Stephen Munday
+
+Associate Client Partner
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Total Rewards
+
+Organizational Transformation
+
+Pay Transparency
+
+Article
+
+Featured Topics
+
+CHRO
+
+CEO
+
+Chief Financial Officer CFO
+
+Compensation and Benefits Leader
+
+Kornferry5 PT
+
+January 29, 2026
+Insight Articles
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

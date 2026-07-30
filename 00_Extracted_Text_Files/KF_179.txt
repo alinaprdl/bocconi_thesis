@@ -1,0 +1,130 @@
+A Hard (and Maybe Costly) Call on AI
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+This Week in Leadership|February 25, 2026
+
+A Hard (and Maybe Costly) Call on AI
+
+Some firms that picked one primary AI tool now worry it could handcuff their organization. Why AI decisions—with corporate futures at stake—are becoming impossible.
+
+Most businesses want to keep the number of software programs their employees use to a minimum—one word-processing program, one payroll processor, and one spreadsheet program. But should firms direct employees to use a single AI tool exclusively?
+
+That’s the question that’s perplexing leaders as a flurry of AI tools compete for their attention and dollars. Nearly 90% of firms are using AI to perform at least one function, and many organizations have baked ChatGPT, Gemini, Claude, or another of the so-called foundational large-language AI models into their workplaces, asking employees to use them exclusively. The decision protects firms’ assets and clients’ privacy, but as newer and better tools come out, some leaders worry that marrying themselves to just one AI could potentially give their rivals a huge edge.
+
+Complicating the issue, say experts, is that the AI market—currently worth well over $500 billion—keeps evolving. Leaders don’t want to be left behind, but a decision that seems like the right one today could look wrong in less than a year. “It makes it really hard for leaders and organizations,” says Bryan Ackermann, Korn Ferry’s head of AI strategy and transformation.
+
+At the moment, more than 8,000 smaller AI tools purport to carry out work-related tasks—marketing campaigns, insurance, customer service, and everything in between—better than those bigger, do-everything models. Hundreds more are being introduced each month. Some of these act independently of the larger models; others can be bolted onto them. But whether organizations can make these smaller tools cost-effective or secure is another question entirely.
+
+Indeed, leaders are finding AI isn’t just a single software technology, like a word-processing program. Rather, it’s a series of business choices: Should an organization use a single vendor for all of its insurance needs, or should it hire three separate vendors to take care of product liability, workplace injuries, and healthcare, respectively? The costs of making the wrong decision here aren’t trivial. Employees' licenses for the most powerful AI models can cost a large business several million dollars a year; adding one of the smaller specialized tools could cost several hundred thousand to a few million dollars, depending on how many people need it. That’s on top of having to train workers in the ins and outs of each tool.
+
+Many employees—and their bosses—likely would prefer simplicity. The sheer number of tools, and lack of clarity on which ones are best, can be overwhelming. Savvy employees can manage three different AI tools, but for many, “it’s still a lot of gobbledygook,” says David Vied, a Korn Ferry senior client partner and global sector leader of the firm’s Medical Devices and Diagnostics practice.
+
+At the outset, it didn’t seem so complicated. When ChatGPT and the other so-called “foundational” AI models came out three years ago, each was hyped as a magic tool that could do everything. But the technology’s early adopters determined that Claude was better at some things, Gemini at others, and ChatGPT at still others. With every product update, the capacities of the models kept changing, but even then, the large-language models didn’t perform certain work tasks—multi-step projects or legal projects, to name two—very well.
+
+To stay ahead of the big models, entrepreneurs raced to introduce smaller, task-focused tools with names like secret military code words: Bolt, Gamma, Opus, Hugo, Julius, etc. Employees, whether on their own or with guidance from their technology colleagues, have been using them to complement, or replace, the larger models. Renee Whalen, a Korn Ferry senior client partner and leader in its Consumer and Healthcare Markets practices, has a client who uses three separate AI tools to find, vet, and manage job candidates. “They found that for specific functions these tools made things far more efficient,” Whalen says.
+
+Now, however, the bigger models have changed strategies. Claude, for instance, recently introduced Cowork, a slew of built-in agents designed specifically to do work-related tasks. OpenAI, the designer of ChatGPT, debuted its own built-in virtual assistant, OpenClaw, which can stay on top of emails, deal with insurers, and carry out other professional and personal tasks. This strategy shift might encourage some leaders to rely exclusively on one of the foundational AI models.
+
+Experts suggest that organizations need to task a full-time team with vetting the various AI tools. “It’s moving too fast to be just a side job,” Ackermann says. This team can keep tabs on tools that are coming to market in the near future and test prototypes to see whether they improve significantly on what an organization already has adopted.
+
+Learn more about Korn Ferry’s AI in the Workplace capabilities.
+
+Read more This Week in Leadership articles
+
+Our Expert
+
+Our Experts
+
+Bryan Ackermann
+Senior Vice President, Head of AI Strategy & Transformation
+
+David Vied
+Global Sector Leader, Medical Devices and Diagnostics
+
+Renee Whalen
+Senior Client Partner, Market Leader
+
+No items found.
+
+Featured Insights
+
+The Sharp Slicing of HR Budgets
+The Leadership the AI Era Requires
+
+INSIGHTS TO YOUR INBOX
+
+Stay on top of the latest leadership news with This Week in Leadership—delivered weekly and straight to your inbox.
+
+​
+
+Related Insights
+
+See All Related Insights
+​
+
+Article|July 3, 2026
+
+The Glitter Leader
+
+July 3, 2026
+
+This Week in Leadership (June 29 - July 5)
+
+July 3, 2026
+
+This Week in Leadership (June 29 - July 5)
+
+Article|July 1, 2026
+
+6 Ways to Handle Work During Vacation
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+This Week in Leadership
+
+Leadership
+
+Organizational Transformation
+
+AI in the Workplace
+
+People Strategy & Performance
+
+Change Management
+
+Organization Design & Analytics
+
+Organization Strategy
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

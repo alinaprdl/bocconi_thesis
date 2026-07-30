@@ -1,0 +1,129 @@
+As Datadog Grows in Scale, So Does the CEO’s Leadership Style
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+As Datadog Grows in Scale, So Does the CEO’s Leadership Style
+
+A Q&A with Olivier Pomel, co-founder and CEO of Datadog
+
+By
+
+Jason Hancock and
+
+Muthiah Venkateswaran
+
+May 2026
+
+| 6 min read
+
+Authors
+
+Jason Hancock
+
+Stamford
+
+Muthiah Venkateswaran
+
+Silicon Valley
+
+Key insights
+
+Pomel developed his leadership instincts “out of necessity,” during a time when funding was tight and ensuring the business itself was strong was paramount.
+
+Transparency and accountability are key to culture, Pomel says. “Let [the people you hire] focus on their area of the business, and don’t micromanage them.”
+
+Adopting AI internally requires experimentation, habit change and persistence. Every role must adapt, Pomel says.
+
+Since its founding in 2010, Datadog has become the leading observability and security platform built for the AI era. Organizations worldwide – from high-growth startups to Fortune 500 companies and regulated industries – rely on Datadog to unify real-time observability across their entire technology stack, using AI to detect threats faster, reduce time to resolution, and manage complexity with confidence.
+
+Under co-founders Olivier Pomel and Alexis Lê-Quôc, the company has scaled into one of the most successful SaaS businesses of the last decade, with a multi-product platform that earns billions in revenue per year.
+
+The company stands out because of the disciplined, founder-led approach of Pomel, who serves today as the company’s CEO. Driven by product excellence, bottom-up adoption and capital efficiency, Datadog has become a case study for how software companies can create durable, high-margin scale while also managing the complexity AI introduces into their work
+
+Spencer Stuart’s Jason Hancock and Muthiah Venkateswaran recently sat down with Pomel for a wide-ranging conversation exploring Datadog’s steady growth since 2010 and how Pomel’s leadership style has adapted along with the company. The conversation below was edited for clarity and brevity.
+
+Looking back at the beginning of your business, did you have a view of what kind of leader you wanted to be? How has that evolved as the company has grown?
+
+In general, you start a company because you want to shape the way you work, to have more agency and ownership of the culture. My co-founder and I were quite aligned on that. We were both engineers, both moved to New York in the late '90s, and worked together initially in research for IBM. We went to work for startups in 1999, which gave us some of the dotcom boom followed by the dotcom bust. It was formative for us to see both the potential of technology and what explosive growth could look like, and also the consequences of not building on the right fundamentals, not having justification for your expenses and what you’re trying to do, not having operational discipline.
+
+In between, we both worked for an educational software startup that worked quite well. It was an interesting experience because as the company scaled, we both also scaled as leaders — to make mistakes, and to see both positive and negative consequences from them. That influenced our leadership style at Datadog.
+
+Our earliest leadership instincts developed out of necessity. When we started, it was difficult for us to raise capital. The environment was not as conducive to fundraising, and it was also 2010, so not long after the financial crisis. We also started our company in New York, where back then it was not as easy to raise money for this type of business compared to the Bay Area. We also had no experience with enterprise customers; our previous company sold to schools.
+
+When you raise money in a hot or crowded space, there are sometimes several investors competing to invest in your company, and as part of that competition they tell you you’re the smartest person they've ever met. Nobody did that to us, so we were not tempted to believe it. As a result, we recognized that we had to build a very good business from day one.
+
+That leads to our company’s two big cultural anchors. First is that we don’t assume that we know everything. We are here to learn from customers, and to understand their problems, and to build something valuable for them. Number two is we need to build a sound, profitable business, something viable enough to justify the investment, under the assumption that we’ll need to finance everything ourselves for the long run. That was true 15 years ago, and it’s still true today.
+
+Datadog has a reputation for a high-functioning culture, with satisfied employees and transparent communication. What does that take of you as a leader? What does it mean for how you communicate and how you hold teams accountable?
+
+At first, I was looking to hire people to work for me, but I had to evolve out of that as the company matured. I learned that, actually, I should hire people I see as being as qualified as me, at the same level as me. Let them focus on their area of the business, and don’t micromanage them.
+
+Day to day, there's a lot of transparency on what happens. I ask a lot of questions about everything, and I can ask questions to anybody at any level. However, what I won’t do is tell everybody what to do. The moment you start skipping leadership for decision-making, you’re basically demoting them. When I talk with my executive teams, we discuss the pros and cons of doing different things, and I’ll have my own opinions. But at the end of the day, this is their goal to achieve, their action to take, and I’m just sharing what I think about it. This gives people agency to run their own business, and their teams know how to run their own business, which is very important.
+
+It is natural for CEOs, as their organizations grow to a certain size, to lose that attachment to their people. How have you been able to counteract that at your organization?
+
+I like to sample reality at the ground level. This means not just reading the beautiful reports that come to me, but understanding what's actually happening from individual product conversations, customer issues, or employee comments. I can’t read all of them — we currently have about 8,000 people — but I sample a little bit all the time, which gives me some understanding of the fabric of reality for our company. Do the reports I’m seeing match what I’m seeing first-hand? If not, why is there a disconnect?
+
+This approach allows me to ask more direct questions to anybody in the organization. An immediate impact of that directness is that the management team may wonder why I’m looking at it, and that's fine, it’s okay to be surprising. But the second-order effect is that it focuses everybody from management down on their main responsibilities, rather than on trying to figure out what I want to hear and focusing only on that.
+
+How do you find balance as a CEO, maintaining who you are as a person with family and interests, with a corporate leader?
+
+I have a young son and an aging parent, so I do spend, outside of work, quite a bit of time these days with family that, frankly, mostly has no idea what I do for a living. It's very, very grounding, to say the least. Whatever happens in the stock market, my son doesn't care.
+
+I'm very careful about interruptions and in general, both when I'm working and when I'm not. I like people to focus and avoid interruptions. So I keep my phone on silent mode most of the time, so I can find time to think. And when I’m off work, I leave my phone somewhere else, so that I can create enough space to do other things.
+
+I do end up working a lot, often at home and on weekends, but I arrange my schedule so that I work on my time and on what I decide to work on, as opposed to being reactive. Obviously, you don't always have that luxury when something urgent happens. But most weeks, leaders have more control over their time than they might think, and I try to make the most of that.
+
+What’s your thinking on AI, both in terms of how AI impacts how you work at Datadog, and your product portfolio?
+
+Many of our customers are AI companies who are building the technology behind it. Many others are not building AI, but they are using AI and working hard to understand its complexity and the guardrails needed to adopt it effectively.
+
+Internally, we’ve been around for 15 years, so we are also transforming. Software is the biggest transformation going on right now. These coding agents in particular are changing the field very, very quickly. We are also busy transforming our team. There’s been an incredible acceleration of what you can do with AI, and what individuals and small teams can get from using AI agents. We’re leaning in to implementing that across the organization, but it's work, because it’s changing so much about how people work. I mean, I've been working for more than 20 years, so I have a system for most things, a way of doing things that did not involve AI, so I have to change as well.
+
+I force myself to experiment quite a bit — try new tools, try different ways of working, try to change my habits a little bit. The most difficult thing is that you have to try several times. Sometimes you try and it doesn't work because the tooling's not there, or it's not the right fit for what you're trying to do. But guess what? In two months or three months, the tooling will be there. So it’s important to try again and again. Ultimately, it's a change of habits.
+
+For people new to the workforce, it's no problem, they’re all in from day one because they don't know anything else. For more experienced people, it takes time to experiment, try new things, and understand what works and what doesn’t.
+
+What’s clear is that everybody has to adapt. It’s a transformation that will hit pretty much every white-collar job. We’re clear about that inside our company, and we're optimistic that this transformation is happening.
+
+What brings you joy in what you do? How do you find continued contentment in your day-to-day role?
+
+First, in general, I don't spend too much time day-to-day looking at the stock price. What happens on a daily basis is completely out of my control and also not reflective of what drives mid-to-long-term value — which is the one thing we really can control. What matters is that we build enough of the right solutions, solve the right problems, and then find enough customers for it, and we focus our entire organization on that.
+
+What motivates me is that I like to build, whether that's a product, software, technology or systems, or inside the company how we go to market, how we understand customer feedback, how we measure success. All of these are systems, and I love to build those. That's why I enjoy working, why it's not taxing for me even when I go home and reopen my computer and do more work.
+
+I wouldn’t qualify today’s environment as challenging. I would say that it’s demanding. There’s so much opportunity happening right now, so we have to be very, very, very aggressively pursuing those new opportunities. I've never seen in my career a time when there were so many possibilities, so many doors that could be open all at the same time. We really need to make the most of them.
+
+Authors
+
+Jason Hancock
+
+Stamford
+
+Muthiah Venkateswaran
+
+Silicon Valley
+
+Related Insights
+
+Transforming a Legacy Telecom to an AI Connectivity Platform
+
+7 min read
+
+We learn how Lumen Technologies has evolved into an AI connectivity platform by rebuilding culture, teaching skills, empowering small wins, and embracing humble, team-led learning.
+
+A “Servant Leader” Finds Meaning and Reward in Private Equity
+
+6 min read
+
+Todd Abbrecht, co-CEO of THL Partners, one of the U.S.’s oldest private equity firms, talks with Spencer Stuart about leadership in the PE industry.
+
+A Veteran Leader Tries Something New… and Finds Success
+
+6 min read
+
+Spencer Stuart’s Jason Hancock sat down with Nikesh Arora, CEO of cybersecurity leader Palo Alto Networks, to discuss Arora’s success after entering a new industry.

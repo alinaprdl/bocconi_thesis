@@ -1,0 +1,63 @@
+Safety in Numbers: The Increasing Role of Data and Analytics in the Sales Function
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Safety in Numbers: The Increasing Role of Data and Analytics in the Sales Function
+
+By
+
+Michael Dickstein
+
+August 2017
+
+| 3 min read
+
+Author
+
+Michael Dickstein
+
+Seattle
+
+Forward-looking companies are increasingly leveraging data and analytics to transform the sales function. Lead scoring, microsegmentation, predictive “most likely to purchase” engines and other new analytics tools now supplement intuition and personal relationships to boost sales productivity. A study by McKinsey & Company estimates companies that effectively use big data and analytics have profitability and productivity rates that are 5 to 6 percent higher than their peers.
+
+Spencer Stuart and McKinsey & Company recently hosted an event to explore how B2B companies can harness the power of data and analytics to transform the sales function. Speakers included:
+
+Thomas Hansen, CRO at Carbon Black, former global vice president of revenue for Dropbox
+
+Jeff Williams, operating partner at Bain Capital Ventures, former senior vice president of sales at FireEye
+
+Robert Youngjohns, former executive vice president/general manager for Hewlett Packard Enterprise Software
+
+The group discussed the ways effective data usage has enhanced sales representatives’ abilities, the work that must be done to truly integrate data into the sales function and how it has — almost counterintuitively — led to more personalized connections.
+
+The panel began the discussion by noting how data has helped their companies increase their knowledge of its customers — and its own employees. Panelists cited examples that illustrate how data allowed them to better understand a customer’s sales cycle and their propensity to buy, leading to higher quality leads and upsell opportunities. Hansen described a study he had done that correlated salesperson performance with personal characteristics. Surprising to him, the characteristics that make an effective salesperson were “preparedness” and “curiosity” (not relationships or extroversion, as he had assumed).
+
+The leaders also discussed how they had used data to correlate account assignments to opportunities, eventually learning that too much capacity was tied to accounts that didn’t offer much headroom. Armed with this knowledge, the leaders were able to reallocate sales resources toward accounts that offered more growth opportunity. Using similar analysis, some reps at Dropbox saw their number of accounts drop by 80 percent, Hansen said — but the remaining accounts were much more productive and allowed the reps to drive even more revenue.
+
+Data can also be leveraged to help determine where to locate field sales reps. Williams described how companies traditionally used the “NFL strategy” of putting reps into larger U.S. cities. But by diving into the numbers in one of his recent portfolio companies, he found that they had more success in other, less-populous areas. “After what we found through analytics, we literally had to terminate and move some people around, and now we have completely changed the density of those reps,” he said.
+
+Sales organizations are also using data to identify less-obvious potential customers. “At most sales organizations where I've worked over the years, you have perfectly adequate sales resources available,” Youngjohns said. “The question is, do you have the people in the right places? Instead of pursuing the larger, established company that everyone knows, data can help you determine that it might be better to map resources to the fast-growing, willing-to-spend company that you’ve never heard of.”
+
+Analytical tools have also been put to use to inform pricing decisions, helping companies understand the demand curve for their products as well as tactical pricing for a specific opportunity. Youngjohns commented on the helpfulness of “using information about the deal to predict the right price and what the customer would be willing to pay,” and what an improvement this was relative to the “gut feel” he relied on in the past.
+
+But incorporating data and analytics into a company’s toolkit doesn’t happen overnight, and it comes with many challenges. Simply knowing where to begin as a company transitions to a more data-focused methodology can be paralyzing for some leaders. Panelists agreed that taking small steps is critical, and that the sales leader plays a crucial role setting the tone and direction for the entire organization.
+
+The panelists also discussed potential pitfalls to avoid. For example, when an organization uses data to drive decision-making, it can become susceptible to measuring the wrong things or relying on data that provides an inaccurate picture of the available options. It can also be difficult to integrate new tools into a company’s existing infrastructure and teach everyone on the team to use new digital tools.
+
+But it’s clear that, once a decision is made to utilize data and analytics, the entire organization must be on-board and ready to join the effort. Sales leaders must direct the charge — with the visible support of the management team — and should lead by example, bringing data rather than anecdotes. Tying the use of data to incentives or other methods to promote accountability helps embed a commitment to big data throughout the organization.
+
+Looking forward, the panel agreed that platforms that allow greater aggregation and correlation of events and data will become more powerful and effective. The panel discussed how this could lead to significant improvements in lead generation. With better targeting of prospects, panelists predicted an acceleration of a trend with tele-based salespeople replacing more expensive, field-based resources. This increases the chance of initial success and decreases costs by cutting expensive field resources.
+
+Even with this increased emphasis on data and analytics, panelists agreed that energetic, engaged salespeople will always be needed. “Now we search for two core traits in our new sales hires, and if these two core traits are there, everything else will be OK,” Hansen said. “For us, those two traits are tenacity and curiosity. And if those are there, amazing things will unfold.”
+
+Mike Dickstein  is a member of the firm’s Technology, Media & Telecommunications Practice, as well as a leader of the Sales Officer Practice. He specializes in recruiting senior-level executives for technology clients, ranging from startups to leading multinational corporations, as well as sales executives across multiple industries. Reach him via email and follow him on LinkedIn.
+
+Author
+
+Michael Dickstein
+
+Seattle

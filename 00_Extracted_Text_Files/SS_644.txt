@@ -1,0 +1,103 @@
+The State of the CIO in 2018
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+The State of the CIO in 2018
+
+A Three-Year Study of a Rapidly Changing Role
+
+February 2018
+
+| 6 min read
+
+The onset of digital disruption — and the ensuing shorter business cycles — has dramatically changed the role of today’s chief information officer (CIO). Now, CIOs are expected to not only understand the potential of new technologies and platforms, but also to know how to incorporate new technology going forward and, importantly, contribute to the organization’s evolving business strategy.
+
+To gain a deeper understanding of how the position of CIO has transformed within this new environment, we’ve analyzed CIOs within Fortune 500 companies over the past three years — and we’ve considered how the role could evolve by 2020.
+
+At a high level, we found that the average Fortune 500 CIO is a white male who’s been internally promoted through application development. He likely has a graduate degree, reports to the CEO and will remain in his position for about five years. But beyond those findings, we’ve broken down our research into these six categories:
+
+Degree of diversity
+
+Typical route to CIO
+
+Internal vs. external hire
+
+Level of education
+
+Reporting structure
+
+Average tenure
+
+In the end, we found the CIO position is changing almost as much as the rapidly evolving landscape, and today’s — as well as tomorrow’s — CIOs must be willing to adapt further in order to stay abreast of the new normal.
+
+Diversity Improves Steadily
+
+Although the CIOs of today’s Fortune 500 companies are largely white men, other groups continue to make inroads. The percentage of racially diverse CIOs has increased from 11% in 2014 to 13% in 2015 to 14% in 2016.
+
+Within industries, the financial services, technology, media, and telecommunications sectors saw upturns in racial diversity, with both increasing by 1% since last year. Engineering, industrial and the broader technology industry reported 15% of their CIOs were racially diverse, while financial services recorded the lowest percentage at 11%, despite the overall increase.
+
+The percentage of female CIOs has been on a steady upward trend, from 15.6% in 2014 to 16.5% in 2015 to 17% in 2016. That’s an increase of 9% over three years, which is especially notable given that the rate only rose from 15.4% to 15.6% — or 1.3% — between 2012 and 2014.
+
+The industrial sector reported the highest percentage of female CIOs at 21%, with financial services and life sciences at 20%. Financial services also showed a large gain from 12% just two years ago. Consumer goods and services reported the lowest percentage of women in the CIO role at 11% (down from 16% in 2015).
+
+Analysis
+
+Diversity hasn’t been a strong point in the CIO world, but these numbers are increasing — and will likely continue to do so — as companies focus on diversity in every search. Racial diversity, for instance, has increased by 27% in the past three years, and the percentage of female CIOs has grown by 9% over that same period. This rise is due not only to a greater number of diversity initiatives, but also the growing emphasis on pursuing science, technology, engineering and mathematics (STEM) education in today’s classrooms. There’s also an ever-increasing demand for talent, and simple supply and demand dictates there will be a need for more diverse candidates to fill more roles.
+
+Application Development Is Still Primary Route to CIO
+
+As has been the case for several years, application development provide the most common route up for today’s CIO, with 43% of CIOs coming up through this function. That percentage, however, has been decreasing: In 2014, application development provided the starting point for 56% of CIOs, and in 2015 it was 50%. Similarly, the percentage of CIOs who came up through infrastructure is also decreasing, from 29% in 2014 to 28% in 2015 to 27% in 2016. Other routes all fell below 10%, with the most common other routes being finance at 7% and consulting and general management at 6%.
+
+By industry, life sciences has the highest percentage of CIOs who came up through application development at 56%, while professional services was the lowest at 28%.
+
+Traditionally, application development has been the term that refers to internal software, which is why we see more CIOs with an application development background. However, as the role of CIO continues to adapt to the changing environment, we are increasingly seeing leaders who have come from software engineering backgrounds. This alternative outlook requires a more holistic and strategic view of where the business is going in order to create product alignment. Given this, the CIO who will likely be rising in the next three years is one who has a variety of experiences through all phases of technology development and implementation. This CIO has a solid foundational understanding of both the internal and external products and systems, and has a keen grasp of how those products align with the business strategy. Software engineering and application development are quickly merging to create roles at both junior and senior levels, to the point that these roles will merge and the “route up” will become increasingly fluid.
+
+Analysis
+
+Given the pragmatic importance of technological knowledge, it’s not a surprise that application development continues to be the primary route to CIO. That number has fallen, though, dropping 14% percent over the past three years. This indicates the heightened need for a hybridized, business- and infrastructure-focused route up rather than through traditional IT.
+
+Most CIOs Are Internal Hires
+
+The percentage of CIOs who were internally promoted has largely remained the same over the last three years — the percentages have gone from 55% in 2014 to 52% the following year to 54% in 2016. Fifty-six percent of women and 48% of racially diverse CIOs were internally promoted. The percentages of CIOs who were internally promoted sits at around 50% within each industry — with the exception of professional services, where 71% of CIOs rose from the internal ranks.
+
+The majority of the CIOs (50%) who were hired from outside the company came up through application development, compared to 43% who were internally promoted via application development. Those numbers largely mirror last year’s findings, where 53% of external placements came up through application development, and 46% were internal promotions. In 2016, 31% of external placements came from infrastructure while 27% were internal hires; in the previous year, those numbers were 32% and 25%, respectively.
+
+Analysis
+
+We are seeing — and will likely continue to see — the rise of leaders who have mixed backgrounds and are comfortable working with consumer-focused digital infrastructure. The CIO of the future will need to be agile and have a mix of different work experiences to adapt to an ever-changing landscape.
+
+The Importance of Education Rises
+
+The percentage of CIOs with graduate degrees is gradually increasing, from 51% in 2014 to 57% in 2015 to 55% in 2016. (There is no difference between male and female CIOs regarding graduate degrees — both hold them at a rate of 55%.) The percentage of racially diverse CIOs who have graduate degrees, however, stands at a much higher rate of 80%.
+
+Analysis
+
+We will likely see these numbers rise as technology becomes more advanced, and more specialized skills are needed to succeed. With undergraduate education in STEM as an expected prerequisite, CIOs (or would-be CIOs) with graduate degrees stand out among the candidates. The higher percentage of diverse CIOs might indicate they felt they need an advanced degree be considered. Also, the education in today’s graduate and undergraduate programs is far superior to education 20 years ago, simply due to the advancements in technology that are now being taught.
+
+Reporting to the Top
+
+When it comes to the reporting line, 41% of CIOs report to the CEO, followed by the chief financial officer (CFO) at 22%. The chief accounting officer (CAO) and chief operating officer (COO) each received 7%. “Other” received 23% of the responses, and that category includes CTO, president and executive vice president. The percentage of CIOs reporting to the CEO was down 5% from 2015. Roughly 35% of each industry has the CIO reporting to the CEO, except for financial services at 46% and life sciences at 59%.
+
+Analysis
+
+This is a situation where the numbers don’t tell the full story. In our experience, we’ve seen that more CIOs will have a seat at the table as tech becomes a greater business enabler. These numbers will only increase in coming years as there is an increased focus on areas like AI and digital infrastructure, and technology evolve from a tertiary function to a business necessity. Meanwhile, a higher percentage of CIOs report to the CEO in financial services and life sciences because IT plays a more critical role in these industries, given the infrastructure and degree of sensitive information.
+
+Tenure
+
+Average tenure for CIOs has remained roughly the same over the last six years, staying at right around five years. The figure was 5.1 years in 2016, up from 4.6 years in 2015. The percentages also reflect this stasis: the percentage of CIOs remaining with a company between two and five years was 44% in 2015, 46% in 2015 and 43% in 2016.
+
+Analysis
+
+The tenure for CIOs has fluctuated largely because of developments such as agile workflow and technological advancements, which make it easier — and faster — to become digitally fluent. Hence the percentage of CIOs who remain with a firm for at least five years dropped from 28% in 2014 to 20% in 2016, while the plurality remain two through five years (43% in 2016).
+
+Conclusion
+
+As the data indicates, the position of CIO has dramatically evolved — and will continue to change — in an ever-shifting landscape. The job has transformed from one comprised of technological insight to one that requires much long-term vision, strategic acumen and business knowledge. Today’s CIO needs a seat at the table as technology continues to move from back-office function to key factor in a successful company’s strategy. As organizations realize the importance of this new perspective, CIOs are poised to become as indispensable within the C-suite as the rest of the core executive leadership team. But it’s crucial that CIOs strive to continue adapting, expanding their focus to leadership and growing to shape much more than solely technology.
+
+Download
+
+Download

@@ -1,0 +1,124 @@
+Make It Rain
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Make It Rain
+
+Is weather modification poised to become big business?
+
+Latest Issue:
+
+​
+
+Download a PDF
+
+​
+
+Browse the Flip Version
+
+By Meghan Walsh
+
+May 30, 2025
+
+Gary Walker, cloud seeder.
+
+It sounds like a sci-fi sitcom. In fact, it’s a job title that Walker has held for more than two decades—and one that may become more common in the not so distant future.
+
+​
+
+THE PROBLEM Water is in high demand and short supply.
+
+​
+
+WHY IT MATTERS Weather modification has huge value—and implications.
+
+​
+
+THE SOLUTION Deploy technology to manipulate precipitation.
+
+Cloud seeding is a form of weather modification that can both incite and suppress precipitation. More than 50 countries have experimented with the technology as a means of bolstering snowpacks and rainfall, clearing fog, suppressing hail, ameliorating pollution, or in some cases—like the 2008 Beijing Olympics—diverting precipitation. It’s not a new science, but the combination of new technology, a series of drought-related fires, and mounting demand for water could well fuel the rainmaking business. “You’re going to see more and more interest,” vows Walker, CEO of Texas-based Seeding Operations & Atmospheric Research (SOAR).
+
+Mother Nature sets Walker’s work schedule. When the meteorologist calls with news that a storm is brewing, Walker climbs into one of his multi-engine aircraft and, contrary to what most pilots do in these instances, heads straight toward the action. The 78-year-old, who has spent much of his life navigating the sky and studying its patterns, flies to the precise cloud coordinates that radar technology has identified as prime for seeding. Then he burns flares to release a chemical agent that acts as a nucleus for water-vapor condensation. Within minutes, rain or snow starts to fall—or should.
+
+Walker, who for several years worked for a mining company in India, has a range of clients. In Texas and the Midwest, agricultural needs largely drive the demand for water. In the mountain west, which is currently experiencing a historic drought, cloud seeding is done in the winter to sustain snowpacks which—when they melt into rivers and reservoirs—provide hydropower, irrigation, and drinking water to tens of millions of residents. Sometimes it’s local municipalities picking up the bill, other times it’s power companies or private entities that rely on localized precipitation, such as ski resorts.
+
+Despite its widespread use, the geoengineering of clouds forces us to confront significant questions. There are the mundane queries, for instance: How much additional water can actually be generated? But weather modification also raises profound ethical considerations about who should have the authority to control the climate and what the downstream effects are. According to the Pew Research Center, most Americans have never heard of cloud seeding. Of those who have, seven out of 10 are concerned about it being deployed without full consideration of the consequences.
+
+Regardless of uncertainty, “the train is already in full steam,” says Katja Friedrich, an atmospheric scientist at the University of Colorado Boulder who worked on SNOWIE, a pioneering research project that helped establish the efficacy of cold-weather cloud seeding. “Research is now trying to catch up,” she says.
+
+Cloud seeding dates back to World War II, when scientists were working to prevent aircraft from icing over in midflight. In an effort to better understand the way ice forms inside of clouds, a researcher named Vincent Schaefer built a freezer. One day Schaefer entered the lab to find the freezer had been turned off, so he placed a slab of dry ice inside it to help it cool. To his surprise and delight, a cloud of ice crystals formed. Soon after, Schaefer was riding in a plane in the Adirondacks as it dumped six pounds of dry ice into an ominous but—to that point—unproductive cloud. Almost instantaneously, snow started to fall.
+
+Clouds are composed of water vapor. Under the right conditions, this vapor condenses around tiny particles, such as dust or salt, becoming raindrops or snowflakes. Without these particles, though, the vapor remains stuck in the atmosphere and doesn’t fall to the earth as precipitation. Most cloud seeding uses calcium chloride or silver iodide as a nucleating agent, dispersing it either via aircraft or land-based generators. While silver iodide can be toxic in certain concentrations, studies show the amounts used in these operations to be benign.
+
+“We can’t make clouds out of clear air or make it rain or snow in regions without sufficient moisture,” says Jeff French, an atmospheric scientist at the University of Wyoming. “We can only incrementally increase the amount of precipitation.”
+
+And just like that, snow started to fall.
+
+When cloud seeding was first discovered, there was a frenzy of interest. “It has a bad reputation because it was oversold,” says Friedrich. The US government used it to try to mitigate hurricanes, and the military even experimented with it as a weapon during the Vietnam War. But Mother Nature doesn’t provide control groups, so it’s exceptionally difficult to determine whether a cloud would have produced snow or rain without human intervention. Every cloud is unique and dynamically changing. Without conclusive scientific proof that cloud seeding actually works, public and private willingness to invest in it dwindled.
+
+But recent advancements in technology have made it possible to determine cloud seeding’s efficacy more precisely. Most estimates say seeded clouds, if they are prime for seeding, can produce 15 to 20 percent more precipitation. That’s not a huge amount, but this intervention is relatively inexpensive compared to desalination or recycling contaminated water. “While the question is no longer does it work,” French says, “there are still a lot of questions, like: What are the ideal circumstances?”
+
+An industry is emerging from within the chasm created by possibility and scarcity.
+
+The last time the mountain west was as parched as it is now, Columbus was still 700 years away from sailing to the New World. Indeed, the last quarter century has been the driest in this region since 800 C.E., according to a study published in Nature Climate Change that used tree rings to measure annual rainfall. These conditions have led to ferocious fires and dangerously low water reserves.
+
+Last year, before the Palisades and Eaton fires in Los Angeles incinerated upward of 30,000 acres and 16,000 structures, thrusting the water crisis in the West into the collective zeitgeist, a small start-up in El Segundo, a Los Angeles suburb, announced it had raised just over $6 million to modernize cloud seeding. The company claims that its modern radar and weather-prediction software can better target prime cloud-seeding candidates, while at the same time lowering costs by using unmanned drones. The company, Rainmaker, is also working to develop safer and higher-yield compounds to serve as nucleating agents. But the company’s founder doesn’t stop there. He’s publicly said that his ultimate aspiration is to make all of Earth habitable, with the climate as precisely tuned as a home thermostat (the company didn’t respond to interview requests).
+
+That may be a utopian dream for now, but experts say we should expect to see the cloud-seeding market expand as more businesses and governments look to it as a viable solution to water management. With growing populations and unreliable precipitation, there are two options for handling this precious resource: 1) conserve it; or 2) generate more supply. The primary approach so far has been to reduce demand, but that’s costly and doesn’t fully address the issue. “Even if we have enough water for people, the people aren’t always spread out like the water is,” says SOAR’s Walker.
+
+While cloud seeding remains relatively small-scale in North America, China has become a leading pioneer, spending billions with the stated goal of creating a prolific atmospheric-river and nationwide weather system. The United Arab Emirates, a country subject to unrelenting aridity, has also invested in warm-weather cloud-seeding research and technology, including the use of drones, nanotechnology, and electric currents. “About once a year they get rain,” says Linda Zou, a researcher who developed a highly productive cloud-seeding agent using nanotechnology. “If we can turn one rain a year into five, that’s going to be quite significant to overall well-being.”
+
+While there may still be plenty of reasons to be skeptical of claims that the desert can be engineered into a lush oasis, there is also this: Even if it can be done, should it be?
+
+*****
+
+The debate around weather modification, which expands to larger-scale methods of geoengineering, is as turbulent as the atmospheric wilds humans endeavor to tame. Weather knows no borders. Yet there is hardly global consensus when it comes to navigating these shifting winds. During the Vietnam War, the international community banned military use of weather modification, but beyond that, the technology has faced minimal governance.
+
+After heavy rains pounded the UAE last spring, killing more than 20 people and delivering an entire year’s worth of rainfall in one day, many speculated cloud seeding was to blame. Experts have dismissed such claims as unlikely, since cloud seeding is only capable of extracting a small amount of additional precipitation from already existing clouds. But the public response illustrates the unease around the issue.
+
+Some fear that the pursuit of cloud seeding could distract from efforts to address structural sustainability issues, such as water conservation. Or that it could turn into a situation in which richer countries are tinkering in ways that negatively impact poorer ones. Still, some argue humans shouldn’t be meddling in the skies at all. To this last point, Friedrich says, “Every time we get in the car, we are manipulating the weather.” In fact, experts say, seeding may be restoring cloud functions that have gotten out of whack due to human activity.
+
+For an illustrative example of today’s climate complexity, consider the unintended impact of the curbing of shipping pollution. In 2020, the United Nations passed a resolution to cut the sulfur emissions produced by large ships. The move was anticipated to improve air quality worldwide. That’s not what happened: The emissions reductions instead lessened the concentration of sulfate particles, which cool the planet by seeding low-lying, sunlight-reflecting clouds. The absence of these pollution-catalyzed clouds led to even more warming. “We’re trying to understand this infinitely complex system,” French says. “Cloud seeding allows us to change one variable to see how systems respond.”
+
+The scientists who analyzed the tree rings to compare precipitation across time say that history tells us the current drought in the West will eventually abate. But they also warn that as weather patterns become less predictable, the past may not hold the answers needed for the future. If we don’t look backward, will we then look upward?
+
+Image credits: Nick Brundle Photography/Getty Images; Jacobs Stock Photography Ltd/Getty Images; JJ Gouin/Getty Images; Rudzhan Nagiev, Nadiinko, Miray Celebi Kaba, Roman Bykhalets, Roman Yaroshchuk/Getty Images
+
+Related Articles
+
+View All Briefings Issue 69 Articles
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Briefings Magazine
+
+May 30, 2025
+Insight Articles

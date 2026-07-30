@@ -1,0 +1,123 @@
+Maintaining the Start-Up Spark at a 55,000-Employee Company
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Maintaining the Start-Up Spark at a 55,000-Employee Company
+
+An interview with Arkadiy Dobkin, founder, CEO, president and chair of EPAM Systems
+
+By
+
+Jason Hancock
+
+November 2023
+
+| 8 min read
+
+Author
+
+Jason Hancock
+
+Stamford
+
+The onset of war in Eastern Europe in February 2022 was a particularly complex challenge for EPAM Systems. Of the U.S.-based digital transformation services and product engineering company’s more than 55,000 employees, 60 percent lived in either Ukraine, Belarus or Russia — including almost 15,000 in Ukraine. Over the next 18 months, roughly 14,000 were relocated to other EPAM locations across the globe. Ensuring the safety and wellbeing of all of those employees was a monumentally delicate and difficult task — yet a top priority for EPAM Systems CEO and founder Arkadiy Dobkin and his team.
+
+“It’s not something we ever really prepared to do,” Dobkin said. “But at the same time, being a software engineering company and building the internal platforms to manage talent and people and connectivity between them helped us very quickly adapt for our employees’ sudden needs.”
+
+The company’s response to war is only one part of the story of a company that has, in 30 years, grown from a software start-up to a $4.8 billion global leader in software engineering. Spencer Stuart’s Jason Hancock recently sat down with Dobkin for a wide-ranging conversation about the unique leadership challenges of the past two years as well as Dobkin’s journey leading EPAM Systems through 30 years of exponential growth. The discussion below has been edited for clarity and brevity.
+
+Jason Hancock: How did you chart a path to address the challenges of war, especially considering the cultural and geopolitical sensitivities involved? How did you maintain your corporate culture amid this turmoil?
+
+Arkadiy Dobkin: We hoped first, as many did, that the conflict would end soon, but we very quickly realized that was not going to happen. In March, as a first step, we decided to stop growing our business in Russia; a few weeks later, we decided to close our all of operations in the country. With 9,000 employees in Russia, this was not a particularly simple task. At the same time our full attention was in Ukraine. We immediately allocated $100 million to assist our employees and their families, while colleagues in other countries also provided tremendous support.
+
+Quote
+
+One critical element of what we did [was] to ensure that EPAM operations performed at pre-war standards, with no impact on client work and deliverables.”
+
+The situation was changing very fast, and we had to customize our responses on the fly. First, we had to help our people—often including their whole families—move from one part of Ukraine to another, or across the border to Poland and Hungary. We often also helped employees of our local competitors, and sometimes our clients too, because of our much better-developed in-country presence.
+
+Every case was different. It was not like you could grab people and just move them. You had to rely on an infrastructure that was changing in real-time, organize transportation, and respect how challenging a time this was for so many. There were also many people determined to stay put, even if they could leave, because they didn’t want to leave their families and loved ones. And then, in some places, they were required to stay due to martial law. Ultimately, you had to carefully consider many cultural and emotional issues as teams from different countries worked together.
+
+One critical element of what we did, however, was ensuring that our operations remained stable no matter where we were. Many of our offices, not just in Ukraine but in Poland and Hungary, became temporary human shelters for employees and their families too. In Ukraine, we also used generators and satellites to ensure full connectivity when electricity went out due to Russian attacks on infrastructure. We did whatever we had to do to ensure that EPAM operations performed at pre-war standards, with no impact on client work and deliverables.
+
+Jason Hancock: Looking back at EPAM Systems over its 30 years, tell us a little bit about your growth strategy. How do you decide on companies to acquire? And how do you manage integration?
+
+Arkadiy Dobkin: When we did our IPO in 2012, we had 7,000 people. Although the company was founded in the United States and from a market perspective operated in the U.S. and Western Europe, 98 percent of our people were in Belarus, Ukraine, Russia and Hungary. Our structure was very different, and the average employee had a very different profile, in terms of both culture and capabilities. We were strictly a software engineering services company, and most of our delivery talent, as I said before, was in Eastern Europe.
+
+Quote
+
+We’re very proud of the fact that so many of the founders and leaders from companies that joined EPAM are still here with us, and that they play big and critical leadership roles within the company today.”
+
+Organic growth was always our main growth driver, but after our IPO we focused on our acquisition strategy so we could strengthen our North American and Western European capabilities and client interfaces, and add new for us global delivery locations, primarily in India and Latin America.
+
+To execute that approach, we mostly targeted smaller companies that had the skills and capabilities we needed and could integrate into EPAM. While close integration can be hard, we decided from the outset that bringing the company together had to be our path forward, otherwise you’re just working often as separate entities and losing critical benefits that come from having holistic, integrated value at client engagements. We saw an opportunity to make one plus one equal significantly more than two.
+
+While it was not easy and the success of each effort varied, overall these smaller companies and their leaders have had a major impact on our company culture. They have enabled us to further develop EPAM’s capabilities and they offer a starting point for continuing to expand organically. There may be difficult periods, where getting everyone to listen to each other and collaborate takes significant effort, but once you’ve gone through that, you end up with a stronger company ultimately.
+
+We’re very proud of the fact that so many of the founders and leaders from companies that joined EPAM are still here with us, and that they play big and critical leadership roles within the company today — even when they maybe weren’t even planning to stay that much longer.
+
+Jason Hancock: That’s fascinating. Why do you think they've stayed? And when it comes to acquisitions — culturally, organizationally, structurally — do you have a blueprint for integration? Or does it go case by case?
+
+Arkadiy Dobkin: To answer these questions, let me start from a bit of a different angle. Every acquisition is going to have different degree of success, and judging that success is difficult. One year in, a deal may look like a complete disaster, but then by year three you see just how big of an influence it has had, often in ways you didn’t expect. By year five, many people recognize it as a truly important deal. But who knows, maybe people just two years later will think again it was a disaster.
+
+What’s important to remember is why we do an acquisition. It was to gain a new capability, and to differentiate ourselves further in the market. We are not doing it for financial engineering, or for some inorganic way to raise revenue. Between 2012 and 2022, we grew from about $300 million in revenue to $4.8 billion. That’s over 20 percent annual growth, and only a few of those points come purely from acquisitions. Acquisitions sometimes become important in ways you didn’t expect originally. For example, one acquisition of ours included a presence in many countries, one of which was Turkey, something we found interesting at the time but didn’t see as particularly strategic. But then suddenly, when the war began, Turkey was an important location for us because so much relocation was happening there. We actually were glad to have a presence there. And now after being much more exposed to the local talent in the country, we believe Turkey is a part of our future strategy. So that part of our acquisition proved more valuable than we could have predicted originally.
+
+So going back to your questions, we like to think about an acquisition as a unique opportunity to make our business better, and not just a new company to add, which means it’s very much a case-by-case approach and decision. It is not an easy process at all. But at the same time, it also creates an environment and an opportunity for new talent to come in and see a place where they have a future. I’d like to believe that’s why we might have a better retention ratio for such talent.
+
+Jason Hancock: Your firm has a strong culture, and one where leadership has a demonstrated care for its employee base. How do you, as CEO, stay connected to more than 50,000 people? How do you engage with the team?
+
+Arkadiy Dobkin: As a founder, I remember EPAM when it had just two people, and now it has over 50,000 people. But also, many more members of our management team can remember the company when it was just a couple of hundred employees.
+
+During those first decades when our company was relatively small, I traveled on a monthly basis to Europe, because I believed it was very important to understand first-hand what is happening in development centers, on the ground specifically, to actually talk to people, and to learn how things are done locally. Until COVID, I was on a plane over the ocean once or twice a month, going to different locations but mostly to Belarus, Ukraine and Hungary, and sometimes to client sites across the world. Distributed work was a core part of our culture from day one, and some sense of “in person” reality was necessary. We also built our own internal software ecosystem to support and navigate the high level of distribution and to create as much transparency and connectivity as possible — long before many modern platforms were introduced to the market to support such needs.
+
+Today we continue to develop those further while very closely integrating our own software with most advance on-the-shelf solutions as well. We still today do not have what you’d call “classical” HR packages like Workday or SAP SuccessFactors. Instead, we have a sophisticated, homegrown talent management and talent development platform that we designed with real-time insights in mind and the ability to adapt and advance new features internally based on constantly changing needs.
+
+Sometimes, semi-jokingly, I will say that EPAM didn’t hire a global chief people officer until we had more than 20,000 employees globally. But all along we had an ecosystem that enabled us to work effectively across the world. We had strong connectivity among our people, and we were able to strongly support an evolving culture at a growing company.
+
+Jason Hancock: How do you leverage your board? Does your board have much involvement with your management team, or are you their primary line of communication?
+
+Arkadiy Dobkin: As I was saying, before our IPO we were a 7,000-person company with no global head of HR. Our legal and finance teams were rudimentary at that time to say the least. So, when you think about our underdeveloped corporate structure back then, you will see how important a strong board was for helping us become a real public company.
+
+Quote
+
+I am keen on preserving the important element of our culture: that you can do something from almost nothing.”
+
+Right before our IPO we established a new board configuration, adding our first two independent members, followed by one more soon after, and in the next few years four more. Our directors brought very strong, diverse corporate backgrounds, with experience in executive roles at large companies, and they offered us completely different views, experience, and capabilities in comparison to what the original EPAM management team had. I believe that the combination of the corporate maturity our board added with the company’s traditional entrepreneurial spirit was an important part of our very strong, but also very responsible, growth during the last decade.
+
+Of course, it wasn't easy initially, as both parties adapted to each other and learned from each other too. It is not easy sometimes still today. What counts, though, is that our board is a critically important and integral part of our company. We never would be where we are today without that group of people. Yes, you may not know them well at first, but the relationship gets stronger through interactions as you meet each other, experience difficult decisions and situations together, and navigate issues where there is no simple right or wrong answer.
+
+Jason Hancock: What gives you the excitement in your day-to-day? What gives you the motivation to stay CEO after 30 years?
+
+Arkadiy Dobkin: Strangely enough, even though we’re now an S&P 500 company today, I still see our company through the lens of a smaller entity or a start-up. Despite our vast workforce of 50,000 and the considerable challenges we face due to the global economic slowdown and geopolitical impacts affecting thousands of our employees, I am keen on preserving the important element of our culture: that you can do something from almost nothing. That's one reason so many of our acquisitions are relatively small companies, which means they were still run by people who created something from nothing, too. We want to have that spark of start-up DNA in EPAM.
+
+This approach served us well in the past, propelling us to the forefront of the digital product engineering segment. I'm optimistic that this approach and our growing experience as a large company will continue to drive our future success, enabling us to navigate transformative phases and seize rapid growth opportunities.
+
+At this point, we know that even though it feels like you’re getting bigger, every time you enter a new phase you realize that you’re still climbing the mountain, and that the top is still somewhere in the far distance.
+
+Author
+
+Jason Hancock
+
+Stamford
+
+Related Insights
+
+“The Journey of a Lifetime”: HPE’s CEO on the Art of Leadership
+
+Spencer Stuart’s Jason Hancock recently sat down with Neri to discuss his unique rise from junior employee to CEO, and the elements of leadership that guide him as leader.
+
+‘Winning in the future is all about people, powered by technology’
+
+7 min read
+
+Rahul Welde, former global executive vice president, digital transformation, at Unilever, sits down with  Veena Marr to discuss leadership challenges in an age of digital transformation.
+
+With a Clear Strategy and Open Communication, a Software Leader Drives Sustainable Growth
+
+7 min read
+
+Barak Eilam, CEO of the cloud enterprise software company NICE, shares his insights on leading his successful and rapidly growing company.

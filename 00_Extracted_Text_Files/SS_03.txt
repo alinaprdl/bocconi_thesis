@@ -1,0 +1,109 @@
+AI and the New CRO Mandate
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+AI and the New CRO Mandate
+
+The chief revenue officer’s role in building a new AI-enabled B2B sales model
+
+By
+
+Michael Dickstein
+
+June 2026
+
+| 5 min read
+
+Author
+
+Michael Dickstein
+
+Seattle
+
+SectionsIn this article
+
+Key insights
+
+AI is transforming B2B sales. However, most CROs are still early in adoption, with limited headcount impact, uneven capabilities and significant barriers in data readiness, integration and implementation discipline.
+
+Survey findings suggest many revenue teams are too stretched to implement AI effectively, making organizational capacity and operating discipline as important as ambition or technology investment itself.
+
+As AI changes how work gets done, the CRO role is expanding beyond sales leadership toward broader commercial stewardship, requiring stronger technical fluency, judgment and organizational design capability.
+
+For boards and CEOs, the key question is whether CROs can use AI to reshape go-to-market strategy faster than competitors, rather than simply pursuing isolated efficiency gains.
+
+AI is transforming the traditional B2B sales function into a more automated, insight-driven commercial system. It is raising the prospect of shorter sales cycles and higher productivity, thanks to lower administrative burdens, more effective predictive insights into buyer behavior, and enhanced customer interactions.
+
+Given this, one might expect chief revenue officers (CROs) to be moving decisively to redesign their sales organizations around AI. The reality, however, is more mixed.
+
+Spencer Stuart recently surveyed nearly 100 B2B CROs about how they and their teams are embracing AI, and the impact they expect it will have on their work. The results show, somewhat surprisingly, that change has been relatively slow for revenue functions, at least for now: limited headcount reductions; slower uptake on AI; and wide variance on who is leading centralized AI efforts.
+
+In the article below, based on the survey data as well as a handful of additional conversations with revenue leaders, we look at the impact of AI has had on the revenue function and what it means for the CRO role.
+
+What CROs are saying
+
+For all of the discussion of AI’s revolutionary impact, the data shows a bit more a hesitant start for many CROs and their teams. Some trends include:
+
+Many already-overworked teams feel like they don’t have the time to implement AI. “It’s difficult to add AI on top of people’s usual day jobs,” said one survey respondent.
+
+Headcount reductions remain limited (for now). The idea that AI will lead to headcount reductions has not yet come to fruition, according to our survey. Almost two-thirds of respondents (64%) have kept headcount steady in the past two years, and a majority (53%) expect to do so this year as well. Meanwhile, only 11% of respondents say they reduced headcount in the past two years due to AI, and 35% expect reductions in the next year.
+
+By comparison, 7% of respondents reported headcount increases in the past two years, and 13% expect investment in greater headcount in the next year.
+
+AI abilities are average at best. Most CROs rate their organizations’ ability to use AI to advance their function’s agenda at average or lower. More than one-third (37%) say they have below-average capabilities. The biggest impediments to AI implementation, our respondents said, was data infrastructure not being ready (25%), followed by tech integration (20%) and the lack of a clear playbook (14%).
+
+Teams need breathing room to implement AI. Open-response survey questions offered a common refrain: Already-overworked teams feel like they don’t have the time to implement AI. “It’s difficult to add AI on top of people’s usual day jobs,” said one anonymous respondent. “Over the years, there has been so much work on right-sizing organizations, especially back-office functions, that everyone is stretched too thin to take on initiatives that may create even more efficiencies.”
+
+The AI challenge is a leadership challenge
+
+For CEOs and boards, the survey findings warrant close attention. The question is no longer whether AI will matter in B2B sales, but, rather, whether the CRO is prepared to adapt the commercial model to capture its full potential. AI could reshape coverage economics, improve the speed and quality of execution, and, over time, alter how commercial work is organized.
+
+While the CRO may not “own” AI at the corporate level — our survey found that the most common leaders of corporate AI efforts are the CEO (25% of respondents), CTO (22%) or a centralized AI team (17%) — today’s CRO must see AI as more than just a supporting capability, but indeed as a core element of the commercial agenda.
+Many B2B sales organizations were designed for a world in which information was scarce, coordination was costly, and managerial oversight was the primary mechanism for maintaining consistency. As this changes, the traditional sales model of specialized roles, sequential handoffs, manager-led inspection and substantial administrative effort is increasingly becoming moot. The upshot is that commercial leaders have an opportunity to redesign roles, reallocate managerial attention, accelerate organizational learning and, overall, create the conditions for sustained success. The CRO mandate is broadening from revenue management to stewardship of the commercial model.
+
+Quote
+
+We’re not in an AI tools conversation anymore — we’re in an operating model conversation. The company of the future has three roles: builders, sellers and measurers. The CRO’s job is to automate the measurers and turn every team into a team of builders.”
+
+Armughan Ahmad
+
+AI adviser
+
+“We’re not in an AI tools conversation anymore — we’re in an operating model conversation,” Armughan Ahmad, an AI adviser to PE firms and portfolio company CEOs, who is also the former CEO of Appen and go-to-market leader at Dell and HPE. “The company of the future has three roles: builders, sellers and measurers. The CRO’s job is to automate the measurers and turn every team into a team of builders.”
+
+This does not necessarily imply a highly centralized transformation effort. Rather, the CRO can set the ambition, establish guardrails and identify the commercial workflows where redesign matters most, enabling experimentation closer to the work. In many organizations, the critical gap is not intent but operating discipline: clarity on ownership, standards for quality, and mechanisms for sharing and scaling what works. The more useful question is not, “What AI applications should we deploy?” but rather, “How should our go-to-market approach evolve?”
+
+For some organizations, that may mean redefining roles to reduce handoffs across sales, solutions, account management and customer success, and for others, it may mean materially improving the effectiveness of existing teams. For example, the forward-deployed engineer (FDE) is emerging as a new go-to-market role, as teams evolve from a non-technical rep and a sales engineer into squads of five or six with deep technical skills, enabling those who do the demos to also by able to deploy.
+In either case, AI should prompt a broader reconsideration of how revenue is created and how customer value is delivered.
+
+“What is happening right now is not just another technology cycle. It’s a management reset,” Bobby Morrison, former CRO of Shopify, told us in an interview. “The biggest misconception is treating AI like a formal transformation program. AI doesn’t behave like a project plan. It behaves much more like a cultural shift.”
+
+Questions for boards and CEOs
+
+There is no doubt that the chief revenue officer role has become more demanding. The best CROs  must combine a range of skills — customer insight, commercial judgment, organizational design capability and technical fluency — to make credible trade-off decisions. They must encourage experimentation while retaining discipline, move with speed without creating unmanaged risk, and build organizations that learn faster than competitors. In that sense, the future CRO profile goes well beyond traditional sales leadership. It is increasingly a general management role with direct responsibility for commercial transformation.
+
+This commercial shift leaves some key strategic considerations for boards and CEOs as they reconsider expectations for their CRO:
+
+Has the CRO articulated how AI could alter the company’s route to market?
+
+Has the CRO identified the workflows where redesign could materially improve growth, productivity or customer experience?
+
+Are they adjusting management routines, talent requirements and cross-functional handoffs accordingly?
+
+Can they distinguish meaningful enterprise value creation from isolated efficiency gains?
+
+“It has to start as a CEO-level mandate,” Ahmad said. “AI fluency is non-negotiable. But the CRO who needs IT to approve an AI tool is already two years behind the CRO whose reps are building their own lead-scoring apps over a weekend.”
+
+The biggest risk for many companies may not be that AI moves too quickly, but that commercial leadership adapts too slowly while competitors reshape the model around it. The organizations that benefit most will not necessarily be those with the largest technology budgets. They are more likely to be those whose CROs use AI as a catalyst to rethink roles, management, talent and customer engagement.
+
+The main issue is no longer simply whether the company has a go-to-market AI strategy. It is whether the CRO has the leadership range, organizational judgment and technological fluency to lead the next phase of commercial evolution.
+
+Author
+
+Michael Dickstein
+
+Seattle

@@ -1,0 +1,224 @@
+Growing gains: The role of digital leaders in Europe’s unicorns
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Growing gains: The role of digital leaders in Europe’s unicorns
+
+By
+
+Veena Marr and
+
+John Kelly
+
+July 2023
+
+| 11 min read
+
+Authors
+
+Veena Marr
+
+London
+
+John Kelly
+
+Dublin
+
+SectionsIn this article
+
+The trajectory of Europe’s high growth companies is often fuelled by technology — but what does this mean for their leaders? We consider the challenges they face and analyse the technological nous and skills that have helped their businesses take flight.
+
+The path to building a billion dollar business never runs smooth. The terrain is pockmarked by a variety of obstacles and challenges, and tinged with the disappointment of those that have fallen short.
+
+But it can be done.
+
+At a time when Europe is riven with intense geopolitical turbulence and fluctuating economic headwinds, as of Q2 2023 there are now over 130 unicorns in the region, which are defined as start up companies with valuations of $1 billion or more. Reaching this status is no small feat. It’s rooted in a number of different factors ranging from innovation to tenacity to product; a relentless focus on the customer and operational excellence. But more often than not, it’s a process — and a business model — that has been fuelled by technology.
+
+These extraordinarily successful organisations, so extraordinary they have been named after a magical creature, don’t tend to reach such stratospheric heights by opting for the tried and tested. No, they are far more likely to revel in their role as industry disruptors, taking fierce professional pride in using technology to render older approaches obsolete while en route to their newfound market dominance. But this is no cause for complacency.
+
+Download
+
+Download
+
+Their future success is by no means guaranteed. The technology they depend on, and the range of skills and capabilities that their CTO, CTO, CPO and other digital and technology leaders require, needs to be constantly evolving — anything less would be akin to falling asleep at the wheel and risk competitive disadvantage.
+
+This all means that digital and technology leadership teams at these organisations have a profile (and level of pressure) that is perhaps not shared by their counterparts in more traditional companies. Since technology lies at the heart of these businesses, the senior technology leader is a highly valued and strategically critical member of the executive leadership team and has regular access to the board.
+
+As the business grows, the technology leader must also possess the professional expertise, capabilities and soft skills to build, retain and motivate a diverse team, keep the enterprise at the cutting edge of innovation, and ensure the business preserves and grows its market share.
+
+To find out more about the role of technology in high growth businesses and the challenges currently faced by their digital leadership teams, we have spoken with leaders from unicorn companies across Europe who have shared their experiences and perspectives on the key ingredients for success.
+
+Out of the gate
+
+Starting any new business is inherently challenging. Yes, you have an abundance of decision making autonomy — there’s nothing quite like the thrill of a blank canvas —but there are also plenty of looming issues to address too. Not only do their leaders have to find their market niche they also have to attract the necessary talent and funding, as well as generate a loyal and growing customer base and identify the most appropriate business model, all of which requires hard work and dedication. And these are just a few examples — there are plenty more out there.
+
+You may also like:
+
+Software update: Strengthening Europe’s software industry
+
+European software businesses have historically lagged against their US counterparts. We consider how they can reverse these trends and capitalise on new growth opportunities.
+
+CIO and co founder of FlixBus, Daniel Krauss, says that launching their business — which offers affordable coach and bus travel throughout Europe and America — meant that they had to strike a fine balance between developing software that was secure and scalable but without sacrificing speed. Accomplishing this wasn’t straightforward, it transpires.
+
+“Achieving this balance was definitely a tension at the beginning,” he said. “This is because on the one hand it's all about speed, but if you rush things and work sloppily, then you need to throw things out and start all over again. It's got a lot to do with technology strategy, architecture and so on. You don't need so many people at that stage. You have a certain dynamism and growing things is easy because of the small baseline.”
+
+At the same time, though, leaders at high growth companies also need to set the right parameters for their team to all move in the same direction, without impeding the collective hunger for innovation and creativity. This is a particularly acute priority for organisations as they move from start up to scale up, when a greater level of supervision is perhaps required.
+
+Walid Hanna, chairman and CEO of Perseus Biomics, suggests that start up businesses, including those destined for unicorn status, need careful management, at least to start with. “It needs to be managed on a top down approach, certainly for the first few years until people are on the right track and the goals are achieved,” he said. “The challenge is adapting, changing your leadership style as the company evolves into a more established and more mature organisation, where you can find a style and approach that works and stick to it.”
+
+Quote
+
+Anybody in an organisation of the scale and complexity of a unicorn, or even half a unicorn, for that matter, needs to be able to delegate.”
+
+alan MolloY
+
+former CPO at fintech,
+Fenergo
+
+Laying the foundations
+
+So what distinguishes technology leaders at unicorns from their counterparts at other companies? It’s an important question.
+
+After all, regardless of the size of organisation, technology leaders are going to face their share of similar issues to address. From talent management to funding new technologies, meeting customer expectations to unlocking data insights, there will never be a shortage of challenges to face. But any leader in any size of organisation or sector has to rely on strong foundations in order to flourish. Unicorns are no exception.
+
+Cutting edge technology may shape their working day — and no doubt their time away from the office too — but CIOs and CTOs are also grounded by the basic realities that have impacted previous generations. Teamwork, strategy, performance — these are just some of the preconditions for success that have faced leaders of any stripe since time immemorial.
+
+But what are the other key priorities that digital and technology leaders in unicorn companies need to propel their organisations forward?
+
+Don’t forget to delegate
+
+Alan Molloy, former CPO at fintech, Fenergo and CIO at New Ireland Assurance Company, is keen to delegate whenever possible. “Anybody in an organisation of the scale and complexity of a unicorn, or even half a unicorn, for that matter, needs to be able to delegate,” he said.
+
+“You need to create the conditions for experts to thrive and that involves stepping back and not being afraid of other people being better than you at what they do. Your job is as a custodian of a system and it’s important that this is understood.”
+
+Manage diversity
+
+You may also like:
+
+Opening doors in tech
+
+Despite an abundance of campaigns, conferences and media blitzes the tech industry remains far from gender balanced. We explore what can be done to turn good intentions into greater impact.
+
+Then there’s the responsibilities which come with leading a diversified team. As we have pointed out elsewhere, diversity of approaches and points of view help shape improved performance. That’s because diverse teams are proven to come up with new ways to solve problems and create new products, as well as offering up a vital mix of skills and experiences.
+
+Leading a team of differing backgrounds and perspectives is not always straightforward, however. When it comes to bringing together a chorus of potentially divergent voices, Heiko Reinhard, group CIO of human mobility products company Ottobock, says that mindset and basic good manners are not to be underestimated. “Something I naturally expect from everyone is respectful interactions, reliability and honesty,” he said.
+
+“Aside from the technical skills or experience, I also expect a certain openness towards continuously going along with the process of change. A tool is something I can always teach but one thing I cannot teach is attitude.”
+
+Talent spotting
+
+Of course, a key responsibility for any leader — technological or otherwise — is building a strong team around them. But that’s easier said than done.
+
+The competition for talent is intense, particularly as higher salaries can often be found in the US. While some jurisdictions, such as Ireland, for example, have benefited from investor friendly tax systems, the allure of a higher pay cheque from across the Atlantic remains a broad challenge facing many European companies.
+
+Then there are those scenarios where an organisation is growing in some areas but contracting in others. This leads to a situation where some teams will be highly motivated and engaged and others will be disaffected and discouraged — which is difficult to manage, especially as it’s unaffordable to offer everyone annual promotions and salary increases as a matter of course.
+
+There are also going to be challenges in finding the right people for the right job — a particularly acute issue for start ups that, in the early days at least, do not have the resources to rely on large executive search firms. “The key issue is finding top talent for specific functions,” said Walid Hanna.
+
+“The pool of resource is scarce, and the biggest hiring challenge for a start up is to identify people who have an entrepreneurial mindset and have the relevant and correct experience. Very often, the top candidates are usually coming from large corporate companies and they do not share the entrepreneurial mindset in terms of agility or a risk taking mindset. However, they have the experience that is needed to professionalise a venture and to coach a young team of bright but often unstructured people.”
+
+Quote
+
+The biggest hiring challenge for a start up is to identify people who have an entrepreneurial mindset and have the relevant and correct experience.”
+
+walid hanna
+
+CHAIRMAN AND CEO,
+PERSEUS BIOMICS
+
+Daniel Krauss has taken matters into his own hands. To make sure he can find quality people whom he can afford and retain, he and his colleagues at FlixBus have set up their own in house recruitment team.
+
+“It's no longer enough to just have one HR person or a recruiter,” he said. “That's not going to work, because that won’t generate a continuous flow of talent. You're not going to have enough people in the pipeline. On the one hand, leadership plays a big role in attracting and hiring talented people and on the other hand, it's about variety on the job. This means it's vital for us to be very innovative and cutting edge. That's the only way for us to retain people in software and tech.”
+
+The evolution of technology leadership in unicorns
+
+Thomas Jefferson once said that “with the change of circumstances, institutions must advance also to keep pace with the times.” The quote may have been aimed towards government but it’s applicable to private sector organisations too.
+
+That’s because we are living through an era of disruptive transformation, one akin to that of the 19th Century’s Industrial Revolution. The recent surge of interest in generative AI such as ChatGPT is just the start of things to come. New technologies have uprooted business models and enabled new products to be invented quickly and cheaply and as a result, technology leaders across unicorn companies have had to quickly adapt, and take advantage of, the digital tumult that surrounds all of us.
+
+So how are they doing this?
+
+Increasing focus on diversity
+
+As we have seen, diversity has always been a priority but for unicorns, it has grown in significance and also in recognition of the sheer value of having different voices at decision making tables.
+
+Neurodivergent employees in certain tech roles could be up to 140 percent more productive than neurotypical colleagues
+
+Nitin Gupta, chief operating officer at Prisma, specifically targets a balanced team when recruiting. “Different people think differently,” he said. “I think it's good to have different perspectives. When you do decision making, when you do brainstorming, when you do planning, it's always refreshing to have different perspectives. People from different cultural backgrounds think differently. People from different genders think differently. So, it’s good not to have a one sided view on everything and have as diverse a team as possible.”
+
+Being able to tap into an internal melting pot of contrasting experiences, cultures, languages, genders and ethnicities also leads to better decisions as businesses benefit from diverse teams learning from each other. And this extends to neurodiversity too — which is particularly impactful for technology companies.
+
+As this article from HBR points out, individuals with different neurological conditions possess “extraordinary skills, including in pattern recognition, memory, and mathematics”, while JPMorgan Chase has found that neurodivergent employees in certain tech roles could be up to 140 percent more productive than neurotypical colleagues.
+
+To ensure that these kind of benefits are harnessed, Alan Molloy says that it is important that diversity needs to be measured and tracked in order to drive transparency. “It’s part and parcel of how we operate,” he said. “We review our numbers and assess whether or not there are biases caused by not having sufficient diversity in our teams. I’ve worked in other organisations where it just wasn't as visible because people didn't measure it.”
+
+However, even measurement is no guarantee that diversity will be achieved — particularly when it comes to gender, as Jimmy Andriambao, former corporate IT director at DEVO, has pointed out. “I am seeing more women in leadership positions or with management responsibilities,” he said. “But over the past six years I am not seeing as many women in the technical field. For example, I have found it very difficult to recruit women in the US and Spain in the IT sector as systems administrators, systems engineers, cloud operations engineers, and project managers.”
+
+Heiko Reinhard agrees. “It is very difficult to achieve diversity in IT,” he said. “There are very few job applications by women. For some positions, zero women apply. This makes it harder because if everyone has the same perspective right from the start, then I do not have any creativity.”
+
+Managing hybrid working
+
+Like many other organisations everywhere — both public and private — unicorn companies are having to adjust to a new reality where a substantial part of their workforce will work at home and in the office.
+
+Although some teams will have to be in the office due to the nature of their work, others will have greater flexibility to work remotely. Unicorn managers therefore have a whole raft of fresh challenges to overcome, such as avoiding all day video calls, for example, or ensuring that graduates or younger colleagues feel truly part of the enterprise and have sufficient in person interaction. This latter point is important —working full time from home can make it harder for leaders to assess the full potential of these new arrivals.
+
+Quote
+
+You need to be able to do remote collaboration, be very open and up front with what you’re thinking and what you’re planning.”
+
+niTin GupTa
+
+CHIEF OPERATING OFFICER,
+PRISMA
+
+It's also worth noting that a hybrid workforce can lead to an increased risk of cyber attack — an issue that unicorn companies are not immune from. With employees dispersed across different locations, operating from different networks and devices, it is far harder for IT security teams to identify potential cyber intruders. Phishing also benefits from remote working because employees use email rather than heading over to a colleague’s desk for a conversation. And if they are using their home computer for work purposes, hackers can use personal email or social media accounts as their doorway into a corporate network.
+
+That said, it’s also important to point out that remote working is no barrier to the success of some unicorn companies. Nitin Gupta says that at Prisma, a technology company which is building a data access layer for modern applications, their remote workforce still manages to be highly collaborative.
+
+“You need to be able to do remote collaboration, be very open and up front with what you're thinking and what you're planning,” he said. “So to me, if I look at my peer group and the team members who are leaders in my organisation, I expect them to be able to absorb that high level thinking, but at the same time be able to execute that at the field level as well. So, really sort of having the flexibility and range is key.
+
+Surging soft skills
+
+Even at unicorn companies, leaders do not get to spend all their time working on technology — a testament, perhaps, to the fluctuating array of responsibilities and challenges facing leaders in any start up organisation.
+
+For example, Fredrik Hjelm, CEO of e mobility company Voi, said that up to half of his time is spent on people topics. “I’d say 40-50 percent is on HR, including recruitment and hiring decisions,” he said. “In our first two to three years, 50-60 percent was spent on the board and with investors and in the future I want to reduce that. It’s not as much time on technology or product as I would have liked.”
+
+Daniel Krauss is in a similar position but says that his focus has strayed beyond technology because of successful recruitment in that area. “The technology side, which was originally my field, is now in good hands,” he said. “Apart from the continuous synchronisation of our company strategy and technology strategy, I don't really do much in tech anymore. What I work on is almost exclusively people and organisational development.”
+
+As their time spent purely on technology ebbs and flows, leaders are increasingly having to rely on their ‘soft skills’, which incorporates areas such as conflict resolution, critical thinking, networking and teamwork. It’s these traits which can help employees — digital leaders included — to work well with others, fulfil their potential and help deliver company goals.
+
+A lot comes down to clear and transparent communication — both internally with colleagues but also externally to clients and customers, which is a key priority for Nitin Gupta. “The key challenge we face today is one of educating the customer,” he said.
+
+“Digital transformation, which is what we are all about, is not really easy. It took the pandemic, when all of a sudden we didn’t want to touch anything, and wanted to scan everything, to educate the world that these digital transformative processes and technologies are really ground breaking, and should be the way we look at innovation.”
+
+When it comes to internal matters, being able to adapt your communication style when necessary is a key priority, says Walid Hanna. “Communication, communication, communication,” he said. “You can't rely on an immature team to correct its own task. So I think you need to be the guardian of the direction and be able to really pivot very quickly if something goes wrong. So communication and adapting your leadership style to different people and to the stage of development of your organisation is fundamental.”
+
+Developing and retaining internal talent
+
+Unicorn companies can often have a young workforce, a group of people who have grown with their organisation. Since many will be relatively inexperienced, leaders will need to take steps to give them more responsibility over time, and provide the necessary training and coaching for them to feel fulfilled and happy in their roles.
+
+Nitin Gupta says this is a key priority because having key staff poached by competitors will inevitably lead to competitive disadvantage. “We have succession plans, we've got career plans and career paths because as you scale up a company, people have ambition,” he said. “We foster that because sometimes ambition and what is available may not match. So we have built career paths in different functions that clearly show that if you are a certain type of role today, and you desire to progress in that role, how they can progress into it.”
+
+Onward and upward
+
+At this time of intense economic turbulence and geopolitical headwinds, the very existence of these European unicorn companies is cause for celebration. As valuable chinks of light across the business firmament, they offer vital proof that meteoric success is possible, even in times as uncertain as these.
+
+Yet their continued ascendancy should not be taken for granted. Many challenges continue to lie in wait. All the more reason, then, for their digital and technology leaders to continue to shake up the status quo and embrace opportunities anew.
+
+And that’s exactly how they like it.
+
+Spencer Stuart would like to thank all of our interviewees for taking time out of their busy schedules to share their reflections and insights.
+
+Authors
+
+Veena Marr
+
+London
+
+John Kelly
+
+Dublin

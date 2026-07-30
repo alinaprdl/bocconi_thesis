@@ -1,0 +1,218 @@
+HR Trends to Watch in 2026
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Leadership|October 30, 2025
+
+HR Trends to Watch in 2026
+
+The future of HR looks a lot different than it did in 2025. Here’s what CHROs need to know and how to prepare.
+
+Key takeaways
+
+What happens when happy hybrid workers are forced back to the office
+How flattening org charts could accidentally break company culture
+The top reason why CHROs aren't always seeing ROI from AI
+
+2026 HR Trends Redefining the Workplace
+
+From return-to-office mandates to rapid AI adoption, the HR developments of yesterday are accelerating into today’s workplace realities.
+
+For CHROs and HR professionals, the implications are profound. Technology shifts, changing employee expectations, and political uncertainty are redefining how work gets done and how organizations compete.
+
+To lead through this period of change, CHROs must focus on the emerging HR trends that will define their organizations in 2026 and beyond.
+
+Here are the five HR trends every CHRO needs to know for 2026.
+
+1. RTO Is Redefining the EVP
+
+Across the world, return-to-office (RTO) mandates continue to make headlines. More organizations are trying to cut back on remote and hybrid work options, insisting their employees work full-time in the office.
+
+But most people don’t want to go back to an office full-time. Korn Ferry’s Workforce 2025 survey of more than 15,000 global workers found that while 59% work full-time in the office, only 19% are happy about it. A quarter say they would be happiest fully remote.
+
+This disconnect is reshaping the employee value proposition (EVP) and creating challenges across all parts of the talent team:
+
+Talent acquisition leaders struggle to secure top talent when they can't offer workplace flexibility. This is especially true in competitive fields, where hybrid or remote options are table stakes.
+Retention is just as challenging, as rigid RTO policies risk driving away the very talent organizations can least afford to lose.
+RTO policies are straining engagement. Employees feel resentful or disengaged if they’re forced back to the office full-time, interpreting mandates as a lack of trust in their ability to perform remotely. That disengagement can quickly undermine productivity and culture.
+
+Opportunity: Rework Your Job Architecture to Reframe the RTO Debate
+
+Many organizations are stuck in an old way of thinking, says Korn Ferry’s Roger Philby. “It’s not a question of where your people work, but what work looks like,” he says.
+
+What companies need to be asking themselves, he says, is "how do we need to redesign work?”
+
+Future-ready organizations are hiring for skills, not roles, and are offering lattice-like mobility instead of linear career ladders. The new job architecture framework is flexible, with workers deployed across assignments based on the value/competencies they bring.
+
+With internal gig work and cross-functional sprints, workers become location independent. “They’re engaged at the appropriate time, in the appropriate place, for the piece of work they need to do,” says Philby.
+
+Agile teams distributed company-wide (and sometimes worldwide) make the RTO conversation moot. And many organizations are leaving it behind.
+
+2. AI and Flat Structures Are Reshaping Leadership
+
+Growth and market expansion are the top priorities for global HR leaders in 2026, we found in our latest Korn Ferry CHRO survey. Yet 60% also say economic uncertainty will have the biggest impact on their businesses.
+
+That means CHROs—as usual—are under pressure to do more while cutting costs, improve efficiency, and boost productivity.
+
+To meet these pressures, many organizations are flattening structures by eliminating layers of middle managers and replacing entry-level work with AI. In Korn Ferry’s CEO & Board Survey, an overwhelming majority (82%) of boards and chief executives said they’ll be reducing up to 20% of their workforces in the next three years because of AI.
+
+It's a significant shift that will almost certainly bring about unintended consequences:
+
+Empty leadership pipeline “Eliminating middle managers and entry-level roles looks attractive on a spreadsheet, but it quietly destroys your future leadership bench,” says Philby.  Without those rungs on the ladder, organizations risk creating a hollow structure, with senior leaders at the top, machines and contractors at the bottom, and very little in between.
+Weakened culture and continuity Middle managers often act as cultural carriers, passing down values and practices. Without them, organizations lose continuity and struggle to turn strategy into action.
+Leadership burnout Senior leaders suffer from exhaustion as tactical demands creep upward—for example, spending more time on day-to-day problem-solving instead of long-term strategy.
+
+“It feels flat. It feels fast. But it’s fragile,” says Philby. “Where’s the sustainability in that organization?”
+
+For CHROs, the challenge is how to deliver efficiency today without hollowing out the leadership pipeline tomorrow.
+
+Opportunity: Hire for Skills, Build for Sustainability
+
+The solution is to rethink job architecture with a focus on building sustainable leadership pipelines.
+
+That starts with clarifying what types of leaders your organization will need—creative versus operational, for example—and designing career paths that reflect those needs. Future executives may come from anywhere in the organization. “Build horizontal paths,” says Philby.
+
+And prepare for a new category of role: AI manager. If AI is taking entry-level jobs, new graduates could enter the workforce in this role. “Humans are the connection between the business problem, the culture, and AI’s work,” says Philby. It’s time to hire and upskill for AI astuteness paired with emotional intelligence.
+
+3. HR’s AI Ambition Is Outpacing Capability
+
+AI adoption has been a runaway trend. To keep up, almost half of CHROs are prioritizing AI investment over the next couple of years.
+
+The latest advances are going beyond automation with “agentic” capabilities—tools that can take autonomous initiative—and enabling hyper-automation to offload mundane tasks from HR.
+
+Yet a mere 5% of HR teams feel fully prepared to implement AI effectively. And 40% of CHROs say the biggest obstacle to integrating AI into their organizations’ talent management is insufficient AI-related knowledge and skills within HR teams.
+
+This reveals a looming execution gap. It also puts AI ROI at risk, something CEOs are already worried about. In our research, fewer than one in 10 said they were extremely confident they'd get a strong return on their AI investment over the next three years.
+
+Opportunity: Build the Scaffolding to Support AI Use
+
+“We need to stop getting distracted by the shiny tech and ask, ‘What do we need in order for this thing to fly?’” says Philby. He sees an immense opportunity for HR leaders to drive purposeful and successful AI adoption.
+
+To get the full value from AI, CHROs should:
+
+Upgrade the tech stack so it can support AI tools
+Clean and unify people data
+Assess how AI will reshape work and roles
+Identify skills gaps and build them systematically
+
+4. Personalized Learning Is Changing the Game
+
+Advances in AI-driven learning platforms now allow the delivery of tailored, real-time growth paths for each employee—matching skills, career goals, and business needs—at a scale that was impossible just a few years ago.
+
+And more learning equals improved employee retention. In Korn Ferry’s Workforce 2025 survey, more than 60% of respondents said they’d stay in a job they hate if it granted opportunities to quickly upskill.
+
+AI even allows for coaching at scale, extending individualized support to more employees.
+
+Opportunity: Build a Foundation Before Scaling AI Learning
+
+Philby warns of magical thinking. “There are some barriers in the way before we can get to that utopia,” he says. Bad data, clunky learning management systems, and generic, out-of-date content libraries could send learners down a pathway that doesn’t support business goals.
+
+“An organization’s adoption of AI can only be done at the pace of its own internal systems and processes,” says Philby. “You can’t just slap AI on top.”
+
+To get the most from AI-powered personalized learning and coaching, get yourself ready before you implement the technology.
+
+Clean your people data and update content libraries
+Get systems talking to each other
+Enlist the help of experienced providers, like Korn Ferry
+Involve humans for oversight
+Iterate for continual improvement
+
+5. CHROs Are Taking the Driver’s Seat
+
+In 2026, CHROs are playing a direct role in setting the business agenda.
+
+In Korn Ferry's 2025 CHRO survey:
+
+61% of CHROs say their CEO frequently relies on them for strategic advice on key business issues
+60% of CHROs are driving transformation efforts
+CHROs spend 33% of their time advising CEO/leadership and another 30% leading company-wide transformation efforts
+
+Talent constraints, digital disruption, and AI adoption are now so central to competitiveness that no major business decision should be made without a talent lens.
+
+Armed with predictive people data and impact models, CHROs are proactively engineering workforce capabilities. They’re shaping the organization’s ability to compete in the next three to five years and leading organizational change.
+
+Opportunity: Lay the Groundwork for Strategic Advising
+
+To keep their place at the strategy table, CHROs need to build cross-functional partnerships. “Be the glue in the middle of finance and product,” says Philby. “Reposition yourself as the capability engine for the organization.”
+
+It’s not just about identifying and filling in skills gaps for a future workforce. CHROs need to do scenario modeling. “Create the datasets that allow you to predict how to reach strategic goals,” says Philby. “Then articulate that back in the words of a CFO.”
+
+CHRO Insights
+
+The big shifts and newest strategies shaping the CHRO agenda—and the future of work.
+
+Learn More
+
+The Opportunity in Current HR Trends
+
+CHROs who embrace their expanding role—steering AI adoption, redesigning work, and building future-ready leadership pipelines—will define how their organizations grow in the years ahead. Success depends on recognizing today’s HR developments not as challenges to manage, but as opportunities to shape the business itself.
+
+Staying ahead means understanding the latest HR trends that will set the agenda for 2026. Explore more of Korn Ferry’s CHRO insights to see how these trends can be turned into a competitive advantage.
+
+Our Expert
+
+Our Experts
+
+Roger Philby
+Global Lead, People Strategy & Performance Practice
+
+Featured Insights
+
+7 Key Topics Leaders May Be Ignoring
+Free Phones Are Back. Why?
+2022 Essentials: Leadership
+10 Signs That You've Lost Passion for Your Career
+
+Related Capability
+
+Related Capabilities
+
+Organization Strategy
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Featured Topics
+
+Leadership
+
+Workforce Management
+
+Organization Strategy
+
+Manufacturing
+
+Human Resources
+
+Kornferry6 OS

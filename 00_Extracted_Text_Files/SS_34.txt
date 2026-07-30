@@ -1,0 +1,83 @@
+5 Trends Every Digital Infrastructure Leader Should Watch in 2026
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+5 Trends Every Digital Infrastructure Leader Should Watch in 2026
+
+By
+
+Michael Dickstein and
+
+Bernhard Kickenweiz
+
+February 2026
+
+| 5 min read
+
+Authors
+
+Michael Dickstein
+
+Seattle
+
+Bernhard Kickenweiz
+
+New York
+
+SectionsIn this article
+
+In our conversations with leaders in the digital infrastructure industry at the start of this year — and particularly at PTC’26 (Pacific Telecommunications Council) in Honolulu — we have been struck by the scale and urgency of the dialogue about the industry’s next phase. There is an awareness that the decisions leaders make today on issues such as capital allocation, capability building and talent will have a critical impact on defining the years ahead.
+
+Below we look at five themes we believe will shape the next several years.
+
+1.	AI is now the design point for networks, data centers, and compute.
+
+AI has shifted from an overlay to the organizing principle for infrastructure planning. Leaders are debating how to finance and power AI at scale, while rethinking facility design around high-density racks, advanced cooling (including liquid) and proximity to low-latency interconnection. The consensus: AI demand is compressing timelines, pushing new procurement models, and elevating the importance of power strategy, fiber routes and supply chain resilience.
+
+Operators need executives who can connect the dots between product, partnerships and power. That means, for example, data center leaders fluent in AI workload profiles, CFOs adept at structuring power purchase agreements, and go-to-market leads with hyperscaler, OEM and SI alliance experience.
+
+2.	Subsea cables and network resiliency are strategic, not tactical.
+
+Subsea was front and center at PTC’26: New builds, route diversity and sovereignty considerations dominated discussions. With AI and cloud intensifying east-west and intra-APAC data flows, subsea capacity is now a board-level resilience issue. The operational agenda is to harden routes, expand landing diversity and integrate cyber resilience from the start.
+
+Demand is rising for leaders who pair engineering depth (marine systems, permitting, CLS operations) with public policy fluency and consortium dealmaking. Program management rigor and risk governance are must haves.
+
+3.	Satellite (especially direct to device) joins the connectivity stack.
+
+Satellite innovation — particularly direct to device — is featured prominently as a complement to terrestrial and subsea networks. The emerging model is multi-layer connectivity, where satellite augments coverage, resilience and mobility use cases across consumer and enterprise segments. Expect tighter integration with IoT platforms, cloud-edge services and emergency communications.
+
+Operators are seeking commercial leaders who can architect partnerships across mobile, satellite and cloud — and product managers who translate interoperability into SLAs, use case bundles and go-to-market plays.
+
+4.	Private equity is stepping up as a shaping force in digital infrastructure.
+
+PTC is increasingly a marketplace where capital and operators meet to accelerate scale and modernization. At the 2026 conference, they engaged on strategy, financing and consolidation across data centers, fiber, subsea and satellite services. The investment lens is emphasizing buy and build, platform creation and operational value creation (capacity delivery, utilization economics, interconnection density and power procurement).
+
+PE owners want CEOs and COOs who can execute capacity at speed, de-risk construction, and professionalize commercial operations. There is also high demand for CFOs who can orchestrate complex capex programs, optimize WACC and structure PPAs/virtual PPAs. Chief revenue officers or commercial officers with hyperscaler relationships, interconnection expertise and a partnership background (cloud, CDN, systems integrators) are also pivotal to compress ramp times.
+
+PE firms are also building benches of sector-savvy operating partners and independent directors with real-world build-operate experience to guide M&A integration and post-close transformation.
+
+5.	The convergence of cloud, edge and network is redefining growth models.
+
+We are hearing a steady drumbeat: Growth is shifting to converged, distributed infrastructure. Edge facilities are moving closer to demand, cloud architectures are becoming more hybrid, and service providers are rethinking monetization — packaging compute, storage, interconnection and managed services around latency sensitive workloads. Asia Pacific will remain a proving ground for new footprints and partnership models.
+
+Product and go-to-market leaders who can commercialize edge (AI inference, industrial IoT, media) and translate technical performance into clear customer value will have an edge in this market. Regional leaders with APAC operating experience and ecosystem networks (carriers, cloud, colo, subsea consortia) are increasingly prized.
+
+The leadership implications
+
+The digital infrastructure sector today is as much a leadership and talent challenge as it is one of capital and engineering one. The winners will be teams that align their strategy to AI driven demand, build multi-layer connectivity with resilience in mind, and cultivate operator athletes who can scale platforms under private equity grade rigor.
+
+For executives and investors alike, the message is clear: The next era of growth will reward speed, partnership and disciplined execution.
+
+Authors
+
+Michael Dickstein
+
+Seattle
+
+Bernhard Kickenweiz
+
+New York

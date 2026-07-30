@@ -1,0 +1,147 @@
+Procurement’s Rising Influence: From Cost-cutting Function to Strategic Partner
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Procurement’s Rising Influence: From Cost-cutting Function to Strategic Partner
+
+By
+
+Stewart Lumsden
+
+November 2024
+
+| 6 min read
+
+Author
+
+Stewart Lumsden
+
+Chicago
+
+SectionsIn this article
+
+The post-pandemic world has left few industries and roles untouched. While government shutdowns are a thing of the past, ongoing geopolitical volatility continues to disrupt global supply chains. Concerns also abound around supplier risk and cybersecurity breaches. Meanwhile, hyperinflation is pressuring organizations to re-evaluate their pricing strategies. Businesses must also keep pace with the evolution of generative artificial intelligence (AI) to determine how to harness the technology’s potential for innovation and remain competitive. Added to this mix of concerns is the growing interest in and demand for sustainability from customers, stakeholders and shareholders.
+
+The growing importance of risk management, innovation, AI and sustainability to businesses is reshaping board agendas and C-suite priorities — and increasing the influence of procurement leaders. Procurement today impacts overall business performance in an unprecedented way, whether through identifying and vetting suppliers that can provide cost-effective and sustainable product solutions or enhancing the resilience and reliability of the supply chain.
+
+We interviewed several chief procurement officers (CPOs) to discover what these developments mean for the procurement function, how it affects leaders and what capabilities they will need to succeed. Here’s what we learned:
+
+Procurement has moved from its traditional role as a tactical cost management center toward a more strategic position. This shift requires CPOs to change how they work and interact with other business functions and leaders.
+
+Successful CPOs are thought leaders who can guide their organizations through volatility; they are strategic, collaborative and flexible.
+
+“Effective use of data by digitizing procurement and driving advanced analytics through the use of AI tools have become the fundamental components of our strategic roadmap,” said Lear Corporation Vice President and Global Leader of Sourcing Ajoy Unnikrishnan. “I expect that this subject will increasingly become a point of discussion among top executives at companies around the world.”
+
+More broadly, our conversations affirmed that the CPO role is rapidly entering the leadership spotlight and will remain there in the coming years.
+
+Download
+
+Download
+
+The CPO as a strategic partner
+
+Historically, CPOs met with C-suite leaders once or twice a year — that is changing. Martha Buffington, former CPO at SC Johnson, who recently moved to an international supply chain leadership role, said that interaction with the C-suite team has increased. They expect procurement to come armed with information and strategic suggestions on how the function could support organizational objectives. Buffington says procurement has become more involved in sourcing locations and shipping routes in addition to monthly commodity forecasts. “It’s all about having your finger on the pulse of what’s happening and how things are changing so you can look for and head off issues before they happen,” she said.
+
+As CPOs become more elevated within their organizations, they are gaining opportunities to meaningfully shape their businesses, especially around risk management, sustainability and AI.
+
+As CPOs become more elevated within their organizations, they are gaining opportunities to meaningfully shape their businesses, especially around risk management, sustainability and AI.
+
+Rethinking supply chain risk management
+
+Lear’s Ajoy Unnikrishnan said procurement leaders have limited visibility into their supply chains beyond their Tier 1 suppliers. Yet, most security breaches occur with the smaller companies. Conflicting priorities and a fast-changing risk profile for the supply base are probably the prime drivers for this challenge.
+
+However, procurement leaders are rising to the challenges of this new business environment. Risk management is becoming more strategic, and it can drive real value across an enterprise, according to one senior procurement leader we spoke with. Therefore, CPOs are changing their thinking and approach around supply chain management to better protect their organizations against risks.
+
+For instance, some procurement leaders are strengthening supplier relationships across tiers so that they can better identify potential issues and their implications through strategic planning and forecasting. Regular conversations with executives across business functions can also help procurement leaders get a clearer picture of what kinds of risks to look out for so they can establish appropriate strategies and countermeasures. As an example, nearshoring (working with suppliers close by) and supply chain regionalization are becoming more popular, helping businesses deliver products more quickly and at a lower cost. The pandemic was a catalyst for companies to diversify suppliers and thus mitigate risks inherent in single sourcing. Of course, procurement leaders should continue to closely monitor world events, whether that’s a new regulation or geopolitical turmoil, and maintain conversations with suppliers and internal teams, to assess how events could affect their business — and what it will take to succeed.
+
+Supporting sustainability goals
+
+While sustainability has been on the board’s agenda for years, many organizations find it challenging to uncover value and growth in that area. According to findings from a recent Spencer Stuart survey of private and public board members, 46% want more insight into identifying sustainability opportunities.
+
+Procurement leaders can manage stakeholder expectations and defend their function’s position and recommendations around sustainability initiatives by articulating the value certain programs can bring to the broader business.
+
+Procurement is well-positioned to make a real impact in this area. Indeed, some CPOs have helped build a supplier code of conduct that articulates sustainable practices and expectations for third-party suppliers. This code of conduct can help organizations meet growing customer and shareholder expectations around sustainability. CPOs can make changes in other areas as well to move the needle on sustainability. For example, they can critically assess whether vendor labor practices align with their company’s values, re-evaluate materials and production strategies to reduce their contribution to landfills and find strategic partners to help lower their organization’s carbon footprint.
+
+To be sure, CPOs are exposed to many different perspectives from across the organization as to what is most important around sustainability and ESG more broadly. These varied viewpoints can make it hard to establish and align on priorities. However, procurement leaders can manage stakeholder expectations and defend their function’s position and recommendations around sustainability initiatives by articulating the value certain programs can bring to the broader business.
+
+Unlocking value in AI through knowledge sharing and collaboration
+
+Organizations use multiple systems to manage procurement processes, from contracts to supplier assessments, says Jennifer Browne, CPO of Salesforce. However, because these systems don’t “talk to each other,” businesses cannot tap into the full potential of their data. AI could turn their data into an asset for procurement. For example, by using historical company data, an AI system could accelerate and automate processes such as contract negotiation within certain parameters, onboard a supplier, vet them for compliance, put them into a risk assessment, execute continuous risk monitoring and initiate new agreements and bids.
+
+Quote
+
+We are focused on driving collaboration with our suppliers and customers to deliver differentiated business outcomes. We will likely see more companies hiring CPOs who not only have advanced thinking skills but can also collaborate with teams across the organization.”
+
+Ajoy Unnikrishnan
+
+VICE PRESIDENT and Global Leader of Sourcing,
+Lear Corporation
+
+To use AI appropriately and effectively, however, requires some due diligence. According to our recent piece, “The Measure of Leadership,” half of CEOs surveyed report staying up to date with AI developments and are actively assessing how their organizations can use it. Procurement leaders can take a page out of that leadership playbook and be proactive about educating themselves and evaluating the technology’s risks and opportunities within the function. To do this well, CPOs should get input from key technology stakeholders within their organizations, which include the chief technology officer (CTO) and chief data officer (CDO). Indeed, the CDO will play a pivotal role in ensuring AI systems are trained on the right quality and quantity of data required to make informed decisions and that procurement leaders have streamlined access. Once CPOs are more knowledgeable about AI, they can pilot small projects and evaluate outcomes before rolling out sweeping changes. More broadly, procurement leaders should remain engaged and curious, constantly seeking out new information about AI from subject matter experts and reflecting on how it might affect the procurement function.
+
+The skills to succeed
+
+The strategic CPO has that rare mixture of executive leadership skills alongside deep procurement and business knowledge. “We are focused on driving collaboration with our suppliers and customers to deliver differentiated business outcomes,” says Unnikrishnan. “We will likely see more companies hiring CPOs who not only have advanced thinking skills but can also collaborate with teams across the organization.”
+
+Each of the CPOs we spoke with also highlighted the importance of agility-related characteristics, such as flexibility and a desire to learn, which are vital amid complexity and uncertainty. We’ll look at some of those skills in more detail.
+
+Humble curiosity and a desire to learn
+
+CPOs must be humble and honest about what they don’t know as they get up to speed in this volatile business landscape. At the same time, influential procurement leaders have a hunger for learning. “You must have the intellectual athleticism to ask the right questions to learn what you need to know,” says Salesforce’s Jennifer Browne.
+
+Quote
+
+You must have the intellectual athleticism to ask the right questions to learn what you need to know.”
+
+JENNIFER BROWNE
+
+CPO,
+Salesforce
+
+For example, CPOs must be able to zoom in and out of product deal contract negotiations and identify what matters — and what doesn’t — to have informed, strategic and tactical conversations. Furthermore, by becoming fluent in the topics and ideas that matter to different stakeholders, CPOs can have more fruitful cross-functional discussions.
+
+Proactive and creative problem solvers, negotiators and collaborators
+
+Effective procurement leaders can speak the language of different roles, such as the chief marketing officer or head of engineering. This helps them better understand the motivations of various business partners and what’s most important to them. Armed with this information, CPOs can develop different scenarios that lead to successful outcomes based on priorities. Often, those recommendations might also require negotiations with suppliers, budget owners and other stakeholders. Ultimately, CPOs must be flexible, ready to adapt to evolving C-suite demands and changing priorities. Knowing the ins and outs of their business can also help CPOs be more proactive, identifying opportunities and issues before they become full-blown problems.
+
+Talent orchestration
+
+Effective CPOs bring together people with different skills and backgrounds to create a robust supply chain organization. It’s no longer just about finding excellent negotiators or sourcing experts; CPOs need a unique blend of disciplines on their teams, reflecting a mixture of technical and interpersonal capabilities. Building a solid team also requires procurement leaders to be honest about where they could improve and find people who can fill in the gaps.
+
+The road ahead
+
+Given the growing influence and strategic importance of procurement, it will be critical to develop procurement executives with the right mix of leadership capabilities and mindsets and ensure they have access to top leadership. Here are two questions to consider:
+
+How are we currently investing in the procurement function? Does our development plan enable procurement leadership to move beyond a focus on cost-cutting to develop strategic skills? Are we looking outside of procurement to functions where adjacent skills might exist?
+
+Who is our CPO reporting to? To be most effective, the CPO must have a direct line to the C-suite and boardroom so they can participate in critical strategic conversations. The reporting structure should give them a platform for success, whether by helping execute their recommendations or influencing change where necessary.
+
+“While it may have taken COVID and the supply chain crisis to highlight the importance of the procurement function, I think we are now on the right track,” says Ajoy Unnikrishnan.
+
+Author
+
+Stewart Lumsden
+
+Chicago
+
+Related Insights
+
+Sustainability in the Spotlight: The Balancing Act of ESG
+
+The third annual global Sustainability in the Spotlight survey, conducted by Spencer Stuart and the Diligent Institute, asked public and private board directors across industries and geographies about their companies’ sustainability strategies and oversight.
+
+Measure of Leadership: CEOs and Directors on Navigating Change
+
+11 min read
+
+In our first Measure of Leadership report, more than 2,000 CEOs and board directors reveal their highest priorities and how they are navigating uncertainty.
+
+Strategic Alignment in the GenAI Era: Guiding the Executive Committee for Success
+
+5 min read
+
+Six key technology leadership stakeholders and their roles in developing and implementing AI strategy.

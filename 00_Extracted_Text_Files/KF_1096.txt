@@ -1,0 +1,203 @@
+How Does Sales Technology Improve Sales Productivity?
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Sales Transformation|September 12, 2022
+
+How Does Sales Technology Improve Sales Productivity?
+
+Organizations need to invest in sales technology, including sales analytics and sales automation tools, to increase sales productivity.
+
+Key takeaways
+
+What encompasses sales technology
+4 ways that sellers aren't making use of their sales tech stack
+4 ways sales technology can improve sales productivity
+
+Sales teams spend their workdays constantly connected to their screens. But the question is, how well are they actually using the sales technology at their fingertips?
+
+The answer, for many sellers, is that they aren’t using their sales technology well — or using it much at all, which is a problem because sellers struggle to find enough time in their day to sell. In fact, many sellers report spending less than a third of their time selling. Yet many of these sellers have tools at their fingertips designed to make selling easier and faster.
+
+The average sales organization has 10 sales tech tools and plans to add four more. The problem is that most of these tools aren’t integrated into workflows or with other tools in the tech stack. Maintaining them also takes away precious selling time.
+
+As we enter a period of economic uncertainty, sellers need to maximize the time they spend with buyers and nurture leads. That means they need to optimize their sales process — and their workday — to meet their goal of increasing sales.
+
+Let’s take a closer look at what sales technology is and why sellers aren’t fully using their tech stack. Then we’ll dive into how sales technology can help your sales team win more deals.
+
+What is sales technology?
+
+Sales technology includes tools that increase sales productivity and sales effectiveness. These tools improve the execution of sales processes, allowing sellers to better use their time and gain buyer intelligence.
+
+Sales technology tools include customer relationship management (CRM) systems, which help sellers manage their customers as well as their buying journeys. Sales organizations frequently invest in sales intelligence and productivity apps as well. Many of these tools rely on data analytics, machine learning and AI to give sellers greater insight into clients and opportunities. Additionally, these tools can help managers with sales forecasting.
+
+Sales automation tools are another common sales technology. These tools save sellers time by automating repetitive manual tasks, such as sending emails, scheduling meetings and scoring leads.
+
+Other popular sales technologies include social selling and communication tools, such as chatbots, email tracking and speech recognition tools.
+
+Why aren’t sellers maximizing their use of sales technology?
+
+According to our 2018 Sales Operations Optimization Study, less than half of sales teams report widespread use of their customer relationship management (CRM) system. And sales organizations are continually exploring new tech tools that may give their sellers an edge because when they experience poor adoption, they move on to the next tool.
+
+That means many sales organizations have a robust tech stack with lots of capabilities to help sellers. So why aren’t sellers using them?
+
+1. Too many sales tools
+
+Many organizations invest in a variety of sales technology platforms but stop short when it comes to integrating them. That means sellers must repeatedly enter the same information in different systems.
+
+When sales organizations integrate their sales tools with their sales processes, sellers see more value in their tech. So, before choosing tools, organizations should map sellers’ workflows so they can understand where tools will add the most value.
+
+Organizations should also inventory their sales technology, limiting their tools to what the sales team actually needs. Then they should integrate these tools and streamline workflows using automation and artificial intelligence. Greater integration between systems will help sellers gather more meaningful insights about their opportunities.
+
+2. Not enough time to spend on sales technology
+
+Many sellers spend two-thirds of their time on administrative tasks, according to our 2nd Annual Sales Operations and Technology Study. That leaves sellers with little time to contact leads and actually sell.
+
+The lack of integration among sales tools wastes valuable selling time and adds tedium to the seller’s day. They likely don’t want to repeatedly input the same sales data into different systems, especially when they believe that data vanishes into a black hole, never to be seen again.
+
+Sales organizations should also limit the need for sellers to maintain separate logins for different tools and enter data multiple times. Reducing friction points like these can encourage more sellers to invest their time and efforts in their sales technology.
+
+3. Difficulty linking technology to sales goals
+
+Sellers want to see the payoff for the time they spend with sales tools. If they input data in tools but never see the fruits of their labor, they’ll lose interest and will not be inspired to engage with technology. But if sellers learn something from technology that can help them sell, they’ll invest their time and effort.
+
+Sales organizations need to find a way to link sales technology to increasing seller productivity and results. Specifically, sales leaders need to reinforce how sellers can get the most value from their tech tools. Then they need to link their sales data with a sales intelligence platform that delivers valuable insights. The next step is to articulate clear sales goals and show sellers how their technology can help them achieve those goals.
+
+4. Too little sales technology training
+
+Sales teams typically offer training when they first adopt new technology. But often that training is one and done with no refresher courses or reinforcement. A cursory overview of how a sales technology tool works isn’t enough to engage sellers in using it.
+
+Sales teams need to show sellers how technology benefits them and give them multiple hands-on training opportunities. Then they need to reinforce the training with formal coaching from sales managers that shows the value of each sales tool. Additional training gives sellers confidence that the time they spend with sales technology is efficient, effective and meaningful.
+
+Sales Effectiveness
+
+Breakthrough to immediate, predictable and sustainable sales effectiveness
+
+Learn more
+
+Breaking the tech stack cycle
+
+In many sales organizations, problems like these form a vicious cycle. Sellers engage with their sales tools for a little while, but then they don’t see a return on their investment of time and effort.
+
+So, sellers begin using these tools more haphazardly and less consistently. Some may stop inputting data in these systems altogether. Over time, their tech stack has less and less value.
+
+But it doesn’t have to be this way. When sales organizations explain technology’s benefits for seller productivity, they give sellers a reason to engage with these tools.
+
+So, let’s take a closer look at the ways that sales technology can improve seller outcomes.
+
+How sales technology can improve sales productivity
+
+Integrating a CRM with a sales analytics platform can improve win rates, increase deal size and reduce close times. With predictive analytics, your sales teams gain access to data-based insights and the key actions necessary to win more deals.
+
+The most effective sales technologies are those that combine analytics with sales methodology. This pairing helps sellers and sales managers detect winning patterns and replicate them across the sales organization.
+
+Here are four ways to advanced sales technology can help to increase sales.
+
+1. Freeing up selling time
+
+Every day, sellers engage in a lot of administrative work. Many of these tasks are manual and repetitive, such as logging data and sales activities, creating proposals and sending emails. These tasks can be streamlined with technology.
+
+Sales automation tools can expedite these tasks. These tools can take customer data from online forms and business cards and turn them into records in sales systems. Sales automation tools can also log each buyer and seller contact, recording emails, phone calls and other touchpoints. More advanced tools can study phone conversations for buyer sentiment and identify key concepts to guide future seller actions.
+
+2. Tracking deals in the pipeline
+
+Paradoxically, many sales forecasts look backward rather than forward. That’s because they rely on historical data when creating a future sales outlook.
+
+Forecasts also often rely on overly optimistic sales data. Salespeople may exaggerate opportunities to avoid being chastised for too few viable deals in their pipeline.
+
+With these two complicating factors, it’s no wonder that sales forecasts are less accurate than they could be.
+
+The most accurate sales forecasts are built on predictive, forward-looking data. Sales technology can aggregate and analyze a variety of data points to assess the health of a sales opportunity. The data analytics in many of these tools can create informative sales models and meaningful measurements.
+
+Sales managers can use sales tools to derive value from their data sources. Some tools deliver real-time insights into opportunities that sales managers can use to coach sellers about which deals to pursue and how to pursue them.
+
+Sales analytics platforms can also help sales managers analyze how deals move along the buyer’s journey. With this insight, they can assess which seller actions lead to desired outcomes and which contribute to losses. Managers can then better coach sellers on how to move deals forward.
+
+3. Replicating winning sales behaviors
+
+Sales technology platforms give sales managers and leaders access to rich data. The challenge is knowing how to use this data to improve sales productivity.
+
+Your top sellers may be models that you want to replicate throughout your salesforce. But it’s possible that their numbers may be due to a rich sales territory or a predecessor’s groundwork in building relationships.
+
+So, how can you determine which sellers should serve as models for the rest of your salesforce? You have to go beyond the surface and dig into the data to determine which sellers have the most effective behaviors.
+
+Sales analytics tools can help sales managers understand the reasons behind wins and losses. They highlight patterns of success and failure, helping leaders isolate the behaviors that consistently generate higher revenue and better outcomes. For example, Korn Ferry Sell, an integrated CRM application, shows which methodology-backed actions closely correlate to closing a deal.
+
+4. Planning buyer interactions
+
+When sellers have multiple deals in their pipeline, it can be difficult for them to decide which deals to prioritize. Without data, sellers have to rely on their gut instincts. But their instincts may be incorrect, so sellers may end up focusing their attention on the wrong deal or buying influence.
+
+Sales technology and analytics can focus sellers on the actions most likely to have the greatest impact on buying influences. Sellers can then avoid a scattershot approach and instead spend their time on actions more likely to resonate with deal stakeholders.
+
+Some CRM systems also incorporate sales methodology to help sellers decide which steps will encourage buyers to move a deal forward. For example, Korn Ferry Sell builds in the Strategic Selling with Perspective sales methodology. This sales methodology helps sellers identify strengths so they can better position their offering against the competition. As a result, they can figure out what selling points to make and which buying influence to share them with.
+
+Korn Ferry Sell also highlights red flags: critical gaps in the information that sellers have gathered about deals. These warnings show sellers what details they need to gather to continue assessing the opportunity. Red flags also alert sales managers to areas that may require their review.
+
+Increase sales productivity: Level up your sales organization’s technology
+
+With today’s market conditions and rising competition, it’s harder than ever for sellers to hit their numbers. Many salespeople are working harder than ever just to achieve the same results — or worse.
+
+That’s where sales technology can add value, automating sellers’ work, delivering new insights and reinforcing sales methodology. But it’s not a matter of quantity. You don’t have to add more tools to a seller’s tech stack to help them be more successful. You just have to add smarter, more integrated tools.
+
+The right sales technology simplifies sellers’ work so they can focus on what matters: reaching their prospects and building their pipeline. Turbocharging your tech stack with sales analytics, automation platforms and other tools can help sellers do more in less time.
+
+Contact us to learn how Korn Ferry Sales Effectiveness Solutions can increase seller productivity, increase your win rates and grow your pipeline.
+
+Related Capability
+
+Related Capabilities
+
+Sales Effectiveness
+
+Featured Insights
+
+How to Close Complex Tech Deals Without Discounting
+CFO Exits: Domino Effect or Burnout?
+The C-Suite Executives Watching Their Backs
+Delivering a Recipe for Sales Success to a Global Food Supplier
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Featured Topics
+
+Sales Transformation
+
+Sales Effectiveness
+
+Kornferry4 SS
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

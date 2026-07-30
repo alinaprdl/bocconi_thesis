@@ -1,0 +1,453 @@
+Power Steering, Not a Brake: How Boards Should Actually Govern AI - Egon Zehnder
+
+Skip to main content
+
+Search for “”
+
+... in Consultants
+
+... in Offices
+
+... in Services
+
+... in Insights
+
+Search all results
+
+Our Services
+
+Shaping Successions
+
+CEO Successions
+
+Executive Successions
+
+Board Successions
+
+Chair Successions
+
+Committee Chair Successions
+
+Advancing Governance
+
+Board Review
+
+Board Development
+
+Board Advisory
+
+Building Advisory Boards
+
+Sustainability Board Advisory
+
+Discovering Leaders
+
+CEO Search
+
+Executive Search
+
+Board Search
+
+Advisor Search
+
+Executive Assessment
+
+Developing Leadership
+
+Individual Development
+
+Accelerated Onboarding
+
+Development Planning
+
+Coaching
+
+Team Journey
+
+Unlocking Transformations
+
+Transformational Development Programs
+
+Chair and Board Potential
+
+Executive Breakthrough
+
+Executive Discovery
+
+Transformational CHRO
+
+Voyager
+
+Customized Leadership Immersion
+
+Explorer
+
+Cultural Transformation
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Chief Executive Officers
+
+Founders
+
+Technology Officers
+
+Chief AI, Data & Analytics Officers
+
+Chief Information Officers
+
+Chief Information Security Officers
+
+Chief Product Officers
+
+Chief Technology Officers
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+Consumer
+
+Consumer Products
+
+Media & Entertainment
+
+Restaurants, Leisure and Hospitality
+
+Retail, E-commerce, Apparel and Luxury
+
+Sports
+
+Financial Services
+
+Asset Management
+
+Banking and Markets
+
+Digital Assets, Crypto, & Web 3
+
+FinTech
+
+Infrastructure
+
+Insurance
+
+Private Equity
+
+Retail Financial Services
+
+Risk Management
+
+Sovereign Wealth Funds
+
+Wealth Management
+
+Health
+
+Biopharmaceuticals
+
+Healthcare Delivery & Services
+
+Life Sciences Tools & Pharmaceutical Services
+
+Medical Devices, Diagnostics and Technology
+
+Industrial
+
+Aerospace & Defense
+
+Chemical & Process Industries
+
+Energy
+
+Machinery & Industrial Technology
+
+Mining & Metals
+
+Mobility & Automotive
+
+Public & Social Sector
+
+Arts, Culture & Sports
+
+Economic, Social & Human Development
+
+Education & Research
+
+Environment & Sustainability
+
+Interest Representation & Public Affairs
+
+Public Administration
+
+Public Finance
+
+Public Health
+
+Public Infrastructure
+
+Services
+
+Air Transport
+
+Business Services
+
+Hospitality, Travel & Leisure
+
+Professional Services
+
+Real Estate Services
+
+Transportation & Logistics
+
+Technology & AI
+
+Artificial Intelligence
+
+Communications & Connectivity
+
+Cyber Security
+
+Digital
+
+Enterprise Tech
+
+Internet of Things
+
+Semiconductors
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+Functions
+
+Industries
+
+Meet our Consultants
+
+Discover Insights
+
+Find Offices
+
+About Us
+
+English
+
+Change
+
+Functions
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Industries
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+About Us
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+English
+
+Deutsch
+
+中文
+
+日本語
+
+Board Advisory ServicesPower Steering, Not a Brake: How Boards Should Actually Govern AI
+
+May 2026
+
+5 mins read
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Download the PDF
+
+In early 2024, criminals used deepfake video and voice to impersonate senior leaders on a live video call and induce a transfer of roughly HK$200 million at a global engineering firm's Hong Kong office. The failure was not in AI strategy. It was in control assumptions that AI made obsolete. When identity itself can be simulated at machine speed, the question is no longer whether to trust the people on the call. It is what does your governance now have to do that it did not have to do before.
+
+Most conversations about that question frames the answer as a constraint. Policies, review processes, compliance checklists. Things organizations endure to avoid getting fined. That framing is wrong. It turns governance into a brake pedal, something that slows you down when you should be accelerating.
+
+Effective AI governance works like power steering. It lets you move nimbly with directional control. You cannot drive a high-performance car fast without trusting the steering. The same logic applies here. You cannot scale AI across your operations without governance that enables agile, informed decisions about what to approve, what to watch, and what to stop.
+
+The trap most boards fall into is the opposite of caution. It is compliance theater: rules and processes that exist on paper, committees that meet, decks that get reviewed, with no tangible results. Compliance theater can be worse than under-engagement. Boards that do nothing know they have a gap. Boards that have performed governance feel covered and stop asking harder questions about whether anything is actually working.
+
+What follows is a short summary of a longer working paper, Power Steering, Not a Brake: How Boards Should Actually Govern AI (de Jong, Maciejko, Samila, Wollersheim, 2026), which lays out the full argument and evidence base. This summary pulls out the parts most useful to boards looking for a starting point. The full paper is on SSRN.
+
+AI shouldn't be a topic that one expert on the board knows everything about. It's a core strategic topic that every director should know something about. The boards that internalize that shift will move faster, and govern better, than the ones that don't.
+
+Christoph Wollersheim
+
+Co-Lead AI Practice (US), Egon Zehnder
+
+Two Failure Modes Boards Should Recognize
+
+Across our work with directors and CEOs, two governance failures come up again and again, often at the same firm. They are not confined to particular industries or regions.
+
+The Clueless Board produces value leakage. Directors don't understand enough about AI to set direction or challenge management. Investment gets approved without scrutiny or deferred indefinitely. Pilots multiply with no scaling criteria. AI-native competitors capture the upside. The decline is invisible until it isn't.
+
+The FOMO Board produces value destruction. Directors push for rapid deployment before controls, data, and the operating model are ready. The result: algorithmic outputs that draw regulatory scrutiny, shadow AI in places no one is watching, public claims that don't survive contact with reality. Visible, costly, and hard to reverse.
+
+Most organizations are exposed to both at once. Moving too slowly to capture value, and too carelessly to manage risk. The polite term is governance gap. The honest one is flying blind.
+
+We see two failure modes in the boardroom that mirror what's in this paper. The board that's behind, and the board that's overcorrecting. Both produce poor leadership decisions. The discipline that distinguishes effective boards is the willingness to say what they don't know and invest in continual learning.
+
+Pam Warren
+
+Co-Lead, North America CEO and Board Practice, Egon Zehnder
+
+What Boards Are Missing Today
+
+AI is now a fiduciary issue, not just a technology one. Marchand v. Barnhill in the U.S. confirmed that where a risk is central to a company's operations, directors must implement board-level information and reporting systems. UK Companies Act duties and fiduciary standards across common law jurisdictions point the same way. For most companies today, AI is mission critical. Research also shows organizations with digitally savvy boards outperform their peers, sometimes by significant margins.
+
+Three blind spots show up repeatedly in board packets:
+
+ROI overstated. A significant share of AI time savings get consumed by fixing errors and verifying outputs. Individual productivity gains rarely flow to the firm without deliberate workflow redesign.
+
+Costs under-disclosed. Every AI request incurs an inference charge, and token-based pricing means costs scale with volume.
+
+AI instruction layer unguarded. The hidden system prompts that control how AI tools behave are crown-jewel assets, yet rarely have access controls, version history, or integrity monitoring.
+
+Behind these blind spots sit five enduring board responsibilities: purpose, strategy, assets and capabilities, risk, and leadership. AI does not create new board duties so much as change what those duties require. Our STAR framework makes them reviewable quarter to quarter.
+
+Leadership is where the change is most demanding. AI governance is also a leadership test. Boards should ask whether the CEO and top team can redesign workflows, build trust with a workforce being reshaped, and distinguish real strategic value from AI theater. That capability is now part of CEO succession criteria, not a separate digital fluency conversation. The boards that get this right will be evaluating their next CEO against the leadership demands of an AI-shaped enterprise, not the last era's.
+
+STAR: A Discipline, Not a Slogan
+
+The two failure modes from earlier map directly to STAR. The Clueless Board fails on S and A. The FOMO Board fails on T and R. STAR exists so that neither failure mode goes undetected.
+
+CEO turnover is rising. Boards are deciding earlier when leadership is right for the next era. The question we hear from chairs isn't whether the current CEO understands AI. It's whether they can adapt to the pace of technological change.
+
+Chuck Gray
+
+Co-Lead, North America CEO and Board Practice, Egon Zehnder
+
+What This Means for Your Board
+
+Distribute AI oversight across existing committees as fits: risk owns appetite and controls, audit owns assurance and disclosure, human capital owns workforce and leadership readiness, strategy or the full board owns value and capital allocation. Make AI a standing item, not an annual deep dive. The EU AI Act now requires AI literacy at the board level.
+
+Three questions to take to your next meeting. Are STAR dimensions explicitly assigned in committee charters and director succession criteria? Are AI use cases classified by risk tier with named accountable executives, with independent assurance scheduled within 12 months? Is the CEO actively building the board's AI literacy, with concrete artifacts? The full paper develops each in detail, with a board action sheet and the regulatory landscape across major jurisdictions.
+
+AI does not diminish the importance of the human leader. It demands more. The boards and CEOs who govern AI well will matter more to their organizations than they ever have. AI governance is not the brake on transformation. It is the steering system that lets boards move faster, see risk earlier, and hold management accountable for results.
+
+Read the full working paper: Power Steering, Not a Brake: How Boards Should Actually Govern AI by de Jong, Maciejko, Samila, and Wollersheim (2026).
+
+Topics Related to this Article
+
+Board
+
+Digital
+
+Leadership
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Download the PDF
+
+Written by
+
+Stay up to date with our latest insights.
+
+Subscribe now
+
+Changing language
+
+You are switching to an alternate language version of the Egon Zehnder website. The page you are currently on does not have a translated version. If you continue, you will be taken to the alternate language home page.
+
+Continue to the                 website
+
+Back to top

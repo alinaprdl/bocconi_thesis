@@ -1,0 +1,461 @@
+The Future of Mobility: Uniting Software and Hardware with Autosoft - Egon Zehnder
+
+Skip to main content
+
+Search for “”
+
+... in Consultants
+
+... in Offices
+
+... in Services
+
+... in Insights
+
+Search all results
+
+Our Services
+
+Shaping Successions
+
+CEO Successions
+
+Executive Successions
+
+Board Successions
+
+Chair Successions
+
+Committee Chair Successions
+
+Advancing Governance
+
+Board Review
+
+Board Development
+
+Board Advisory
+
+Building Advisory Boards
+
+Sustainability Board Advisory
+
+Discovering Leaders
+
+CEO Search
+
+Executive Search
+
+Board Search
+
+Advisor Search
+
+Executive Assessment
+
+Developing Leadership
+
+Individual Development
+
+Accelerated Onboarding
+
+Development Planning
+
+Coaching
+
+Team Journey
+
+Unlocking Transformations
+
+Transformational Development Programs
+
+Chair and Board Potential
+
+Executive Breakthrough
+
+Executive Discovery
+
+Transformational CHRO
+
+Voyager
+
+Customized Leadership Immersion
+
+Explorer
+
+Cultural Transformation
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Chief Executive Officers
+
+Founders
+
+Technology Officers
+
+Chief AI, Data & Analytics Officers
+
+Chief Information Officers
+
+Chief Information Security Officers
+
+Chief Product Officers
+
+Chief Technology Officers
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+Consumer
+
+Consumer Products
+
+Media & Entertainment
+
+Restaurants, Leisure and Hospitality
+
+Retail, E-commerce, Apparel and Luxury
+
+Sports
+
+Financial Services
+
+Asset Management
+
+Banking and Markets
+
+Digital Assets, Crypto, & Web 3
+
+FinTech
+
+Infrastructure
+
+Insurance
+
+Private Equity
+
+Retail Financial Services
+
+Risk Management
+
+Sovereign Wealth Funds
+
+Wealth Management
+
+Health
+
+Biopharmaceuticals
+
+Healthcare Delivery & Services
+
+Life Sciences Tools & Pharmaceutical Services
+
+Medical Devices, Diagnostics and Technology
+
+Industrial
+
+Aerospace & Defense
+
+Chemical & Process Industries
+
+Energy
+
+Machinery & Industrial Technology
+
+Mining & Metals
+
+Mobility & Automotive
+
+Public & Social Sector
+
+Arts, Culture & Sports
+
+Economic, Social & Human Development
+
+Education & Research
+
+Environment & Sustainability
+
+Interest Representation & Public Affairs
+
+Public Administration
+
+Public Finance
+
+Public Health
+
+Public Infrastructure
+
+Services
+
+Air Transport
+
+Business Services
+
+Hospitality, Travel & Leisure
+
+Professional Services
+
+Real Estate Services
+
+Transportation & Logistics
+
+Technology & AI
+
+Artificial Intelligence
+
+Communications & Connectivity
+
+Cyber Security
+
+Digital
+
+Enterprise Tech
+
+Internet of Things
+
+Semiconductors
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+Functions
+
+Industries
+
+Meet our Consultants
+
+Discover Insights
+
+Find Offices
+
+About Us
+
+English
+
+Change
+
+Functions
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Industries
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+About Us
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+English
+
+Deutsch
+
+中文
+
+日本語
+
+Mobility & AutomotiveThe Talent Perspective on SDVs: Uniting Software and Hardware in an “Autosoft” Culture
+
+October 2024
+
+6 mins read
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+The Seismic Shift Towards Software-Defined Vehicles
+
+Traditionally, the automotive industry has been highly successfully at attracting talent. For decades, graduates regularly named automakers as top employers. In addition, the industry has successfully developed an ecosystem of academic joint ventures to foster innovation and ensure a strong talent pipeline.
+
+In recent years, the automotive industry has transformed amid a seismic shift towards software-defined vehicles (SDVs). For drivers, SDVs promise to become the ultimate connected mobility device, with perks such as automated driving, integrated services and personalized entertainment. Remote software updates and added features will enable a car to improve, rather than deteriorate, over its lifetime.
+
+It’s therefore no surprise that SDVs are at the forefront of the car industry’s thoughts, concerns and expectations. Inevitably, both challenges and opportunities lie ahead. A true tech company thinks and acts completely differently from a legacy carmaker. Yet these two need to speak the same language if they are to understand the rules of this new game and moreover, win at it.
+
+More than One Route to Success?
+
+Numerous hurdles lie ahead as OEMs strive to marry the old and the new, merging the tech world with that of legacy carmakers. For a start, major technical decisions and standards are not yet in place. In terms of progress, different automakers are at varying stages of their SDV journey. Early adopters started pursuing software as a strategic priority a decade ago.
+
+Meanwhile, those who joined later wonder if others have already won the race or if there is still time to catch up. Certain OEMs might have already overstepped the mark, struggling to set up dedicated entities to build fully-fledged software capabilities. Some are proceeding more cautiously, taking a step-by-step approach to expanding their know-how. Others have chosen to rely on small teams. As one CEO of an auto-tech software company said, “It only takes 20–40 people to develop a good core software stack.”
+
+Even after adapting their structures and successfully hiring top talents, automakers struggle to retain software leaders. What can they do to achieve their strategic goals and set up their teams for success?
+
+Egon Zehnder has conducted a series of interviews with leaders at OEMs and tier 1 suppliers in Europe, US, China, Japan and Korea. These interviews reveal the latest industry developments and underline some common themes to show leaders the best route forward.
+
+Strategy Is the Starting Point
+
+As we know, “Culture eats strategy for breakfast.” However, this does not mean that culture comes first. A company first needs to set its strategic direction before it can derive the right organizational structure and cultural norms to achieve that strategy.
+
+For decades, car companies have started by understanding market requirements before deriving product roadmaps. They developed architectures or platforms and then developed vehicle models. This will not necessarily change in an SDV-driven world. However, the teams performing these tasks must have a comprehensive systems understanding. Understanding both hardware and software will enable them to develop architectures that set the right boundaries for future vehicles’ characteristics.
+
+The core value creation for OEMs used to be complete vehicle understanding, vehicle integration capabilities and mastering the complexity of development competitive propulsion systems. With increasing powertrain complexity, the rise of advanced driver-assistant systems and the shift towards more software, the playing field is now changing.
+
+When OEMs realized that software would become one of the core competences going forward, some initially aspired to own most of the software creation. More recently, some OEMs have focused on architecture and a few fundamental stacks. As with classical components, they derived a clear make vs buy strategy.
+
+Rebalancing Hardware and Software
+
+Based on their strategy, leading car companies have substantially adapted their R&D organization, e.g.,
+
+❙ Establishing strong architecture functions, combining hardware and software teams for a comprehensive systems understanding
+
+❙ Rebalancing the top-level domain structure. ADAS and Infotainment have risen to the top level, while some traditional domains have been combined
+
+❙ Introducing overarching responsibility for vehicle functions, sometimes in an additional matrix dimension, next to project leadership and module responsibility
+
+How can companies successfully recruit, retain and develop successful teams to achieve their goals? We see three key elements: boldly aim for the best talent, build a new culture, and master the transition.
+
+Leaders’ Educational & Career Background
+
+Functional heads for vehicle architecture, ADAS, infotainment, cloud platform, AI, battery and charging
+
+Be Bold and Aim for Top Talent
+
+Historically, automotive leaders boast a world-class engineering background but lack substantial software experience. However, some of the newer OEMs have successfully managed to introduce the same level of excellency in software know-how. Many have also brought leading-edge software know-how into the executive management team.
+
+In addition, they have managed to adopt a more differentiated approach when hiring software leaders. They carefully select who they should put in charge of which area, for example choosing candidates with deep systems integration understanding for architecture or a B2C software background for infotainment. They have started to build similar cooperative models between industry, academia, and start-up communities to develop stable talent pipelines.
+
+Culture Is Make-or-Break Factor
+
+Decades of successful engineering of high-quality vehicles shaped a hardware-centric culture that is a world apart from that of software. A car part was designed, built and then couldn’t be altered. A sophisticated system of engineering, testing and validation processes excelled at delivering complex products in a safety-dominated industry.
+
+In contrast, the software approach is often based on recurring revenue models, with software updates improving a vehicle over its lifetime, as with smartphones. In future, a second-hand car in many ways should be a better vehicle than the one that originally left the factory.
+
+Leaders now need to bring both of these worlds together and merge the best elements of two contrasting cultures. However, this cultural integration and collaboration will only work if there is commitment from the top and leaders are 100% on board. In other words, the C suite, ideally comprised of executives from both auto and software backgrounds, needs to find a common ground, identity and purpose, combining the best elements of a traditional automaker with those of a software company to create a new type of hybrid, “autosoft” company.
+
+And leaders need to win both employees’ hearts and minds, combining technical and strategic objectives with an emotionally appealing transformation story.
+
+Marrying the Old with the New
+
+It’s clear that what worked in the past won’t work in the future. Nevertheless, traditional automotive heritage, expertise and experience still needs to be honored. Hardware experts are just as relevant today as they always have been.
+
+Going forward, this valuable hardware expertise needs to be combined with sophisticated software strengths, skills, and competencies. In other words, for this cultural transformation to work, all hands need to be on deck. Joint teams, combining hardware and software know-how not only at the top, but on function or module level, will perform better if trusted, empowered to take decisions in a “take risks, fail fast” approach, all within the architectural boundaries.
+
+Lastly, process-related and individual KPIs need to be aligned with strategic targets, just as individual performance management dimensions need to be adapted to targeted cultural norms.
+
+Talent, Strategy and Leadership
+
+In summary, it’s crucial now for OEMs to commit to the right strategy and organizational structure towards successful SDV development.
+
+It’s also crucial for OEMs to identify and hire the right talents. Car companies need to create a new software-based talent ecosystem, such as the one already in place for “classical” engineers.
+
+Finally, leaders need to adapt to the new culture. Automotive board members, many of whom rose to their position thanks to their experience and expertise, now have to lead people who are experts in areas that are totally unfamiliar to them. As a result, they need to adapt their leadership style, adopting a trust-based mentality, empowering combined teams in a less hierarchical way and allowing them to take risks to “fail fast.”
+
+By following this threefold approach, OEMs can take advantage of a unique opportunity to merge the best elements of two opposing worlds, driving into the future with a new “autosoft” culture and leadership.
+
+Topics Related to this Article
+
+Leadership
+
+Technology
+
+Talent Management
+
+Culture
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Written by
+
+Stay up to date with our latest insights.
+
+Subscribe now
+
+Changing language
+
+You are switching to an alternate language version of the Egon Zehnder website. The page you are currently on does not have a translated version. If you continue, you will be taken to the alternate language home page.
+
+Continue to the                 website
+
+Back to top

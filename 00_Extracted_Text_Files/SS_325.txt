@@ -1,0 +1,79 @@
+Driving technology-led growth in the healthcare sector
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Driving technology-led growth in the healthcare sector
+
+A conversation with Andrea Fiumicelli, CEO of Dedalus
+
+By
+
+Emanuela Aureli
+
+September 2022
+
+| 4 min read
+
+Author
+
+Emanuela Aureli
+
+London
+
+SectionsIn this article
+
+Emanuela Aureli recently sat down with Andrea Fiumicelli, CEO of Dedalus, a leading international healthcare and diagnostic software organization, to explore how the rapid acceleration in telemedicine technology has changed the diagnosis for the global healthcare sector.
+
+Spencer Stuart: How would you summarize the state of digital transformation in the healthcare sector?
+
+Andrea Fiumicelli: Over the past 10-15 years, most countries have made progress with the basic digitization of their healthcare processes, but there is much to be done. While there is much hype around transformation, as a society we first need to establish what values we want digital technologies to achieve.
+
+There are some big issues to address over the next year or so. Here are three examples.
+
+There is a lack of clear terminology – adoption of standard basic code is needed
+
+Teleconsultations are still underdeveloped
+
+There is a lack of care activities provided at home via technology
+
+There are currently too many applications across the continuum of care, and this is making caregivers’ and healthcare professionals’ lives unbearable; digital adoption has heightened rather than decreased the burden. We need to see drastic improvements in consolidation and usability. The single payer is important, but so is the institutional architecture, which varies by country. There are always legacy issues, but equally there are clusters of countries that have similar complexities. While nuances exist, Europe is effectively a macro cluster. Nevertheless, entry into a new country is a 3-5 year investment involving localization; client reliability; customer reliability; pre-sales and sales; public sector procurement – all these must be addressed before you can realise the benefits.
+
+Spencer Stuart: What are the most important aspects of leadership to you?
+
+Andrea Fiumicelli: To be successful as a leader your decision-making must involve extensive due diligence, but it must also be inclusive. As much as I love tech and working with clients, I would say that a CEO should spend a solid 40% of their time on people leadership. Any less than this and you have a problem – it’s like being on top of the mountain without oxygen. You need to understand what’s going on in your organization and that happens by knowing your people. It takes resilience to make quick decisions about people, for example senior leaders in M&A situations, but it’s equally important to focus on the long-term – regulation, compliance and data exchange are all issues that take time to solve, particularly in a cross-border business where it’s vital to educate yourself so you can recognize the cultural nuances and differences from one market to the next.
+
+Spencer Stuart: Each company dreams that their platform and services will become the exemplar. How do you persuade customers to look at a single platform?
+
+Andrea Fiumicelli: I don’t have the silver bullet, but I think it’s important not to wait to have the tough conversations. If you have 1000 hospitals it might take 5-8 years to change all of their software. Whenever I waited to have the difficult conversation it was because I was concerned about protecting revenues for  the next two years, and that proved to be the wrong decision. I would have conversation with clients about being open-minded, being ready to change. As a leader, you need to carry clients and shareholders along on the journey. Some clients are attached to certain products and want to focus on those. However, many clients will jump over to you if they can contribute to the roadmap.
+
+Spencer Stuart: What technology innovation excites you most?
+
+Andrea Fiumicelli: I love the technology and the data science – everything related to clinical and operational decision support driven by data such as AI and ML. I find it intellectually interesting and I know it will have a  major impact on digital transformation. If you want to do early diagnosis, then you need a data-rich, multi-disciplinary approach. AI enables clinical care to move from digital processes to digital tools. It improves continuity of care and critical decision support. It will also shape the future of this company.
+
+However, the issue of interoperability is a complex one, and it’s not a technology issue. We must ensure the continuum of care (from prevention to early detection, from diagnosis to treatment to rehab, follow-up and more) is flowing without disruptions to effectively support the patient journey and the daily job of caregivers and healthcare professionals. It’s not the technology that will determine the breakthrough, it’s the policy makers. If we want to address structural interoperability at pan-country level, that will involve policy decisions. Technology will then support those decisions.
+
+Spencer Stuart: Do you see consumerization happening in Europe where patients will be demanding that digital front door to healthcare services? Who's going to occupy that space?
+
+Andrea Fiumicelli: When I think of healthcare services, I think of education as well as appointment booking systems. There is big demand, and I don't think any single company will dominate. There will be niches and sub-sectors. Our competency is in addressing complex multi-disciplinary challenges. There are plenty of examples in telemedicine where you need to access real time, complex documentation including multiple diagnostics and so far, we are just scratching the surface on all this. The digital channel will complement the physical channel, and you will always need a mix of the two modalities. I expect the market to become more and more sophisticated around telemedicine and this will create a lot of business opportunity and segmentation. Many companies will live well, some will fail because of the hype, so you must understand your core capabilities and values.
+
+Spencer Stuart: How do you see your sustainability agenda at Dedalus?
+
+Andrea Fiumicelli: Our statement of purpose – to serve each actor in the Health Care Ecosystem to provide better care for a healthier planet – is very much geared towards sustainability, since it’s impossible to have healthy people in a bad planet. I made a proposal to the board to reduce our carbon impact so that we are carbon neutral by 2030. I do pressure our stakeholders on ESG compliance. We have looked for energy companies that are 100% renewable and have decided to buy technologies that have a limited energy consumption, and that includes our data centres. In terms of engagement with the market, when we provide our virtual telemedicine solutions, we try to simplify the physical logistics of goods and people within hospital. ESG is instrumental in helping us build a successful company with core values at its heart.
+
+Spencer Stuart: What is your WFH policy?
+
+Andrea Fiumicelli: We decided not to impose a strict policy. Although we recommend that 50% of time should be spent in the office, we give full flexibility to team leaders to adapt this for their teams. Smart working brings some challenges, for example around bringing in new, young people, and building knowledge and core values. Digital channels are one way to create connectivity for new joiners, but getting teams to meet in person is also important.
+
+Spencer Stuart: What are your three wishes for Dedalus?
+
+Andrea Fiumicelli: The first is interoperability. I want Daedalus to be recognised as one of the companies that made this interoperability open to everyone. Second, as a consumer, when I go to the UK National Health Service (NHS), I want them to understand the results from my Italian doctor – in other words, automatic codification across different countries. Third, I would like all new people joining us to be happy and passionate in their work, and to say they joined a great company and want to stay.
+
+Author
+
+Emanuela Aureli
+
+London

@@ -1,0 +1,175 @@
+The Alignment Problem at the Top of Your Revenue Organization
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+The Alignment Problem at the Top of Your Revenue Organization
+
+By
+
+Tania L. Binder and
+
+Beau Blanchard
+
+June 2026
+
+| 4 min read
+
+Authors
+
+Tania L. Binder
+
+San Francisco
+
+Beau Blanchard
+
+Seattle
+
+SectionsIn this article
+
+Key insights
+
+A 5% improvement in retention could lead to 95% profit growth, making how companies govern their post-sales leadership a direct driver of financial performance.
+
+Leadership structures for revenue organizations should reflect how value is created and whether renewals rely on sales execution or long-term value delivery.
+
+Operational chief customer officers (CCOs) are best suited for companies with complex customer journeys while commercially oriented CCOs are better suited for those with more transactional offerings.
+
+In a subscription economy, growth is no longer won at the point of sale — it is won or lost in what happens after the contract is signed. As cloud‑first and AI‑driven models reshape how software customers adopt, renew and expand, CEOs and boards are wrestling with a fundamental leadership question: Who owns the customer relationship once a deal closes — the chief revenue officer (CRO) or chief customer officer (CCO)?
+
+As automation and AI agents continue to integrate into post-sales functions, organizations need strong leadership more than ever to oversee teams, monitor performance and maximize customer success. How companies organize leadership has direct consequences for customer churn, expansion and lifetime value.
+
+Yet, companies often take too narrow a view of the post-sales function, debating whether the CRO or CCO should lead, when the more important decision is which type of structure best supports their organization’s goals and reflects how customer value is created. In short, structure follows value.
+
+Organizing leadership around value creation
+
+Renewals are the cornerstone of the recurring revenue model. Even a modest 5% increase in customer retention can boost profits by as much as 95%. For subscription-based software companies, renewals often account for the majority of annual recurring revenue, making them a strategic priority. As organizations guide customers toward modern platforms, maintaining high renewal rates becomes even more critical. Companies achieving strong renewals during platform transitions see a 20% to 30% increase in customer lifetime value.
+
+Customer success and support functions own adoption and retention strategies and play a critical role in renewal outcomes. But their strategic value lies more in how they are governed than in how they operate. These teams exercise proactive risk management so they can surface early warning signs of churn by monitoring usage patterns and customer health. When customer success and support are clearly aligned — whether through the CRO or the CCO — they enable proactive retention intervention. When ownership is unclear, however, insight is lost, intervention comes too late and renewals can falter.
+
+Traditionally, ownership of renewals sat with the CRO. But as the lines between customer experience and retention blur, boards and CEOs are rethinking the model. Some are expanding the responsibility of the CCO to include expansion revenue and renewals. Others are retaining renewals ownership under the CRO and prioritizing operational excellence within the CCO role to reduce bottlenecks, accelerate time to value and ensure seamless implementation, relying on strong coordination between sales and customer success to support retention.
+
+To make these tradeoffs more concrete, consider two examples:
+
+Understanding ownership in renewals
+
+Company A: Renewals under the CRO
+
+The CRO owns the full revenue number, and renewals are treated as any other sales-led process. Therefore, the CRO has a direct reporting line to the CEO. Meanwhile, account executives handle expansion and negotiate renewals, while customer success is an influencing function.
+
+This model works well when the product is transaction-oriented, implementation is relatively straightforward (think lighter-weight SaaS/AI tools) and expansion is driven by clear selling opportunities. It can also be effective for a company focused on serving a well-defined set of customers in specific industries, creating a single, unified revenue target.
+
+When this works best: It’s most effective when expansion is driven primarily by sales execution rather than post-sales value realization.
+
+The tradeoff: The post-sales teams may lack the authority or accountability to address early signs of churn, making renewals reactive if the customer experience suffers and reducing focus on revenue.
+
+Company B: Renewals under the CCO
+
+The CCO owns retention, usage growth and revenue expansion for the existing customer base. Customer success leaders are empowered to intervene early around adoption and retention, align value delivery with renewal timelines and drive usage patterns that increase lifetime value. This approach works well for companies with complex implementation processes (think high-touch enterprise resource planning deployments), heavy adoption requirements or large multiyear relationships where value realization is the core driver of renewals.
+
+When this works best: It’s most effective when long-term value delivery — not transaction selling — determines renewal outcomes.
+
+The tradeoff: The CRO must operate without a portion of the total revenue number. And tight coordination between the CCO and CRO is essential to prevent overlaps or gaps in accountability.
+
+As these examples show, picking the right ownership model requires clarity on the organization’s renewal goals. But should a company decide to roll renewals under a CCO, what kind of profile would work best? Ultimately, the decision comes down to the organization’s priorities and growth stage. CEOs should weigh streamlined accountability against specialized customer focus.
+
+CRO owns all revenue
+
+Advantages
+
+Direct reporting lines to the CEO
+
+Unified revenue accountability
+
+Disadvantages
+
+CRO becomes overwhelmed by operational tasks
+
+Reduced focus on net-new revenue
+
+CCO owns post-sale revenue
+
+Advantages
+
+Customer continuity from implementation through renewal
+
+Dedicated focus on maximizing customer value post-sale
+
+Disadvantages
+
+Revenue split across two leaders
+
+Shared accountability can create complexity
+
+Choosing the right chief customer officer profile
+
+Boards and CEOs often search for the perfect CCO profile, when they should really focus on what kind of CCO — commercial or operational — their post-sales organization needs (for more, see “The modern chief customer officer”). Choosing between a leader with strong commercial expertise or one with more operational prowess depends upon their organization’s priorities, stage of growth and the conditions that shape post-sales success. While the customer journey remains central, execution after the agreement usually determines which kind of leadership is best.
+
+The modern chief customer officer
+
+CCOs are expected to balance retention, transformation and operational rigor while staying deeply attuned to customer needs. They lead teams that act as true advocates for the customer, ensuring every interaction delivers value and builds trust. This includes gathering feedback through surveys and direct engagement and using those insights to improve product adoption, make software improvements and boost overall experience. Equally important is proactive risk management: tracking customer health, monitoring usage patterns and addressing potential churn before it becomes a problem. When customer success strategies align with business objectives, organizations create a seamless journey that meets customer needs and drives retention and expansion.
+
+We recommend clients consider two critical questions to determine whether revenue retention is primarily a selling challenge or a value-delivery challenge. A high total score suggests the organization needs a commercially oriented CCO who can drive retention, increase usage and expand accounts. A low to moderate total score suggests the need for an operationally oriented CCO who can standardize onboarding, improve time to value and reduce friction in post-sales delivery.
+
+1. How much of our growth depends on expansion within existing accounts?
+
+(1 = minimal expansion, 5 = majority of growth)
+
+2. How mature are our sales operations and customer success teams?
+
+(1 = low maturity and in need of structure, 5 = highly mature and scaled)
+
+Beyond clarifying the CCO profile, the answers to these questions elucidate where the CRO-CCO hand off should sit to maximize customer value. The framework below can help boards and CEOs assess whether their renewals ownership model aligns with their organization’s needs.
+
+CCO Mandate Decision Framework
+
+Account expansion depends on growth
+
+12345
+
+MinimalMajority
+
+Sales ops and customer success team maturity
+
+12345
+
+LowHigh
+
+Low-moderate score
+
+Operationally oriented CCO
+
+Standardize onboarding
+
+Improve time to value
+
+Reduce post-sales friction
+
+High score
+
+Commercially oriented CCO
+
+Drive retention
+
+Increase usage
+
+Expand accounts
+
+• • •
+
+With competitive pressures rising, AI changing how customers engage and talent demands increasing, the stakes have never been higher for determining the right commercial leadership model. Companies that design their leadership structure around the outcomes their customers care about most are the ones that consistently win.
+
+The authors wish to thank Brooke Nyman for her contributions to this article.
+
+Authors
+
+Tania L. Binder
+
+San Francisco
+
+Beau Blanchard
+
+Seattle

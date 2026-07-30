@@ -1,0 +1,265 @@
+Reaching the next level of simplicity in financial services | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Reaching the next level of simplicity in financial services
+Explore this page Increasing complexity in financial servicesGetting intentional about simplicityLeave complexity behindAbout the authorsRelated Content
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Financial Services Reaching the next level of simplicity in financial services
+
+Leaders of financial services firms can maintain, and even build on, the level of simplicity that surviving the COVID-19 pandemic forced many to achieve.
+
+Adam Howe ,
+Todd Taylor
+
+What matters is the continuous practice, demonstration, execution, and communication of such simplicity, and what it means to our strategy and, ultimately, to our many stakeholders—be it clients, shareholders, employees, or regulators. This is a core value leading to our growth, and it requires a great deal of hard work and the discipline to stay focused on keeping it simple.
+Mike Selfridge
+
+Chief Banking Officer, First Republic Bank
+
+Simplicity is one of the most intuitive concepts for us to understand, and yet it is one of the most difficult concepts on which a leader and executive team can execute.
+Mike Selfridge
+
+Chief Banking Officer, First Republic Bank
+
+As the world is resetting amid the COVID-19 pandemic, the financial services sector is trying to assess the long-term impact of the crisis. As the provider of one of the most critical services for both private individuals and organizations, financial institutions have had to make fundamental changes to the way they serve their clients, many of which will last for the foreseeable future. From individuals having to rely on state support or access insurance policies in unprecedented numbers to managing credit risk through exceptional volatility and a potential deep recession, every element of how financial services companies operate has been impacted.
+
+Despite the uncertain environment, it’s becoming clear that the organizations that acted with speed and agility have developed not only a competitive advantage but also a new norm of work going forward. At the core of speed and agility is radical simplicity: some financial services organizations have thrived by rapidly and radically removing layers of legacy complexity—in systems, processes, or structures—or by reducing their number of priorities and expediting decision making.
+
+As organizations plan for the long term, figuring out which of the changes they made during the crisis should last and which should not, all financial services organizations should reflect on how they relied—or didn’t—on simplicity to support them through the crisis and how they can maintain or improve their level of simplicity going forward and intentionally embrace the spirit of simplicity in a reconfigured world. Radical simplicity means driving those activities that accelerate organizational performance and, by definition, constantly seeking to filter out anything that does not.
+
+Increasing complexity in financial services
+
+The business case is clear. Heidrick & Struggles’ research shows1 that simplicity is the aspect of organizations that is most strongly correlated with high organizational acceleration. And the high-accelerating teams we analyzed had, on average, a 22.8% higher economic impact than other senior teams, while the performance ratings of high-accelerating organizations were twice as high as those of their low-accelerating peers. Without exception, these high-acceleration companies that we have come to call “superaccelerators” have a laser-like focus on simplicity in their strategy, operating model, and culture, at all times.2 (For more on organizational acceleration, see “Bringing your organization up to speed.”)
+
+But, for every superaccelerator, there are hundreds of organizations that struggle with the effects of complexity. Over the last decades, research estimates that organizational complexity—as measured by the number of processes, decision-making bodies, procedures, priorities, and systems—is increasing by 6.7% per year.3 Even as organizations embrace digital and automate, complexity continues to increase in the background.
+
+Financial services is one industry particularly prone to complexity because of its tangle of legacy technologies, new customer behaviors, and heavy regulation. We see complexity in financial services developing in the following five areas: risk and regulation, customer, strategy, operating model, and culture.
+
+Financial services is one industry particularly prone to complexity because of its tangle of legacy technologies, new customer behaviors, and heavy regulation.
+
+Risk and regulation
+
+A certain amount of complexity in financial services organizations is inevitable. They are highly regulated, often work across jurisdictions, and are exposed to the macroeconomic context like few other industries. After the global financial crisis in 2008, risk and compliance functions increased in power and size, as did the complexity they created for their organizations.
+
+Customer
+
+Some banking products are naturally complicated, and evolving consumer and business needs are constantly changing what financial institutions need to offer and how. The fintech revolution will continue to change and challenge legacy and traditional banking services, and more customers than ever are open to use financial products owned by other sectors, especially technology and retail companies. Customer metrics are becoming central to financial services, and the expectations from different generations of customers are diverging from low-investment options for millennials and Generation Z and tailored professional advice for Generation X and baby boomers. Institutional investors are asking for better portfolio transparency, tailored investment solutions, and global products.4 That has created an explosion of customer experience programs and tools and an overload of data that many financial services companies haven’t yet figured out how to best put to use.
+
+Strategy
+
+Where to play, what to offer, and what to focus on can be a source of complexity for financial services organizations, which are notoriously famous for the complexity of their products and offerings and the added cross-selling they layer on top of that. This, in turn, creates complexity for customers and internally as companies align team structures to services. This puts them at a disadvantage when competing with fintechs in particular, which tend to focus on a small number of accessible, easy-to-use products. It can also leave financial services companies vulnerable to competition from within their own industry. The trick for managing strategy is getting clear on the value adding complexity to the strategy seeks to create and trying to continually manage and minimize the bad complexities.
+
+Operating model
+
+Financial services organizations are typically set up in heavily siloed, heavily layered structures. Accountabilities and decision rights tend to be unclear, meaning that consensus and over-collaboration create complexity. Critical processes run across key teams and functions, with complexity breeding at intersections and handoffs. Typically, financial services organizations are primarily structured by product or service offered, rather than by the customer or client covered. Big corporate functions create complexity with good intentions when trying to change the organization and move it forward, particularly when going through big transformations. The exponential increase in technology and digitization creates both simplicity and complexity. Advances in automation and artificial intelligence could provide potentially cost-effective avenues for companies to build leaner workforces and improve efficiency, but the majority of companies are still trying to understand how to best take advantage of these technologies.
+
+Culture
+
+In any organization, culture is the biggest source of complexity and the biggest hope for simplicity. Financial services organizations are no different. Larger, legacy financial services companies are built on years of trust and conservatism. While these are not negative traits, a fast-changing world means that financial services leaders will need to embrace and demand a mindset that embodies challenge, change, and opportunity—what we describe as simplicity thinking.
+
+In any organization, culture is the biggest source of complexity and the biggest hope for simplicity. Financial services organizations are no different.
+
+Getting intentional about simplicity
+
+Now is the time for financial services organizations to codify the simplicity they built during COVID-19 into a new organization and culture blueprint. If they miss this window, they risk snapping back to the unnecessarily complex ways that preceded the pandemic.
+
+For instance, the core technology systems at financial services organizations have been famously difficult to change—a situation the COVID-19 pandemic has already helped end. One UK bank, for example, was receiving up to 43,000 calls a day from customers looking to exercise mortgage holidays. In just 36 hours, it created a digital solution to handle that call volume. This is, of course, a customer interface that can be developed as a plug-in, but, in time, it will need to be seamlessly integrated into core IT applications. PNB MetLife, a leading Indian insurance company, has been simplifying its claim process to keep up with the increase in service usage during the pandemic and is planning to use the data collected through this new process to improve its services going forward.5
+
+Right now, a good start for financial services leaders is to address these four questions, which could provide important insights:
+
+How are you demonstrating radical simplicity right now?
+On a scale of 1 (low) to 10 (high), what score would you get now for embodying radical simplicity?
+How would you have scored yourself before the COVID-19 crisis?
+If your organization can radically simplify during a crisis, why does it accept complexity in other times?
+
+Organizations are in a state of simplicity when activity (what actually happens) optimally aligns to strategy (what really matters). This lens can be applied to any team or function in any organization. Every individual, team, or organization needs to identify where the highest value lies and how to achieve that without unnecessary complexity taxing the outcome.
+
+While some causes of complexity, such as the regulatory system and customer preferences, are external and therefore difficult to influence, companies can benefit from introducing simplicity thinking in their strategy, operational model, and culture.
+
+Organizations are in a state of simplicity when activity (what actually happens) optimally aligns to strategy (what really matters).
+
+Strategy
+
+One of the most difficult things for companies to do can be deciding what not to do. First Republic Bank, a US-based financial services institution that offers private banking, business banking, and private wealth management including investment, trust, and brokerage services, has made it a habit of sharing in its investor reports the list of activities it currently does not get involved in, in a bid to keep its offerings clear and simple and highlight instead the areas in which it does specialize in order to focus and provide a high level of customer service. In its April 2020 report, First Republic attributed just over 50% of its growth rate to current clients doing more with the company, and another 20% to 25% of its growth rate to client word-of-mouth referrals. This is the result of the extraordinary client service consistently delivered at every level of the organization and proved by the bank's net-promoter score, which shows its clients’ satisfaction and loyalty is more than double the US industry average. Mike Selfridge, chief banking officer at First Republic Bank, makes the connection clear: “Simplicity is one of the most intuitive concepts for us to understand, and yet it is one of the most difficult concepts on which a leader and executive team can execute. Simplicity is at the heart of our strategy and business model, and the key to our growth. Most importantly, it is the discipline for the team and the company to stay focused on what matters most and not get easily distracted by the many, many tempting initiatives that can pull away from the core competency and culture of the organization. Distractions and complexity often get in the way of growth, while keeping it simple complements it.”
+
+A South African bank, Capitec, goes even further. It became famous by offering just a single type of client account in poor, rural areas of the country.6 The established South African banks ignored Capitec, and by the time Capitec began targeting mid-market customers, it was too late for other banks to blunt its growth.
+
+In 2017, AXA, a France-based global insurance company, repositioned itself as a brand closer to the consumer, and simplicity was one of the four core traits of the new brand, alongside modernity, warmth, and emotion.
+
+One way other leaders can set and communicate strategic priorities internally and externally is to put the strategy on a page, an overview that can include the company’s three to four major strategic priorities and the signature activities to deliver them, the main areas targeted to simplify, and metrics that address customer satisfaction, employee engagement, and baseline earnings before interest, taxes, depreciation, and amortization per employee.
+
+Operating model
+
+Before the pandemic, one large North American retail bank and wealth manager found that one way to naturally simplify its organizational structure was to redistribute the responsibilities of senior executives who left the company in what was called an “organic delayering.” This, of course, works better for some roles than others, but in a context where the COVID-19 pandemic has increased the pace of digital transformation, it’s worth considering the way roles evolve in the organization, and whether old structures serve new customer and strategic needs. Since complexity breeds at the interfaces between teams and functions, the fewer interfaces there are, the less complexity will be generated. Can financial services leaders reimagine processes so that they occur inside a single team or function? Or script the critical moves between teams for simplicity through principles or a playbook?
+
+Another area on which leaders should focus is internal functions such as human resources, compliance, and IT departments, which, at times, can form state-within-state structures in organizations. The key role of such functions should be to serve and improve business outcomes, not their own purposes, though the latter tends to happen over time. Double-dotted lines of reporting at a functional level, such as marketing, human resources, finance, and procurement—typically into a functional and a business unit leader—creates additional layers of managing and communications. When reassessing the effectiveness of functions, leaders should start from how their structures respond to customer preferences and how they will increase sales or customer experiences.
+
+When reassessing the effectiveness of functions, leaders should start from how their structures respond to customer preferences and how they will increase sales or customer experiences.
+
+New digital technologies can both improve performance and reduce operating model complexity. Financial services firms can, for example, see significant benefits from adopting applications such as robotic process automation, which can significantly improve the claims process in insurance,7 and artificial intelligence, which has great potential in reducing false positives in financial crime and fraud fighting.8
+
+Culture
+
+Embedding simplicity into an organization’s culture is both the most critical and most difficult step. As previously mentioned, complexity is created by thinking, actions, and decisions. Financial services organizations could learn from some of the big tech companies such as Microsoft and Google about the benefits and pitfalls of an environment with a bias toward pace and an aversion to bureaucracy.
+
+Simplicity is not necessarily a new concept in many large financial services organizations, but in the past, leaders have taken it to mean divesting non-core businesses, streamlining processes, or bluntly cutting headcount. While there may be a place for this, organizations that follow this playbook don’t enjoy the full organizational simplicity long term because they didn’t actually address the root of the problem: leadership behaviors and mindsets. Indeed, large finance companies still feel anything but simple for employees and customers. Being sustainably successful with simplicity means not only driving simplicity in strategy and operating model but embedding it into the organizational culture.
+
+To make simplicity last, it must be built as a core organizational capability into regular rhythms and routines, from mindsets to behaviors, building and reinforcing simplicity as a skill. That will mean saying no to anything that isn’t mission critical. It will also mean empowering others to commit to simplicity and focusing on the organization’s most important stakeholders.
+
+For example, UK-based global insurer Aviva has made “kill complexity” one of its core values, runs simplicity hackathons, and expects all leaders to be able to demonstrate specific complexity they have “killed.” But even those events are just the starting point of what needs to be a concerted effort of embedding simplicity thinking into people’s behaviors and mindsets. As Mike Selfridge explains, “First Republic has a simple business model, but simply stating that fact is not what matters. What matters is the continuous practice, demonstration, execution, and communication of such simplicity, and what it means to our strategy and, ultimately, to our many stakeholders—be it clients, shareholders, employees, or regulators. This is a core value leading to our growth, and it requires a great deal of hard work and the discipline to stay focused on keeping it simple.”
+
+Leave complexity behind
+
+As financial services organizations return to their offices and retail branches, they must take care not to return to complexity. Instead, leaders must look to embrace the radical simplicity that has helped some thrive and many endure through the first months of 2020, and embed it into their strategy, operating model, and culture. Embracing radical simplicity now will help all financial services firms accelerate their long-term performance. “The key is knowing what you do well, how you do this well, and why it is important to your clients,” says Selfridge. “In many regards, it is all about adapting to a changing environment, while being true to core values and culture, and then empowering your employees to do what they do best.”
+
+About the authors
+
+Adam Howe (ahowe@heidrick.com) is a principal in Heidrick & Struggles’ London office and a member of Heidrick Consulting.
+
+Todd Taylor (ttaylor@heidrick.com) is the regional managing partner of the Financial Services Practice for the Americas, where he leads the Fintech and Wealth Management sectors; he is based in the New York office.
+
+Acknowledgments
+
+The authors wish to thank Katherine Pluck for her contributions to this article.
+
+They also wish to thank Mike Selfridge, chief banking officer at First Republic Bank, for sharing his insights. His views are personal and do not necessarily represent the views of the company he is affiliated with.
+
+References
+
+1   Colin Price and Sharon Toye, Accelerating Performance: How Organizations Can Mobilize, Execute, and Transform with Agility, Hoboken, NJ: John Wiley & Sons, 2017.
+
+2 Superaccelerators are companies that have been in the top 20% for revenue in the past three and seven years, generate no more than 20% of their growth inorganically, receive no more than 20% of revenue from the government, and haven’t seen their profit margins reduced as a percentage of revenue while growing.
+
+3 Yves Morieux, “Smart rules: Six ways to get people to solve problems without you,” Harvard Business Review, September 2011.
+
+4 2019 Investment Management Outlook, Deloitte, 2018.
+
+5 Vaishnavi J. Desai, “Redefine, simplify, digitize: PNB MetLife’s lessons for post-COVID disruption,” ET CIO, May 21, 2020.
+
+6 Freek Vermeulen, “How Capitec became South Africa’s biggest bank,” Harvard Business Review, October 10, 2018.
+
+7 Nicole Michaels, “How RPA can improve the claims process,” EY, May 10, 2019.
+
+8 Soumik Roy, “How artificial intelligence is fighting financial crime,” Fintech News, June 17, 2019.
+
+Related Services & Industries
+
+Financial Services
+
+Organizational Simplicity
+
+Payments & Market Infrastructure
+
+Related Content
+
+Leadership Development
+
+How AI is reshaping legal services: A conversation with Julien Tanguy, CEO of Lefebvre Group
+
+Julien Tanguy, CEO of a leading European provider of legal and tax services, shares how AI is driving cultural change, redefining leadership roles, and accelerating innovation through trusted data, talent, and technology.
+
+Marketing, Strategy & Communications
+
+Communications as a key driver to growth: A conversation with Silvio Tavares, president and CEO of VantageScore
+
+Silvio Tavares discusses leveraging accountability, AI, and clear company values to drive performance and innovation.
+
+Financial Services
+
+An interview with Ken Kobayashi, president and representative director of SMBC Global Investment & Consulting Ltd. (SGIC)
+
+In the fifth installment of our interview series on leadership in Japan’s growing asset management industry, Ken Kobayashi, president and representative director of SMBC Global Investment & Consulting Ltd. (SGIC), discusses his transition from senior roles at multinational firms to leading a Japanese financial institution. He reflects on bridging global and local practices, shaping SGIC’s strategy and culture, and shares lessons learned as the company’s first external president.
+
+Compensation Trends
+
+2025 US Global Markets Compensation Survey
+
+Our second annual US Global Markets Compensation Survey examines organization and compensation data from a survey of sales, trading, and research professionals in the United States.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

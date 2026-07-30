@@ -1,0 +1,401 @@
+Building Superior Product Organizations: Lessons From Leading Tech Players - Egon Zehnder
+
+Skip to main content
+
+Search for “”
+
+... in Consultants
+
+... in Offices
+
+... in Services
+
+... in Insights
+
+Search all results
+
+Our Services
+
+Shaping Successions
+
+CEO Successions
+
+Executive Successions
+
+Board Successions
+
+Chair Successions
+
+Committee Chair Successions
+
+Advancing Governance
+
+Board Review
+
+Board Development
+
+Board Advisory
+
+Building Advisory Boards
+
+Sustainability Board Advisory
+
+Discovering Leaders
+
+CEO Search
+
+Executive Search
+
+Board Search
+
+Advisor Search
+
+Executive Assessment
+
+Developing Leadership
+
+Individual Development
+
+Accelerated Onboarding
+
+Development Planning
+
+Coaching
+
+Team Journey
+
+Unlocking Transformations
+
+Transformational Development Programs
+
+Chair and Board Potential
+
+Executive Breakthrough
+
+Executive Discovery
+
+Transformational CHRO
+
+Voyager
+
+Customized Leadership Immersion
+
+Explorer
+
+Cultural Transformation
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Chief Executive Officers
+
+Founders
+
+Technology Officers
+
+Chief AI, Data & Analytics Officers
+
+Chief Information Officers
+
+Chief Information Security Officers
+
+Chief Product Officers
+
+Chief Technology Officers
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+Consumer
+
+Consumer Products
+
+Media & Entertainment
+
+Restaurants, Leisure and Hospitality
+
+Retail, E-commerce, Apparel and Luxury
+
+Sports
+
+Financial Services
+
+Asset Management
+
+Banking and Markets
+
+Digital Assets, Crypto, & Web 3
+
+FinTech
+
+Infrastructure
+
+Insurance
+
+Private Equity
+
+Retail Financial Services
+
+Risk Management
+
+Sovereign Wealth Funds
+
+Wealth Management
+
+Health
+
+Biopharmaceuticals
+
+Healthcare Delivery & Services
+
+Life Sciences Tools & Pharmaceutical Services
+
+Medical Devices, Diagnostics and Technology
+
+Industrial
+
+Aerospace & Defense
+
+Chemical & Process Industries
+
+Energy
+
+Machinery & Industrial Technology
+
+Mining & Metals
+
+Mobility & Automotive
+
+Public & Social Sector
+
+Arts, Culture & Sports
+
+Economic, Social & Human Development
+
+Education & Research
+
+Environment & Sustainability
+
+Interest Representation & Public Affairs
+
+Public Administration
+
+Public Finance
+
+Public Health
+
+Public Infrastructure
+
+Services
+
+Air Transport
+
+Business Services
+
+Hospitality, Travel & Leisure
+
+Professional Services
+
+Real Estate Services
+
+Transportation & Logistics
+
+Technology & AI
+
+Artificial Intelligence
+
+Communications & Connectivity
+
+Cyber Security
+
+Digital
+
+Enterprise Tech
+
+Internet of Things
+
+Semiconductors
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+Functions
+
+Industries
+
+Meet our Consultants
+
+Discover Insights
+
+Find Offices
+
+About Us
+
+English
+
+Change
+
+Functions
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Industries
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+About Us
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+English
+
+Deutsch
+
+中文
+
+日本語
+
+Technology & AIBuilding Superior Product Organizations: Lessons From Leading Tech Players
+
+May 2020
+
+5 mins read
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Download the PDF
+
+Ask an entrepreneur what is closest to their heart and almost universally you will hear the same answer: people and product. At the intersection of these sit product development teams, who must translate a company’s vision to something that customers can use and love. Over the last decade, these teams have grown exponentially in complexity, especially in digital companies, encompassing new roles, new skills, and new ambitions. Early this year we reached out to several product development executives and professionals around the world, from CPOs to Product Owners, and asked them what they think makes a successful digital product development team - here’s what we found.
+
+We began with a broad view on the various structures of product organizations. Here, we found what we call “polarities,” defined as two competing models in tension, with companies oscillating back and forth between them based on their DNA, culture and overall vision.
+
+The first polarity is in the approach to managing long vs. short-term development. Some companies tend to separate structures and resources dedicated to long-term projects, to the extent that basic user research can even be separated from product-specific user research. When this model is adopted, long-term oriented product development structures can account for up to 10-15% of the product workforce. This gives these teams the organizational freedom to act and think without the boundaries of product release cycles, handing over development to “short-term structures” only at the Proof of Concept level. - this mirrors how venture capital firms shift from tech transfer to acceleration/early stage. On the other hand, some companies adopt a model in which “disruptive innovation” is embedded into everyone’s job description, emphasizing the contribution potential of every role, but sometimes at the expense of focus.
+
+The second polarity relates to the scope of product innovation. Some companies adopt a model where innovation mostly stems from the core product/business or its closest adjacent spaces. In these companies, incremental improvements are highly sought after as they pave the way for “product perfection,” staying ahead of competition by maximizing adoption and usage. On the other end of the spectrum, other companies consider “intangible assets” their main product: the installed base, acquired knowledge from users and consumer journeys are the competitive advantage everyone in the organization can use to venture into unknown areas and businesses, building superior products that meet or anticipate user needs and that will command superior prices.
+
+The third polarity is in how decisions are made and communicated through the organization, with the goal of keeping a high level of entrepreneurship and spirit of initiative even as the organization grows and becomes more layered. Some companies choose to leverage detailed Objective Key Results models to control bottom-up initiatives, emphasizing A/B testing and measuring cause-effect relationships to ensure an effective use of business resources. Others find this model too narrow, choosing instead to merely set strategic directions to guide innovation (e.g., they provide a clear forced ranking between profitability, revenues growth, users growth, …), leaving more space for “imagination” and accepting higher levels of risk, which they mitigate with governance that sets boundaries to prevent the most extreme business disruptions.
+
+Looking then at individual responsibilities, we found that the industry is going through an increasing specialization of roles, and team members are expected to be aware of the nuances and sophistication required of their particular role, whether it be hard competences or leadership styles. For example, a Product Manager is expected to fully understand whether his or her most valuable contribution is actively shaping the product vision or orchestrating and empowering the rest of the team. Similarly, user research is increasingly separated from user experience and we see more and more professionals with specialized careers and track-records; even within research, the skills and attitude of teams who work on existing products differ from those of teams dedicated to basic user research. As the number of moving parts in the system grows, the role of the team lead becomes ever more crucial and complex, requiring not only product vision but also sensitivity to and understanding of the personal and professional qualities expressed by both technical and non-technical team members.
+
+The elements above are impacting hiring: We found that product management hiring approaches are tending towards a balanced mix of “personality-based” and “skill-based” (technical background, coding abilities, cross-functional expertise). Successful individuals possess certain personality characteristics, such as low-ego, versatility, curiosity and adaptability in combination with technical competencies. Characterized by a challenger mindset, these individuals are able to harness underappreciated trends, paying attention to the smallest changes that are already happening rather than speculating about what might be. They are able to leverage embedded competencies, assets and know-how. They show the ability to learn from mistakes and possess a “product-cycle” mindset, capable of addressing unarticulated needs. No longer are Product Managers purely assessed against their coding skills, for example, but only when coding is a factor that helps one fully understand the managed product. An effective “integration” skillset is valued at a premium, so much so that companies are often acquiring entire teams altogether.
+
+These changes are consistent with an increasingly evident shift in the leadership and innovation model from individual to “collective genius.” Collective genius is developed within organizations through practice, extensive exposure to various inputs (tech, society, customers) and the safety net of a judgement-free culture that tolerates mistakes. Innate genius, very rare, is harder to cultivate. It is a relevant source of innovation when disruption is needed (for example when developing a break-through technology) which becomes much less reliable and impactful in mature industries or on existing products. Within these segments, innovation and leadership are always paired together. Setting the stage, rather than taking the stage, and allowing others to shine, helps to harness pieces of individual genius, allowing in turn for collective innovation.
+
+Finally, we are seeing the emergence of a fascinating, strong link between innovation and purpose: Product teams increasingly seek inspiration, longing for a clear vision with large societal impacts that aligns with their inner beliefs and unleashes their potential to think bigger, without limitations of roles and functions, as if driven by a higher cause. Many technology companies pride themselves on emphasizing employees’ welfare, but being part of a “great workplace” is not a substitute for being in a “great place to work”: the former is about structures, the latter about dreams.
+
+Topics Related to this Article
+
+Digital
+
+Product
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Download the PDF
+
+Written by
+
+Stay up to date with our latest insights.
+
+Subscribe now
+
+Changing language
+
+You are switching to an alternate language version of the Egon Zehnder website. The page you are currently on does not have a translated version. If you continue, you will be taken to the alternate language home page.
+
+Continue to the                 website
+
+Back to top

@@ -1,0 +1,338 @@
+From Keyboard to Boardroom: The Ascent of Engineering Leaders and Chief Technology Officers
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+From Keyboard to Boardroom: The Ascent of Engineering Leaders and Chief Technology Officers
+
+By
+
+John Milman and
+
+Edward M. Stadolnik
+
+August 2016
+
+| 5 min read
+
+Authors
+
+John Milman
+
+Chicago
+
+Edward M. Stadolnik
+
+Chicago
+
+Engineering leaders and chief technology officers (CTOs) have always been integral
+in the development of new technologies and platforms. With digital transformation
+and the growth of the Internet of Things, both roles are rising in prominence. No
+longer isolated to the world of high tech, CTOs increasingly have a seat at the table,
+especially in industrial, consumer and e-commerce companies where technology is
+becoming the end product. As these roles become more strategic, it could become
+more challenging for CEOs and general managers (GMs) to determine which skills
+their organizations need going forward, especially if these roles are new to the
+organization. In this article, we will explore the capabilities companies need to assess,
+how to attract this limited pool of talent and common hiring mistakes to avoid.
+
+Strategists, partners and talent magnets
+
+For the CTOs and engineering leaders of today, technology expertise is not enough. While it’s vital that
+these leaders remain fluent in the technical side, technology officers and heads of engineering must
+possess a range of skills, from attracting top talent to deconstructing complex issues and translating them
+into insights for the rest of the business.
+
+Recruiter of rock stars
+
+One talent partner with a global venture capital firm looks for portfolio company tech leaders who are
+“only one step removed from writing code,” but who can also build a product and, arguably most important,
+recruit and retain superstars. In a world where strong tech and engineering talent is scarce, a
+leader’s ability to build top teams is critical — and valuable. “At the end of the day, a major component of
+how companies are valued is by how well the leader can recruit and build an exceptional team,” he said.
+
+Ability to speak the executive team’s language
+
+CTOs and heads of engineering must be able
+to act as problem-solvers and translators of
+complex issues for the rest of the organization.
+Leaders in these roles are being increasingly
+called upon to understand and communicate
+how technology impacts the business — and
+generate support across functions in order to
+help prioritize and pursue new opportunities.
+This requires tech leaders who grasp the issues
+that are most important to the executive team
+and who can clearly explain technology issues
+without getting mired in the backend complexities.
+As one CTO advised, “You can’t talk to the
+CEO about servers. You have to provide the big
+picture and speak the executive team’s
+language, not your own.”
+
+Business partner and adviser
+
+A clear indicator of the growing importance of
+these roles is their evolution from implementers
+to strategic partners and leaders. The dynamic
+between technology and senior management
+has shifted, with engineers and CTOs not simply
+delivering on a vision, but proposing alternative
+ways to achieve objectives.
+
+At the same time they are conveying what’s
+possible through technology, the best CTOs
+and engineering leaders are able to listen to
+myriad stakeholders and make decisions about
+where to invest, balancing the needs of internal
+and external clients, product complexity and
+vendor relationships in an ever-evolving
+ecosystem. The thread running through all
+these interactions must be a passion for the
+technology. Without an avid interest in technology,
+a leader cannot fully dive into healthy
+disagreements about direction and can instead
+fall into the trap of managing internal politics
+versus technology strategy — a circumstance
+that can lead to a CTO’s downfall, according to
+one senior executive.
+
+CTO vs. engineering leader: Which
+do you need?
+
+When considering the need for a new
+technical leadership role, it is important
+to delineate the skills needed to drive the
+specific outcomes required for the business.
+For many companies, the decision often
+comes down to whether — and when — to
+hire a CTO or a senior engineering leader.
+While titles, roles and responsibilities of technical
+leaders often are interchanged, we offer
+a few observations on these two key roles.
+
+CTO: We typically see organizations seeking
+a CTO when there is an increased emphasis
+on product strategy and customer engagement.
+CTOs bring strong technical expertise
+complemented by an innovation mindset
+and ability to drive strategic planning.
+CTOs often are called upon to be “market
+evangelists” and to serve as the face of the
+company and product in the market.
+
+Engineering leader: Also deeply technical,
+engineering leaders often focus on increasing
+the efficiency of product development,
+improving processes and driving innovation.
+With a strong results orientation, top
+engineering leaders are passionate about
+building teams and increasing the speed
+and automation of development.
+Engineering leaders work closely with CTOs
+and product teams to translate strategic
+planning into actionable delivery plans.
+
+Excited by thorny problems and creative solutions
+
+The former CEO of an online travel agency has
+found that “good technical technology leaders
+are excited by hard problems. Technologists like
+a challenge. If it’s too easy, it’s going to be boring
+to them.” The other side of the coin is innovative
+problem-solving, which can be harder to assess.
+Hands-on experience in research can be
+evidenced by patents, publications and successful
+new product roll-outs. Companies can also look
+for leaders who have successfully established and
+managed innovation and research organizations.
+
+Potential over past performance
+
+It is rare to find a CTO or engineering leader who
+has exhibited the full range of hard and soft skills
+necessary to succeed in the role. Thus, one chief
+executive prioritizes potential over previous
+performance. “I prefer to get the person who got
+to a particular level with fewer years of career
+experience than the person who reached the same
+level with more years of career experience
+because it’s a higher trajectory,” he said, noting
+that the faster growth can indicate greater adaptability.
+However, he acknowledges the trade-off is
+that the leader may not have previously
+performed certain tasks or worked at scale. To
+help determine whether a candidate can rise to
+the challenge, organizations need to ensure they
+have a rigorous interviewing, assessment and
+vetting process.
+
+Common mistakes when recruiting a CTO or head of engineering
+
+The shortage of CTOs and engineering leaders
+combined with their growing strategic importance
+has raised the stakes of the recruitment process.
+Here are some common missteps organizations
+should avoid:
+
+Assuming a brand name is enough to attract
+top talent. CTOs are in high demand and
+have their pick of industry-leading companies.
+Organizations will need to provide more compelling
+reasons for a tech rock star to join their ranks.
+
+Fishing in a limited pool. Some companies fall
+into the trap of focusing their search for talent too
+narrowly — for example, looking for niche technical
+expertise or a background in a specific sector. Instead,
+organizations should widen their scope and consider
+candidates with tangential experience. The CTO of a
+publishing company brought on the former head of
+engineering from a leading media and entertainment
+company. He also looks for talent from leading universities
+and startups where leaders had to build something
+from the ground up, and considers the banking
+industry a rich source of infrastructure expertise.
+
+Ignoring a cultural mismatch or lack of
+chemistry with the executive team. If the
+leader cannot operate at the executive team level or does
+not align with the culture, he or she cannot effectively
+drive innovation and transformation. It’s that simple.
+
+Waiting too long to make an offer.
+Organizations that drag out the hiring process in
+search of the “perfect” leader risk losing out on strong
+candidates in today’s highly competitive market.
+
+Not fully committing to technology as an
+enterprise. Technology leaders want to work for
+CEOs and organizations where technology is seen as
+mission-critical. Even if the CEO is passionate about
+technology, if leaders across functions are not, that is
+a red flag for tech executives.
+
+Not providing growth opportunities.
+Organizations that are successful at attracting top
+talent shift individuals around to expose them to new
+products and projects.
+
+How success in these roles is measured
+
+While the complex nature of CTO and engineering
+roles can make success difficult to measure, organizations
+can focus on three key areas:
+
+Delivery: Are we providing a high-quality product
+on time and on budget?
+
+Innovation: Are we delivering innovative solutions
+before our competitors? Are we building
+disruptive products and platforms?
+
+Team: Have we been able to build a best-inclass
+team? Do top technologists want to work
+for us? Is this leader good at recruitment,
+retention and performance management?
+
+In addition to success in these three areas, another
+marker of a high-performing CTO or head of engineering
+is credibility among senior management and
+the board.
+
+Looking ahead
+
+Digital is enabling companies across industries to
+build direct relationships with customers, elevating
+the importance of technology and engineering
+leaders. More organizations are realizing they
+cannot outsource such a strategic role, and
+demand for CTOs and engineering leaders continues
+to grow dramatically. However, there is no
+one-size-fits-all approach when it comes to technology
+leadership. For some, separate technology
+and engineering functions can create a healthy
+tension that ultimately improves the product; due
+to their structures and scale, other organizations
+combine the CTO and head of engineering roles.
+In an era where technology has far-reaching implications
+for the business, it has become clear that
+technical skill-sets are only part of the equation.
+Organizations need CTOs and engineering leaders
+with the ability to communicate complex
+concepts, act as partners to senior management,
+garner support for investments in innovation, and
+attract and build top teams. Many organizations
+will need to rethink their traditional assumptions
+in the race for today’s “star athletes” or risk being
+on the losing side.
+
+Download
+
+Download
+
+Authors
+
+John Milman
+
+Chicago
+
+Edward M. Stadolnik
+
+Chicago
+
+We use analytics cookies that help us enhance site navigation, analyze site usage, and assist in our marketing efforts. Please click on the "Accept all cookies" button to help us improve your user experience.
+
+If you would like to know more about our use of cookies, click here.
+
+Accept all cookies Allow only essential cookies
+Manage preferences
+
+Privacy Preference Center
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+Allow All Manage Consent Preferences
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Performance Cookies
+
+Performance Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by such partners to build a profile of your interests and show you relevant adverts on other sites. They do not store personal information directly but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back ButtonPerformance Cookies
+
+Search Icon
+Filter Icon
+
+Clear checkbox label label
+
+Apply Cancel
+
+Consent Leg.Interest
+Switch Label label
+Switch Label label
+Switch Label label
+
+Reject All Save My Preferences

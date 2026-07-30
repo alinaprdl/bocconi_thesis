@@ -1,0 +1,174 @@
+AI in Recruiting 2024: Pros and Cons
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Talent Recruitment|February 29, 2024
+
+AI in Recruiting 2024: Pros and Cons
+
+Talent Acquisition teams are increasingly using AI during the recruitment process. What are the key benefits—and the risks you need to be aware of?
+
+Key takeaways
+
+AI can streamline the talent acquisition process, but is not without restrictions
+Don’t expect a catch-all approach: AI recruiting solutions are more applicable to some scenarios than others
+The role of the recruiter is changing, so fostering new skill sets is crucial
+
+Digital job boards, automated application responses—technology has been evolving the traditional recruitment process for years. But the artificial intelligence era will truly transform hiring landscapes, according to this year’s Talent Acquisition Trends Report.
+
+Processes will be revolutionized. Time to fill will reduce. And the role of the recruiter will be reshaped.
+
+Whether or not you’ve already embraced artificial intelligence in your business, the arrival of AI in recruitment will have a major impact on operations going forward. Understanding the pros and cons of its potential use by recruiters will allow you to better leverage it within your organization and adapt it to your needs.
+
+We explore the benefits and challenges in more detail below.
+
+Advantages of AI: Enhancing Recruitment Practices
+
+How is artificial intelligence changing the recruiting process for the better? The answer is, in more ways than one. AI is supporting recruiters and hiring managers to fill vacancies faster and more efficiently. When used well by your business, AI can do the following.
+
+Reduce Admin Work
+
+Whether it’s writing simple job descriptions, answering candidate benefits queries via chatbot or auto-scheduling interviews, AI can help with day-to-day tasks that might not maximize the skill sets of experienced recruiters.
+
+With the administrative tasks taken care of, recruiters’ energy can be put into where it’s most needed, “rather than just making sure the funnels are going through”, says Colleen Fullen, Global Operations Executive at Korn Ferry. This reduces bottlenecks and makes the entire hiring process run smoother.
+
+Advances in generative AI allow recruiters to put tools such as ChatGPT to use in simple tasks. “For example, the recruiter could put both the job description and candidate resume into generative AI and ask for it to summarize why that person would be a good fit for the role,” says Fullen. “It can look at both documents together and create a really succinct overview.”
+
+Speed Up Volume Screening
+
+For roles with straightforward resume requirements or where large numbers of applicants are typical, AI recruiting software can help to pre-screen candidates to get the recruiter’s job done faster.
+
+A great example is in retail, notes Fullen, where applications can be numerous and required skills are easily definable. “Technology that screens candidates will shorten the fill time for recruiters.”
+
+Early career hiring can also really benefit from AI-enabled screening. “Organizations are investing in early careers, which we alluded to in our trends report,” notes Fullen. “AI screening tools and technology, paired with assessment, are helpful here because it’s a place where you have a lot of candidates.”
+
+Diversify Your Talent Pool
+
+When technology does the screening, it only looks for a minimum qualification, says Fullen—without the biases that real humans can bring to the process.
+
+“You don’t have anyone looking at people’s names or what school they went to,” she says. “Rather, you have the ability to look at skills, paired with an assessment, to ensure you have a candidate with the right qualities for the role.”
+
+Enhance the Candidate Experience
+
+A happy candidate is, hopefully, a happy new starter.
+
+Long hiring processes or those lacking transparency risk losing candidates along the way, either to rival organizations that get the job done faster, or simply due to applicant frustration.
+
+By streamlining and simplifying the hiring process for candidates—or keeping them informed though AI recruit tools like chatbots—it’s easier to keep top talent on board for the duration of the process.
+
+Challenges and Risks: Navigating the AI Landscape
+
+While artificial intelligence has many benefits for recruiters, it’s not suited to every business or every scenario. Potential downsides of its use include the below.
+
+Variable Quality of Candidates
+
+Rely on AI alone to do your screening, and you risk missing out on prime candidates in the event that tech fails to read between the lines on resumes and applications. For example, a low-quality chatbot screening paired with the wrong kind of digital assessment means you won’t get the best or most fitting candidates coming through to hiring leaders.
+
+Recruiters must always retain ownership of the process, remarks Fullen, and be prepared to review everything AI creates to ensure it aligns with hiring objectives—whether that’s a ChatGPT-written job description or a list of candidates being moved forward to interview.
+
+Loss of Human Touch
+
+People and their networks are at the center of traditional recruitment. Where an AI-automated system might win in efficiency; what can be lost for candidate, recruiter, and employer alike is a sense of how the individuals doing the jobs might fit together in real life.
+
+“People want to know where they’re going to work, who they’re going to work with,” says Fullen. “That’s why Korn Ferry has a phone line where candidates can call and talk to a person. Even when technology is supporting, we continue to be present in the process.”
+
+Making a Large Investment
+
+Whether we’re talking financial outlay for specialist AI tools or dedicating employee time for training, incorporating AI into the recruitment process is an investment—and one that doesn’t make sense for all businesses.
+
+While AI can work wonders in high-volume recruitment, it might not provide much return for smaller companies who hire irregularly, or complex roles that have variable qualification requirements. “The technology works where roles are kind of repeatable, where there is volume,” says Fullen. “It might not work as well where the role means one thing in one location versus another thing in another location, for example.”
+
+In a similar vein, AI is not yet adept enough to tackle the nuances of executive search. “Artificial intelligence is probably not going to apply to this process any time in the near future,” predicts Fullen. “At the moment it’s really just good for summarizing executive candidate reports for hiring leaders.”
+
+Talent Acquisition
+
+Finding talent that sees you through today and tomorrow
+
+Learn more
+
+The Transformative Role of AI in Talent Acquisition
+
+AI is changing the role of the recruiter every day, notes Fullen. “It’s shifting from the hunting and finding of candidates towards communicating and connecting.”
+
+As more and more of the talent acquisition process is touched by technology, recruiters are going to be doing less of the “filling the funnel” and spending more time “talking to candidates, selling candidates, selling managers, and pairing the right folks together.”
+
+Even if they don’t employ it at scale themselves, recruiters and CHROs need to be aware of how AI is reshaping the wider hiring landscape, and with it, business and employee expectations. That means also understanding how potential candidates are using AI in their applications—because it goes beyond just polishing up resumes.
+
+Striking the Right Balance: AI and Human-Centric Recruitment
+
+Using AI in the recruitment process has many benefits, but before incorporating it into your talent acquisition strategy you need to carefully consider how and where it can help you. Don’t forget to take into account your board’s AI governance principles, too.
+
+Korn Ferry has more information to share on AI Recruitment Tools and the impact they might have on your business. Get in touch today to get an expert view on how artificial intelligence could transform your recruitment strategy.
+
+Our Expert
+
+Our Experts
+
+Colleen Fullen
+Chief Technology and Infrastructure Officer, RPO
+
+No items found.
+
+Related Capability
+
+Related Capabilities
+
+Talent Acquisition
+
+Flexible Recruitment Services
+
+Featured Insights
+
+AI Is Helping Candidates Apply Themselves—Here’s How
+AI Recruitment Tools: The Pros and Cons
+Generative AI in the Workplace
+Boards Get Smart (or Try to) About AI
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Featured Topics
+
+Talent Recruitment
+
+AI in the Workplace
+
+Talent Acquisition
+
+Flexible Recruitment Services
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

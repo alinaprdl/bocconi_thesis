@@ -1,0 +1,191 @@
+Predicting CEO Success: When Potential Outperforms Experience
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Predicting CEO Success: When Potential Outperforms Experience
+
+In the science of CEO selection, past experience is not a reliable predictor of future success
+
+By
+
+Claudius A. Hildebrand,
+
+Cathy Anterasian and
+
+Jordan L. Brugg
+
+December 2020
+
+| 9 min read
+
+Authors
+
+Claudius A. Hildebrand
+
+New York
+
+Cathy Anterasian
+
+Austin
+
+Jordan L. Brugg
+
+New York
+
+SectionsIn this article
+
+The Harvard Business Review article, "Why Rookie CEOs Outperform," draws on Spencer Stuart research that is the basis for this article.
+
+Demand for prior CEO experience has quadrupled since the turn of the century. Since 1997, the share of S&P 500 CEOs with prior experience has grown from 4% to 16%.1
+When we asked 50 seasoned directors about the finding, they considered the ability to increase shareholder value a primary benefit of experience. Such an assumption seems intuitive at first, and we often see it shape CEO selection processes, but what if the logic is flawed?
+
+The selection of a new CEO is a high-stakes decision for any board. Amid intense scrutiny and pressure, boards must consider extensive information about individual candidates and its relevance to the success of the business. As the succession process unfolds, it is not uncommon for boards to shift their orientation from maximizing upside to minimizing potential downsides of their decision. As one director said, “The worst thing that could happen is to pick a CEO that is a disaster.” For some, prior experience becomes a seemingly logical proxy for future performance. As doubts seep in about an unproven candidate’s ability to succeed, the door closes on a far wider set of leaders with different demographics and backgrounds.
+
+Our research into CEO performance and the CEO Life Cycle2 finds no premium for prior CEO experience. Studying the performance of 855 S&P 500 chief executives over a 20-year period, a different picture emerges. We see higher market-adjusted total shareholder returns (TSR)3 for those serving in their first role. First-time CEOs on average lead three years longer and with less volatility in performance. And when we look at a subset of CEOs who led S&P 500 companies in both their first CEO role and in subsequent CEO roles, 70% performed better the first time. The median year-over-year performance difference between a CEO’s first and second role was a staggering 7% per annum. While nearly every experienced CEO (97%) outperformed the market in their first role, only a minority of CEOs (38%) managed to hit the same benchmark in subsequent roles.
+
+Understanding the real drivers of performance can help boards focus their decision-making and select the CEO who is most likely to succeed in light of the opportunities and challenges the company faces. As a product of their prior experience — or lack thereof — CEOs deploy different mental models in how they lead, resulting in different areas of focus and performance patterns.
+
+The experience playbook
+
+Experienced CEOs can fall back on a set of references to guide their decisions. A proven track record signals competence to internal and external stakeholders and increases trust in the CEO’s decisions. As one CEO said, “With experience you appear more decisive.” Having navigated complex people dynamics with multiple interests at play, experienced CEOs are attuned to approaching challenges from multiple angles. They may also have wider access to talent, external resources and other critical relationships that can accelerate performance and drive rapid change. “What took me five years in the first role, I could have done in two years in the second,” remarked one CEO.
+
+CEOs with prior experience tend to get a faster start in the role. They have a reliable playbook, which typically prioritizes putting the company on a diet. Our data show that many experienced CEOs drive total shareholder return in the first few years by improving profitability. We see sharper increases in operating margins and return on equity (ROE). Driving operational efficiency produces an initial boost to performance in the early years, but becomes increasingly hard to maintain over time. Put differently, the benefits of prior experience are especially pronounced in the early stage of a CEO’s tenure when opportunities to take cost out and identify quick wins are more apparent.
+
+Yet, no CEO job is the same. Just as playbooks empower, they also limit new ways of thinking if adhered to too rigidly. In the worst case, experienced CEOs may over-rely on their honed instinct to expedite decisions and create a false sense of confidence. “I would be lying if deep down I would not ask myself if I can really do this job and my ego would tell me to assert what I know and show my smarts. That is a trap. You have to keep your ego to a minimum and lead with humility,” recommended one CEO who was successful in his second chief executive role. CEOs who were successful in subsequent CEO roles cautioned that playbooks can orient leaders to seek familiar patterns and bias actions toward tried-and-tested methods, even when they are less relevant in a new context. “It’s a fresh game with a fresh team, maybe a new sport altogether. Instead of a law-like set of actions, you are better off with a set of guiding principles,” recommended another CEO.
+
+Over-reliance on existing mental models curtails learning agility and out-of-the-box thinking — attributes that become increasingly important as CEOs near the second act of their tenure, when reinvention and the willingness to challenge the status quo are needed. The risk of stagnation increases if the CEO’s prior experience discourages the team from raising important dissenting views and unconventional ideas. To confront this risk, one CEO advised, “throw out the playbook filled with actions and instead bring one full of questions.”
+
+Doing so empowers CEOs to adapt to their new business environment and devise a fresh playbook tailored to their unique challenges. As one director said, “CEOs need to learn at a faster pace than the world is changing.” It’s not surprising, then, that the response the most successful CEOs instantly gave when asked about their recipe of success the second time round was the same: insatiable curiosity and desire for learning.
+
+Learning from scratch
+
+First-time CEOs start the role fresh and energized, but with much to learn about how to operate amid competing priorities, where to focus their attention and which stakeholders to interact with, within the time constraints of their busy days. With no winning playbook to draw on, first-time CEOs need to evolve their mental models to lead at the enterprise level. Receiving advice from multiple directions — the board, the predecessor, peers, consultants, investors — they need to distinguish between what is “signal” and what is noise. A new CEO also tends to be more impressionable, “wanting to please people now that you got the job,” one CEO reflected. Those who are ultimately most successful use their earliest days to build a strong knowledge base about the business, its customers and the external forces that are likely to impact the company. “They may take longer to identify what needs changing, but once they know, change is executed masterfully,” said one director.
+
+Our research finds that first-time CEOs’ longer-term orientation and more balanced focus between profitability and revenue growth is reflected in their performance — even in challenged companies, first-timers attempt to lead through a mix of growth and profitability. We see a sharper increase in revenue growth in the early years with operational efficiency slightly lagging. Most important, as first-time CEOs progress in their tenure, they manage to increase growth and operational effectiveness in tandem, while we see such convergence less often for experienced CEOs. First-time CEOs also have longer tenures, less volatility in performance and greater shareholder return in the later years of their tenure compared with experienced CEOs.
+
+The lack of a tested playbook means that, from the first day on, first-timers must confront the questions of what future they are working to build and how they will do it. What’s more, they have to confront their own insecurities and vulnerabilities. “You don’t know if you won [the role] by a mile or an inch, with all the fear and trepidation that comes with it,” confessed one CEO. Similarly, first-timers’ decisions may face greater scrutiny from critical stakeholders, forcing them to adopt greater rigor and a more expansive set of considerations before moving forward. “A first-time CEO in the early days is often going to be looked at as the CEO on training wheels,” explained one director.
+
+The faster the incumbent leaves, the quicker the new CEO can develop his or her leadership brand. While the data suggest newly minted CEOs could be more disciplined about increasing operational efficiency, they tend to operate with a longer time-horizon in mind and are forced to think more broadly. Over time, the capacity to think widely and reinvent the organization increasingly outweighs the benefits of leading by familiar formulas.
+
+Year 4: a pivotal moment
+
+Experience and fresh perspective often act as counterweights to each other. As CEOs gain in pattern recognition over time, they must retain their initial adaptability and maintain a wide lens. For experienced CEOs, it is therefore especially important to retain mental agility over the longer term to seek new solutions to challenges. First-time CEOs, by contrast, need to quickly find ways to gain a fuller, enterprise-wide perspective to accelerate their decision-making. Among the ways to do this include swiftly building a trusted management team or leaning appropriately on board directors or outside advisers to provide savvy organizational perspectives.
+
+The need to develop a long-term orientation becomes apparent in our data. Calculating the ratio of CEOs outperforming the market during the average CEO tenure length (8.4 years; see figure 1 below), we find that first-time CEOs retain a stable win-ratio hovering around 55% for most of their tenure. By contrast, win rates of experienced CEOs spike in their fourth year (68%), followed by a steady decline. While some of the overall performance differences may be the result of experienced CEOs being tapped for more challenging situations, the divergent patterns remain a powerful indicator of a CEO’s actions and interpretation of the role.
+
+Figure 1: Win Rates for First-Time Versus Experienced CEOs
+
+These results corroborate our CEO Life Cycle findings and other external research showing the importance of CEOs rethinking and reinventing the company as they approach the mid-tenure years. Year 4 is a critical inflection point for any CEO — whether a first-timer or experienced — to build for the long term and avoid the trap of viewing success in incremental terms. At this point, the usefulness of the playbook that drove the experienced CEO’s early wins wanes, while adaptability, new ideas and long-term orientation become ever-more important. “If I could not reinvent myself every five years, I knew it was time to go,” said one experienced CEO. It appears the recipe for success may be less about experience per se and more about gaining company-specific experience while remaining adaptive.
+
+Experience or potential: the implications for CEO performance
+
+These findings undercut many assumptions about what predicts CEO success, especially the conventional wisdom that experience is always better. Broad-stroke labels no longer suffice to identify the best talent fit for a company’s strategy. Instead, boards need to have an explicit dialogue about the type of leader needed based on the desired outcomes and specific business context. And CEOs, equipped with this insight about potential blindspots, can better target their professional development needs. To actively override implicit assumptions about CEO success, boards and CEOs need to consider the following three factors.
+
+Context and scope
+
+Directors need to define an explicit scope of priorities for the future CEO, based on desired outcomes and context. Some situations may be defined by a specific mandate or operating agenda, whereas others will favor blue-ocean opportunities and multiple future scenarios. Regardless, the defined scope should inform the development of a set of well-defined leadership capabilities and traits that can be measured and assessed.
+
+Depending on the mandate, the board may conclude that the situation calls for an experienced CEO. For example, “if you are thrown into a burning business, you are better off bringing pattern recognition with you,” as one director explained. But this decision should be based on future expectations and the established criteria for the role rather than an assumption that the capabilities that made someone successful once will be the same capabilities that allow for success again in similar circumstances. Conversely, if the mandate is broader and longer term, it will be even more important to dig deeper into candidates’ capacity, potential, judgment and decision-making in an environment where multiple future states and strategies are possible. In these instances, experience and track record are less likely to be relevant to the actual demands of the role, and agility, learning and adaptability will be critical.
+
+Timeline
+
+Boards are best positioned when they align strategic priorities with a realistic time horizon to drive change. From our research we learned that experienced CEOs — with the help of an existing playbook — tend to have strong performance in their early years. Experienced CEOs also exit the role three years earlier on average than first-time CEOs (six versus nine years). This may be due in part to their older start age, personal motivation or more narrowly defined objectives, such as divesting a business, leading a merger or overseeing a turnaround. In other cases, they may exit under pressure for not meeting expectations. First-time CEOs, by contrast, are more likely to build for the long-term.
+
+Directors need to engage in an explicit dialogue about the CEO’s expected runway and build alignment with the CEO early on. Clarity on the timeline not only mitigates the risk of complacency, but also provides more incentive to develop a coherent talent strategy, build a talent bench and engage in systematic, multi-step succession planning that sends the appropriate signals for retaining and attracting top talent. “It is fundamentally a supply chain problem. Do you get the right people ready and can you hold them in the pipeline? You also have to be working the third tier, not knowing if the second-tier candidates may flame out,” explained one director.
+
+Diversity
+
+Today’s CEO ranks are still a male-dominated domain: only 6% of S&P 500 CEOs are women and just 10% are ethnic or racial minorities.* Reliance on prior experience as an indicator of future success thus perpetuates the status quo and represents yet another barrier to underrepresented groups. Over-reliance on misleading indicators of success unnecessarily shrink an already small talent pool even further, thereby excluding many viable candidates that may not have been a CEO previously but have the capacity and ability.
+
+To remove the biases that disadvantage underrepresented groups, boards should use a structured assessment approach that focuses on how well executives align with the specific capabilities and leadership style required for success in the role, as well as individuals’ ability to develop, adapt to changing contexts and make well-reasoned judgments. “If someone is CEO material, they will figure it out. Nobody is ever ‘ready,’” one CEO told us.
+
+***
+
+It is a fundamental human tendency to pick known quantities over unknown ones, causing us to rely on easy-to-recognize indicators — not because we play to win, but because we seek to avoid losing. Assuming an experienced CEO is the right next leader may provide a board and critical stakeholders a false sense of security. Assuming a first-timer won’t be just as qualified may prevent a board from selecting the best long-term steward of the business and ultimately the best value driver for shareholders. There will always be a trade-off between experience and future potential. Boards are in the best position to balance these trade-offs when they consider the specific context and mandate for the next CEO and a realistic time horizon for driving change.
+
+Methodology
+
+As part of the CEO Life Cycle project, we analyzed the entire tenures of 855 S&P 500 CEOs over a 20-year period. This includes 106 CEOs with prior public CEO experience and 749 first-time CEOs. We first calculated each company’s annual market-adjusted total shareholder return (the difference between the company’s TSR and the S&P 500 TSR) for each year in a CEO’s tenure. Next, we standardized the data for easier comparison. In addition to analyzing the data, we conducted 60 interviews with high-performing CEOs in our data set and board directors who observed those CEOs to understand how leaders and boards think and talk about performance, tenure, and the critical moments and milestones in a CEO’s career.
+
+13-year rolling average of S&P 500 CEO transitions 1997-2019.
+
+22 Citrin, James M.; Hildebrand, Claudius A.; Stark, Robert J. "The CEO Life Cycle: A Study of Performance over Time." Harvard Business Review. Nov.-Dec. 2019. Print, Web.
+
+3S&P 500 acts as market benchmark, performance data winsorized at 5%.
+
+*As of December 7, 2020
+
+Download
+
+Download
+
+Authors
+
+Claudius A. Hildebrand
+
+New York
+
+Cathy Anterasian
+
+Austin
+
+Jordan L. Brugg
+
+New York
+
+We use analytics cookies that help us enhance site navigation, analyze site usage, and assist in our marketing efforts. Please click on the "Accept all cookies" button to help us improve your user experience.
+
+If you would like to know more about our use of cookies, click here.
+
+Accept all cookies Allow only essential cookies
+Manage preferences
+
+Privacy Preference Center
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+Allow All Manage Consent Preferences
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Performance Cookies
+
+Performance Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by such partners to build a profile of your interests and show you relevant adverts on other sites. They do not store personal information directly but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back ButtonPerformance Cookies
+
+Search Icon
+Filter Icon
+
+Clear checkbox label label
+
+Apply Cancel
+
+Consent Leg.Interest
+Switch Label label
+Switch Label label
+Switch Label label
+
+Reject All Save My Preferences

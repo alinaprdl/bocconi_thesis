@@ -1,0 +1,111 @@
+Leading Technology Change in the Insurance Industry
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Leading Technology Change in the Insurance Industry
+
+By
+
+Eric T. Zakre
+
+July 2020
+
+| 5 min read
+
+Author
+
+Eric T. Zakre
+
+New York
+
+While the insurance sector may have historically been perceived as slow to change relative to other industries, leading insurers are increasingly recognizing that they must embrace technology — and quickly.
+
+Spencer Stuart research into technology function leaders at 51 insurers listed among the Fortune 500 largest companies in the United States points to this change. Since 2017, 55% of the insurers with a CIO position made a change in the group-level CIO position; 20% did so in the last 18 months alone. Furthermore, an industry known for looking inward to fill top roles is increasingly looking not just outside company walls for new candidates, but also searching outside the industry itself; half of CIOs were hired externally, and the CIOs who have been in their role for fewer than three years are twice as likely to have come from outside the industry. Overall, the average CIO’s tenure is 4.7 years.
+
+To explore these stark trends of high rates of leadership turnover and the industry’s push to move ahead on the technology curve, we spoke with three of the insurance industry’s technology leaders driving change in their companies. A few key themes emerged from our discussions: technology is having a growing impact on the insurance sector; to succeed, insurers must make a cultural commitment to technology; and building the right team is of the utmost importance.
+
+Technology’s growing impact in insurance
+
+Turnover among insurance CIOs points to the industry’s increasing dependence on the technology function to serve as a driving force for change. Executive teams are seeking technology leaders who can play a central role in their digital transformations.
+
+“The CIO role in the insurance industry “is changing from merely being a shepherd of IT to having an innovation mindset.”
+
+Barry Vandevier
+
+Chief operating officer, Asurion
+
+“I wouldn’t have expected a lot of turnover among CIOs, but it’s really not that surprising,” said Puneet Bhasin, executive vice president, chief information and digital officer at Unum. “This industry has been a little behind on the technology curve and is finally waking up to customer demands and expectations.”
+
+Externally, this change means embracing digital tools to better address customers’ needs. Internally, it is about embracing a new way of thinking in which technology is more seamlessly embedded across siloes.
+
+“The insurance industry tends to look at tech more in terms of IT, rather than a product-based focus,” said Barry Vandevier, who leads technology and operations as the COO at Asurion, where he was previously the company’s CIO. “The role is changing from merely being a shepherd of IT to having an innovation mindset.”
+
+This new focus is reflected in insurers’ growing willingness to look outside the industry for their technology leaders. With the goal to use technology to provide a digital customer experience, increase productivity and efficiency, and create a more agile culture, the skills to succeed as a technology officer at an insurance company do not require a financial services background.
+
+“When you look at the core initiatives we’re working on, very few of them are specific to insurance products,” Bhasin said. “And because insurance has lagged in technology, it can be advantageous for us to look outside the industry in places where these skills and experiences are being cultivated more actively.”
+
+A cultural commitment to technology
+
+Creating an organization-wide cultural transformation is key to the success of any technology agenda in any industry, but it’s particularly difficult in deeply entrenched industries like insurance. Whereas insurers in the past were top-down oriented, a true embrace of fully digital, agile approaches requires a culture that empowers those at lower levels. As Spencer Stuart’s extensive research on corporate culture has found, culture is the blending of leaders’ goals with the knowledge and experiences of frontline employees.
+
+“You want decisions to be made by the people who are closest to the work getting done,” said Suren Gupta, executive vice president of strategic ventures, technology and enterprise services at Allstate. “There may be some failures here and there along the way, but over time this is a more effective way to make decisions.”
+
+“Now, technology is the center-state of everything we do, and it is playing a key role in driving our business rather than vice versa.”
+
+Suren Gupta
+
+EVP of strategic ventures, technology and enterprise services, Allstate
+
+One big adjustment is to embrace a product mindset across the organization. In the past, the product and technology teams operated largely independently, with product sitting in the business while technology was run as a separate, central function. Modern insurers’ technology teams must be tightly coupled with — and embedded within — the business.
+
+“In the past, we had walled-off technology teams, and when the business wanted capabilities, technology would transfer these requests and pull together systems,” Gupta said. “Now, technology is the center-state of everything we do, and it is playing a key role in driving our business rather than vice versa.”
+
+The other half of the equation is engaging the board and leadership in a full embrace of technology. Each of our interviewees said they engage with the board and other C-suite leaders on the technology side of the business. Vandevier said he includes technology initiatives as part of every board meeting, and will periodically conduct a deep-dive on some of the bigger efforts underway.
+
+Alignment between the CEO and the CIO on strategic business priorities and how technology can further those goals is also crucial. “At insurance companies, you can’t just go hire a CIO to solve all of your problems,” Vandevier said. “Your whole leadership team needs that technology-driven mindset ... If you don’t have your peers on board and you’re not all working together, it’s like pushing a rope.”
+
+Building the right team
+
+A CIO’s ability to drive transformation depends, of course, on building the functional structure for success. Reorganization can create a better-running function that collaborates more effectively with other elements of the business — particularly important in supporting the shift to a product mindset. Bringing in new talent or eliminating some functions that are not adding value can help create a more cohesive, more agile machine.
+
+“Today, almost everything we do that is considered a key strategic initiative is essentially a tech initiative.”
+
+Puneet Bhasin
+
+EVP, chief information and digital officer, Unum
+
+With this in mind, the industry’s technology leaders are investing in building strong internal teams that can make a long-lasting impact for their companies. In many cases, the outside contractors who filled important functions are being replaced by new employees. While of course short-term answers to long-term problems may be necessary, the overarching goal is to create a function that is not just investing in the shiniest new technology, but rather a long-term force for driving value.
+
+“We’re focused on candidates who we’d consider excellent successors to reduce the need for us to go outside for help in the long term,” Gupta said.
+
+Insurance companies have traditionally looked to industry experience as a key benchmark in how they select talent, which has usually meant looking inward or to other insurance industry companies for their CIOs and technology leaders. However, with a recognition that disruption and leading-edge technology innovation are more likely to come from outside the insurance industry, many insurers are now looking externally for candidates to fill those positions.
+
+“We have traditionally had a preference for insurance or financial services experience, but Unum has become more open-minded to looking outside of industry,” Bhasin said.
+
+A focus on the long term and on a wider range of experience is also why our interviewees identified recruiting younger talent and greater gender and racial/ethnic diversity as central pillars to creating a stronger technology function. In an industry with traditionally fairly low diversity numbers — for example, only 11% of executive roles are filled by women, compared to 23% of positions across industries — diversity can be a way for insurers to break out of the traditional mold.
+
+Insurers are taking creative approaches to diversifying their technology teams and building a more diverse pipeline for the future. For example, Vandevier said Asurion is committed to a variety of programs with the goal of building a more diverse team, including sponsored programs, internships and apprenticeships that give an entry to minority candidates and an opportunity for them to build their skills.
+
+“The more we grow diversity in tech at the entry levels of the organization, the more we can grow careers and ultimately improve diversity at all levels in tech,” Vandevier said.
+
+Conclusion
+
+The embrace of technology is only becoming more important for leading insurers, and this has only been underscored by the COVID crisis, which has forced companies across industries to digitize what were previously analog processes and approaches. Both customers and employees have gone digital, and the industry must keep pace.
+
+Recent industry efforts to recruit top technology leaders reflect this.
+
+“Today, almost everything we do that is considered a key strategic initiative is essentially a tech initiative,” Bhasin said. “What’s changing now is that tech upgrades are much more tightly aligned with process changes.”
+
+Download
+
+Download
+
+Author
+
+Eric T. Zakre
+
+New York

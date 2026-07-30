@@ -1,0 +1,127 @@
+Construction's Productivity Problem
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Construction's Productivity Problem
+
+Most home building remains a tedious process, holding back the industry for decades. Can it catch up with the future?
+
+Latest Issue:
+
+​
+
+Download a PDF
+
+​
+
+Browse the Flip Version
+
+By Meghan Walsh
+
+July 31, 2025
+
+When Tessa Lau, an expert in AI, machine learning, and robotics, undertook a home remodel in 2018, she was surprised to see how rudimentary the process was. Carpenters attended to each detail by hand. Reworking and mistakes proliferated, including the kitchen island almost being built in the wrong place.
+
+​
+
+THE PROBLEM The construction industry has been plagued with inefficiencies.
+
+​
+
+WHY IT MATTERS Broader development relies on built infrastructure.
+
+​
+
+THE SOLUTION Innovating how and with what we build.
+
+And, as is so often the case, the project ended up taking twice as long as planned and costing far more than originally quoted.
+
+Anyone who has built anything, whether as a client or a contractor, knows this is how it goes. Building is an imperfect, iterative, and painstaking process. But Lau, who spent 11 years at IBM automating repetitive tasks, couldn’t accept that. “I knew there was a solution,” she says.
+
+Tessa Lau, Founder and CEO of Dusty RoboticsLau started hanging out at construction sites and talking to contractors and workers there. “How does the process get held up?” she would ask. “Where do the mistakes happen?”
+
+That’s when she learned about layouts. Before construction begins, contractors and tradespeople have to transpose the blueprints onto the building surface. Referring to the drawings, they meticulously check distances with a tape measure and, from their hands and knees, snap chalk lines. The process can take weeks and is rife with the potential for error, with any slight miscalculation triggering a cascade of problems down the line.
+
+Lau’s solution is a Roomba-esque, AI-powered robot known as Dusty that—or should we say who—zooms around the worksite marking the layout. What can take the most skilled workers weeks to do, Dusty achieves in a couple of days with exact precision. “It takes about five seconds showing a demo to a grizzled old superintendent before they’re sold,” Lau says.
+
+Across the globe, the construction industry is fantastically large and important, yet somehow, a good part of it is still catching up to the modern age. To a shocking degree, steps taken for granted in many industries—robotics, computerization, artificial intelligence—lag behind at many of the outfits that erect our homes, small buildings, and factories. Studies have found construction, one of the largest sectors of the global economy, to be the least digitized, with productivity stagnating and, in some cases, declining over the last half century. For this, there are myriad reasons, some beyond the control of industry leaders, but others are ripe for recalibration. Experts say innovation will be the key to reversing the alarming trend line in productivity.
+
+“We’re at the point that we need to do something.”
+
+Certainly some areas, such as large commercial building, have modernized much more than others. But with the world engrossed in today’s AI advancements, the woes in other parts of construction are a jarring reminder that progress rarely happens at the same pace from one business to another. And in this case, the stakes are high: The housing shortage in the United States—and around the globe—is driving home prices beyond the reach of the middle class; civil infrastructure is in dire need of upgrades; and net-zero energy ambitions require significant structural modifications. On its current trajectory, construction output could fall short of demand by $40 trillion over the next 15 years.
+
+“If building isn’t able to innovate to keep up with the economy, that’s a very big problem,” says Henning Roedel, former robotics lead at DPR Construction, a large technical contracting firm, and founder of Hardhat Robotics, which pioneers technology solutions in building. “We’re at the point that we need to do something about it.”
+
+For hundreds of years, construction evolved alongside the broader economy and modern science. New materials improved efficiency. Power tools and heavy-duty equipment supplemented manual labor, upping output. But a 2023 paper titled “The Strange and Awful Path of Productivity in the US Construction Sector” reveals that sometime around the 1970s, the industry diverged from this path. The authors, two economists at the University of Chicago’s Booth School of Business, show that productivity for residential buildings began to fall at an average of 1 percent a year; by 2020, the value added per worker was 40 percent less than 50 years prior.
+
+Other researchers have come to similar conclusions. The Bureau of Labor Statistics released a report last year tracking industry productivity since 2007. The single-home and infrastructure sectors experienced declining productivity over the entire span; multi-home only recently began to show modest gains; and commercial hovered at less than 1 percent until the last five years, when it shot up to almost 16 percent. Meanwhile, during that same period, manufacturing experienced a ninefold increase in labor productivity.
+
+Construction’s productivity problem is not particular to the US, either. While worldwide total productivity improved by 50 percent from 2000 to 2022, the construction sector’s increased by only 10 percent—and most of that growth came from developing countries that were catching up with foundational practices. Western nations remained stagnant.
+
+To be sure, researchers have highlighted these dismal output rates before. And productivity, the gold standard in measuring long-term industry progress, is notoriously difficult to quantify, prompting critics to question these studies. Still, few deny that there’s plenty of room for improvement. “The industry definitely is aware of its productivity challenges,” says Audrey Lynch, a senior analyst at BuiltWorlds, a Chicago-based construction research and media network.
+
+But if productivity is an issue, there are many questions as to why. “The disappointment was we couldn’t hang it on anything in particular,” says the 2023 University of Chicago study’s coauthor Chad Syverson. No doubt politics and bureaucratic red tape are factors, but experts say there are a number of other contributors. For starters, the nature of the work makes standardization difficult. Unlike manufacturing, which involves assembling the same thing over and over in a controlled setting, each building site and project is unique, from the underlying earth to bespoke designs. And the profession as a whole ranges from sole contractors doing kitchen renovations to multinational firms building skyscrapers that pierce the horizon—and everything in between. Meanwhile, a multitude of stakeholders have to cooperate, including architects, engineers, regulatory agencies, material suppliers, and tradespeople.
+
+This complex and collaborative process makes it difficult to assess risk and control outcomes. Typically, contractors protect against high risk by passing costs onto the customer when the unforeseen occurs. Tight profit margins and a competitive bidding process also reduce the incentive to solve for such problems, leading  to a lack of innovation and investment in new technology across the industry.
+
+“Oftentimes, ingenuity and innovation are born out of need.”
+
+Making matters worse is a persistent and worsening worker shortage. “The labor shortage is an existential crisis for the industry,” says Roedel of Hardhat Robotics. “It will force the industry to change.” The US alone has roughly half a million field vacancies. And with one in five workers over 55 and leaders struggling to fill the pipeline with young, skilled talent, pressure is increasing on firms to do more with less. “Oftentimes, ingenuity and innovation are born out of need,” Korn Ferry senior client partner Dan Pulver says. “It will be painful for a little while, but things will ultimately shift.”
+
+Seven years ago, when Lau was designing Dusty, the friendly jobsite robot, few of the companies she would ultimately pitch to had appointed a chief technology or data officer. That’s changing. Within the architecture, engineering, and construction (AEC) industry, Pulver says, recruiting for CTOs and CDOs is one of the hottest markets. Larger firms are also assembling dedicated innovation teams, such as the one Roedel was on.
+
+Investments in construction technology have reached all-time highs over the last several years. “The market is there,” Pulver says. An estimated $50 billion was invested in AEC technologies between 2020 to 2022, an 85 percent increase over the previous three years, according to one survey. With this cash flow, a suite of solutions is rapidly emerging. New software aims to streamline the project-management process and incorporate data analytics to inform decision-making. Building information modeling (BIM) allows creators to erect what’s known as a virtual twin, which can expose potential planning pitfalls ahead of time. On the jobsite, fully and semi-autonomous tools are making building safer and more efficient, including AI-powered drills that can detect obstructions, titrate torque, and learn as they go. Hefty price tags mean only the biggest players can afford much of the tech right now, but as costs come down, Roedel says, there will be more widespread integration. “The challenge has been that the industry is very slow to adopt these new technologies,” he says.
+
+On the site of a large hospital build in the Southeast, Dusty isn’t just printing layouts. The zippy robot is printing QR codes, which link to punch-list items such as the fixtures that need to be installed in each room. “All of this information already exists,” Lau says. “We’re bringing it out into the field where it’s useful.”
+
+The construction industry is foundational to modern civilization. Without it there are no houses, hospitals, roads, or sewer lines. Limited output has a profound impact on social, political, and environmental development too. Take Los Angeles, for example, where historic wildfires in January incinerated roughly 16,000 structures. But even before that, the region was facing a severe housing shortage. Meanwhile, local leaders are preparing to host the Olympics in just three years.
+
+Across the country, housing supply has failed to meet demand for years, inflating prices and putting homeownership out of reach for much of the middle class. A record one quarter of homeowners and half of renters spend more than 30 percent of their income on housing costs; this, of course, has implications for the broader economy. Between 4 million and 7 million new single-family homes are needed to meet demand. That’s not all the fault of the construction industry’s poor level of productivity, but it does mean there’s significant opportunity for industry expansion. Construction spending worldwide has the potential to grow by some 70 percent over the next 16 years, from $13 trillion in 2023 to $22 trillion in 2040, according to the McKinsey Global Institute.
+
+Experts say the construction industry will need to turn its ingenuity inward in order to assemble the scaffolding it needs to emerge from its multi-decade hole. Acknowledgement of a problem will be the first step, but there is robust optimism that the industry is on the precipice of significant transformation. “Building has defined us as humans from the first tools,” Roedel says. “We’ve built our way out of disaster before.”
+
+Image credits: PM Images, Aliaksandr Trafimovich/Getty Images; Urfinguss/Getty Images; Marina UA/Getty Images
+
+Related Articles
+
+View All Briefings Issue 70 Articles
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Briefings Magazine
+
+July 31, 2025
+Insight Articles
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

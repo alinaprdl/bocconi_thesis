@@ -1,0 +1,134 @@
+Being ‘Thoughtful’ to Your AI Colleague
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+This Week in Leadership|February 2, 2026
+
+Being ‘Thoughtful’ to Your AI Colleague
+
+Best-selling author Dan Goleman explains what emotional intelligence skills humans need to hone to work most effectively with the latest technology.
+
+Daniel Goleman is author of the international best-seller Emotional Intelligence and Optimal: How to Sustain Personal and Organizational Excellence Every Day. He is a regular contributor to Korn Ferry.
+
+As artificial intelligence falls short (at least for now) of fully reinventing how work gets done, some organizations are resorting to a familiar tool: financial incentives. One law firm has reportedly offered employees a $1,000 bonus if they can collectively use Microsoft Copilot one million times in a year. Another firm—this time in tech—created a point-based system, rewarding people with appliances, concert tickets, or other prizes for using AI in new and creative ways.
+
+These strategies reveal a painful truth: despite the hype, AI adoption has proven harder than expected. And so, in the race to increase usage, organizations are focusing on the most visible levers: technology rollouts, metrics, and money.
+
+But what’s missing in the conversation is something history has already suggested we ignore at our own peril—and this is the psychological impact of working alongside conversational AI. As employees spend more time with AI assistants and agents, many won’t simply use the tools, but will begin to relate to them. Others will find themselves, maybe even to their own surprise, becoming more and more emotionally attached. We have already seen this in the emerging stories of suicide and people even dating AI.
+
+This isn’t an accident. AI systems are designed in ways that exploit a vulnerability humans have understood for decades: our tendency to locate intention, understanding, and empathy in technologies where none actually exists. Psychologists call this the ELIZA effect, named after a 1960s chatbot created by computer scientist Joseph Weizenbaum. ELIZA mimicked a psychotherapist by reflecting users’ statements back as questions. Even when people knew the program was just a simple pattern-matching machine, they reported feeling understood, cared for, and were quick to divulge their deepest and most personal information.
+
+The lesson was surprising then, and even more relevant now: humans are remarkably susceptible to projecting human qualities onto technology. While mimicry can have a positive effect, that misattribution creates a powerful sense of trust which can easily lead a person to overlook output that is flawed, incomplete, or simply wrong.
+
+This is where discernment becomes critical: the human capacity to make nuanced judgments; to recognize what isn’t obvious; to weigh competing signals; and to draw on accumulated wisdom to distinguish between good/bad, right/wrong and everything in between. This goes beyond “fact checking” and into the realm of a different kind of intelligence. It involves perception, insight, and the ability to separate coherence from truth.
+
+Discernment may be one of the most important human skills of all time. And because it’s so closely tied to self-awareness and social awareness, it’s really at the heart of emotional intelligence.
+
+Consider a recent example from the AI world. Researchers introduced TAAROFBENCH, the first benchmark designed to test whether AI systems can recognize and respond appropriately to taarof, a core element of Persian etiquette. Taarof is a ritualized system of politeness in which what is said often differs from what is meant. In practice it looks like offers that are made repeatedly despite refusals, compliments that are deflected and reaffirmed, or requests that unfold through a nuanced dance of insistence and resistance.
+
+When tested, many advanced AI models failed outright at taarof, defaulting to Western norms of directness, interpreting refusals as literal and offers as final. The result was a fundamental misunderstanding of intent.
+
+This blind spot matters—not just in Persian culture, but everywhere. In high-consequence settings such as negotiations, diplomacy, or leadership decisions, cultural misreads can derail outcomes, damage trust, and reinforce stereotypes. Even in written communications, the failure to adapt to the nuances of culture and context can have detrimental effects on a leader’s desired outcome.
+
+These failures so often go unnoticed because the responses AI offers sound reasonable, confident, and are often all too reflective of the users own blind spots. Anyone who has worked with AI knows that its fluency is quick to mask its errors.
+
+This is the downfall of working with AI systems that are designed to feel emotionally intelligent, yet can’t actually cultivate the full set of EI competencies. Developers refer to this as “affiliative” mode: a conversational style that simulates warmth, empathy, and emotional closeness. In this mode, users are encouraged to experience the AI as a companion— something closer to a supportive colleague or friend than a neutral tool. It’s how some companies position chatbots as sources of emotional support.
+
+Technology journalist Benj Edwards describes this phenomenon as vox sine persona—a voice without a self. Each response is generated from statistical patterns, system prompts, injected memories, and randomness. There is no enduring mind, no lived experience, no moral center. In this sense, personality is an interface illusion.
+
+The danger isn’t that AI lacks intelligence or that it is even incapable of having any positive psychological effects: it’s that humans mistake fluency for understanding and confidence for truth. When leaders defer too readily to persuasive outputs—especially in emotionally or culturally complex situations—they outsource the very discernment their role requires.
+
+As organizations push for greater AI adoption, the question is no longer just how often employees use these tools, but how thoughtfully. If incentives are going anywhere, part of them should be allocated to helping people develop the self-awareness, social understanding and personal agency it will take to navigate this future effectively.
+
+Co-written by Elizabeth Solomon
+
+Click here to learn more about Daniel Goleman's Building Blocks of Emotional Intelligence.
+
+Read more This Week in Leadership articles
+
+Our Expert
+
+Our Experts
+
+Daniel Goleman
+Contributor, Korn Ferry Institute
+
+No items found.
+
+Featured Insights
+
+This Week in Leadership (Feb 2 - Feb 8)
+This Week in Leadership (Feb 2- Feb 8)
+
+INSIGHTS TO YOUR INBOX
+
+Stay on top of the latest leadership news with This Week in Leadership—delivered weekly and straight to your inbox.
+
+​
+
+Related Insights
+
+See All Related Insights
+​
+
+Article|July 3, 2026
+
+The Glitter Leader
+
+July 3, 2026
+
+This Week in Leadership (June 29 - July 5)
+
+July 3, 2026
+
+This Week in Leadership (June 29 - July 5)
+
+Article|July 1, 2026
+
+6 Ways to Handle Work During Vacation
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+This Week in Leadership
+
+Leadership
+
+Beyond Coronavirus
+
+AI in the Workplace
+
+Future of Work
+
+People Strategy & Performance
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

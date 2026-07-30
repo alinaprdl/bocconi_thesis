@@ -1,0 +1,322 @@
+An information transformation: The evolving role of the CIO
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+An information transformation: The evolving role of the CIO
+
+By
+
+Caroline Apffel,
+
+Lars Alexander Gollenia,
+
+John Kelly and
+
+Guy Lundy
+
+February 2024
+
+| 12 min read
+
+Authors
+
+Caroline Apffel
+
+Paris
+
+Lars Alexander Gollenia
+
+Frankfurt
+
+John Kelly
+
+Dublin
+
+Guy Lundy
+
+Johannesburg
+
+SectionsIn this article
+
+Think of a leader at the heart of a business. Who needs to be at the forefront of technology and innovation? Who has to build digital capabilities and generate strong stakeholder relationships? Who operates at the centre of a complex web of platforms and programmes, systems and strategies?
+
+Step forward the chief information officer (CIO).
+
+While this is a role that has not always enjoyed the allure that other senior executives can take for granted, the CIO is nonetheless a leader who operates under a fierce and relentless spotlight. A leader who uses technology to create business value. A leader who is tasked with a rich and evolving variety of requirements and priorities. The quiet life it is not.
+
+Theirs is also a horizon replete with huge possibility — just look at how generative artificial intelligence (GenAI) continues to shake the corporate kaleidoscope. With such advances reshaping businesses anew, CIOs can help spearhead efforts to turn these meteoric developments into sustainable competitive advantage.
+
+Yet this ongoing technological churn forms only one part of the CIO’s daily tapestry. In recent years they have also been buffeted by a cocktail of headwinds rooted in the pandemic, geopolitical turbulence and a volatile economy. So how has their role evolved? What are the skills and capabilities that will be needed in the next generation of technology and digital leaders?
+
+Download
+
+Download
+
+To help answer these questions we sat down with leading CIOs from Europe and South Africa to consider these issues and discuss their perspectives on the myriad leadership challenges which are spiralling towards them.
+
+Influence and impact on the rise
+
+At Spencer Stuart, we are constantly examining the profiles and experiences of CIOs around the world. We have recently analysed the latest data on CIOs across Europe’s top companies, focusing specifically on those in employment in 2022 by 144 companies across the FTSE Eurotop 100 Index.
+
+One of our findings was that Europe’s CIOs increasingly need to possess direct experience of the position before they take up their new role: we found that 65% of CIOs had been a CIO before — up from 60% in 2021 and 52% in 2020.
+
+Quote
+
+The pandemic made clear that operations are not only around the core business, but in particular they are carried by its digital backbone.”
+
+Hanna Hennig
+
+CIO,
+Siemens
+
+This trend should perhaps come as little surprise. Think back to the start of the pandemic. The sense of fear was palpable and uncertainty was rippling in every direction. With shops shuttered and schools closed, the social fabric was unravelling and businesses had to suddenly grapple with a world remade by a deadly virus. Little wonder that experienced leaders have since been in high demand — this has been no time for a novice.
+
+For CIOs, the onset of the pandemic meant that they had to oversee the rapid shift to remote working, a process as unexpected as it was daunting, and one that also highlighted the critical importance of the technology function to the wider organisation.
+
+“The pandemic made clear that operations are not only around the core business, but in particular they are carried by its digital backbone,” said Hanna Hennig, CIO of Siemens. “And so like many other CIO colleagues, I would say that it definitely strengthened the credibility of the internal IT function.”
+
+Absa Group CIO Johnson Idesoh agrees. “I think what COVID really forced every organisation to do is develop an understanding of how reliant we were on technology,” he said. “It was literally the way we kept our businesses and therefore our economy going. There is now an absolute understanding that digital transformation should no longer be an afterthought.”
+
+Battling the cyber threat
+
+The shift to remote working during the pandemic wasn’t just about ensuring that every employee had the right equipment and a stable connection to their organisation’s intranet. CIOs also had to help make sure it was done securely — no small feat given that the absence of the office firewall meant that employees had to rely on their home networks, opening up new opportunities for ever-circling cyber attackers.
+
+This latter point is particularly pertinent for Jörg Fischer, Group CIO of Standard Bank Group, who says that the threat has dramatically increased in recent years, and not just due to COVID. “It's not that it never was an agenda item, but I would argue that it’s dialled up massively,” he said.
+
+“The number of cyber attacks against financial institutions has increased exponentially and this means we are continuously putting more focus on it, making sure that the right technology and staffing is in place. There is also more dialogue with the board and the leadership about what we do if it happens.”
+
+Blending technology with digital transformation
+
+When seen against this context, it’s no wonder that many CIOs believe that their role and authority have increased. “The role has certainly become far more influential,” said Mohammad Gause, CIO of Tiger Brands.
+
+Quote
+
+The separation between digital and technology is gone. This gets the CIO into everything, from influencing strategy and culture to ways of work and how to think about customer and processes.”
+
+Johnson Idesoh
+
+CIO,
+Absa Group
+
+“And by ‘influential’ I mean it's a voice that's not relegated to the backroom. The IT viewpoint is now crucial and sought after by business. The cost focus will always be there, but there’s also a clear focus on the value side, what that delivers, what it enables, and how it supports the business agenda.”
+
+For Johnson Idesoh, it also comes down to the fact that the technology function overseen by the CIO is now far more intrinsically involved in digital transformation. “I would argue that the separation between digital and technology is gone,” he said.
+
+“This gets the CIO into everything, from influencing strategy and culture to ways of work and how to think about customer and processes. The power of being a transformation partner is much stronger because of the general awareness and understanding of digital and technology today.”
+
+Greater focus on collaboration
+
+As the role expands, the soft skills required to be an effective CIO are also increasingly important. For example, Derek Wilcocks, CIO of Discovery Group, says that it is now more important for CIOs to be collaborative. “If I go back to the early days of my career, it was very typical for CIOs to have what I would call an ‘operations personality’,” he said.
+
+“Most of the CIOs that you met had these hard driving A-type personalities whose job was to get it done and be personally involved which meant that everybody did what they said. But now the role of the CIO in any large organisation really needs to have shifted to being a leader of leaders, rather than being as directive as they used to be.”
+
+While stressing the need to take the final decision themselves, Yves Caseau, CIO of Michelin, also highlights the importance of collaboration. “Today, the first thing expected of me as CIO is to listen, to influence and be aware of what is happening elsewhere,” he said.
+
+Quote
+
+The role of the CIO in any large organisation really needs to have shifted to being a leader of leaders, rather than being as directive as they used to be.”
+
+Derek Wilcocks
+
+CIO,
+Discovery Group
+
+Shaping the debate isn’t always straightforward, however. “Influencing within a non-top-down organisational structure can be a challenge,” said Erwin Logt. “It can also be difficult to achieve clarity and accountability within a complex company. This means that for us, a key priority has been to simplify these complexities, particularly in middle management and financial and planning.”
+
+As these processes shift, identifying the most effective way to maximise a CIO’s impact is crucial, particularly given the sheer scale and diversity of the tasks awaiting their attention.
+
+Unleashing the power of data
+
+It is perhaps helpful to picture the CIO at the epicentre of an organisation’s digital tapestry. Yes, there are other important technology leaders such as the chief digital officer and the chief information security officer, but the CIO remains the individual who is ultimately responsible for overseeing IT infrastructure, software, applications and resources.
+
+But with this seniority comes accountability for a tangling constellation of issues and priorities. Take when to buy from large vendors, for example. While this can be a tempting proposition, doing this too early or too frequently means they can end up locked into the vendor’s ecosystem which hampers their ability to set their own direction. CIOs have to ensure this doesn’t happen but at the same time maintain strong vendor relationships — a balancing act which isn’t straightforward.
+
+They also face issues unfamiliar to their predecessors. Origin Enterprises CIO Derek Wilson, for example, pinpoints sustainability as a key priority which is shaping his agenda both today, and in the immediate future.
+
+“Every organisation has financial reporting, of course, but we are also capturing emissions data in a consistent way across all our different businesses, consolidating all that information so we can tell our people, customers and stakeholders what we’re doing on sustainability and drive improvements to achieve our reduction targets,” he said. “Obviously, that’s a huge systems exercise and it’s also a huge data exercise.”
+
+Hélène Chaplain Lambert, CIO of Pernod Ricard, also pinpoints data as key to driving better decisions across the business. “Data has become a strategic asset,” she said. “Extreme data granularity is needed to make informed decisions. The CIO is therefore an executive at the highest level with the capacity to align technological assets strategically with the business.”
+
+This focus on data is understandable, essential even. But while data insights can transform operations, it’s important to remember that CIOs also face significant hurdles when trying to productionise this initial insight.
+
+Data solutions have to be turned into engineered components which are secure, scalable and resilient. This means that they need to prioritise having the right blend of skills and knowledge in their teams. For example, no CIO can do without data scientists to extract knowledge and insights from various forms of data, and data engineers to construct the necessary architecture for turning such insights into solutions.
+
+Building bridges with better communication
+
+Effective leadership requires a combination of traits and approaches that are ever-evolving. CIOs are no exception. They, too, have had to adjust their approach to leadership in recent years, particularly around communication.
+
+For example, Hanna Hennig believes that the elevated role of IT in an organisation means it is vital to be easily understood. “You need to be as simple as possible with the messages that are sent out to the field,” she said. “You also need to repeat them as often as possible so that people understand the direction of travel.”
+
+Mohammed Gause is another advocate for greater clarity, explaining that it is crucial to avoid technical jargon. “The language that we use very seldom includes technology per se,” he said.
+
+“At conferences I often hear people talk about the imperative to move to cloud but this is not the primary driver. In fact, when the business starts questioning me about the cloud, I say, ‘Why do you care? What is the problem you’re trying to solve?’ It’s more important to focus on what they want to achieve, and how we can best achieve it.”
+
+This process is made more challenging by the fact that teams are now more likely to be scattered across different sites, particularly when many workforces are still adopting a hybrid working pattern. To help maintain good relationships with dispersed colleagues, Hanna Hennig says she prioritises social communication.
+
+“There are some moments where you want to focus on bonding to ensure that people are either not left alone or feel alone,” she said. “I think it’s about the social moments which we need to appreciate. Previously, you could meet at the coffee machine and say ‘hey, how are you?’ but now we actually get a window into people’s living room; COVID is over but people still work from home.”
+
+Jörg Fischer takes a similar approach. “Having a dispersed workforce requires much more thought about how to stay present,” he said. “I still think the principles of good communication are very important — be clear in respect of what the goals are and measure them pragmatically — but empathy definitely plays a much bigger role nowadays.”
+
+Taking the right technology decisions
+
+A top priority for any CIO is identifying the key technologies that their company needs to invest in over the next few years. At the same time, though, they need to temper the natural excitement which comes with the discovery of a new and disruptive digital advance.
+
+After all, it’s human nature to be dazzled by something truly ground-breaking — previous generations were likely similarly inspired by Gutenberg’s printing press or Alexander Bell’s telephone. But it’s important to remember that prototypes are one thing, robust systems that can be scaled are quite another. Unfortunately, it’s all too easy for
+
+organisations to be easily distracted by the siren call of new technology without pausing to think about how it will really help them drive value.
+
+Yves Caseau firmly believes that the buck stops with the CIO. “The CIO must make choices for technological partnerships and allocate the right budgets for different technologies,” he said. “The playing field is much larger than before, and the toolbox is much more extensive. Someone capable of shaping this technological landscape is needed and that’s where the CIO comes in.”
+
+That said, the CIO is unlikely to be the only senior leader to possess some level of digital nous and knowledge — a point stressed by Derek Wilcocks. “I think executives in any successful business today are extremely technology literate,” he said. “Any view that a CIO takes all these ‘luddites’ through what technology could do is certainly not true. What I think the CIO can do, though, is possibly temper expectations and timing, which is a very difficult tightrope to walk.”
+
+With this in mind, he goes on to say that in a lot of cases it comes down to having strong commercial acumen and a good relationship with fellow senior executives. “You need to be able to occasionally tell them that ‘look, I think you may be spending too much here’ or ‘hang on, just before you completely commit to this, let’s do some work and experiment without committing too much to it’”.
+
+Quote
+
+The playing field is much larger than before, and the toolbox is much more extensive. Someone capable of shaping this technological landscape is needed and that’s where the CIO comes in.”
+
+Yves Caseau
+
+CIO,
+Michelin
+
+It’s also important to remember that all this is happening against a rapidly evolving backdrop. But as the pace of new technologies coming on stream accelerates, so the decision-making window for CIOs reduces — a fact that Jörg Fischer is acutely aware of.
+
+“What frightens me the most is the pace of change in technology,” he said. “I was a CIO in the mid-2000s and you had much more time then to make a decision and implement it. Now, by the time you’ve made a technology decision, it’s potentially already been updated and so you have to be more agile, nimble and much more resilient. As a result, we are working much more with big technology providers rather than purely buying solutions from them. They’re more like partners than supplier.”
+
+And nowhere is finding the right approach more needed than when it comes to the exciting yet still unsettling subject of GenAI, a suite of technologies and capabilities which are advancing at warp speed.
+
+Seizing the opportunities of GenAI (responsibly)
+
+For CIOs, AI has long been a fixture on their immediate landscape. While GenAI arrived with a bang in November 2022 — within the first 60 days of ChatGPT’s release to the public, OpenAI had clocked up 100 million users — many organisations had already been using traditional AI for routine tasks such as predictive maintenance for some time.
+
+There is no doubt, however, that the potential of GenAI to disrupt industries and develop new business models is immense. “GenAI is a game-changer,” said Novartis CIO Bernd Bucher. “In the past six months, we have made remarkable progress through the establishment of task forces focused on research and development. These task forces aim to identify the areas with the highest potential for scaling AI and maximizing its benefits.”
+
+Staying people-focused
+
+Johnson Idesoh believes that it’s not the technology, it’s what you do with it. With this in mind, he is keen to stress the importance of remaining human-centric. “And that’s why I like the ‘co-pilot’ name. It’s an assistant, not a decision maker,” he said.
+
+Quote
+
+You need human influence on it. You can’t just be controlled by machines. But I’m a firm believer that this is an incredible revolution.”
+
+JÖRG FISCHER
+
+GROUP CIO OF STANDARD BANK GROUP
+
+Jörg Fischer echoes this point. For him, it is a positive development but one that needs the necessary guardrails to prevent organisations from losing the human aspect. “You need human influence on it,” he said. “You can’t just be controlled by machines. But I’m a firm believer that this is an incredible revolution.”
+
+Bernd Bucher highlighted some internal developments. “Besides planning to scale the use of Co-Pilot, we now have developed a ChatGPT tool in-house, using the Microsoft interface,” he said. “With this all internal communication and information remains within Novartis, ensuring data security and appropriate compliance in terms of data sharing.”
+
+The ethical challenge
+
+The thorny issue of ethics is rarely far from the AI debate, particularly given its ever-increasing potential to upend daily life as we know it. A lack of transparency, biased algorithms and the role of human involvement all raise questions for which there are no easy answers.
+
+Bernd Bucher highlights the need to strike a balance. “An executive committee needs to balance the risks, with the value it generates,” he said. “Therefore, we have defined the process to assess the risks and it is being decided on a case-by-case basis.”
+
+To help navigate these kind of issues, Derek Wilcocks says that he and his team set up an ethical working group about three years ago. “You need to do that upfront because the technology is evolving so quickly,” he said. “If you try and do it at the level of individual technologies, I think you’re going to drown quite quickly. You need a broad principle, values and ethically based framework that informs everything and which is always being updated.”
+
+Skilling up
+
+Of course, in addition to taking the right ethical approach, CIOs also need to ensure that their teams possess the necessary skills for experimentation and deployment. Derek Wilcocks says that this requires some basic organisation of this suite of technologies.
+
+“There are many off the shelf ones out there that you can get, in particular the data science space where you’re using and training neural networks,” he said. “I think that is an area where we are a little bit more exposed, but in a way it’s lower risk, is how you productionise AI. Many of the vendors have not fully acknowledged the costs for using their APIs and that’s something that we’re still trying to work through.”
+
+Mohammed Gause is also focusing much of his attention on developing a network of potential partners. “We are working on building very strategic partnerships within an ecosystem and looking at the full value chain,” he said. “In certain areas we will definitely rely on partners a lot more for some of those skills and capabilities that we would not have the ability to develop in-house. On the other side, we are identifying people internally who are able to use these advanced technologies and we’ll ensure they receive the appropriate training and skills.”
+
+But it’s not just AI skills that are much in demand. Hanna Hennig points out that there are other skillsets which will need to be added to her team. “We are not looking only at AI specialists,” she said.
+
+“It sounds boring, but it’s pretty much around what has been there over the years. This means you need to understand what cloud is. You need to understand what big data analytics is about. You need to understand what auto-convergence is about. We need to acknowledge the fact that in future all of us need to know how to analyse data and how to use AI.”
+
+Talking talent
+
+Much like other senior leaders, CIOs find themselves in a constant search for the best and the brightest. This is a perennial challenge. Attracting and retaining the right sized team with the necessary talent to deliver competitive advantage rarely strays far from their priority list, yet there is no simple solution.
+
+As our colleague Veena Marr has pointed out, a lean and autonomous team can achieve quick wins but this approach can also make it harder to implement widespread change. A larger team, by contrast, also means it risks being too cumbersome and consensus driven to rapidly harness new opportunities.
+
+Yves Caseau is in no doubt about the acute importance of attracting the best people to a CIO’s ranks. “The war for talent is fierce,” he said. “CIOs need to make the most of the existing talent pool, ensuring they understand the significance of their role when it comes to issues such as R&D, manufacturing, and the business challenges arising from AI. In this way, interesting individuals are brought into the enterprise, attracting new talent.”
+
+Quote
+
+The CIO of tomorrow has to possess a dual proficiency, demonstrating both a keen business acumen and a profound understanding of technology. The CIO also has to excel in leveraging human capital, much like an HR director.”
+
+Hélène Chaplain Lambert
+
+CIO,
+Pernod Ricard
+
+But it’s not just about attracting talent for the here and now. It’s also about ensuring that ambitious IT professionals with an eye on becoming a CIO in the future are in place to build up their knowledge and experience. Hélène Chaplain Lambert believes that future CIOs will need to be expert in both business and technology.
+
+“The CIO of tomorrow has to possess a dual proficiency, demonstrating both a keen business acumen and a profound understanding of technology,” she said. “This dexterity will allow them to seamlessly navigate between diverse technological strategies within the company. The CIO also has to excel in leveraging human capital, much like an HR director. As well as technical proficiency, it’s also about developing individuals and ensuring they have a meaningful impact.”
+
+A role in the ascendent
+
+Such comments are symbolic of how the CIO role straddles both the technological and business communities in any organisation.
+
+Technology expertise, while vital, is only one part of the equation. They also need to possess a detailed knowledge of business value and how to create it, as well as an ability to work closely with a range of stakeholders, and the skills to lead a team which will likely be dispersed over a variety of different locations. None of this is easy but it can be done.
+
+As was so amply demonstrated during the pandemic, no organisation today can survive and thrive without technology. It is a pre-requisite for growth, for success and for unlocking new opportunities. As the GenAI revolution continues apace, and new advances ricochet all around us, the CIO’s role will likely come into even sharper focus.
+
+Amidst the ongoing tumult of digital disruption, change will be unavoidable. The CIO’s voice and decision-making power will provide much needed ballast for any organisation as it seeks to navigate the twists and turns that lie ahead.
+
+Our thanks to
+
+Bernd Bucher, CIO of Novartis
+
+Yves Caseau, CIO of Michelin
+
+Hélène Chaplain Lambert, CIO of Pernod Ricard
+
+Jörg Fischer, Group CIO of Standard Bank Group
+
+Hanna Hennig, CIO of Siemens
+
+Mohammad Gause, CIO of Tiger Brands
+
+Johnson Idesoh, CIO of Absa Group
+
+Erwin Logt, CIO of Danone
+
+Derek Wilcocks, CIO of Discovery Group
+
+Derek Wilson, CIO of Origin Enterprises
+
+Authors
+
+Caroline Apffel
+
+Paris
+
+Lars Alexander Gollenia
+
+Frankfurt
+
+John Kelly
+
+Dublin
+
+Guy Lundy
+
+Johannesburg
+
+Related Insights
+
+How to keep driving digital value
+
+What are the key ingredients for a successful digital transformation? We have spoken with more than 20 leaders who have shared their experiences and perspectives.
+
+Growing gains: The role of digital leaders in Europe’s unicorns
+
+11 min read
+
+Europe’s high-growth companies are often fuelled by technology but what has been the contribution of their digital leaders? We examine how they help their business take flight.
+
+In search of the CIO
+
+3 min read
+
+The CIO is crucial to any large organisation yet the role is constantly in flux. Here we analyse the profiles of CIOs in the FTSE Eurotop 100 Index.

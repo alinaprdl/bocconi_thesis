@@ -1,0 +1,137 @@
+How leaders can thrive in the age of AI
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+How leaders can thrive
+in the age of AI
+
+By
+
+Fabio Moioli,
+
+Till Roga and
+
+Caroline Salen
+
+June 2025
+
+| 6 min read
+
+Authors
+
+Fabio Moioli
+
+Milan
+
+Till Roga
+
+Frankfurt
+
+Caroline Salen
+
+Zurich
+
+SectionsIn this article
+
+From decision-making models to innovation cycles, organisational priorities to product development, artificial intelligence (AI) is continuing to blaze its disruptive trail. No  wonder traditional leadership skills are being rethought, renewed and reconfigured.
+
+Although many of the qualities that have long defined exceptional leadership remain vital — integrity, strategic thinking, resilience under pressure, the ability to inspire, and long-term vision — it is clear that additional attributes are now required to deliver effective leadership in a world reshaped by data, digital acceleration, and algorithmic decision-making.
+
+It’s not about replacing timeless qualities and competences, but more about identifying and spotlighting the newer, often underestimated capabilities that now distinguish the most effective CEOs and other leaders across the C-suite.
+
+No time for a data novice
+
+No organisation or sector is immune to the era of AI. While algorithms can be replicated and different sectors will deploy this technology in contrasting ways, the unique value of high-quality data is irreplaceable.
+
+This means that one of the most underestimated new elements in evaluating future leaders will be their relationship with data. CEOs need to bring together information gathered from AI and traditional, non-AI sources — human interaction and insight derived from other people will always be crucial.
+
+With businesses awash with generative algorithms, it’s easy to recite buzzwords. But when pressed for substance, few can demonstrate a real capacity to translate technology into business value. They don’t need to master data science, but they must know how to ask the right questions and connect them to current and future business priorities.
+
+What data is core to our competitive advantage?
+
+How do we ensure its accuracy and strategic use?
+
+Do we have a robust, cross-functional data governance model?
+
+At Spencer Stuart, these type of questions frequently loom large in our assessments.  We want to know from our candidates how they have leveraged technology and innovation to drive and expand their business and how they have sought to enhance the quality and value of data in their previous leadership roles.
+
+And so we might want to ask CFOs how they have used data analytics to improve forecasting, for example. And for COOs we would dig into how they have used data to streamline operations. These inquiries uncover a candidate’s ability to integrate data thinking into every facet of the business.
+
+Going from process-centric to data-centric
+
+Placing data at the core of an organisation also represents a fundamental shift in how value is created. In traditional companies, processes are the master, with data acting as passive inputs and outputs — often reinforcing legacy mindsets: “We’ve always done it this way.”
+
+By contrast, a data-centric paradigm flips the equation: data becomes the master, and processes are engineered to ingest, correlate, enrich, and visualise information. This is the vision we seek in CEOs — leaders who don’t just digitise the old, but redesign the enterprise around intelligence.
+
+Delivering strategic data leadership
+
+In the contemporary business landscape, the quality of data is paramount — especially as AI becomes integral to innovation. CEOs must not only support technological initiatives but champion data centric thinking, with data quality at its core.
+
+When we talk to candidates about the metrics they use to assess data quality, some describe using machine learning to automate data cleansing while others mention rolling out data literacy programs across the organisation. These are not just signs of technical fluency, but of cultural leadership.
+
+The most effective leaders recognise this. They set clear frameworks for how data is accessed, shared, and used. They embed quality standards into core workflows and align incentives across functions. They understand that without governance, there is no insight — only noise. The strongest candidates are those who have developed
+systems that guarantee consistency, accountability, and compliance — critical pillars for any enterprise looking to scale AI initiatives responsibly.
+
+Moving beyond tech jargon
+
+One of the most common pitfalls among aspiring CEOs is relying on digital jargon without meaningful substance. They speak about AI, digital twins, or blockchain, but rarely connect these innovations to business outcomes — whether in customer experience, margin optimisation, or operational agility.
+
+The real divide today is not between tech-savvy and non-tech-savvy leaders. It is between those who possess digital vision — the ability to anticipate how innovation will reshape markets, behaviours, and cultures — and those who don’t.
+
+The best CEOs don’t get distracted by the novelty of the tool. They understand the underlying shift and build systems that adapt. The CEO needs to be able to resist the siren call of the latest gleaming new advance and instead figure out how to actually deliver substantial value for their company. Only by possessing a tailored blend of curiosity, conviction and knowledge will they be able to place the right bets for future growth.
+
+The value of human leadership
+
+While certain aspects — scenario modelling, forecasting, KPI tracking — can and will be enhanced by AI, the heart of leadership remains profoundly human. Decisions involving ambiguity, ethics, and organisational sense-making cannot be outsourced.
+
+With this in mind, when it comes to sound ethical judgements, colleagues from HR or branding have a key role in the dialogue and decision-making process. This is because they are not measured on short-term profit or growth to the same extent as a P&L leader and so they tend to see things through a different, longer-term lens. In other words, the real shift is toward augmented leadership — where AI acts as a strategic partner, accelerating insight, but not replacing a leader's ultimate decision-making responsibility.
+
+In this context, empathy becomes a strategic competency. It allows leaders to sense organisational dynamics, anticipate resistance, and build trust amid uncertainty. In an era of constant disruption and fluid skillsets, trust is the organisational anchor.
+
+AI may shape the landscape, but it’s human-centred leadership that will define which companies thrive.
+
+Three distinctive traits of today’s most effective CEOs
+
+Across the many CEO placements we have led, three characteristics consistently resonate among the most effective modern leaders:
+
+Intellectual curiosity — A continuous desire to learn and challenge assumptions.
+
+Transformational courage — The capacity not only to adapt, but to design and implement change.
+
+Authoritative kindness — The balance of empathy and decisiveness that builds culture and resilience.
+
+But while such traits are vital, leaders now also need to embrace data as a key building block of competitive advantage. As technology continues to evolve, the real differentiator will be leaders who know how to turn intelligence — human and artificial — into sustainable value.
+
+Those who know how to learn fast, ask better questions, and build trust in the age of AI will be the leaders who shape the future.
+
+Authors
+
+Fabio Moioli
+
+Milan
+
+Till Roga
+
+Frankfurt
+
+Caroline Salen
+
+Zurich
+
+Related Insights
+
+Redefining the CIO role in the era of AI
+
+5 min read
+
+Today’s CIO is expected to be a visionary, an agile innovator, and a business transformer — particularly when it comes to artificial intelligence.
+
+The top three AI trends of 2025 — according to AI…
+
+4 min read
+
+Where is AI poised to have the biggest impact in 2025? Here are the three top trends that AI itself (and our very own Fabio Moioli) has helped identify…

@@ -1,0 +1,230 @@
+Board effectiveness focus: One ounce of prevention | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Board effectiveness focus: One ounce of prevention
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Board of Directors Board effectiveness focus: One ounce of prevention
+
+Four steps boards can take to mitigate activist campaigns before the first letter arrives.
+June 15, 2026
+
+Les T. Csorba ,
+Bonnie W. Gwin
+
+Download the full insight
+Open the PDF
+
+“An ounce of prevention is worth a pound of cure.”
+
+When Benjamin Franklin offered that advice, he was speaking about fire safety. Yet the principle has aged remarkably well, including in modern capital markets. In today’s environment, shareholder activism is the corporate equivalent of fire: fast-moving, costly once ignited, and far harder to contain than to prevent.
+
+Fire prevention should be more important to boards than ever. Shareholder activism is rising in both scale and sophistication—and, importantly, its center of gravity has shifted squarely toward the boardroom. In 2025, activists launched a record 255 campaigns globally, surpassing the previous high-water mark set in 2018. The US remained the epicenter, accounting for 141 campaigns, a 23% year-over-year increase. Thirty percent of activists were first-time campaigners, underscoring that activism is no longer confined to a small circle of high-profile investors. Activism has become a durable feature of how power, capital, and accountability now intersect.
+
+Just as significant is the level at which activists are concentrating their firepower. More than one-third of campaigns explicitly targeted board change, with demands centered on governance reforms, director refreshment, and leadership credibility. Proxy fights are escalating, with contested slates increasingly seeking control rather than incremental influence. The market signal is unmistakable: boards, not just strategies, are under scrutiny.
+
+This should not surprise seasoned leaders. “Only the paranoid survive,” former Intel CEO Andy Grove famously warned—by which he meant disciplined vigilance, not fear. That same philosophy has since been echoed and operationalized by Jamie Dimon, chair and CEO of JPMorgan Chase, who has repeatedly emphasized the importance of anticipating risk before it becomes existential. Activist campaigns rarely punish boards for what they did not know; they punish boards for what they saw coming and failed to act on.
+
+When boards are caught unprepared, activist campaigns are costly, distracting, and destabilizing. Skadden, citing Deal Point Data, reported that in the first half of 2025, the eight US proxy contests that went to a vote cost targets $69.1 million in aggregate (and activists $45.9 million). That equates to $8.6 million per target for voted contests alone. These figures understate the actual cost: they exclude management distraction, reputational drag, delayed strategic execution, and the internal erosion of trust that often follows a public contest.
+
+Yet this does not mean that activism is necessarily “bad.” Activism most often emerges where shareholders believe value creation has stalled, accountability has softened, or governance has failed to keep pace with strategy. Activists frequently act as accelerants, forcing change that boards may privately acknowledge but have not yet actioned. As one prominent activist investor put it privately,
+
+“We don’t start campaigns where boards are clearly engaged, self-critical, and moving. We start them where drift is visible, and accountability feels performative.”
+
+So the real question for boards is whether they are prepared to credibly demonstrate long-term value creation before an activist forces the issue.
+
+At its core, that preparation begins with board self-awareness. What boards are aware of, they can anticipate, influence, and govern. What they are unaware of—whether blind spots in composition, stale assumptions, or misaligned oversight—quietly governs them instead. In this sense, self-awareness is not a soft virtue of good governance; it is the foundation of board control and agency.
+
+Start with demonstrating value creation, not playing defense
+
+The most effective way to mitigate an activist campaign—and the associated costs, distraction, and loss of productivity—is not to perfect the response playbook. It is to reduce vulnerability long before a campaign emerges. In our experience, one ounce of governance prevention truly is worth a pound of cure. That prevention begins with a rigorous, forward-looking board vulnerability assessment, grounded not in how the board perceives itself, but in how a sophisticated activist would assess the company today.
+
+1. Assume the activist’s seat
+
+One of the most powerful exercises a board can undertake is deceptively simple: write the activist letter to yourself. Assume the role of a credible, well-capitalized shareholder—often the CEO or audit committee will charge the CFO with taking this role. Where would you press? What questions would you ask publicly? What data would you cite to challenge board composition, oversight rigor, or pace of change?
+
+If the exercise feels uncomfortable, that discomfort is diagnostic. Activists thrive on the questions boards postponed, softened, or assumed would never be asked aloud. This exercise reframes the conversation from “Are we doing our best?” to “Can we defend our decisions with clarity, evidence, and confidence?” The best boards, along with the smartest CEOs, have made the activist a permanent internal function.
+
+2. Conduct a true vulnerability diagnostic
+
+Knowing their context, best-in-class boards then move on to conduct comprehensive vulnerability assessments, including whether:
+
+● Board composition and skills are aligned to the future strategy, not the legacy business.1
+● Tenure and refreshment practices are defensible to peers and proxy advisors.
+● Leadership succession planning for the CEO and the executive team is credible, visible, and proactive rather than opaque and reactive; often, leading companies will report their practices in their proxies.
+● Performance is aligned with shareholder value expectations and stated growth plans, including TSR versus peers, and with a clear explanation of drivers.
+● Governance benchmarks and practices are aligned with evolving market norms.
+
+This is not a backward-looking compliance exercise. The objective is a forward-looking diagnostic of the board’s capacity to steward long-term value creation.
+
+Prevention always feels optional until the moment it is no longer available.
+
+Seven board blind spots activists look for first
+
+Activists do not start with emotion. They start with pattern recognition and data gaps.
+
+They look first for:
+
+● Underperformance relative to peers across time horizons
+● Stagnant board composition misaligned with strategy
+● Long tenures without a defensible refreshment logic
+● Weak or opaque succession planning
+● Inconsistent messaging across earnings calls, proxies, and investor decks
+● Boards relying on management-curated metrics rather than independent diagnostics
+● KPIs that obscure segment-level economics, capital efficiency, or ROIC
+
+If activists can see these gaps from the outside, proxy advisors and institutional investors eventually will as well.
+
+3. Demand the right data—not just more data
+
+One of the most underappreciated sources of activist vulnerability is information asymmetry between management and the board. Boards are only as effective as the data they receive, and in many organizations, information is curated. Not maliciously, but structurally. Management teams naturally present data that supports the strategic narrative they are executing. Over time, this can narrow or distort the aperture through which boards see the business.
+
+Sophisticated activists understand this. They often arrive with a sharper, more disaggregated view of performance than the board itself—having triangulated public filings, segment economics, peer benchmarks (most important is TSR relative to peers, with a robust understanding of how value is being created), incentive structures, and capital allocation outcomes.
+
+High-performing boards, too, insist on decision-grade insight (instead of dashboards designed to reassure) and metrics that reveal where value is truly being created. In a context in which macroeconomic conditions and technology continue to change rapidly, boards can’t rely on traditional metrics; getting the most useful insight requires the full group of directors to consider what is most relevant based on the full range of their recent experience.
+
+That starts with directors who are intellectually demanding and constructively skeptical—directors who test assumptions, probe uncomfortable edges with kindness, and insist on clarity before consensus, resisting the comfort of people pleasing. As Warren Buffett once observed, boards need fewer “cocker spaniels” and more “Doberman pinschers.”
+
+4. Strengthen the value creation narrative
+
+Activist campaigns often gain traction not because boards lack strategy, but because they lack a compelling, credible story that explains how governance, leadership, and capital allocation come together to create long-term value. In the absence of a clear narrative, facts remain fragmented—and fragments invite reinterpretation. The most effective boards understand that value creation is not self-evident; it must be told. And not as spin or slogan, but as a disciplined, evidence-based story that answers the questions sophisticated shareholders are already asking: Why this board? Why this strategy? Why this leadership team? Why now?
+
+The strongest value-creation narratives share three defining qualities: coherence, which explains how the pieces of the strategy all fit; credibility, which proves the story of value is real; and continuity, which ensures value creation endures. Boards that do this well can clearly articulate:
+
+● Why the current board composition—deliberately weighted toward directors with an unmistakable shareholder mindset—is fit for the strategy ahead
+● How board refreshment is continuous and intentional, not episodic or reactive
+● How leadership oversight and succession planning directly reinforce performance and resilience
+● Why this board—not an alternative slate—is best positioned to deliver durable results
+
+Crucially, the story is not static. It must be told and retold, refined as conditions evolve, and reinforced through visible actions. Many leading boards now recognize the annual proxy not merely as a compliance document, but as a strategic narrative—one that makes the board’s thinking legible to long-term owners and others interested in the company’s performance. And the most successful boards don’t rely only on annual communication; they engage shareholders early and often. When boards fail to tell their own story clearly and consistently, others will tell it for them. Activists are often most effective not because they uncover new facts, but because they assemble familiar ones into a more compelling, and more pointed, narrative.
+
+The bottom line
+
+Activism is not going away. It is becoming more frequent, more sophisticated, and more board-focused. The boards that fare best are not those with the sharpest defenses, but those that have done the hard preventive work—strengthening leadership, refreshing governance, sharpening data discipline, and clarifying how they create value over time. Franklin’s maxim endures because it is timeless and unforgiving. Prevention always feels optional until the moment it is no longer available. In today’s environment, the cost of preparation is modest. The cost of neglect is not. One ounce of prevention still applies, and in the age of activism, it remains the surest way to extinguish risk before it ever ignites.
+
+About the authors
+
+Les Csorba (lcsorba@heidrick.com) is a partner and member of the CEO & Board of Directors Practice; he is based in the Houston office.
+
+Bonnie W. Gwin (bgwin@heidrick.com) is a vice chairman and co-managing partner of the global CEO & Board of Directors Practice; she is based in the New York Office.
+
+Reference
+
+1 For more on board renewal, see "Board Monitor US 2026 | Future-focused boards: Linking renewal, alignment, and performance," Heidrick & Struggles, May 12, 2026, heidrick.com.
+
+Related Services & Industries
+
+Board Effectiveness
+
+Related Content
+
+Chief Executive Officer
+
+Route to the Top Europe 2026 | Companies are seeking experienced CEOs—but that isn’t enough
+
+As geopolitical and economic volatility accelerate and technological disruption intensifies, European boards that align CEO development with a broad range of strategic scenarios will be better positioned to navigate disruption, implement fundamental changes, and sustain performance.
+
+Boards & Governance
+
+Board Monitor US 2026 | Future-focused boards: Linking renewal, alignment, and performance
+
+Fortune 500 boards have recently placed a larger focus operational expertise and prior board experience. Some boards are finding effective ways to balance short- and long-term considerations—and overseeing stronger performance than others.
+
+Boards & Governance
+
+Board Monitor 2026: Interactive data dashboard
+
+Explore our data on the 2025 appointees to the corporate boards of the largest companies in 28 markets around the world.
+
+Leadership Development
+
+Leading in crisis: A conversation with Mark Garrett, co-founder of Glenstone Capital Partners and independent board member
+
+Mark Garrett shares how times of crisis are changing the role of the board, how boards should approach CEO succession, and what qualities make the best executive leadership.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

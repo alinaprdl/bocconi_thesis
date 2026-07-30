@@ -1,0 +1,165 @@
+The future of technology leadership
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+The future of technology leadership
+
+By
+
+Caroline Apffel,
+
+Pablo Bernad,
+
+Lars Alexander Gollenia,
+
+Chiara Lupo and
+
+Heiko Mijnarends
+
+December 2020
+
+| 8 min read
+
+Authors
+
+Caroline Apffel
+
+Paris
+
+Pablo Bernad
+
+Madrid
+
+Lars Alexander Gollenia
+
+Frankfurt
+
+Chiara Lupo
+
+Rome
+
+Heiko Mijnarends
+
+Amsterdam
+
+SectionsIn this article
+
+The onset of Covid-19 and the lockdowns that followed across the world had a profoundly disruptive effect on every business. The combined impact of a health crisis and temporary economic shutdown would have been a devastating blow a decade ago, but in 2020 most businesses were in a position to make the rapid adjustments necessary to continue operations, despite the wholesale closure of offices and other work locations.
+
+IT departments around the world rose to the challenge of ensuring business continuity, responding to the sudden crisis with speed and agility. Digital transformation programmes expected to play out over years were compressed into a few intense weeks as organizations shifted to remote working practically overnight and all business transactions took place virtually or online. Under normal circumstances such a transition would have been incredibly hard to implement, but as one CIO pointed out, “Pure necessity is a stronger driver than a clear vision.”
+
+The speed with which IT teams addressed operational challenges — such as rapidly increasing network bandwidth, upgrading security, introducing new platforms and ensuring the robustness of systems — won them many friends and new champions within the executive committee.
+
+New ways of working have brought numerous benefits, including greater efficiency. “There was a 25% increase in productivity, thanks to no commuting, fewer disturbances, better managed meetings and more respectful exchanges between colleagues who became better at listening to each other,” says Catherine Jestin, CIO of Airbus.
+
+Employees and leadership teams became convinced of the critical contribution made by IT teams who demonstrated flexibility and responsiveness in rising to the occasion. “We have never received so much appreciation for the work we do,” says Ron van Kemenade, CIO of ING. “The shift to working from home has worked well. We’ve shown that most jobs can be done from anywhere, remotely.”
+
+Download
+
+Download
+
+But the pandemic has also altered perceptions about the IT function which may have a lasting impact. Andrea Ciccolini, CIO of Amplifon, says that “Technology is pervasive across the business. This ‘revelation’ puts us at the centre of the conversation about the alignment between business and IT.” Van Kemenade agrees: “Going back 5–10 years, IT was viewed as a line item on the expense report, as a backroom function. Now, it is viewed as a strategic differentiator, which means that as a CIO you have a responsibility to influence the growth and profitability of your company; you can influence your customer’s businesses through digital channels. Now you measure IT’s success not only through internally-facing KPIs but also through business-facing KPIs.”
+
+Florian Roth, CIO of SAP, believes that the pandemic was a wake-up call for organizations that have yet to invest fully in digitization and long-term resilience. While providing a stable infrastructure and ensuring business continuity has been essential, the bigger challenge is to build an intelligent enterprise where everything is connected and data flows seamlessly for the benefit of each business line and function. “Data analytics, AI, automation, robotics — these are the game changers,” he says.
+
+How Covid-19 has changed CIOs’ leadership style
+
+Like their fellow functional leaders, CIOs have found themselves communicating with their teams in greater depth and more often than ever before. They have also become responsible for enabling connectivity across the whole enterprise and with customers and clients to keep the business afloat. Many have had to adapt their leadership style to listen more, practice empathy and become a sounding board. As managers, they have exercised their duty of care, looking after people dealing with stressful circumstances. Losing close proximity to team members has been difficult; so has making clear and tough decisions at speed, in an uncertain environment and often without the time to build consensus.
+
+What’s more, authority is no longer the effective leadership trait it once was; it is incompatible with the need to encourage entrepreneurship and innovation, and to permit failure as a learning mechanism. Uniting people around a shared sense of purpose and belonging, fostering values that promote sustainability and diversity — these are now becoming important aspects of technology leadership.
+
+Value creation
+
+CIOs are able to build on the credibility they and their teams have earned during the crisis by focusing on value creation. With the rapid roll-out of digital collaboration tools and a dramatic increase in e-commerce (to name just two examples), CIOs now have a unique opportunity to capitalize on the heightened expectations of IT and consolidate their position at the top table.
+
+One CIO is pushing his technology/IT function to look beyond “basic” omnichannel technologies in pursuit of innovation. “The CIO is no longer the junior partner, but at the heart of how we work together, how we form teams, how we share knowledge, how training is set up and rolled out.”
+
+Jay Crotts, CIO of Shell says that every major initiative is enabled by basic IT or digital technology. “Automation, enhancing production, finding reserves, reducing customer friction, innovation — it’s critical we get this right. Most people do not know how complex it is below the line to enable digital transformation.”
+
+Michael Nilles, chief digital & information officer of Henkel, says that the technology function has moved beyond enterprise IT and business process re-engineering towards digital business models — and his title bears this out. “We are looking at a completely different profile of leadership and experience where software data and analytics are at the heart of the tech function. It’s becoming part of the product. It’s a completely different game, at the heart of which are customers and the value chain. It’s important to eliminate silos separating the different tech functions,” he says.
+
+The pandemic has been the ultimate disrupter, accelerating change programmes already underway (especially legacy replacement programmes) and thrusting technology leaders into the limelight. Ben Wishart, CIO of Ahold Delhaize describes sitting in more cross-functional meetings than before, “making sure we collaborate and share and give people insights from around the company”. One of the main sources of insight emanates from technology and is likely to dominate the CIO’s role in future — data. “The main focus for investment now is building data lakes, putting tooling on the data lakes for basic analytics or advanced analytics through machine learning.”
+
+The lines between the chief information officer and chief data officer roles are becoming blurred, says Wishart. “I think in 5–10 years’ time you’ll have a CIO or a CTO alongside a chief product officer, a shift you are already starting to see. It’s really difficult to lock down what the CDO’s role is today.” This is a view echoed by many CIOs who see the role of chief product officer as embodying a collaborative approach that is essential if you are going to improve data flow, design an integrated supply chain and automate the customer journey. Marco Moretti is CIO/CTO of A2A, an Italian utility company, and also its chief digital officer responsible for digital transformation. “Sometimes IT executives think they can transform the company alone,” he says. “But digital transformation is so complex and prone to failure that it can be only achieved with the collaboration of the business innovation group, HR (for culture transformation) and business executives.”
+
+V.C. Gopalratnam, EVP and global CIO of Philips, sees the CIO becoming a pivotal figure in the future. “How do we measure the value of IT and evolve our financial systems to take care of the new business models, the monetization, the compensation models for the sales team, and so on? How do we support omnichannels, CRM, marketing automation? There’s engagement with pretty much everybody at the CXO level on different dimensions.”
+
+Over the next few years, many CIOs anticipate that the next wave of digitalization will involve greater reliance on software as a service for standardization and scalability, and more investment in automated processes. “We want to move towards an integrated management system, so that we have one portfolio, one catalogue, through which we can drive simplicity in contract management, pricing and quoting,” says V.C. Gopalratnam.
+
+Skilling up
+
+CIOs are reviewing their in-house capabilities and looking carefully at which skills they need to acquire from the outside or develop from within. The ability to deliver on the promise of existing and emerging technologies will depend entirely on how well CIOs can build and develop their teams.
+
+Most CIOs acknowledge the need to hire in expertise they may lack, for example in data science, AI, machine learning, cloud architecture, cyber-security or infrastructure. Of these, several CIOs pointed out the need to bring in experts to strengthen data security, as well the dearth of data scientists resulting in a war for talent.
+
+CIOs are keen to develop existing talent wherever possible. One CIO reports building an internal pool of resources “to develop and implement our own IT solutions so we can own our technology and be less dependent on third parties. We created a Tech Academy with e-learning modules to help this along.”
+
+What is clear is that the mindset of technology teams needs to change so that everyone is thinking not just in terms of technology and IT, but in terms of creating value, whether that means enabling the business to cut costs or to grow. Success comes from applying digital technologies to real world problems.
+
+In the quest to create a mosaic of deep expertise, it is also necessary to develop generalists who can bridge the gap between technology and the business. “You need to attract the right architects and software engineers to put the basic building blocks in place, and then have translators who can connect the technology with the interests of the business,” says Shells’ Jay Crotts. “You need a combination of road builders and city planners to succeed.” In the words of Ron van Kemenade at ING, “you need to create an environment where product owners, customer experience experts and IT leads collaborate.”
+
+Harnessing purpose and diversity
+
+At a time when digital skills are in high demand, CIOs need to be thoughtful about creating a value proposition that will not only attract the best talent into the organization but provide the motivation for existing talent to stay. Companies with a genuine and clearly articulated purpose have an advantage when it comes to winning the war for technology talent. A strong corporate purpose helps unite experts from different technology disciplines and makes it easier for them to work with other parts of the organization to achieve common business goals.
+
+Purpose and diversity are two sides of the same coin, and most IT/ technology departments have a lot of catching up to do when it comes to building truly diverse teams. CIOs increasingly consider driving improvements in diversity and inclusion as a critical part of their legacy. Their actions include holding female hackathons; investing in start-ups with diverse CEOs; working with organizations that help people with a handicap find work; setting diversity hiring targets; insisting on balanced slates; and promoting diverse candidates into leadership positions.
+
+Although the primary focus has to be addressing the glaring gender imbalance within most technology teams, this is not the only area of concern — the Black Lives Matter movement has also spurred companies to better align their workforces with the communities they serve. When it comes to fostering an inclusive environment for minorities (race, gender, educational background, sexual orientation, etc.), CIOs have a critical role to play. “It is very important that people feel included, regardless of their background,” says Florian Roth. “ We employ people from 150 countries and they must be able to be their authentic selves for the organization to function at its best. We are made stronger by our uniquely diverse workforce.” Jay Crotts acknowledges the CIO’s responsibility to get this right and take a long-term view. “This is a difficult journey that won’t be over in our lifetime,” he says. “Each of us has to recognize the role that we play. Either we’re part of the problem or part of the solution. If we’re passive and a bystander we’re part of the problem. As CIO I need to play an active role in this conversation.”
+
+Ten characteristics of the CIO of the future
+
+Modelling an attitude of continuous learning, listening attentively to stakeholders, getting the ‘outside-in view’, and understanding the customer/client journey.
+
+Communicating with empathy and understanding; articulating a clear purpose, providing vision and creating engagement across the organization.
+
+Building teams with outstanding domain knowledge and leading them through change, focusing on outcomes rather than physical presence.
+
+Acquiring outstanding diverse talent across a range of technology disciplines.
+
+Collaborating with other functions; uniting disparate factions and connecting the dots between business and IT.
+
+Being flexible enough to make rapid decisions quickly amidst uncertainty.
+
+Thinking strategically and understanding the long-term impact of technology choices.
+
+Being a business partner, challenging the status quo and focusing on value.
+
+Creating an entrepreneurial culture of innovation where people are willing to take risks and are not scared to fail.
+
+Leading through influence and persuasion rather than relying on the exercise of authority.
+
+Leading to unite
+
+Businesses will emerge from the current crisis with a greater reliance on digital technology and with heightened expectations of IT. CIOs have a unique opportunity to use their enhanced status to accelerate the path towards digitization. Their core task is to bring together people with very different specialisms and to direct their efforts towards a common strategic goal. CIOs need to listen carefully to stakeholders to understand their needs, focus on delivering value and remain agile, offering continuous improvements and changing course as market conditions change. As one CIO put it, “you need to be the chief flexibility officer”.
+
+Businesses will emerge from the current crisis with a greater reliance on digital technology and with heightened expectations of IT. CIOs have a unique opportunity to use their enhanced status to accelerate the path towards digitization. Their core task is to bring together people with very different specialisms and to direct their efforts towards a common strategic goal. CIOs need to listen carefully to stakeholders to understand their needs, focus on delivering value and remain agile, offering continuous improvements and changing course as market conditions change. As one CIO put it, “you need to be the chief flexibility officer”.
+
+Marco Barra Caracciolo, CIO of Italgas, a natural gas distributor, says that the pandemic has been a test of his resilience and adaptability and that the task ahead is to make sure those two attributes apply to both to his teams and to the services Italgas provides. “We are developing a sustainable roadmap for evolving our digital footprint, focusing on agility, resilience, collaboration and critical thinking.”
+
+Hanna Hennig, CIO of Siemens, says her job is to connect the dots: “Every individual has a piece of the technology solution in their mind, but the challenge is how to leverage all of the potential towards one goal. IT needs to get away from being seen solely as an infrastructure provider and be understood as enabling and leading digital transformation. We are now embarked upon a journey to transform the reputation of IT.”
+
+Authors
+
+Caroline Apffel
+
+Paris
+
+Pablo Bernad
+
+Madrid
+
+Lars Alexander Gollenia
+
+Frankfurt
+
+Chiara Lupo
+
+Rome
+
+Heiko Mijnarends
+
+Amsterdam

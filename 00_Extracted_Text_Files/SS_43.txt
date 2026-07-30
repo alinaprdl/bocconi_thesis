@@ -1,0 +1,154 @@
+From prompting to presence: Spotlighting AI shifts in 2026
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+From prompting to presence: Spotlighting AI shifts in 2026
+
+By
+
+Fabio Moioli
+
+January 2026
+
+| 6 min read
+
+Author
+
+Fabio Moioli
+
+Milan
+
+It takes me about an hour to drive from home to my office at Spencer Stuart in Milan. Until a year ago, that hour was mostly “dead air”: calls, podcasts and traffic.
+
+Today, when I don’t have urgent calls, it has quietly become one of the most productive moments of my day. I reason with AI by voice. I ask for market updates. I pressure-test ideas forming in the background. I explore how decisions might play out. Sometimes, I even structure entire articles, shaping arguments and conclusions while navigating traffic in Milan, as I did while shaping this article.
+
+No keyboard. No screen. No friction.
+
+This experience — frictionless, non-linear, and deeply productive — made something clear to me that the industry is only just beginning to articulate: The defining shift of
+2026 will not be about model intelligence. It will be about interfaces.
+
+For three years (2022–2025), we often equated “using AI” with “prompt engineering.” We often trained people to treat AI like an oracle in a cave: approach the text box, ask the right question, wait for the answer. That era is ending. In 2026, we are moving from prompting to presence.
+
+Quote
+
+We often trained people to treat AI like an oracle in a cave: approach the text box, ask the right question, wait for the answer. That era is ending. In 2026, we are moving from prompting to presence.”
+
+These developments are not necessarily the most groundbreaking AI technology announcements we will see in 2026. They are, instead, signals of something more subtle but arguably more important: how AI will be increasingly adopted by leaders and organisations in the next 12 months — less about what AI could do in theory, and more about what people may choose to do with it in practice.
+
+And in the end, that is where real transformation begins.
+
+The topology of thought
+
+The most underappreciated limiting factor to artificial general intelligence-level productivity is human typing speed. We are not limited by our intelligence. We are limited by our fingers.
+
+Typing is not a neutral act. It forces premature structure. To type, you must serialise your thoughts — one word following another in a logical chain. This activates the brain’s analytical centres but often dampens the associative networks where creativity lives. You edit before you finish thinking.
+
+Voice changes the topology of thought. It allows for exploration, contradiction, and recursive logic. It mirrors how senior leaders actually reason: non-linearly, often while moving. While I’m driving, I’ve found that oral reasoning with AI allows me to hold contradictory ideas in tension longer than I can on a page. The keyboard acts as a cognitive filter; the microphone acts as a cognitive expander.
+
+The “ear” as the new platform
+
+If voice is the software of this 2026 revolution, the earbud will be its hardware. One of the most significant, yet overlooked, signals of 2025 is the aggressive pivot by hardware giants to turn headphones into primary computing platforms.
+
+Apple has quietly repositioned the AirPods lineup from an audio accessory to a “health and intelligence” interface. By 2026, the integration of advanced conversational models directly into AirPods will mean that for millions of professionals, the primary AI interface is no longer a screen — it is a voice in their ear.
+
+This is not limited to Apple. Google's Pixel Buds and Samsung's Galaxy Buds are following suit, creating an ecosystem of “interruptible,” free-flowing conversations. You don't issue commands; you brainstorm.
+
+The implication for business is the rise of “heads-up”  computing. Leaders can now access intelligence, recall CRM data, or translate negotiations without breaking eye contact or looking down at a screen. The ear has become the first true layer of ambient reality.
+
+The rise of Agentic AI: from note-taker to participant
+
+While voice changes how we input thoughts, Agentic AI changes who is in the meeting.
+Between 2022 and 2025, AI in meetings was passive. It recorded, transcribed, and summarised. In 2026, AI becomes an active participant.
+
+Quote
+
+While voice changes how we input thoughts, Agentic AI changes who is in the meeting. Between 2022 and 2025, AI in meetings was passive. It recorded, transcribed, and summarised. In 2026, AI becomes an active participant.”
+
+We are seeing the emergence of agents that “sit”  in video calls not to take notes, but to reason in real-time. Triggered by the context of the conversation, they will proactively:
+
+Surface contradictions: “Excuse me, that timeline conflicts with the supply chain update from Tuesday.”
+
+Model scenarios: “If we approve this budget, our Q3 variance will exceed the 5% threshold defined last month.”
+
+Enforce governance: “This decision requires sign-off from legal before proceeding.”
+
+This is not a chatbot you query in a sidebar. It is an embedded logic layer that “listens” for business triggers and acts without waiting for a prompt.
+
+The invisible trend: content for machines
+
+One of the most consequential shifts of 2026 will be invisible to end consumers. Companies and media organisations will begin creating content targeted at AI, not humans.
+
+Humans skim: We read titles, first paragraphs, and bolded text.
+
+AI reads everything: It processes footnotes, appendices, and dense technical documentation.
+
+SEO (search engine optimisation) was about ranking for human eyes. The new game is AIO (agent optimisation). In 2026, if your company's strategy, pricing, and reputation are not "machine-legible" — structured in clear logic, data tables, and explicit semantic chains — you effectively do not exist to the AI agents making recommendations. A marketing strategy that ignores AIO is a strategy that ignores the gatekeepers of the future economy.
+
+The interface lag: glasses vs. screens
+
+As voice and agents take over, the smartphone begins to feel like an awkward intermediary. While 2026 will not be the year the smartphone dies, it is the year the smart glasses trend begins to rise for real.
+
+The "earable" trend mentioned above is the gateway to the "wearable" visual future. For a while, glasses will remain companion devices. But as AI becomes ambient — whispering in our ear via AirPods, seeing what we see via cameras — the need to look down at a six-inch rectangle to access intelligence will start to feel archaic. We likely won't see full maturity until 2030, but the tech leaders of 2026 will be already experimenting with workflows where intelligence is overlayed on the real world, not trapped behind glass.
+
+The new framework: thresholds of autonomy
+
+As interfaces become fluid and AI models gain "continuity of reasoning," we face a new economic reality: When output is cheap, judgment becomes expensive.
+
+In 2026, the question is no longer "Can AI do this?" It is "Are we comfortable letting AI decide this?" Leaders will need to formalise decision rights. We are moving towards a Threshold of Autonomy framework with four distinct zones:
+
+Zero-touch zones: Decisions AI makes and executes instantly (e.g., replenishing standard inventory).
+
+Audit zones: Decisions AI makes, but humans review in aggregate batches weekly (e.g., initial candidate screening).
+
+Human-in-the-loop zones: Decisions AI structures, but a human must explicitly approve (e.g., sending a contract).
+
+Human-only zones: High-stakes strategy, empathy, and negotiation.
+
+The competitive advantage in 2026 may go to companies that aggressively move decisions from zone three to zone one, accepting a calculated error rate in exchange for massive velocity.
+
+The manager’s new role: managing meaning
+
+This shift will hollow out the middle of traditional hierarchies. Layers built primarily around reporting, supervision, and “checking the work” are losing their rationale.
+Operational control is becoming automated. What remains distinctly human is judgment, prioritisation, and sense-making.
+
+The future manager will not manage spreadsheets; they will manage meaning. They will be valued for their ability to spot anomalies the AI missed, to coach humans on the “why” behind a strategy, and to handle escalations that require empathy. AI exposes leaders who avoid decisions. If your primary value was routing information, you are obsolete. If your value is discernment, you are essential.
+
+In the end, AI advantage in 2026 will not belong to the organisations with the best models, but to those willing to redesign how decisions are made, owned, and executed. That is not a technological shift. It is a leadership choice.
+
+AI is no longer a technology question. It is an operating model choice.
+
+Author
+
+Fabio Moioli
+
+Milan
+
+Related Insights
+
+AI as a powerful accelerant: Combining technology with culture in product management
+
+October 2025
+
+6 min read
+
+Oliver Ridley tells Veena Marr why integrating AI with cultural adaptability in product management is essential for navigating the evolving business landscape and driving innovation.
+
+How leaders can thrive in the age of AI
+
+June 2025
+
+6 min read
+
+We consider how traditional leadership skills are being rethought, renewed and reconfigured in a world reshaped by AI.
+
+Why AI won't kill professional services — it will fracture them
+
+November 2025
+
+5 min read
+
+AI will not eliminate professional services but will fundamentally reshape them by automating routine tasks and amplifying the irreplaceable value of human judgment, trust, and relationships.

@@ -1,0 +1,220 @@
+Building a digital culture | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Building a digital culture
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Organizational Culture Building a digital culture
+
+In digital transformations, technology and processes are typically the focus, but companies overlook culture at their peril.
+
+Digital technologies can make organizations faster, smarter, and better at what they do. Executives widely acknowledge the promise of digital, yet the majority of digital transformations fail—and not just because of challenges with adopting new technologies or finding the right know-how. How people work together to transform the organization is critical.
+
+Indeed, companies with ambitious digital aspirations are often hobbled by attributes such as resistance to change, lack of knowledge sharing, and risk aversion. These behaviors can impede change in any situation, but they are especially harmful to digital transformations, given the pace of technological advances. Therefore, unlocking an organization’s full potential requires a shift in mind-set to embrace the speed and agility made possible by digital technologies. In our experience, organizations succeed best with digital transformations when they match any investments in technology with a commitment to reshape the culture.
+
+Recent research we have conducted, however, indicates just how badly companies are faltering. We assessed 12 factors central to digital transformation that are also part of our larger framework for accelerating corporate performance, which we summarize as the ability to mobilize, execute, and transform with agility, or META.1  Our initial research found that companies are particularly trailing on the factors related to culture. For example, having an adaptive culture—critical to enabling a two-speed organization that can effectively digitize the current business while incubating digital innovations for the future—was rated by executives as second lowest among all 12 factors.2
+
+How should companies address their cultural weaknesses to unlock the promise of digital? By starting with an understanding of where their company falls along the journey to digital acceleration, executives can determine in which areas they should invest time and resources—and how—at each stage to build a fully digital culture. Companies can follow a proven culture-shaping process to cultivate a more digitally innovative organization, with a workforce that can thrive under the tension of being a two-speed business continually reinventing itself.
+
+Pursuing digital acceleration
+
+Across industries, companies are scrambling to become more digital. Heidrick & Struggles refers to this process as “digital acceleration”—an organization’s ability to effectively deploy new technologies to incubate new digital offerings, achieve efficiencies in the operating model, enhance the customer experience, and enable new ways of working across the business. We’ve defined five levels of acceleration.
+
+Digital acceleration, as much as overall performance acceleration, goes best when companies are strong in all four elements of META—mobilizing, executing, and transforming with agility. The right culture underlies success in all of the framework’s elements (see sidebar, “META, culture, and digital acceleration”). Yet CIOs and chief digital officers typically focus first on dialing in their strategy. They also set aside significant funding to gain insights from industry experts on the most important elements for digital acceleration. Next, they budget for the structural changes required, including reorganizations, process reengineering, and systems installation or configurations. Once these pieces are in place, executives may feel as if acceleration is guaranteed. Yet one study shows that as much as 84% of digital transformation efforts are ultimately deemed unsuccessful, with culture being a critical barrier.3
+
+So it’s particularly striking that our recent research found that companies are performing poorly on all three of the META factors directly related to a healthy digital culture: adaptive culture, speed to innovate, and process adaptation.
+
+Organizations scoring poorly on these three factors can see their ambitious plans for digitization chewed up in what we call the “jaws of culture,” dysfunctional cultural habits such as resistance to change, passive-aggressive attitudes, and working in silos. These everyday patterns of behavior can become so ingrained and automatic that employees rarely question them, but such behaviors are the antithesis of a healthy digital culture.
+
+Many companies have seen their attempted digital transformations held back by similar challenges—and have overcome them. A large technology company, for example, was seeking to pivot from a lean, risk-averse culture to an agile one, with an emphasis on speed and a willingness to fail fast and learn. The senior team, led by the CIO, created a strategy to restructure the organization, including new job profiles and processes. Twelve months after completing the reorganization, the company, far from accelerating, was falling further and further behind key milestones.
+
+The CIO’s increasing frustration with the lack of progress led to a reevaluation by senior management, which identified legacy mind-sets as the root cause of underperformance. For example, the organization was still focused on efficiency instead of innovation and growth, and business units had become closed off rather than collaborating and developing shared frameworks. The restructuring had also caused a great deal of fear, so the team lacked the necessary accountability to translate the plan into reality.
+
+The CIO and senior team worked to “unfreeze” old habits and define the ideal culture. Within a few weeks, the top 150 leaders were more engaged. Several weeks later, senior management kicked off a communications campaign and regular “culture conversations” using key symbols, such as familiar aspects of the company that needed to change, and stories to help the organization begin to move forward. These efforts helped to cascade the “unfreezing” experiences throughout the global IT organization. At that point, the CIO was able to get the transformation back on track and then gain speed and momentum.
+
+Four tactics to accelerate culture change
+
+Once executives recognize the importance of culture to digital acceleration, they must invest in a sustained effort to embed the desired mind-sets across the organization. Four principles should guide the establishment of a digital culture, in our experience. Some of these are more important in some stages of the digital acceleration journey than others.
+
+Commit to purposeful leadership
+
+The CEO and senior leaders must own and lead the culture-shaping process. Since leaders cast a powerful shadow of their own behavior on the organization, they should explicitly define the culture the organization needs and demonstrate the corresponding values and behaviors. To inspire a thriving digital culture, employees need a clear business rationale for embracing both new technologies and new ways of working. This rationale typically includes a renewed focus on the customer, a pivot to growth, and responses to disruption, in our experience. Once employees can see a clear and compelling case for change and the senior team behaving in ways that support the change, they tend to follow, especially if the entire effort is supported by resources and a systematic execution plan.
+
+A large shipping company’s CIO, for example, found himself leading a large IT and sales organization that was supporting multiple large and siloed business units. A crucial step toward digital acceleration was to get his distributed team of tens of thousands of people to collaborate effectively and share knowledge with one another and business unit leaders. The CIO used a clear and compelling purpose statement that reached beyond business goals to highlight the organization’s commitment to its people and customers. This inspired senior managers to support and model the new behaviors.
+
+Support personal change
+
+Cultures exist in the mind-sets of individuals, teams, and, ultimately, the organization. The only way to transform a culture is through individual change. Once leaders have recognized how their personal actions are shaping the strengths and challenges in the culture, success comes when they commit personally to making small changes. Once the extended team sees this growth mind-set, they quickly follow suit. This understanding often occurs on an emotional rather than an intellectual level, so the most effective approaches involve insight-based learning, which is best accomplished in natural work teams.
+
+For example, one long-tenured Fortune 500 CEO kicked off his retail organization’s culture-shaping process by stating that he realized that he should be taking more accountability for business outcomes. He explained, “Before this process, I told analysts that the main reason we missed our revenue targets was the lack of a seasonal weather shift in key markets. During this insight-based learning process, I realized that all of my competitors had the same weather.” By making such a public acknowledgement of his insights and his clear desire to improve, the CEO inspired the top 250 leaders at the company to make their own commitment to examine their own behaviors. This new level of personal accountability propelled the company forward by creating a safe space for people to take risks.
+
+Promote broad engagement with energy, momentum, and critical mass
+
+Even with the best leadership examples, though, culture shaping can too often remain focused at the top of an organization, while the middle layer of executives prevents culture-change efforts from reaching those closest to the customer or operations. Organizations often have entrenched thinking that acts as an antibody to change. For example, a general lack of trust can translate into skepticism that the culture-shaping process will make a difference. So while generating the positive energy at the top is critical, ensuring this energy is diffused quickly through the entire organization can tip an organization to its ideal culture. Tactics that are very helpful, in our experience, are video testimonials from senior leaders about the value culture change will create and their personal commitment to it, along with discussions on these concepts held in work teams and led by team supervisors.
+
+The benefits of engaging with employees at all levels can be surprisingly significant. At one financial services institution with more than 30,000 employees, for instance, during an organization-wide culture-shaping initiative, a security guard (with 20 years of experience at the company) became increasingly curious about how each department could improve performance. By asking questions and observing potential innovations, he ultimately submitted 146 ideas for growth, more than from any other person in the company. Currently, 44 of his ideas are pending US patent approval.
+
+Pursue focused sustainability
+
+Whether a company’s digital culture is budding or fully developed, it’s crucial for leaders at all levels to systematically reinforce it at the individual, team, and organization levels. Companies must implement institutional practices, systems, performance drivers, and capabilities to support the desired culture, from internal communications and training to measurement and performance incentives.
+
+One large technology company, for example, quickly identified disparities between its legacy performance review process, including incentives for individuals who adhered to controllable standards, and the culture it was trying to promote. Since the new culture emphasized teamwork and innovation, the company redesigned the whole performance management process to reward new ideas, the development and implementation of best practices, and team-based achievements. With this structure in place, the company achieved a remarkable acceleration in its digital culture.
+
+Aligning digital maturity and culture shaping
+
+In the early stages of digital acceleration—embarking and evolving—organizations typically struggle with a lack of a clear vision and disconnected efforts to embed digital ways of thinking and working in the mind-sets of employees. In our experience, a successful transformation must start by mobilizing employees throughout the organization. A commitment to personal leadership at the top combined with broad engagement across the organization is critical to break down silos and forge connections that can rally the workforce around a common vision for digital transformation.
+
+As companies make progress in their digital journeys, the nature of the challenge evolves. An organization that is digitally steady has not only built momentum for a digital transformation but also started to see signs of collaboration across departments and functions. Embedding change, effectively making digital a part of the organizational DNA, requires a significant level of commitment from senior leaders, other managers, and frontline workers. Promoting personal change on an individual level happens gradually, often by modeling the desired behaviors and reinforcing them in individual work teams. By encouraging change on the individual level, companies can create evangelists for a digital culture who are the lifeblood of long-term initiatives.
+
+By the time a company has reached the digitally advancing stage, it has many of the foundational elements of a digital culture in place. Such organizations no longer have to make drastic course corrections; instead, their focus is on the sustainability of their culture. Programs that reinforce values and culture, from onboarding for new hires to regular training and incentives for experienced employees, can keep a company on track to ultimately become fully digitally accelerated.
+
+*** In the rush to charge ahead on digital transformation efforts, culture is often an afterthought. However, the pitfalls of failing to shape a digital-ready culture will result in a stalled organization unable to accelerate to keep pace with digital disruption—let alone to become a disruptor. We see that companies that commit to a deliberate, focused culture-shaping effort aligned with their digital ambition and level of digital acceleration—and undertake that effort in parallel with technological and structural changes—will have a significant advantage in beating the odds on digital transformation.
+
+Sidebar: META, culture, and digital acceleration
+
+Here we present examples that illustrate how companies are using each element of META to accelerate their digital journeys.
+
+MobilizeTo engage employees at all levels of the organization, senior managers must define and communicate a clear digital ambition supported by a sense of purpose about how investments in digital technologies can enable the pursuit of big ideas. These aspirations can be articulated as the development of disruptive products or business models, a step change in customer engagement, or a positive impact on society.
+GM, for example, has had a long history of innovation, but its bailout by the US government in the wake of the global financial crisis caused the automaker’s leaders to reevaluate the company’s business strategy and investments in digital technologies. CEO Mary Barra crafted a path forward for the company focused on technological innovation, including electric and autonomous driving technologies and ride sharing. Such moves transformed GM from a traditional incumbent carmaker to an industry disruptor, with employees excited about taking on well-funded tech-enabled car companies.
+ExecuteDigital technologies and data can empower employees and teams to be more efficient, improve decision making, and help innovate the current business. These “little i” innovations, and the engagement that comes with them, are the key to continuous improvements that can help organizations become more productive over the long term.
+The transformation of The Weather Channel (TWC) from a struggling media business to a data-driven insights company owes much of its success to execution. TWC recognized that it needed to augment its data sets and acquired Weather Underground, in part for its crowdsourced microclimate data. Leaders then took on the task of consolidating its 13 data centers into one cloud-based data infrastructure, fueling a step-change reduction in transaction costs for supporting partners through application programming interfaces.
+TransformCompanies that foster “big I” innovations—ambitious ideas that go beyond an organization’s core business and adjacent businesses—can reinvent the future business and chart a clear route to transformation. However, they must make a significant organizational commitment, devote resources, and establish clear pathways to achieve such breakthrough innovation.
+Cisco CEO John Chambers designated three executives to champion new ideas through an Emerging Solutions Council, a novel approach to promoting “big I” innovations. A critical ingredient in the recipe: rules that exempted promising inventions from legacy standard operating procedures and entrenched ways of working that could curtail momentum. This structure helped to energize intrapreneurs to rapidly experiment, validate, and launch new internal ventures without the burden of excessive administrative friction, leading to the development of solutions such as Cisco’s TelePresence and Wireless Networking.
+AgilityThe rapid pace of change requires companies to continually adapt their strategies for digital success. To develop agility, companies must prioritize a test-and-learn mentality, adaptability, and resilience. The most agile organizations exhibit a high degree of openness and flexibility as well as a supportive environment.
+Penn Medicine stands out as an example of how a digital culture supports new ways of working. The school created multidisciplinary teams of clinicians, business experts, technologists, and data scientists and emphasized agility—stand up pilots quickly, obtain real-world feedback, and iterate toward a breakthrough solution. This approach enabled the teams to use technology to make significant gains in reducing costs and improving efficiency across healthcare operations.
+Together, the four elements of META form the backbone for digital acceleration. Companies that are able to excel in all four will be well positioned to harness digital technologies to achieve sustained business impact.
+
+About the authors
+
+Chad Carr (ccarr@heidrick.com) is a partner in Heidrick & Struggles’ Costa Mesa office and a member of Heidrick Consulting.
+
+Scott Snyder (ssnyder@heidrick.com) is the leader of Heidrick Consulting’s digital offering and a partner in the Philadelphia office. He is a senior fellow at the Wharton School at the University of Pennsylvania and the coauthor of Goliath’s Revenge.
+
+The authors wish to thank Yulia Barnakova and Sherry Duda for their contributions to this article.
+
+References
+
+1 For more on the development of the META framework, see Ruben Hillar, Colin Price, Sharon Toye, and David Turnbull, Accelerating performance, Heidrick & Struggles, January 2017.
+
+2 This initial research consists of responses to our Digital Acceleration Questionnaire from 135 executives. We are continuing to assess more companies on these factors.
+
+3 Bruce Rogers, “Why 84% of companies fail at digital transformation,” Forbes, January 7, 2016.
+
+Related Services & Industries
+
+AI & Technology Officers
+
+Technology
+
+Related Content
+
+Social Impact
+
+Beyond the stage: An interview with Professor Anna CY Chan, director of The Hong Kong Academy for Performing Arts
+
+In this interview, Professor Anna CY Chan, director of The Hong Kong Academy for Performing Arts (HKAPA), shares how her journey as a professional dancer has shaped her dynamic and inspiring leadership style. She discusses the challenges and opportunities in performing arts education, the Academy’s commitment to creating social impact, and her passionate vision for cultivating the next generation of performing arts leaders.
+
+Leadership Development
+
+Leadership, breaking through, and the value of communications: An interview with Sally Susman, chief corporate affairs officer of Pfizer
+
+Sally Susman shares her insights on what skills are most important as a leader, particularly a communications leader, as well as the value in humanity, humility, and humor.
+
+Supply Chain & Operations Officers
+
+How AI is delivering value in an integrated supply chain: A conversation with James Borzi, EVP and chief supply chain officer at Baxter International
+
+James Borzi shares how he sees AI continuing to optimize the healthcare supply chain; and what it means to him as a leader to lead in an AI-enabled world.
+
+Human Resources Officers
+
+Retail focus: How chief people officers are addressing constant transformation
+
+Conversations with CPOs at leading US retailers highlight the current challenges in the sector’s ongoing transformation, and four areas where CPOs are mobilizing to ensure their companies have the leaders they need.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

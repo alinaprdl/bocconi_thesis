@@ -1,0 +1,121 @@
+A Veteran Leader Tries Something New… and Finds Success
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+A Veteran Leader Tries Something New… and Finds Success
+
+An interview with Nikesh Arora, CEO of Palo Alto Networks
+
+By
+
+Jason Hancock
+
+January 2024
+
+| 6 min read
+
+Author
+
+Jason Hancock
+
+Stamford
+
+When Nikesh Arora arrived at Palo Alto Networks in 2018 to be its new chair and CEO, he had already had a long and dynamic career as a leading executive at top companies including Google and SoftBank. But he had never worked in the cybersecurity industry. So, to succeed, he leaned into what he did know — and what he didn’t.
+
+“If you don’t have domain expertise, then it’s critical that the other skills you bring to the table are world-class,” Arora said.
+
+For Palo Alto, those world-class skills have indeed been a pathway to success as the company emerged as the world’s leading cybersecurity company. Arora guided a transformation that enabled Palo Alto to become the partner of choice for enterprises in a digital world in which cybersecurity concerns are only increasing. To learn more about his insights on leadership, his formula for success in a new industry, and his outlook on the evolving technology and cybersecurity landscapes, Spencer Stuart’s Jason Hancock sat down with Nikesh for a conversation. The conversation below has been edited for clarity and brevity.
+
+Jason Hancock: Talk a little bit about your leadership style. How has it evolved over the years? And how do you see it evolving going forward?
+
+Nikesh Arora: When we start off in our careers, we’re all task-oriented and achievement-oriented. We spend time getting stuff done very well. Then we get our first set of management roles, where our goal is to see if we can build a highly efficient machine across a larger group of people, whether 10 or 100, and we aim to deliver outcomes at the same high standards and capability that we had individually. But the higher you get, the more you learn that there's a lot more you have to deliver as a leader.
+
+Great outcomes require a multitude of behaviors. You have to think about the team, the team’s dynamics, the team’s quality, the team’s diversity and the motivations of the individuals both inside and outside of the professional context. You have to lead in the context of the people: How do you make them comfortable, excited, and motivated at the same time, to consistently deliver strong outcomes over a long period of time?
+
+You also have to know your human side. Your people need to know you’re with them and you'll be behind them when they need it. The pandemic was a big wake-up call for all leaders in this regard. People were more insecure about what was happening and what it would mean for them, and we had to make sure they knew we had their backs.
+
+Quote
+
+I’d rather be boring and consistent than creative and constantly mercurial.”
+
+From that perspective, I can look back at the 50-to-100-person employee meetings I started during the pandemic, where I encourage people to tell me what they’re thinking about the company, ask me questions, and tell me what’s going on in their lives. And I still do one or two a week — at this point I’ve probably rotated through 7,000 employees at these meetings. I think that the first few times people thought, "Oh God, this guy's just doing this because he wants to be seen as somebody who cares." But three and a half years later, 7,000 employees later, they have actually seen actions as a consequence of what they tell me, or if action wasn’t taken, they’ve heard from someone to explain why something can’t happen.
+
+The key thing here: consistency matters. I think it’s one of the most underappreciated elements of leadership. If you’re a mercurial leader who changes his mind on a dime, who behaves unpredictably, or no one is ever sure how you’re going to land on any issue, after a while people end up in two different scenarios. One is that they have to get your approval for every single decision: "Tell me what you think because I never know which way you're going to land." In this case everything gets stuck and the leader is a clog. Or alternately they get scared. They pause and they avoid you because you’re inconsistent and no one ever has any idea whether you’re going to like their suggestion. They don't want the trauma.
+
+That’s why consistency is extremely important in leadership, whether it's in marketing or branding or in reflecting the values of a company. I’d rather be boring and consistent than creative and constantly mercurial.
+
+Jason Hancock: Tell us a little a bit about your transition to Palo Alto Networks. Obviously, you had knowledge of how it worked, but you hadn’t had the hands-on experience working with a company like that.
+
+Nikesh Arora: First off, Jason, let’s not confuse ourselves. I had no idea how this worked.
+
+So how do you take a job where you have no idea of the core domain of that business? Why would you, first of all, take it? And then why would you believe you would be successful there? How do you actually create success in that scenario?
+
+Looking at it from that perspective, I've always maintained, personally, that I want a scenario where I bring 50% of my skills from my last job, and the other 50% I want to learn in the new job. Otherwise, I'm going to be bored out of my brain, and I'm just not good when I'm bored. I can be consistent, but I don't want to be bored. So, from that perspective, this for sure fit the bill because I had no idea how this domain operated.
+
+One thing that helped me in this job was I'm a first-principal thinker. I said, “Let's analyze Palo Alto Networks in the context of its industry, where it fits in the technology stack, and how it relates to other companies that do similar things.” I wanted us to challenge all of our assumptions.
+
+Quote
+
+I want a scenario where I bring 50% of my skills from my last job, and the other 50% I want to learn in the new job.”
+
+I discovered that cybersecurity, for whatever reason, was the most fragmented industry among the technology sub-sectors. Every other sub-sector has large players and medium players and small players, but cybersecurity only had small players across the board. Companies would get to a point and plateau. One other important fact is that cybersecurity is the most innovative industry in technology. Every time you fix a problem, there’s a bad guy trying to figure out another way to invade your business.
+
+So why was a cyber technology company stalling in its growth? Why were they either dying or instead getting consumed by a larger organization and then ultimately disintegrating? Looking at it from that vantage point, it was clear that at some point cybersecurity firms stopped innovating.
+
+Early in my professional life working at Google, I had the privilege of hanging around [founder] Larry [Page]. He basically said, "You're a good sales guy, but you don't matter. The only thing that matters is product." It was a healthy, humbling upbringing in the technology sector: 10 years where I didn't quite matter but was nice to have around. I made sure to bring that lesson along with me to Palo Alto.
+
+When I looked at it, Palo Alto hadn't been investing in R&D. We had built a great firewall, but the last major innovation we had launched was four years before I joined. Looking at this in the context of the broader cybersecurity sector, this was an important lesson. We needed to keep innovating.
+
+Another lesson from my earlier days at Google was that it’s important to solve for the future, not for the past. When we focus on product, let's figure out where the puck is going, and not worry so much about the dog's breakfast we have in front of us.
+
+The third lesson is about innovation. Sometimes it’s worth the investment to try to build it yourself, and you figure out yourself how to do something; other times, however, all you learn is how not to do it. It can take years to make a great product, and I didn’t have years. What I learned that you have to respect other people's innovations as much as your own. Don’t get too proud about the fact that you didn't build it. At Palo Alto we decided we're going to focus on product, we're going to build for the future, and we’re not going to be shy about acquiring if needed.
+
+Quote
+
+[AI] is a pivotal piece of technology, and I don’t think we understand yet the impact it's going to have on our lives.”
+
+Jason Hancock: Tell us a little bit about your thoughts on AI, both in terms of the impact on business as a whole, and on Palo Alto specifically, and what you're doing about it.
+
+Nikesh Arora: I'll give you some context of what kind of impact I think AI will make. When I graduated from school in 1989, I wrote a computer code; my phone today has something like 10,000 times the computing power my code had 30-some years ago. Now imagine what AI is today, where you can now see the early semblance of being able to have a natural-language conversation backed large amount of data and imagine what it could do in five or 10 years — let alone 30. From that perspective, I think it is a pivotal piece of technology, and I don’t think we understand yet the impact it's going to have on our lives.
+
+I would say what you’re seeing today are just the short-term, early impacts of AI. As we get smarter about it, smarter about putting data together, you’re going to start seeing tremendous productivity improvements in the next three to five years. A lot of jobs will become about how to manage AI.
+
+Jason Hancock: While acting as CEO of a highly successful company, you also you sit on the board. How do you see your relationship with your board evolving throughout your tenure?
+
+Nikesh Arora: My board structure is very functional, very expertise oriented. I end up talking to my board members multiple times a quarter outside of the board meetings. I probably talk to my lead director twice a week — it’s helpful because he’s retired now — and he gives me both M&A expertise and VC expertise in one corridor. I use my board for functional areas. One is a banker and a lawyer, and I send any M&A issues to her. My marketing candidates interview with the marketing expert on my board; when we run into a thorny problem, I send them to her. I tell my directors, “Listen, I'm going to expect you to spend 10 hours a quarter on my team. I promise I won't abuse the 10 hours, but it’s more useful than you just showing up at a board meeting.” So, I use my 10 hours.
+
+So yes, I have an eclectic board, but they're all hand-selected and they're all wonderful people.
+
+Author
+
+Jason Hancock
+
+Stamford
+
+Related Insights
+
+Maintaining the Start-Up Spark at a 55,000-Employee Company
+
+November 2023
+
+8 min read
+
+Arkadiy Dobkin, founder and CEO of EPAM Systems, discusses his company’s unique leadership challenges, from navigating the past two years to his firm’s exponential growth from tiny start-up to global digital transformation services giant.
+
+“The Journey of a Lifetime”: HPE’s CEO on the Art of Leadership
+
+October 2023
+
+Spencer Stuart’s Jason Hancock recently sat down with Neri to discuss his unique rise from junior employee to CEO, and the elements of leadership that guide him as leader.
+
+With a Clear Strategy and Open Communication, a Software Leader Drives Sustainable Growth
+
+July 2023
+
+7 min read
+
+Barak Eilam, CEO of the cloud enterprise software company NICE, shares his insights on leading his successful and rapidly growing company.

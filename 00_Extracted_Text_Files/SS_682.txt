@@ -1,0 +1,286 @@
+Digital Transformation in the Industrial Sector
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Digital Transformation in the Industrial Sector
+
+Defining new strategies and priorities in a changing world
+
+By
+
+Suzanne M. Burns
+
+July 2017
+
+| 8 min read
+
+Author
+
+Suzanne M. Burns
+
+Chicago
+
+After the economic challenges of the past decade, industrial companies realized an important
+truism: It is becoming imperative to embrace digital to meet changing customer expectations
+and respond to competitive threats.
+
+Companies are feeling the pressure to determine how digital fits into their business models and
+the right ways to leverage its myriad possibilities. They know a differentiated focus on sustainable
+growth drives shareholder value, and that growth often comes from new technology and
+improvements in speed to market. Providing top-level customer service is also a factor: People
+have been greatly influenced by the convenience of digital offerings (Amazon, Apple and Uber,
+to name a few), leading customers, as well as distributors, to expect certain digital experiences
+in their daily routines.
+
+The Internet of Things (IoT) — also known as machine-to-machine communication — has also
+become increasingly prevalent. A growing number of devices — cars, thermostats, watches,
+industrial equipment and more — have the ability to wirelessly communicate and share data
+with one another. The IoT is also gaining attention from businesses, consumers and even
+governments for its potential to drive efficiency,
+unlock new business opportunities
+and automate processes. It is quietly extending
+the same types of opportunities — and
+disruptions — the Internet brought to the
+analog world. And this network of devices is
+only growing: Some 30 billion objects could
+be connected via the IoT within the next few
+years, leading to incremental economic
+growth that could exceed $11 trillion by 2025, according to a recent McKinsey study.
+
+Over the past two years, Spencer Stuart has partnered with the Manufacturers Alliance for Productivity and Innovation (MAPI) — a network of leaders dedicated to building strong leadership
+within industrial manufacturing — to study digital transformation trends in the sector.
+Together, we surveyed 270 senior-level executives across the sector to learn what “digital”
+means today, and where industrial companies stand on their digital journey. The result of our
+effort finds a year-over-year acceleration of digital adoption and growth, and captures lessons
+learned along the way.
+
+Finding new opportunities — and new challenges
+
+It’s clear that digital can be a catalyst for new avenues of growth. Nevertheless, many companies
+have only recently begun thinking about how to enable a digital strategy.
+
+Acceleration of focus on digital transformation
+
+When did your company start focusing on digital transformation?
+
+The high-tech, consumer and financial sectors embraced digital technology years ago, and, as a
+result, most individuals have been exposed to “digital experiences” in their personal lives (e.g.,
+mobile banking and online ordering). Within the industrial sector, companies have differing views
+of what digital technology means for the business, generally falling into three categories:
+
+Creating a compelling customer experience: Digital marketing is gaining popularity in
+industrial businesses, and companies are rapidly building their online customer experience
+through web-based technical support, e-commerce, social media and mobile
+applications. Often, the talent with deep digital marketing experience comes from more
+traditional consumer marketing sectors, such as banking, personal care products and
+Silicon Valley companies.
+
+Disruptive innovation for incremental revenue: Embedding IoT technology into traditional
+industrial products — such as sensors for predictive diagnostics, preventative maintenance
+and cloud-based analytics — provides an opportunity for industrial companies to
+reinvent their value propositions to their customers and create new services and databased
+revenue streams.
+
+Productivity to fuel growth: The digitization of core internal processes — such as the
+use of paperless processes, robotics, additive manufacturing and digital product development
+— eliminates waste, freeing up time for more customer-focused activities while
+also speeding time to market.
+
+Industrial’s definition of digital
+
+Changing the customer experience
+
+A successful digital evolution requires the organization to place the customer at the center of its
+digital strategy and to begin to think “outside-in,” industrial leaders said. Whether efforts have
+an external or internal focus, the goal is to provide customers with a better user experience,
+create new value for them and eliminate waste to serve them better.
+
+The possibilities that digital presents are exciting, but the path to becoming digitally proficient
+also brings many challenges. Integrating digital capabilities requires robust back-end business
+capabilities (including analytics, IT development and security expertise), a strong focus on the
+customer and the ability to work across functional and geographic silos.
+
+When fully taken advantage of, these changes can be transformative. For example, Dematic, a
+traditional supplier of material-handling equipment, set out to reinvent its value proposition by
+embedding IoT and data analytics into its sensors along conveyor lines. The company used
+these new capabilities to capture data on packages moving throughout the warehouse. By using
+robust analytics, Dematic was then able to provide its customers with valuable recommendations
+to optimize routing flow by eliminating bottlenecks. This digital technology shift
+repositioned them from a product provider to a valuable supply chain optimization partner
+through the ability to deliver performance and productivity improvement recommendations.
+
+Dematic CEO Ulf Henriksson said his company looked at digital as a huge opportunity to redefine
+the company’s value in the minds of its customers. “Many companies are waiting for IoT to
+be defined before they take action and invest,” he said. “You have to define it yourself so you can
+tie a solution to it.”
+
+The digital revolution has also provided excellent customer marketing opportunities for manufacturing
+companies. Digital channels, such as social media and an intuitive website enabled
+with technical resources, allow companies to cultivate a personalized brand and stay front and
+center with customers, which can help businesses avoid being disintermediated.
+
+But creating a strong front-end digital marketing effort can also lead to unintended consequences,
+such as the problem of being too successful. A company that makes itself accessible
+through e-commerce could open its funnel too wide, leading to distribution challenges. When
+launched, there’s an accelerated trickle-down impact from web-based marketing/sales through
+the rest of an organization, and manufacturing and supply chain need to be prepared for the
+increased demand, change in product mix and required delivery speed. Often, this leads a
+company to upgrade its digitization back-end efforts, as well.
+
+The use of robotics and other advanced manufacturing technologies can lead to quicker product
+availability and improved cost of goods sold, but delivering them quickly to the customer raises
+another issue. To meet customers’ e-commerce delivery expectations, producers may have to
+establish new stocking locations near consumers and scale their distribution footprint.
+
+“We call this the ‘tyranny of now,’” Henriksson said. “You and I — and especially our kids — want
+things now. But not only does delivery have to be fast, it also must be predictable when we want it
+at a specific time. These days, time is everyone’s greatest asset, and nobody wants to spend time
+conforming our lives to shopping anymore. We want shopping to conform to us.”
+
+Digital's strategic importance and maturity
+
+There is no doubt that industrial manufacturers are seeing the benefits of leveraging digital,
+and adoption is underway. In our survey, 83 percent of respondents ranked digital transformation
+as a critical strategic imperative to their company’s long-term success. However, when it
+comes to describing their current state of adoption, 84 percent indicated they were in the relatively
+early stages of the transformation. Companies’ needs will shift as they move up the
+maturity curve, which has cultural implications because organizations will run in more agile
+and collaborative ways.
+
+Companies’ views on digital maturity & strategic importance
+
+Overcoming obstacles
+
+Beginning a digital journey and aligning the organization behind a digital strategy can be daunting.
+Some 33 percent of survey respondents said the readiness of business processes/systems
+to support digital was their biggest obstacle, up from 30 percent in 2016. Other impediments
+include: the technical and digital sophistication of the organization (18 percent), internal culture
+(11 percent) and budget constraints (11 percent).
+
+Obstacles to digital transformation
+
+By nature, many industrial companies are process-oriented and data-driven. But the level of
+cross-functional collaboration required to successfully implement a digital strategy is new
+territory for most industrial companies. Cultural attributes such as agility, flexibility, creativity
+and innovation will be crucial in this Industry 4.0 world, according to those leading the transformational
+change. Some of these cultural attributes are not indigenous to the sector, and
+companies may need to look externally for talent. It then becomes the responsibility of the
+company to evolve its culture to a point where external talent can succeed in the long term.
+
+Cultural transformation
+
+Survey responses suggest that organizations will find it necessary to shift their cultures to
+support digital transformation. The best culture for a company is one that enables and accelerates
+the mission and strategy of the organization, and allows it to respond effectively to
+external challenges. There are no right or wrong answers when it comes to culture, as long as
+they meet this criteria. As Lou Gerstner is famously quoted as saying, “Culture is everything”
+when it comes to implementing successful strategies.
+
+Using the Spencer Stuart culture model, we have found that many traditional industrial
+company cultures sit in the lower half of this model, as they’re very results- and
+process-oriented in order to deliver
+stable, predictable performance. But
+often, the talent associated with digital
+innovation is more accustomed to environments
+that fall within the top half of
+the model, which are focused on flexible,
+agile learning with a sense of
+purpose, speed and collaborative decision-
+making (e.g., Apple and Tesla).
+The challenge for industrial companies
+is to find the right balance between
+delivering consistent profitable growth
+and disruptive innovation. This appears
+to be one of the biggest challenges
+facing industrial leaders today.
+
+Finding leaders to direct digital transformation
+
+Driving a digital transformation starts at the top of an organization, but finding the right leaders
+isn’t easy. Indeed, the biggest obstacle many companies will face is finding the leadership that
+has the right skills to drive the transformation.
+
+When asked “What capabilities do senior leaders need to drive digital transformation?” the
+most common responses were: cross-functional influence and orchestration (40 percent), a
+customer-centric mindset (30 percent), comfort dealing with ambiguity, flexibility and adaptability
+(29 percent), and strong, inspirational leadership (29 percent).
+
+Top five skills needed in an era of digital transformation
+
+Cross-functional influence
+
+Customer orientation
+
+Comfort dealing with ambiguity, flexibility and adaptability
+
+Inspirational leadership
+
+Strong communication skills and commitment to transparency
+
+A leader who is going to head a digital effort must be ready to wear many hats, coordinate workstreams
+across functions and, perhaps, infuse talent into the organization with skills that are
+not indigenous to the organization.
+
+To address this need, industrial companies often create new digital leadership positions, including
+global digital transformation leader, social and digital communications director, and director
+of data analytics. Given that digital branches across many different disciplines and requires a high
+level of cross-discipline coordination, it can be difficult to determine who should oversee these
+new positions. In a growing number of organizations today, the chief technology officer oversees
+digital transformation (37 percent, up from 24 percent in 2016), followed by the chief marketing
+officer. Interestingly, the number of CEOs owning the effort increased from 8 percent in 2016 to
+14 percent in 2017, indicating an increased importance in companies’ strategic agendas.
+
+The majority of respondents (63 percent) said they are hiring externally for key digital roles, and
+they are more likely to look outside the industry than within the sector for talent. The remaining
+third are looking to fill these roles or develop individuals internally: “Legacy talent is typically
+not adaptable to digital tools and mindsets,” one respondent noted. “There is a place for them,
+but not on the front line of digital marketing.”
+
+Where to find a digital leader
+
+When hiring a leader to drive digital transformation, are you more likely to look inside the
+industry or outside the industry for talent?
+
+Best practices for success
+
+Becoming digitally savvy requires organizations to inject new, broader perspectives into the
+business, and to find talent with a wide-ranging, somewhat unorthodox skill set. As the importance
+of digital accelerates, these efforts will be ongoing and continuous, as the associated
+technologies continue to change and alter the landscape.
+
+While the industrial sector is early in its digital journey, our respondents had a wealth of advice
+to share with others on the same path. The advice we heard includes:
+
+“Don’t give up, because the incorporation of digital, as a way of life, is imperative to
+competing in the future.”
+
+“Clearly communicate the strategy and the opportunity in front of you, so your organization
+understands where you are headed and can support it on a cross-functional basis.”
+
+“As with any change-management effort, benchmarking others, building alignment,
+prioritizing objectives and establishing accountability are critical.”
+
+“Identify collaborative and innovative leaders who can help the organization adopt new
+behaviors and act with the sense of urgency required.”
+
+With this advice, coupled with diligent executive sponsorship and focus, an organization
+can pilot new digital ideas, “fail fast, fail forward,” invest for the long term and continue to
+evolve as the digital landscape itself evolves. Digital transformation of the industrial sector
+will take time, patience and an unprecedented level of collaboration. Is your organization
+ready for this challenge?
+
+* "What’s new with the Internet of Things?," McKinsey Global Institute, June 2017.
+
+Download
+
+Download
+
+Author
+
+Suzanne M. Burns
+
+Chicago

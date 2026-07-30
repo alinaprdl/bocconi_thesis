@@ -1,0 +1,212 @@
+The Talent Trends Shaping Payments
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+The Talent Trends Shaping Payments
+
+Four Takeaways for Building a Robust Leadership Pipeline
+
+By
+
+Toby Donovan,
+
+Marie Ford and
+
+Malini Vaidya
+
+May 2024
+
+| 10 min read
+
+Authors
+
+Toby Donovan
+
+Philadelphia
+
+Marie Ford
+
+Philadelphia
+
+Malini Vaidya
+
+Singapore
+
+The authors would like to  thank Ann Maris Walton for  her significant contributions  to this article.
+
+SectionsIn this article
+
+The payments industry is complex and rapidly evolving. Exciting developments in real-time payments, open banking and embedded finance — combined with new regulations, and the looming opportunities and disruptions of AI — all promise more change than the industry has seen in a generation. Overall, the payments industry remains resilient, with revenues of $2.2 trillion expected to reach $3 trillion by 2027.1 Yet within the ecosystem, competition is fierce, and companies must innovate relentlessly to survive.
+
+The industry has changed significantly in the last decade. Of the top 10 largest payments companies in the world by market capitalization in 2013, just six remained in the top 10 in 2023. New generation payments companies with agile operating models and differentiated technology stacks have built formidable businesses, some of which are now among the largest payments companies in the world. At the same time, incumbency can be powerful, especially when combined with a commitment to innovation and technology. By investing in their product organizations and tech stacks — and, crucially, by attracting and retaining the right leaders — the strongest legacy payments companies have continued to thrive. Meanwhile, the biggest tech companies — especially Apple, Amazon and Google — have developed vast payments organizations of their own, many of which would be among the largest payments companies in the world if spun out as separate businesses.
+
+What do these trends mean for leadership and talent in the sector? We are seeing several trends, including accelerating adoption of leadership roles in product and partnerships, new routes up to the CEO role and shifting talent flows within the industry, as payments companies seek to build leadership muscle in new areas. Looking ahead, payments companies should adopt a talent management approach that recognizes the importance of deep payments expertise, develops breadth across the payments ecosystem, commits to talent retention and aligns talent strategies with a future-looking view of the business.
+
+The Changing Top 10 in Payments: 2013–2023
+
+2013 — by market cap/valuation
+2023 — by market cap/valuation2
+
+Visa
+Visa
+
+Mastercard
+Mastercard
+
+American Express
+American Express
+
+First Data
+Ant Group
+
+Discover
+Fiserv
+
+PayPal
+PayPal
+
+Fiserv
+Stripe
+
+FIS
+Block
+
+Global Payments
+Adyen
+
+TSYS
+FIS
+
+Download
+
+Download
+
+Emerging roles in payments
+
+The macro environment for payments has a number of downstream effects on talent — influencing both the types of roles that are proliferating within payments companies and the flow of talent between different industry segments. Over the past decade, for example, the growth of product roles has been noteworthy, increasing from 7 percent of total payments hires in 2012 to almost 21 percent in 2022.3 While the increase in product roles is a phenomenon spanning financial services, it has been particularly pronounced in payments, where the quantity and quality of human touchpoints offer fertile territory for improving the customer experience. The growth of product leadership roles is especially notable across the top 10 payments companies. In 2013, none had an enterprise chief product officer or equivalent; by 2023, 60 percent did.
+
+An open question for payments companies is exactly how their product teams should be organized, especially vis-à-vis their engineering teams. For the time being, many of the largest payment companies continue to have separate product and technology organizations, although some expect a gradual integration of these teams in the style of the large tech companies, like Amazon and Google, where product and engineering tend to be more tightly enmeshed.
+
+Another notable change has been an increase in partnership-oriented roles, which have increased from 7 percent of total hires in 2012 to almost 13 percent in 2022. The proliferation of fintechs has enabled legacy payment companies to add new capabilities via partnerships instead of building them from scratch. Entering into joint ventures or strategic partnerships with innovative fintechs can sometimes pave the way for investing in or even outright acquiring them in the future, creating new pathways toward industry consolidation.
+
+Product and partnership roles in payments, 2012–2022
+
+Source: Nilson data, Spencer Stuart analysis.
+
+The changing path to the top
+
+Pathways to CEO are evolving to reflect the changing nature of the payments industry. In 2013, most CEOs of the largest payments companies rose through the commercial or finance functions; in 2023, an increasing number had product or technology backgrounds, reflecting the ongoing transformation of these businesses as tech companies. Notable, too, has been the rise in founder-CEOs, as the likes of Stripe and Block have taken their places among the largest payments companies in the world. Since 2013, there has also been a shift toward internal CEO appointments within payment companies, reflecting better internal succession planning processes. Gender diversity has improved, but not by much. In 2013, all of the CEOs within the top 10 payments companies were male; by 2023, 90 percent were.
+
+Talent flows within the sector
+
+As payments companies seek to build leadership muscle in new areas, we’ve seen talent flows across different parts of the sector. Fintechs, desiring scale, have recruited actively from big tech companies, particularly for product, technology and commercial leadership talent. Many fintechs need to mature their businesses in other ways, to improve their risk management, compliance and operational capabilities — and have recruited just as actively from legacy payments companies (and banks) as a result. Legacy payments companies, in turn, have recruited engineering and product talent from big tech companies to help them transform. Legacy companies occasionally recruit exceptional talent from fintechs, but have historically been more likely to acquire fintech talent as a result of M&A activity than one-off hires. When recruiting for enterprise talent, the smaller scale of many fintechs tends to make them less desirable hunting grounds for legacy payments companies, though this will likely change in the future as fintechs continue to mature and grow.
+
+Talent flows within payments
+
+Leadership takeaways for payments firms
+
+With this context, what are the takeaways for leaders making consequential talent decisions in payments? Spencer Stuart believes there are four key lessons worth reflecting on:
+
+Lesson 1: “Payment geeks” are cool again
+
+In recent years, as many payments companies refashioned themselves as tech companies, some adopted a domain-agnostic approach to senior payments hires, emphasizing tech and product skills while under-emphasizing the importance of payments knowledge. Now that trend seems to be reversing itself, with many companies “rediscovering” the importance of having deep payments subject matter experts on their teams. In our view, this is a welcome development. Payments remains an arcane industry, with dozens of regulatory frameworks and a complex ecosystem of banks, processors and other intermediaries, many of which interact with each other in non-intuitive ways. Understanding “how the plumbing works” in payments will likely be important for some time, and the most effective teams will include both great product and tech talent and deep payments expertise. Payments experts can help guide critical product and technology strategies — reducing the likelihood of failure — while educating those on the team whose payments knowledge may be shallower.
+
+Quote
+
+In terms of having deep subject matter expertise [in payments], we see this as especially valuable when it comes to structuring highly complex, global solutions.”
+
+Michael Fraccaro
+
+Chief people officer,
+Mastercard
+
+Michael Fraccaro, Mastercard’s chief people officer, believes that deep payments subject matter expertise can be particularly important when grappling with international complexity. “In terms of having deep subject matter expertise, we see this as especially valuable when it comes to structuring highly complex, global solutions — which in some cases could also involve central banks, regulators or myriad other partners.”
+
+That isn’t to say that every payments leader needs to be a subject matter expert. Expedia promoted internal candidate Falk Richter into the role of head of payments, even though he lacked deep payments knowledge. What Falk had — which an external payments SME could not have — was deep knowledge of Expedia, having served in a series of increasingly senior product and operations roles at the company for almost a decade. “I was a trusted leader, I knew how the company operated and how decisions got made, and I knew how to get things done,” says Falk. “That was worth more to Expedia in that moment than being a subject matter expert in payments.” But he was still astute enough to recognize the need for payments experts on his team, who helped him get up to speed on the technical aspects of the space.
+
+Max Bardon, formerly head of payments for Amazon, takes a similar view: “If I’m making a senior payments hire, one of two things has to be true. Either they’re a deep payments subject matter expert — in which case they can be new to Amazon; or they’re a trusted Amazon leader — in which case they can be new to payments. What I try to avoid is expecting someone to learn two entirely new domains simultaneously — especially when one of those domains is payments.”
+
+Lesson 2: Diversity of payments experience is more important than ever
+
+The complexity of the payments space, in part, reflects the fact that many payments companies play multiple roles within the ecosystem: for example, payment networks that also provide fraud protection and identity management services or payment gateways that also function as digital wallet providers. In this environment, candidates who have experienced different parts of the ecosystem have a built-in advantage over those whose experiences may be single-threaded and/or narrower. Candidates with blended payments experience also offer additional optionality for companies that may be considering branching out into new operating segments in the future.
+
+Quote
+
+When I’m making a hire, I’m thinking about the capabilities of the entire team — where we’re strong, where our blindspots are and where we’re likely to need help in the future.”
+
+Nicole Carroll
+
+Chief growth officer,
+Paysafe
+
+Keala Gaines, who leads payments for WooCommerce, exemplifies the “blended background” career. She began her payments journey with Verisign in 2000, transitioned into product roles with PayPal, and ultimately took on more senior payments leadership roles at Intuit and eBay, expanding her functional scope to include product marketing and operations. “I value and look for people with diverse payment experiences — across payment domains, functional roles and business models,” she says. “When I come across someone with, for example, both product and commercial experience, that’s immediately interesting to me. It’s suggestive of a sort of mental agility that can be valuable on my team.”
+
+It is at the team level where payments diversity is most powerful. And the job of the payments leader is to ensure that the organization’s collective payments expertise matches the complexity in front of it. In some circumstances, this may mean adding card-present talent to complement those on the team whose card-not-present experience is stronger. It may mean adding banking, e-commerce, ACH or payment network experience to the team, or it may mean adding executives with experience from specific countries. Nicole Carroll, who serves as chief growth officer for Paysafe, says that it’s important to view the team’s abilities in their totality, almost as a single organism. “When I’m making a hire,” says Nicole, “I’m thinking about the capabilities of the entire team — where we’re strong, where our blindspots are and where we’re likely to need help in the future. While that’s true in many industries, it’s doubly true in payments, because of the complex, technical nature of the domain.”
+
+Lesson 3: Talent retention in payments is critical — and easily overlooked
+
+Subject matter expertise in payments is difficult to gain — and valuable when acquired. Companies capable of holding onto their most talented and experienced professionals will therefore have a consistent advantage over their competitors, particularly as the domain grows ever faster moving and complex.
+
+“Retention and development are two sides of the same coin,” says Bardon. “At Amazon we always found that people were more likely to stay when they could see that their own development was valued by us. Practically speaking, and particularly in a domain like payments, it means creating thoughtful rotation opportunities so that top performers can gain exposure to different areas of payments — or even different areas of Amazon entirely — to continue their professional growth. To do that, you have to have great talent processes beyond the day-to-day management of the employee, you have to have great partnership with HR so that those sorts of rotational opportunities occur systematically, not haphazardly, throughout the employee’s career.”
+
+Quote
+
+As industry leaders, we have to make sure that we’re addressing those big, long-term, complex problems, and that requires a level of team longevity — which means focusing on retention.”
+
+Tad Tilahun
+
+Payment platforms lead,
+Visa
+
+Tad Tilahun, who leads payment platforms for Visa, believes that great talent retention is necessary not just for individual companies to achieve their goals, but for the industry as a whole to tackle its biggest challenges. “In payments, the toughest problems can take years to solve. When you look at something like tokenization, it took several years to reach critical mass, but the benefits are now everywhere. As industry leaders, we have to make sure that we’re addressing those big, long-term, complex problems, and that requires a level of team longevity — which means focusing on retention. At Visa, we use a multi-faceted approach to retention that encompasses capability building, career pathing and deliberate rotation opportunities, so that we’re building the next generation of payment leaders at the same time as deepening their commitment to the platform — all while solving the industry’s toughest challenges.”
+
+Fraccaro agrees. “In the payments industry, there is an increasing focus on internal mobility and the building of new skills to retain top talent. At Mastercard, we see career progression as a lattice, not a ladder. Many of our employees make both lateral and upward career moves to both broaden their areas of expertise and build their influence across the organization. Gone are the days that career growth only comes from promotions. We are regularly seeing that employees can make many moves across functions, businesses, regions, acquire new skills, and otherwise to progress their careers. Our new internal talent marketplace, Unlocked, uses AI to match employees to open opportunities in short-term projects, mentoring, career paths and more — based on areas of interest and desired future roles.”
+
+A related issue is the broader question of culture, which payment companies should treat carefully as a key ingredient in achieving their organizational goals. New generation payment companies — like other tech-driven businesses — often place greater importance on open-mindedness and purpose, and individuals who have grown up in such companies may feel stifled in legacy payment environments that are overly “buttoned-up” or traditionally corporate. For these businesses, the challenge is to open up their cultures — and encourage greater innovation and experimentation — while maintaining the commitment to risk management and operational rigor that their business models require. For fintechs seeking to mature, the challenge is often the reverse. How can they add structure and process and tighten up their risk management capabilities while retaining the openness and flexibility that made them attractive employment destinations in the first place? Striking the proper balance is no easy feat, but the upside of getting it right is clear. Spencer Stuart’s culture analysis of more than 230 companies provides strong evidence of the positive effects of an aligned culture, including increased employee engagement, increased motivation and increased customer orientation — precisely the things that all payment companies need in order to thrive.
+
+Lesson 4: Talent strategies must be aligned with current issues — and future ones
+
+Given how rapidly the payments industry is evolving, the smartest companies know that they must begin laying the groundwork today for the issues that will affect them tomorrow. While there are doubtless others, several key issues will likely affect hiring needs in the future.
+
+Quote
+
+While the killer apps may not yet be known, all payments companies should ensure they have right talent in place to monitor the relevant developments and determine how best to make use of these technologies as they emerge.”
+
+Max Bardon
+
+Former head of payments,
+Amazon
+
+First, if current trends are any indication, the payments industry looks set to be the subject of increasingly close regulatory oversight. The area of compliance, therefore, will become a much more strategic function for payments companies, and will require the emergence of smarter, more business-oriented compliance leaders who can enable innovation in the face of regulatory constraints. “These individuals can also play a role in helping companies forecast the direction of future regulations, so they can better prepare for potential opportunities, whether in open banking, real-time payments, AI, or other areas,” says Bardon.
+
+Secondly, security and fraud threats will likely grow even more sophisticated and prevalent in the years to come. As companies invest in technologies to improve customer experience (e.g., open banking to improve underwriting, real-time payments to enable faster money movement, etc.), these same technologies will be used by bad actors to exploit currently unguessed-at vulnerabilities. All of which is to say that building robust fraud protection and security teams will be ever more critical to reducing losses, retaining customer trust and remaining in good graces with regulators.
+
+Thirdly — and more optimistically — the payments industry will likely be profoundly impacted by future developments in AI. Data science and machine learning have already been deeply embedded in credit underwriting, fraud detection and marketing/personalization processes, and these trends look set to continue. But what will be the impact of large language models (LLMs) and generative AI on future digital payment use cases and commerce flows? “While the killer apps may not yet be known, all payments companies should ensure they have right talent in place to monitor the relevant developments and determine how best to make use of these technologies as they emerge,” Bardon says. Adds Fraccaro: “New technology means new opportunities for our employees. To date, we have created roles at Mastercard in AI governance, AI strategy and AI product management and engineering. Growing and training our cyber workforce is another area where we see significant opportunity with AI.”
+
+• • •
+
+The payments industry is growing, rapidly evolving and fiercely competitive. Payments companies that excel in this environment will invest in developing payments experts with broad exposure to the ecosystem, commit to developing and retaining strong leadership talent, and build a talent pipeline with the future in mind.
+
+1 McKinsey, Global Payments Report, 2023
+
+2 Market cap data from November, 2023; Stripe valuation implied by March, 2023 fundraise.
+
+3 Nilson Report hiring data, 2012–2022.
+
+Authors
+
+Toby Donovan
+
+Philadelphia
+
+Marie Ford
+
+Philadelphia
+
+Malini Vaidya
+
+Singapore

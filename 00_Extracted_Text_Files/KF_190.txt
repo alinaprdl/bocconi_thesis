@@ -1,0 +1,131 @@
+Cutting Out the Business Partner?
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+This Week in Leadership|February 17, 2026
+
+Cutting Out the Business Partner?
+
+Instead of paying big firms to handle major software services, some companies are considering using new AI products instead. The $600 billion question: Is that wise?
+
+These days, big organizations often rely on a slew of software vendors to handle critical business processes. If they want to track a potential customer’s buying habits, that’s one big vendor. To monitor where raw materials are in the supply chain? That’s another. To parse any legal issues in a contract? That’s yet another big software firm.
+
+But should companies embrace new AI tools and skills that can do all of those things, and probably more—potentially for a lot less money? Some investors seem to think so. Earlier this month, share prices fell dramatically for business-software companies serving certain markets and processes—legal, sales, supply-chain, and others—after several big AI models released updates in the same areas. The sell-off has expanded even further, with stocks of asset managers, logistics companies, and tax-software providers taking a hit following the release of other new AI tools.
+
+Indeed, analysts say the technology threatens to completely upend the $600 billion global business-services market. “Software, as an enabling tool, is becoming commoditized,” says Matt Bohn, a Korn Ferry senior client partner in the firm’s Technology practice. But when an individual company is deciding whether they should go it alone, the considerations go far beyond what the new technology can do. “It’s a decision about risk, accountability, and control,” says Wolfgang Bauriedel, a Korn Ferry senior client partner who works with chief information officers in multiple industries.
+
+Indeed, many experts say many large organizations may not rush to replace their existing business-process software with AI. For one thing, an AI firm’s claim that its product can do the work doesn’t mean that it can do it well. And even under the best of circumstances, there’s no track record to assure a company the tech can securely handle its data. Plus, a legacy business-software product often has a built-in advantage: thousands of experts—whether in-house, at the software provider, or third-party consultants—who can fix any bugs that may arise. AI lacks that infrastructure, at least for the moment. “It’s not going to replace software any time soon,” says Bryan Ackermann, Korn Ferry’s head of AI strategy and transformation.
+
+Many leaders recognize how perilous a technological changeover can be. Overhauling systems can take years. Employees need retraining in order to properly use and maintain the tool. All that also assumes things go perfectly. Bauriedel recalls a utility that so thoroughly botched its payroll-software transformation that it had to pay employees with gift cards for a while. “Are the benefits of AI three to five times more than the current system, to justify the risk and pain?” he asks.
+
+Leaders will likely wait for the big software providers to implement or introduce their own AI tools into existing products. “Agentic AI will be something that business-software customers will come to expect,” Ackermann says.
+
+Still, AI’s allure could be powerful for smaller firms that haven’t invested years of human and financial capital in building relationships and systems with outside software firms. Business technology can make up 5% or more of total expenses. That means that companies that adopt AI could significantly reduce costs without having to trim much payroll (or personnel, if they rely entirely on outside tech support). In many cases, they’d also cut the expenses of both the software’s annual subscription fee, which can be hefty, and of on-demand troubleshooting specialists.
+
+Experts say that AI will impact, one way or another, how companies handle their business processes. A bigger question is what companies will do with any time and money saved by AI. “Will those resources be redeployed to enable humans to produce greater innovation, higher-quality products, and more services to offer customers?”asks Doug Maxfield, a Korn Ferry senior client partner in the firm’s Global Technology practice.
+
+Learn more about Korn Ferry’s AI in the Workplace capabilities.
+
+Read more This Week in Leadership articles
+
+Our Expert
+
+Our Experts
+
+Matt Bohn
+Senior Client Partner, Technology Practice
+
+Wolfgang Bauriedel
+Senior Client Partner, Technology & Digital
+
+Bryan Ackermann
+Senior Vice President, Head of AI Strategy & Transformation
+
+Douglas Maxfield
+Chair, Global Promotions, Senior Client Partner, Global Technology Industry
+
+No items found.
+
+Featured Insights
+
+This Week in Leadership (Feb 16 - Feb 22)
+6’1”, Loves Hiking, Seeks Series A Funding
+
+INSIGHTS TO YOUR INBOX
+
+Stay on top of the latest leadership news with This Week in Leadership—delivered weekly and straight to your inbox.
+
+​
+
+Related Insights
+
+See All Related Insights
+​
+
+Article|July 3, 2026
+
+The Glitter Leader
+
+July 3, 2026
+
+This Week in Leadership (June 29 - July 5)
+
+July 3, 2026
+
+This Week in Leadership (June 29 - July 5)
+
+Article|July 1, 2026
+
+6 Ways to Handle Work During Vacation
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+This Week in Leadership
+
+Leadership
+
+Organizational Transformation
+
+Workforce Management
+
+AI in the Workplace
+
+People Strategy & Performance
+
+Change Management
+
+Organization Design & Analytics
+
+Organization Strategy
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

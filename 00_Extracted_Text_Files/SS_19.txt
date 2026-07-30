@@ -1,0 +1,160 @@
+From disruption to dividends: How leaders can harness the power of AI
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+From disruption to dividends: How leaders can harness the power of AI
+
+By
+
+Veena Marr,
+
+Fabio Moioli and
+
+Till Roga
+
+April 2026
+
+| 5 min read
+
+Authors
+
+Veena Marr
+
+London
+
+Fabio Moioli
+
+Milan
+
+Till Roga
+
+Frankfurt
+
+Key findings
+
+The organisations making real progress treat AI as a CEO-led, enterprise-wide reinvention, rather than running isolated pilots or proofs of concept.
+
+Leaders need to unlearn and adapt, commit to ‘always-on’ learning and be willing to experiment without perfect information.
+
+AI agents are rapidly improving speed and efficiency across industries, but successful rollout depends on strong governance, monitoring, security and compliance.
+
+More than 25 years ago, Dame Clare Barclay started work at Microsoft as a marketing manager. Fast forward to today and she is the company’s president of enterprise and industry for EMEA, a role she took up in 2024 after four years serving as the UK CEO.
+
+Now responsible for advancing Microsoft’s growth ambitions and driving AI industry innovation across Europe, Middle East and Africa, she also chairs the UK government’s Industrial Strategy Advisory Council. She sat down with Veena Marr to reflect on the impact of AI on business and the challenges and leadership opportunities that lie ahead.
+
+Across industries and geographies, organisations are grappling with the same fundamental question: how to translate the promise of AI into real business value. What distinguishes those making meaningful progress is not access to technology, but how they approach transformation, leadership and change. Clare Barclay shares her perspective.
+
+You work across sectors, geographies and business models. From that vantage point, what are the defining characteristics of organisations that are adapting most successfully to AI and emerging technologies?
+
+One of the most consistent themes emerging across conversations with governments and enterprises is a shared uncertainty about where change is happening, how fast it is moving and what it means for their organisations.
+
+Quote
+
+Those companies that treat AI as a proof‑of‑concept exercise or a low‑stakes experiment are unlikely to unlock meaningful value. The ones making real progress are rethinking their organisations from the ground up.”
+
+Clare Barclay
+
+President, Enterprise & Industry, EMEA,
+Microsoft
+
+We are still in the foothills of the AI era and the ascent has barely begun, yet the pace is already breathtaking. We now estimate that one in six people globally use AI in some capacity — whether at work, in learning, or in their personal lives. It’s already reshaping how people operate, and we’re only at the start.
+
+But it’s also clear that the organisations that are adapting best share a few characteristics. A starting point is a genuine growth mindset about what AI could mean for their business model — and a willingness to use it as an opportunity to reinvent. But at the same time, they are also willing to challenge their own assumptions about talent, partnerships and capabilities. For them, AI isn’t ‘technology’ — it’s a business transformation involving leadership, culture, structure, risk and value creation.
+
+Those companies that treat AI as a proof‑of‑concept exercise or a low‑stakes experiment are unlikely to unlock meaningful value. The ones making real progress are rethinking their organisations from the ground up.
+
+Can you share some examples of companies that, in your view, are genuinely leading?
+
+JPMorgan is a great example of visible, committed executive leadership. Its CEO, Jamie Dimon, has openly described AI as both the firm’s biggest opportunity and its biggest risk. They’ve integrated AI deeply across operations like customer service, fraud, audit and risk — and that holistic approach has influenced the entire banking sector.
+
+Maersk is another. Despite operating in a highly disrupted industry, they made a top‑down commitment to embed AI across their end‑to‑end supply chain operations, not as a pilot but as a full transformation.
+
+And then there’s Walmart — a company most people see as a retail giant, not a tech company. But their CEO talks about Walmart like a tech company serving retail. They hire differently, structure differently and innovate with the mindset of a technology organisation.
+
+Across these massive organisations, the pattern is consistent: CEO-led, enterprise-wide, ecosystem-wide transformation. They are not dabbling. They’re reorganising.
+
+Leadership matters, it inspires and needs repeating as a theme. With this in mind, what capabilities will leaders need in this next era?
+
+Two capabilities stand out above all others. Firstly, leaders must be able to self‑reflect, unlearn and adapt. Many people in leadership positions have risen through structures and systems that rewarded experience built over decades. But AI rewrites the rulebook. What made someone successful before will not necessarily serve them now.
+
+Quote
+
+Historically, many boards possessed limited deep technology expertise. That won’t work anymore. The experience profile, expertise mix and mindset of boards will have to shift toward more disruption-ready thinkers.”
+
+Clare Barclay
+
+President, Enterprise & Industry, EMEA,
+Microsoft
+
+The second is an ‘always‑on’ learning mindset. It’s important to remember that AI evolves daily, so unless you dedicate time to deep learning, it will be challenging to keep pace with new innovation, new models, new competitors, etc. For leaders facing AI disruption in ways they have not been trained to manage, the challenge is significant. Investing time to understand the technology, the market shifts and emerging disruptors enables them to navigate this change more effectively.
+
+It also means boards must change. Historically, many boards possessed limited deep technology expertise. That won’t work anymore. The experience profile, expertise mix and mindset of boards will have to shift toward more disruption-ready thinkers.
+
+And finally, leaders must be willing to experiment. Perfect information no longer exists and waiting for it means falling behind.
+
+You work closely with advisors and search professionals. Where do you see the line between automation and the enduring value of human interaction?
+
+Advisory professions, including those in executive search, have an enormous human component: trust, intuition, judgement all spring to mind. When you’re placing senior leaders or advising boards, nobody wants to be routed into an automated queue.
+
+But AI can also be a true superpower for advisors. It offers the ability to accelerate insight, discover hidden networks, map relationships or analyse talent movements at speeds that just weren’t possible before. AI doesn’t replace the advisory experience; it amplifies it.
+
+Where things go wrong is when firms say, ‘We can’t do that as it’s too risky.’ That mindset can lead to stagnation over time. As with boards treating AI purely as a risk item, companies that don’t embrace AI early will lose competitive advantage to those that do.
+
+Many leaders seem to underestimate how fast AI is moving. Why do you think that is?
+
+When you sit at the front row of innovation, you get to witness extraordinary progress every week. I think of start-ups building agentic systems that improve dramatically every few days. Then there are those tools that automate workflows previously considered impossible. These are capabilities that would have seemed like the stuff of science fiction just a couple of years ago.
+
+Quote
+
+AI offers the ability to accelerate insight, discover hidden networks, map relationships or analyse talent movements at speeds that just weren’t possible before. AI doesn’t replace the advisory experience; it amplifies it.
+
+Clare Barclay
+
+President, Enterprise & Industry, EMEA,
+Microsoft
+
+Many corporate leaders don’t see or experience the disruption that AI could bring, both in terms of opportunity and risk. So helping leaders learn and understand the innovation around them and what this means for their business is always a good place to start. Looking at what their competitors are doing, where their industry has already adopted AI successfully and how their workforce can be enabled for AI today opens leaders’ minds up to the opportunity ahead.
+
+AI agents have been in the news, sometimes raising concerns about trust. How do you see the rollout of agents unfolding?
+
+The use of agents to simplify tasks and workflows is scaling rapidly. They are already being deployed across a wide range of industries, including highly regulated sectors like financial services. Typical use cases span customer service, operations, and lower-risk, high-volume tasks, reducing operational complexity and removing manual, data-intensive processes.
+
+It’s easy to see why: it’s all about the speed, efficiency, accuracy and scalability. But its increasing use introduces complex questions around governance, trust and compliance. Organisations will rightly need to consider frameworks that track, record and monitor before deploying agents at scale, and ensure they partner with organisations that provide robust security and compliance.
+
+Looking beyond business, many people feel anxiety — almost a nervous-system response — to the pace of change and paradigm shift. How should organisations think about this human dimension?
+
+That emotional response is natural, and varies widely — from curiosity and excitement to hesitation and resistance. There is a significant technological shift taking place which is why skills development will be so important, at both societal and organisational level.
+
+Look how governments like those in the UAE and Singapore are treating AI as a national investment priority. They are already busy upskilling citizens, attracting talent and building ecosystems. This is also at the heart of the industrial and growth priorities for the UK, and how to navigate growth strategies, disruption and getting the right balance between risk and opportunity. And, of course, skills will be critical to supporting people through the transition.
+
+If you look ahead, what excites you most about the future of AI?
+
+Two things that stand out. First, there’s the opportunity to deliver truly personalised education. Every student, regardless of their background or disability, could have access to a personal AI tutor that adapts to their pace and capability. The potential societal impact of that is extraordinary.
+
+And the second is breakthroughs in medicine. AI‑driven advancements in diagnostics, personalised treatment plans and early disease detection could transform human health in ways we’ve never been able to achieve before.
+
+Those two areas alone justify enormous optimism about the future.
+
+Any final thoughts on what organisations should focus on as the AI era accelerates?
+
+The message is simple: embrace AI rather than fear it. Leaders need learning and growth mindsets, and they must rethink organisational structures and talent models. Most importantly, AI must be embedded into everyday workflows — not treated as a standalone technology initiative.
+
+The pace of change will only accelerate. Organisations that approach it with bravery, creativity and thoughtfulness will be the ones that define the next era of business.
+
+Authors
+
+Veena Marr
+
+London
+
+Fabio Moioli
+
+Milan
+
+Till Roga
+
+Frankfurt

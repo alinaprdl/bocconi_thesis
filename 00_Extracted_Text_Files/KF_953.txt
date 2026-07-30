@@ -1,0 +1,138 @@
+The People Side to AI in the Workplace
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+AI in the Workplace|October 23, 2023
+
+The People Side to AI in the Workplace
+
+Despite the ongoing growth of the AI market, managing people will be more important than managing technology.
+
+Key takeaways
+
+Why managing people matters more than technology in the AI era
+Strategies for fostering AI adoption and experimentation within your workforce
+How to prepare your team for AI's impact through upskilling and mindset adjustments
+
+Pop culture often paints artificial intelligence in a harsh light. 2001: A Space Odyssey took a turn for the worse as the ship’s computer, HAL, overpowered a group of astronauts. The Matrix explored the idea that machines use humans for entertainment inside life simulations. In reality, of course, while there are challenges to work through, artificial intelligence is not the adversary science fiction tends to portray.
+
+AI, including Generative AI, will automate tasks humans perform today, giving us the capacity to focus on strategic and creative tasks which only humans can do—those that require intuition, experience, empathy and the other attributes which will continue to elude the “smartest” AI is indeed reshaping how businesses operate, but people will remain at the core of the organization—and managing them will still be more important than managing technology.
+
+The rise of AI in the workplace: how do people fit in?
+
+AI in the workplace is experiencing rapid growth due to the meteoric rise of Generative AI. With the widespread availability of availability of easy-to-use tools, abundant data and sophisticated algorithms, computers are doing more extensive work in real-time, enabling people to spend their time on higher-level activities.
+
+“The combination of these factors means that at the heart of almost every modern enterprise going forward, there will be an AI factory, a construct of networks and algorithms which will power much of the work that we do,” says Vinay Menon, Korn Ferry Senior Client Partner and Global Lead, AI Practice.
+
+But AI doesn’t exist in a vacuum. It’s a tool that must be linked to clear business outcomes, such as streamlining HR processes to increase efficiency or improving workforce planning. Once a clear purpose is defined, the next focus is execution—and that comes down to having a team with the right AI-related knowledge and skills.
+
+“Successful integration of AI into the workplace really starts with empowering individuals to use these tools,” says Bryan Ackermann, Head of AI Strategy and Transformation. “People are the deciding factor.”
+
+Empowering people to succeed with AI
+
+AI products are tools. Just like any other tool, AI’s power lies in the user. ChatGPT, for example, can answer any query, but the quality of the answer depends on the parameters supplied by the user. Higher-quality directions yield higher-quality answers. Then, responses from Generative AI must be validated by the human, again leveraging experience intuition, common sense, and context. The same goes for other AI functions in the workplace–the skills and mindsets of the people using them impact their value and benefit.
+
+Leaders can ease adoption hurdles by empowering teams to experiment with new technology and functionalities. Many AI platforms have “sandboxes” or places to test without fear of losing or altering company data. Your employees will have questions, so create a welcoming space for them to ask—even if the questions are as simple as, “Am I supposed to do this?” or, “Can I experiment with this?” That space can be in a conference room or over video call as a strategic discussion, or it can be a more hands-on approach where employees sit down with the technology and ask questions about the experience as they go.
+
+“If given a little bit of autonomy and voice to say, ‘Oh, this is how I would approach the work,’ the organization can learn a lot more and see how these skills can be applied more readily. It starts with the freedom to experiment,” says Tessa Misiaszek, PhD, Head of Research at the Korn Ferry Institute.
+
+As more technology talent comes in, organizations must look at the career paths of their organization. What was once the traditional advancement route may look a bit different in the age of AI. When people can envision their journey and the progress they need to make, they’ll be more likely to embrace new technology and platforms rather than seeing them as adversaries.
+
+Generative AI in the Workplace
+
+In this webinar series we focus on the ways AI is disrupting the workplace
+
+Learn more
+
+Reskilling people for AI success
+
+Maximizing the potential of AI solutions requires creativity and critical thinking, plus the ability to adapt to changes and new data. These are distinctly human traits, highlighting the importance of adept people management in the age of AI.
+
+In a recent Korn Ferry survey, 44% of company leaders say their employees must develop new skills for the AI-driven business environment. Additionally, 40% of respondents believe their HR team lacks AI-related knowledge and skills. Those results underscore a significant point: how organizations prepare their people for AI is critical.
+
+This starts with reskilling and upskilling. What technical skills do people need to master? How can organizations best prepare employees for a significant level of transformation? Leaders must consider these questions to create a clear path for employees to adjust their mindset and learn or refresh specific skills.
+
+Using AI to enhance workplace experience
+
+AI in the workplace does more than automate redundant tasks. It can also help enhance people’s overall workplace experience by identifying the most engaging and rewarding work.
+
+For example, tech platforms can assess data to determine when employees are the most productive and fulfilled. Perhaps a team’s time is being overextended, or a particular employee isn’t getting to take full advantage of their skill set. AI delivers powerful intelligence that puts companies in better positions across the board—a Stanford University and MIT study found lower-skilled workers were 35% faster and 14% more productive than normal when using AI tools.
+
+“AI can help us discover ways to increase our agency, our capacity to make decisions, and our sense of being connected to a greater purpose through our work. As we continue to get better data on people behaviors, we can enhance workplace experience,” says Jean-Marc Laouchez, President of the Korn Ferry Institute.
+
+What’s next for AI in the workplace?
+
+The AI market is projected to grow 37% by 2030. Companies are considering whether to build AI capabilities internally or buy from a third-party provider, and how to achieve quick wins when integrating AI tools and analytics into their workflows. The stage is set for even more unique and innovative developments as organizations explore their AI capabilities. But the companies that will be most successful are the ones that continue to place people at the heart of their business strategy.
+
+To learn more about why managing people continues to be more important than managing technology, watch our webinar “What Does AI in the Workplace Mean?” on demand today.
+
+Our Experts
+
+Our Experts
+
+Bryan Ackermann
+Senior Vice President, Head of AI Strategy & Transformation
+
+Jean-Marc Laouchez
+President, The Korn Ferry Institute
+
+Vinay Menon
+Senior Client Partner IT Services & Software Global Lead, AI Practice
+
+No items found.
+
+Related Capability
+
+Related Capabilities
+
+Workforce Transformation
+
+Featured Insights
+
+From Automation to Collaboration: AI's Role in the Workplace
+The 4 Change Principles for AI-focused Leaders
+Humans Still Wanted: The Future of Work in an AI-Driven World
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Featured Topics
+
+AI in the Workplace
+
+Workforce Transformation
+
+Technology
+
+Technology Officers

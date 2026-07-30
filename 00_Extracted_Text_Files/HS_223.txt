@@ -1,0 +1,237 @@
+Building a culture of operational excellence in financial services | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Building a culture of operational excellence in financial services
+Explore this page Operational excellence through the pandemicBuilding a thriving culture of operational excellenceAbout the authorsRelated Content
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Financial Services Building a culture of operational excellence in financial services
+
+Financial services firms have faced unprecedented challenges in recent months to sustain operational excellence. Those with a strong culture of excellence—based on purpose, agility, and simplicity—have fared the best.
+
+Adam Howe
+
+“The experience is the operation. It’s not what you design; it’s not what you want it to be. It’s how it’s seen by your customers.”
+Ed McLaughlin
+
+President of Operations and Technology, Mastercare
+
+"A very important trait that leaders will need is compassion. Leaders are expected to be more vocal, more empathetic—not only for the technical aspect of their job but also for the societal aspect of the job.”
+Rahul Merchant
+
+Senior Executive Vice President and Head of Client Services and Technology, TIAA
+
+“If you are just monitoring a dashboard rather than what the people you're serving really want and how well you’re meeting those needs, the culture’s going to work against you.”
+Ed McLaughlin
+
+President of Operations and Technology, Mastercard
+
+Leaders across financial services and other highly regulated industries have increasingly emphasized the importance of operational excellence—defined as a holistic approach to creating efficient, error-free, customer-centric operations throughout the value chain. In financial services, that has meant an increased focus on speed, meeting customer expectations for use of technology, and managing burgeoning risks. For example, ING, the Dutch financial services group, defines operational excellence as “a constant and reliable execution of the business strategy to ensure competitive advantage by exceeding customer expectations, while reducing operating costs, operating risks, and optimizing processes.” Rahul Merchant, senior executive vice president and head of client services and technology at TIAA, summed up operational excellence as “creating value for our clients in the fastest and most economical way.”
+
+As important as all that was before this year, the COVID-19 pandemic has underscored the competitive differentiation that operational excellence can bring—and the risks when it falters. In response to the pandemic, management expert Tom Peters emphasized that excellence is just as much cultural as it is operational: “Excellence is a way of life, a way of being that sustains us and inspires us and inspires those who are around us day in and day out.” (For more, see “Excellence is the next five minutes.”)
+
+Our experience, and the views of several executives shared during a recent webinar we conducted, suggest that firms with a strong culture and ethos in support of operational excellence have done the best so far and have the best chance of being able to reset with resilience. Ed McLaughlin, president of operations and technology for Mastercard, said simply that operational excellence “has to be the purpose of your culture.” Building and maintaining such a culture requires the right leadership and operating model, as well as instilling behaviors that underlie a trio of cultural attributes: purpose, agility, and simplicity.
+
+Operational excellence through the pandemic
+
+Financial services firms tend not to have a single leader responsible for operational excellence (OpEx), though very often executive responsibility is assigned. Instead, leaders approach OpEx as a customer-focused theme across their operations. That’s because, as McLaughlin put it, “the experience is the operation. It’s not what you design; it’s not what you want it to be. It’s how it’s seen by your customers.” He went on, “It’s easier when it’s external, but we’ve also done the same thing internally, saying the services we provide internally have the equivalent measure of operational excellence. We created an entire part of the organization—we call it the business operations group—that provides a consistent feedback loop, monitoring post incidents to get that awareness that OpEx isn’t just statistics. It’s much more visceral, and it actually is how we keep the promises we’ve made to those we’re serving.”
+
+When COVID-19 hit, that focus on customer experience and consistent feedback—which is a relatively new way of thinking about OpEx in financial services—was crucial to responding with agility for many institutions.
+
+McLaughlin added that, in a crisis, “you find out what’s attached to what in ways you didn’t necessarily expect,” and that “the protocols around [being a] national critical infrastructure really served us well”—because Mastercard already had in place a set of metrics for performance in a crisis, as opposed to “peers who didn’t quite have that in place, [and] had to make up reporting on the spot.”
+
+Roel Louwhoff, chief operations officer and chief transformation officer for ING, described how the bank managed the sudden shift in operational risk, saying that “there were some elements of our business that were not used to working from home. We were of the opinion they could not work from home: trading desks, for instance. But we still had to operate. We moved them within a day, and the risk teams did a tremendous job to understand what the actual risks were and got us into a risk acceptance agreement that we’ve carried out since then. And we haven’t seen any issues. By understanding what it was that we needed to deliver, we were able to mitigate it quickly.”
+
+TIAA’s Merchant captured the effect on the whole company, saying, “It’s during this time when we find out, frankly, what culture is all about. I work for a company that is 102 years old. TIAA has phenomenal values and a mission-driven culture. We see now the truths of all the folks who came before us and [who] laid the foundation for a culture that says, ‘you shall never break the trust of your clients.’ Following that very simple set of values and making sure that everything we do from an operational perspective is in line culturally with those values is ingrained throughout the system.”
+
+Building a thriving culture of operational excellence
+
+How can other financial services firms, whatever their current state of operational excellence—and however old or young they are—develop similar norms of excellence? There are three key steps: having the right leaders; having the right governance structures and knowing, developing, and measuring the behaviors required in the organization; and focusing on a few aspects of culture most important to sustaining operational excellence—purpose, agility, and simplicity.
+
+The right leaders
+
+One question many executives are asking now is whether operational excellence has become so crucial that it should be the focus of a single leader, or whether it touches so many aspects of the organization that it has to be led by a team. In our experience, larger organizations, given their complexity, benefit from having a single leader who has the vision, drive, and experience to convene his or her peers across functions, divisions, and geographies to deliver world-class operational results. At a minimum, the CFO, CRO, COO, CIO, CHRO, and CMO must come together to shape the vision, strategy, and operating principles by which the whole organization will work toward operational excellence. And, in order to do this, the organization will need to operate at two speeds—one that keeps the business functioning as is and the other that is pushing out change.
+
+This clearly is no small task. The leader and team must be able to clearly articulate the what, why, and how of the transformation, inspire confidence that it can be done, and measure outcomes in order to ensure the desired outcomes are achieved. Above all, the leader and the extended leadership team must have the depth of knowledge to be seen as credibly able to execute on the transformation agenda.
+
+Furthermore, in financial services, it’s not only peers who have to be convinced of the value of changes to improve operations; it’s almost always regulators as well. Many OpEx leaders say that although working closely with regulators can slow down progress at times, it’s time well spent because of the trust that is built along the way.
+
+Looking ahead, though, leaders will need even more. TIAA’s Merchant said, “First and foremost is the leadership experience of dealing with crisis and thinking very quickly on their feet, because the traditional model of having a plan and then implementing it takes too long, even outside a crisis. The cycles of demand and expected response almost have become real-time. Experience with digital strategy is absolutely required. Finally, a very important trait that leaders will need is compassion. Leaders are expected to be more vocal, more empathetic—not only for the technical aspect of their job but also for the societal aspect of the job.” ING’s Louwhoff added that operational excellence leaders will “need to have an end-to-end digital technology background and be data fluent and team-oriented.”
+
+In our experience, operational excellence leaders can come—and in the future will still be able to come—from a variety of backgrounds and experiences. These include finance, risk, technology, and operations. The common thread underlying success is having a strong technical grounding in their respective function combined with a broad and deep understanding of how work gets done across their companies. In addition, it is critical they are experienced in leading large, multidisciplinary, and global teams. The best OpEx leaders are more often groomed internally and have significant credibility inside their organizations. As success in this role gets even harder in a virtual world, such institutional knowledge will undoubtedly maximize effectiveness.
+
+However, there are clearly times when an organization needs to stimulate change, and this often means bringing in an external OpEx leader. This can happen after a major security breach, regulatory issues, poor financial performance, stagnant growth, or a recognition that the company’s technology capability or digital readiness is lagging its peers. As the OpEx leaders we talked with noted, the pandemic has underscored the importance of digital dexterity by highlighting the performance gap between companies that were tech-enabled and able to pivot more quickly from on-premise to virtual work and those that were not. Some financial services firms have combined functions to create new roles designed to help external leaders succeed. For example, one very well-known payments company created an OpEx role that combined product development and distribution with digital, technology, and operations in an effort to put all the levers of change together. A year into its journey, with the worst imaginable headwinds, it is starting to see the benefits of this change.
+
+The right operating model
+
+Working toward operational excellence can seem like a lot of effort for a little short-term gain, and so it’s important to emphasize strong alignment amongst the senior leadership team to generate some quick wins and to focus on the lasting value of improvement. Commitment from the CEO is important, and indeed some institutions have folded operational excellence into larger performance-improvement programs. Mastercard’s McLaughlin said, “There are certain capabilities that operate globally. You need to make sure you have those available rather than creating a bunch of one-offs. That way you can provide the scale, the quality, and the performance.”
+
+The right culture
+
+Operational excellence is best supported by three aspects of culture, all of which also underlie an organization’s ability to accelerate performance in other ways. They are purpose, agility, and simplicity.
+
+Purpose aligns an organization and inspires engagement by making everyone feel as if they’re working toward a greater good. Research by Heidrick & Struggles has highlighted the effect that having a clear purpose has on other drivers of organizational success. (These drivers are part of our META framework of organizational acceleration. For more, see “Bringing your organization up to speed.”)
+
+Across the financial services sector, the purpose of organizations varies, and rightly so. It may include helping people lead their everyday lives by facilitating payment for goods and services, accumulate assets, save for the future, plan for retirement, or invest in new business opportunities and thus supporting economic and social development. Rahul Merchant’s definition of operational excellence—“creating value for our clients in the fastest and most economical way”—explains how operational excellence and purpose connect for these firms. And the focus on customer experience is, as McLaughlin suggested, crucial: “If you are just monitoring a dashboard rather than what the people you're serving really want and how well you’re meeting those needs, the culture’s going to work against you.”
+
+And indeed, the success of the financial services industry in enhancing the lives of the world’s population and furthering economic and business development is often forgotten when the service level of organizations fails to meet customer expectations or when more systemic failure, such as financial crises, occurs. What went wrong during recent crises—excessive lending and profit maximization along with excessive pay—resulted in very significant reputation damage to the sector. Firms have undertaken large numbers of corrective actions to win back the respect of customers. Many, for example, added to their purpose a need to act in a more responsible, sustainable, and cost-effective way, providing services that meet society’s needs, ensuring that short-term profits and incentives do not come at the expense of ethical decision making, and improving transparency, demonstrating that products are appropriately sold into the financial ecosystem.
+
+Agility, as we define it, consists of a subset of the drive factors shown in the chart earlier: resilience, learning, adaptability, and foresight. Being agile has been crucial to leaders in every organization through the COVID-19 pandemic, and, as Merchant suggested, it will be increasingly critical to operational excellence leaders in the longer term, as digital operations and real-time customer feedback become the norm. Roel Louwhoff of ING explained, “We can go even faster than we thought we could, and we have tested it, and that is helping us to move even more quickly. That is because there is a foundation in place, and probably the most important element of that foundation is what we call our ‘one way of working.’ Agile is an important element of that, too, where we have business developers and operations people working together in small teams with a defined purpose, and that purpose [during COVID-19 became] very clear. They needed to deliver to customers in these difficult circumstances. And that just worked extremely well. So, everyone obviously did not know in the beginning what was happening, but we were able to serve our customers. Productivity went up, and, interestingly, it’s stayed up.”
+
+Embracing agility does not come easy for large, established financial services organizations. They operate in highly regulated environments with varied local regulations and legacy systems that underpin many of their critical processes. This, combined with the size of their workforces, lends itself more to hierarchical chains of command than to less formal networked structures. But they still must try. Digital distribution channels have broken down barriers to entry for challenger banks. Customers care about value and experience and less about the legacy challenges of incumbents. The COVID-19 crisis has created a context in which many firms embraced the principles of agility such as providing clarity on priorities, increasing speed, being customer obsessed, acting on information quickly, and increasing accountability. Now, these firms will benefit from embedding the best of these changes into their day-to-day ways of working. Leaders should ask themselves the following questions:
+
+Where have we seen newfound resilience? What’s underpinning this?
+What have we learned about our organization and our market?
+Where and how have we needed to adapt?
+What weak signals of change are we seeing now? How can we ensure we benefit from that foresight?
+
+Finally, our research shows that simplicity, like purpose, is closely linked to stronger organizational performance.
+
+Yet simplicity is a particular challenge for many financial services firms, for the same reasons noted previously for agility. As Louwhoff put it, “In financial services across the board, I’m actually quite amazed how cluttered it is. At ING, we worked in silos. We had a wholesale bank, we had a retail bank, in each and every country where we operated. We can’t afford it anymore. We can’t afford it simply from a cost perspective but also from a customer experience perspective. So that’s why we moved to what we call a platform strategy where we literally work horizontally. That requires a complete culture shift.”
+
+In our experience, simplicity starts with strategy: one of the most difficult things for companies to do can be deciding what not to do. One way leaders can set and communicate strategic priorities internally and externally is to create a “strategy on a page”—that is, creating a short, clear overview that lists the company, function, or business unit’s major strategic priorities and the core activities to deliver them, the main areas where the company will need to simplify to achieve those priorities, and associated metrics, with a strong focus on customer satisfaction, employee engagement, and baseline earnings. (For more, see “Putting simplicity at the heart of strategy: Interview with First Republic Bank chief banking officer Mike Selfridge.”)
+
+When it comes to the operating model, complexity breeds at the interfaces between teams and functions, so the fewer interfaces there are, the less complexity the organization will generate. OpEx leaders should try to reimagine processes so they occur inside a single team or function, or reorganize teams and functions to support simplified processes. Scripting the critical moves between teams for simplicity and codifying them in a playbook or set of principles also helps. Beyond customer-facing functions, OpEx leaders must also focus on internal functions such as human resources, finance, technology, risk, and compliance. The key role of such functions should be to serve and improve business outcomes. Double-dotted reporting lines at a functional level such as marketing, human resources, or finance—typically into a functional and a business unit leader—can create additional layers of managing and communications with marginal impact on performance improvement.
+
+Ultimately, the battle for simplicity in operational excellence is won or lost with culture. Complexity does not create itself. It is created by thinking, actions, and decisions of people, and when organizations grow and transform. Financial services organizations can learn much from the tech companies such as Amazon, Google, and Microsoft about a bias toward pace and an aversion to bureaucracy. Such companies focus on principle 10 of the Agile Manifesto: “Simplicity—the art of maximizing the amount of work not done—is essential.” They bring it to life through complexity-reducing hackathons and bureaucracy-busting meetings.
+
+To make simplicity last, our experience shows, it must be built as a core organizational capability, part of regular rhythms and routines, from mindsets to behaviors, building and reinforcing simplicity as a skill. That will mean saying no to anything that isn’t mission critical.
+
+COVID-19 has tested every company’s operational effectiveness. Even the best-prepared financial services firms have learned a great deal about what they’re doing well and where they can further improve. One strength leaders pointed to was that they define operational excellence in terms of customer experience, end to end. Starting with the customer informs all the decisions leaders need to make throughout and within the operating infrastructure. This may seem to be a subtle shift in focus, but it is actually quite a dramatic pivot from what has traditionally been viewed as operational excellence. Firms seeking to put operational excellence at the center of their way of working also need to put in place the right people, the right operating model, and the right culture: one focused on purpose, agility, and simplicity. For companies that succeed, excellence will be, as Tom Peters put it, “a way of life.”
+
+About the authors
+
+Adam Howe (ahowe@heidrick.com) is a principal in Heidrick & Struggles’ London office and a member of Heidrick Consulting.
+
+Jory Marino (jmarino@heidrick.com) is vice chairman, Financial Services Practice; he is based in the New York office.
+
+Ian Tomlinson-Roe (itomlinsonroe@heidrick.com) is a partner in the London office and a member of Heidrick Consulting.
+
+Acknowledgments
+
+The authors wish to thank Roel Louwhoff, chief operations officer and chief transformation officer, ING; Ed McLaughlin, president of operations and technology, Mastercard; and Rahul Merchant, senior executive vice president and head of client services and technology, TIAA, for sharing their insights. Their views are personal and do not necessarily represent those of the companies they are affiliated with.
+
+Related Services & Industries
+
+Digital Leadership
+
+Financial Services
+
+Leadership Development
+
+Payments & Market Infrastructure
+
+Wealth & Asset Management
+
+Related Content
+
+Leadership Development
+
+How AI is reshaping legal services: A conversation with Julien Tanguy, CEO of Lefebvre Group
+
+Julien Tanguy, CEO of a leading European provider of legal and tax services, shares how AI is driving cultural change, redefining leadership roles, and accelerating innovation through trusted data, talent, and technology.
+
+Marketing, Strategy & Communications
+
+Communications as a key driver to growth: A conversation with Silvio Tavares, president and CEO of VantageScore
+
+Silvio Tavares discusses leveraging accountability, AI, and clear company values to drive performance and innovation.
+
+Financial Services
+
+An interview with Ken Kobayashi, president and representative director of SMBC Global Investment & Consulting Ltd. (SGIC)
+
+In the fifth installment of our interview series on leadership in Japan’s growing asset management industry, Ken Kobayashi, president and representative director of SMBC Global Investment & Consulting Ltd. (SGIC), discusses his transition from senior roles at multinational firms to leading a Japanese financial institution. He reflects on bridging global and local practices, shaping SGIC’s strategy and culture, and shares lessons learned as the company’s first external president.
+
+Compensation Trends
+
+2025 US Global Markets Compensation Survey
+
+Our second annual US Global Markets Compensation Survey examines organization and compensation data from a survey of sales, trading, and research professionals in the United States.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

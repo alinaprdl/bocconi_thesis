@@ -1,0 +1,163 @@
+Leading the AI Transformation in Healthcare
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Leading the AI Transformation in Healthcare
+
+By
+
+Katie M. Tucker,
+
+Edward M. Stadolnik,
+
+Ian Finlay and
+
+Alexa Guittari
+
+December 2025
+
+| 5 min read
+
+Authors
+
+Katie M. Tucker
+
+Atlanta
+
+Edward M. Stadolnik
+
+Chicago
+
+Ian Finlay
+
+Los Angeles
+
+Alexa Guittari
+
+New York
+
+SectionsIn this article
+
+Key findings
+
+The AI revolution is different. It’s happening much more quickly, with much wider adoption across organizations and greater attention from the C-suite.
+
+There are three general phases of data maturity, from nascent usage to world-class adoption. Understanding where you are on the adoption curve is central to understanding how to capture the full benefits of AI.
+
+Do you need a chief AI officer? Perhaps. But more important is answering a broader question: What AI-related talent does my organization need to set the tone, pace and agenda for AI and help us thrive into the future?
+
+The AI era is in full swing, and in many ways it mirrors other technological revolutions of the recent past, such as the rampant spread of the internet, the rise of e-commerce and the explosion of digital transformation. However, this feels different, starting with both the rapid pace of adoption and the iterative improvements in technology that seem to happen weekly if not daily. The factors of this environment have forced leaders to change their systems for assessing, implementing and measuring the results of new applications and ways of working.
+
+Take the healthcare industry. For some organizations, the first digital transformation is still playing out: It’s still hardly universal to confirm and be approved for a medical appointment without making a phone call, many years after online commerce, banking and travel have become commonplace. And yet, AI is already making a massive impact on healthcare, in many cases faster than other industries. Clinicians are embracing AI to manage and automate administrative tasks so that they can focus on spending more quality time with patients. Pharmaceutical companies are harnessing AI to slash the time and effort it takes to identify and assess adverse events at all points on the drug discovery continuum. And healthcare technology providers are using AI to translate complex medical situations into language that patients understand and in modes that are quick, high-quality and scalable.
+
+In short, AI is not waiting for every foundational piece of digitization to be perfect. Its accessibility to both organizations and consumers allows for rapid experimentation and faster, broader impact than we’ve seen with past technologies.
+
+Download
+
+Download
+
+What makes this revolution different
+
+This moment diverges from previous tech cycles in three important ways:
+
+1. Speed and value.
+
+AI tools are widely available, making them more readily accessible by organizations and consumers.
+
+2. Non-linear adoption.
+
+Rather than isolated pilots followed by cautious adoption, we are seeing many organizations trialing AI across functions from the start and letting the whole organization play a part in defining how it will be best used.
+
+3. Top-down attention.
+
+CEOs and board members are more directly engaged, recognizing AI as a strategic lever — not just an IT initiative.
+
+These three factors alone make the talent implications profound and immediate. Leaders need to understand not only the possibilities but also the prerequisites of taking on AI. So, how can healthcare organizations prepare — and what kind of leadership traits are most important?
+
+Where is your organization on the AI journey?
+
+Do we need a chief AI officer? It’s a question we are asked all the time, perhaps not surprising when you consider the level of attention AI is getting and the natural desire to stay ahead of the curve on a leading trend. However, in our experience, the more informative first question is something different: Do we know what data we have and how to use it in decision-making? How an organization thinks about AI (and in turn AI leadership) depends first on where the organization stands in terms of how it collects, processes, analyzes and syndicates data.
+
+Every company’s situation is different, but in general we see three phases of data maturity. Understanding where you are on the data maturity curve is central to understanding how to capture the full benefits of data — and by extension artificial intelligence — and what kind of executive you need to lead you there.
+
+Below we look at these three phases and the leadership implications of each.
+
+1. Nascent and eager.
+
+For organizations early in the data maturity cycle, the focus is on cleansing, organizing and validating data in order to run analytics and gain insights for decision-making. Creating an aggregated, accessible data capability is a challenging and time-consuming undertaking, and yet it is the catalyst for accelerating the effective and productive use of AI.
+
+“The number-one thing to prepare the organization is governance,” said Deepesh Chandra, chief digital and information officer for Montefiore Einstein, an academic medical center in the Bronx. “People have no idea how to govern this technology or how to understand it. How do you negotiate legal contracts about AI? How do you protect your data from misuse? What kind of insurance do we need? Those are the first questions you need to answer.”
+
+Leadership needs: Technology operator
+
+At the nascent stages of the journey, organizations need a technology operator — an “on-the-ground” presence who can help build a robust data function that effectively captures, stores and shares data. As the role evolves, the person will need a strong business sense and understanding of how data can be used to inform decision making. But from the beginning, the leader will be focused on IT modernization, effective execution, enhanced security, program management and change management.
+
+2. Rising and anxious.
+
+For organizations that have already built the necessary infrastructure in a secure and scalable model, the next step is using machine learning or predictive analytics to better understand the information they’re collecting and start applying it to the business.
+
+Truly embracing AI requires more than just innovation, it demands integration, said Dr. David Rhew, global chief medical officer and VP of healthcare for Microsoft. “AI is not about the technology,” he said. “It’s about how the technology is integrated into workflow and the business models.”
+
+Leadership needs: Core business transformer
+
+During this phase, the organization needs someone who can champion data analytics and machine learning as critical corporate assets across all functional and industry domains. Overseeing all data management and governance, this leader works with stakeholders to establish data standards for the enterprise, working in a more strategic manner and building momentum and buy-in for new ways of working.
+
+3. World-class and accelerating.
+
+At the top of the pyramid are organizations with robust data and analytics functions that are already using AI across multiple business functions. They are embedding the exploration and adoption processes into normal operating practices. For these organizations, the use of AI is real and consistent, and it is a tool to be leveraged in key decision-making functions. That said, most healthcare organizations are not yet at this level.
+
+“You need to be a learner — not just curious, but learning really, really quickly, and applying what you have learned to how you are working” said Nick Giannasi, CEO of Aspirion. “You might be wrong half the time, but if you pivot quickly enough to get the other half right, it makes all the difference.”
+
+Leadership needs: Visionary and evangelizer
+
+For more advanced organizations already using AI to inform and evolve the business at the enterprise level, or that are ready to integrate it in this way, the search is for a visionary and evangelizer, with a strong commercial orientation and an understanding of how data can be used to drive revenue in both traditional models and in new monetization models. These organizations will integrate and analyze data in real time to inform forward-looking business strategies. These leaders see not just the horizon, but the horizons beyond that. They are big thinkers and strategists who shape new business models, products and services, and engage in partnerships to take performance to the next level.
+
+What kind of executive do you need to lead your AI strategy?
+
+World-class and accelerating
+
+Using AI at scale across the enterprise
+
+Shaping a new, AI-driven business model
+
+Rising and anxious
+
+Using machine learning/predictive analytics to understand the information being collected
+
+Applying learnings to the business
+
+Nascent and eager
+
+Cleansing, organizing and validating data
+
+Running analytics on the enhanced data
+
+Back to that first question about a chief AI officer…
+
+Looking at these leadership needs and thinking about that earlier question — Do you need a chief AI officer? — the short answer is, as you might expect, “It depends.” Perhaps, in some cases, a chief AI officer role may be warranted, if it can help drive cross-organizational improvement and growth. But more important is a broader question: What AI-related talent does my organization need to set the tone, pace and agenda for data maturity and ongoing strategic, operational and process improvement so that the organization is stronger and continuing to thrive five years from now?
+
+All healthcare organizations — payers, providers, life sciences and medical technology companies alike — have a unifying goal of improving the health and wellbeing of the patients and communities they serve. With the right governance and “guardrails” in place, AI can advance and improve all points along the care continuum from the discovery of new therapies to the frictionless connectivity of new drugs to the right providers and patients, to streamlined payment processes across all stakeholders.
+
+AI can redefine the future of healthcare — streamlining workflows and unlocking innovations that improve outcomes and elevate the health of entire communities. The focus now is putting the right leaders in place to bring this vision to life.
+
+Authors
+
+Katie M. Tucker
+
+Atlanta
+
+Edward M. Stadolnik
+
+Chicago
+
+Ian Finlay
+
+Los Angeles
+
+Alexa Guittari
+
+New York

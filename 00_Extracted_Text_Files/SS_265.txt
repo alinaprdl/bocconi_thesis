@@ -1,0 +1,105 @@
+Digital Infrastructure: What it Takes to be a Successful Leader
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Digital Infrastructure: What it Takes to be a Successful Leader
+
+By
+
+Jonathan Holman and
+
+Bernhard Kickenweiz
+
+June 2023
+
+| 4 min read
+
+Authors
+
+Jonathan Holman
+
+London
+
+Bernhard Kickenweiz
+
+New York
+
+The demand for data bandwidth — and the digital infrastructure needed to support it — continues to grow exponentially. In the nearly 30-year evolution of the Internet Age, from dialup modems and the first website browsers to 5G and ChatGPT, the demand for the physical and electronic infrastructure needed for data access and transmission, computer and transaction processing, and information storage is only increasing. And as these technologies continue to improve and consumers continue to shift toward higher-bandwidth activities like video, the demand will only grow.
+
+For telecommunications and technology companies providing access to consumers, these advances have exposed antiquated telecom and computing infrastructures. This is leading to something of a new gold rush, where a number of players across sectors are seeking to gain first-mover advantage and scale in the next generation of digital infrastructure.
+
+In this article we look at the key trends in digital infrastructure and their leadership implications.
+
+DIGITAL INFRASTRUCTURE: A BROAD SCOPE
+
+Fiber
+
+Replacing low-bandwidth copper wire with fiberoptic cable can bring higher transmission rates, reliability and lighter weight.
+
+Data center
+
+Hyper-dense computing platforms replace or augment the need for corporate data centers.
+
+Towers and 5G
+
+More towers to facilitate shorter propagation distances of 5G as well as higher bandwidth and potential for edge computer applications.
+
+Indoor Wireless/Small-Cell Technology
+
+5G deployment hampers indoor wireless, new solutions will increase coverage, reliability and security in smart cities, factories, airports and hospitals.
+
+Communication infrastructure services
+
+Tight margins are common amid heavy competition, so strong, fast and efficient construction and engineering services partners are critical.
+
+Key Trends in Digital Infrastructure
+
+Greater bandwidth means more data and greater data storage needs. More data has been created in the past three years combined than in all previous history, and data traffic growth is expected to continue soaring. This has led to a corresponding increase in the need for data centers — ideally diversified and closer to the user for real-time applications.
+
+We remain in the early days of the migration from corporate to cloud-based data centers.  According to IDC, only 44% of data center activity is in the cloud. Outsourcing much of these workloads to third-party data centers offers more greater savings, security and geographical diversification. Migration to hybrid cloud solutions is also increasing, as it proves attractive for affordably shifting corporate workloads while maintaining critical corporate data in private data centers.
+
+A wider range of investors are emerging. Investor competition within this space is evolving. Once primarily of interest to private equity, this space is dominated by pension funds and infrastructure funds. Executives with investor savvy may target pension funds in particular, as future expenditures are well matched to future inflows for these capital-intensive projects.
+
+Edge computing takes hold. Edge computing is the next generation of content delivery networks, using distributed micro-data centers to place application workloads closer to end-users and to the machine-to-machine interactions (e.g., IoT) that demand faster response times. SD-WAN (Software-Defined Wide Area Networking) and SASE (Secure Access Service Edge) represent critical virtual networking technologies for edge applications. Both collaboration and competition exist for providers of hyperscale and regional data centers, telecom operators, wireless tower, and networking equipment.
+
+Sustainability needs to be a priority. Public and private data centers consumer massive amounts of power to operate — an expensive proposition as well as one with a massive carbon footprint. As governments and consumers scrutinize companies with a negative environmental impact, they may avoid doing business with data center vendors without a plan reduce carbon emissions. Companies in this space will need to embed sustainability into operations and organizational design — including dedicated sustainability-focused executives with a remit to bring meaningful change — to both reduce environmental impact and boost growth.
+
+Emerging markets offer a growing market. Explosive growth in emerging markets offers major potential as they rapidly build out their digital infrastructure. First-mover advantages—and the potential market share—cannot be overlooked as leaders consider investing in data centers, towers, fiber infrastructure and other assets.
+
+Digital infrastructure: Leadership implications
+
+As digital infrastructure takes hold, the need for strong leadership remains as important as ever. Below are a few of the key skills and organizational attributes that leaders must embrace going forward:
+
+“Challenger DNA”
+
+Disruptive investments require a next generation of leaders who can challenge their organizations to take steps to preserve and build on their market position. Successful executives need to make bold decisions with more business agility, especially compared with traditionally larger and more hierarchical telecom organizations.
+
+Financial acumen
+
+The billions of dollars of investments in digital infrastructure require an intense focus on unit economics from the start — and a leader who knows how to capture this. No amount of investment capital will bring improvement if the numbers are flawed. As rising interest rates endanger both earnings and operating cash flows, the leading executives are able to remodel financial build plans to maximize expected returns. Investors will be looking for senior executives aligned with them on both earnings targets and expected exit timelines. Executives understand how their decisions will impact company results and valuations in the short, medium and long term.
+
+Flatter organizations
+
+In smaller, flatter organizations, executives need to be able to “get their hands dirty” in every detail of their business, and cannot delegate as much as they might have done elsewhere. These executives also need to be “always on” and exceptional communicators down to their teams and up to anxious investors who want constant updates on progress.
+
+Operational efficiency orientation
+
+Investors in digital infrastructure have accepted the thesis that there are advantages to larger-scale investments and corresponding larger fiber/tower/data center footprints across hundreds or thousands of miles. But their success in these massive investments hinge on finding executives who understand how to create those efficiencies quickly in a range of operational functions including billing, customer care, online support, service delivery, trouble ticketing, sales operations, marketing and more. Any new executive needs to walk in the door knowing “what good looks like,” ready to track and communicate impact and results.
+
+Marketing/commercial skills are in demand.
+
+As they continue to invest billions in fiber to the home (FTTH), companies need leaders who can successfully acquire the new subscribers to justify the investment. Executives with commercial and consumer marketing backgrounds are in high demand, thanks to their skill sets and experience with acquiring new subscribers rapidly.
+
+Authors
+
+Jonathan Holman
+
+London
+
+Bernhard Kickenweiz
+
+New York

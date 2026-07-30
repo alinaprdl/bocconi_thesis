@@ -1,0 +1,227 @@
+CFO focus: Setting up a carve-out for success | Insights | Heidrick & Struggles
+
+Identified Country:
+
+CFO focus: Setting up a carve-out for success
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Financial Officers CFO focus: Setting up a carve-out for success
+
+Interviews with nine finance executives who have led through a carve-out highlight the unique challenges and four priorities that will help set the new business up for success.
+April 10, 2025
+
+Claire Higgins ,
+Samuel John ,
+Anna Renslo
+
+Carving out a business from a larger business is a huge endeavor. Over the course of several months, leaders must create a new organization to operate entirely on its own, with stand-alone people, systems, processes, assets, resources, and capabilities. CFOs play a crucial role.
+
+We spoke with nine financial leaders in the United States who have been through the carve-out process1 about the common challenges, what to prioritize during the transition, and the experiences and mindsets that were most helpful to them. There is no exact playbook, but a few common themes emerged that can help other CFOs succeed and make the most of these opportunities.
+
+Unique challenges for carve-outs
+
+CFOs pointed to three areas where pitfalls commonly occur.
+
+Designing the transition services agreement
+
+The transition services agreement (TSA) is an essential part of a carve-out because it defines the expectations and agreements between the parent entity and the new one, outlining who is responsible for what and in what timeframes. Getting this right is critical for risk mitigation for the new company and for the overall success of the transaction. “Once the carve-out is spun off, providing transition services is not the parent entity’s core business, so you’ll get varying levels of commitment,” said one CFO. Having a well-planned TSA can help ensure responsibilities and handoffs are clear. It will also establish the timeline: as soon as the transition begins, the stopwatch starts. Given how many crucial processes and employees fall into the finance function, having input on those timelines is crucial. “It can be stressful because if you fall behind on the migration and those TSAs run out, that’s it. The parent company can choose to extend them, but typically, if they do, they’re very expensive,” said another CFO.
+
+Assembling the team
+
+It can be harder than many CFOs expect to identify the right people—internally and externally—and to bring them onboard quickly to ensure a functional team exists by the time the company needs to stand alone. However, CFOs face two key hurdles in recruiting both internal and external leaders: people's concerns about the long-term stability of a newly founded company and about career progression in a smaller organization. In addition, the parent entity might not be able or willing to suddenly lose expertise or institutional knowledge in critical areas such as SEC or other external reporting, debt management, or investor relations. CFOs in private equity-backed companies may face an additional hurdle because not everyone enjoys working in a PE environment or thrives in their trademark fast pace.
+
+Finally, as they work through these challenges, CFOs agree there are a few priority areas of expertise for the finance function, described below.
+
+Financing as a stand-alone business
+
+It can be exciting for carve-out leaders to drive their own company. But the transition to financial independence can be more significant than CFOs expect. “The good news is you control how you allocate capital, but the bad news is you have to generate all that money yourself,” said one CFO. “So sometimes there has to be a little education around cash flow and capital allocation and how to prioritize it.”
+
+Four priorities to be a successful carve-out CFO
+
+A handful of priorities can position the CFO to tackle these potential pitfalls when establishing a carve-out.
+
+Learning to stand alone
+
+One CFO summed up the initial strategy this way: “In the first two years after a separation, prioritization is very easy. Your number one priority, your number two priority, your number three priority is to get off the TSA.”
+
+In addition to external challenges such as stand-alone financing, CFOs also need to be focused on the underlying transactional processes that keep the business moving. “People don’t generally pay attention to routine things like payroll unless there’s an issue,” said one CFO. Cash flow forecasting and P&L modeling are other areas that CFOs need to get right coming out of the gate.
+
+Another critical element in allowing the new company to become independent is IT separation, starting with establishing an enterprise resource planning (ERP) system for the carve-out. Though this might not seem like a finance priority, as one CFO explained, “CFOs need to have a strong IT orientation for getting the business separated effectively; standing up the ERP system is a massive undertaking.” While some carve-out leaders may want to make IT changes for the business at the same time, CFOs warn that doing so can compound the already-difficult task of separating.
+
+Understanding the most important roles to fill first
+
+“The success of the CFO depends on building the right organizational capabilities, but time is always short,” said one CFO. If you don’t make those calls quickly enough, you won’t be able to scale up to be a separate company.”
+
+The key skill sets the CFOs we talked with prioritize are expertise in capital markets, treasury, tax, external reporting, and internal audit.2 Another CFO stressed the importance of the financial planning and analysis roles as well: “That is how finance is most visible throughout the rest of the company, so those are very important roles. You’re looking for problem solvers with sound business judgment who can contribute advice, analysis, and modeling that helps the business make better decisions.”
+
+While there can be some benefit to bringing people on board from the parent entity—which is more possible when the parent companies have robust succession planning in place—as noted, parent companies cannot always part with those leaders. “If you’ve got the talent internally and they’re the ones who can create a new world for you, hang on to them,” said one CFO. “But otherwise, don’t be reluctant to go outside.”
+
+Setting stakeholder and shareholder expectations
+
+Strong stakeholder management is an integral part of a successful transition. “There’s a constant need to understand and communicate where we were, where we are, and how much we still need to do,” said one CFO. And this needs to go out to the board, to the new owners, to the new team—all these stakeholders need to be brought along on the journey and know what to expect. “At the end of the day, a big part of being a CFO is storytelling and delivering on what you promise,” added another CFO. Even when companies are going into private ownership, clear communication remains critical. This kind of communication requires some nuance, demonstrating growth potential while not overselling expectations.
+
+When communicating to the internal team, CFOs should be explicit about their role in the transition and at the carve-out. “It’s very easy for someone to say, ‘I have no idea what my future is going to be. I’m out of here,’” shared another CFO. Clear communication and incentives for those who work hard to make the separation a success are key to retaining talent.
+
+Shaping a new culture
+
+According to one CFO we spoke with, “The cultural aspect of carve-outs cannot be overstated.” In periods of intense transformation, culture shaping might drop down a CFO’s agenda, given all their other priorities. However, when creating a new organization every senior leader needs to make shaping the ways people work together a priority.3 Often the behaviors and structures that worked at the parent entity will not work at a much smaller, brand-new company. “There were certain ways of thinking at the parent company that worked in that context but just could not be perpetuated if we were going to be successful,” said one CFO. “People understood that, but certain behaviors are just reflexive.” It falls to the entire new leadership team to continuously think about culture and help promote the right behaviors. Another CFO added, “If you don’t have the culture aligned, even if you have the best strategy, nobody will follow you at the end of the day.”
+
+The right carve-out CFO: Critical experiences and mindset
+
+To achieve the priorities described above, carve-out CFOs must have the right experience as well as the right mindset going into the transition. Our conversations suggest what leaders should look for when choosing a CFO for their carve-out.
+
+The right experience
+
+The CFOs we spoke with agreed that a carve-out transaction is challenging, even when compared to other significant changes. So, while carve-outa CFO can succeed without previous experience in a carve-out transaction, other related experience in a transaction or in setting up a company is highly beneficial. “If you haven’t been a carve-out CFO before, then ideally you would have been a controller or vice president or even a project leader on a different deal, so you understand the iterative process that’s required to create a new entity,” explained one CFO. Another highlighted the importance of change management or transformation experience. Both of these types of experience, along with the foundational functional expertise any senior finance leader should have, will help carve-out CFOs succeed in meeting the four priorities noted above.
+
+Other required experience depends on the deal. For example, the CFOs we spoke with noted that public-company CFO experience is crucial for a carve-out that’s going public but not for one that’s going private. “What comes to the fore in situations like [going public] is having an operationally oriented CFO who’s strong on the process side—so, all the back-office plumbing but also the business-facing FP&A skill set,” said one CFO.
+
+Finally, another CFO added “A separation often creates good step-up opportunities for people who have been a senior finance leader in the parent company,” said one CFO. “But if they haven’t been through it before as a CFO, they’re going to need to come up to speed quickly”—and bringing on a CFO who needs to do so may be more risk than many carve-out leaders want to take on.
+
+The right mindset
+
+Because carve-outs move quickly, the CFO needs to have moxie—to move with conviction and speed and to not be afraid to be direct. “They should allow for opinion but not so much that it becomes a debate and leads to decision paralysis,” said one CFO. “They should understand that things aren’t going to be perfect the first time and be able to take a step back, assess what’s important, and put a plan in place to course correct.”
+
+At the same time, these transactions have lots of moving parts and tend to cross every function, so the CFO needs to have attention to detail. “A CFO that sits at the top and watches and directs is going to miss something,” said one CFO. The CFO should want to get their hands dirty. Said one CFO: “They should come from a place of service and want to build something.” But they also shouldn’t be afraid to tear things down when they’re not working—be it a process or way of thinking. In the end, one added, “It’s not your brand-building expertise that matters the most; it’s your hard-line focus.”
+
+***
+
+Many of the CFOs we spoke with expect to see an uptick in this kind of deal going forward, making it an important time for CFOs or aspiring CFOs to start thinking about what it takes to succeed in this context. While the carve-out process can be daunting and demanding, CFOs also say it can be a lot of fun. “A lot of people look back and say, ‘It was a great learning opportunity and a great doing opportunity,’” said one. Not to mention that there can be a lot to gain economically. But the most important thing? “A carve-out CFO just needs to know that they’ll have to navigate through unique changes and unknowns, and that the timing—well, it’s never going to go how you think it will.”
+
+About the authors
+
+Alyse Bodine (abodine@heidrick.com) is a partner in Heidrick & Struggles’ Philadelphia office and a member of the Corporate Officers and Financial Officers practices.
+
+Claire Higgins (chiggins@heidrick.com) is a principal in the Philadelphia office and a member of the global Financial Officers Practice.
+
+Samuel John (sjohn@heidrick.com) is a partner in the New York office and a member of the Financial Officers and Consumer Markets practices.
+
+Anna Renslo (arenslo@heidrick.com) is a principal in the Philadelphia office and a member of the Financial Officers Practice.
+
+References
+
+1 We interviewed nine executives, of whom eight were CFOs and one a partner in a private equity firm with experience in carve-out transactions and hiring CFOs in this context.
+
+2 The CFOs we spoke with emphasized that, in a carve-out IPO, the external reporting and capital markets skill set is critical.
+
+3 For more on how leaders shape culture, see Anne Comer, Priya Dixit Vyas, Rose Gailey, Jenni Hibbert, Adam Howe, Ian Johnston, John McKay, Holly McLeod, and Dustin Seale, “Special feature: The pillars of culture shaping,” Heidrick & Struggles, October 27, 2022, heidrick.com.
+
+Related Services & Industries
+
+Carve-Outs
+
+Corporate Transformation
+
+Financial Officers
+
+Related Content
+
+Financial Officers
+
+Finance function focus: How chief tax officers are rewriting the role of tax
+
+The modern chief tax officer is part strategist, part operator, and part talent builder—rewriting the tax function for a more complex, capital-conscious era.
+
+Financial Officers
+
+Crypto and digital assets focus: Finding the right leaders for a maturing sector
+
+Crypto is a high-stakes market, and competition for capital, customers, and talent is brutal. Crypto companies should look for four crucial capabilities in their leaders.
+
+Compensation Trends
+
+2025 Private Equity-Backed Chief Financial Officer Compensation Survey
+
+Explore data from private equity professionals in North America and Europe on organizational structure and compensation for this critical role.
+
+Financial Officers
+
+Driving organizational transformation in family-owned businesses: A conversation with Björn Lahm, CFO of Harting Technology Group
+
+Björn Lahm shares how he maintains culture and aligns goals with values within a family-owned business.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

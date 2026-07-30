@@ -1,0 +1,190 @@
+A Conversation with Troy Young of Hearst
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+A Conversation with Troy Young of Hearst
+
+“To lead change, you have to be able to change the product.”
+
+August 2016
+
+| 5 min read
+
+When Troy Young joined Hearst Magazines as president of Digital Media in
+2013, the company was at a crossroads. With brands including Cosmopolitan,
+Esquire and Good Housekeeping, the company had a great deal of cachet, but
+translating those brands into digital properties was progressing slowly: the
+content management system (CMS) was nearing obsolescence, and teams
+were siloed and not working harmoniously.
+
+Young had a clear vision and plan to reinvent Hearst Magazines Digital
+Media (HMDM). Over the past three years, he has initiated and activated
+a sea change in the division, introducing a new philosophy and creating
+a new platform that seamlessly integrates marketers’ messages into the
+editorial stream. His role encompasses business development, technology
+and operations, editorial content and more. The numbers tell the story of
+HMDM’s success: Hearst’s 21 brands boasted 162 million unique views
+in June 2016, a 24 percent increase over the same period in 2015. It also
+undertook several successful launches such as Delish, a website for people
+who love food that has skyrocketed to an audience of 11 million UVs and
+300 million video views in less than 18 months; LENNY, a partnership
+with Girls co-creators Lena Dunham and Jenni Konner; and a collaboration
+with Snapchat on a new Discover brand, Sweet. Also, Hearst’s embrace
+of off-platform distribution has led to a 47 percent growth in social media
+reach, and the company now boasts more than 110 million followers
+on Facebook, Twitter, Pinterest, Google+, Instagram and YouTube.
+
+Young has a wealth of experience in the digital realm. As
+the president of Say Media, he went from selling the
+company’s first ad to overseeing more than $100 million
+in annual revenue. Prior to Say, Young held several executive
+positions at Omnicom’s digital agency Organic,
+including the role of chief experience officer, where he
+advised on strategy and created award-winning work for
+clients including American Express, Virgin Mobile, Sirius
+XM, Chrysler and Bank of America. He has held numerous
+advisory roles with digital media, mobile and
+commerce companies, and currently serves on the
+boards of the Interactive Advertising Bureau (IAB) and
+Digital Content Next (DCN).
+
+Young took time recently to discuss how he transformed
+Hearst into a digitally forward-thinking
+company, why he bristles at the title chief digital officer
+and how Taylor Swift’s hairstyles inspired a new operating
+vision for Hearst.
+
+Spencer Stuart: Given that Hearst was founded in
+1887, what made you think the company could be
+changed when they asked you to join?
+
+Troy Young: I thought the company could change
+because the time is right for change, and because they
+had to change. To put it simply, what magazines were
+doing in digital wasn’t working.
+
+We talk a lot about what it takes to be a successful
+digital change agent. Tell us about what you did at the
+beginning of your tenure, when you took some fairly
+controversial actions.
+
+We worked very closely with the print editors, including
+Joanna Coles at Cosmopolitan and Robbie Myers at ELLE,
+to ask hard questions about what a successful media
+brand looked like. And then we hired new site editors, and
+moved many of them off the print floors. We created
+spaces for digital editors to be great at digital.
+
+How was that move received? Were people glad to
+have that leadership finally gone, or were they terrified
+of a drastic change?
+
+I think there was a little bit of both. It was important that
+the editors knew that I really cared about the product. So we had long, thoughtful conversations about why we
+weren’t doing what we could be and how it was compromising
+our mission. So the control reflex was hard.
+
+We focused on Cosmo to begin with, because I thought it
+was the highest potential internet brand. I hired a new
+editor and put everyone — the analytics guy, all the graphics
+people, everybody — in one room on the 38th floor of
+Hearst Tower and said, “Make media.” And the audience
+grew from 9 million to 27 million. And what does that do
+to a company in transition? It gives them hope.
+
+You mentioned that you didn’t want to be a “chief
+digital officer” or have that title. Can you expand on
+that a little bit? Why was that title problematic?
+
+Because the scope of that job is really about helping
+business units be more successful with digital. To me,
+the platform is half of it — and admittedly, it’s a really
+important part — but the most important part is the
+content and the consumer experience. To lead change,
+you have to be able to change the product. And when
+you change the product, there has to be material change
+in your revenue. So whatever you do, you want to be
+able to create quantifiable success in your change effort.
+And that’s what we were able to do.
+
+How did you facilitate this change? You
+relocated everybody, but did you make other
+organizational changes?
+
+We observed that, for example, Taylor Swift would get a
+haircut, and life on Earth would stop, and we’d have to
+write about it across nine brands. And what we were
+doing made no sense. Everyone did their own version.
+So we connected our efforts: write one article and then
+change the head and ”dek” and the imagery and use it
+across the portfolio. We created an efficient approach to
+production without compromising the voice of the
+brands. Basically, our digital business is now run totally
+horizontally, which means 21 brands are run like a single
+property and they are all responsible for their voice. But
+they all collaborate with data, platforms and content
+sharing. And that’s allowed us to continue to grow, to
+operate more efficiently, and ultimately make better
+content and more money.
+
+You have figured out a way to harness Big Data so
+your brands create and capture it. You also built your
+own platform. Can you tell us about that?
+
+We used to have a monolithic system that did everything
+and did nothing. We got feedback from editors and freelancers
+that the system was not easy or intuitive to use,
+and it made it difficult to quickly create and publish a
+piece of content. Then we found a lightweight content
+management system, and decided it would become the
+basis for the thing that we branded Media OS, Media
+Operating System. So we started building on it, and that
+was the beginning of our platform aspirations.
+
+Eventually, we created something called Buzzing at
+Hearst: every five seconds, it ranks every piece of
+content we publish across newspapers, magazines and
+our TV networks based on their performance relative to
+an article published from that brand in that same timeframe.
+It puts them in a list and it’s like this pulsing
+brain inside the company, and any editor can see what’s
+doing well in real time. Then they can instantly take a
+piece of content anywhere around the world, modify it
+and put it up on their site.
+
+And then on the back of that, we started getting more
+sophisticated with how we were handling data, so
+editors can go in and test images and test headlines, so
+they can optimize performance before they put it up on
+social. So having that platform vision is really important.
+
+Basically, our digital business is now run totally horizontally, which means 21 brands are run like a single property.
+
+Troy Young,
+
+President of Digital Media, Hearst Magazines
+
+With regards to talent, how are you looking at rounding
+out your team as you create this global platform?
+
+It depends on which part of the organization you’re
+looking at. For the longest time, getting good tech talent
+and tech leadership was very difficult. It wasn’t until we
+started to develop the reputation as a place that
+embraced real rigorous thinking around technology that
+we were able to get new leadership and recruit the right
+kind of people. Personally, I would say it’s not about a
+single person — it’s not just about an editor or a product
+person or a technologist. It’s about a lot of people
+working together. So I really look for passionate human
+beings who can work together. And I think because of
+our reputation now in the market, we’re able to get
+better talent.
+
+Download
+
+Download

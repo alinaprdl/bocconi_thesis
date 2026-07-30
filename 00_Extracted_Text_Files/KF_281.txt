@@ -1,0 +1,130 @@
+Marketing in the Age of AI: Back to the Future
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Perspective|November 25, 2025
+
+Marketing in the Age of AI: Back to the Future
+
+More than ever, marketers need traditional skills such as critical thinking, problem-solving, and storytelling.
+
+The problem: In recent years, an emphasis on performance marketing and data has led CMOs to over-index on technical talent at the expense of storytelling and critical thinking.
+
+Why it matters: If marketing teams aren’t asking the right questions and crafting compelling stories, data-driven insights won’t help CMOs who are under pressure to demonstrate ROI.
+
+The solution: Realign talent strategies to create a mix of talent—both analytical, data-oriented experts and traditionally trained marketers—that can extract the most value out of AI.
+
+Think about the amount of data that comes out of a single NASCAR race. Lap times, top speed, and number of pit stops just scratch the surface. Fans devour data on downforce and drag readings, jack drop times, driver behaviors, and hundreds of other data points. For Tim Clark, NASCAR’s chief brand officer, collecting and analyzing that data used to take days. Now, all of it can be fed into AI and, within minutes, turned into content for NASCAR’s website properties, social media channels, and other platforms.
+
+It sounds like a dream scenario for Clark, whose primary job is to grow NASCAR’s audience, who, like fans of any sport, are a passionate bunch. “Fandom is not intended to be rational, so we have to really be careful to put what the data is telling us into context,” says Clark.
+
+AI can tell Clark’s team that a particular driver is generating a lot of social media mentions, but not why. That’s where critical thinking, decision-making, and other distinctly human skills come into play—by helping Clark, whose other primary role is to protect NASCAR’s reputation, determine what corresponding actions his team should take, if any. “You need humans to interpret the nuance of what the data means to the race, the driver, the season,” he says. “Otherwise, what’s the value?”
+
+“In the age of AI, marketers need old-school storytelling and creative skills more than ever.”
+
+To be sure, marketing leaders are going through a bit of a “back to the future” moment. Or, as Matthew Siegel of the Technology and Marketing Officers practices at Korn Ferry puts it, “In the age of AI, marketers need old-school storytelling and creative skills more than ever.” It’s an ironic position for marketers to find themselves in. After all, they developed their powerful analytics platforms by relying on increasingly sophisticated digital tools. The function switched its emphasis from brand to performance, leaning into data and analytics to prove marketing could generate revenue, not merely incur costs. Just as marketing teams have become breeding grounds for new tools, CMOs have become vanguards of innovation, taking on ever-increasing responsibilities for company-wide technology decisions and investments.
+
+Over the last two decades, from a talent perspective, fewer and fewer marketers came from traditional liberal-arts or creative backgrounds; more and more, they had backgrounds in engineering, social media, SEO, data analysis, and other digital and technical fields. And while the need for such talent isn’t going away, the pendulum is swinging back, for many sophisticated marketing functions, toward traditional skills. “The paradox for leaders is that the more technical marketing becomes, the more they need classically trained talent,” says Peri Hansen, leader of the Marketing Officers practice in North America at Korn Ferry.
+
+* * * * *
+
+It happens in sports all the time. A pitcher is throwing a gem, but the pitch-count data tells the manager to pull him, which he does—only for the reliever to blow the game. Or on a critical fourth down, the football coach calls for a run play, because the data tells him to, even though the defense has been shutting down the run all day. These are fundamentally strategic decisions with imperfect options. Data isn’t the entire answer, as many have come to believe, but it is a major part of it. Raja Haddad, chief marketing officer of MRI-screening provider Prenuvo, says the analogy between sports and marketing couldn’t be clearer—like coaches, he says, marketers have become too enamored of data, sometimes to their detriment. “The rise of digital performance marketing has led to an outsized reliance on data-driven decision-making,” he says. “It’s rarely ever that black-and-white.”
+
+In baseball, whose 162-game season presents a large sample size, a purely data-driven decision might make sense. But perhaps it wouldn’t in football, which has only 17 games. Haddad’s point is that in marketing, as in football, slavish deference to data is rarely enough: Human beings must first understand the underlying narrative, ask appropriate questions, and interpret the possible answers.
+
+Don’t misunderstand what he’s saying, however. The value of data and the importance of performance marketing in demonstrating ROI to leaders is not lost on him. His point is that if marketing is a puzzle, data is a piece of it, perhaps even its cornerstone. But he’s concerned that the rise of AI could transform marketers into bland regurgitators of homogenous outputs. “We’d be missing the point of AI if it becomes an excuse to make marketers into optimizers instead of multipliers,” he says. AI can quickly create hundreds of campaign options for marketers to test, for example, and data will show which one performs the best. “But what if all the options were mediocre to begin with?” asks Haddad. “Efficiency always has an expiration date—curiosity, intuition, and critical thinking don’t.”
+
+“Efficiency always has an expiration date—curiosity, intuition, and critical thinking don’t.”
+
+For Shonodeep Modak, chief marketing officer of Schneider Electric’s Energy Management business, Haddad’s question has profound business implications. Schneider Electric has more than 150,000 global employees and revenue of about $40 billion annually, and Modak is responsible for getting its messaging out at scale yet also personalizing it for a wide array of stakeholders, including employees, customers, investors, government officials, regulators, and members of the media. Instead of producing just five broad emails for a campaign, AI can deploy targeted messages to thousands of individuals. This enables Modak’s team to experiment with creative concepts, collect performance data, and find the narratives that resonate most. For a company of Schneider Electric’s size, even a marginal improvement in email clicks to their website can have a significant business impact.
+
+Small wonder then that as soon as generative AI hit the scene, Modak set up an AI task force to find the best platform and onboard the company’s 1,500 marketers to leverage it for speed and efficiency. AI, as a tool, can ensure consistency of tone and voice, as well as provide a depth and richness of content so that a company is, as Modak puts it, “speaking to our customers in the same way they think.” That’s the easy part. Comprehensive upskilling and adoption for his staff are part of the long-term vision. “AI can boost our impact,” he says, “but it’s our people at the core who will have to utilize this new technology to make ourselves better marketers.”
+
+5 Skills Marketers Need in the Age of AI
+
+Critical Thinking
+
+Frame the right problems for AI to solve, then analyze the outputs and connect them.
+
+Writing and Communication
+
+Get the right outputs from AI by asking the right questions, then shape and sharpen them to align with the brand vision.
+
+Persuasion and Influencing
+
+Build compelling brand narratives that rise above the noise to connect with employees, customers, and investors.
+
+Curiosity
+
+Rethink processes and adopt new solutions by being open to experimenting and making mistakes.
+
+Collaboration
+
+Spark new ideas for marketing teams by observing how other functions use AI differently.
+
+It used to be that brand and performance were looked at as two separate pillars: Marketers were driven by either data or intuition. But Korn Ferry’s Siegel says AI is showing that the two aren’t mutually exclusive. In fact, they are intimately tied. “After potentially over-indexing on technical, performance-oriented specialists, top CMOs are turning their attention back to the creative storytellers in an attempt to strengthen the foundations of their marketing strategies,” he says. Optimization is important, he adds, but teams that have compelling narratives to optimize in the first place will be at the forefront of effective AI adoption.
+
+“If you want to get the most value out of AI, there’s a strong argument that investing in people is the way to do that.”
+
+Put another way, as a growing body of research shows, firms need talent with distinctly human skills to get the most out of AI. A “prompt engineer” is equal parts critical thinker and technical expert, and both skills enable them to clearly frame challenges for AI to solve. Korn Ferry recently defined the AI-augmented leader as someone who can create an environment in which people and AI come together to develop the AI-driven capabilities firms need.
+
+Or, as NASCAR’s Clark puts it, “Human skills fell by the wayside for marketers, but if you want to get the most value out of AI, there’s a strong argument that investing in people is the way to do that.”
+
+For more information, please contact Peri Hansen at peri.hansen@kornferry.com or Matthew Siegel at matthew.siegel@kornferry.com
+
+Our Expert
+
+Our Experts
+
+Peri Hansen
+Senior Client Partner, Sector Leader, Consumer Products, North America, Leader, Marketing Officers Practice, North America
+
+Matthew Siegel
+Principal, Global Technology, Marketing Officers, Board & CEO
+
+INSIGHTS TO YOUR INBOX
+
+Stay on top of the latest leadership news with This Week in Leadership—delivered weekly and straight to your inbox.
+
+​
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Perspectives
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

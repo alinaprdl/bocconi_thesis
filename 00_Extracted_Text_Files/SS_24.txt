@@ -1,0 +1,125 @@
+Talking AI and Transformation in Telco
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Talking AI and Transformation in Telco
+
+A conversation with Jorge Fernandes
+
+By
+
+Vikram (Vik) Sahney
+
+March 2026
+
+| 7 min read
+
+Author
+
+Vikram (Vik) Sahney
+
+Seattle
+
+Key findings
+
+AI in telco represents an architectural and leadership shift (not a simple product pivot), spanning both external, revenue-generating offerings and internal efficiency “value pools” across functions.
+
+Telco’s trust-and-regulation context creates a core tension between deterministic networks and probabilistic AI, requiring explicit governance, risk policies, documentation and ongoing human accountability for outcomes.
+
+Successful transformation depends on deep domain-and-AI fluency, redesigned workflows and ecosystem partnering; leaders must also address talent pipelines as automation removes “stair-step” roles that traditionally build experience and judgment.
+
+When walking the MWC halls, it was AI-everything. Do you think about this moment as two fronts: AI for internal efficiency and AI as an external, customer-facing product?
+
+Jorge Fernandes: Yes, AI is everywhere right now, though I’m not sure everyone fully understands what it is. For us, it’s not a simple product pivot. It’s a more fundamental architectural and leadership pivot. When you get into the details, you have to rethink how you architect technology and how leadership thinks about it — from the board down to the CEO and the leadership team — because the decisions around capital allocation and investment look very different in an AI world.
+
+On one hand, there’s external, revenue-generating AI. That includes investments we’re making across the infrastructure stack, such as subsea cables, satellite communications and data centers. On the other hand, there’s internal use of AI — less about direct revenue and more about optimizing the business.
+
+We look across functions and identify “value pools” we can improve: finance, HR, customer care, networks, IT, legal. That can mean conversational AI in call centers to reduce cost and improve customer experience, greater software-development efficiency in IT and systems integration, and AIOps across networks. Put together, we are a provider of AI through our systems integration business, an enabler of AI through our digital capabilities, and also a user of AI internally.
+
+What’s the biggest difference for a telco doing AI transformation internally versus a typical company? You mentioned leadership: what changes for telcos?
+
+Jorge Fernandes: Telcos are built on trust. We’re deeply regulated, and customers expect reliability. We’re a deterministic business — networks are engineered to behave predictably — while AI, by design, is probabilistic. That creates tension you have to manage explicitly.
+
+Capital allocation is another big difference. Telcos typically have long depreciation cycles of about eight years with heavy focus on return on invested capital. Some AI-related investments look similar, like data center builds that may have seven- to eight-year paybacks. But Graphics Processing Units (GPUs) are different. These help enable the training and deployment of complex AI models but have effective lifetimes closer to three years.
+
+If you’re doing GPU-as-a-service and you don’t adjust depreciation cycles accordingly, you’ll run into trouble. So leadership discussions now include platform economics at the board level: how to allocate capital, how to recycle capital from a stable telco business into growth areas like AI, and how to do that without losing the discipline that keeps the core healthy.
+
+The customer set also changes. If you’re providing infrastructure, you may be working with hyperscalers and they think in big increments like 100 megawatts as a minimum (roughly 10x typical telco loads). For GPUaaS, the economics are unforgiving: you often need a two-year payback, with maybe a third year of upside before you reinvest in the next generation of GPUs.
+
+Historically, telcos understand their returns: invest in network assets, earn subscription revenue, and manage a predictable model. How much does the senior executive “mental model” have to change when you start running AI businesses?
+
+Jorge Fernandes: The shift is significant, not only in expected returns, but in the fundamentals behind those returns. The data-center infrastructure business is better understood: the biggest challenge is securing power so you can secure long-term customer contracts.
+
+Where it gets harder is GPU investment and the question of use-cases. A key leadership lesson for us has been: If your AI for customers is different from your AI for yourself, you’re doubling cost and halving the learning. We have standardized our architecture to give us credibility with customers and make board-level investment conversations more concrete, because we can talk about internal use cases and external offerings using a shared foundation.
+
+Let’s look at customer-care transformation — voice assistants, AI answering calls, and so on. Leaders of large frontline teams can see a future where there’s far less “frontline care” because AI handles more. How do you manage teams through that transition, and what’s hard about moving toward agentic AI?
+
+Jorge Fernandes: Many teams are used to a very manual way of operating because telco is a people intense business. The move to agentic AI isn’t simple. To build agents well you need deep understanding of the business and deep understanding of AI. For example, building a customer-care agent requires someone who truly understands customer-care workflows, not just the technology.
+
+Quote
+
+There’s a principle I keep repeating: you can delegate the grunt work to an agent, but you don’t delegate the consequences. You don’t delegate accountability. Humans must judge outcomes and own the impact — especially in high-stakes domains.”
+
+Another shift is partnering. In the past, you might scale by hiring and training large teams in low-cost locations. Now you need ecosystem leadership: partnering with vendors, platforms, and specialists to build and train agents for specific functions. Because agents are probabilistic, you have to narrow their scope. That requires workflow experts who can define the process precisely and, importantly, redesign it. Otherwise you risk “automating” a process that was fit for humans but is a poor fit for an agent.
+
+And there’s a principle I keep repeating: you can delegate the grunt work to an agent, but you don’t delegate the consequences. You don’t delegate accountability. Humans must judge outcomes and own the impact — especially in high-stakes domains. Networks now look more like IT stacks so you still need experienced people behind the scenes making judgment calls.
+
+People build that experience by moving through roles. If AI automates many of those “stair-step” roles, how do you build future leaders who have enough experience to guide and oversee AI?
+
+Jorge Fernandes: That’s a real problem. We all build “scar tissue” over time by making mistakes. Engineers design architectures and live with the consequences. Operations teams troubleshoot and debug. Finance teams build models manually, learn where assumptions break, and develop instincts. That scar tissue becomes pattern recognition: you can sense something is wrong even before you can fully explain it.
+
+But in an AI world, if you delegate too much too early, you risk losing those learning loops. I don’t have a complete answer yet, to be honest, but we are starting to address it directly: what will the next one or two generations of our executive committee look like, and what does succession planning look like five to ten years out? There’s already a gap today, so we can’t ignore it.
+
+A practical step we’re taking is going back to first principles. Instead of automating an existing process as-is, we ask: what problem are we trying to solve, and what would the workflow look like if we designed it today? That builds a different kind of expertise — AI fluency combined with domain fluency — that’s needed to stand behind model outcomes and to challenge the model when something looks off.
+
+We also have to bring two worlds together. We’re exploring disciplined rotation across functions to build leaders so that when a model hallucinates or drifts, someone knows what questions to ask. It’s not “humans will be replaced by AI.” More often, people will be replaced by someone who understands AI.
+
+Is that emphasis on judgment and accountability part of your cultural change story internally? Because a major leadership challenge is how to talk about transformation and risk when some decisions are executed by AI.
+
+Jorge Fernandes: Exactly. From the board down, one of the biggest questions is risk. How do we think about risk in a world where we don’t have a handle on every decision, because some are being executed by agents? We’ve been doing a lot of work to define risk policies by running “war games,” bringing the organization together, and putting structure to what can otherwise feel like an abstract problem. Documentation matters. It helps people understand how this world evolves and what good governance looks like.
+
+Looking out three years, or as far as you want, what big changes do you see coming that leaders need to prepare for? What trends should be kept in mind when it comes to the next generation of leadership?
+
+Jorge Fernandes: Technology is going to change substantially. I expect a convergence from large, centralized data centers out to the edge and into the network — these will start collapsing into a more unified, orchestrated environment.
+
+Beyond AI models, we’re also seeing physical AI and robotics, and a world where inference becomes incredibly important at low latency. That pulls together networks, infrastructure, low-latency requirements, inference capability, and large data centers into one super-orchestrated AI Grid.
+
+Quote
+
+If you’re thinking about future leaders in telco, the traditional telco expert may not be the right CEO profile going forward. You need leaders who can think broadly about platform economics, demonstrate AI fluency, understand the ethical questions that come with new capabilities, and work across regulators and governments.”
+
+When we start thinking about 6G and what an “AI-native network” might mean, it becomes a very different world. Some 6G capabilities — like sensing — raise complex questions which policymakers are understandably paying attention to. Some of it is exciting; some of it is also quite unsettling.
+
+So if you’re thinking about future leaders in telco, the traditional telco expert may not be the right CEO profile going forward. You need leaders who can think broadly about platform economics, demonstrate AI fluency, understand the ethical questions that come with new capabilities, and work across regulators and governments. We need people who can lead organizations in cultural flux while also shaping a safe, workable future that delivers more benefit than harm.
+
+You work with clients and tech providers every day, so you’re close to what’s happening in AI. How do you see boards, including yours, embracing these changes? What do they need to do differently to support you and your leadership team?
+
+Jorge Fernandes: We’re fortunate to have a very experienced board with perspectives across industries. They’re listening and they’re asking hard questions: where are we investing, why, and what risks come with those choices? Risk is a major concern right now. The board supports decisions, but it also pushes the bigger questions to help ensure we’re focused on the right things.
+
+You said the telco executive of the future will look different. Will the board member of the future also look different?
+
+Jorge Fernandes: I think so. As leaders go through this transition by executing change and understanding how technology is shifting from capability-based to outcome-based approaches, those are the leaders who should evolve into core positions over time. Ideally there’s a natural transition of capabilities, but there is no certainty. It’s another reason the succession and talent questions matter so much.
+
+How has AI changed — and how will it change — your personal leadership style? And do you think there will be less demand for working with search firms because some “direct reports” might become agentic AI?
+
+Jorge Fernandes: On the search-firm point: I think you will continue to play an important role. The way candidates engage directly with a company versus through the recruitment industry is different, and you help ensure people understand that reputation matters. Burning a relationship with a search firm is not the same as burning one relationship with one executive. That dynamic will continue to matter.
+
+As for agents: yes, there will be an agentic workforce doing some of the legwork. Traditional analytics and reporting are likely to be increasingly automated. But again, the thinking and judgment remain essential, and deep workflow experts who deeply understand the business will continue to be in demand.
+
+Then there are some of the foundational models chasing AGI. If we reach something like AGI, the world changes again, and we may not fully understand what that looks like. But until then, current models require significant human supervision. That’s why the leaders you will be looking for are the ones who understand this ecosystem deeply, not just the buzzwords, but the practical reality of deploying AI across organizations.
+
+You may also like:
+
+Transforming a Legacy Telecom to an AI Connectivity Platform
+
+We learn how Lumen Technologies has evolved into an AI connectivity platform by rebuilding culture, teaching skills, empowering small wins, and embracing humble, team-led learning.
+
+Author
+
+Vikram (Vik) Sahney
+
+Seattle

@@ -1,0 +1,278 @@
+IT Leadership Success in the ASX 100: Deconstructing the CIO Route to the Top
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+IT Leadership Success in the ASX 100: Deconstructing the CIO Route to the Top
+
+By
+
+Meg Ambrose
+
+October 2022
+
+| 6 min read
+
+Author
+
+Meg Ambrose
+
+Sydney
+
+SectionsIn this article
+
+How do technology leaders land in the top executive teams of Australian companies? This was the question in mind as we explored the backgrounds, skill sets and emerging trends of technology leaders in the ASX 100. Based on 2022 research — in conjunction with decades of experience working with global technology leaders — we analysed the careers of Australia’s top technology leaders to gain insight into their rise to the role of chief information officer (CIO).1 Here are the highlights from our research and the trends we see shaping the profiles of Australian CIOs of the future.
+
+A seat at the executive leadership table is common, but not a given
+
+As Adam Bennett, CIO of Suncorp Group, explains, “With the mainstream adoption of public cloud, enterprise scale agile delivery and low/no code solutions, the CIO role has shifted from a purely technology focused one. The CIO increasingly plays a more strategic role, focused on organisational-wide transformation enabled by digitisation, data and analytics, and automation.”
+
+As a result, technology executives’ voices are more present than ever around the executive leadership table, with 57% of the ASX 100 technology leaders on executive leadership teams (ELTs) reporting to the CEO. Industry by industry, the ratio differs, with the highest percentage in the financial services industry (88%) followed by healthcare/biotechnology (86%) and the technology, media and telecommunications sector (67%).
+
+Download
+
+Download
+
+A Seat at the C-Suite Table: IT Leader Representation in the ELT
+
+Elsewhere, a Spencer Stuart CIO study in late 2019 found that in the FTSE Eurotop 100 Index, fewer than one-third (31%) of EMEA CIOs reported directly to the CEO. However, CIOs were more likely to be in top management in certain countries: 56% in Switzerland, 50% in Italy and 40% in Spain. In 2020, the US number was much lower: not even 22%.
+
+The gender imbalance predicament
+
+Globally, the leadership pipeline holds a historical — and, unfortunately, contemporary — gender bias, and the ASX 100 does not differ. According to the ACS Digital Pulse 2021 report, women, who hold 47% of all jobs in Australia, hold only 29% of all technology-related positions. In our research at the senior leadership level, only 17% of the top technology leadership positions in the ASX 100 are held by women.
+
+CIO gender breakdown
+
+This finding holds true in Australia’s largest industry, the industrial sector, comprising approximately 40% of the ASX 100. Only seven industrial companies have women CIOs — a 19% representation. Of the 16 financial services companies, a mere two have women IT leaders (13%). The industry representing the highest percentage of women technology leadership is consumer products and services, with 22%.
+
+Gender breakdown by industry
+
+Examining the gender breakdown more closely in industry sub-sectors, the chemicals and airports industries, as well as some specialty industries, are most likely to have women leading their IT functions.
+
+One interesting finding: women are more likely to be appointed to the top technology role through an external hiring process, whilst men have a more favourable chance of being promoted internally, with 47% of men CIOs coming to the top job through internal promotion. By contrast, 73% of women CIOs were hired from outside the company.
+
+Internal promotes versus external hires by gender
+
+There is one area where the number of women far exceeds the number of men: while 54% of male CIOs serve on the ELT, 73% of their female counterparts serve on the ELT.
+
+CIOs have diverse educational and professional backgrounds
+
+Not surprising, the most common undergraduate specialisations for CIOs are in the areas of computer science (18%), information technology (16%) and business (14%). What’s perhaps less expected is that 10% of CIOs in the ASX 100 have progressed to their role without an undergraduate degree at all.
+
+As a point of comparison, in the US, fewer than 6% of Fortune 500 CIOs had no recorded tertiary education as of 2021.
+
+CIO education background
+
+Total
+% Men
+% Women
+
+Arts
+3%
+33%
+67%
+
+Business
+13%
+67%
+33%
+
+Computer Science
+18%
+100%
+0%
+
+Economics
+8%
+86%
+14%
+
+Engineering
+12%
+82%
+18%
+
+Information Technology
+16%
+93%
+7%
+
+Information Technology/Business
+10%
+78%
+22%
+
+Mathematics
+2%
+50%
+50%
+
+No Tertiary Qualifications
+10%
+89%
+11%
+
+Science
+7%
+83%
+17%
+
+The data shows that women CIOs tend to come from studies in business education, engineering, combined IT/business and even the arts, whilst the greatest proportion of men CIOs have progressed through computer science or pure information technology degrees.
+
+By comparison, the 2021 STEM Equity Monitor finds the current proportion of women enrolled in university STEM fields of education in Australian undergraduate and postgraduate at 36%. Additionally, only one woman in our data set does not hold a tertiary qualification, whilst eight men have made it to the top of their function in their respective organisations without tertiary qualifications (11% of the male cohort).
+
+When analysing postgraduate education in Australian CIOs, we observed a slight majority with postgraduate degrees (52%). The vast majority of those with postgraduate qualifications earned an MBA (59%), diploma in business (13%) or the completion of a PhD (11%).
+
+Finally, we found that CIOs in the industrial and healthcare sectors were most likely to hold postgraduate qualifications. By contrast, CIOs of financial services companies were least likely to have postgrad degrees (69%).
+
+Business systems and transformation experience are highly valuable
+
+Through a cursory examination of each ASX 100 technology executive’s career journey, we found that, over their middle-management careers, the most common career path to CIO was through business systems (27%), strategy/transformation (23%), project management officer (PMO) (16%) or infrastructure (10%) roles. Less common were leaders promoted through commercial/finance roles (10%) or products/software (4%).
+
+CIO career specialization - all
+
+While all industries value business systems and strategy/transformation experience, financial services organisations have the largest number of CIOs with proven transformation capability (38%). Additionally, CIOs with deep R&D experience appear to be most relevant within the healthcare industry (29%). Conversely, industrial organisations prioritise business systems (28%) and PMO (19%) experience in top IT leaders.
+
+CIO career specialization by industry
+
+Consumer
+Financial Services
+Healthcare
+Industrial
+TMT
+
+Business Systems
+39%
+19%
+29%
+28%
+17%
+
+Strategy/Transformation
+22%
+38%
+14%
+17%
+25%
+
+PMO
+17%
+19%
+-
+19%
+8%
+
+Commercial/Finance
+-
+19%
+-
+17%
+-
+
+Digital
+-
+-
+-
+3%
+8%
+
+Engineering
+11%
+-
+14%
+-
+-
+
+Information Security
+-
+-
+-
+3%
+-
+
+Infrastructure
+6%
+6%
+14%
+11%
+17%
+
+Marketing
+6%
+-
+-
+-
+-
+
+Products & Software
+-
+-
+-
+3%
+25%
+
+R&D
+-
+-
+29%
+-
+-
+
+International experience is a plus, but not table stakes
+
+Roughly half (52%) of ASX 100 CIOs have international experience, while 48% have never lived and worked abroad. In certain industries, such as financial services (56%) and industrial (56%), international exposure is valued slightly more than in the technology, media and telecommunications or consumer sectors.
+
+CIO international experience
+
+Cross-industry exposure is common
+
+Three out of four (74%) ASX100 technology leaders have worked in two or more industries throughout their careers, whereas 26% have only worked in a single industry. CIOs in the financial services sector are least likely to have experience in another sector; 44% of financial services CIOs have worked solely in that industry.
+
+CIO cross-industry experience
+
+In sectors such as technology and industrial, diverse industry exposure is not as common, with most CIOs moving between industry subsectors — 78% of industrial CIOs and 83% of technology/media/telecommunications CIOs have worked in two or fewer subsectors. While cross-industry exposure is common, comprehensive exposure in limited sectors leads to specialisation, thus building an advantage for potential CIOs.
+
+CIOs are more likely to be hired from outside the company
+
+Whilst overall, companies were slightly more likely to hire the CIO from outside the company (56%), internal promotions to the CIO role are more common in some sectors. For example, 69% of CIOs in financial services were developed and promoted internally.
+
+Internal promotes versus external hires by industry
+
+Commonly, tenure is fairly short in CIO role
+
+Forty-three percent (43%) of ASX 100 CIOs have been in their roles for five years or less, including the 19% in the role for two years or less. Another 43% have been in the role for six to 10 years. The average tenure of ASX 100 CIOs stands at 3.2 years — but for women, average tenure is far less: 2.2 years (balanced out by average male tenure of 3.4 years).
+
+CIO tenure by gender (years)
+
+Another way of looking at tenure: Of our ASX 100 technology leader cohort, 88% changed roles in the past five years and 62% in the past three years.
+
+CIO tenure breakdown (years range)
+
+More ASX 100 technology executives are serving in the boardroom
+
+More than a quarter (28%) of the CIOs in our study — across public, private, educational boards and not-for-profits — have experience as a board director. This number has increased due to the growing importance of technology-led transformation and innovation, particularly during the COVID-19 pandemic, when digitisation was accelerated.
+
+Technology executives on boards by industry practice
+
+Interestingly, the highest proportion of executives engaged in board work are also sitting executives in the technology, media and telecommunications sector (50%).
+
+The biggest takeaways of our 2022 analysis
+
+In the Australian market, as in every market, technology and digital are an increasing focus for all kinds of organisations. Over the past three to five years, the CIO role has become increasingly customer-focused and strategic. We are witnessing a shift from the CIO role being purely technology and software-portfolio focused to becoming a trusted and strategic business partner with an enterprise-wide view and the ability to influence broader commercial strategy in an increasingly digitised world.
+
+Accordingly, technology voices are more and more prevalent at the ELT table, with IT leaders in the ASX 100 increasingly apt to report to the CEO directly. We expect to see increasing representation of CIOs on ELTs going forward, contributing to group strategy and also holding P&L responsibility.
+
+At the same time, as more companies are digitised to their core, technology can no longer be something that only the CIO is responsible for. Increasingly, the boundaries between the CIO and other executive roles will blur. CIOs will progressively own more aspects of digital, customer experience, transformation and strategy, while all senior executives will need to become more technology savvy.
+
+It will be exciting to see how all kinds of leaders respond to these shifting dynamics and how the “CIO route to the top” transforms over the next decade.
+
+1For the purposes of this article, the term CIO will be used to refer to the most senior technology leader in an organisation, who may, depending on the organisation, carry another title or slightly different remit, i.e., chief technology officer, chief digital & information officer, chief transformation officer.
+
+Author
+
+Meg Ambrose
+
+Sydney

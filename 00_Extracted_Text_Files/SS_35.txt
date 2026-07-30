@@ -1,0 +1,194 @@
+Don’t Delegate AI: A Power-User Playbook for CEOs
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Don’t Delegate AI: A Power-User Playbook for CEOs
+
+The CEO AI power-user playbook: a 90-day plan
+
+By
+
+Jason Baumgarten,
+
+Amanda Morgan McAllister and
+
+Kim Spalding
+
+January 2026
+
+| 8 min read
+
+Authors
+
+Jason Baumgarten
+
+Seattle
+
+Amanda Morgan McAllister
+
+Seattle
+
+Kim Spalding
+
+San Francisco
+
+SectionsIn this article
+
+The CEOs who are making better, faster decisions with AI are power users — not delegators. This 90-day agenda shows how to build your AI expertise, translate experimentation into business impact and set clear strategy for your team.
+
+CEOs shouldn’t outsource AI — they should lead with it. In our workplaces, generative AI is already widespread. Roughly three out of four knowledge workers use it, which creates both momentum and risk. Integrating AI into strategy and operations is one of the most urgent and widely discussed topics among leaders today. Yet, one of the most common questions we hear from CEOs is: How do I learn, adopt and stay relevant in a space that’s evolving so rapidly?
+
+Why? By understanding what the technology can do and how fast it is adapting, you can help shape the right direction around strategic impact. This is not about predicting with certainty but envisioning future strategy and operations with a different lens.
+
+In our experience, CEOs who commit to learning about AI and using it regularly — transforming from AI novices to confident leaders — unlock new capabilities for themselves and gain powerful tools for elevating their strategic and operational effectiveness. Being hands-on matters: when CEOs become power users, they accelerate impact, demonstrating the change they want to see in their companies. This article offers a 90-day plan for moving from novice to confident operator.
+
+Download
+
+Download
+
+Weeks 1–4: Build your personal sandbox
+
+Goal: Learn by doing with small, low-risk tasks to help you develop judgment about where AI helps and where it doesn’t. Immerse yourself before forming a point of view for your company. “The best thing I did was start using AI to solve small personal and business problems,” shared one CEO from the industrial industry.
+
+Start with four tasks.
+
+1.	Evaluate your communications.
+
+Use AI to analyze meeting sentiment, set up an agent to review communications from various stakeholder perspectives and draft variations of communications. AI is valuable as a real-time research companion and for refinements but you will want to keep your own pen for high-leverage communications. Stripe CEO Patrick Collison has shared that he is skeptical of AI ghostwriting because it dulls voice and originality, but he uses it to supplement his reading and research, running voice-mode AI while reading to ask factual questions.
+
+What’s an example prompt for improving my communications?
+
+Review this speech/memo as an [investor, customer, board member, employee] and offer feedback about whether it accomplishes [enter goal here, e.g., focus the team on delivery]. Follow-up prompt: You are now the head of communications with a degree in journalism and 20 years’ experience at [company X] as the head of communications. Please revise my speech with the [stakeholder] feedback and make the tone crisper.
+
+2.	Calendar audit to understand and optimize your time allocation and personal effectiveness.
+
+What’s an example prompt for optimizing my schedule?
+
+Context: I am a CEO of a [size of business and industry] and [state goal, e.g., desire to improve my time effectiveness and gain more time back for personal reflection and strategic planning]. Review my calendar over the past three months and identify ways to improve, including meetings to eliminate or batch, and suggest an optimized weekly calendar. Note you will need to download a CSV of your calendar, and you may wish to have your EA disguise sensitive data (e.g., customer names, your company name, strategy information, proprietary transactions).
+
+3.	Learning tool.
+
+Most CEOs say there’s never enough time to read and keep up with what others are learning. Use AI to catch up on the latest reading.
+
+What prompts can I use to stay current?
+
+Give me the one core idea from recent articles on [topic] and explain two or three supporting concepts for me to use conversationally with CEOs or others who have read this book.
+
+Summarize the book The Life Cycle of a CEO by Claudius Hildebrand and Robert Stark with major themes, and call out specific advice for a CEO like me who is two years into my tenure to apply to my activities and performance.
+
+4.	Automate a task.
+
+Leverage an agent to automate one or two daily tasks. You’ll find that the more specific your “input” (e.g., your Q4 goal), the more relevant the AI agent becomes as a strategic adviser, which will improve your contextual prompting. Over time, you will learn to treat the AI draft as a “digital colleague,” requiring your final judgment or “human-in-the-loop” before acting.
+
+What prompts can I use to automate a task?
+
+Act as my strategic adviser. Review today’s top five news stories in the [your industry, e.g., fintech] sector and cross-reference them with our core Q4 objective: your goal, [e.g., expanding our market share in Southeast Asia]. Identify one specific external trend from today’s news that poses a risk to this objective. Follow-up prompt: Find one competitor move that creates a white space opportunity for us. Draft a three-sentence executive alert that I can send to my leadership team that summarizes the “so what” and suggests one immediate question I should ask in our leadership team meeting. Output format: Bullet points for trends, followed by the draft email. Try this with two different agents’ side by side and see which you prefer.
+
+In addition to these four tasks, use this time to test AI apps and services. Explore no-code platforms to build simple applications. Just like asking for a book or podcast recommendation, ask your peers, your leadership team, friends and interns about the tools and applications they use. You can prototype a simple business idea or build your own automation of personal tasks.
+
+Weeks 5–8: Go deeper on AI
+
+Goal:  Compress learning curves with a human mentor while building foundational literacy. Executives learn best by doing, so combine focused learning with discussion and ongoing experimentation in your own sandbox.
+
+You don’t need a software engineering degree to lead with AI, but foundational knowledge is essential. Most CEOs benefit from introductory coursework — not to learn how to code, but to understand how AI works and how it can be applied. In talking with CEOs, they report that investing 10–20 hours in learning AI basics achieves strong ROI for their time.
+
+1. Find a mentor.
+
+If you were scaling Mount Everest, you wouldn’t go alone. A mentor can accelerate your learning, challenge your assumptions, make the journey more engaging and push you in directions you wouldn’t find on your own. As one industrial industry CEO told us, “The best thing I did was find an AI mentor. He introduced me to tools I hadn’t heard of and helped me see new possibilities.” CEOs find mentors in a variety of spaces:
+
+Startups: Leaders in adjacent industries can offer fresh perspectives and benefit from your experience in return.
+
+Academia:  University experts may serve as personal advisers, and these relationships can sometimes evolve into strategic partnerships.
+
+Peer networks:  Fellow board members, consortium participants or even parents in your community may be passionate about AI and eager to share.
+
+The goal is to build a relationship that helps you stay informed, inspired and equipped to lead. In our work, we regularly match CEOs and boards with advisers and mentors. These relationships can be one-sided or provide mutual coaching (e.g., trading AI expertise for leadership advice).
+
+2. Build your AI essentials.
+
+Short modules from universities and platform providers are sufficient to build literacy. Pair each module with a live personal experiment (e.g., prototype a metrics tracker, run an A/B content draft, evaluate model output quality). Use your mentor to help digest concepts and make practical AI applications in your own life and company.
+
+There’s a wide range of resources available, from online modules to certifications offered by leading universities and tech companies. Podcasts and newsletters can also help you stay current and spark ideas. Don’t let great get in the way of good. Just get started. We recommend focusing on seven core areas: 1) machine learning fundamentals; 2) model architecture (e.g., decision trees, neural networks, transformers); 3) algorithmic problem-solving; 4) data engineering basics; 5) evaluation/metrics; 6) deployment and scaling; and 7) responsible AI and governance.
+
+Set goals for yourself: Strive to gain one day a month in personal productivity improvements. Build a seat at your executive table for AI. Use AI to prototype three new ideas in the next 12 months. Use AI agents to refine and give feedback on investor presentations from various points of view.
+
+What prompts can I use to generate new business insights?
+
+Use the following prompt and attach or paste your data (CSV, spreadsheet or text-based summary) to aid in the analysis:
+
+Act as a senior business growth analyst and strategic consultant for a CEO in [insert your industry]. Objective: Perform a comparative analysis of the provided daily and weekly metrics against the previous [insert number, e.g., four] weeks. Identify performance trends, anomalies and potential “profit leaks” or growth bottlenecks. Context: [Briefly describe your company, e.g., “SaaS company with $10M ARR”].
+
+Analysis requirements:
+
+Metric comparison: Highlight the percentage change (week-over-week and day-over-day) for key KPIs: revenue, customer acquisition cost (CAC) and [add your specific KPIs, e.g., churn rate, pipeline velocity].
+
+Trend identification: Flag recurring patterns (e.g., midweek slumps or weekend surges) and explain their potential impact on monthly goals.
+Metric comparison: Highlight the percentage change (week-over-week and day-over-day) for key KPIs: revenue, customer acquisition cost (CAC) and [add your specific KPIs, e.g., churn rate, pipeline velocity].
+
+Anomaly detection: Identify any data points that significantly deviate from the four-week average and suggest potential causes (e.g., “The 15% drop in conversion on Tuesday might indicate a technical glitch or ad fatigue.”).
+Metric comparison: Highlight the percentage change (week-over-week and day-over-day) for key KPIs: revenue, customer acquisition cost (CAC) and [add your specific KPIs, e.g., churn rate, pipeline velocity].
+
+Actionable recommendations: Provide three high-priority recommendations for the coming week.
+Metric comparison: Highlight the percentage change (week-over-week and day-over-day) for key KPIs: revenue, customer acquisition cost (CAC) and [add your specific KPIs, e.g., churn rate, pipeline velocity].
+
+Risk and opportunity flagging: Identify one major risk to our current trajectory and one “quick win” opportunity based on this week’s data.
+Metric comparison: Highlight the percentage change (week-over-week and day-over-day) for key KPIs: revenue, customer acquisition cost (CAC) and [add your specific KPIs, e.g., churn rate, pipeline velocity].
+
+Formatting: Present the summary in bullet points with a concluding “executive summary” table for a two-minute review.
+Metric comparison: Highlight the percentage change (week-over-week and day-over-day) for key KPIs: revenue, customer acquisition cost (CAC) and [add your specific KPIs, e.g., churn rate, pipeline velocity].
+
+Weeks 9–12: Build your AI vision
+
+Goal: Move from personal mastery to organizational impact — with a clear vision, KPIs and guardrails.
+
+1. Set a vision.
+
+Once you’ve gained fluency and explored the possibilities, it’s time to focus on your team. Start by exploring how AI is likely to impact your industry. Leverage AI to challenge your leadership — it can be a crucible and an opportunity to reshape your focus and culture. Be explicit with your team, the board and the organization about the operational goals and implications of AI.
+
+Consider critical questions, such as: Where will AI drive meaningful changes to our industry in two years? In five years? Are core efficiency opportunities (functions like HR, customer service, legal and marketing) seeing 10–30% improvements in productivity? How might AI reshape my own role and strategic focus? What does an AI-ready culture look like at my company? How will it change my organizational structure and leaders? What am I 100% confident will not change?
+
+Many healthcare executives, for example, are focusing AI on administrative work that frees up providers to invest more time with their patients. Guardrails often focus on what decisions AI can make and influence, set clear roles for providers and include efforts to reduce model bias.
+
+2. Create a learning plan for your team.
+
+Encourage experimentation, foster AI literacy and be mindful of both excitement and apprehension across functions. You may want to appoint an AI adviser or internal owner to guide the journey. CEOs should be the company’s power user of AI. Lead by example and help the organization see the possibilities of AI by carving out time to prototype with AI and showing your work.
+
+Hatch CEO Ann Crady Weiss shares her approach: “We have declared two big AI bets and encouraged all employees to learn and be curious about AI. But CEOs need to be personally hands on the keyboard. I started by building two agents and shared them with the company.”
+
+Even if you don’t build AI agents yourself, you can lead from the front and model this approach by publishing a short memo with specific actions you expect across the organization or within certain functions (e.g., using AI prototyping in the product development process) and model them live.
+
+Encourage experimentation, foster AI literacy and be mindful of both excitement and apprehension across functions.
+
+3. Create a culture of experimentation.
+
+Translate your AI strategy into practical next steps. What handful of investments can drive near-term ROI? Are there one to two bets that could be transformational longer term? Are there small investments to derisk our perspective on those bets? Move from learning and piloting to defining real goals for AI impact in terms of business metrics for the organization, specific teams and even individuals as learners.
+
+Be intentional about how and where AI is deployed. Where does AI drive efficiency, speed and computational power? Where do humans craft solutions, make decisions and evaluate outcomes? Build guardrails on both where and how AI should be used, your data policy and quality controls. Share an operating memo with your team and offer clarity about where AI is appropriate and what roles you expect it to play.
+
+Figma CEO Dylan Field uses AI to push both craft and quality but is clear on the critical role of design. “Everyone is a product builder. We focus on augmenting — not replacing — expert designers.”
+
+Move from learning and piloting to defining real goals for AI impact in terms of business metrics for the organization, specific teams and even individuals as learners.
+
+Closing thoughts
+
+It takes curiosity, strategic thinking and commitment to become an AI power user, but the journey is worth it. Hands-on AI leaders help their teams learn faster, spot quality issues, set clear guardrails and model behaviors required for thoughtful scaling of AI.
+
+Every week, push yourself to experiment — and, more importantly, energize and encourage your team to do the same. Being a leader on the learning journey will set the tone for the team and help you create an even more successful future.
+
+Authors
+
+Jason Baumgarten
+
+Seattle
+
+Amanda Morgan McAllister
+
+Seattle
+
+Kim Spalding
+
+San Francisco

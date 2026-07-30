@@ -1,0 +1,301 @@
+Defining the New Technology Leaders
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Defining the New Technology Leaders
+
+Winning in a digital world with focused specialization
+
+By
+
+Danny Koh,
+
+Charlie Stack and
+
+Muthiah Venkateswaran
+
+June 2021
+
+| 11 min read
+
+Authors
+
+Danny Koh
+
+Singapore
+
+Charlie Stack
+
+New York
+
+Muthiah Venkateswaran
+
+Silicon Valley
+
+SectionsIn this article
+
+Technology is changing almost every aspect of our personal and business lives. Our smartphones have more processing power than the supercomputers of only a generation ago. Digital storage capacity and transmission bandwidth have grown exponentially and cloud has helped lower costs and increase access to technology platforms. Data has become the strategic asset of the era and, combined with advances in machine learning and AI, has created an explosion of new opportunities and risks.
+
+This progress has led to more specialization and the creation of distinct technology domains, each with its own organizational and cultural challenges. In response, companies are seeing a proliferation of new leadership roles and job titles and it has become increasingly difficult for boards, CEOs and executive teams to cut through the jargon associated with each role to understand its purpose.
+
+The new technology leaders
+
+In this article we explore the six technology leadership roles that have either emerged as a result of these trends or whose scope has fundamentally changed in recent years. We will describe each role’s purpose and the typical background and attributes that would make someone a truly distinctive player in each role.
+
+We hope that these summaries, set within a coherent framework, will help you determine how best to unlock the true potential of technology for your business by understanding:
+
+The essence of each role
+
+Areas of potential overlap
+
+Which of the six roles are most critical to your organization
+
+Your approach will need to be thoughtful, geared towards meeting a specific set of needs and guided by your company’s strategic context.
+
+Modern technology leaders need to represent digital domains like engineering, security & privacy or data & analytics as business owners, not order takers or technicians. They contribute to the business strategy, prioritize investments, steer teams towards delivering business value, protect customers and employees, influence stakeholders and shape culture.
+
+Download
+
+Download
+
+The COVID-19 pandemic has accelerated change and shown how important it is for a company to integrate new digital capabilities in its operating model. During the crisis we have seen many of these new technology leaders step up into more significant business roles to help their companies respond to the crisis — leading strategy, customer experience, operations and even transitioning into P&L roles.
+
+We expect that technology leaders will take more prominent, lasting seats at the executive table in certain technical domains where rapid competitive advances are evident. So, what are these domains, and what are the profiles of the new leaders who oversee them?
+
+Technology leadership roles
+
+CPO
+Chief product officer
+
+CTO
+Chief technology officer
+
+CIO
+Chief information officer
+
+CISO
+Chief information security officer
+
+CDAO
+Chief data & analytics officer
+
+CDO
+Chief digital officer
+
+The Spencer Stuart technology leadership framework
+
+The chart below identifies a set of distinct technology and business capabilities. Internally focused capabilities — the scope of more traditional IT — are to the left, while more externally focused capabilities are on the right — some of these expand into traditional marketing and sales roles. The typical scope of each of the six senior leadership roles is indicated below. Solid arrows indicate capabilities that every leader will have, whereas dotted lines show capabilities that only some leaders can fulfill. The span of some roles are determined by the context, strategy and structure of the organization, and the backgrounds of the individual leaders involved.
+
+Leadership continuum
+
+Internal/infrastructureExternal sales/revenueChief data & analytics officerChief information security officerChief informationofficerChief technology officerChief product officerChief digital officerProductProductIT/infrastructure& applicationsdevelopmentdevelopmentmanagementmarketingChief revenueofficerResearch andEngineering & MarketingHead of sales/
+
+This chart prompts three questions:
+
+What is the precise scope of each of the roles?
+
+Are all six roles needed or just a subset?
+
+Can the same person play more than one role?
+
+The answers will depend on several factors, such as sector or industry, business context (challenges, opportunities and strategic goals) and the nature of the talent you already have.
+
+Ultimately, what matters is ensuring that your tech leadership team is able, collectively, to position technology as not just a business enabler but as a potential game changer.
+
+What follows is a guide designed to demystify the technology leadership landscape by examining the distinctive purpose and characteristics of each role.
+
+Chief product officer (CPO)
+
+Scope
+
+The chief product officer (CPO) is focused on the market and understanding the “voice of the customer” in order to translate it into a differentiated software product strategy. CPOs understand how to use products to solve customer needs and create differentiation in the market. They are responsible for ‘product-market fit’ and constantly strive to improve product differentiation. A growing number of non-technology companies are establishing a product management function, often in response to technology disruption. It is an emerging role that sits at the intersection of business, customers, market and technology.
+
+You may also like:
+
+Which Product Management Leadership Model is Right for Your Business?
+
+To respond to technology disruption, it is critical to have a thoughtful product roadmap and well-functioning product management function. Different product organizational structures come with specific benefits and challenges.
+
+CPOs own the entire product management strategy -- from identifying the right products to pricing, profitability and packaging; from market positioning to product life cycle management. They harness technology and business model innovation to create disruptive product offerings.
+
+Capabilities
+
+CPOs need to strike a balance between developing a long-term strategic vision and driving results over the short term. The ability to collaborate with and influence others is especially critical for CPOs as they work alongside engineering, data and sales teams to shape products based on data-driven insights that meet the needs of customers and deliver growth.
+
+Best-in-class CPOs have the mindset of a future CEO. They have a deep understanding of market needs and can wrap their minds around all aspects of the business, especially the role of technology in driving growth and creating long-term differentiation. Some end up in a general management role, owning the Product P&L. Indeed, many founders of leading technology companies are innovative product leaders who continue to own critical product-related decisions.
+
+Background
+
+Some CPOs come into product leadership from engineering, while others bring business experience to the role, having worked in product marketing, strategy or sales, for example.
+
+Reporting
+
+CPOs typically report directly to the CEO.
+
+Chief technology officer (CTO)
+
+Scope
+
+The chief technology officer (CTO) oversees the software engineering and overall technology development for the business, partnering with customer- and product-focused groups to understand the customer journey and ensure continuous improvement in any customer-facing software.
+
+Capabilities
+
+The chief technology officer (CTO) oversees the software engineering and overall technology development for the business, partnering with customer- and product-focused groups to understand the customer journey and ensure continuous improvement in any customer-facing software. CTOs are responsible for creating a culture of best-in-class software development and driving timely and flawless execution. They own delivering the future product strategy and vision as well as driving continuous improvement of the existing product portfolio. They keep a close eye on emerging technologies and how these can drive innovation and enhance the functionality, performance and reliability of software solutions.
+
+You may also like:
+
+The future of technology leadership
+
+Businesses will emerge from the crisis with a greater reliance on digital technology. CIOs have a unique opportunity to use their enhanced status to accelerate the path towards digitization.
+
+Today’s CTOs take a holistic approach to building scalable platforms that increase reliability and security while helping the organization leverage information across multiple use cases. They understand the power of data & analytics to drive business decisions and factor this into their development roadmap. They are comfortable with modern technology development practices and can apply agile methodologies and automation to the development, testing and deployment of code.
+
+Distinctive CTOs are exceptional leaders and build a strong following among their teams. They have strong technical ability, understand the levers of the business and have what it takes to drive both execution & innovation.
+
+Background
+
+CTOs tend to have deeply technical/engineering roots. Most often, CTOs are ex-software engineers themselves, growing through the ranks of application or platform development or R&D or occasionally enterprise architects.
+
+Reporting
+
+CTOs expect to report to the CEO, have a role in key decision-making, and frequently end up with a broader mandate which might include infrastructure, product responsibilities or operations (as seen in most banks).
+
+Chief information officer (CIO)
+
+Scope
+
+The chief information officer (CIO) takes ownership of IT operations. This includes data/voice networks, security, infrastructure, architecture, enterprise applications, collaboration tools and end-user support.
+
+Capabilities
+
+The CIO must have a deep understanding of the complexity of the business, the risks it faces and the technology capabilities it needs. The CIO will need to figure out the best way to solve a variety of business problems (i.e. employing microservices or agile methodologies) and decide on a series of trade-offs: for example, between insourcing vs. outsourcing; buy vs. develop in-house; standardized vs. customized solutions; and in each case whether to opt for centralization or decentralization.
+
+While not expected to be an expert in every area, the CIO must see beyond operations to understand how other layers of the technology ‘stack’ work together — especially customer-facing products or engineering and development work. They may play a role in culture change too, developing effective teams to ensure that IT is seen as a strategic partner, not just a support function.
+
+Exceptional CIOs don’t just ensure that IT’s activities are fully aligned with the business strategy, they are involved in co-creating the strategy in the first place. As a key member of the executive team, they have the acumen and credibility to collaborate with and influence their peers, advising on how technology can bring competitive advantage and even drive new revenue streams. Some are true thought leaders, able to generate new ideas about how technology can transform the business and articulate their insights both internally and on external industry and media platforms.
+
+The best CIOs have commercial acumen: they understand the commercial levers of the business and produce the desired outcomes while delivering value for money. What’s more, if the opportunity arises, they are able to repurpose technologies and processes designed for internal needs to launch new businesses. For example, one CIO of a global eyewear company developed an in-house application to help its labs manage inventory — a solution that was eventually white-labelled and sold to other labs (the CIO also acted as CEO of the new business).
+
+Background
+
+CIOs typically would have gained domain expertise by taking on infrastructure, applications and IT shared services roles earlier in their careers. Beyond line roles, some of them would also have played IT consulting/advisory roles at companies like Accenture, IBM and Capgemini. CIOs would normally also have demonstrated capabilities in people leadership, business partnership and transformation through successful execution of complex change projects, e.g. ERP implementation and application rationalization.
+
+Reporting
+
+The truly distinctive CIO will expect to report directly to the CEO and have plenty of exposure to the board.
+
+Chief information security officer (CISO)
+
+Scope
+
+The chief information security officer (CISO) oversees the IT governance practices that safeguard all the technical assets and business operations of a company.
+
+The primary purpose of the CISO is to protect the digital ecosystem and enable business to be conducted safely, while helping address any trade-offs that may occur in decisions over investments and business processes. The CISO plays an important role in monitoring and assessing risk and, in some regulated sectors like financial services, is expected to report on risks to the board independently of the CIO.
+
+In an increasingly digital world, the list of risks that CISOs are expected to mitigate is continually growing. They are responsible for cyber risk, threat detection, fraud prevention, security architecture, identity and access management, investigations, security operations, and standard creation/governance for all technology development. CISOs have a communications role, too, syndicating general best practices, raising awareness of threats to the business, and teaching employees about the role they can play in safeguarding the company.
+
+Capabilities
+
+The most distinctive CISOs are not just there to police and protect, but to work with product and technology teams to de-risk new business capabilities. We hear from technology partners that the very best CISOs have created measurable business value, by helping them to overcome significant legal or regulatory roadblocks. A leading mortgage company’s CTO said they could not have rolled out a digital mortgage product without innovations driven by the CISO. Great CISOs partner broadly across the technology function, whether it’s working with data scientists to improve anomaly detection or helping the CTO build the business case for retiring a legacy infrastructure platform.
+
+In more advanced digital product companies, CISOs sometimes have their own product and data teams, which focus on delivering advanced threat detection or self-service security products to end-users. At one of the top global card companies, the CISO runs an AI team that is advancing fraud and identity theft detection capabilities at near-real time.
+
+CISOs increasingly lead aspects of the company’s cloud engagement and relationships with vendors and other third parties due to the need to manage data security and system access. Occasionally, they own tangential areas like disaster recovery planning or network operations and sometimes even physical security due to increasingly blurred lines between digital and physical security concerns.
+
+Background
+
+CISOs typically come from one of three types of background:
+
+Enforcement or protection (e.g. defense industries, government agencies, law enforcement)
+
+Governance (e.g. audit or compliance)
+
+Engineering (in more technically complex companies; the prevailing trend is that CISOs need to be more deeply technical and engineering oriented.)
+
+Reporting
+
+Reporting lines are varied and tend to be different from other tech leadership roles to prevent natural conflicts of interest with the technology organization. In industries where there are sensitive consumer financial or personal assets at risk, such as financial services, healthcare and e-commerce, it’s common for the CISO to report to the CEO, COO or chief risk officer; in other sectors it could be a very senior CIO or CTO.
+
+Chief data and analytics officer (CDAO)
+
+Scope
+
+The chief data and analytics officer (CDAO) is less of a technologist and more of a business leader whose purpose is to use analytics to accelerate commercial performance. Today’s top companies think about data as a business asset and therefore need a CDAO who understands the commercial levers of the business, can create a data and analytics strategy, and follow through with strong execution.
+
+The CDAO owns the foundational data capabilities of the business, such as data technology platforms and pipelines, data architecture, data governance policies and standards. The CDAO is also responsible for policies that protect customer data privacy and build trust in how data is used.
+
+You may also like:
+
+The Data and Analytics Leader: Your Competitive Advantage
+
+Many companies today are on a path to data transformation. We examine the demands and expectations of data & analytics leadership and suggest pitfalls to avoid when appointing a leader for the function.
+
+The CDAO guides stakeholders through complex issues of shared ownership for tech and data assets, and prioritizes investments by establishing an enterprise roadmap for how data will be used to provide insights, automate decision making, or even disrupt business processes.
+
+In a few companies, the CDAO is responsible for business strategy as well as execution. For example, the chief strategy and artificial intelligence officer at one globally recognized retail brand owns these two areas and, reporting to the CEO, has had a huge impact during the Covid crisis using analytics-enabled insights to guide management decisions. Another Fortune 100 CPG firm installed an AI and machine learning leader as its chief strategy officer, also reporting to the CEO.
+
+Capabilities
+
+Distinctive CDAOs are good at building bridges across the entire organization and with partners — they are networkers, influencers and collaborators at heart, building alliances with business leaders to solve problems, provide insight and predict actions and outcomes. They are capable of deploying a combination of data science, artificial intelligence, machine learning and advanced analytical techniques to support business decision making. For example, the CDAO of one European bank has developed autonomous bots that make real time credit and risk decisions on customers.
+
+Best-in-class CDAOs build multidisciplinary teams and act as change agents, seeking to create a data culture across the organization and establishing iterative practices — asking questions, testing with data, scaling what works, identifying outcomes and changing working methods based on insight.
+
+Some organizations appoint two separate leaders to manage different aspects of the value chain — for example, a chief data officer to focus on data foundations and a chief analytics officer to oversee insight delivery. Whether these roles are split is usually a function of the size of the organization and the internal talent pool. It is essential that these two leaders work in tandem as one cannot function without the other. In our view, most organizations are better off combining the data and analytics roles since they are so tightly intertwined.
+
+Background
+
+CDAOs tend to come from one of three main backgrounds: technology/IT; data science/mathematics; or business/strategy. But the best leaders have complimented their individual area of strength by building depth in the other two areas.
+
+Reporting
+
+They should ideally have a place on the executive leadership team and typically report to the CEO, COO or sometimes the CFO.
+
+Chief digital officer (CDO)
+
+Scope
+
+The chief digital officer (CDO) role is geared towards organizational transformation and generally found in less digitally mature businesses. It tends to be an enabling role, that is to say the CDO needs to work alongside business leaders to inspire and accelerate digital transformation in the organization.
+
+Capabilities
+
+With digital increasingly embedded in business strategy, CDOs need a strong commercial mindset and strong communication and influencing skills. As change agents, they tend to be highly collaborative individuals, skilled at raising the executive team’s understanding of digital issues and the technology capabilities required to deliver the strategy.
+
+CDOs are also charged with inspiring the entire organization to embrace the digital transformation journey, bringing together business units that have not traditionally collaborated to achieve real commercial impact. CDOs should have an external focus, seeking ways to collaborate within the industry and beyond to build new products and services; however, these leaders are the hardest to find.
+
+Background
+
+CDOs can come from a mix of backgrounds, including strategy, marketing, commercial and technology.
+
+Reporting
+
+For credibility and clout in leading change across the enterprise, the CDO must be a member of the senior the executive team. For organization-wide change, the CDO should report to the CEO or alternatively the CEO or MD of the business unit looking to digitize.
+
+The chief digital officer’s days are numbered
+
+The CDO role is becoming increasingly rare and is usually only found in businesses that are just starting to explore digital. There are alternative and more efficient ways to think about the role. One approach is to combine the digital and technology leadership roles on the basis that it is difficult to build an effective digital strategy (whether internally or externally focused) without owning the technology capabilities necessary to execute it. The challenge here is that individuals who combine the requisite commercial and technical skills are few and far between.
+
+With digital technology so deeply linked to every aspect of the commercial and business strategy, many organizations are taking a more radical approach: they argue that delegating responsibility for digital transformation to one person on the executive team is to miss an opportunity to make the senior leadership team collectively responsible. So, for example, the business units own their own commercial digital capability (perhaps with support from the chief product officer); the chief marketing officer owns the digital marketing agenda; the chief data & analytics officer owns data; the chief information officer drives digital technology change; and customer-facing software is delivered by the chief technology officer and/or the chief product officer.
+
+Conclusion
+
+The days when companies simply needed a great CIO to take care of their technology needs are long gone. Businesses are on a journey towards digital transformation, each one in a slightly different place. As digital becomes more deeply embedded, the need for specialized technology leaders grows. Which roles a company opts for, and the remits of those roles, will depend on a range of factors — for example, industry, scale, strategy, breadth of the existing leadership team.
+
+Complexity has driven specialization, but therein lies a danger — that teams operate in silos. Each of the six roles described in this article requires a distinct set of capabilities and yet they all have certain characteristics in common. Three fundamental qualities are required of any technology officer: business-centricity to understand the fundamental needs of the business and determine how technology can be deployed to safeguard, enhance or differentiate the business, the ability (and willingness) to collaborate with their peers; the persuasive power to influence the executive team; and the leadership skills to inspire and motivate their people to deliver consistently high-quality results.
+
+Authors
+
+Danny Koh
+
+Singapore
+
+Charlie Stack
+
+New York
+
+Muthiah Venkateswaran
+
+Silicon Valley

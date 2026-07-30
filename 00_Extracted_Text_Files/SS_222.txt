@@ -1,0 +1,136 @@
+The Chief Digital/Product Officer Role in Financial Services: Answering the Most Common Questions
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+The Chief Digital/Product Officer Role in Financial Services: Answering the Most Common Questions
+
+By
+
+Anthony Laudico and
+
+Eric T. Zakre
+
+January 2024
+
+| 6 min read
+
+Authors
+
+Anthony Laudico
+
+Retired, Stamford
+
+Eric T. Zakre
+
+New York
+
+SectionsIn this article
+
+Key findings
+
+A strong and effective digital product management function can drive growth for financial institutions and differentiate them in the market by creating and developing products and services that delight customers.
+
+Three organizational models for product management are most common: the centralized model, the functional model and the general manager model. Each model has its unique advantages and disadvantages, depending on the company.
+
+Simply adopting new “digital product” titles and changing organizational reporting structures will not drive meaningful and lasting change to how digital products and services are delivered to customers; substantial cultural change is required.
+
+A commitment to customers is a common goal for financial institutions, yet many financial services firms lack the structure, operating model, culture and leadership to translate that into a meaningful, continuous evolution of what digital products, services and experiences they offer to customers. That is, they do not fully utilize the voice of the customer to drive their organization’s digital product strategy and delivery.
+
+The journey to becoming a customer-led engineering culture is about much more than simply adopting new technologies; it is about a fundamental shift in how products and services are designed, built and delivered into a seamless customer experience. It’s about developing products, services and experiences that clients truly want, need and value.
+
+To address this issue, financial institutions are asking key questions, including:
+
+What kind of leader do we need to guide customer-focused product development? What role and title should they have?
+
+How do we structure our organization to best support our technology and digital product functions?
+
+How can we create a culture that fosters the building of products, services and experiences that our customers truly want and need?
+
+Download
+
+Download
+
+Quote
+
+The first thing that drives the way I think when engaging in any project is what the customer is experiencing.
+
+MADHU NARASIMHAN
+
+EVP AND HEAD OF INNOVATION,
+WELLS FARGO
+
+To further explore the product management function at financial institutions, and in particular what makes a strong leader, we recently sat down with three leading digital product executives in financial services: Madhu Narasimhan, EVP and head of innovation for Wells Fargo; Fawad Ahmad, senior vice president and chief digital officer at State Farm; and Marco De Freitas, principal and head of client experience and digital at Vanguard. This article looks at the insights from these conversations and from our experience working with companies to build leading digital product functions in the financial services industry.
+
+The digital product leader: The function and the role
+
+The digital product management function is a critical pillar of customer centricity in leading financial services companies. A strong and effective function can drive growth and differentiate a company in the market by creating and developing products and services that delight customers. Leading this function well requires a combination of design and engineering skills, customer empathy and team leadership capabilities more broadly, with a focus on meeting customers’ needs and expectations. At the core is a leader as a customer champion.
+
+“I see myself in service to the customer journey,” Narasimhan said. “The first thing that drives the way I think when engaging in any project is what the customer is experiencing."
+
+You may also like:
+
+Which Product Management Leadership Model is Right for Your Business?
+
+To respond to technology disruption, it is critical to have a thoughtful product roadmap and well-functioning product management function. Different product organizational structures come with specific benefits and challenges.
+
+The chief product/digital officer keeps ahead of technology trends and consumer dynamics to define the company’s roadmap of digital product offerings and works to manage the customer experience across channels, products and services. This leader typically oversees functions such as user experience, design, product architecture and program management; the product managers within the chief product/digital officer’s organization typically have dotted-line responsibility for the scrum teams of engineers that are responsible for actually building the products that the digital product management team has designed. These leaders are most effective when working across functions with other leaders to ensure that product efforts are coordinated and effective. (Read this primer on the product function for more information).
+
+Vanguard’s De Freitas sees his company’s digital products within the context of customer journeys across different channels. An efficient omnichannel experience, he says, and the value it generates for Vanguard, is intrinsically tied to how it improves investment outcomes for clients. “Improving our digital experience is a powerful manifestation of our mission to give investors a better chance of investment success.” At Vanguard, it’s not just about delivering a nice experience or generating revenues. “Our success is measured in terms of driving tangible benefits for our clients and their long-term financial security.”
+
+At State Farm, Fawad Ahmad’s product leadership leans more toward a technology engineering role. The product functions, he says, are primarily about creating an omnichannel experience that always keeps end-users in mind, with “end-user” defined broadly to include anyone who uses a digital product — State Farm customers, employees and agents. The product leader continually thinks about serving all stakeholders’ needs and structuring the right teams to serve those needs.
+
+“It’s a complex assortment of products,” Ahmad said, “and it gets even more complex when you realize that a lot of the products being developed now are about making self-service for customers easier.” Key is communicating effectively within the organization. “The goal,” he said, “is to enhance and augment your team’s capabilities in order to deliver better customer experiences faster.”
+
+Learnings “above the surface”: organizing the digital product management function for success
+
+The digital product management function is still relatively new for financial services companies. As a result, it still lacks a “traditional home” that other functions like finance, marketing and HR may have, and digital product leaders can be found reporting into a variety of structures.
+
+Three organizational models are most common. Each model has its unique advantages and disadvantages. The right one depends on the nature of the company’s customer base, the breadth of its product and service portfolios, and its relative maturity in adopting leading digital product management methodologies.
+
+Centralized model
+
+Many financial services companies centralize all technology and digital product management functions under a single leader, most typically a chief information and digital officer (e.g., Ally Financial, Pacific Life Insurance and Unum Group). This can be an effective path for organizations looking to first implement and begin maturing its product-led agile delivery practices. Because such a journey requires establishing repeatable, scalable and consistent processes across the company, centralizing efforts can make doing so more straightforward. In many of these organizations, the technology function built the first digital product management teams embedded directly within scrum engineering teams. The centralized model works particularly well within companies that serve a more homogenous and tightly defined set of clients, products and/or services, but can create distance from customers for companies that serve a wide array of unrelated clients, products and/or services.
+
+Functional model
+
+State Farm and Wells Fargo operate a centralized digital product management model with the function sitting parallel with the technology function. However, in order to ensure close business alignment, the dotted-line relationship with business partners is critical. “All digital product teams report into me,” said Ahmad, “but on a day-to-day basis, they sit closer to our ‘business’ colleagues like insurance agents and operations professionals. Our digital product managers then interface back with our peers in engineering dedicated to their respective area to ensure that the technology being built is aligned with user needs.”
+
+This model creates a healthy balance between digital product management and engineering functions. Without this tight alignment, product managers would be at arms-length from the business units themselves, and potentially less responsive to user needs than if they reported directly to divisional leaders (as in the GM model outlined below).
+
+“My role as head of digital product management and innovation should be a temporary phenomenon in any organization,” Narasimhan said. “This function should ultimately be incorporated into the business lines once processes mature, so the digital product management function is fully integrated within ‘business’ groups.” This perspective reveals the ultimate aim: instilling a human-centered and technology-forward design ethos within business units in a lasting way.
+
+General manager model
+
+This third approach, seen at financial institutions such as Vanguard, JPMorgan Chase and Goldman Sachs, represents a more federated approach to digital product management, wherein each business unit has its own digital product management function. There is no single chief digital/product officer, but rather digital product leaders who report into each division or business unit. A decentralized approach requires a degree of process maturity to ensure a consistent methodology across the company, yet it can be a highly effective approach when done well because it more closely aligns digital product management efforts (and therefore engineering efforts) with the goals of a particular division’s customer segments and product/service offerings.
+
+“Our federated model fuels our ability to deliver highly customizable and innovative solutions, tailored to the unique needs of our diverse client base,” De Freitas said. “We supplement that with cross-divisional product management working groups to collaborate, share best practices, define common standards and foster experimentation.”
+
+Learnings “below the surface”: Embracing a customer-centered, product-led approach to delivering digital products and services
+
+Simply adopting new “digital product” titles and changing reporting structures on an organization chart is not sufficient to drive meaningful and lasting change to the way a financial institution delivers digital products and services to its customers; substantial cultural change is required.
+
+A critical yet often little-considered change is in how the finance function budgets for initiatives. The leading digital product management methodologies are iterative and dynamic, and efforts ebb and flow with user needs and expectations, whereas technology investments have historically been financed on a project basis in end-of-year annual budgeting processes. Narasimhan said that she insists on developing economic incentives that uphold the principle that the end-to-end customer experience takes priority over company-set business objectives. “The product management teams in each business unit should be clear on their mandate, which is that a business line’s P&L will be sacrificed for the overall experience,” Narasimhan said.
+
+With this mindset, leaders across the company are held accountable to cross-division customer metrics (such as customer satisfaction or share of wallet), and not just to an individual business unit’s goals (such as to sell more insurance policies, underwrite more home loans or open more brokerage accounts).
+
+Another crucial component to success are the qualities and characteristics of the company’s leaders — not just in digital product management, but also in business, technology and engineering functions. As Narasimhan put it, “You need somebody who loves to learn how to fly while the plane is being built, and who is focused on the passengers they’re taking along for the journey.”
+
+From a leadership perspective, De Freitas said that he sees the skill set as a combination of three dimensions. The first two are technology skills and industry knowledge, respectively; the third is human skills. “Product managers need to have an owner's mindset and lead through influence,” he said. “You've got to unite and motivate people with a connection to a shared mission and strategy.”
+
+• • •
+
+Financial institutions across the spectrum — from banks to insurers to asset managers — must allow customer needs to drive their digital product and service strategies. This type of change requires a dual approach focused not just on titles and the organization chart, but also on leadership attributes and culture.
+
+Authors
+
+Anthony Laudico
+
+Retired, Stamford
+
+Eric T. Zakre
+
+New York

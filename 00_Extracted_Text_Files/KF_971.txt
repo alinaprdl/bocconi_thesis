@@ -1,0 +1,186 @@
+The 4 Change Principles for AI-focused Leaders
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Future of Work|September 28, 2023
+
+The 4 Change Principles for AI-focused Leaders
+
+APAC leaders know they need to invest in AI—or risk being left behind. Learn how to take your people on that change journey.
+
+Key Takeaways
+
+Why C-suite leaders should avoid rushing AI investments
+How to build an AI factory to deliver market value
+The principles of effective tech change communication
+
+Employees have adopted ChatGPT at a speed rarely seen for a new technology—and executive leaders are now racing to catch up. As Bryan Ackermann, Korn Ferry Head of AI Strategy & Transformation, notes, “the generative AI genie isn’t going back into the bottle.”
+
+However, Korn Ferry’s Singapore-based Applied Enterprise Innovation Senior Client Partner, Eric Tachibana, recommends pausing to consider the bigger picture.
+
+“It’s better to do this right, than to do it fast,” he says, reflecting on Amara’s Law—an observation that people tend to overestimate the effect of a technology in the short run, and underestimate the effect in the long run.
+
+Rather than innovating for the sake of applying new technology, this is an opportunity to build innovation into processes and ways of working across the organization.
+
+“This requires a cultural transformation,” explains Senior Client Partner, Bill Randall. “We are working with clients across the Asia-Pacific region to embed the right mindsets and capabilities. It’s about building innovation into the DNA of the organization, which makes the potential scope for transformation much broader than AI.”
+
+For Asia-Pacific leaders, this is also a “leapfrog opportunity,” according to Tachibana.
+
+“Every organization around the world is starting from the same baseline with AI,” he says. “There’s no historic precedent or unfair advantage for western companies or multinationals—Asian companies have the potential to become unicorns.”
+
+An overwhelming 99% of CEOs globally believe Generative AI will have a moderate or fundamentally transformational impact on their business or industry. And Asia-Pacific leaders are more likely to understand what is at stake. 53% of APAC CEOs said they believe their companies will not be economically viable in the next decade if they continue on their current path. That’s 14% more than global CEOs.
+
+Getting this business transformation right requires conscious change management. These four principles can help you take the right next steps.
+
+1. Start with the problems AI can solve. Not the tech.
+
+Boards are obsessed with putting AI on the agenda. But successful change always starts with people: what is the problem you’re solving for clients or employees?
+
+“If you only do one thing, it’s to start with an understanding of the customers’ problem. If AI happens to help you solve that problem, then be all in on AI,” says Randall. “But don’t start with AI as a capability and ask, ‘how can we push this out to customers?’”
+
+This can include solving very simple problems. As former AWS employees, one technique Randall and Tachibana use is to work backwards by writing a future press release about the proposed solution.
+
+“Press releases can be quite hard for our customers to write—especially in this region, where English may not be their first language,” says Tachibana.
+
+“But if they use ChatGPT to write it, AI not only saves days, it also helps accelerate their confidence. They then have more time to apply their human business judgment to the draft.”
+
+2. Educate teams on AI and wait for the tech to settle down
+
+One question raised in our recent “AI in the Workplace” webinar was whether there’s a first mover advantage in adopting and investing in generative AI.
+
+For Tachibana, the answer is no.
+
+“There’s no such thing as a first mover advantage, only a first mover disadvantage. By the time you get in fast, train the market, train your customers, train your people, scale the technology… you’re exhausted.”
+
+It’s more typical to see fast followers win. In this instance, let the technology settle down, assess the landscape and learn from the mistakes of others. And use this time wisely. Educate your teams on the potential of generative AI, experiment and build guardrails.
+
+Our time to take control
+
+The future of work in 2023
+
+Learn more
+
+3. Embrace the cloud to train AI
+
+The true advantage is not in building your own AI infrastructure, but partnering with trusted and secure third-party platforms to train AI on your own proprietary data sources.
+
+So, if you’re not already all in on the cloud, now’s the time.
+
+“If infrastructure technology is not your core competency, it will be too expensive to do this on your own,” says Tachibana. “The cloud democratizes everything—it gives you the tools to accelerate your own tech development from years to weeks. Your infrastructure can be as good as any Fortune 50 company.”
+
+Jean-Marc Laouchez, President Korn Ferry Institute, describes this as building an AI factory, “a combination of data, hardware—often in partnership with Amazon or Google or Microsoft—and software, which then translates into actual value in the marketplace.”
+
+4. Take your teams on a change crusade
+
+Most CEOs believe their workforce is not fully prepared for AI integration, and of those we surveyed almost 44% think employees will need to develop new skills to equip themselves for the AI-driven business environment. Employee resistance to change is one of the biggest potential barriers.
+
+Tachibana says real and lasting change depends on how well you manage its impacts on people.
+
+“It’s like upgrading your horse and buggy tech platform to a Lamborghini, but then hitching up your old horses of culture, leadership, innovation, governance and controls. You have to transform the whole business, not just the tech,” he explains.
+
+Randall says this might also include transforming the Board’s mindset, as what worked in the past won’t necessarily work tomorrow. He reflected on a recent roundtable in Singapore, where leaders shared concerns that some board members lack the transformation experience to run that type of agenda today, or had knowledge gaps to fill.
+
+AI change is not a technology project. It’s a business change initiative that involves everyone.
+
+As Laouchez explained in the webinar, “generative AI is not only an IT play, it’s a human play. Bringing tech and people together is the key success factor.”
+
+Ultimately, this means leaders need to reinforce the potential for positive change. The principles of Korn Ferry’s radically human communication checklist can help to provide guidance here.
+
+Tachibana agrees some jobs may disappear, but others—like prompt engineer—will emerge.
+
+“This is not about cost cutting, it’s about value driving. Tell that story: how it’s going to allow us to grow 10x, not cut by half.”
+
+To learn more about what the future of AI could mean for your workplace, watch the full webinar.
+
+Our Expert
+
+Our Experts
+
+Bryan Ackermann
+Senior Vice President, Head of AI Strategy & Transformation
+
+Bill Randall
+Senior Client Partner
+
+No items found.
+
+Related Capability
+
+Related Capabilities
+
+Organization Strategy
+
+Cultural Transformation
+
+Change Management
+
+Business Transformation
+
+Board & CEO Services
+
+Leadership Development
+
+Workforce Transformation
+
+Featured Insights
+
+TA Trends 2026: Human–AI Power Couple | Highlights
+TA Trends 2026: Human–AI Power Couple | Full Report
+Future-Proof Your Company With the Workforce Skills You Need
+Designing a Future-Ready Job Architecture Framework
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Featured Topics
+
+Future of Work
+
+AI in the Workplace
+
+Organization Strategy
+
+Cultural Transformation
+
+Change Management
+
+Business Transformation
+
+Board & CEO Services
+
+Leadership Development
+
+Workforce Transformation
+
+Board & CEO Services

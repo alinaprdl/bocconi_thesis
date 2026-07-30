@@ -1,0 +1,126 @@
+The 5% Club
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+AI in the Workplace|May 4, 2026
+
+The 5% Club
+
+We asked AI overachievers what they're doing right, and here is what they told us.
+
+Five percent. That's the share of U.S. physician leaders who rate their organizations as on the leading edge of technology innovation. Less than a year ago, that number was zero. What do they know that everyone else doesn’t?
+
+Today, most physician executives — 79%, according to a new Korn Ferry survey — say their organizations are still developing or progressing the alignment and efficacy of their tech systems. But that small 5% cohort has figured out how to harness AI and tech to drive healthcare delivery. "The velocity of change here is extraordinary” says Jim Vincoli, a vice president at the global healthcare practice at Korn Ferry. "Moving from zero to five percent in under a year isn’t just incremental progress—it’s a signal that the early adopters are creating real separation.”
+
+Those in the 5% club wanted to talk AI. Here are four takeaways from leaders of the healthcare organizations leading the way:
+
+1. Succeeding organizations don't approach AI as logistics. "People think AI transformation is a transformational use of AI," says Saad Ehtisham, president and CEO of Atlantic Health. "But it's really a cultural transformation." The goal, he says, isn't integration for its own sake, but rather shifting the whole organization to function and perform at a higher level. This is inherently challenging, because culture changes slowly, while the technology is improving swiftly. For adoption to take hold, employees need to feel safe experimenting with new tools — and comfortable flagging when those tools get things wrong.
+
+He advises organizations to map their processes as workflows and identify where AI agents and assistants can drive efficiency. That exercise tends to be revealing. Most employees have never articulated what they actually do, step by step. Redundancies surface. Fiefdoms emerge. Atlantic Health first deployed AI agents on the administrative side and is now expanding into operations, with a goal of roughly 1,500 active AI assistants across the organization by the end of 2027. "It's going to take some time, but we want to accelerate," says Ehtisham.
+
+2. Strong support must come from the top. At NYU Langone, the C-suite has long articulated that AI is going to be a game changer in patient services, and has encouraged staff to engage with it. There, the CIO swiftly partnered with outside companies to build internal workspaces, which are protected environments where staff can use AI tools without violating privacy laws or exposing patient data. "If the C-suite isn't aligned, you end up with brilliant physicians experimenting in silos and no mechanism to scale what works," says Vincoli.
+
+3. Training and Practice are essential. Staff at all levels of NYU Langone have the opportunity to learn and use UltraViolet, a HIPAA-secure platform with a number of AI-engines available. "A lot of work went into helping people understand how to use it—as well as encouragement to actually use it," says Isaac Dapkins, M.D., Chief Medical Officer for the Family Health Centers at NYU Langone. AI services are expanding: pre-drafting patient inbox responses, transcribing chart notes, and summarizing critical information from complex patient charts. Preferences vary. "These tools have made me love primary care again,” says Dapkins. “I can now focus on my patient and not the computer.”
+
+Employees have enjoyed AI "promptathons," where staff and faculty from different specialties come together to build their own agents. Dapkins, who specializes in ambulatory care, built a preliminary model to draft insurance approval requests for devices like canes and wheelchairs, drawing on New York State Medicaid regulations. He sees AI most impacting operations, quality, and even education, such as highlighting skill gaps in residents and generating individualized curricula. For example, an internal medicine resident weaker in oncology might receive an AI-informed custom learning plan.
+
+4. The sticking point remains ROI. Many AI applications, like ambient listening, have delivered real efficiencies for physicians, making the operational value clear. But payoff in dollars and cents, at this juncture, is elusive. “The financial return is still a question mark,” says Vincoli. "Organizations running on three percent margins can’t sustain experiments forever. That doesn’t mean stop–it means we need a more sophisticated conversation about value." A glance back at the arrival of computers in healthcare is instructive: computers took 10-15 years to improve productivity in quantifiable terms. In the meantime, experts point to the benefits of less burnout, higher engagement, increased retention, and improved clinical outcomes—and the opportunity that AI enablement presents to build trust between leadership and physicians.
+
+Cultural Transformation
+
+Is your culture working for or against you?
+
+Learn more
+
+Want to Learn More?
+
+Explore Korn Ferry’s AI-Ready Leadership program.
+
+Our Experts
+
+Our Experts
+
+Jim Vincoli
+Vice President, Client Solutions
+
+No items found.
+
+Related Capability
+
+Related Capabilities
+
+Organization Strategy
+
+Cultural Transformation
+
+Culture, Change & Communications
+
+Featured Insights
+
+Executive Takes: Saad Ehitsham
+
+The CMOOO (or CMOO) Has Arrived
+
+Behind the Hires: Opal Greenway
+
+‍
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Featured Topics
+
+AI in the Workplace
+
+AI-Ready Leader
+
+AI-Ready Workforce
+
+AI-Ready Organization
+
+Organization Strategy
+
+Cultural Transformation
+
+Culture, Change & Communications
+
+Healthcare
+
+Technology Officers
+
+CEO
+
+Chief Technology Officer
+
+CIO Chief Information Officer

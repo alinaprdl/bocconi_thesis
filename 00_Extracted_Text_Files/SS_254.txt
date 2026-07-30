@@ -1,0 +1,157 @@
+Improving board effectiveness in Switzerland
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Improving board effectiveness in Switzerland
+
+A board advisor’s perspective
+
+By
+
+Sigrid Artho
+
+July 2023
+
+| 9 min read
+
+Author
+
+Sigrid Artho
+
+Zurich
+
+SectionsIn this article
+
+As board advisors to many of Europe’s leading listed companies, Spencer Stuart has accumulated a significant body of data on board governance trends which it publishes annually in its Board Index series, covering more than 20 countries around the world. In this article we focus on data from the 2022 Switzerland Board Index, draw comparisons with other countries on key governance metrics, and comment on three areas where we expect to see significant change in board governance practice over the coming years, namely: diversity (especially in board leadership); the rise of the sustainability-focused committee; and the externally facilitated board effectiveness review.
+
+Download
+
+Download
+
+Board diversity
+
+Swiss boards are highly international
+
+The Switzerland Board Index covers the 48 companies in the SMI Expanded index (SMI and SMI Mid) which represent around 95% of the Swiss listed equity market. Its data is drawn from a variety of public domain sources, including annual reports, company websites, public announcements and proxy statements. Swiss boards are not only the most independent among the countries we analyse — Switzerland tops the list with 90% of directors who meet the criteria for independence — but they are also the most internationally diverse: 53% of SMI Expanded directors are non-Swiss nationals (see Figure 1 for detailed breakdown). What’s more, 68% of directors appointed to boards during the 12-month period covered by our research were non-nationals, suggesting an upward trend.
+
+Figure 1: Nationalities of board directors in the SMI Expanded
+
+There are a few possible explanations for why Swiss listed company boards are so international, and why this is indeed desirable. First, these businesses typically have a huge global footprint with a relatively small percentage of revenues coming from the Swiss market, hence the need for directors with hands-on experience of different geographies and business cultures. Second, if the customer base is primarily non-Swiss, then it can be an advantage for a company to have a board that brings a deep understanding of customer needs and behaviours in key markets. Third, cognitive diversity is highly prized today and an international board, if well chosen, may score particularly highly in terms of diversity of thought.
+
+Gender diversity continues to progress
+
+The decision by Switzerland’s National Council in 2020 to approve a legal amendment to board gender targets established a gender quota for boards and executive committees (30% and 20% respectively) for publicly listed companies with more than 250 employees. By 2022, women accounted for 33% of all board members across the SMI Expanded companies and 17% of all executive committee members, indicating that the quotas have been a catalyst for change (see Figure 2).
+
+Figure 2: Female representation on SMI boards (2014-2022)
+
+A similar trajectory has been seen in Norway and France, where the boards of top listed companies in each country have moved beyond their national quotas of 40% women, each country now averaging 45%. Both countries took a few years to surpass their quotas, but have remained at a steady level since.
+
+During the 12-month period covered by our research, the majority of new board appointments went to women (57%), a highly positive sign. Nevertheless, the fact that 31% of boards in our sample had not yet reached the board quota and 66% had not reached the executive committee quota is a clear demonstration that there is more work to be done before female representation is on a par with many other European countries (see Figure 3).
+
+Figure 3: Female representation on boards (Europe and US)
+
+More women are needed in board leadership roles
+
+You may also like:
+
+Boards Around the World
+
+An interactive exploration of how boards around the world compare in terms of diversity, composition, compensation and more.
+
+In the UK, as the representation of women on boards has edged closer to parity, the focus of attention has switched to the paucity of women in leadership roles. In 2022 the FTSE Women Leaders review and the Financial Conduct Authority (FCA) issued a recommendation that by the end of 2025 at least one of the four senior board positions (chair, senior independent director, CEO and CFO) should be held by a woman (In UK listed companies, both the CEO and CFO are typically main board members). The 2022 UK Spencer Stuart Board Index records that men occupy all four roles on 73 of the top 150 company boards, so many more senior appointments will need to go to women over the next two and a half years if that target is to be achieved.
+
+In SMI Expanded companies, relatively few women occupy those four leadership positions; indeed, the percentages have hardly changed over the past decade. This was also the case in the UK, where gender diversity in leadership roles remained low despite a steady increase in women appointed to non-executive positions. It wasn’t until the focus of the FCA shifted to gender diversity in board leadership that a sense urgency was created. The data for Switzerland suggests there is an opportunity for companies to learn from this and address the diversity deficit in board leadership sooner rather than later.
+
+On a more positive note, women are significantly better represented in committee leadership roles on Swiss boards than they are in the roles of chair, vice chair, CEO and CFO (see Figure 4).
+
+Figure 4: Female representation in leadership positions (Switzerland and UK)
+
+We expect to see more women occupying the roles of chair and vice chair on Swiss listed company boards in future as overall gender diversity increases, but it will take a concerted effort. The 2023 Swiss Code of Best Practice for Corporate Governance acknowledges the need for succession planning to promote the underrepresented gender, and in our view such succession planning should equally be applied to leadership roles, both at executive and non-executive level.
+
+Boards are rising to the challenge of sustainability
+
+The board's remit has expanded significantly in recent years to include topics as varied as digital transformation, cybersecurity and sustainability. Sitting atop all of these is the question of purpose, which is receiving more and more attention at board level. A clear articulation of the purpose of the organisation, it's reason for existence and relevance in the world, helps unite employees across geographies, increases engagement and fosters teamwork and collaboration. Purpose shapes corporate identity, provides a important foundation for the development of strategy, and is a vital component of sustainability.
+
+The topic of sustainability, driven largely by investor focus on environmental, social and governance (ESG) issues, has risen rapidly up the board agenda in recent years. Stakeholders are becoming increasingly active, holding companies to account. For many boards, regardless of sector, securing the social licence to operate is an urgent concern, which means minimising any negative social and environmental impact for which the business may be responsible. Boards therefore need to be well-informed about ESG matters in order to ensure effective risk management.
+
+Boards also need to appreciate the importance of embedding sustainability into strategy, rather than treating it as a separate domain. If sustainability is to be fully factored into strategy, there must be organisational and cultural alignment, and with it a shift in mindset. Boards need to understand the inextricable link between culture and leadership when thinking about a sustainability transformation — as we have written in The Leaders’s Guide to Corporate Culture, the right culture can unleash tremendous amounts of energy toward a shared purpose and foster an organisation’s capacity to thrive.
+
+Boards in Switzerland (like those across Europe) are adopting a variety of approaches to address ESG challenges. A growing number are forming dedicated committees with a specific remit covering sustainability and/or ESG. In Switzerland, 25% of companies in the SMI Expanded index have board committees dealing with sustainability, although only two have committees with ESG in the title: Swisscom (Audit and ESG) and Temenos (Nomination and ESG). Some companies are folding ESG-related work into existing committees, but the majority of boards are choosing to address these issues at main board level.
+
+We have encountered very different attitudes to the creation of board committees dedicated to addressing sustainability issues. For some chairs, it is an opportunity for a small group of directors to dive deep into the issues, bring in external perspectives and expertise, and share learnings and recommendations with the full board. For other chairs, a dedicated committee is to be avoided; they believe that sustainability and ESG should be dealt with by the whole board. It is still too early to say whether such committees are effective, but it is clear that most boards and committees are currently focused on the compliance and risk aspects of ESG, rather than the opportunities for innovation and growth that come with building a forward-looking, sustainable business model.
+
+A board can only support and oversee a sustainability strategy if it has the right talent in the boardroom capable of providing effective advice and challenge to management. However, sustainability is a relatively new and rapidly evolving topic which is not familiar to many board directors whose executive careers ended a long time ago. For that reason, it’s incumbent on every board director to get up to speed on the most common issues (such as climate change, decarbonisation, or human rights in the supply chain) and to understand the materiality of their organisation from a sustainability perspective, so they can see where both the risks and opportunities lie.
+
+The least common solution for boards trying to get ahead of the sustainability challenge is to hire a director with so-called ESG expertise. We have seen very few cases around Europe where boards have hired a director specifically for their ESG credentials. The main reason for this is probably that it is quite rare to find specialists who have the requisite business experience to be able to add value across the entire board agenda.
+
+Developing the next generation of board directors
+
+As fast as the business context is changing, it is hard for boards to keep up. While stability and tenure are important factors in a high-functioning board, so is fresh thinking in the form of new directors who bring insights and experiences (and scars) from the battlefield. Sustainability is only one of the growing concerns that boards need to address, albeit a critical one, but there are other areas too where expertise is needed, for example artificial intelligence and machine learning, cybersecurity, data & analytics and digital transformation. Bringing a subject matter expert on to the board may be necessary in certain circumstances, although the most important thing is that every board seat is occupied by someone with the intrinsic qualities necessary to contribute broadly to board debate and decision making.
+
+Boards are seeking more diversity and a good balance between experienced hands and new perspectives borne of current, hands-on experience, so our task as leadership advisers is to look outside the traditional pool of candidates to help create boards that are able to exercise oversight and advise on strategy in all the dimensions decisive for business today. For candidates who have never sat on a main board, we apply our Board IntrinsicsTM  methodology to assess individuals for five qualities: intellectual approach; independent-mindedness; interpersonal skills; integrity; and inclination to engage (motivation). More and more first-time board directors who have these qualities in abundance are able to get up to speed and prove their worth despite their lack of experience in the boardroom.
+
+We also provide practical advice to future board members through our guide to Becoming a non-executive director, and run programmes designed to develop the skills and capabilities of new and prospective board directors, such as the Directors’ Forum programmes (offered in the UK and Germany), and academic partnerships, for example in Switzerland with NICG and SIX for Board Essentials.
+
+Board Assessments
+
+Measuring board effectiveness
+
+Public expectation of board performance is increasing and boards must be ready to demonstrate that they are both fit for purpose and self-aware. Just as directors are required to be more professional in the performance of their duties, so the monitoring and evaluation of that performance sets a good example to the organisation as a whole. It reinforces a culture of self-reflection and openness to constructive criticism.
+
+You may also like:
+
+How effectively the board carries out its duties is therefore something that should concern every board member, not just the chair. An annual board assessment plays a critical role in ensuring that any problems in how the board functions are brought to light and addressed in a discreet and timely manner. Board assessments frequently result in improved processes, more accountability and transparent communication, enhanced trust and better decision-making.
+
+These annual evaluations are frequently self-assessments, often conducted by questionnaire under the direction of the deputy chairman, senior independent director, or often the company secretary. Frequently, the results are referred to as part of the governance report published by the company.
+
+Boards should not expect too much of an internally managed board assessment exercise. Self-criticism is likely to be muted and any changes recommended will be modest — a weakness of self-regulation. Those who mark their own homework are likely to award high grades.
+
+In recent years, certain national corporate governance codes have been recommending that boards conduct an externally facilitated board assessment a minimum of every three years and most boards have followed these guidelines. It is noteworthy that whereas 22 companies in the SMI Expanded index reported undertaking an internal board review in 2022, only two Swiss boards (4%) used an outside facilitator. There is no mention of external evaluations in the Swiss Code, and until this gets on the radar the situation is unlikely to change. Figure 5 shows how companies in the SMI Expanded index compare with their peers around the world.
+
+Figure 5: Externally facilitated board assessments (2022)
+
+The ingredients of a successful board assessment
+
+In our experience, clients derive the highest value from an external board assessment when the approach pursues the following key principles:
+
+The assessment is specifically tailored to the client’s current business context.
+
+The scope is determined on the basis of a comprehensive briefing by the chairman and agreed stakeholders.
+
+Board members are interviewed individually on a confidential basis and asked both for their qualitative and quantitative assessment of the areas that determine board effectiveness.
+
+The board’s performance is benchmarked against equivalent companies.
+
+The assessments are conducted by consultants with seniority and experience.
+
+External facilitation
+
+An external assessment conducted by an experienced, trustworthy and neutral facilitator provides a far richer and more nuanced picture of the board’s functioning and effectiveness. Most importantly, it is more likely to provide a true and honest one.
+
+The identification of substantive issues and the ability to benchmark the board against best practices elsewhere are the two principal reasons why an external evaluation can provide the information that shareholders and other stakeholders seek.
+
+A well-conducted external assessment of the board will have a number of objectives going far beyond simply reporting on how things are.
+
+A key ambition will be to enhance the board’s relationship with management and to ensure that communication among directors and with the executive is more transparent. An ambition will be to improve the board’s processes of working together with an aim of building trust among directors, thus allowing for better decision-making, particularly during periods of crisis and transition.
+
+There is real benefit in board assessments being done on a consistent and regular basis. It helps set the right tone at the top and some high-performing boards consider an externally facilitated annual board assessment to be best practice, not least because it enhances the recruitment process.
+
+An effective performance evaluation requires expertise and professionalism on the part of the evaluator. Given the growing legislative requirements for external evaluation, an increasing number of individuals and organisations are offering their services. However, for the best results boards should choose as an external facilitator a firm that has the resources and experience to do the job properly. Each evaluation should be conducted by a specialist in the field of board and corporate behaviour that offers these services across many jurisdictions, bringing experience and best practice from other relevant markets.
+
+Conclusion
+
+There are several corporate governance measures where Swiss listed companies lead the way on the global stage, including high levels of independence, international outlook and the proportion of women among new appointments. As we have pointed out, there are also some areas where Swiss companies could enhance their governance to keep pace with best practices established in other European jurisdictions. The prospect of inviting an external facilitator to conduct a board evaluation may not appeal to some chairs, but the reality is that such evaluations are already widespread in many other European jurisdictions and incorporated into their corporate governance codes. By taking a proactive approach, Swiss organisations could enhance their reputation and give them first-mover advantage should similar recommendations for externally facilitated board evaluations eventually come to Switzerland.
+
+Societal expectations and scrutiny around ESG are only going to increase the pressure on boards. While the jury is still out regarding whether dedicated committees are the most effective arrangement for dealing with pressing issues like sustainability, boards do need to be prepared to deliver on more and more complex mandates. They must invest in governance, board effectiveness and succession planning, and consider talent from more diverse candidate pools who can help them to deliver on new challenges. More diversity in the boardroom helps protect an organisation from reputational risk. Not only is it ‘the right thing to do’, but over time it will have a positive effect on the quality and strength of leadership and ultimately on the future performance and relevance of an organisation.
+
+This article first appeared in Board Dynamics, published by the Network for Innovative Corporate Governance, University of St. Gallen, Switzerland.
+
+Author
+
+Sigrid Artho
+
+Zurich

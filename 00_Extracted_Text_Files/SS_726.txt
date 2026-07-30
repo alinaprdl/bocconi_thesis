@@ -1,0 +1,66 @@
+MWC 2017: Five Things Leaders Need to Know
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+MWC 2017: Five Things Leaders Need to Know
+
+By
+
+Technology, Media & Telecommunications Practice
+
+March 2017
+
+| 4 min read
+
+Author
+
+Technology, Media & Telecommunications Practice
+
+By the
+Technology, Media & Telecommunications Practice
+
+Spencer Stuart has been hosting events at Mobile World Congress (MWC) for almost a decade. It has become increasingly clear that the conference is now much more than a phone show-and-tell. For leaders across industries, the event provides a glimpse into the mobile trends that could reshape their market, their business and how they lead. We explored the innovations at MWC in Barcelona once again this year and hosted two exclusive events for CEOs, CMOs, CTOs and chief product officers from a number of sectors, including telecommunications, financial services, automotive and entertainment to discuss what mobile developments will mean for their organizations and talent strategies. Here are our top five takeaways.
+
+1. Monetizing 5G needs close collaboration to manage costs.
+
+According to the 2017 Mobile World Live Annual Industry Survey of key decision-makers across the mobile ecosystem, 96% expect 5G to be widely available in their markets by 2025. It remains to be seen whether the change is driven by operators who have to carefully balance the opportunity for revenue growth with the significant incremental investment. Based on the intense buzz around the topic at this year’s event, fifth-generation wireless cannot be ignored. One school of thought is that 5G will be a game-changing platform for Internet of Things (IoT) and big data and analytics; others do not see it as a giant leap forward, but simply an enabler of faster service and greater bandwidth.
+
+There is consensus on one of the most pressing challenges around 5G: how to monetize it in light of its massive cost implications, especially when operators are still trying to recoup costs from the relatively recent rollout of 4G. The major infrastructure investment for 5G — and concerns over different standards for service and coverage — mean that operators outside the U.S. would need to work together closely and potentially combine competing networks. The new environment requires leaders with strong collaboration capabilities and experience working with regulators.
+
+As part of these efforts, organizations will also find themselves competing even more intensely for software and IT talent and may need to turn to sources of talent outside the technology sector.
+
+Discussing trends at MWC in Barcelona.
+
+2. The Internet of Things is redefining leadership profiles.
+
+We saw a full range of IoT solutions displayed at MWC: the connected car, health products and the Industrial Internet of Things, among many others. The continued proliferation of IoT and connectivity beyond telecommunication means M&A activity and partnerships from traditionally disconnected industries will become more common. In an environment packed with significant opportunities, operators need to be realistic about resources and select their “big bets” carefully. For collaborations and mergers to be successful, organizations need to ensure the right people are in the most critical roles. Potential cultural barriers have to be identified early on so that an aligned top team can be built. In addition, cultural sensitivity in cross-border M&A will be especially critical.
+
+These shifts are also changing the type of leadership that organizations will require. Traditionally, institutional investors have demanded predictable dividend yields from the executive team. Forays into new (and often unproven) ventures such as content, advertising and data will require leaders who have creative business minds and the patience to help a larger organization see the possibilities of new revenue streams. To develop IoT solutions for complex issues, there is and will continue to be significant cross-pollination of talent across industries, demanding leaders who can manage a diverse pool of skill-sets and are able to assess talent from unconventional sources. Strong partnership and corporate development expertise will also be critical. At the same time, venture capital firms and growth capital investors are seeking next-stage leaders to scale their tech businesses.
+
+3. Cybersecurity is a simultaneous challenge and opportunity in a more mobile world.
+
+Increased connectivity inevitably opens the door to greater risk. According to a poll we conducted during MWC, two-thirds of respondents said cybersecurity is their organization’s top technology priority. This concern is consistent with what we saw at the RSA Conference last month in San Francisco. Boards also understand that cybercrime is a risk management issue that affects the entire organization and requires board oversight. One-quarter of corporate secretaries we surveyed as part of our research for the Spencer Stuart Board Index said the full board is responsible for cybersecurity oversight and 75% said the board has assigned cybersecurity oversight to a specific board committee. We anticipate more organizations will bring on chief information security officers who can navigate the security issues of a mobile world and understand the implications for the business. With their existing infrastructure and tech talent bench, telecom players may have a distinctive value proposition in terms of cybersecurity capabilities to offer consumers and other enterprises. Will operators seize this opportunity?
+
+4. Leaders who can leverage content as a differentiator are still needed.
+
+Operators continue to look for something unique to enhance the customer experience. During MWC, Vice Media announced partnerships with global mobile carriers to distribute content. Discovery Communications and EuroSport launched the new Official Mobile Broadcaster designation for co-branding opportunities and customer access to the 2018-2024 Olympics. We’ll see content expand into enterprise services like smart cities and homes. Ad tech could also be a natural extension of these efforts.
+
+For companies that invest in content, customer-focused content leadership will be key. To maximize the content opportunity, marketing, sales and IT leaders will need to work together in new ways. We anticipate more organizations will establish C-level content roles in order to provide strategic leadership and help harness content’s relationship-building power.
+
+5. Agility and adaptability are the antidotes to disruption.
+
+Interestingly, while virtual reality (VR) was a hot topic of the 2016 conference, it had a noticeably lighter presence this year. As Benedict Evans of A16Z tweeted, VR “isn’t ready” and is in the middle of the “trough of disillusionment.” If VR does take off, Netflix CEO Reed Hastings said his company will adapt to it, underscoring the key attributes of leaders and organizations in a landscape marked by disruption: agility and adaptability. Success will hinge upon having a culture that is nimble and oriented toward rapid learning and iterating. Exploration and creative thinking are vital cultural traits in a space reliant on forging new ground, where many applications have yet to be discovered.
+
+Among the many disruptors, artificial intelligence (AI) drew significant discussion at MWC. The tangible implications for the industry and talent remain a question mark. In a future scenario where decision-making is driven by machines, it’s not inconceivable that we could see the need for chief ethics officers who engage closely on the output from machine learning to check for hidden nuances that haven’t been picked up by the algorithms. Today, organizations need senior leaders who are able to manage the disruption. At the same time, virtualization is creating new ways of working and interacting. Network and IT operations are converging and giving way to a shift in traditional talent profiles. Network engineers and software engineers are morphing to be one and the same.
+
+Overall, we observed the clear split between dreamers, who focus on the opportunity presented by next-stage innovations like the growth of IoT and AI, and pragmatists, who focus on the cost savings that could be created by new technologies. Organizations will find themselves needing leaders who can be both.
+
+Download the PDF
+
+Author
+
+Technology, Media & Telecommunications Practice

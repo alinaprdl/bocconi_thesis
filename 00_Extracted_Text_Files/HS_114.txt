@@ -1,0 +1,208 @@
+Chief Legal Officers & Board Oversight | Heidrick & Struggles
+
+Identified Country:
+
+How chief legal officers are supporting boards on today’s challenging issues
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Legal, Risk & Compliance How chief legal officers are supporting boards on today’s challenging issues
+
+Twelve leading Chief Legal Officers (CLOs) share how they’re partnering with boards to address today’s most pressing challenges—including geopolitical risk, artificial intelligence, and the evolving role of corporate legal departments. These legal executives offer insights and strategies for navigating complex regulatory landscapes and delivering strategic guidance to executive teams. Their perspectives highlight how the modern general counsel has transformed into a key business advisor, driving organizational strategy and long-term success.
+August 21, 2024
+
+David Burd ,
+Lee Hanson ,
+Victoria S. Reese ,
+Elizabeth Zessman
+
+Read the full article
+
+CLOs and communications
+
+Today, CLOs also consider corporate communications as a potential source of reputational risk, however strong their organization’s communications function. This means HR and communications leaders work with the CLO to align on communications of all kinds, especially around policy. “When you’re a public company, you have to be really careful about what you say publicly on any topic, whether on your website, in a sustainability report, an annual report, or a quarterly filing,” said one CLO. “These documents have different owners in the organization, so our job is to ensure those communications are consistent and appropriate.
+
+The rise of generative artificial intelligence (AI) and ongoing expectations for companies to take stands on societal issues are just two of the trends facing public companies today that often require increased interactions between boards and legal leaders.
+
+We spoke with 12 chief legal officers and general counsels (abbreviated throughout as CLOs), from large public companies in the United States, across industries from life sciences to technology to retail, about how they’re helping their boards navigate these uncertain times. They aligned on a few topics on which boards are increasingly seeking their counsel—technology risks, geopolitical volatility, regulatory risks, sustainability, and social responsibility—and a few ways their relationship with the board is evolving.
+
+Geopolitical volatility
+
+According to a survey of CEOs and board members, geopolitical volatility may be their most significant risk, one about which boards must be kept apprised as there are potentially significant business implications.1 “Geopolitics impacts sales, supply chain, and manufacturing. We worry if we’ll even be able to sell our products in certain markets,” said the CLO of a large public technology company. Many companies curtailed operations in Russia, or left the market altogether, after it invaded Ukraine in 2022, for example. And while the complicated relationship between China and the United States is not new, it is dynamic, and companies are watching it closely, as they are with developments in several other regions, including the Middle East. In addition, leaders must consider the potential consequences of the more than 50 significant elections being held in economies around the world in 2024.2
+
+“I ask, ‘Where and why is this relevant to us?’ and consider all the different lenses: stakeholders, employees, customers,” said another CLO. “Is it an operational issue? Or a values one? If so, do we take a position?” While these questions—and their answers—will vary based on the company and industry, and the threat may be bigger for some than others, it’s something most boards and legal leaders are contemplating.
+
+Regulatory risks
+
+“Regulatory risk comes up at every board meeting,” said the CLO of a large public transportation company. Boards are figuring out how to navigate legal, policy, regulatory, and reputational issues, “being ever mindfl of how to walk gingerly through issues that are regularly being politicized, while also being responsive to employees.”
+
+CLOs are critical to these discussions. “It starts with the general counsel, who has a broad view of where the world is going and where the company is going and where those paths intersect,” said one. Another noted that “the legal team needs to anticipate and prepare for an avalanche of new regulations and be ready to challenge them in court if necessary.”
+
+Complex and uncertain regulatory landscapes are a major reason many boards have become more risk-averse when it comes to acquisitions. Boards expect legal teams to thoroughly vet deals to understand and identify regulatory risk. One CLO noted that a board may back off deals even if the assessment is 60/40 in favor of the deal going through.
+
+Looking to the future, CLOs expect regulatory risk to continue to be on the agenda. “There’s an election coming, and the approach to policy and regulation of the two candidates is very different. While regulation isn’t inherently bad or good, a big change could be difficult to manage,” said one CLO. The CLO for a medical device company also noted the challenging enforcement environment, citing, for example: “AI, in particular, is challenging; any company with AI as part of the product could have it taken away if it doesn’t have a patent.”
+
+Cybersecurity, AI, and privacy
+
+Managing risks and mitigating opportunities for bad actors is a major concern for boards today as cyberattacks continue to evolve and become more sophisticated. It is incumbent upon companies to protect their operations and reputations, and it has become critical for legal teams to include expertise in these rapidly evolving fields. “Boards want to be assured the legal team has a plan in place to address potential ransomware attacks and other cyber threats,” said one CLO. “Many times, there are punitive repercussions to the business for not taking appropriate precautions advised by legal.”
+
+Privacy is a particular concern, especially in industries such as healthcare, financial services, and retail and e-commerce. “With a growing number of state-by-state privacy regulations, boards want legal teams to ensure the company is compliant,” said one biotech CLO.
+
+The board is also working closely with legal, which is working closely with operations, when it comes to AI. CLOs were among the corporate officers most often cited as playing a role in setting AI policies in a recent survey we conducted, and they tend to take a more conservative view relative to their C-suite peers. For example, only 29% of CLOs said their company was moving too slowly in adopting AI, while about half of leaders across other functions said the same. This more conservative view likely stems from the CLO's role as protector of the company against risk.3 “We’re talking about the ethical and governance implications of AI—how to control what people at the company do with AI, what information is entered into these platforms,” said one CLO. Legal leaders are trying to help get the board up to speed on the key issues and establish a common understanding and language around AI. Notably, CLOs more often than leaders of other functions said that their boards were overseeing AI as part of their typical oversight of strategy and risk, suggesting that many CLOs are succeeding in getting AI onto the board agenda in ways they’re comfortable with.
+
+Sustainability and social responsibility
+
+Boards are balancing overlapping and, at times, conflicting regulations and requirements in many areas related to environmental, social, and governance issues while also trying to manage the evolving discussions around public scrutiny of these issues more broadly. “The ESG acronym got some bad PR, but the notion of sustainability is going to be around. Customers talk to us about sustainability—especially internationally,” said one CLO. And boards recognize the value of the underlying principles, including not only sustainability but also inclusivity, a thriving culture, and strong governance. As a CLO of a multinational IT company said, “What we are advising our board is that as long as it’s tied to a business purpose, and we believe it is, we should be fine.”
+
+A CLO's input on topics related to DEI is also important. One reason is because, as one CLO noted, “If a company’s policies don’t comport with the laws, the board needs to be apprised.” Another CLO focused on the impact of political shifts: “The legal team needs to be aware of and prepare for the legal implications of social issues like diversity initiatives, considering recent Supreme Court decisions and potential changes to state laws.”
+
+On many of these topics, regulators are requiring increasingly sophisticated reporting, and the CLO can add value in multiple ways here. “Companies must be truthful and systematic, putting audit principles in place. The targets have implications for budget, business growth, and supply chain monitoring, so the board needs to understand the commitments,” said one CLO. Another noted the overlapping nature of disclosures and regulations: “Boards are trying to figure out the Venn diagram and how what they do fits in.”
+
+What this means for the CLO–board relationship
+
+The role of modern CLOs has evolved to become more influential and strategic, playing an increasingly central role in shaping the business, as a trusted business partner, solution-seeker, and risk manager.4 In the context of these intensifying trends, the same is now true for their relationship with the board. Traditional roles, such as developing the board agenda, supporting board effectiveness assessments, and advising on nomination and governance matters, are taking on more significance. “The board is an organism, and investors want to know that there is a robust mechanism for self-assessment and evolution to ensure it’s working well,” said one CLO. In the context of expanding areas of knowledge and responsibility, another added, “Legal isn’t just an audit function. We’re making sure the company is living up to its commitments.” A third focused specifically on the evolution of governance structure: “We’re trying to improve the existing governance framework for committees as well as navigate through it to ensure certain topics are raised, including AI and ESG.”
+
+Communication with the board is another area that is changing. Some CLOs with whom we spoke said they’re communicating with the board more often, including outside regular meetings. “We have regular touch points and communication, such as when I need a gut check on something,” said one CLO. In addition, CLOs are helping boards make connections with other experts on topics the board wants to learn more about. For example, another CLO said, “Legal is taking a much bigger role in working with the business on geopolitical challenges, trying to get our business leaders in front of government leaders to build those relationships.”
+
+Finally, some CLOs are also more deeply involved in strategy than ever before. A CLO at a medical device company, for example, noted, “We have a lot of high-stakes antitrust litigation, which can be a huge threat, so I’m very tapped into strategy for these situations. It’s also necessary these days to have an activist preparedness strategy and poison pills in your back pocket, hoping you never have to use them.”
+
+Conclusion
+
+Companies—and by extension, boards—are under more pressure and different pressures than ever before. Complex and overlapping requirements and regulations, shifting geopolitics, fast-evolving technologies, and thorny social issues are particularly raising the stakes. “This is an unprecedented time,” said one CLO. “It’s up to the general counsel to look hard at the existing governance framework, challenging whether it’s adequate and harnessing it to help the board navigate uncertainty.
+
+About the authors
+
+David Burd (dburd@heidrick.com) is a partner in Heidrick & Struggles’ Washington, D.C., office and a member of the Legal, Risk, Compliance & Government Affairs Practice.
+
+Lee Hanson (lhanson@heidrick.com) is a vice chair and partner in Heidrick & Struggles’ New York and San Francisco offices and a member of the CEO & Board of Directors and Legal, Risk, Compliance & Government Affairs practices.
+
+Victoria Reese (vreese@heidrick.com) is a partner in Heidrick & Struggles’ New York office and the global managing partner of the Corporate Officers Practice.
+
+Elizabeth Zessman (ezessman@heidrick.com) is a partner in Heidrick & Struggles’ New York and Stamford offices and a member of the CEO & Board of Directors and Legal, Risk, Compliance & Government Affairs practices.
+
+References
+
+1 In a Heidrick & Struggles’ survey of CEOs and board members around the world, economic volatility and geopolitical volatility were their first and second most significant concerns for 2024. See “CEO and board confidence monitor: A worried start to 2024,” Heidrick & Struggles, January 17, 2024.
+
+2 Jill Lawless, "Over 50 countries go to the polls in 2024. The year will test even the most robust democracies," Associated Press, January 10, 2024.
+
+3 For more, see “How legal leaders are using AI today,” Heidrick & Struggles, forthcoming on heidrick.com; and “How functional leaders are using AI—and barriers to progress,” Heidrick & Struggles, forthcoming on heidrick.com.
+
+4 For more, see David Burd, Lee Hanson, and Victoria Reese, “How the general counsel role is changing in 2023,” Heidrick & Struggles, February 15, 2023.
+
+Related Services & Industries
+
+Board Effectiveness
+
+Legal, Risk & Compliance
+
+Related Content
+
+Corporate Affairs
+
+Balancing reputation and risk: The role of today’s corporate affairs director
+
+Reputation is now a measurable asset. Today’s corporate affairs directors must lead cross-functional, board-level strategy to turn trust and risk management into competitive advantage.
+
+Legal Officers
+
+Government and corporate affairs focus: Finding leaders who can effectively manage political and regulatory risk
+
+Navigating the constantly evolving global political and geopolitical landscape is a strategic necessity today. Our work with US and global companies suggests a comprehensive menu of options and some questions companies can use to navigate them, whether they are just starting out or already have a foundation to build on.
+
+Social Impact
+
+Building trust in AI systems and AI systems that deserve our trust: A conversation with Miriam Vogel, president and CEO of EqualAI
+
+Legal professionals face unique challenges in implementing AI while maintaining compliance and ethical standards.Miriam Vogel shares what it means to her to lead in an AI-enabled world and how she believes that legal leaders  must balance guardrails and innovation to remain competitive. This conversation explores how executives can build and use AI tools that earn and deserve trust in the legal sector.
+
+Legal Officers
+
+How legal leaders are using AI today
+
+Our second annual survey of legal professionals in the legal function shows that legal leaders are slightly more cautious about AI than their peers in other functions across the C-suite. The research examines how corporate legal departments are implementing AI technologies while maintaining regulatory compliance and business acumen. These findings provide critical insights for the legal industry and executive search professionals seeking qualified candidates with emerging technology expertise.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

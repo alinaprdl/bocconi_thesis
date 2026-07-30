@@ -1,0 +1,133 @@
+The Wrong or Right Vibes?
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+This Week in Leadership|July 16, 2025
+
+The Wrong or Right Vibes?
+
+Savvy workers are “vibe coding” with AI to create some cool, productive tools. Should firms and leaders be concerned, or should they use vibe coding to gain an edge with competitors?
+
+Peter prefers to take notes from meetings and conferences in his journal—recording them in his own handwriting helps him remember. His method isn’t all that efficient, however, because he has to recreate and organize his notes digitally afterward. But with the help of ChatGPT, he has built an app that can transform pictures of his journal pages or voice notes into computerized text, as well as organize them, compile a database around certain themes, and more.
+
+It’s called “vibe coding,” and it’s the latest trend in generative AI to find its way into the workplace. The phrase was coined in February on social media by a cofounder of OpenAI, the parent company of ChatGPT, and cited by Merriam-Webster a month later as a “trending term.” Vibe coding uses AI to generate code from text or voice prompts. You no longer have to write the actual code for an app; instead, AI translates your directions into code, creating a handy tool in the workplace. All of which leads to a new wave of opportunities—but also risks—for firms and leaders to figure out, says Bryan Ackermann, head of AI strategy and transformation at Korn Ferry. “It makes AI more accessible to a far larger group of people and users,” he says.
+
+Vibe coding has been slowly gaining traction since the debut of ChatGPT, moving from traditional software engineers at big tech firms to the IT departments of industries such as finance and hospitality. Lately, the trend has been taken up by employees in marketing, sales, and other functions outside of IT. According to one research firm, AI will be writing 40% of all code for businesses by 2028.
+
+Realizing they can now translate an idea into a prototype, then a product or service within days instead of months or years—and recognizing the implications for revenue, growth, cost, and market position—leaders are pressing engineers and software developers to build more AI-coding tools and applications. The problem is that only a few companies right now have the infrastructure, budget, and talent to do vibe coding at scale, says Todd Blaskowitz, a senior client partner on the AI strategy and transformation team at Korn Ferry. But these firms are using vibe coding to speed up production, solve customer bottlenecks, or create new products.
+
+Most other firms aren’t using vibe coding that way, says Blaskowitz. Indeed, outside of the largest of large firms, vibe coding has spread much as other AI tools have, with employees experimenting with it largely on their own. Having more people involved in the software-development process in such a Wild West fashion, he says, opens up firms to more AI-related risk: “You have people executing a process who are not experts in that process.” Like so-called AI agents, unregulated vibe coding exposes firms to data and privacy breaches and integration challenges; it can even slow down rather than speed up processes. Put another way, if 100 employees develop 100 different apps that all do the same thing, the firm’s systems will be running all of them, updating them, backing them up, potentially paying license fees for them, and more. “From a risk perspective, it could be like adding gasoline to a fire,” says Blaskowitz.
+
+Paul Fogel, sector leader for software in the Professional Search practice at Korn Ferry, says firms and leaders need to ensure that trained developers are overseeing and reviewing vibe-coding projects. And while developers have already started voicing concerns that their roles are becoming less creative and more robotic, Fogel says they’re crucial to making sure code is being written and deployed within the firm’s existing standard structure—in other words, to actually achieving the results firms expect from vibe coding. “Without proper vetting, vibe coding is shadow IT at its worst,” says Fogel. “With proper vetting, it can change an organization.”
+
+Learn more about Korn Ferry’s Future of Work capabilities.
+
+Read more This Week in Leadership articles
+
+Our Expert
+
+Our Experts
+
+Bryan Ackermann
+Senior Vice President, Head of AI Strategy & Transformation
+
+Paul Fogel
+Sector Leader, Professional Search, Software
+
+Todd Blaskowitz
+
+Senior Client Partner
+
+Featured Insights
+
+This Week in Leadership (Jan 12 - Jan 18)
+5 Ways to Move from ‘Toying’ to Working with AI
+
+INSIGHTS TO YOUR INBOX
+
+Stay on top of the latest leadership news with This Week in Leadership—delivered weekly and straight to your inbox.
+
+​
+
+Related Insights
+
+See All Related Insights
+​
+
+Article|July 3, 2026
+
+The Glitter Leader
+
+July 3, 2026
+
+This Week in Leadership (June 29 - July 5)
+
+July 3, 2026
+
+This Week in Leadership (June 29 - July 5)
+
+Article|July 1, 2026
+
+6 Ways to Handle Work During Vacation
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+This Week in Leadership
+
+Leadership
+
+Attrition & Retention
+
+Organizational Transformation
+
+Workforce Management
+
+Employee Experience
+
+Talent Recruitment
+
+People Strategy & Performance
+
+Change Management
+
+Organization Design & Analytics
+
+Organization Strategy
+
+Total Rewards
+
+Employee Rewards
+
+Talent Acquisition
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

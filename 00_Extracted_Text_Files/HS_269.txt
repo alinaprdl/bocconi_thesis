@@ -1,0 +1,209 @@
+Why successful digital officers don’t always have “digital” in their title | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Why successful digital officers don’t always have “digital” in their title
+Explore this page Digital acceleration and the CDODifferent CDO modelsKey considerations for CEOs and boards regarding the CDO roleAbout the authorsRelated Content
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Digital Leadership Why successful digital officers don’t always have “digital” in their title
+
+CEOs often seek to accelerate digital transformations by adding a chief digital officer. But there are a number of questions they should ask first, and several models of digital leadership to consider.
+
+Katherine Graham Shannon
+
+Key questions to define the next phase of digital leadership
+
+In some companies, the technology executive team may already be quite robust, but it may still not be optimally configured to serve business strategy, particularly when more ambitious shifts are necessary. Senior leaders can ask the following questions to help them shape the executive roles for the next phase of digital acceleration:
+
+How digitally accelerated is the company today?
+Do senior leaders have a clear understanding of the company’s digital needs and gaps as it seeks to further accelerate?
+Can anyone on the current leadership team pivot or stretch to address those needs or gaps?
+Is the IT function seen as a technology implementer or an enabler for innovation?
+Have the most senior leaders made digital transformation a top priority? Are they willing to commit to structural and cultural changes to make a new digital leadership team successful?
+
+Digital is everywhere these days. It’s the underpinning for increasing customer engagement, driving efficiencies in a company’s operations, and shifting mind-sets to enable organizations to increase their agility and speed of innovation. Digital’s prevalence and prominence explain why companies are considering hiring a chief digital officer (CDO) to ensure they are doing everything possible to harness it. A 2018 Strategy& survey found that 21% of companies have a CDO in place, up two percentage points from 2016.1
+
+Still, the fact that nearly four-fifths of companies don’t yet have a CDO highlights the lingering confusion surrounding what digital leadership should look like at tech-enabled companies, including which leadership roles create real value in a digital-driven market. That’s understandable. Business needs continue to evolve faster than ever, and many companies may be trying to gain more clarity on how a CDO could complement their current team of senior executives, which can include a CIO, CTO, chief innovation officer, and CMO, among other roles. Since digital is far more than technology—it encompasses new experiences, ways of working, and business models—finding a single, all-encompassing digital leader can be like hunting for a unicorn; the following chart shows how some of these roles overlap today.
+
+Throw in vastly different priorities depending on a company’s digital maturity and industry—for example, an online retailer versus a manufacturer—and it’s no surprise that companies are struggling to determine how a CDO could elevate their digital game.
+
+However, the first thing CEOs and boards must recognize is that hiring someone with the CDO title may not be the only or best way to achieve their digital goals. Defining the right digital leader or leaders and getting them in place should be shaped by the company’s unique needs. To further explore how several top organizations are tackling the digital leadership challenge, Heidrick & Struggles conducted in-depth interviews with business leaders at companies that are far along in their digital acceleration journey. Their examples can be helpful to CEOs and boards trying to find the right organizational model and executive talent to shape and execute their digital agenda.
+
+Digital acceleration and the CDO
+
+Several factors have made the focus on digital more urgent. Radical industry shifts, such as the rise of mobility options in transportation, require a renewed focus on technology to stay competitive. The leap in customer expectations related to personalization, convenience, and speed requires a more complex engagement strategy across channels, bringing data and analytics to the fore. Further, a company may seek to diversify its service offerings, adapt its business model, and invest in innovation to boost its competitiveness. Digital is core to all of these efforts.
+
+No two companies start a digital journey with the same strengths and needs, but they all follow a similar path. Heidrick & Struggles analysis has identified five common stages of digital acceleration, shown in the chart below. Understanding where a company falls on this continuum has a huge influence on the type of digital leadership it should be seeking to add or strengthen. For example, executives often hire a CDO when they realize their company has fallen behind the competition on digital maturity and capabilities—a stage we refer to as digitally embarking. Since these organizations are so early in their digital journeys, they rarely have a C-suite leader with the necessary expertise to manage digital innovation. In addition, their IT function often isn’t up to the task of supporting business strategy, particularly when undertaking a transformation.
+
+Indeed, the tech executives we talked with all highlighted the need to elevate technology from an enabler to an integral part of business strategy. They believe it’s imperative for organizations to move beyond incrementalism and use digital to fundamentally change how they operate. Since this recognition is part and parcel of the digitally embarking stage, adding a CDO can be seen as a vital ingredient to build digital momentum.
+
+When companies become digitally mature, the way the CDO role is defined—and, indeed, whether it continues to exist or becomes part of another role—will also change.
+
+Different CDO models
+
+CDOs often possess tech expertise and have served in a variety of IT positions, but their experience is broader than that. It can encompass user experience design, innovation, entrepreneurship, and direct engagement with business units. Unlike other tech executives, an effective CDO must be able to thrive at the intersection of tech and business, with the necessary knowledge and insights to design and lead digital transformations.
+
+Many factors can shape how companies approach the CDO role. Highly regulated industries such as financial services or healthcare may face unique barriers in integrating digital technologies and tools. In contrast, consumer packaged goods and retail emphasize omnichannel engagement, calling for a two-speed (external and internal) digital strategy. And the way the IT function is perceived internally—short-term, execution-focused versus longer-term, business-innovation-focused—can also highlight gaps that can be addressed by the CDO.
+
+While the CDO role can vary by organization, adding such a position typically involves a restructuring of tech responsibilities. Depending on business strategy, companies can choose to reshuffle or combine tech roles such as the CIO, CTO, chief data officer, and chief innovation officer. In some cases, for example, the CIO is replaced by a role that includes digital; in others, the CDO reports to the CIO and works with leaders throughout the business on a digital transformation. (It’s also important to note that the role of the CIO and the IT function shifts markedly as companies become increasingly digitally accelerated, which often drives another round of reshuffling roles.)
+
+A look at four companies that have undertaken ambitious digital strategies reveals a variety of successful models.
+
+CDO Aaron Martin, Providence
+
+The healthcare industry has been significantly behind in digital innovation relative to other industries such as media, technology, and retail. The consumerization of healthcare driven by high deductible plans and healthcare reform motivated Providence, the third-largest health system in the United States, to invest in new technologies and ways of working. The organization hired Martin to lead digital, marketing, and innovation, with an emphasis on how emerging technologies will reshape healthcare. He also leads Providence Ventures, a $300 million investment fund for start-ups with promising technologies at the intersection of digital and healthcare. To manage this diverse set of responsibilities, Martin drew on his past experience driving technology-driven transformations while leading start-ups in fintech and manufacturing technology and in retail with Amazon.
+
+CTO Bryson Koehler, Equifax
+
+As a data, analytics, and technology company, Equifax was already well versed in digital technologies, but it needed to decrease new-product cycles and improve efficiency to keep pace with the market. Koehler joined as CTO with the mission to transform Equifax into more of a tech company that could quickly innovate and scale new solutions to meet the changing needs of its market. His role is tightly aligned with the chief data and analytics (CDA) officer and chief information security officer (CISO) so that Equifax can more quickly adapt its predictive analytics capabilities, provide an always-on customer experience, and ensure that security is baked into all aspects of the business—not just bolted on. Prior to joining Equifax, Koehler served as CTO at IBM and The Weather Channel and also worked in venture capital, which provided him a critical foundation in both technology-driven transformations and incubating new-product ventures.
+
+Chief Digital and Technology Officer Eash Sundaram, JetBlue
+
+Since JetBlue’s founding, the airline has sought to infuse technology into its service. Yet the volatility in the industry led its senior executives to make diversifying its offerings beyond air travel a top priority. JetBlue’s vision was to become a travel tech company that invested in and developed promising technologies. Sundaram was brought in as chief digital and technology officer to “future-proof” the organization, and one of his priorities has been to supercharge innovation. In his role, he oversees three areas: digital commerce, end-to-end technology for the organization, and JetBlue Technology Ventures, the airline’s venture capital unit. His top team includes a chief product officer and a CTO (product engineering, integration, and data science), allowing the organization to quickly move from innovation opportunities to deployment at scale. Sundaram’s background includes a stint as a CIO and roles in customer solutions (in healthcare), supply chain, and consulting.
+
+CIO Filippo Catalano, Nestlé
+
+Nestlé’s C-suite had already recognized that it needed to undertake a digital transformation, hiring Catalano as chief digital operations officer in 2015 to lead the effort. In early 2018, he was elevated to group CIO, reinforcing how the CDO role is a natural proving ground for even more senior roles. When he became CIO, he also removed the word “digital” from titles across his organization, to make the point that the entire organization needs to be digitally dexterous. (For more on digital dexterity, see “Building digital dexterity in your leadership team.”) His top two priorities are personalized consumer engagement through omnichannel marketing and the integration of Industry 4.0 into Nestlé’s operations. He also heads up efforts to infuse digital into Nestlé’s culture through learning, professional development, and talent attraction and retention. His team features a CISO and a head of data, analytics, and integrations. Before joining Nestlé, Catalano worked at P&G for 16 years in a variety of roles, including as a liaison for P&G start-ups and venture capital, giving him a strong appreciation for what it takes to source innovation from both inside and outside the organization and scale it to impact.
+
+Key considerations for CEOs and boards regarding the CDO role
+
+Although companies that are trailing the competition might be tempted to view adding a CDO as an instant fix, the reality is frequently more complex. Before settling on a hiring strategy, executives should start by understanding their crucial needs and then craft a role or roles that can specifically address them (see sidebar, “Key questions to define the next phase of digital leadership”). Three guiding principles can help with hiring decisions:
+
+Understand the relative strengths and gaps of your current executives with digital responsibilities, as well as the organization overall. In addition to the strategic questions in the sidebar, diagnostic frameworks for digital dexterity and digital acceleration2  can be helpful in getting a clear, consistent definition of the entire company’s current state. Companies that have a CMO who can stretch to take on product innovation or a CTO who can stretch to take on data and analytics may be able to focus a new digital leader on very specific opportunities such as organizational transformation or incubating new ventures.
+Favor agility rather than current skills. Since the CDO role exists at the intersection of technology and business transformation, the most effective CDO candidates will have a range of experience. Further, change is a constant, so companies should hire for experience and vision, not current skills. And since the CDO must often be the evangelist for change, he or she should have the chops to work across functions and engage with managers to help other leaders and employees embrace digital technologies and mind-sets.
+Give the CDO the authority to implement change and innovate, and align other leaders around digital success. Clearly defining the CDO role, particularly in relation to other technology executives’ roles, is critical, since ambiguity among tech leaders can lead to a lack of accountability. In addition, the CDO must have the mandate and authority to implement new programs. As Nestlé’s Catalano notes, “A CDO without the responsibility for creating and operating at scale a new way of working is a recipe for failure.”
+
+Companies that create a CDO role in their organization must avoid simply carving out the role from pieces of other existing positions. Instead, executives should be able to clearly determine what new value a CDO can add and how the role can support a digital transformation and innovation. This approach will ensure that the CDO achieves the expected value and is able to lead the organization down the path of digital acceleration.
+
+About the authors
+
+Katie Graham Shannon (kshannon@heidrick.com) is the global managing partner of the Digital Officers Practice and a member of the Information & Technology Officers Practice; she is based in Heidrick & Struggles’ San Francisco office.
+
+Scott Snyder (ssnyder@heidrick.com) is the leader of Heidrick Consulting’s digital offering and a partner in the Philadelphia office. He is a senior fellow at the Wharton School at the University of Pennsylvania and the coauthor of Goliath’s Revenge.
+
+References
+
+1 Pierre Péladeau and Olaf Acker, “Have we reached ‘peak’ chief digital officer?” strategy+business, March 26, 2019.
+
+2 Heidrick Consulting offers two robust online assessment tools: Digital Accelerator Questionnaire (DAQ) and Digital Dexterity Questionnaire (DDQ).
+
+Related Services & Industries
+
+AI & Technology Officers
+
+Digital Leadership
+
+Leadership Development
+
+Related Content
+
+Leadership Development
+
+AI focus: Leveraging your culture to accelerate GenAI enablement
+
+Realizing the value of your AI investments relies more on your culture than on the technology itself. Our work and interviews with five executives highlight how companies are engaging their leaders to speed GenAI progress.
+
+FinTech
+
+Stablecoins and the future of finance: A conversation with Marieke Flament, co-author of Euro Stable Watch, board member and advisor
+
+Marieke Flament explores how stablecoins are reshaping global finance and what today’s leaders need to thrive in a decentralized financial system.
+
+Marketing, Strategy & Communications
+
+AI leadership in communications: A conversation with Corey duBrowa, Global CEO of Burson
+
+Corey duBrowa shares practical guidance for corporate communications leaders on harnessing AI, staying ahead of emerging trends, and advising CEOs and boards on the right questions to ask.
+
+Digital Leadership
+
+AI and leadership: How finance, HR, and technology leaders are collaborating to make the most of AI across the enterprise
+
+When leaders of these key functions work together effectively, their companies are more able to benefit from implementing AI. Focusing on three areas will help keep progress going.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

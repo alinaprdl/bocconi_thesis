@@ -1,0 +1,229 @@
+Leadership assurance: Leveraging assessment data as a key performance lever | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Leadership assurance: Leveraging assessment data as a key performance lever
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Executive Assessment Leadership assurance: Leveraging assessment data as a key performance lever
+
+Most companies trying to glean insights from their data about leaders’ capabilities and skills are still mired in “Excel hell.” Some, however, are building enterprise-wide resources that can offer insights to drive performance.
+November 27, 2025
+
+Ellen Maag ,
+Sharon Sands ,
+Jane Schroeder
+
+How talent risks are increasing at every level
+
+Talent risks are likely to rise considerably over the next several years. Sixty-three percent of executives we recently surveyed in markets around the world said they were open to leaving their organization in the next one to three years.5 A larger proportion of the workforce globally will reach retirement age this year than in any previous year on record, meaning that organizations will be losing their most experienced employees at an accelerated rate.6 At the other end of the career spectrum, AI is quickly absorbing entry-level functions, creating a dearth of opportunities for junior employees who could grow into leadership roles. For people in the middle, roles, functions, and organizational structures are being defined and redefined faster than ever before, and people’s capabilities aren’t always well matched to these changes.
+
+How data can help companies address evolving career expectations
+
+Better data also gives CEOs and CPOs a better chance of successfully addressing changes to longstanding assumptions about vertical career paths. It’s long been true that there are simply fewer roles closer to the top—and more competition for them. But now many companies are rethinking how leaders get to the top. One financial services firm, for example, had a path to senior leadership that almost always required rotation through New York, Hong Kong, London, Mexico, and back again. Executives moved upward with each rotation, and by the time they returned to their home country, they were in a top job. COVID-19 lockdowns forced the firm to rethink; leaders started by asking why they had created that tradition, what benefits they were seeking, and how they could break that cycle while still developing leaders with the capabilities necessary for the firm’s success. One step the firm is now taking to ensure developing leaders are making expected progress is assessing all of them regularly within the context of role-specific development programs.
+
+In parallel, companies must also adjust to changes in how individuals are thinking of their career goals. Many are focusing less on gaining progressively more senior titles and more on the challenge of a potential new role, the contribution they could make in it, and how their efforts would be recognized. One global pharmaceutical company uses knowledge about its leaders’ capabilities to shape career paths focused on offering increased opportunities to drive business results from market growth and team building, rather than traditional title progression.
+
+In today’s volatile context, it’s harder than ever for companies to understand the leadership skills and capabilities they’ll need to meet their strategic goals, short- or long-term. Only 13% of CEOs and board members are entirely confident their organization will be able to deliver on their strategic plan this year, and 46% have little or no confidence that their organization’s executive attraction, development, and retention strategy is positioning the organization well for the future.1 Yet leaders also see leadership quality as increasingly critical to financial results and valuations.2 And talent risk is only growing.
+
+Leaders are doing their best to ensure they have the talent to deliver growth and sustained high performance, and to mitigate risk.3 But they consistently tell us that they need to understand their talent at a much broader and deeper level than they do today. Leaders want to understand who they have at all levels of leadership, and those people’s capabilities; gaps in capabilities needed now or expected; and how their internal talent pool compares to the external pool. And, they emphasize, that understanding cannot be static. Leaders today need insights that can be constantly, and consistently, updated as needs change. When companies have usable, enterprise-wide data on these topics, we see them being better able to attract, develop, and retain the leaders they will need.
+
+Those benefits are material enough that more and more companies are investing in building a knowledge base, developing insights from it, and translating those insights into a set of coordinated, enterprise-wide actions that support a robust leadership pipeline aligned with strategy. Doing all that is hard enough.
+
+But leading companies are taking a further step: using their data on leaders to provide foresight from an angle they’ve never had before, helping them mitigate an increasingly material risk in the context of persistent geopolitical and economic volatility and rapidly changing strategies Treating their leadership pipelines with the same rigor as other key performance levers can notably increase companies’ confidence in their performance.4
+
+Based on our work and research, this article will explore how some companies are finding ways to mobilize their data and bolster their confidence in their leaders at every level for today and tomorrow.Starting by tackling one challenge at a time
+
+One chief people officer (CPO) we know described executive succession planning as “Excel hell.” And she is far from alone in her view that it is too hard for companies to actually use all the data they have about their leaders for that—or any other—planning purpose. Many companies are assiduous about assessing their executives—generally about once a year, our research has found. But many of those assessment reports are PDFs stored on individual computers. Assessment results aren’t directly linked to development opportunities; development opportunities aren’t directly linked to promotion or succession plans. Indeed, our research has found that less than a third of companies even have a consistent process for telling people they are part of an executive succession plan.7 And leaders have no easy way to connect all these efforts.
+
+Given the scale of the problem, it can seem too daunting to even start. Some companies have benefited by starting with streamlining the data and processes related to a specific talent challenge. A transatlantic industrial company, for example, had so much data in so many places, it couldn’t generate any useful insights. The company had about 400,000 employees and a rapidly aging workforce. A new head of talent realized that they had no way to use all that data to address succession for critical roles. The main problem was that the company had a very complex leadership framework, with numerous levels and competencies that didn’t always align with each other. People at different levels were assessed within that framework using very different methodologies. So despite the company’s significant investment in assessment for development through all its levels, leaders still could not see where progressive high-potential leaders were in the organization or create a consistent pathway for those people to move into critical roles.
+
+Once the head of talent defined the problem, they were able to spur planning for a gap in the middle layers of leadership about five years before it became critical. There were some leaders ready to fill roles that would be open, and some young leaders who would be ready in time, but the company knew it needed to significantly scale up the number of leaders able to fill the anticipated gaps. The leadership team focused on simplicity to move forward. They simplified the framework and then began using a consistent methodology to assess for hiring and development all the way through the organization, using technology-driven tools at lower levels and adding more in-person assessments at more senior levels. This way, the company gained consistent insights into where their talent was and was able to make consistent comparisons to the external market. Three years into their work, leaders now know who the successors for their critical roles will be, have internal successors for all of those roles, and are already planning the development of the next round of successors.
+
+Starting from scratch with a focus on simplicity can lead to useful insights even more quickly. A $10 billion global industrial engineering and technology company recently hired a new CEO with a mandate for significant transformation. He wanted a deep, data-driven understanding of the leadership team to identify factors that could either enable or hinder the change. And he wanted speed and simplicity: answers within two months for all leaders in the C-suite and three levels down—a total of several hundred people. The program he put in place complemented an assessment of each leader in that group with an organizational survey to understand the organization's overall readiness and willingness to adapt to a new and different way of working. That data helped the CEO and the board make decisions about who should lead various parts of their transformation plan and how to communicate about it—decisions they couldn’t have made without the underlying data.
+
+Understanding the barriers to creating enterprise-wide results
+
+Solving a specific challenge can give companies a running start on building a useful base of knowledge. A simple, enterprise-wide assessment methodology (like the one the transatlantic industrial company implemented) can be a huge differentiator. When that data is integrated into a single, sortable database, companies can easily examine it when they have fresh strategic priorities, or quickly reassess people through a new lens, as the engineering and technology CEO did.
+
+But most companies will need to improve, and link up, processes across their organizations to give themselves the best chance of having leaders ready to lead not only in the strategic scenarios they’re planning for, but also in unexpected situations.
+
+CEOs and CPOs often want to start by identifying capabilities and potential successors for the roles or individuals that matter the most for achieving their business goals. But most don’t do as much as they think they should: a recent survey of CPOs found that, on average, companies have succession plans for only five executive roles, but think they should for eight; 55% also indicate that they have plans for the wrong roles.8
+
+That’s in partly because it can be difficult for leaders to know which roles are most important as conditions and strategies change quickly. For example, the share of AI leaders who report directly to the CEO has doubled just between 2023 and 2024.9 Job descriptions, remits, necessary capabilities, and performance metrics are all evolving in real time. CPOs say they are particularly concerned about the executives one and two levels below the C-suite, who typically have large remits both for strategy implementation and for developing people. When those roles are unclear, or the people in them no longer have the right capabilities to thrive, organizations’ short-term performance and long-term resilience can both suffer.
+
+As volatility persists, we are seeing many companies shift their traditional focus on T-shaped leadership skills from the deep functional or operational spike toward the horizontal bar. This helps them identify leaders with broad capabilities to cope with unpredictability. Companies are often asking questions like: Do our leaders live our values? Do they have enterprise-wide knowledge? Are they curious? Are they looking externally? How well do they work with external partners and collaborators? Are they looking around corners? Are they agile? How can they contribute across the various strategic scenarios we’re planning for?10
+
+This shift away from function-specific capabilities can help companies simplify their capability models and make them more consistent across the organization, regardless of specific function or role—though leaders need to be careful not to abstract so far that their data loses utility. One company, for example, tried to simplify the capabilities it tracked for leaders to just four, aligned with its four core values, which included “innovation” and “caring about customers.” At that level, however, the company found it wasn’t seeing enough differentiation among employees, or between employees and the external market, to make effective decisions.
+
+Each company’s leaders need to find the right balance between data that will help them answer the questions most relevant to their situation and data that is so specific it can’t be consistent across the organization or provide useful benchmarks against other organizations.
+
+Moving toward a performance edge
+
+A global pharmaceutical company offers an example of finding the right level of data. The organization had long prioritized and rewarded its leaders for building knowledge in specialist scientific areas. This led to organizational strengths in drug development but also to a leadership team that, overall, didn’t share knowledge or develop junior people well, and didn’t focus on external market changes. The culture was slow to market, driven by consensus and scientific perfection.
+
+The company was shocked into action by losing several leaders to biotech firms, where decision making and speed to market were faster. The remaining leaders wanted to understand, in greater depth, the capabilities of the remaining team, and as a result, realized that their approach to rewarding leaders and their culture overall were holding back innovation rather than enabling it. To give people better opportunities and reach more new markets, the company began to focus on identifying leaders with a few new capabilities, including intellectual curiosity to look outside the organization—at trends and at competitors’ actions—and an interest in passing on their knowledge and developing others. Assessment data is helping the company not only find these people but also understand what it takes to retain them and offer them the most valuable opportunities, for both themselves and the company. This has allowed the company to focus on a few priorities for leadership development and retention that it can be confident will drive both patient care and business performance.
+
+Similarly, once it tackled its immediate succession challenges, the transatlantic industrial company began to use what it had learned about its high-potential leaders for other purposes —including understanding where current senior leaders might need additional support. For example, the high-potential successors were found to be far more agile than the current senior leaders. Knowing that, the company worked to support the senior team’s agility through development and increased access to external advisers and short-term executive expertise.11
+
+That company also used its data to understand where other leadership development processes needed to change and, particularly, get linked up to ensure insights were leading to action. For example, after three years of consistent assessments, the company saw no overall improvement in executives’ capability for innovation, a skill it had prioritized. Though leaders had the data, they hadn’t taken the steps to change the outcomes. As is true in many companies, HR teams were siloed: the team focused on talent attraction was disconnected from the team focused on development, and both were separate from the team focused on assessment and planning. The company’s senior leaders finally insisted on building stronger links, and the company is now able to focus its development opportunities on the capabilities most needed to implement strategy.12
+
+The companies most confident in their leadership pipeline strategies for the long term are thinking enterprise-wide, cultivating leaders across multiple strategies and multiple time horizons, and focusing on simplicity and consistency. They put accessible, linked-up data at the heart of that consistency; they glean insights from their data as conditions change; and they have processes and activities in place to translate insights into a robust leadership pipeline. Fundamentally, these companies are building the ability to use insights from leadership data to gain a competitive edge in both the short and long term.
+
+In the long run, we expect companies to embed this kind of knowledge into their board and executive team reporting in the same way as financial or risk data. Just over a third of companies are doing this already, a recent survey indicates.13 Going forward, this discipline will, we expect, become a hallmark of good governance and central to ensuring long-term performance.
+
+About the authors
+
+Ellen Maag (emaag@heidrick.com) leads Heidrick Consulting’s Leadership Assessment and Development Center of Excellence in the Americas; she is based in the Washington, D.C. office.
+
+Sharon Sands (ssands@heidrick.com) is a member of the global leadership team for Heidrick Consulting as head of the Leadership Development, Leadership Assessment, and Coaching practices; she is based in the London office.
+
+Jane Schroeder (jschroeder@heidrick.com) is a partner in Heidrick Consulting; she is based in the London office.
+
+References
+
+1 “CEO and board confidence monitor 2025: Persistent concerns, pockets of increased confidence,” Heidrick & Struggles, February 5, 2025, heidrick.com.
+
+2 For more on how leaders are thinking about this, see “Route to the Top 2025: Charting more effective ascents to the summit,” Heidrick & Struggles, July 23, 2025, heidrick.com.
+
+3 For example, see Sarah Arnot, Sharon Sands, and Todd Taylor, “Leadership assurance: How data can improve every aspect of executive leadership development and succession planning,” Heidrick & Struggles, July 31, 2024, heidrick.com; Brad Warga and Jennifer Wilson, “The next evolution of HR leadership: The connecting HR leader,” Heidrick & Struggles, September 19, 2024, heidrick.com; and Dr. Regis Chasse, “Leadership assurance: A fresh look at measuring the impact of leadership development,” September 19, 2023, Heidrick & Struggles, heidrick.com.
+
+4 For insights from CEOs and board members on how, see “Route to the Top 2025: Charting more effective ascents to the summit,” Heidrick & Struggles, July 23, 2025, heidrick.com.
+
+5 Proprietary data from an online survey conducted by Heidrick & Struggles survey of 516 executives, summer 2025.
+
+6 Emily Rose McRae, Peter Aykens, Kaelyn Lowmaster and Jonah Shepp, "9 Trends That Will Shape Work in 2025 and Beyond," Harvard Business Review, January 22, 2025, https://hbr.org/.
+
+7 Heidrick & Struggles survey of 250 executives in markets around the world, across industries. May 2023.
+
+8 Proprietary data from an online survey conducted by Heidrick & Struggles of 600 CPOs in markets around the world, across sectors, spring 2025.
+
+9 Ryan Bulkoski, Brittany Gregory, and Frédéric Groussolles, “2024 Global Data, Analytics, and Artificial Intelligence Executive Organization and Compensation Survey,” Heidrick & Struggles, October 9, 2024, heidrick.com.
+
+10 For more on leadership capabilities that are increasingly important in volatile times, see Jeremy C. Hanson and Jonathan McBride, “Leading across boundaries and divides,” Heidrick & Struggles, November 8, 2024, heidrick.com; and Dr. Regis Chasse and TA Mitchell, “The connecting leader: Five imperatives for leaders today,” Heidrick & Struggles, September 25, 2024, heidrick.com.
+
+11 For more on how on-demand executives can bolster the capacity of leadership teams, see Sandra Pinnavaia and Toddy Taylor, “Leadership assurance: The role of interim leaders in supporting companies through change and disruption,” Heidrick & Struggles, July 16, 2025, heidrick.com.
+
+12 For more on how HR functions are evolving to meet new demands, see Emma Burrows, Sandra Pinnavaia, Sharon Sands, Brad Warga, Jennifer Wilson, and Darren Ashby, “Chief people officer of 2030: Building a tool kit to get from here to there,” Heidrick & Struggles, February 20, 2025, heidrick.com; and Brad Warga and Jennifer Wilson, “Chief people officer monitor: Building HR functions that are effective and strategically influential,” Heidrick & Struggles, September 24, 2025, heidrick.com.
+
+13 Proprietary Heidrick & Struggles survey of 901 CEOs and board directors in markets around the world and across sectors, spring 2025.
+
+Related Services & Industries
+
+Executive Assessment
+
+Human Resources Officers
+
+Organization & Culture
+
+Related Content
+
+Financial Officers
+
+Finance function focus: How chief tax officers are rewriting the role of tax
+
+The modern chief tax officer is part strategist, part operator, and part talent builder—rewriting the tax function for a more complex, capital-conscious era.
+
+Leadership Development
+
+Building long-term resilience in consumer markets: A conversation with Aku Vikström, CEO of Orkla Foods Europe
+
+Aku Vikström, CEO of a pan-Nordic branded food supplier, shares how leaders can build long-term success and resilience in consumer markets during times of macroeconomic disruption.
+
+Human Resources Officers
+
+AI focus | VP of AI Workforce Transformation: The newest addition to senior leadership teams
+
+Companies are starting to hire a dedicated senior leader to convert AI adoption into workforce value. How can CEOs and CHROs decide if they need the role, and what should it look like if they do?
+
+Financial Officers
+
+Crypto and digital assets focus: Finding the right leaders for a maturing sector
+
+Crypto is a high-stakes market, and competition for capital, customers, and talent is brutal. Crypto companies should look for four crucial capabilities in their leaders.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

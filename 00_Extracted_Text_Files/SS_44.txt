@@ -1,0 +1,152 @@
+The AI Reckoning: Why Marketers Think 2026 Is a Make-or-Break Year
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+The AI Reckoning: Why Marketers Think 2026 Is a Make-or-Break Year
+
+By
+
+Marketing, Sales & Communications Officer Practice
+
+December 2025
+
+| 7 min read
+
+Author
+
+Marketing, Sales & Communications Officer Practice
+
+SectionsIn this article
+
+Key findings
+
+AI adoption thus far has been a workflow shift rather than a business model shift — broad, but not yet truly transformative.
+
+But most marketers expect workforce reductions in the next few years by using AI or eliminating redundancies.
+
+Large companies face heavier AI demands, with greater expectations of cost savings and earlier headcount impacts compared with smaller organizations.
+
+Brand trust, the continued importance of human judgment and the rapid speed of change are three AI-related trends that marketers foresee going forward.
+
+AI is transforming how marketing functions operate and deliver value. But what impact is that having on marketing talent, teams and ways of working? To answer that question and more, we recently surveyed top marketers at some of the leading companies.
+
+The survey results — which include open-field responses to several questions — offer a fascinating glimpse at how marketing leaders are using AI, how it has impacted their teams, and where they see it going in the future. The insights gathered reflect the complexity of the “AI era”: a good deal of excitement about the possibilities, a sense that 2026 is a tipping point for CMOs, and some fears (plus some occasional frustrations) about how it will all play out.
+
+Below we look at the main insights gleaned from our survey.
+
+CMOs are in the messy middle of delivering value from AI
+
+The survey shows how marketing has been engaged in what could be called the experimental phase of the AI era. More than three-quarters of survey respondents have already started piloting AI projects in some functional areas, and nearly half have begun scaling proven use cases. No CMOs, however, believe they have fully transformed their function, and only a tiny fraction believe they have integrated AI across all areas of the marketing function.
+
+Summed up, AI adoption thus far has been a workflow shift rather than a business model shift — broad, but not yet truly transformative.
+
+“We view AI as a tool to maximize productivity and take on administrative tasks to enable us to redeploy our workforce on higher value work, like strategy, product development, and innovation,” said one respondent.
+
+That said, many CMOs foresee a critical phase in the near future, as CEOs and CFOs demand AI-driven cost savings and efficiency boosts. More than two-thirds of marketers say that they feel pressure from their leadership to achieve at least some level of cost savings in the next two years — and the larger the company, the greater the cost targets.
+
+More than 80% of CMOs are either piloting AI projects or scaling proven use cases across teams
+
+Where is your marketing team on the AI adoption journey?
+
+Most CMOs are feeling pressure from CEOs and CFOs for cost savings from AI investments in marketing.
+
+What level of efficiency gains is your CEO/CFO expecting from AI investments in marketing over the next 2 years?
+
+AI’s growing impact on headcount
+
+Up to now, the workforce impacts have focused on redeploying and upskilling existing resources rather than downsizing. However, the data from our survey portends what we’ve been hearing in conversations with top marketers, that headcount impacts may grow in the next 12 to 24 months.
+
+When asked about how AI had impacted hiring and organizational structure in the past 12 months, only 17% said they had reduced headcount, while 69% had kept their team numbers the same while shifting capabilities toward AI adoption. Only a few respondents had added people to their teams to address AI. But in the near and medium term, 36% of respondents expect to reduce headcount by using AI or eliminating redundancies, and another 54% expect to keep numbers steady while shifting capabilities.
+
+The survey shows that organizations are creating new leadership, strategy and technical roles, such as prompt engineers, data scientists and AI-focused centers of excellence, focused on adopting, integrating and optimizing AI use. Specific impact areas include reducing or retiring some copywriting and content production roles, and pulling back work from creative and production agencies.
+
+“It’s surprising how much analytical capability exists, and how few limitations there are,” one respondent said. Another, however, worried about how productivity gains could actually increase staff workloads, even when there isn’t a headcount reduction. “I see AI as something that can enable us to increase our productivity, but not something that is a sustainable cost saving. The same people will be able to do more, and baseline expectations will go up.”
+
+Most marketing teams have kept staff levels steady over the past year despite the rising use of AI.
+
+Over the past 12 months, how has AI impacted your hiring and org structure on your marketing structure?
+
+CMOs expect AI-driven headcount reductions in the coming year.
+
+Over the  next  12–24 months, how do you anticipate AI will impact your marketing function’s hiring?
+
+The bigger the company, the greater the AI pressures
+
+Marketers from the largest companies ($20 billion in revenue or more) are almost three times more likely than those from smaller companies to be expected to drive costs savings — including 37% expected to drive more than 20% savings in the next two years. They are also 2.5 times as likely to have reduced headcount due to AI in the past year, and twice as likely to expect headcount reductions in the near future.
+
+The results back up what we’re hearing anecdotally from CMOs. For smaller companies, AI seems at this point to be seen as more of a growth lever than a cost-reduction tool. But large-company CMOs are feeling pressures to gain massive efficiency improvements from AI.
+
+“We haven’t had any staff cuts yet to date, but there is pressure to cut FTEs through AI implementation,” said one respondent. “The business case needs to be robust and in every case deliver savings.”
+
+The CMOs at larger companies are feeling greater pressures for AI-related cost savings and efficiency gains than those at smaller companies.
+
+Company Revenue
+
+Less than $5 billion
+Greater than $20 billion
+
+Cost savings and efficiency gains are the most expected impact of AI on marketing
+23%
+61%
+
+We have reduced marketing headcount due to AI in the past 12 months
+13%
+32%
+
+We expect to reduce marketing headcount due to AI in the next 12-24 months
+26%
+47%
+
+Our CEO/CFO expect 20%+ AI-related cost savings from marketing in the next 12-24 months
+6%
+37%
+
+Which executive is leading AI strategy and implementation?
+
+The most common leads for AI strategy and implementation are the CTO/CIO (44%), followed by the CMO (32%). About one-fifth (19%) say the CEO is leading efforts, often in situations where AI has a broader strategic framing. Many efforts are also being shared by AI councils or committees.
+
+What’s constraining AI efforts? Most commonly it’s data, integration and change enablement — areas that require strong partnership with CIO/CTO. The most commonly cited barrier to scaling AI across marketing was technology integration (martech, adtech, data and legacy systems).
+
+“AI is only as good as the data that it is built upon and the sources it gathers data from,” said one respondent. “It’s ‘garbage in, garbage out’ — and the CMO is often having to figure this out on their own.”
+
+Data, integration and change management are the greatest hurdles for scaling AI.
+
+What are your biggest barriers to scaling AI across your marketing association?
+
+AI: What’s flying under the radar?
+
+Our survey included a question asking respondents what they had discovered about AI that wasn’t getting attention. The fascinating answers pointed to the challenges, fears and excitement about the new technology.
+
+Brand trust in an AI-driven world
+
+The issue of brand trust in the AI era came up multiple times in the open-field responses. Many discussed the need for oversight on the ethical and effective use of AI tools, to ensure that nothing is produced that may negatively impact the brand. One noted how many consumers have pushed back against brands using AI. “We need to discuss how to think about adoption internally versus adoption externally, especially for generative AI,” they wrote.”
+
+A further consideration for marketers is a consumer landscape where, on one hand, misinformation can spread quickly and, on the other hand, AI tools are siphoning away clicks by easily answering people’s questions. “AI is disintermediating who owns the relationship between your brand and the customer,” one respondent wrote.  “How will search, shopping, buying and advice change with AI, and how can we leapfrog strategies to be there?”
+
+The continued central role of human judgment
+
+For all of the advances from artificial intelligence, there was universal agreement that human judgment remains — and, importantly, will remain — critical to successful marketing. Even as AI becomes more autonomous, marketers will need the human resources to manage its operations, guard against risks, and convert AI-backed insights into efficient and productive marketing.
+
+“It still takes human thinking to get what you need out of it,” said another respondent. “To get the most out of it, you have to ask the right questions and provide the insights and data that can effectively translate into strategy.”
+
+Many respondents also reflected on the cultural challenges of retraining and refining systems. “Your people need a learning and growing mindset,” one CMO wrote.
+
+Keeping up with the speed of change
+
+AI’s rapid advance — both in terms of adoption and how quickly its capabilities are improving — has shocked many marketers. Just wait a few months, and you see AI doing things it had never done before. For all the risks and shortcomings, there is also fascination with the question of “What next?”
+
+“The speed of innovation continues to exceed my expectations, but implementation hurdles and failures are not well understood,” said one respondent. Another added, “The seismic shift is real, and it’s here. You have no choice but to get ahead of it.”
+
+AI and marketing: Mapping out the future
+
+Indeed, AI is changing not just marketing itself, but the entire buyer journey, business processes and even organizational structures. We are only now beginning to understand what that means for marketers — including new use cases, customer engagement and business model changes.
+
+Ultimately, success will hinge on bold leadership, continuous upskilling and clear governance. For CMOs, the challenge isn’t just adopting AI — it’s aligning talent, technology and culture to unlock creativity and measurable impact in an AI-driven future.
+
+Author
+
+Marketing, Sales & Communications Officer Practice

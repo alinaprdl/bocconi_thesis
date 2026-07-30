@@ -1,0 +1,266 @@
+Talent Drought
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Talent Drought
+
+A Critical Challenge Impacting the Scalability of Fintechs (and What to Do About It)
+
+By
+
+Patrick Bliley and
+
+Peter Simon
+
+March 2018
+
+| 6 min read
+
+Authors
+
+Patrick Bliley
+
+Toronto
+
+Peter Simon
+
+Toronto
+
+The burgeoning Canadian fintech sector is gaining
+international attention, and with good reason: hundreds
+of growth-stage companies are being established with the
+goal of tapping into large financial institutions’ spending
+or finding direct channels to market that disintermediate
+traditional players. To be clear, “fintech” refers to
+technology-enabled financial services organizations
+that are looking to either disrupt a traditional financial
+services model, or to enhance the products/services/operations of incumbent institutions. These businesses
+are growing fast, and Canadian fintech companies are
+receiving investment capital from across the globe.
+However, we have found via our search work and industry
+discussions that one element is proving to be particularly
+challenging for these groups: Talent, which is a crucial
+ingredient for scaling from ambitious startup to successful
+company. This paper looks to share observations about
+talent challenges and solutions that can help your
+organization more successfully manage this transition.
+
+Fintech investment is thriving
+
+There are approximately 500 established fintech companies across Canada
+and 60 percent of them are based in Ontario, according to the 2017
+Canadian Fintech 2.0 Summit. And that number is only going to grow: the
+Business Development Bank of Canada said it expects to see as many
+fintech businesses established in the next three years as there were in the
+previous decade. Investment in these homegrown companies is accelerating
+rapidly, and the rate of growth is far higher in Canada than in the rest of the
+world: While fintech investment fell by approximately 30 percent in the
+United States and United Kingdom during 2016, figures compiled by
+Thomson Reuters1 show an unprecedented 72 percent rise in Canadian
+fintech investing between 2015 and 2016, from C$154 million to C$265
+million. Despite these secular trends, supply-side constraints on talent
+appear to be a persistent limiting factor of growth. While investment has
+increased, it appears as though Canadian fintech businesses have had
+greater challenges scaling relative to their international peers.
+
+One possible reason for these challenges is that talent in these early-stage
+companies is often technically strong but can lack the general management
+skill set and experience to scale the organization. Additionally, on a
+national level, Canada does not have a well-established pool of “accelerant
+talent” — people who have built, scaled and successfully exited businesses
+— while there is a large group of this talent in markets such as
+Silicon Valley, New York and Seattle. Through our conversations, we have
+also noticed that even those fintech companies looking to partner with,
+rather than disrupt, larger incumbents often find it challenging to find and
+cultivate talent that can navigate and sell into the incumbents. This talent
+gap can hamper the growth of smaller organizations as they burn through
+capital while spending valuable time trying to understand how to move
+through the proof-of-concept process and identify the key decision makers
+in a more complex organization.
+
+... on a national level, Canada does not have a well-established pool of “accelerant talent” — people who have built, scaled and successfully exited businesses ...
+
+Canadian fintech businesses also face serious competition for homegrown
+talent. American companies often have the capital to offer more attractive
+compensation packages, and they view Canada as a source of top talent: the
+University of Waterloo was listed as one of the top three producers of talent
+hired by tech companies in the San Francisco Bay Area, and there are
+currently more than 350,000 Canadians working in Silicon Valley at the
+senior level, according to The Globe and Mail.2
+
+Finding — and retaining — executive level talent that can help to scale
+growth-stage organizations is clearly a key issue for Canadian fintech
+companies. To provide some guidance in this area, here are some lessons
+we’ve learned through our work and research.
+
+Structure your organization early
+
+As part of your growth strategy, shift from recruiting generalists who can
+wear many hats to recruiting around a particular function. A critical input to
+scaling a business is the ability to transition leadership from generalists to
+functional experts who can focus their expertise to drive results. When we
+looked at 65 established Canadian fintech companies, we found that 85
+percent of the founders also held the CEO position, and less than 35 percent
+had established specific functional roles for the chief financial officer (CFO),
+chief operating officer (COO), chief risk officer (CRO) or general counsel.
+Mogo and Zafin, two of Canada’s most successful fintech companies, have
+demonstrated success in functionally structuring their businesses:
+
+Mogo, a Vancouver-based next-generation digital financial services platform,
+established a CRO role in 2015, elevating the importance of the risk
+function rather than folding it into operations or finance. The current
+CRO is a 20-year veteran of the financial services industry who has experience
+across credit and operational risk from both established incumbents
+and growth-stage organizations.
+
+Zafin, a Toronto-based banking software company, changed its recruiting
+strategy and increased its focus on bringing in the right talent to scale
+the organization. Leaders determined the specific roles required to expand
+the business globally, rather than recruit talented individuals and
+give them a varied portfolio of responsibilities. Over the past two years,
+the company has hired several new executives, each with a specific functional
+mandate, including: a chief people officer, a president of digital
+platform, a senior vice president of digital banking and an executive vice
+president of global services, among others.
+
+As part of your growth
+strategy, shift from
+recruiting generalists
+who can wear many hats
+to recruiting around a
+particular function.
+
+Creating more specialized roles will also aid in the recruiting effort, as we
+often find that a key component to attracting talent is having a clearly
+delineated mandate.
+
+Define the needs of the sales function
+
+Many fintech companies seek sales roles to complement the founder/technical
+talent in the organization. When analyzing your needs within sales, ask
+yourself: are you seeking talent with proven sales skills, or do you need
+someone who can navigate large financial institutions and identify the decision
+makers? If it is the latter, consider leveraging consultants who have
+likely mapped out the organizational structures of these larger companies, or connecting with recently departed talent from incumbents who can
+advise you on how the RFP process works and who to connect with. At an
+early stage, the best-suited sales or business development person is likely a
+member of the founding team who can articulate the product and process
+to market. At a later stage, it may make sense to recruit an experienced
+professional into a head of sales role. However, we would caution against
+having this person act as the sole owner of all potential key client relationships
+— particularly when one new client account may impact the trajectory
+of the firm and its potential for raising future capital. Failing to mitigate
+against this can lead to “key man/woman” risk and could negatively impact
+your client relationships with your business.
+
+When analyzing your
+needs within sales, ask
+yourself: are you seeking
+talent with proven sales
+skills, or do you need
+someone who can
+navigate large financial
+institutions and identify
+the decision makers?
+
+Plan for succession
+
+As companies scale up, the founding team’s skill sets — which are often
+defined based on functions such as technology, product or sales — may
+need to be complemented by a leader who has demonstrated success in
+scaling operations. In our experience, private equity firms that invest heavily
+in growing organizations often look to round out the founding leadership
+team in order to scale. Founders who want to be a significant part of the
+process of recruiting a new CEO or key members to the executive team
+should assess the current leadership’s (including their own) strengths and
+gaps in skill sets, and should be open to accepting candidates outside of
+their own network.
+
+When planning for succession, it’s beneficial to seek established executives
+who have scaled businesses and participated in successful exits (such as an
+IPO or a strategic sale). Unfortunately, this is often a difficult combination of
+skills to find. An alternative option is to look at executives who have led
+similar-sized operations to the desired scale level of the growth-stage firm
+and have demonstrated success working in an entrepreneurial environment,
+such as launching a new business or market with limited resources. We
+encourage the founding team to proactively plan for succession early on,
+or investors may plan it for you.
+
+Leverage your unique culture
+
+Highly coveted talent tends to weigh culture heavily when considering where
+to work. Use your company culture as a recruiting tool, market it and be
+fiercely protective of it as you grow to ensure it does not become diluted.
+The CEO and members of the founding team should play an active role in
+marketing and recruiting for culture.
+
+Use non-traditional sources to find talent
+
+When developing a search strategy, organizations should look beyond their
+own network and consider the following additional talent sources:
+
+Look outside the Canadian market: As is the case for obtaining financial
+capital, talent is becoming more fluid across borders and working remotely
+is the norm for many organizations. Growing businesses should
+access a more global pool to find the best talent, and operate across
+borders, if necessary. An added benefit: investors and outside talent will
+view your company as being a global organization as opposed to one
+that is solely Canadian focused.
+
+Take advantage of the growing “gig” economy: It’s estimated that temporary,
+flexible employees will make up 43 percent of the workforce by 2020,
+and the interim executive category is seeing 20 percent growth in some
+markets.3 There are many executives who have significant experience and
+are nearing retirement but are not fully ready to exit the workforce, and
+they may be looking to add value to growing organizations on a part-time
+or short-term basis. This can be an affordable source of talent as you
+look to round out your leadership teams and scale.
+
+Leverage well-networked professional services firms: Connect and
+share your talent needs with consulting, venture capital and search
+firms that have established or emerging fintech practices. Many firms
+will willingly make proactive talent introductions to growing firms
+when they see the potential to be helpful to their own network.
+
+Conclusion
+
+In the rapidly changing world of fintech, a more traditional approach to
+recruiting and retaining talent will not be sufficient. Growth-stage organizations
+must continuously disrupt their own talent model as they face
+changing markets and different stages in the growth cycle. The flexible talent
+that can wear many hats at the onset of developing a business is no longer
+necessarily the right talent for a sophisticated organization that requires
+functional leadership. And when your organization has successfully found,
+scouted and obtained that elusive high-potential talent, focus your efforts on
+creating an environment that will help you retain that talent. Without a
+retention strategy, organizations run the risk of recruiting and training innovative
+talent — only to have it leave a few years later for a more compelling
+opportunity that may offer increased equity or less risk. These factors all
+underscore the imperative for fintech companies to develop a purposeful
+recruitment and retention talent model.
+
+1 Ho, Solarina. “Canadian Fintechs Shine as Investments Near Record.” Thomson Reuters,
+January 2017.
+
+2  Scott, Alec. “Lessons from Canada’s Silicon Valley Diaspora.” The Globe and Mail,
+March 26, 2017.
+
+3 Straus, Karsten. “What is Driving the ‘Gig’ Economy?” Forbes, February 21, 2017.
+
+Download
+
+Download
+
+Authors
+
+Patrick Bliley
+
+Toronto
+
+Peter Simon
+
+Toronto

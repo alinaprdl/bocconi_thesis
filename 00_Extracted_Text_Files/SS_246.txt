@@ -1,0 +1,145 @@
+In search of the CIO
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+In search of the CIO
+
+We examine the latest data on CIOs across Europe’s top companies
+
+By
+
+Lars Alexander Gollenia
+
+September 2023
+
+| 3 min read
+
+Author
+
+Lars Alexander Gollenia
+
+Frankfurt
+
+SectionsIn this article
+
+One of the reasons I love my job is that I get to speak with senior digital leaders pretty much every single day. Talk about enlightening.
+
+From these conversations and discussions — sometimes over coffee, sometimes over something stronger — I’m able to learn what these leaders are thinking and how they operate, in the process gaining a rich understanding of their hopes and fears, their priorities and problems.
+
+Take the chief information officer (CIO) for example. Here’s a role that lies at the heart of any large organisation. From crafting the technology roadmap to leading IP and operations strategy, designing business technology systems to developing market-facing IT tools and services, the CIO is looked up to and relied upon in equal measure.
+Combining deep strategic skills with an ability to collaborate with and influence internal and external stakeholders, it is a leadership position that shapes both the present and the future.
+
+And yet the role itself is constantly in flux. Who are today’s CIOs? Where do they come from? How much experience do they need? There is no one set answer. What there is, though, is a constantly evolving set of circumstances and requirements, all of which are a vivid reminder that technology advances are not the only thing that moves at rapid pace in business.
+
+At Spencer Stuart, we are constantly analysing the profiles and experiences of CIOs around the world. We have recently been taking a closer look at CIOs in Europe, focusing specifically on those employed in 2022 by 144 companies across the FTSE Eurotop 100 Index.
+
+Here’s what we found out.
+
+Slowing gender parity
+
+Unfortunately, the news on gender equality is not positive. After significant improvements in the number of females in CIO roles in 2020 and 2021, the momentum didn’t continue into 2022.
+
+Just 25% of CIOs in our survey were women, the same as in 2021, which was an increase of 6% from 2020. We also found that there were no companies from Spain or Switzerland in our sample that employed a female CIO last year, while the worst performing sector was Technology, Media and Telecommunications (TMT), where only 10% of companies had a female CIO.
+
+You may also like:
+
+Opening doors in tech
+
+Despite an abundance of campaigns, conferences and media blitzes the tech industry remains far from gender balanced. We explore what can be done to turn good intentions into greater impact.
+
+As my colleague Veena Marr has rightly pointed out, these numbers matter. Diversity of approaches and points of view help deliver improved performance. Diverse teams are proven to come up with new ways to solve problems, create new products and deliver extra value — it’s one of those too rare areas in which the right thing to do is also easily financially justifiable.
+
+So what can be done?
+
+As a starting point, more male allies need to step forward as women can’t be expected to single-handedly bridge the gender divide. Tackling unconscious bias and issues such as the lack of pay progression for part time workers will help create the diverse leadership teams that fuel improved performance.
+
+Experience wanted
+
+We also established that Europe’s largest companies increasingly require their CIO to possess direct experience of the position before they take up their new role. Our research found that 65% of CIOs were previously a CIO — up from 60% in 2021 and 52% in 2020.
+
+This trend — which suggests that companies are becoming more risk averse as they navigate the continuing economic uncertainty — is most acute in the UK and Italy, where 89% and 75% of CIOs in our sample were also a CIO in their previous position.
+
+At the same time, the proportion of CIOs who hadn’t previously worked in the role has been steadily declining. In 2022, only 22% of CIO positions were filled by first-timers, compared to 26% in 2021 and 34% in 2020. According to our research, healthcare and industrial companies appear to have the highest barriers of entry as only 14% and 11% of CIOs in these industries were first-time CIOs, which perhaps reflects the technical nature of their operations.
+
+We also looked into where CIOs come from and found that 75% of CIOs have spent their entire careers in the same industry. For example, only 11% of financial services and 10% of TMT CIOs have spent a majority of their career in a different sector. Again, this suggests that these require specialised skill sets that are not easily transferable.
+
+An increasing number of CIOs are also being recruited from outside positions. Some 57% of CIOs were hired externally in 2022 — up from 53% in 2021 and 48% in 2020. This trend implies that firms are facing a talent shortage, making it increasingly important that their CEOs take the necessary steps to develop a stronger internal pipeline.
+
+CIOs themselves can also help by examining their in-house capabilities and identifying which skills they need to acquire from the outside or develop from within. For example the explosion of generative AI may well accelerate the need for outside experts to help bridge the gap until internal talent has been fully developed.
+
+They also need to set the right tone from the top. The mindset of technology teams needs to change so that everyone is thinking about how technology and IT create value by enabling the business to reduce costs or to grow.
+
+A seat at the table
+
+It’s by no means all bad news. Our data also shows that CIOs at Europe’s largest companies are increasingly getting a seat at the top table — likely a consequence of the pandemic which amplified the importance of digital transformation.
+
+In 2022, 30% of CIOs were a member of their company’s management board, a 3% rise from 2021 and up from 15% in 2020. The pace has slowed considerably, however, and so we will have to rely on future versions of this Index to discover if this trend continues.
+
+Next off the press
+
+Later this year we will be publishing a more detailed report which combines this data with insights gained from a series of interviews with technology leaders from Europe’s  top companies.
+
+We will be considering the challenges they are facing, the key technologies that their company needs to invest in and the ongoing war for talent. Much to discuss, much to analyse and we are looking forward to doing so — stay tuned.
+
+Author
+
+Lars Alexander Gollenia
+
+Frankfurt
+
+We use analytics cookies that help us enhance site navigation, analyze site usage, and assist in our marketing efforts. Please click on the "Accept all cookies" button to help us improve your user experience.
+
+If you would like to know more about our use of cookies, click here.
+
+Accept all cookies Allow only essential cookies
+Manage preferences
+
+Privacy Preference Center
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+Allow All Manage Consent Preferences
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Performance Cookies
+
+Performance Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by such partners to build a profile of your interests and show you relevant adverts on other sites. They do not store personal information directly but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back ButtonPerformance Cookies
+
+Search Icon
+Filter Icon
+
+Clear checkbox label label
+
+Apply Cancel
+
+Consent Leg.Interest
+Switch Label label
+Switch Label label
+Switch Label label
+
+Reject All Save My Preferences

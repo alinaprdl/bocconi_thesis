@@ -1,0 +1,167 @@
+What sales data do you need to improve sales performance?
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Sales Transformation|October 18, 2022
+
+What sales data do you need to improve sales performance?
+
+When organizations gather valuable insights from sales data they can improve talent strategy, strengthen buyer playbooks and solidify deal outcomes.
+
+Key takeaways
+
+How to rethink your sales talent strategy
+How sales data can help improve buyer engagement
+The next steps for transforming your CRM into a decision-making tool with reliable data
+
+What is sales data?
+
+Data is the lifeblood of sales organizations – or at least it should be. But what exactly is sales data?
+
+Sales data includes any information that organizations use to make decisions relating to their sales teams. This includes data that helps organizations make decisions about hiring sellers, positioning their offering, reaching out to buyers and more.
+
+But many organizations are swimming in too much data from their sales technology stack and can’t maximize its value. On the other hand, organizations may not know the best way to analyze their data, resulting in the addition of tools to try to gather more information.
+
+Capturing the right types of data is essential to sales transformation. Let’s take a closer look at the 3 types of sales data and how each can help improve your performance.
+
+1. Use employee data to drive results
+
+A sales organization is only as good as its talent. But talent gaps in sales and management teams are the top internal challenge for sales organizations, according to our 2020–2021 Sales Performance Study. For years, these organizations have approached hiring and promotions from an instinct-driven perspective. If leaders define “good” sellers as those who close more deals and hit their quotas, these metrics may not account for whether a seller has inherited a target-filled territory or relationships that other sellers have cultivated.
+
+Less than a third of sales organizations think they have the right people to achieve their sales goals, based on research from our 2020-2021 World-Class Sales Practices Study. And buyers aren’t impressed by sales talent either. Less than a quarter of buyers see sellers as an important resource to help them solve their business problems, according to our 2021 Buyer Preferences Study.
+
+Sales organizations need to rethink their talent strategy. Looking at what makes sellers successful may not account for current changes in the market or buyer expectations. When choosing talent, sales organizations need to anticipate the traits and skills their team will need in the future – like learning agility, digital capabilities and cultural fit. And they need to back these talent decisions with accurate data.
+
+Even when sales organizations consider their future needs, only 28% assess why their top performers are successful. Many types of data allow sales leaders to figure out which competencies predict success. At the hiring stage, using assessments to determine which candidates have the ideal skillset, mindset and cultural fit can help organizations to differentiate their sales performance, accelerate productivity and increase employee retention.
+
+How to analyze selling data for employees
+
+By pairing assessments with data from their customer relationship management (CRM) software, sales leaders can build a success profile of critical traits, drivers and competencies such as strong customer focus, ability to manage complexity and strives for achievement. Sales managers can access potential candidates for those competencies against a success profile and develop existing candidates who fall short.
+
+The key is to look past historical performance data and focus on predictors of future success when defining what “good” looks like. If you can measure what highly effective sellers do to close more deals, you can isolate what makes them successful. You can then share those insights with the middle 80% of your sellers. This way, you’re able to strengthen your sales team without having to hire new, unproven salespeople.
+
+You can also start building a pipeline of future leaders. Internal assessments can show you where you need to add training and coaching. And, when you invest in your sellers, they’re more likely to feel valued, deliver better results and be primed for future opportunities.
+
+Choosing the right sales metrics
+
+What metrics should you choose, especially in the midst of changing buyer expectations? Consider a mix of indicators, such as results consistency, performance KPIs like quota attainment and qualitative analysis like customer feedback. These metrics will give you a more holistic picture of who your strongest sellers are.
+
+For example, your top sellers may be the most agile learners or possess high levels of intellectual curiosity. You can aim to hire candidates with the sales competencies that match this profile, and you can target development opportunities to fill your sellers’ skills gaps that were identified in the assessments.
+
+With a scarcity of talent, the right total rewards package motivates teams and aligns pay and performance to drive sales, balancing the right pay and pay at risk for each sales environment. Using compensation benchmarking data allows sales leaders to design sales compensation plans that give them a competitive advantage and are cost-effective and linked to business goals.
+
+Finally, you need to measure the impact of talent strategy. A dashboard can display at-a-glance progress against your goals. Include metrics such as job vacancy rates, time to fill positions, the percentage of roles filled with internal vs. external candidates, time to full-quota productivity, attrition and more. Supplement this quantitative data with qualitative feedback from new hires, exit interviews and buyers. Then, every quarter, use this data to update your strategy.
+
+2. Use customer data to map the buying journey
+
+Today’s buyers have higher expectations than ever before. They want sellers to understand their business, offer insights and communicate with them. But they also want to understand the value of sellers’ solutions.
+
+Yet sellers often cannot explain their value, because buyers don’t view sellers as a top resource when making a buying decision. In fact, buyers facing business challenges ranked sellers 9th out of 10 go-to resources, behind industry publications, vendor websites and web searches.
+
+Even when sellers have the opportunity to engage buyers, they often fall short. In our 2021 Buyer Preferences Study, nearly 20% of buyers found no value in working with sellers and generally wait until late in the buying cycle – after clarifying their needs, evaluating solutions, and making their selection – to engage sellers. That’s a sixfold increase from 2018.
+
+Sales organizations need to ensure their sellers add value for buyers. Sales data can help them improve buyer engagement. With predictive data from their CRM and other sales tools, sellers can map out their buyer’s path from awareness to implementation. Sellers can learn which insights consistently resonate most with different stakeholders at various touchpoints.
+
+This is particularly important in challenging markets. Sales organizations can leverage analytics platforms using historical customer data to provide sales managers with greater visibility into opportunities, such as revealing why deals are won or lost. Leaders can now use this information to coach sellers on which actions to pursue – and avoid – to improve their results.
+
+For example, more buyers today wait until later in the buying cycle to engage with sellers. The vast majority (79%) wait until they’ve clarified their needs before reaching out to a seller, more than half (57%) engage when they’re evaluating a solution and more than a third (37%) say they engage at the end of the cycle. But most buyers remain willing to engage with sellers earlier for new, challenging and complex sales.
+
+Examining all forms of customer data
+
+To improve buyer engagement, sellers need to collect, distribute and analyze the full spectrum of their customer data. Many organizations harvest buyer data in silos rather than sharing that data across the enterprise. And most don’t exploit their data’s full value.
+
+Organizations should ensure marketing, finance, sales and customer service sectors share data. And they should go beyond reactive data, looking for predictive data that will tell them what perspective to share with buying influences. Their CRMs alone won’t contain this data but adding sales analytics can give sellers and sales managers proactive insights that help them move deals forward.
+
+Sales Effectiveness
+
+Breakthrough to immediate, predictable and sustainable sales effectiveness
+
+Learn more
+
+3. Learn from outcomes data
+
+Sales forecasts are often inaccurate. Only 25% of sales organizations have a forecast accuracy of 75% or greater, according to our 2020–2021 Sales Performance Study. That’s because most organizations still evaluate their deals based on past experiences, rather than data.
+
+With at least 10 technology tools at their disposal and more on the way, many sales organizations are drowning in data. The problem is that they don’t convert all this data into meaningful insights. As a result, sellers rely on their instincts in assessing sales opportunities. That’s likely why only 25% of sales organizations have forecast accuracy of 75% or greater.
+
+How sales organizations can improve outcome data
+
+Organizations with robust CRMs integrated with analytics can build opportunity scorecards that reliably show which opportunities are most likely to convert. Sales managers and sellers can easily determine which deals will move fastest and slowest through a pipeline.
+
+Sales leaders can study this data to identify the most lucrative accounts to mine for opportunities, as well as which new or existing accounts have the most potential to convert and use this insight to amend their sales methodology or attract similar accounts. This transforms a CRM into a decision-making tool, enabling sales teams to decide where to spend their time for the biggest ROI.
+
+Additionally, sellers can pinpoint the actions that are likely to achieve a desired outcome based on prior buyer experiences. And, perhaps more importantly, they can learn which actions to avoid.
+
+Outcomes data is critical to sales managers and sales leaders too. Managers can use this data to coach sellers, showing them where they need to improve their engagement with buying influences. Sales leaders can study this data to identify the most lucrative accounts to mine for additional sales opportunities. Then they can continually fine-tune their sales methodology to attract more similar accounts.
+
+Start maximizing the value of your sales data
+
+Sales organizations measure a variety of metrics. They study leads, calls, opportunities, pipelines and more. But most don’t go beyond the surface when choosing talent, aligning their sales process with the buyer’s journey, or predicting outcomes.
+
+And now it’s more critical than ever. With buyer uncertainty, deals are stalling, and only half of deals are converting. Sales teams need data to help them maximize every selling conversation and increase the likelihood of a conversion in the next 6-12 months.
+
+The first step toward building an effective data strategy is to understand your organization’s universe of data. Then start pulling together a data strategy that defines how to maximize the insights gained from your sales data across the entire sales organization.
+
+Contact us to discover what sales data you need to move your sales organization forward or check out our article in the Harvard Business Review.
+
+Related Capability
+
+Related Capabilities
+
+Sales Effectiveness
+
+Featured Insights
+
+How to Close Complex Tech Deals Without Discounting
+CFO Exits: Domino Effect or Burnout?
+The C-Suite Executives Watching Their Backs
+Delivering a Recipe for Sales Success to a Global Food Supplier
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Featured Topics
+
+Sales Transformation
+
+Sales Effectiveness
+
+Sales
+
+Kornferry4 SS
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

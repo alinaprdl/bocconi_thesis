@@ -1,0 +1,179 @@
+Women in telco
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Women in telco
+
+How companies can unleash their most valuable untapped resource
+
+By
+
+Emanuela Aureli,
+
+Rune Jörgensen and
+
+Mpho Seboni
+
+July 2021
+
+| 9 min read
+
+Authors
+
+Emanuela Aureli
+
+London
+
+Rune Jörgensen
+
+Stockholm
+
+Mpho Seboni
+
+Johannesburg
+
+SectionsIn this article
+
+Women are woefully underrepresented in leadership positions in the telco industry. At the time of writing, Spencer Stuart was only able to identify a handful of female group CEOs worldwide. Gender parity is not even close at any level in the industry. For example, a 2020 GLF survey found that in 70% of telco organisations fewer than 30% of technical roles are held by women. Only one telco board (Vodafone) has more than 40% female directors. As for the next generation, The European Commission’s report Women in Digital found that only one in three STEM graduates is a women.
+
+The industry has known it has a problem for a while and a number of larger companies based in the EMEA region have been treating the issue with the urgency it deserves. Through a series of in-depth interviews with senior telco executives, we set out to understand the barriers preventing telco companies from achieving more gender balance in their organisations and to identify some best practices that are making a clear difference for women in the industry. Gender has typically been the most pressing dimen­sion of diversity to tackle, not least because it is an issue common to every geography, there are no difficulties in collecting data, and progress is easy to monitor. While each of the companies we spoke to are also working on racial, ethnic and LGBTQ+ diversity in parallel, such efforts tend to be highly nuanced and locally administered and are not the main focus of this article.
+
+The Covid-19 crisis has been good for the telco industry. Mobile network operators providing critical infrastructure and services found themselves at the centre of a world increasingly dependent on digital communications. They played a vital role in the accelerated digital transformation that enabled organisations to function virtually, enabling sectors such as e-commerce and healthcare to provide vital services and individuals to connect with communities.
+
+Download
+
+Download
+
+Telco’s dilemma
+
+Yet despite these successes, telcos are sitting on a time bomb. While their lack of diversity may not seem to have affected their success to date, there will come a time, sooner than later, when it will place them at a competitive disadvantage. Unless companies make a concerted effort to reflect the demographics of their user base, they risk losing touch with what consumers want and will find it difficult to attract the best talent into the business.
+
+Most telcos have allowed cultures and recruiting patterns to evolve that privilege men.
+
+“The industry still clings to the old standard of top-down implantation of strategy, running the network and pushing solutions to customers,” says Dominique Leroy, member of the board of management at Deutsche Telecom and CEO for Europe. “The challenge for telco companies is to shift their mentality from being tech-driven to customer-centric organisations, offering products and services that really fit customer needs, and with a stronger focus on customer service.”
+
+As bastions of IT and engineering, most telcos have allowed cultures and recruiting patterns to evolve that privilege men. Today’s leaders have a responsibility to shareholders and stakeholders alike to do everything in their power to create more inclusive cultures and address the gender imbalance in their organisations. As telcos develop more of a focus on services and solutions, they have a perfect opportunity to infuse more diversity at every level of the organisation.
+
+You may also like:
+
+Telco Leaders Seize the Moment
+
+After successfully weathering 2020, top leaders from the world’s leading telcos express optimism about the future.
+
+Mats Granryd, director general of GSMA, which represents the interests of mobile operators worldwide, says that there is more awareness in the telco sector of what needs to be done and a desire to change. “Coming up with strategies is one thing: execution is the challenge,” he warns. “The CEO must build a diverse team that supports his or her views on DE&I.”
+
+Leadership teams are starting to show diversity. Telia Company’s Allison Kirkby, one of the few female CEOs in the industry, has four women on her executive committee including herself and women hold 38% of the top 130 leadership positions, the so-called extended leadership team (ELT) of Telia Company.
+
+Nevertheless, she notes that women in Telia’s top leadership are mostly in functional rather than commercial or P&L roles, with the result that women have less experience in “running the business” than their male counterparts. This is partly due to lack of P&L opportunities coming their way, but also explained by the fact that in periods of disruption, where we are right now, companies are under pressure to deliver results and hiring tends to lead to choose proven experience over potential in leadership roles – this does not advance the cause of diversity, neither from a gender, an age nor an ethnicity perspective.
+
+The telco industry does not readily accept outsiders.
+
+There are other barriers, too. Kirkby points out that the telco industry does not readily accept outsiders. “There is a ‘not invented here’ syndrome,” she says, “which makes it harder to bring in talent from outside the sector and help it succeed. What’s more, as telco companies seek to recruit more and more people with digital skills, the obvious place to look is a sector even less gender diverse than telco – the software and tech sector.”
+
+Leading on diversity
+
+For real change to take place, the CEO must send an unambiguous message that the organisation is pursuing a non-negotiable path towards gender diversity. This signal must be fully supported by the executive committee. "Diversity isn’t a women’s issue or an HR initiative: it affects all of us," says Leanne Wood, Chief Human Resources Officer at Vodafone. “The business needs to own, lead, and be accountable for diversity. It starts with a serious and tangible commitment from the senior leadership team, and must be seen in their actions, not just their words."
+
+It is an imperative for telco companies to ensure that their employees reflect their customer base.
+
+The board has a key role to play, too. In addition to protecting the interests of shareholders, it oversees the purpose of the business and how it creates wider social impact, for example helping to overcome the digital divide in the case of telco companies. Coming out of the pandemic, most boards today are spending more time addressing environmental, social and governance (ESG) issues that are fuelling external and internal activism. Diversity, equity and inclusion (DE&I) is a critical part of the ‘S’ and needs unwavering attention from the board.
+
+The business case for gender and ethnic diversity is robust and well understood: put plainly, diverse companies outperform their non-diverse peers across all sectors. It is therefore an imperative for telco companies to ensure that their employees reflect their customer base.
+
+So, what are telco companies doing to address the gender gap?
+
+Solving the problem
+
+Telco companies are tackling the gender diversity gap on multiple fronts. Here are 10 practices that will enable leaders to make a difference when carried out with commitment, sincerity, and passion:
+
+1. Embed DE&I in the company culture
+
+Creating an inclusive culture that celebrates diversity takes time and deliberate effort, but is a prerequisite if any of the following best practices are to take hold. Regular culture audits and engagement surveys reveal weaknesses and help track progress. Leaders need to adopt transparent and engaging internal communications strategies that will help to thread diversity through the organisation to the point where it is part of the cultural cloth. This means more than simply signing off on diversity initiatives and hoping that they “stick”. Showcasing those initiatives pays forward to a time when all employees instinctively understand they work for a company that wants and expects diversity. In sectors such as telco, where women are noticeably outnumbered, “public declarations” like this, followed by relentless action, are essential to attracting diverse talent and boosting retention rates.
+
+2. Refresh your employee value proposition
+
+Finding out what motivates employees and how best to attract and retain talent needs to be a continual learning exercise. Engagement surveys and culture audits should feed into the creation of a compelling employee proposition. “Digital inclusion, environmental responsibility, fostering diversity – these are all critical in the war for talent among the younger generation,” says Dominique Leroy. “Companies that lead the way in DE&I need to pay extra attention to retaining their people as they can easily become a net supplier of diverse talent,” adds Matimba Mbungela, CHRO of Vodacom.
+
+3. Set targets and track progress at every level.
+
+Setting challenging yet realistic targets is vital. A good goal is to aim to be as diverse as the community you serve, although it will take time to reach that destination. Communicating diversity targets clearly and being transparent about the data, even when the targets are not being met, helps to build trust. Likewise, publishing data on the gender pay gap can have a galvanising impact.
+
+Developing a diverse talent pipeline should not be attempted piecemeal: it should encompass the whole business. An organisation-wide strategy is necessary in order to establish a lasting talent development ecosystem.
+
+Supporting the next generation
+
+Facing gender imbalances in key disciplines such as engineering and software, more and more telcos are addressing the pipeline problem with initiatives designed to encourage more girls to pick up STEM-based subjects, and by evangelising the potential for careers in digitalisation and the ICT. MTN holds a Careers Day on campus, inviting schools in to consider career options in the industry and showcasing new technologies. The Vodacom Foundation runs a bursary scheme for students taking up science and ICT-related courses. Vodafone’s #CodeLikeAGirl programme offers coding workshops for girls aged 14-48. Deutsche Telecom help younger generations become aware of the dangers of the internet and social media and have their own programme to encourage women and girls to embrace coding.
+
+4. Link DE&I performance to pay
+
+KPIs are widely viewed as essential to measuring and monitoring the health and progress of individual diversity initiatives. These KPIs are incorporated into management incentive programmes to reinforce how seriously the business takes them. “ExCo colleagues have clear personal targets on DE&I and these get cascaded through the business,” says Matimba Mbungela. “That’s a key differentiator for us and how you create a sense of belief and follow-through: it’s part of my goal and commitment to the business.”
+
+5. Invest in mid-career interventions
+
+Study after study has shown that businesses lose some of their best female talent mid-career, often because they shoulder primary responsibility for caring for children or elderly parents. What’s more, self-confidence can be low among those returning from career breaks. Vinod Kumar, CEO of Vodafone Business, believes it is essential not just to recruit in a balanced way, but to support women throughout their journey with the company. “When women step out of the workforce, it is often at a time when people are getting their first or second management experience,” he says. “We need to be intentional about bringing women back in, and ensure that when women come back to work we create equality of opportunity and outcome so that they continue to acquire managerial experience.”
+
+Vodafone has recently instigated a worldwide parental leave policy that applies to all parents regardless of gender or sexual orientation. “This is a really good example of where we are trying to shift attitudes and norms more broadly,” says Leanne Wood. “We can do better if we tackle the number one reason why this management gap is so persistent – the unequal distribution of caring responsibilities.”
+
+It is essential not just to recruit in a balanced way, but to support women throughout their journey with the company.
+
+6. Intensify succession planning
+
+Forward-looking businesses will prepare succession plans for a wide range of leader­ship roles, not just those at the top, and focus on bringing more women into the succession planning process. Leanne Wood warns against focusing on just one or two names when building a specific succession plan, preferring to think in terms of broader talent pools. "Developing a broad talent pool to deliver the emergent and future needs of the business also supports diversity, inclusion and retention.”
+
+Companies that are serious about equalising the proportion of women they hire or promote must at some point have an honest conversation about prioritising potential over experience, backed by robust assessment tools that make such judgements possible. “Identify women early as potential successors and high-potentials; tell the women they are being considered and help them believe in themselves,” says Dominique Leroy. “However, to progress, women must also take responsibility for themselves by taking risks and overcoming the psychological barriers they face.”
+
+7. Empower employee networks
+
+The relative lack of women in the telco universe, as well as their roles being mainly in functional/support areas, means that their social and business networks — their access to informal mentors, confidants and sounding-boards — are unlikely to be as extensive as those enjoyed by their male colleagues. This in turn is exacerbated by the fact that women more often than men take the main responsibility at home. In a male environment, efforts to create a life friendly work environment for all is unfortunately not always of highest priority.
+
+Networks for female employees are important forums where women can listen, share and learn from each other.
+
+There is still a lot to be done. “It starts with giving people a voice in the company – treating all employees with dignity and respect,” says Allison Kirkby, who measures success as having “the most engaged employees with the most loyal customers, and the most satisfied shareholders having the biggest impact on society”. Setting targets is important and this year Telia Company announced that it will reach gender balance (50/50) in its extended leadership team by 2025. But the company’s diversity agenda goes beyond gender with the ambition of creating a workplace “where everyone can be their true and brilliant selves”. In 2020, Telia was awarded the title of the most LGBTQI-friendly employer in Sweden by Unionen, the largest trade union, for its unwavering stance on LGBTQI rights, even in countries where those rights are being questioned, for example in Estonia and Lithuania where Telia operates. Telia Estonia was itself awarded the most LGBTQI-friendly company in Estonia in 2021.
+
+You may also like:
+
+Women Leaders: How We Got Here
+
+From sponsorship to P&L opportunities, C-level women share the factors that contributed to their success.
+
+Networks for female employees are important forums where women can listen, share and learn from each other. They are particularly effective when they are development-focused and fully supported by a senior executive sponsor.
+
+Vodafone has recently launched what it calls its Withstander Programme which promotes “active allyship” and encourages employees to call out non-inclusive behaviours when they witness them. It is also taking action against domestic violence and abuse by supporting survivors at work and refreshing its training for people managers to help them recognise the signs of abuse and support employees particularly in a remote working environment. Vodafone also has a range of employee networks such as a Black Professionals Network and a Multi-cultural Inclusion Network, both of which support female employees from minority communities.
+
+8. Tackle unconscious bias, especially in recruitment
+
+Unconscious bias training is an important foundation for creating awareness, but it is just a start. In sectors such as telco that struggle to achieve diverse workforces, a sophisticated approach to the complex and emotional area of unconscious bias can be a powerful tool.
+
+Taking bias out of the recruitment process is particularly important, requiring concerted to substitute new methodologies for outworn ones that may exacerbate gender inequity. This can involve a range of actions from deploying gender-neutral language in job descriptions to ensuring that interview and selection panels are balanced and diverse.
+
+Taking bias out of the recruitment process is particularly important.
+
+Recent research into hiring in the technology industry published in Harvard Business Review found that gender inequities are baked into the structure of informal recruitment processes. Across 10 studies, the authors found that “adding a few more candidates can increase the gender diversity of your shortlist and reduce the odds that you’ll shun qualified female candidates simply because male candidates come to mind first.” Given that technology and telco companies face many of the same challenges, these findings are worth noting.
+
+9. Seek out the hidden talent and mentor them
+
+In a cultural environment in which men tend to overshadow women, it’s important to search for the hidden talent inside the organisation. “Often you have the right people, but you just don’t see them. Someone else is taking up the oxygen’’, says Mats Granryd at GSMA. “Be aware of the contributors who don’t have the skills to speak up, but who are good at delivering. Be prepared to take risks on individuals who may not fit all the criteria, and mentor them, give them confidence and accept they may make some mistakes.”
+
+10. Adjust your plans by market
+
+Several of our interviewees pointed out that it is impossible to have a global, one-size-fits-all approach to DE&I. Historical and socio-political factors have a bearing on where the emphasis will lie in any given country; some in EMEA focus more on race and ethnicity, others on gender representation, and others still will seek to balance their efforts across gender, disability, ethnicity, sexual orientation. Market sensitivity and some degree of compartmentalisation is necessary, says Paul Norman, Group CHRO of MTN. For example, MTN has done work on inclusion around sexual orientation and transgender, but they face legal barriers in some of the countries they serve. Similarly, in some markets, truly empowering and enabling women in leadership is significantly constrained particularly in CEO and Business CXOs positions. This is largely due to historic socio-economic and demographic norms and practices which need transfor­mation mindset changes. Being mindful of the market nuances is essential to break DE&I barriers. “While at centre we must stand steadfast in our DE&I belief and philosophy, it is equally important for local markets to chart an approach which is unique to their context from the ground up,” he says.
+
+We believe that telco companies will pay a big price if they neglect the importance of creating more inclusive cultures and more diverse workforces. Long-term success will depend on the ability to innovate, yet homogeneity hampers innovation. Diverse teams are more likely to innovate. Diverse leadership teams have better debates and make better decisions.
+
+Authors
+
+Emanuela Aureli
+
+London
+
+Rune Jörgensen
+
+Stockholm
+
+Mpho Seboni
+
+Johannesburg

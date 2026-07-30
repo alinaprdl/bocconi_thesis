@@ -1,0 +1,165 @@
+A balancing act: Monetizing data while protecting consumer privacy | Insights | Heidrick & Struggles
+
+Identified Country:
+
+A balancing act: Monetizing data while protecting consumer privacy
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+AI & Technology Officers A balancing act: Monetizing data while protecting consumer privacy
+
+Using data to advance the business agenda has become a strategic priority, but protecting consumer privacy is a growing concern. The roles of chief data officer and chief privacy officer are evolving and sometimes converging to meet the challenge.
+
+Joshua M. Clarke ,
+Julian Ha
+
+Data is the currency that fuels almost every business today. It has become a truism—but is no less true—that the astounding amount of data produced through social media and financial transactions means that the most overriding and compelling issue of our time is how organizations should collect, store, and use data. This issue underpins the rapid increase in the visibility of the chief data officer (CDO). Professionals in this role are increasingly responsible for assessing how consumers’ information can be used to a business’s advantage (i.e., monetized) while still protecting the consumer at all times.
+
+This requirement to use data fairly and in the best interests of the customer raises issues of ethics and conduct risk related to data usage. To this end, in a recent commencement address to Duke University students, Apple CEO Tim Cook expressed how Apple faces the dilemma: “We reject the excuse that getting the most out of technology means trading away your right to privacy. So we choose a different path: collecting as little of your data as possible. Being thoughtful and respectful when it’s in our care. Because we know it belongs to you. In every way, at every turn, the question we ask ourselves is not what can we do but what should we do.”
+
+Furthermore, from a data protection perspective, businesses of all sizes and across all industries are also facing significantly increased threats to their data guardianship as well as a barrage of constantly evolving regulatory requirements and growing enforcement measures. The Facebook–Cambridge Analytica scandal and a spate of highly publicized data breaches over the past five years—including Marriott (500 million users), Equifax (145 million users), and Under Armour (150 million users)—have led, according to the 2018 KPMG Global CEO Outlook survey, to more than a third of CEOs believing that it’s a matter of when, not if, their data will be compromised. Incidents that threaten the confidentiality and integrity of data, combined with the introduction of the European Union’s General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA), have only heightened the profile and crucial importance of a chief privacy officer (CPO) for the day-to-day running of virtually any international organization.
+
+No longer seen as bit players, modern-day CPOs are now tasked with not only setting data privacy strategy but also protecting customers’ interests and advancing their organization’s strategic agenda—all while navigating the shifting landscape of regulatory compliance. The CPO must work closely with the data protection officer (DPO), a new role created by the introduction of GDPR in May 2018. DPOs are tasked with overseeing both the data protection strategy required to ensure GDPR compliance and the technology infrastructure associated with data.
+
+As companies try to manage today’s data overload, both CDOs and CPOs are seeing their roles evolve—and often overlap. How will the CDO and CPO roles potentially coexist and differ in the future?
+
+Given the obvious similarities between CDOs and CPOs, it is clear that some organizations will wish to effectively combine the two roles to create a hybrid role.
+
+One company that is succeeding with this approach is KPMG. James Howard, former KPMG partner, was responsible for establishing and operating the firm’s US information management office, which encompassed the combined responsibilities of both a CDO and a CPO. As one of the Big 4 accounting firms, KPMG was among the first international organizations to recognize the importance of striking a balance between data leverage and regulatory compliance. It is a tight line to walk between tapping into an organization’s greatest asset, namely data, and complying with the myriad obligations designed to preserve the confidentiality of client information.
+
+Observing the radical pace of innovation in data analytics and cognitive computing, clients are increasingly looking to their advisors to apply an ever-broadening range of client and market information as part of their services. But most of those data don’t belong to the firm and are subject to a wide range of compliance obligations, including GDPR and CCPA. Compromising either side was not an option, so Howard’s solution was to build a first-of-its-kind information management capability, designed from the outset to maximize the use of data while preserving hard-earned client and market trust.
+
+Howard’s role can be contrasted with JoAnn Stonier’s role at Mastercard, which in many respects evolved from the CPO role. Indeed, Stonier was originally the CPO, and she expanded the role to include information governance, which was a precursor to her current CDO role. As the information governance program began to be better defined, Mastercard understood that greater focus was needed on data risk, data quality, and obtaining additional data sources and therefore elevated her role to that of CDO. Separate from the CPO role at Mastercard, Stonier’s CDO role is responsible for the operational aspects of GDPR compliance as well as for data quality, governance, management, sharing, and disclosure relating to all types of data, along with balancing data risk with business opportunities.
+
+While some organizations will decide to keep the two roles distinct, because of the commercial emphasis of the CDO role, they may choose to elevate its importance, with the CPO role potentially becoming a subset or splinter of the CDO role.
+
+Inextricably linked to how companies will define the roles of CDO and CPO in the future is the amount of investment they choose to make in related technologies and tools to improve the overall quality of their data. This includes obtaining a deeper understanding of where it comes from, how it is used, and where it goes. This richer data will be highly valuable, primarily because of how it will be used to present an accurate, comprehensive picture of a company’s financial health.
+
+As a consequence, the future impact and enhanced profile of the new-age CDO and CPO (or some combination thereof) could be dramatic. Just how dramatic will depend on the extent to which these essential professionals are able to improve data quality and therefore enable companies to make smarter strategic decisions leading to significant performance-enhancing results.
+
+About the authors
+
+Joshua Clarke (jclarke@heidrick.com) is a partner in Heidrick & Struggles’ Boston office and a member of the Global Technology & Services Practice and cofounder of the Big Data & Analytics Practice.
+
+Julian Ha (jha@heidrick.com) is a partner in the Washington, DC, office and a member of the Legal, Risk, Compliance & Government Affairs and CEO & Board practices.
+
+The authors wish to thank Richard Pooley for his contributions to this article.
+
+Related Services & Industries
+
+AI & Technology Officers
+
+Legal, Risk & Compliance
+
+Technology
+
+Related Content
+
+Human Resources Officers
+
+AI focus | VP of AI Workforce Transformation: The newest addition to senior leadership teams
+
+Companies are starting to hire a dedicated senior leader to convert AI adoption into workforce value. How can CEOs and CHROs decide if they need the role, and what should it look like if they do?
+
+Financial Officers
+
+Crypto and digital assets focus: Finding the right leaders for a maturing sector
+
+Crypto is a high-stakes market, and competition for capital, customers, and talent is brutal. Crypto companies should look for four crucial capabilities in their leaders.
+
+Frontier Tech
+
+2025 Global Chief Information Security Officer Compensation Survey
+
+Our sixth annual global survey of CISOs reveals how CISOs’ pay, reporting lines, and AI mandates are evolving as cybersecurity becomes a CEO-level, enterprise-wide priority.
+
+Frontier Tech
+
+2025 Data, Analytics, and Artificial Intelligence Officers Compensation Survey
+
+Our fifth annual report examines compensation for executives with artificial intelligence or data analytics responsibilities.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

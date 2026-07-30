@@ -1,0 +1,56 @@
+MWC 2018: Five Questions Leaders Should Ask Themselves
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+MWC 2018: Five Questions Leaders Should Ask Themselves
+
+By
+Spencer Stuart's Global MWC Team
+
+March 2018
+
+| 4 min read
+
+Author
+
+Spencer Stuart's Global MWC Team
+
+Spencer Stuart has been hosting events at Mobile World Congress (MWC) for almost a decade. This year, we held two exclusive events for senior leaders and influencers from a number of sectors, including telecommunications, financial services, automotive and entertainment to discuss what transformations in mobile and communications will mean for their organizations and talent strategies. The growing demand for connectivity and emergence of new innovations inspire new questions for senior executives and their organizations. Based on what we saw in Barcelona, here are the top questions we think leaders should be asking themselves in the year ahead.
+
+1. Does our culture encourage or inhibit innovation?
+
+In a world where even toothbrushes have become connected devices, the pace of innovation is undeniable. To create the next product or feature consumers didn’t even know they needed (but soon can’t live without), organizations need to be agile. We’ve seen a clear trend toward prioritizing learning-oriented cultures in order to promote innovation and respond quickly to rapidly changing business conditions.
+
+Take a look at your organization’s culture today and assess whether it supports the business strategy. For example, one tech company we worked with shifted from a culture that emphasized results, caring and exploration to one even more focused on learning in order to foster innovation and better compete with its increasingly agile competitors. (Learn more about culture in our recently published piece in Harvard Business Review.) Additionally, culture has become a vital component in talent attraction and retention — something that cannot be overlooked when top leaders are scarce and more companies are looking to build capabilities in areas such as connectivity. As organizations bring on more external talent to help shore up digital and other skills, many are assessing their teams and organizational designs to ensure successful integration. It’s also important to note that many leaders in emerging technologies do not always have at-scale leadership experience. Conducting assessments to guide their development plans will be key.
+
+2. Are we ready for the opportunities that 5G and the Fourth Industrial Revolution will create?
+
+It feels like we have been hearing about 5G for the past few years at MWC, but this was the first year we saw the technology being deployed. Pilots are underway in both the U.S. and Northern Asia, with Ericsson CEO Börje Ekholm commenting that these regions are taking the lead in 5G deployments as Europe lags behind. The Fourth Industrial Revolution is also rapidly becoming evident. While we have discussed the opportunities increased connectivity will bring, are we prepared for the far-reaching implications this will have across industries?
+
+Business models are being redefined, requiring leaders in strategy roles to become more tech savvy and vice versa. Companies will have to invest heavily in long-term learning to optimize the impact of technology automation on jobs, as well as educate the entire organization — including the board — on what these changes mean for cybersecurity (we’re looking forward to hearing more about this at the RSA Conference). More will need to be done to develop transformation programs and redesign ways of working, e.g., maximizing machine learning, including artificial intelligence, to spot opportunities quicker. The pace of technological change means that, while the talent available in-house continues to play an important role, it is unlikely to be sufficient to meet an organization’s needs. According to our survey of industrial leaders, 63 percent say they are more likely to look outside their companies for talent to help drive digital transformation efforts.
+
+Interestingly, Industry 4.0’s enablement of efficiency through technology — such as the use of paperless processes, robotics, additive manufacturing and digital product development — frees up time for more customer-focused activities. As a result, we could see a greater emphasis on enhancing the customer experience and growing demand for leaders with digital marketing expertise in sectors that focus heavily on consumer marketing, such as banking, personal care products and tech players.
+
+Discussing the latest trends at our MWC 18 reception in Barcelona.
+
+3. How are we going to handle the human side of AI?
+
+AI and machine learning are already almost everywhere and new developments are emerging, such as LG’s AI Cam, which uses machine learning to automatically alter colors in photographs. From a talent perspective, AI and machine learning can enhance the employee experience, e.g., creating a more tailored onboarding experience, and help improve diversity. Yet, there are risks, and these go beyond cybersecurity. If not done well, AI may reinforce bias by identifying candidates with attributes similar to executives who have been successful in the organization. These attributes, such as similar backgrounds, may have little to do with performance. However, AI can also help eliminate bias by challenging assumptions (e.g., extroverts are better at sales) and broadening the candidate pool. HR leaders will need to clearly communicate the goals of any HR technologies, as well as the safeguards in place, to prevent them from being used for questionable purposes.
+
+With fears that humans will be displaced by AI-fueled technologies, CTOs and CIOs will need to play a bigger role in separating myth from reality. Tech leaders must be able to evaluate the scope and limitations of technology so they can advise management teams about what can — and cannot — drive their organizations forward. Companies still need a vision, forward-thinking strategy and the right people in place to incorporate all of this technological innovation.
+
+4. Are we really doing enough to promote diversity?
+
+Despite discussions centered around women in technology, only 24 percent of MWC’s attendees were women and many leaders commented on the fact that the majority of the speakers at the conference were male, underscoring the need for greater progress in diversity. Diversity isn’t simply about perception, but performance: Research from MIT Sloan School of Management found that teams with more women perform better and have more collective intelligence. It’s also important to note that diversity efforts should not stop with gender. Progress continues to be slow when it comes to minority representation at the top 200 S&P 500 companies: Today, only 17% of directors of the top 200 companies are minorities. Organizations need to ask themselves if they could be doing more, including how they recruit from colleges up to the boardroom, how they prioritize the development of women and minority leaders, and how they remove unconscious bias in assessment processes.
+
+5. Is our organization prepared for increased investor scrutiny around social responsibility?
+
+Tech and social responsibility was a key theme at MWC this year with sessions on making progress in gender diversity and building sustainable smart cities. There has been growing investor scrutiny on social responsibility issues, with active and activist investors increasingly calling for greater gender and racial/ethnic diversity in the boardroom. We’ve already seen some institutional investors vote against all-male boards of U.S. companies. So what should companies and their boards do? Take your investors seriously and listen. Understand what shareholders and proxy advisers are most concerned about and be willing to engage with them. Increasingly, the focus of attention will be the board itself — its leadership, composition and effectiveness — so review your board’s composition through the lens of discerning investors and activists. Additionally, as consumers and investors pay greater attention to companies’ footprints, more and more companies are appointing chief sustainability officers. In a generation, many companies have gone from checking off a list of regulations to embracing sustainability as part of business strategy.
+
+Author
+
+Spencer Stuart's Global MWC Team

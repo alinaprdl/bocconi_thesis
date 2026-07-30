@@ -1,0 +1,142 @@
+People-Centered AI: How CHROs Can Lead Successful Adoption
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+People-Centered AI:
+How CHROs Can Lead Successful Adoption
+
+By
+
+Tom Friedrich,
+
+Matthew Rose and
+
+Susie Marlow
+
+July 2025
+
+| 5 min read
+
+Authors
+
+Tom Friedrich
+
+Chicago
+
+Matthew Rose
+
+Atlanta
+
+Susie Marlow
+
+Washington, D.C.
+
+SectionsIn this article
+
+There’s no doubt about it; AI is shaking up the workplace. It’s revolutionizing how we operate, redefining the skills we need and transforming how we make decisions. Our latest article, Top Three AI Trends of 2025, suggests that what we are seeing now is just the tip of the iceberg — predicting the rapid rise of autonomous agents far beyond conventional chatbots. If AI isn’t making its way into your business strategy, you’re likely falling behind.
+
+This got us thinking about the crucial role CHROs play in navigating this rapidly evolving landscape and positioning their organizations and employees for success. Successful AI adoption requires a people-centric approach that prioritizes human needs, values and experiences in both AI development and deployment.
+
+As change leaders, CHROs are in a unique position to drive AI adoption. They play a critical role in preparing the workforce to utilize AI effectively, aligning AI with strategic goals and leading its integration within HR functions.
+
+Role of the CHRO in AI adoption
+
+CHROs can create impact by taking the following actions for their talent, the organization and the HR function:
+
+1: Revitalize talent development for AI integration
+
+As AI technologies continue to evolve, it is essential for talent to keep pace with the changing skill requirements. CHROs must take action to identify the necessary skills, including both technical skills in AI and data analytics, and soft skills like adaptability and critical thinking. Following this, they must evaluate and adjust existing job roles to align with these skills, which may involve redefining roles, creating new positions or offering training and development opportunities to equip employees for AI integration.  Developing a comprehensive plan will ensure access to employees who possess AI literacy and can effectively engage with these technologies. Furthermore, HR must ensure that leaders are equipped with the knowledge and tools to comprehend AI's implications while fostering initiatives that promote employee development and facilitate interaction with AI tools within the organization.
+
+2: Evolve organizational structures for AI success
+
+The adoption of AI at scale will require new governance structures to address issues related to ethics, accountability and oversight. CHROs play a vital role in establishing a framework that ensures the safe and ethical application of AI within the organization, which includes creating and implementing clear guidelines for AI use and establishing norms for collaboration among individuals. Additionally, CHROs should play a leading role in evolving the organizational structure, roles and processes in collaboration with key stakeholders — such as IT, legal, compliance and business leaders — to fully leverage the potential benefits of AI, ensuring that the workforce is well-prepared to integrate these technologies into their daily operations.
+
+3: Build AI-related capabilities within HR
+
+HR must demonstrate leadership in leveraging these technologies to enhance organizational effectiveness. This includes employing AI tools in talent acquisition, performance and talent management, career and development and HR operations and service delivery:
+
+Talent Acquisition
+
+Creation of job descriptions
+
+Customizing job postings and mitigating bias
+
+Reviewing and screening resumes
+
+Managing candidate pools
+
+Assessing candidates
+
+Communicating with applicants
+
+Performance & Talent Management
+
+Goal setting
+
+Facilitation of ongoing performance conversations and next steps
+
+Manager feedback recommendations
+
+Talent reviews and succession planning
+
+Career & Development
+
+Conducting skills gap assessments
+
+Skills based organization matching
+
+Creation of personalized learning experiences and growth opportunities
+
+Developing new content and programs
+
+HR Ops & Service Delivery
+
+Addressing employeequeries (Chatbot/Tier 0, Knowledgebase)
+
+Document generation
+
+Crafting communications,  policies and program frameworks
+
+People and data analytics
+
+Onboarding
+
+HR transaction admin
+
+CHROs should consider investing in training programs and resources to bolster the HR function's ability to adopt AI technologies. Now could be the time to revisit the HR strategy and evaluate functions from an AI perspective. This involves building and deploying new capabilities that are essential for HR to thrive in an AI-enhanced environment. Additionally, it is crucial to redesign HR and employee life cycle processes to ensure they align with and are enhanced by AI technologies, enabling a more efficient and responsive HR operation that can better meet the needs of the organization and its employees.
+
+• • •
+
+To thrive in the age of AI, organizations must confidently embrace this technology or risk falling behind. By starting with these three high-impact areas, CHROs can drive meaningful progress, laying the foundation for broader, responsible AI adoption across the organization.
+
+Authors
+
+Tom Friedrich
+
+Chicago
+
+Matthew Rose
+
+Atlanta
+
+Susie Marlow
+
+Washington, D.C.
+
+Related Insights
+
+How leaders can thrive in the age of AI
+
+6 min read
+
+We consider how traditional leadership skills are being rethought, renewed and reconfigured in a world reshaped by AI.
+
+The top three AI trends of 2025 — according to AI…
+
+4 min read
+
+Where is AI poised to have the biggest impact in 2025? Here are the three top trends that AI itself (and our very own Fabio Moioli) has helped identify…

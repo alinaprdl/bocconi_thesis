@@ -1,0 +1,441 @@
+Cybersecurity Governance: Preparing Cyber Experts for Corporate Board Roles - Egon Zehnder
+
+Skip to main content
+
+Search for “”
+
+... in Consultants
+
+... in Offices
+
+... in Services
+
+... in Insights
+
+Search all results
+
+Our Services
+
+Shaping Successions
+
+CEO Successions
+
+Executive Successions
+
+Board Successions
+
+Chair Successions
+
+Committee Chair Successions
+
+Advancing Governance
+
+Board Review
+
+Board Development
+
+Board Advisory
+
+Building Advisory Boards
+
+Sustainability Board Advisory
+
+Discovering Leaders
+
+CEO Search
+
+Executive Search
+
+Board Search
+
+Advisor Search
+
+Executive Assessment
+
+Developing Leadership
+
+Individual Development
+
+Accelerated Onboarding
+
+Development Planning
+
+Coaching
+
+Team Journey
+
+Unlocking Transformations
+
+Transformational Development Programs
+
+Chair and Board Potential
+
+Executive Breakthrough
+
+Executive Discovery
+
+Transformational CHRO
+
+Voyager
+
+Customized Leadership Immersion
+
+Explorer
+
+Cultural Transformation
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Chief Executive Officers
+
+Founders
+
+Technology Officers
+
+Chief AI, Data & Analytics Officers
+
+Chief Information Officers
+
+Chief Information Security Officers
+
+Chief Product Officers
+
+Chief Technology Officers
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+Consumer
+
+Consumer Products
+
+Media & Entertainment
+
+Restaurants, Leisure and Hospitality
+
+Retail, E-commerce, Apparel and Luxury
+
+Sports
+
+Financial Services
+
+Asset Management
+
+Banking and Markets
+
+Digital Assets, Crypto, & Web 3
+
+FinTech
+
+Infrastructure
+
+Insurance
+
+Private Equity
+
+Retail Financial Services
+
+Risk Management
+
+Sovereign Wealth Funds
+
+Wealth Management
+
+Health
+
+Biopharmaceuticals
+
+Healthcare Delivery & Services
+
+Life Sciences Tools & Pharmaceutical Services
+
+Medical Devices, Diagnostics and Technology
+
+Industrial
+
+Aerospace & Defense
+
+Chemical & Process Industries
+
+Energy
+
+Machinery & Industrial Technology
+
+Mining & Metals
+
+Mobility & Automotive
+
+Public & Social Sector
+
+Arts, Culture & Sports
+
+Economic, Social & Human Development
+
+Education & Research
+
+Environment & Sustainability
+
+Interest Representation & Public Affairs
+
+Public Administration
+
+Public Finance
+
+Public Health
+
+Public Infrastructure
+
+Services
+
+Air Transport
+
+Business Services
+
+Hospitality, Travel & Leisure
+
+Professional Services
+
+Real Estate Services
+
+Transportation & Logistics
+
+Technology & AI
+
+Artificial Intelligence
+
+Communications & Connectivity
+
+Cyber Security
+
+Digital
+
+Enterprise Tech
+
+Internet of Things
+
+Semiconductors
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+Functions
+
+Industries
+
+Meet our Consultants
+
+Discover Insights
+
+Find Offices
+
+About Us
+
+English
+
+Change
+
+Functions
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Industries
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+About Us
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+English
+
+Deutsch
+
+中文
+
+日本語
+
+Cyber SecurityCybersecurity Governance: Preparing Cyber Experts for Corporate Board Roles
+
+A checklist for cybersecurity executives who want to rise to the boardroom
+
+September 2024
+
+8 mins read
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Editor's note: Also read "Rewiring Boardroom Cybersecurity," a new playbook that lays out tangible actions for boards to strengthen cyber-preparedness and protect organizations from current and emerging threats.
+
+Corporate boards are quickly realizing that cybersecurity is no longer an occasional topic of discussion, but an issue they can’t afford to overlook. Pressure from investors, regulators, and consumers, along with an uptick in cyberattacks over the years, is also propelling a new wave of previously untapped executives to be considered for a board seat: executives with a cybersecurity background, such as CISOs, cybersecurity general managers, former military members, among others. But are they ready for board service?
+
+To bridge the gap between desire and ability to serve on a board, aspiring board members with a spike on cybersecurity will need to embark on a transformation journey.
+
+In this article, we’ll discuss the need for a cybersecurity governance framework and provide a playbook on how to prepare cyber experts for board roles.
+
+What is Cybersecurity Governance?
+
+Cybersecurity governance refers to the framework of policies, procedures, and practices that an organization uses to manage and oversee its cybersecurity efforts. It involves the allocation of responsibilities, the establishment of clear lines of authority, and the implementation of strategies to protect against cyber threats. Effective cybersecurity governance ensures that risks are identified and managed, compliance with regulations is maintained, and that there is accountability at all levels of the organization. It aligns cybersecurity initiatives with the organization's overall goals and objectives, promoting a culture of security awareness and resilience.
+
+What is a Cybersecurity Governance Framework? Why Is It Important?
+
+A cybersecurity governance framework is a structured set of guidelines and best practices that organizations use to manage and oversee their cybersecurity initiatives. Ideally, this framework should align with board governance by integrating cybersecurity strategies with organizational goals, managing risks, and ensuring compliance. The board sets the strategic direction, oversees risk management, and allocates resources, while the cybersecurity framework focuses on mitigating cyber risks, delineating responsibilities, and ensuring policy adherence. This integration ensures cybersecurity is prioritized and managed as part of the organization's overall governance, protecting assets and maintaining long-term sustainability.
+
+Given the increased focus on a cybersecurity governance framework, it’s critical to consider the steps needed to prepare executives with cybersecurity backgrounds to be board-ready. Such a transformation requires a deliberate and methodical approach.
+
+Cybersecurity for Executives: 8 Steps to Building Board-Readiness
+
+For any executive, stepping into a governance role requires two fundamental things: a mindset shift from execution to oversight and a broader set of skills than your main area of focus. Because cyber experts, such as CISOs, have rarely been considered for board roles in the past, they don’t necessarily fit the typical board director mold. Little to no exposure to the board, organizational reporting structures, and a sole focus on cyber and IT issues are some of the barriers that have prevented most of them from developing a broadened business lens over the years, hindering their ability to step into a corporate directorship role. Yet, they have one of the most challenging jobs in an organization, being on duty 24/7 and held accountable—and even fired—when significant incidents happen.
+
+Executives with a background in cybersecurity want to rise to the boardroom, and more opportunities will become available overtime, especially as regulations increasingly call for added expertise and as the threat of a cyberattack looms over every single company. Drawing from our experience working with boards and cybersecurity executives over the years, this playbook offers practical insights to enhance your readiness to land your first corporate seat.
+
+Drawing from our experience working with boards and cybersecurity executives over the years, this playbook offers an 8-step action plan that offers practical insights to enhance board-readiness among cyber executives.
+
+1. Get Exposed to the Board
+
+First and foremost, get board exposure. If you are a CISO or an executive working on cybersecurity issues, there are several ways to do that. One is by making the case to your direct supervisor, and especially the CEO, for hosting cyberattack simulations and tabletop exercises to your company board. The Cybersecurity & Infrastructure Security Agency offers a comprehensive set of tabletop exercise packages and tools to help CISOs and cybersecurity professionals conduct the exercise. These activities benefit the company by enhancing preparedness and resilience in the case of an eventual attack and help to keep lines of communication open between you and the board. Additionally, you should present to your entire board on cybersecurity issues regularly, beyond the risk committee which you may be more familiar with. By standing in front of the members and getting exposed to how they think and the questions they ask will help shape your own readiness for when board service arises.
+
+2. Tap into Your Intellectual Curiosity
+
+Boards don’t hire “one issue” candidates. If you’ve had little exposure to your company board and often feel you lack insight into the business strategy, tap into your intellectual curiosity. Think strategically about how cybersecurity and strategy are interlinked and what this means for your role as your company looks to grow, innovate, and conduct business as safely as possible. Map out the executives you are going to start engaging with and seek business intelligence. Having these high-level conversations in an ongoing basis will not only give you a broader outlook on where the company is headed but will make other executives include and seek your insights on these business conversations. We know many companies struggle to find an optimal reporting structure for their cybersecurity executives, namely CISOs: some report to tech, some to operations; others aren’t even at the C-Suite, but at the director level, but tapping into your intellectual curiosity and having these conversations will make you more knowledge about the business.
+
+3. Engage with Other Departments
+
+Now that you are becoming a business autodidact and have a clearer picture about what cybersecurity means for your company’s goals, it’s time to engage with the various company departments. Get involved with product managers to understand the underlying business aspirations for a new product. Start liaising with the marketing team to understand the consumer and how the brand is positioned in the market. Proactively seek out the knowledge to be well versed in the business world and the competitive dynamics of the business. “One issue” candidates don’t get appointed to boards, so ensure you are partaking in governance and strategy aspects of the business too.
+
+4. Become an Innovation Enabler
+
+As you navigate other departments and understands their scope of work, it is now time to apply that insight to your day-to-day operations. A successful cybersecurity executive will act as an innovation enabler while keeping everyone involved safe. For example, if marketing wants to engage with customers utilizing data, you will encourage them to do so while ensuring a high-level of security. There’s another layer you need to implement here: empathy for colleagues. You will act as a team player whose goal is to stay ahead of the competition, but if a project poses a big security risk, you will act with empathy to be understanding of the ultimate business goal and develop the optimal solution while keeping the company and its ecosystem safe.
+
+5. Be a Storyteller
+
+Cybersecurity can get very technical very quickly. A large part of your job is to champion the issue in a simple way and motivate employees to embrace good digital hygiene and act as the company’s human firewall. To be successful in enhancing cybersecurity preparedness, you need to be dynamic and have the storytelling skills to inspire people to be individual stewards of the company’s digital assets and systems. Apply your creativity and inventiveness to develop compelling ways to train and keep people hyper aware on cyber risk while keeping things simple. The same applies to the boardroom: Directors don’t need technical insights into cybersecurity. Their job is to ensure business continuity in the case of an incident, minimize disruption, comply with regulation, and safeguard investors’ interests as fiduciaries. Boards need less on technicalities and more on the implications of not paying enough attention to cybersecurity. At the end of the day, humans appreciate stories that are relatable, compelling, and have a message that resonates. Applying storytelling into your daily job will help you as you navigate your path to the boardroom.
+
+6. Join Cybersecurity Networks
+
+The next step on your journey to board-readiness is to expand your network beyond the company. You’ve built strong relationships internally. Now it’s time to step out of your company and proactively build relationships in the broader ecosystem. Galvanize your peers in the industry to share information and get smarter together. For example, after the security breach at Target in 2014, large retailers like Macy’s, Kohls, and others were being constantly hit by the same cyber gangs. Retail CISOs realized they needed to form a consortium to exchange information—this was one of the first group of CISOs to come together and share information. Joining a cohort of leaders like yourself, and by having these productive and important discussions, you can have a glimpse of what a board dynamic could look like as well.
+
+7. Become an Advisor
+
+Part of enhancing your board profile is becoming an advisor to other companies. Now that you’ve transitioned from a cybersecurity-focused expert to a more holistic business-minded executive, it is time to use your skills to benefit other organizations too. Sitting on advisory boards will be an important part of your development journey here. It will generate further business exposure and you will have more macro level insights on what other industries are facing.
+
+8. Download our “Path to the Boardroom” Guide
+
+After following the steps above, it is time to kickstart your board seat search. Drawing from our work with 600+ boards annually, Egon Zehnder developed The Path to the Boardroom, a real-world guide to help you find your first corporate directorship. From starting your search, to interviewing for a directorship, to getting off to a good start as a new board member, this guide will prepare you to confidently take a seat at the boardroom table.
+
+Keep in mind that these are practical suggestions that you can embed into your routine as a cybersecurity professional, but no pathway to the boardroom is like the other. Each executive has a unique set of challenges and experiences that make their board journey unique. Egon Zehnder is here to support executives and organizations along every step of the way. Learn more about our Cybersecurity work.
+
+Topics Related to this Article
+
+Board
+
+CyberSecurity
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Written by
+
+Stay up to date with our latest insights.
+
+Subscribe now
+
+Changing language
+
+You are switching to an alternate language version of the Egon Zehnder website. The page you are currently on does not have a translated version. If you continue, you will be taken to the alternate language home page.
+
+Continue to the                 website
+
+Back to top

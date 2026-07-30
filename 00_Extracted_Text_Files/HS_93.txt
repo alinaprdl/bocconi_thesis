@@ -1,0 +1,220 @@
+Auto industry focus: How automotive suppliers are rethinking their talent strategies | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Auto industry focus: How automotive suppliers are rethinking their talent strategies
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+AutoMobility Auto industry focus: How automotive suppliers are rethinking their talent strategies
+
+OEMs and tier 1 suppliers are investing in new kinds of talent—and confronting the challenge of the impact of nontraditional hires on their existing cultures. A dozen leaders offer their thoughts on what’s working.
+December 11, 2024
+
+Danielle Burwick ,
+Florian Delègue ,
+Dr. Nicolas von Rosty ,
+Dr. Roman Wecker
+
+Read the full article
+
+The automotive industry is undergoing a seismic shift, and original equipment manufacturers (OEMs) and tier 1 suppliers are having to evolve their workforces to keep up. These companies must now attract and retain leaders with the skills to spur innovation in a range of emerging areas, from electrification and autonomous driving to connectivity and new models of mobility. And they must do so in a context of volatile market structures and business models.
+
+Succeeding in this new era will require bringing aboard leaders with new skill sets, but it’s not as simple as just hiring software engineers or data scientists. OEMs must think critically about how they meld nontraditional leaders with their existing workforce and culture—which one leader we talked with described as “quite a closed system.” It’s crucial that OEMs establish processes and structures to ensure these leaders can be as effective as possible.
+
+We spoke with 12 executives at OEMs in Europe and North America about their talent strategies and how they are meeting the challenges of successfully onboarding new expertise.
+
+A new focus on hiring for technology and customer experience
+
+In this time of change for the industry, many OEMs are bringing in leaders with nontraditional skills to break old habits, increase agility, inspire creativity and innovation, and, in some instances, help the organization own more of the value chain—for example, software-defined vehicle hubs, in-house cell technologies, and batteries—to enable faster, more agile, and independent transformation,” said one automotive executive.
+
+In the long run, most OEMs are seeking to develop leaders with these skills and capabilities, often adapting longstanding apprenticeship programs, but for now, these goals require a range of new approaches in hiring, including:
+
+Competing with technology giants for talent. Many of the executives we spoke with indicated their organizations are hiring leaders from other industries with expertise in software, coding, AI, and semiconductor and battery technologies. “Often, these candidates come from well-known tech giants or tier 2 or 3 suppliers, particularly for semiconductor or software development expertise,” said one executive.
+Hiring to enhance customer experience and digital marketing. Many OEMs are looking for people who can help them create dynamic user experiences, pulling in candidates from fashion, gaming, technology, and music production, said one executive. Some are especially keen on a background in direct-to-consumer business models, as OEMs are increasingly interested in bypassing traditional dealerships to sell straight to the end user. That approach requires people talented not only in customer service but also in e-commerce and digital marketing. “We’ve started looking at people from subscription and e-commerce,” said one executive. “Cars have to be built with 100% connected services now.”
+Exploring talent in new geographies. In addition to the search for new kinds of skills, learnings from the pandemic have supported some OEMs as they rethink the geographies from which they recruit, executives told us. “Sourcing for tech talent tends to focus on the United States, India, Israel, and, to a lesser extent, Taiwan and Korea,” one executive noted. And more leaders in other roles, such as sales or marketing, can successfully be located close to priority markets rather than in the headquarters’ country.
+
+Of course, the goal is not a full-scale turnover from traditional to new. Executives who are embracing experts with nontraditional skills indicate it’s critical to appropriately balance these individuals and those from traditional OEM backgrounds, particularly when it comes to advanced engineering. “You need someone who understands the auto industry but has roots somewhere else,” one executive told us. “Otherwise, you will not end up with innovation.”
+
+Even with these new approaches taking root, the automotive industry to date remains quite insular, relying mostly on its own talent pool. That is especially true at the highest levels of the organization—boards, in particular, remain heavily weighted toward automotive veterans.
+
+The challenges of integrating people from other disciplines
+
+Even though companies are seeking a balance of old and new, not full turnover, they face some clear challenges, starting with compensation. “We question if we can afford to tap into the real tech talent,” said one executive. “We have an office in Silicon Valley, but we have to ask ourselves if we’re willing to pay double or triple for this talent than we would for people recruited from elsewhere.” Meanwhile, companies that decide to front the money can still struggle with their pitch to these candidates, who are accustomed to flatter organizational structures, rapid iteration, and software-centric approaches.
+
+When people with nontraditional backgrounds do join the team, it can then be challenging to effectively integrate and retain them. “We hire these people, but are we ready for them and what they can do?” asked one OEM executive. Her company hired an autonomous engineer who developed an autonomous offering that piqued excitement, but the company could hardly move fast enough to invest in and implement it.
+
+Another executive spoke of the quick pace of a talented new hire’s first few months, when new impulses and external perspectives are plentiful. But a frustrating reality often sets in. “The overly complex structures, lengthy processes, and internal politics quickly become draining,” the executive said.
+
+Cultural differences can be an impediment too. “I have yet to see someone come in from a major tech company with a ruthless performance management style and succeed,” said one OEM executive. Another shared: “This is the world’s largest small industry, and there are certain nuances about the industry that might trip you up if you didn’t grow up in it.”
+
+In the end, according to the executives we spoke with, few top-level lateral hires stay for more than three years.
+
+The keys to success
+
+Overcoming these challenges requires a shift in how automotive companies position themselves as employers and how they structure their work environments. The executives we spoke to recommended a few critical actions that can help OEMs set up nontraditional hires for success.
+
+Prioritize a thorough onboarding to the company and culture
+
+Nontraditional hires require nontraditional onboarding procedures. The companies best at this start well before hire, for example, by including colleagues in the interview process and linking new hires to shifts in strategy. Once someone is on board, the process should include a thorough rundown of the informal structures, alliances, relationships, and internal politics of the company. “The automotive industry is too complex and entangled in these alliances for lateral hires to have an impact without this extra support,” said one OEM executive. New hires should also know what they’re in for, with trainings that provide a complete overview of the industry and where it’s headed. “We are at a crossroads: we have franchise agreements with dealers and are trying to sell to the end customer,” one executive mused. “The future and the past are converging.”
+
+In addition, new hires must have a clear view of company culture—and language, for that matter—so they can work within its bounds to create progress. Leaders who try to impose a different culture on an OEM organization will fail, one executive said. “The auto culture is very risk-averse,” noted another. Tech companies often quickly create flawed software and then improve it on the fly, but that doesn’t work in the auto industry. “Building a car and brakes—it has to work every time,” the executive added.
+
+In a sign of culture’s importance to long-term success, some automotive OEMs are actively adapting their culture to be a better fit for a diverse range of talent. Of course, these shifts take time—and effective leadership from CEOs. “Without the leadership of the CEO pushing us into a new talent culture, much of the external talent would struggle,” said one executive.1
+
+Provide independence and trust
+
+Lateral hires need the independence and authority to make quick decisions. “They need to be able to form their own teams, operate as independently as possible from committees and hierarchies, and have access to sufficient budget to take quick action without getting bogged down in lengthy budget approval processes,” said one executive. That’s not to say they should be entirely siloed, this leader noted, but integration can come largely through specific cross-functional connections and support from advisory boards.
+
+It’s vital that leaders provide the new hire sufficient space, several executives noted. “The openness of the board of directors and CEO, who set aside their biases, allowed me an opportunity to think differently and try new things,” said one executive who was hired into automotive. “It really comes down to one thing: trust. They are curious and want to know my perspective.”
+
+Encourage small shifts
+
+Many leaders from nontraditional backgrounds are accustomed to moving quickly and making bold changes. But in the new environment, starting small can work best, some OEMs have found. “We hire people who drive change in an evolutionary way, not a revolutionary way,” said one executive.
+
+Top-down implementations often fail. New leaders who take the time to understand the heritage and pride ingrained in automotive organizations will be better equipped to acknowledge and build upon it. “Convincing people to make small changes, then expand on them, is the fastest way to succeed,” said one executive. “I encourage new leaders to make the smallest provable change as the first building block.”
+
+Explore new avenues to access talent
+
+OEMs struggling to hire and onboard leaders with different skill sets and backgrounds should also consider thinking outside the box, executives said. “There is very little talent flow in the context of joint ventures or other forms of close collaboration,” one executive noted. OEMs could also find value in working with other companies to build flexible, creative models for sharing talent—even if only for a two- or three-year placement. And they can benefit from considering on-demand leadership for discrete projects or to drive specific change programs.
+
+Conclusion
+
+As business models continue to evolve, OEMs and tier 1 suppliers will have to meet their need for new kinds of talent, and preferably faster than their competitors. So far, not all have bought in, and the ones that have are realizing it’s not easy to enable these nontraditional hires for success. They should, however, use their struggles in these early days to determine the path forward, informing their strategies to combine automotive heritage with the future of mobility.
+
+About the authors
+
+Lewis Adams (ladams@heidrick.com) is a partner in the Mexico City and Monterrey offices and a member of the CEO & Board of Directors and Industrial practices.
+
+Danielle Burwick (dburwick@heidrick.com) is a principal based in Detroit and a member of the Industrial Practice.
+
+Florian Delègue (fdelegue@heidrick.com) is a partner in the Paris office and a member of the Industrial and Supply Chain & Operations Officers practices.
+
+Dr. Nicolas von Rosty (nvonrosty@heidrick.com) is the partner in charge in Germany and a member of the CEO & Board of Directors and Industrial practices.
+
+Dr. Roman Wecker (rwecker@heidrick.com) is a partner in the Frankfurt office and a member of the Industrial and Supply Chain & Operations Officers practices. He leads the Manufacturing and Industrial Tech sectors as well as the firm’s sustainability work in DACH.
+
+Adam Zellner (azellner@heidrick.com) is a partner in the Chicago office and a member of the Industrial Practice. He leads the global automobility sector.
+
+Reference
+
+1 For more on CEOs’ role in shaping and maintaining cultures, see Rose Gailey, Ian Johnston, and Holly McLeod, “Aligning culture with the bottom line,” Heidrick & Struggles, July 24, 2023, heidrick.com.
+
+Related Services & Industries
+
+AutoMobility
+
+Industrial
+
+Industrial Goods & Technology
+
+Related Content
+
+Human Resources Officers
+
+Leadership perspectives: A conversation with Ravi Kyran, Chief Human Resources Officer, Bajaj Auto
+
+Heidrick & Struggles’ Charul Madan and Dhiraj Shetty speak to Bajaj Auto’s CHRO, Ravi Kyran on how CHROs today play a critical role in helping Indian companies thrive on the global stage.
+
+On-Demand Talent
+
+Interim leadership: A lifeline for the UK industrials sector
+
+The UK industrial sector faces transformation and skills gaps. This article looks at how interim leadership serves as a critical strategic lever for resilience, localization, and digital execution.
+
+AutoMobility
+
+Driving efficiency: How Europe’s automotive CFOs are rising to new operational challenges
+
+Europe’s automotive CFOs are evolving into enterprise leaders, driving innovation, efficiency, and sustainability amid rising operational and regulatory challenges.
+
+AutoMobility
+
+Navigating global transformation and leadership: Insights from Luis Lozano, president at Toyota Mexico
+
+Luis Lozano, president of Toyota Mexico, discusses leadership through the transformation currently taking place within the automotive industry and the biggest challenges and opportunities ahead.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

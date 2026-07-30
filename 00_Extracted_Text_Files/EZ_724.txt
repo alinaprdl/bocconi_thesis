@@ -1,0 +1,433 @@
+Your Cyber Security Team: More Than Just the CISO - Egon Zehnder
+
+Skip to main content
+
+Search for “”
+
+... in Consultants
+
+... in Offices
+
+... in Services
+
+... in Insights
+
+Search all results
+
+Our Services
+
+Shaping Successions
+
+CEO Successions
+
+Executive Successions
+
+Board Successions
+
+Chair Successions
+
+Committee Chair Successions
+
+Advancing Governance
+
+Board Review
+
+Board Development
+
+Board Advisory
+
+Building Advisory Boards
+
+Sustainability Board Advisory
+
+Discovering Leaders
+
+CEO Search
+
+Executive Search
+
+Board Search
+
+Advisor Search
+
+Executive Assessment
+
+Developing Leadership
+
+Individual Development
+
+Accelerated Onboarding
+
+Development Planning
+
+Coaching
+
+Team Journey
+
+Unlocking Transformations
+
+Transformational Development Programs
+
+Chair and Board Potential
+
+Executive Breakthrough
+
+Executive Discovery
+
+Transformational CHRO
+
+Voyager
+
+Customized Leadership Immersion
+
+Explorer
+
+Cultural Transformation
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Chief Executive Officers
+
+Founders
+
+Technology Officers
+
+Chief AI, Data & Analytics Officers
+
+Chief Information Officers
+
+Chief Information Security Officers
+
+Chief Product Officers
+
+Chief Technology Officers
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+Consumer
+
+Consumer Products
+
+Media & Entertainment
+
+Restaurants, Leisure and Hospitality
+
+Retail, E-commerce, Apparel and Luxury
+
+Sports
+
+Financial Services
+
+Asset Management
+
+Banking and Markets
+
+Digital Assets, Crypto, & Web 3
+
+FinTech
+
+Infrastructure
+
+Insurance
+
+Private Equity
+
+Retail Financial Services
+
+Risk Management
+
+Sovereign Wealth Funds
+
+Wealth Management
+
+Health
+
+Biopharmaceuticals
+
+Healthcare Delivery & Services
+
+Life Sciences Tools & Pharmaceutical Services
+
+Medical Devices, Diagnostics and Technology
+
+Industrial
+
+Aerospace & Defense
+
+Chemical & Process Industries
+
+Energy
+
+Machinery & Industrial Technology
+
+Mining & Metals
+
+Mobility & Automotive
+
+Public & Social Sector
+
+Arts, Culture & Sports
+
+Economic, Social & Human Development
+
+Education & Research
+
+Environment & Sustainability
+
+Interest Representation & Public Affairs
+
+Public Administration
+
+Public Finance
+
+Public Health
+
+Public Infrastructure
+
+Services
+
+Air Transport
+
+Business Services
+
+Hospitality, Travel & Leisure
+
+Professional Services
+
+Real Estate Services
+
+Transportation & Logistics
+
+Technology & AI
+
+Artificial Intelligence
+
+Communications & Connectivity
+
+Cyber Security
+
+Digital
+
+Enterprise Tech
+
+Internet of Things
+
+Semiconductors
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+Functions
+
+Industries
+
+Meet our Consultants
+
+Discover Insights
+
+Find Offices
+
+About Us
+
+English
+
+Change
+
+Functions
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Industries
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+About Us
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+English
+
+Deutsch
+
+中文
+
+日本語
+
+Technology & AIYour Cyber Security Team: More Than Just the CISO
+
+How the C-suite and Board can partner with the CISO to create stronger, more resilient organizations.
+
+October 2019
+
+6 mins read
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+With the rise of the sharing economy, data ubiquity and power decentralization, companies today need a team — not just a Chief Information Security Officer (CISO) — to tackle the sizable challenges of managing information security. Egon Zehnder recently brought together 11 executives on the front lines of cybersecurity — General Counsels, CIOs and CTOs — to share their insights and experiences across consumer, industrial, financial services, technology and hospitality industries. The event was hosted by Sean Duca, CISO of Palo Alto Networks and Selena LaCroix, Egon Zehnder’s Global Leader of Tech & Communication Practice. The discussions focused on the following themes:
+
+Cybersecurity: Four Ways of Coping
+
+The discussion began with Duca sharing four common strategic responses companies could adopt when faced with risks:
+
+Avoidance: For activities with a high likelihood of loss and large financial impact, the best response is to avoid the activity.
+
+Transfer: For activities with a low probability of occurring, but with substantial positive impact, the best response is to transfer a portion or all of the risk to a third party by purchasing insurances or entering into partnerships.
+
+Acceptance: If the cost-benefit analysis determines the cost to mitigate the risk is higher than cost to bear the risk, then the best response is to accept and continually monitor the risk.
+
+Mitigation: For activities with a high likelihood of occurring but with relatively small impact, the best response is to use management control systems to reduce the risk of potential loss.
+
+These responses apply to the cybersecurity threat – a risk factor that companies nowadays cannot afford to ignore. It is obvious that the simplistic act of avoiding all online activities will put companies at a huge disadvantage, Duca explains, as interconnectivity and fluent communication is crucial in today’s business environment. In order to manage cyber risks with a good balance of safety and efficiency, organizations should start with a General Threat Risk Assessment. The assessment is used to identify your most important data and devices, how a hacker could gain access, what are the possible consequences if your data fall into the wrong hands and how vulnerable you are as a target. This assessment can be conducted within the company’s IT department, as well as with a certified third party who can guide you through the process and provide a monitoring service for a fee.
+
+It is understandable that in certain business set-ups, such as start-ups, or during rapid business expansion, cybersecurity may be a lower priority on the risk management checklist. However, regardless of special circumstances, it is still essential for business leaders to evaluate the core business and to understand what potential risks could affect the whole infrastructure or business reputation should a breach occur.
+
+Visibility within the Organization
+
+LaCroix notes that in order to effectively cope with cyber threats, companies need to be aware of the CISO role and especially how this role is positioned within the organization structure. Traditionally in most organizations, the CISO reports to the CIO. However, as cybersecurity risk management has emerged as a top priority, the question of where the CISO should sit within the organization has risen to the top of the agenda for many companies. In Fortune 500 corporations, just under 20 percent of CIOs report directly to the CEO, which is still a small proportion. And in practice, CISOs will usually have more than a single reporting line, leading to a number of variations where formal and informal authority has to be combined.
+
+LaCroix added some additional insights based on years of legal practice, both on the consulting and on the corporate side, about recent trends of the CISO role, observed in global organizations:
+
+More companies have set up their own CISO role, which usually sits under the CIO, General Counsel or sometimes CFO.
+
+An increasing number of organizations have their CISO officers report directly to the CEO.
+
+More and more Boards want to hear directly from their CISOs, which is managed either through adding board members with an IT/security background or having the CISOs reporting to the board. The recent New York Cybersecurity Regulations, as a matter of fact, require at least one qualified individual to act as the CISO and to present a written report to the board of directors at least on an annual basis. While this regulation is at the state level, its impact is broader. Nearly every institution that needs a license from the New York Department of Financial Services (e.g., credit unions, insurance companies, banks, mortgage brokers) is covered by the regulation.
+
+CISOs today should be understood as more than overseeing just technology or security. They have become business leaders who are helping to ensure and safeguard confidentiality, integrity, and the security of a company’s critical assets. It is crucial for companies to set up their organizations in a way that could utilize this transformation.
+
+Nurturing a Corporate Cybersecurity Culture
+
+Apart from having the right organizational structure attendees agreed that companies need to have a cyber-threat-aware company culture, though this crucial factor is often ignored. No matter how advanced your security firewall is, everything will be in vain if an employee clicks on a phishing scam and gives access to attackers without even realizing it.
+
+The key to ensure cybersecurity in an organization comes down to each individual employee, and the tone from the top plays a crucial role in ensuring that awareness. Regular training and seminars are all helpful, as well as setting up an effective internal organization and response system where employees could resort once they feel a potential threat. Yitu Tech, a Chinese start-up focused on AI technology, for example, has set up a full-time security team as well as an internal security committee that holds weekly meetings to discuss security issues.
+
+Voicing the Risks in a Business Context
+
+Another critical challenge for CISOs, CIOs and other cybersecurity experts that attendees mentioned is how to effectively communicate with the top decision-makers and the Board. Frequent use of jargon and technical terms could cause confusion for people without an IT background and jeopardize the possibility of them giving funding and support to the security team. For CISOs to master the communication in the business context, a high level of soft skills, patience, enthusiasm and influencing skills are all required.
+
+Egon Zehnder has built our global track record in Cybersecurity/CISO through 65+ searches for cyber-related roles in the last 2 years. Based on these experiences, we witnessed a trend where CISOs, who previously had been perceived as the “racks and stacks” people si ing behind the desk with their security systems, are increasingly requested to come out from the shadows and stand in front of the Board. While this might not have been a regular task for all CISOs, there are three basic steps they can take that can lead to success:
+
+The first step is to be a good listener and to understand the priorities and needs of the business. Then explain specifically how a potential threat could negatively impact the core of the business and its following consequences. This will make people feel that you are not there just to pose problems, but that you have their interest at heart and you can be part of the solution.
+
+The second step is to use more business terms rather than technical terms during the conversation. Keywords such as cost, revenue, ROI, efficiency and customer satisfaction all ring a bell to business executives.
+
+Finally, CISOs will want to foster closer communications with their business peers by starting with the CEOs or CIOs, with whom the dialogue about security is already been taking place. CISOs can look at what they need to do differently to be more effective in those conversations, seeking and accepting feedback on what works and what does not. Developing influencing skills are critical for their success.
+
+Special thanks to May Xu for her research contributions to this report.
+
+Topics Related to this Article
+
+CyberSecurity
+
+Leadership
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Written by
+
+Stay up to date with our latest insights.
+
+Subscribe now
+
+Changing language
+
+You are switching to an alternate language version of the Egon Zehnder website. The page you are currently on does not have a translated version. If you continue, you will be taken to the alternate language home page.
+
+Continue to the                 website
+
+Back to top

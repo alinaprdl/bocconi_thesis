@@ -1,0 +1,238 @@
+Finance function focus: How chief tax officers are rewriting the role of tax | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Finance function focus: How chief tax officers are rewriting the role of tax
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Financial Officers Finance function focus: How chief tax officers are rewriting the role of tax
+
+The modern chief tax officer is part strategist, part operator, and part talent builder—rewriting the tax function for a more complex, capital-conscious era.
+June 25, 2026
+
+Henry Bartlett ,
+Matthew Kirby
+
+In recent years, the tax function has undergone a quiet but profound transformation in many of the largest companies across the United States. Chief tax officers (CTOs) describe a world in which tax has moved well beyond compliance and reporting into the center of strategic decision-making—helping to shape capital deployment, M&A, supply chain, and ultimately, shareholder value.
+
+To understand what this means for tax officers and their functions, we spoke with 15 CTOs who have worked at Fortune 500 organizations. Their experiences point to a new mandate in which tax leaders are assessed not only on technical accuracy, but also on how they unlock cash, inform capital allocation, and anticipate regulatory risk.
+
+This article explores how that mandate is reshaping the CTO role, tax department operating models, and the capabilities required of the next generation of tax leaders.
+
+Download the insight
+
+The CTO as a business strategist and leader
+
+The leaders we spoke with were unanimous: tax is now expected to be a strategic partner to the organization’s key decision-makers, not just an effective function. In many organizations, major decisions simply do not move forward until tax has weighed in. Whether evaluating acquisitions, structuring divestitures, redesigning supply chains, or planning other cash deployment such as share repurchases, tax is being brought in at the inception of the discussion—not as an after the fact checker of the numbers.
+
+In turn, this has created new priorities for CTOs’ knowledge and reputation within companies. A CTO of a financial technology company stated, “You should be seen as a business leader who is in tax, versus just the tax leader.” Another leader of a healthcare solutions entity commented, “Tools and data are important—but at the end of the day, you need to be in sync with the strategic plan. If you are not aligned with the strategic plan, how can you be a strategic contributor?”
+
+To operate effectively at this level, the CTO must be viewed as a trusted partner by other organizational leaders. Being proactive in forming and maintaining relationships across the company is the key. The CTO of a global chemicals company shared, “If you are not getting in front of the business early and often, and proactively scheduling touch bases and other meetings, you are missing opportunities.” And another commented, “Tax is often a receiver of information. If you don’t have the relationships and if you are not proactive, you will be a play behind.”
+
+Several CTOs shared that many organizations have shifted the metrics for measuring their tax obligation—a seemingly minor change that has driven tax’s evolution into a more strategic function. For years, effective tax rate (ETR) dominated the conversation. Today, while ETR is still a focus point, many leaders say boards and CFOs are increasingly focused on cash tax and its direct impact on liquidity, internal rate of return (IRR), and the ability to reinvest. In an environment of macro volatility and tighter capital, the question is less of, “What is the rate?” and more of, “How does tax planning support our cash and growth agenda?”
+
+A broader remit and deeper business integration
+
+The most effective tax functions are those that translate technical rules into business outcomes and speak the language of operators, not just of the tax code.
+
+As tax becomes more strategic, the remit of the CTO often expands. Many CTOs now have formal or informal responsibility for adjacent areas such as treasury, real estate, global trade compliance, and government affairs, among other functions.1
+
+CTOs we spoke with largely welcomed the change, seeing these additions as a natural extension of tax’s unique vantage point across capital structure, legal entities, regulation, and risk. When tax and treasury are aligned, for example, companies can better optimize where cash sits, how it moves, and how capital is returned to shareholders.
+
+Tax leaders should embrace their cross-functional oversight as a comparative advantage within the organization—as one tax leader for a global pharmaceutical business commented, “Tax is one of the few functions that sees everything end to end.”
+
+At the same time, tax is becoming more intentionally embedded in day to day business operations.
+
+Several CTOs described how they ensure that tax points of contact are aligned with regional CFOs, business unit heads, and dedicated deal teams. Others highlighted regular touchpoints with supply chain, R&D, procurement, and M&A as effective ways to “stay in the room” as decisions are formed, rather than being limited to reacting after the fact. One tax leader from a consumer products company commented, “The walls of the tax function can’t be your boundary. Either formally or informally, the chief tax officer should have a broader perspective and support across functions.”
+CTOs uniformly stressed that the most effective tax functions are those that translate technical rules into business outcomes and speak the language of operators, not just of the tax code.
+
+New operating models and cost pressures on departments
+
+Rethinking how tax departments are structured and resourced lies behind tax’s strategic evolution—especially in a volatile environment where all corporate functions are under cost scrutiny.
+CTOs consistently cited three pressures: rising complexity, persistent cost constraints, and a talent market where high-caliber tax professionals are in short supply. In response, many organizations are moving from a purely in house model toward cosourcing–outsourcing repeatable compliance, data, and “blocking-and-tackling” work while keeping planning, modeling, and other value-add efforts in-house.
+
+This hybrid approach is not just about cost. Leaders emphasized flexibility—being able to scale support up and down, tap into specialized expertise, and avoid whiplash hiring and layoffs through cycles. Interim talent can also play an important role in this model. Used strategically, interim leaders and experts can help tax functions bridge unexpected gaps, bring in targeted expertise at necessary moments, and ease the burden on internal teams while roles are being filled or priorities are changing.2
+
+Technology, especially AI and advanced tax data tools, is the other key lever cited by CTOs. While usage is still uneven, several of them stressed that tax and finance leaders have looked to new technology to automate routine tasks, freeing their teams to focus on higher-value, forward-looking work. An experienced CTO commented, “By focusing the department on truly value add work, employees are more engaged and can clearly see the impact they have. This, in turn, serves as a powerful retention tool for top talent, who both feel, and are, genuinely appreciated.”
+
+The message from CTOs is clear: tomorrow’s effective tax department will excel by blending internal expertise, external partners, and intelligent technology into a single operating ecosystem.
+
+Advice for the next generation of tax leaders
+
+Building trust
+“Walk the halls. Meet people. You will learn early, listen well, build a network. Don’t be the tax person who is only known via email.”
+Chief Tax Officer at a Fortune 500 organization
+
+Perhaps the most striking theme from these conversations is how extensively a successful CTO’s profile is changing. Technical excellence and a strong foundational skill set remain non negotiable. But at the Fortune 500 level, these capabilities are no longer sufficient to secure or succeed in the top job. The true differentiators are leadership, communication, and business acumen.
+
+When asked for advice for the next generation of tax leaders, many CTOs encouraged them to build a deep specialty early in their careers—to be truly “best in class” in an area of tax—and then to broaden out across regions and specialties within tax. They encouraged aspiring leaders to say “yes” to stretch assignments, volunteer for cross functional projects, and learn their companies “inside and out.” The modern tax leader must be able to explain complex issues simply, read the room, understand other functions’ perspectives, and consistently frame tax in terms of strategy, risk, and performance.
+
+Soft skills surfaced repeatedly in our conversations. CTOs stressed being able to build trust with peers, the C suite, and the board; communicate succinctly; and be seen as a business leader who happens to sit in tax—not a technical expert on the sidelines. One CTO shared that ascending tax leaders should “Walk the halls. Meet people. You will learn early, listen well, build a network. Don’t be the tax person who is only known via email.”
+
+The CTOs we spoke with also highlighted the importance of team-building. They advised future leaders to surround themselves with top technical talent, empower regional and subject-matter experts, and create cultures where tax professionals feel they are directly contributing to enterprise value. “You need to be technically strong, but ultimately the key is to ensure you have the right expertise on the team, and to then operate as a business leader,” said one CTO from the automotive space.
+
+For the next generation of tax leaders, the opportunity—and the expectation—is to step into that broader mandate.
+
+A modern tax function
+
+A special thanks to the 15 CTOs who participated in this discussion:
+
+• Rob Westreich, Newell Brands
+• Christian Pirozek, Corteva Agriscience
+• Alex Peng, Emerson Electric
+• Wayne Monfries, Visa
+• Arielle Krause, Avantor
+• Kevin Conway, Cencora
+• Michael Rainerman, Viatris
+• Ronnie Berry, Celanese
+• Paul Nolan, McCormick
+• Kim Butler, former Fortune Brands
+• Marina Solovey, Genpact
+• Jed Larkin, Moderna
+• Terry Hill, BorgWarner
+• Jenna Myszak, Amrize
+• Heather Hudak, Alcoa
+
+Taken together, these perspectives suggest that tax in large companies is at an inflection point. When CFOs consider what to look for in a new CTO, technical skills are essential, but so are softer skills: the ability to lead, communicate effectively, think strategically, and demonstrate broad, cross functional curiosity and knowledge. The function is more visible, more accountable, and more influential than ever before.
+
+For CTOs and aspiring tax leaders, the imperative is to claim that seat at the table—investing in influence, business fluency, and teams that can convert complex tax rules into strategic choices.
+
+For boards, CEOs, and CFOs, the opportunity is to treat tax not as an afterthought, but as a strategic consideration in its own right, with the CTO embedded early in decisions that will define long term performance.
+
+For organizations willing to invest in strategic leadership and modern operating models, tax is no longer just a cost to be managed—the tax function can, and should, be used to help shape the company’s future.
+
+About the authors
+
+Henry Bartlett (hbartlett@heidrick.com) is a partner in the global Financial Officers Practice; he is based in the Philadelphia office.
+
+Matthew Kirby (mkirby@heidrick.com) is an associate in the global Financial Officers Practice; he is based in the New York office.
+
+References
+
+1 For more insights on how to optimize the government affairs function, see Julian Ha, “Government and corporate affairs focus: Four non-negotiable attributes for government affairs leaders,” Heidrick & Struggles, December 3, 2025, heidrick.com.
+
+2 For more insights on using on-demand and interim talent to fill capability gaps, see Sunny Ackerman, “Leadership assurance: Using flexible workforce strategies to fill leadership and capability gaps,” Heidrick & Struggles, April 7, 2026, heidrick.com.
+
+Related Services & Industries
+
+Corporate Transformation
+
+Executive Assessment
+
+Financial Officers
+
+Leadership Development
+
+Organization & Culture
+
+Related Content
+
+Financial Officers
+
+Crypto and digital assets focus: Finding the right leaders for a maturing sector
+
+Crypto is a high-stakes market, and competition for capital, customers, and talent is brutal. Crypto companies should look for four crucial capabilities in their leaders.
+
+Compensation Trends
+
+2025 Private Equity-Backed Chief Financial Officer Compensation Survey
+
+Explore data from private equity professionals in North America and Europe on organizational structure and compensation for this critical role.
+
+Financial Officers
+
+Driving organizational transformation in family-owned businesses: A conversation with Björn Lahm, CFO of Harting Technology Group
+
+Björn Lahm shares how he maintains culture and aligns goals with values within a family-owned business.
+
+Financial Officers
+
+Leadership perspectives: Insights from Alison Henwood, Chair of the Audit Committee of Umicore
+
+In this video, Alison Henwood, Independent Non-Executive Director, Chair of the Audit Committee of Umicore, shares insights into the ideal audit chair-CFO relationship, and the leadership capabilities required for mutual success.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

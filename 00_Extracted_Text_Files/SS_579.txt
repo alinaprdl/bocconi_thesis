@@ -1,0 +1,186 @@
+Data leadership: Defining the expertise your organization needs
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Data leadership: Defining the expertise your organization needs
+
+By
+
+Charlie Stack and
+
+Edward M. Stadolnik
+
+November 2018
+
+| 5 min read
+
+Authors
+
+Charlie Stack
+
+New York
+
+Edward M. Stadolnik
+
+Chicago
+
+The world of data and analytics is evolving at a pace
+unseen in recent memory, with major talent implications
+for organizations. Digital innovation is sweeping across
+industries and creating opportunities for companies to
+leverage data as a source of competitive advantage.
+
+Given this tectonic shift, conversations in the C-suite and the
+boardroom regarding data and analytics have also pivoted.
+
+Five years ago, it was “every man for himself,” with most organizations
+still delegating data management to the IT organization, while analytics
+lived separately in silos throughout the product, marketing, risk and
+finance functions.
+
+Two to three years ago, the focus began to shift, as organizations
+started taking a more centralized approach to data management and
+analytics tools. The imperative moved to quality, consistency and
+business intelligence.
+
+In today’s more mobile and digital world, leading businesses recognize
+the value of data as an asset, and are leveraging new technologies and
+business models to generate insights and deliver customer value, thereby
+monetizing data in real time.
+
+The term “big data” only scratches the surface of what’s possible with data and analytics for most organizations.
+While it may be tempting to assume that appointing a chief data or analytics officer will solve every data problem
+for the business, the reality is that most companies will need to assemble a leadership team with a variety of
+nuanced skills and areas of focus in order to thrive in the new data-driven world. A recent McKinsey & Co. survey
+revealed that, among lower-performing organizations, the most significant obstacle to achieving data effectiveness
+is designing the right organizational structure. High-performing companies, meanwhile, have moved faster to
+engage business leaders in data/analytics activities as the key to unlocking value. (“The Need to Lead in Data
+and Analytics,” McKinsey, April 2016).
+
+These survey results underscore the need to have highly engaging, evangelizing leaders driving your data agenda,
+and also to be thoughtful about assembling a data team configured to serve your specific corporate agenda.
+Through our work with many leading organizations, Spencer Stuart has observed that there is no one-size-fits-all
+approach to hiring data and analytics executives. However, conversations with clients about their business priorities
+and leadership needs reveal several consistent themes and considerations for recruiting senior data talent.
+
+Defining the need: key data roles and responsibilities
+
+Four primary leadership profiles have emerged within the senior-level data and analytics talent
+pool, each with distinct responsibilities, backgrounds and market realities. When hiring senior
+data talent, then, understanding your organization’s strategic opportunities and current capabilities
+is an important first step in defining the specific leadership need — and an essential one for
+the success of the role and data initiatives.
+
+Chief Data Officer
+
+Gartner predicts that more than 90 percent of large companies will have hired a chief data officer
+(CDO) by 2019. But not all
+CDO roles are created equal, and we find many organizations assigning the title without allocating
+the resources or responsibilities necessary to make this person successful.
+
+No matter how you choose to structure the role, by appointing a CDO, you are saying: “This
+person is the senior-most data strategist and evangelist for our organization.” A true CDO
+should chair an enterprise data council that includes key business owners, the CFO, risk and
+legal, and establishes enterprise data policy and governance along with a consistent communications
+plan and strategy. This leader should own responsibility for data governance, definition,
+standards, strategy, controls, architecture, tools and technology, which are easily centralized.
+At larger, more complex companies, the CDO must use influence and collaboration skills to
+deliver business intelligence, third-party oversight, reporting capabilities and advanced analytics
+for business use. When evaluating opportunities, effective CDOs are less concerned about
+ownership of data initiatives than how they will add value to the business and whether they have
+the sponsorship of key business leaders. They want to know, harkening back to the McKinsey
+study, whether the business leaders are engaged, or removed from, the need to drive value
+through data. The CDO frequently is focused on the business value of data and reports into
+the CEO, leveraging the more technical skill-sets of data scientists, analysts and managers.
+
+Data Science
+
+Of all the talent markets within the data and analytics field, data scientists continue to be shrouded
+in a bit of mystery. Traditionally called data engineers, mathematicians or statisticians, these highly
+technical leaders create the underlying, highly advanced logic that enables many data solutions.
+Organizations typically seek a head of data science as they look to drive complex data products
+and solutions to the market, such as connected “smart” devices, and leverage predictive
+analytics to create more profitable, consumer-aligned services. These executives work closely
+with engineering and technology teams in the development of algorithms and the application
+of artificial intelligence, machine learning and advanced predictive modeling and analytics. They
+often report to the chief technology officer (CTO) or the head of product or marketing. The most
+successful data science leaders are able to bring extreme currency in terms of technical skills along
+with the ability to lead teams and help to set product strategies. They want to work on the most
+advanced, cutting-edge projects and will be drawn to opportunities where their research lives
+directly in the product.
+
+Analytics
+
+Organizations have been focused for years on analyzing data
+to help drive business outcomes. From the emergence of
+“business intelligence” a decade ago, analytics has evolved
+rapidly across industries. No longer content to leverage
+historical data to drive insights for the business, leading-edge
+companies have embraced machine learning and sophisticated
+data technologies, which serve as the backbone of true predictive
+analytics. With this evolution, many who began their
+careers in marketing analytics, operations and supply chain
+research and financial analytics have evolved into true enterprise
+analytics executives. The strongest analytics leaders
+integrate real-time data from a variety of sources to both raise
+the right questions and then find the answers in response rates
+measured in milliseconds. With this sophistication has come
+the rise of chief analytics officers and senior vice presidents
+of analytics, many reporting to the CEO and often called to
+engage directly with the board. The candidate pool for analytics
+leaders tends to be the broadest and least technical.
+
+Data Management
+
+As the technology tools and capabilities supporting advanced
+data acquisition, storage, mining, quality and analysis advance,
+it is critical to have a technology leader who is focused on
+maintaining the environment in which these capabilities will
+live, architecting the data warehouse, establishing technical
+standards and implementing tools. Your data management
+leader is responsible for this essential “plumbing” of your data
+infrastructure. Often this individual will report to both the chief
+information officer and the chief data officer, helping to bridge
+the gap between the data agenda and the technology agenda.
+When they have a strong executive in this role, some organizations
+are tempted to give them responsibility for their overall
+data agenda. This is a mistake. Without a seat at the executive
+committee, the data leader is unlikely to have the mandate,
+influence or exposure to the business to advance
+a real data agenda.
+
+Conclusion
+
+When venturing outside your organization to evaluate data leadership, especially for the
+first time, a critical initial step for defining the expertise your company needs is to understand
+the strategic opportunities and current capabilities of the business. Approaching
+searches in this space flexibly and with an open mind toward discovering leaders who will
+be able to unlock latent value in your enterprise tends to yield the best results.
+
+Additionally, keep in mind that the best talent in this space is more transient and tends
+to view employment differently than leaders in other disciplines. This can be OK. The
+right data leader can add a great deal of value in several years, and may only be relevant
+for part of your longer journey anyway.
+
+View the journey toward data optimization as an ongoing, iterative process, during which
+you will learn and make progress only by taking measured, manageable risks. The best
+data-driven leaders already view the world this way and they will help you craft a more
+nimble, agile business.
+
+Download
+
+Download
+
+Authors
+
+Charlie Stack
+
+New York
+
+Edward M. Stadolnik
+
+Chicago

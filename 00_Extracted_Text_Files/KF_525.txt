@@ -1,0 +1,120 @@
+Data Centers: An Industry in Transition
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Perspective|May 5, 2025
+
+Data Centers: An Industry in Transition
+
+The surge in demand for AI-driven computing power has sparked a data-center construction boom. But is there enough leadership—and the right kind—to support this next wave of growth?
+
+The problem: The data-center market is booming, and the industry is having trouble developing internal leadership to keep pace.
+
+Why it matters: The cost, complexity, and scale of the modern data centers needed for AI computing have created a leadership challenge never before seen in the industry.
+
+The solution: Expand talent pools to include adjacent or outside industries and emphasize critical skills instead of experience when building leadership teams.
+
+The mandate was clear: It was early 2023, generative AI had upended the entire business world, and leaders at London-based Pure Data Centres Group (Pure DC) knew the industry was on the cusp of exploding. Fortunes were there to be made, depending on the bets they placed now. Two years earlier, Pure DC had hired an outsider, Dame Dawn Childs, as COO, and now, during this critical period, she was going to lead the company as CEO.
+
+“When I arrived as COO in 2021, we were building our first hyperscale data center, and I had never seen one before,” says Childs.
+
+While data centers were new to Childs, leading firms through change in intense environments wasn’t. An engineer by trade, she served in the Royal Air Force and led transformations at London’s Gatwick Airport and National Grid. She could speak the language of engineers, stand her ground when dealing with stakeholders, and handle disruption, among other things. She was exactly the person Pure DC needed to navigate the newly forming data-center landscape—the perfect blend of insider and outsider.
+
+Our ever-increasing need for computing power is fueling a data-center building boom. Everything in our digital lives, from posting videos on social media to moving money between bank accounts to accessing our health records, depends on the transferring, processing, and storing of data in these centers. And with the arrival of generative AI, they are undergoing massive growth and transformation. Globally, about 10,000 data centers are operating today, and that figure is projected to double in the next five years. Once thought of as small, dank basements crammed with racks of servers, today’s data centers are massive complexes the size of several football fields and cost billions of dollars to construct and maintain. According to the Boston Consulting Group, spending on data centers will reach $1.8 trillion by 2030. Over that time span, revenue is expected to nearly double, from $213 billion today to $406 billion. “The money coming into—and that stands to be made from—data centers is unprecedented,” says Tim Walton, head of digital infrastructure for Korn Ferry in EMEA.
+
+“Data centers are unique beasts.”
+
+When it comes to investments, however, nothing is a sure thing, even with today’s great thirst for the kind of data that will service AI. For starters, the energy required to power data centers is enormous, so much so that there may not be enough of it in critical areas of development. Same goes for access to water and other cooling agents needed to reduce the heat that servers generate and keep humidity optimal for performance. Compliance with shifting regulations is another challenge. As in the housing market, there is also a risk of overbuilding.
+
+All of which makes it critical to get the right leadership and management team in place. Against that backdrop, Walton says, bringing Childs into Pure DC wasn't such an odd decision. In fact, going outside the industry for leaders is less an anomaly and more of a trend, he says. The scale, cost, and complexity of modern data centers is so enormous, and the growth is happening so fast, that there simply aren’t enough leaders within the industry to keep up. “Data centers are unique beasts, and you have to look for more than experience to find the right leader,” says Walton.
+
+* * * * *
+
+More than three decades ago, when Peter Curtis, founder of PMC Group—a critical-infrastructure consulting and technology firm—started working on designing and overseeing data centers, the biggest facilities ranged from 20,000 to 100,000 square feet and required from 10 to 50 megawatts of energy to run, which is enough to supply power to between 2,000 and 7,000 homes. Today, however, smaller data centers average 100,000 square feet; it’s not uncommon for them to reach one million square feet or more. In terms of power, 200 megawatts, or enough energy for between 40,000 and 100,000 homes, is considered to be relatively meager—facilities currently under construction will have enough capacity for one gigawatt (i.e., 1,000 megawatts of power) or more. “The power needs are very different,” says Curtis. “Utility grids aren’t built to sustain the level of usage and demand we are going to need.”
+
+The size and power required for today’s data centers underscore the tech industry’s evolution from so-called classical computing to cloud computing, AI, and, in the not-too-distant future, quantum. To be sure, it’s estimated that power consumed by data centers will double or triple by 2030, from roughly 4% of all US electricity today to 10% or more. While alternative-energy sources, such as wind and solar, can generate power and reduce carbon emissions, experts are skeptical that they will ever be reliable or powerful enough to fully replace traditional energy supplies, let alone run a data center on their own. Some firms, including the big tech players, plan to use (or are exploring using) nuclear power in the new data centers they’re building. Power scarcity, combined with the scale and scope of new data centers, comes with a cost—and a hefty one at that. Building a large-scale data center can cost anywhere from $250 million to more than $3 billion. Some big tech and private-equity firms are spending upwards of $10 billion to build huge data campuses. Tariffs, supply-chain disruption, and other factors can drive the costs up even further.
+
+“Utility grids aren't built to sustain the level of usage we are going to need.”
+
+These changing dynamics are altering the investment calculus on data centers—no longer a simple real estate play in which power usage is secondary, this kind of facility has become a complex and critical infrastructure investment, says Jerry Upright, a senior client partner and US co-head of energy and infrastructure at Korn Ferry. There are numerous kinds of data centers, each one designed for specific purposes, but the two most common are enterprise owned and colocation. The first era of data centers was dominated by companies, like the big tech players, that built and managed them on-site for their own businesses. If these were the data-center equivalent of single-family homes, colocation facilities are more like apartment complexes, with tenants renting out server space from the landlord (a growing group of firms that includes Equinix, Digital Realty, Pure DC, Iron Mountain, and dozens more). The value of these centers is in the tenants—the closer you are to clients and customers, the faster you can reach them. Leadership and talent play a critical part here, says Upright, ensuring that each center has the right mix of vendors to deliver scalability and energy efficiency while keeping costs down.
+
+As firms have entered the sector, gobbled up prime property (densely populated areas with access to power and water, proximity to major international corporations, and more), and invested in data centers, the right combination—of location, power, talent, and other factors—has become increasingly important. And with big tech companies, private-equity firms, government agencies, and others all in a mad rush to secure development agreements, leaders are under a lot of pressure to make the correct calculations and assumptions. Otherwise, billions of dollars could be lost.
+
+To be sure, while colocation has been a financial boon to data center operators, history provides a cautionary tale. During the first dot-com wave, some operators of colocation facilities bet heavily on an explosion in internet traffic, only to declare bankruptcy, or narrowly avoid it, when their customers went belly-up and couldn’t pay their rent. “As those companies crashed, it trickled down to data-center operators,” says Bill Stein, executive managing director and chief investment officer at data-center investment platform Primary Digital Infrastructure.
+
+*****
+
+While no one thinks that this kind of catastrophe will be repeated, the specter of the past looms large, if only because data-center leaders can’t precisely gauge their future customer needs. Put another way, they don’t know how much time we’ll be spending online in 2030 (though it’s likely to be more than it is today). “People think of data centers as real estate,” says Stein. “But operationally, they are intense and complex, and much more like tech.”
+
+The problem is that data-center operators have historically looked to traditional talent pools, such as technology, finance, and even real estate, to recruit leaders. As more firms enter the sector and established ones grow into ever-larger global networks, those pools will be too shallow to meet future leadership demand, says Korn Ferry’s Walton. “These businesses are critical infrastructure,” he points out. He believes operators will have to look outside traditional sectors to find the leadership they need to scale data centers and stay ahead of a fast-moving market—but not so far ahead that they outrun it: “The industry needs fewer tactical leaders and more strategic leaders who can operate at scale.”
+
+It’s already starting to happen. Korn Ferry’s Upright says clients are broadening leadership searches to include industries like aviation, energy, telecommunications, consulting, and more. “Clients are getting more open to the notion that leaders aren’t going to fit the mold they are used to,” he says.
+
+“The industry needs fewer tactical leaders and more strategic leaders who can operate at scale.”
+
+Firms are also putting greater emphasis on building succession pipelines via training and development programs. Last year, one private-equity firm launched a school devoted to training candidates for data-center positions. Other initiatives aim to identify potential leadership talent at the director and manager level, and enhance and expand rewards and incentives to recruit and retain top talent. But even with those initiatives, the internal pipeline will barely offset the number of leaders retiring or leaving the business for other reasons. According to a study by digital-infrastructure firm the Uptime Institute, data-center operators will lose half of their current workforce to retirement within the next few years. Christopher Kimm, senior vice president of global customer care and experience at Equinix, says his firm, like many others, is focusing more on skills than experience in hiring. “It used to be that you needed at least four or five years of experience to work here,” he says, “but we no longer have that approach.” He observes that the proper mix of technical, strategic, leadership, and other skills—even if they are from an entirely different sector or industry—is critical now: “As long as the skills are transferrable, we can teach them how to run a facility.”
+
+* * * * *
+
+At first, Childs didn’t see how her background connected to Pure DC’s goal. But now she understands how her “slightly strange career path” ties into the firm’s strategy and objectives. “I’m not an engineer in the technical sense,” she says. “But I’ve led big transformational projects and know how to ensure that the real engineers get what they need.”
+
+Childs not only credits Pure DC’s board with being open to bringing in an outsider, but also takes the same approach to building her own leadership team, which consists of a mix of external hires and homegrown leaders. So far, the strategy appears to be working. Pure DC grew sales by 373% over the last three years. It now has four 500-megawatt hyperscale data centers either operational or in development, including its first facility in its home city of London—enough to supply energy to more than 400,000 homes. Other locations include Ireland, Abu Dhabi, and Jakarta. “There is an art and science to getting the right mix of talent,” says Childs. “If the pendulum swings too much in one direction, it could hurt performance over time.”
+
+For more information, please contact Tim Walton at tim.walton@kornferry.com or Jerry Upright at gerald.upright@kornferry.com.
+
+Our Expert
+
+Our Experts
+
+Tim Walton
+Principal, Head of Digital Infrastructure EMEA
+
+Jerry Upright
+Senior Client Partner
+
+INSIGHTS TO YOUR INBOX
+
+Stay on top of the latest leadership news with This Week in Leadership—delivered weekly and straight to your inbox.
+
+​
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Perspectives
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

@@ -1,0 +1,129 @@
+With a Clear Strategy and Open Communication, a Software Leader Drives Sustainable Growth
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+With a Clear Strategy and Open Communication, a Software Leader Drives Sustainable Growth
+
+An Interview with Barak Eilam, CEO of NICE
+
+By
+
+Jason Hancock
+
+July 2023
+
+| 7 min read
+
+Author
+
+Jason Hancock
+
+Stamford
+
+Of the many numbers that make Barak Eilam, CEO of NICE, proud about the cloud enterprise software company’s tremendous growth over the past decade, a recent one stands out: the 22,000 separate comments left in open-field boxes by the roughly 8,000 employees in the latest company employee engagement survey. Eilam carved out time to read each and every one.
+
+“We encourage people to put in as many comments as possible, and my commitment is to read every single one,” Eilam said. “People actually want to share comments, complaints, opinions — and feel safe sharing their feedback.”
+
+The company’s above-average engagement scores highlight the robust corporate culture that has helped Eilam lead NICE, a pioneer in AI-powered customer service solutions, to its position as Israel’s most valuable company by market capitalization.
+
+Spencer Stuart’s Jason Hancock recently sat down with Eilam to learn about what drives him and his company’s success. In the conversation below, edited for brevity, Eilam discusses his approach to leadership, maintaining a strong culture amid change, and preparing for AI.
+
+Jason Hancock:
+What are the important elements of how you lead and inspire your organization?
+
+Barak Eilam:
+I'm a strong believer that everything starts with a very clear strategy. For me, it’s quite simple: Where do we want to be as a company five years from now? Of course, you do this vis-à-vis today’s market — you don't build a strategy in a vacuum. But the important thing is to begin with the departure point, which is today, and the desired end point five years from now. Then you identify what you have to execute on to get from point A to point B. Many companies fail on this very specific thing: having a tangible strategy to get you to an end result. But I believe that’s where it all starts.
+
+Then you have to make sure there is no disconnect between the strategy and the execution. You don’t start executing on a strategy a year from now. You start today, and you outline all of the hundreds of decisions you as the executive and the organization as a whole will need to make in the context of the strategy.
+
+The strategy has to be easily digestible for all stakeholders internally and externally. You need to make sure everyone is excited and passionate about the strategy.
+
+At NICE, the strategy is translated into very specific objectives for every single one of our 8,000 employees. I spend a lot of time making sure that every employee, new or existing, understands the strategy and knows how their work contributes to it. If you don’t do this, your people will be making only tactical and opportunistic decisions.
+
+Jason Hancock:
+How do you communicate to so many people in so many different areas? How do you make sure that there’s a consistent message?
+
+Barak Eilam:
+We are rigid about making sure there are no more than eight layers between myself and the most junior employee in the company. It’s not as easy as it sounds. As you acquire companies and you’re up to 8,000 people, how do you maintain those eight layers? But it’s important: eight layers gives you the right span of control; any more than that and you start to muddy the message.
+
+Quote
+
+Enterprises can’t just take a technology like ChatGPT and start using it. It has to be highly secure. It needs 100 percent compliance precision. It must be brand-aligned. It has to connect to back-end systems. Efforts are under way now ... to take these steps, because AI offers an amazing value proposition.”
+
+The other important area is translating the strategy through the managers to the actual objectives of the individuals. Every year the strategy is translated to a bank of objectives — not generic ones, but rather ones connected to a specific vector of the strategy. Every employee has a discussion with their manager on their individual objectives and exactly what their impact is on that element of the strategy.
+
+And then of course you need strong communication — consistent messaging and the right language in town halls and other places. But that's more of the unofficial part; the structure itself is key. It’s a long process; it takes energy. But I’ve found it’s the best way to make sure things are not lost in translation.
+
+Jason Hancock:
+Your people on the front line, do they have the opportunity to communicate that they’re clear on what the strategy is and their role in it?
+
+Barak Eilam:
+First of all, in all of the town halls that I or our managers do, we make sure that about a third of the meeting is dedicated in an “unplugged” kind of way for questions. We also enable people to ask questions anonymously if they’re more comfortable with that.
+
+I get emails all the time from employees that are not shy about sharing their feelings. In town halls, I give people my mobile number and encourage them to text me during the presentation. If I can answer it in real time in front of everyone I will, otherwise I'll respond over text. The goal is to demonstrate and role model a behavior that all other managers should have.
+
+The second important element is our annual employee satisfaction survey. And with all respect to our very granular questions about satisfaction, for me the most important things in the survey are the questions about strategic clarity. Do you feel that you understand the strategy? How do you relate to it?
+
+We encourage people to put in as many comments as they see fit, and I pledge to read through every single one. These comments are so important for me to really understand how people are doing and whether they understand the strategy, and whether we need to take corrective actions. These comments are not all like, “Well done, good job, Barak.” People like to voice their different opinions, and they have complaints and different types of feedback, and I think that's awesome to have it. I very much encourage this engagement.
+
+Jason Hancock:
+You’ve had 20 acquisitions in nine years and yet you’ve also got this strong organizational culture. With that in mind, how does M&A play into your strategy? How do you decide what to build versus buy? And how do you integrate these new elements into your organization?
+
+Barak Eilam:
+People always ask me for the “recipe” for M&A. I keep telling them that there is no one recipe, but there is a playbook. Every acquisition is a different story in and of itself, and how to manage it, big or small, depends on the context of the purchase.
+
+I have a few of what I’d call golden rules about acquisitions. First, our acquisitions must be part of that five-year strategy. We do not just acquire for the sake of acquiring. We have a team that looks at the strategic framework, and they look for acquisitions that augment or accelerate the strategy. We work hard to avoid situations where we’d have to change the strategy to make an acquisition work. Unless you really need to pivot your company, then your acquisitions must, to the extent possible, be at the core of your business or in a nearby adjacency. The farther from your core, the lower the likelihood of success — even if it’s a great company you’re looking at.
+
+Second is having a very detailed due diligence process. This is not to make the acquired company’s life miserable, although diligence is not a pleasant experience. The goal is to find everything that we need to find in advance. I always say that surprises are for birthdays.
+
+And then before we actually close an acquisition we develop a play-by-play for the first 18 months — everything that needs to happen after the deal is finalized. We don’t go into this saying, “Let’s see how this plays out.” We plan everything to ensure that the first 18 months are about execution, not planning. I myself lead the steering committee of every acquisition small or big, for the first 18 months of that acquisition.
+
+Keeping a new acquisition separate or integrated depends on the acquisition. Is it a technology that you can easily integrate into your team? Is it a more remote adjacency that won’t work if you consolidate it, at least at the beginning? Ultimately, we really decide the right path based on each unique case.
+
+Jason Hancock: Artificial intelligence has been bandied about for a long time, and it’s gotten a lot of notice in the media and the general public in recent months. What is your overall view on both the positives and negatives of AI? And how is it impacting your organization?
+
+Quote
+
+I keep saying that good CEOs probably don't really have time for hobbies because being CEO really takes up most of your time. So I think I'll postpone the development of hobbies to the later part of my life.
+
+Barak Eilam: The world of tech generally has gone through different technology waves. In the 1980s we had the hardware wave. Then came software, the internet, mobile, the cloud and now AI. They are not the same, but they’re similar in that each is a platform for innovation. And in each wave we find ourselves amazed at how those platforms create a significant compound effect and accelerate innovation. In that broader context, AI is another wave, a super-wave potentially, but just the latest of several the past 35 years.
+
+The notion of trying to make a computer think and act and have some human-like cognition isn’t new. What has changed now is similar to what happened in other technology waves: individuals, not organizations, got to put their hands on it, and when they have positive experiences with it, suddenly it catches the buzz.
+
+What we’ve learned from past experience is that individual adoption is different. Enterprises can’t just take a technology like ChatGPT and start using it. It has to be highly secure. It needs 100 percent compliance precision. It must be brand-aligned. It has to connect to back-end systems.
+
+Efforts are under way now, at NICE, in our industry, in other industries, to take these steps, because AI offers an amazing value proposition. It can augment skilled labor needs that enterprises are always missing. It can increase decision velocity. It can enable mass personalization and scale for customers. We’re going to see a mad rush of enterprises seeking AI-enabled vendors to help their businesses in the right way.
+
+Our employees are already ecstatic about AI. Two years ago, we started to shift efforts toward AI because of our well-adopted platform, and because we have the data assets. We have 600 R&D engineers dedicated just to AI, and that’s not a recent change. For AI to work, having tons of historical and current information — we call them interactions — is critical to success. It’s very hard to capture that asset, and almost impossible to replicate, and we’re already more than two years into the race.
+
+Jason Hancock: What are the things that have you most excited as a leader?
+
+Barak Eilam: I've been involved in the technology sector since I was a kid. It’s not because I'm a great developer or something, but because I believe that technology is the best tool that we have to make dreams reality. If I go back to my childhood and think about the movies we watched and what we thought of as science fiction, and then look at what’s happening today and the real technologies we use, you realize that the future is becoming a reality. I'm passionate about bringing technology to places that can help humanity, help make lives easier, help focus on the good things we have in life.
+
+At the end of the day, I love what I'm doing, and I'm passionate about working with people. That’s probably the best part of my job at NICE. Being a CEO is not easy. I'm not trying to victimize or to say that I'm suffering, but it's hard, 24/7 work. Even if you're not at work, it's in your head, and a lot of responsibility rests on your shoulders. But like our employees, I like to wake up in the morning and think about innovation. I'm a very competitive person, and I like the feeling of winning. You don't win all the time, but you aspire to win. And that's what drives me.
+
+I keep saying that good CEOs probably don't really have time for hobbies because being CEO really takes up most of your time. So I think I'll postpone the development of hobbies to the later part of my life.
+
+Author
+
+Jason Hancock
+
+Stamford
+
+Related Insights
+
+For the CEO of Fast-Growing OpenText, It’s ‘Always Day One’
+
+4 min read
+
+Mark Barrenechea, CEO and CTO of OpenText, sits down with Spencer Stuart’s Jason Hancock about leading through his company’s rapid growth.
+
+‘Action and Accountability’ on the Path to Success as a CEO in Private Equity
+
+6 min read
+
+In this interview with Spencer Stuart, athenahealth CEO Bob Segert discusses his success leading five different private equity–backed companies as CEO.

@@ -1,0 +1,132 @@
+The New Pharma Playbook: Speed and Efficiency
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Perspective|April 14, 2024
+
+The New Pharma Playbook: Speed and Efficiency
+
+The pharmaceutical industry is racing to keep pace with its own transformation. Can firms move fast enough to transform how they do business?
+
+The problem: AI, precision medicine, direct-to-consumer, and other trends are upending how pharmaceutical firms do business.
+
+Why it matters: The healthcare system is heavily burdened by an aging population, lack of access to care, soaring costs, and a shortage of doctors and nurses.
+
+The solution: Pharmaceutical firms are reorienting operations to focus on speed and efficiency in development, and targeting smaller, more personalized patient and physician populations to improve care and treatment.
+
+In March 2023, Japan’s Takeda Pharmaceuticals closed a deal for the exclusive worldwide license to further develop, commercialize, and manufacture another company’s colorectal cancer drug outside China. There was nothing particularly noteworthy about the deal at the time—industry giants like Takeda regularly buy distribution rights to other companies’ drugs.
+
+What stands out is what happened after the deal closed: Just eight months later, Takeda secured FDA approval to market the cancer medication—a chemotherapy-free option for previously treated patients with metastatic colorectal cancer—in the US, where therapies for this particular cancer variant are limited. Takeda then made this new treatment available to patients within 24 hours of approval.
+
+In many ways, the deal demonstrates how the pharmaceutical industry is racing to keep pace with its own transformation. For the major players in the pharma space, the pandemic magnified and accelerated several trends that are now threatening to upend approaches to both operations and business. Among the most critical is the need for speed in securing approval for new treatments and going to market, says Ludger Schwinn, a senior client partner in the Global Life Sciences practice at Korn Ferry. “Navigating the regulatory changes and the complex maze of international laws and agencies better than your competitor could mean hundreds of millions of dollars in revenue,” says Schwinn.
+
+“We have customers along every step of the healthcare journey, and we have to get how we engage them right.”
+
+That’s where artificial intelligence and precision medicine come into play. Pharmaceutical companies are spending billions of dollars on machine learning to develop drugs and treatments for a highly targeted, ever smaller group of patients. But selling drugs for a cohort of 1,000 patients—as opposed to a cohort of millions—calls for an entirely different approach to business and operations, says Stefanie Granado, head of the oncology business unit of Takeda in the US. It calls for a relationship with patients and physicians that goes beyond the transactional. These are distinctly human skills the industry hasn’t excelled in historically—regulators and healthcare systems get most of the attention.
+
+At the same time, pharmaceutical companies are privy to the same post-pandemic trends that everyone is grappling with, among them remote work, sustainability, DEI, social impact, and talent management. “We have customers along every step of the healthcare journey,” says Granado, “and we have to get how we engage them right.”
+
+* * * * *
+
+Pharmaceutical sales used to be straightforward: Convince the physician that your drug is the right treatment option for their patients. Office visits and face time with physicians were top priority. But that model was already changing before the pandemic—and hit all at once afterward. Suddenly, with access restricted, hospitals and physicians were harder to reach.
+
+As financial pressures soared, firms also became more cost conscious. Such challenges as launch delays, securing reimbursement for insurers, and physicians not prescribing new drugs could mean the difference between making and losing tens of billions of dollars. From 2010 to 2019, 40 percent of new drug launches failed to meet goals—and that was before the pandemic.
+
+For pharmaceutical companies, this has meant reorienting sales, marketing, and medical affairs to a digital-first, direct-to-physician and -patient mindset. With access to doctors and hospitals altered, field agents are being challenged not only to identify and reach increasingly smaller pools of patients, but also to do so with the right content on the right platform at the right time. It’s a costly proposition—and while the pharmaceutical industry has always been a big advertiser, its spending has doubled since the pandemic to about $36 billion in the US alone. In ad-spending market share, pharma is at 14 percent, second only to the tech industry, and up from 7 percent in 2021. And despite blanketing television with commercials, the industry has focused most of the spending increase on digital channels. Research firm eMarketer projects spending on digital channels and content to reach nearly $20 billion this year, up from just under $16 billion in 2023.
+
+5 Trends in Pharmaceuticals
+
+Pharmaceutical-industry transformation is moving faster than ever. Here are five trends likely to accelerate in the coming years:
+
+Launch Effectiveness
+
+Smaller, more personalized launches heighten the importance of flawless go-to-market execution.
+
+AI
+
+From disease detection and drug development to sales insights and process automation, pharma is investing tens of billions in AI.
+
+Personalized Treatment
+
+Development is targeting smaller populations, rather than millions of people, and intervening earlier for preventative care.
+
+Evolving Talent
+
+To address firms’ changing needs, new roles are being created in areas such as digital, customer experience, cybersecurity, and AI and data.
+
+Social Impact
+
+Companies increasingly view initiatives such as sustainability, DEI, and community outreach as ways of attracting and retaining talent and raising awareness.
+
+More highly targeted drugs require more sophistication and precision in reaching the right groups with the right message, says Nicson White, a digital-transformation specialist and senior client partner in the Life Sciences practice at Korn Ferry. That means matching a culture of faster decision-making with up-to-the-minute insights in order to compete on relevance successfully—“a significant ask for pharma’s regulated operating environment and historical ways of working,” says White.
+
+It’s not brain surgery, pun intended. It’s a basic, data-driven, digital customer strategy. But with so much competition and so much at stake—the cost of taking a drug from development to market averages between $4 billion and $10 billion, and the process can take between two and 20 years—it​’s critical firms get it right, not just early but also at every stage of the journey. Firms are constantly gathering, tracking, and updating feedback from doctors, hospitals, and patients, and adjusting messages in real time. In practical terms, while patients taking a drug are going online to ask about a side effect that has appeared six months into their treatment, firms are gathering data and using AI to parse feedback across units and teams. Again, it comes down to speed. But, as Granado puts it, “It’s not just about moving quickly. It’s about moving quickly and meaningfully.”
+
+“Manufacturing drugs for smaller and smaller patient populations will upend the commercialization model.”
+
+The money flowing into digital channels dovetails with the larger industry trend toward personalized medicine, says Deborah Glasser, US leader for Sanofi’s North American Specialty Care business. It’s entirely possible medically (if not operationally and financially) to research, develop, and manufacture drugs tailored to the interaction of a particular disease with an individual patient’s unique cells. “Manufacturing drugs for smaller and smaller patient populations will upend the commercialization model,” Glasser says. “It’s an entirely different operation from a supply-chain and distribution perspective.”
+
+* * * * *
+
+Not unlike the entertainment industry, the pharmaceuticals business depends on hits—except that developing a drug is a lot more expensive than producing a blockbuster movie. If movie studios spend lavishly on sets and production, pharmaceutical companies have a laser-like focus on operating efficiency. “We take seriously every dollar we spend,” says Glasser, noting that money spent on the commercial side of the business means money unavailable for research and development. “It’s a new environment now, and we have to adjust and be more disciplined about spending,” she says.
+
+“It’s a new environment now, and we have to adjust and be more disciplined about spending.”
+
+The prevailing conditions in the healthcare system are well-known: an aging population, a shortage of doctors and nurses, and rising costs. In response, the healthcare industry is attempting to radically overhaul its business model, from sick care (treating ill patients) to preventative care (detecting potential issues before they arise). “We are actively working with healthcare systems to put greater emphasis on earlier diagnosis, intervention, and treatment,” says Ruud Dobber, EVP and President, BioPharmaceuticals Business Unit, at AstraZeneca.
+
+Firms are starting to experiment with using AI to improve the speed of drug discovery and development. They’re pulling in data from clinical trials to identify new strains of diseases and to simulate how they may have formed or grown in the body. That, in turn, can help them identify patterns to improve treatment and, ideally, detection. The sooner diseases are detected, the better the chances of minimizing their impact. “Firms are putting more dollars and resources behind AI and precision medicine,” says Dobber.
+
+The industry’s transformation is creating a need for talent not normally associated with pharmaceutical companies. “The ‘work’ has changed, and now the structures, skills, roles and ways of working need to adapt,” says White. Among the roles currently in demand are customer-experience experts and AI and data scientists. To navigate the increasingly complex regulatory and geopolitical landscape, legal, political, and risk-management experts are also needed. Another effect of the pandemic was to break down silos in pharmaceutical companies and force them to form cross-functional teams mimicking the key account structure of a bank or professional-services firm. Firms have embraced the flatter, faster structure, creating a need for talent with skill in strategic thinking, collaboration, decision-making, communication, and agility, as well as business or science experience. “We have more people to reach and more channels to reach them,” says Sanofi’s Glasser. “Talent needs to understand what is moving the business, and then move it faster.”
+
+For more information, contact Nicson White at nicson.white@kornferry.com or Ludger Schwinn at ludger.schwinn@kornferry.com.
+
+Our Expert
+
+Our Experts
+
+Ludger Schwinn
+Senior Client Partner, Global Account Leader
+
+INSIGHTS TO YOUR INBOX
+
+Stay on top of the latest leadership news with This Week in Leadership—delivered weekly and straight to your inbox.
+
+​
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Perspectives
+
+Life Sciences

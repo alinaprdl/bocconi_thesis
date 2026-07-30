@@ -1,0 +1,212 @@
+Defining the role of chief strategy officers in US healthcare | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Defining the role of chief strategy officers in US healthcare
+Explore this page Who are CSOs today?Defining the role for the futureAbout the authorsRelated Content
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Healthcare Payers & Providers Defining the role of chief strategy officers in US healthcare
+
+The chief strategy officer is a relatively new role, and one that is growing in importance and prevalence. CEOs can ensure they find the right strategy officer by considering a few key factors.
+
+Gustavo Alba ,
+Phyllis Schneble
+
+“The goal of a CSO is to develop an operating system for growth and lead the delivery of clearly defined business outcomes with tangible ROI that are closely linked to enterprise strategy.”
+Avi Sah
+
+Former CSO, Anthem, Inc.
+
+“The CEO is responsible for strategy—no one else.”
+Brad Fluegel
+
+Former Senior Vice President and Chief Strategy and Business Development Officer, Walgreens
+
+Healthcare payers and providers in the United States have been making moves to innovate, especially through digital transformation, with mixed success. While a handful of organizations have managed these transformations well, others have struggled to move beyond isolated pilots to develop scalable platforms and create durable enterprise value. To help guide their efforts, many healthcare organizations have been reinventing the role of the chief strategy officer (CSO). Traditionally, such a role was tightly focused on corporate strategy and M&A. However, in the current climate of broadscale technology applications and rapid cycle times, organizations have been repurposing the role of the CSO to focus on enterprise-wide digital and innovation efforts. And now, COVID-19 has acted as a further forcing mechanism for innovation in healthcare, as it has in so many other industries, and has spurred organizations that were lagging to make serious, bold moves to transform how they operate and how they reach patients.
+
+We studied how 62 healthcare organizations with a CSO or similar role before the pandemic structure this role, as well as the backgrounds of people in the role, in order to understand the current landscape.1 Through this research and conversations with a handful of leaders in this role, we’ve developed some key considerations for healthcare CEOs contemplating adding a CSO to accelerate strategic innovation.
+
+Who are CSOs today?
+
+Our study showed that chief strategy officers are increasingly finding their way into healthcare C-suites. Indeed, 90% of organizations we looked at had a CSO or similar role. People come to the role from a wide range of previous positions, with most coming from operations or P&L leadership, business development or CEO, or business-model innovation roles. A noticeable share also came from external consultancies. Because the CSO is a relatively new position, just 8% come from a previous CSO role, and the average tenure in the role is four years.
+
+These diverse backgrounds reflect the role’s varied remit. At one end of the spectrum, some CSOs have pervasive reach and influence, with strategy, ventures, M&A, digital, and sometimes technology and marketing reporting to them. People with this remit oversee both the traditional aspects of the role as well as transformation work, suggesting that, at these organizations, digital is considered core to overall strategic progress. At the other end, some organizations have stuck to the traditional structure of CSOs being responsible primarily for running annual strategy review processes, without any operational or customer-facing responsibilities.
+
+We found few organizations that had had a CSO for a decade or more, and, given the increasing pace of digital and competitive transformation in the healthcare sector, the industry is still experimenting with what duties should fall under this role. Moreover, the varying degrees of regulation of healthcare organizations and whether the organizations are focused primarily on clinical or commercial offerings affect where they will benefit most from transformation and therefore where their strategy officer should focus. The disparity has been especially acute between payers and providers—payers, for instance, often look for someone with a more commercial perspective, while providers have traditionally chosen clinicians—though, in recent months, we have seen the gap narrowing as COVID-19 reshapes the sector.
+
+Payers also tend to look for CSOs who can focus on business-model transformation. Some, for example, have been seeking to bolster relationships with patients by moving beyond direct clinical care into areas such as wellness coaching on digital platforms.
+
+CSOs with a more clinical mindset are typically a better fit for providers. These organizations aren’t necessarily opposed to commercialization, but nearly universally lead with clinical considerations as a guiding framework. Since clinicians are accustomed to seeing and treating patients directly, innovation under their watch is often in areas such as R&D and clinical care—for example, building a telehealth offering—as opposed to new business models. Organizations with a more clinical focus have also tended to adopt a slower, test-and-learn approach than do more commercial organizations because of their traditionally conservative cultures that measure risk in patient outcomes and because of a lack of broadscale innovation muscle across their organizations.
+
+COVID-19 changed that: on the whole, for instance, the United States had a glaring lack of telehealth options before the crisis; once it hit, one provider mounted a telehealth offering within two weeks. While such opportunities used to be considered largely commercial and secondary to clinical opportunities, they have now become the only way to reach patients—demonstrating how the gap between the two mindsets is closing.
+
+Defining the role for the future
+
+Today, the need for healthcare organizations to get transformation and innovation right is greater than ever. Nice-to-haves such as telehealth are becoming must-haves. Having a CSO to take the reins on a diverse set of initiatives and help organizations establish priorities will be beneficial.
+
+But, because the CSO role can vary so widely, CEOs must be clear on their CSOs’ mandate and the skills the role will require, along with candidates’ ability to build relationships and lead change. Our interviews and experience suggest a few key areas of consideration and questions to ask.
+
+Mandate and skills
+
+“The goal of a CSO is to develop an operating system for growth and lead the delivery of clearly defined business outcomes with tangible ROI that are closely linked to enterprise strategy,” says Avi Sahi, who until recently was the CSO at Anthem, Inc.’s Diversified Business Group. As part of defining which outcomes the CSO should focus on, our interviews suggest that CEOs and CSOs would benefit from differentiating between strategic planning, which typically has a three-or-more-year time horizon and revolves around generating ideas, and strategic implementation. CSOs typically are responsible for both, but a given CSO may need to focus on one more than the other depending on what role the CEO plays (more visionary or operational) and what specific challenges the organization is facing. For example, an organization seeking to grow through M&A may need a more visionary CSO to bring candidates to the table, while an organization seeking growth through digital channels may need an experienced technology operator in the role.
+
+Since few CSOs—or other executives—excel equally in planning and implementation, CEOs should consider which skill set the CSO specifically needs and which can be rounded out on the broader strategy team or through a project management office. This distinction will also help clarify which other functions should fall within the CSO’s remit.
+
+Finally, the pace of strategic change is increasing, thanks to both digital transformation and the crisis. And so, CSOs who are agile in both planning and implementation—open to trial, error, iteration, and learning—are increasingly valuable. (For more on agile leadership, see Steven Krupp, “From blame to gain: Leading with agility in a crisis.”)
+
+Reporting lines and relationships
+
+A trust-based relationship between the CEO and CSO is critical. CSOs need to intimately understand what the CEO sees as the purpose and goals of the organization so they can further develop its vision and recognize what ideas won’t mesh with it. CSOs also need to have the CEO’s trust and confidence so that they can push back and challenge the CEO if necessary. One of the executives we spoke with explains, “You have to have a good relationship with the CEO and know what he or she is thinking. You need to understand the psyche—they have to trust your point of view, and you have to be able to challenge that person when you think they’re doing something potentially off-track.” Sahi notes, however, that “the internal and external customer is always the ultimate boss of the CSO,” and CSOs need to be able to keep customer needs “front and center” while prioritizing selection and execution of strategic growth initiatives from idea to impact.
+
+Our interviews suggest that it’s important that the CSO reports to the CEO. “The CSO role is a reflective light of the CEO,” says Brad Fluegel, former senior vice president and chief strategy and business development officer at Walgreens. “The CEO is responsible for strategy—no one else.” Then, the CSO should be a part of conversations with the board and other leaders as they debate strategic options.
+
+CSOs also benefit from forming high-trust relationships with CFOs, CTOs, and business unit leaders. Strategy budgets may be small, and it’s up to CSOs to get operating executives on board and wholly behind funding various initiatives. And, as more healthcare innovations and new offerings become tech enabled and because most of the transformation of existing organizations requires drastic overhaul and modernization of existing technological systems, a relationship with the CTO will be key. And, particularly for CSOs in clinically focused organizations, building a strong relationship with the chief clinical or medical officer will also be fundamental to successful adoption of new services and workflow models.
+
+Building strong relationships a few levels down in the organization will also help CSOs push plans forward and make progress. It will likely help in building relationships at all levels if CSOs make it clear that they do not expect to run any other function directly. One CSO told us, “You have to be a servant leader to love this job. It’s not about power and influence. You have to get high on helping your peers, driving change, and creating a spark in people and organizations.” In addition, our interviews suggest that the strategy function can be seen as a feeder of talent to other parts of the organization, which can strengthen trusted relationships and enterprise-wide skill sets over time.
+
+At the same time, CSOs with innovation in their remit may often need to act a bit separately from the rest of the organization, establishing new offerings outside the technology of the core business, for example, with an agile methodology and minimum-viable-product mindset. Innovation-focused CSOs also often benefit from collaborating with academics, tech experts, or other researchers outside the organization.
+
+As more and more healthcare CEOs seek to spur innovation with a chief strategy officer, they will give themselves—and the CSO—the best chance of success by stepping back to make informed decisions in a few key areas. Those decisions should be fully aligned with the organization’s mission, culture, and current state of innovation and should consider the following:
+
+Even when a CEO shapes the perfect role on paper and finds the right person to fill it, we believe one more element is crucial to success: as with any other major change initiative, the CEO must take a personal role in highlighting a clear, consistent commitment to change across the organization.
+
+About the authors
+
+Gustavo Alba (galba@heidrick.com) is the global leader of Heidrick & Struggles’ Business & Professional Services Practice and a partner in the Miami and New York offices.
+
+Phyllis Schneble (pschneble@heidrick.com) is a partner in the New York and Stamford offices and a member of the Healthcare & Life Sciences and Consumer practices.
+
+Acknowledgments
+
+The authors wish to thank the executives who shared their insights: Brad Fluegel, former senior vice president and chief strategy and business development officer, Walgreens; and Avi Sahi, former CSO, Diversified Business Group, Anthem, Inc. Their views are personal and do not necessarily represent the views of the companies they are affiliated with.
+
+References
+
+1 This role goes by a variety of names, including chief innovation officer, chief transformation officer, chief corporate development officer, and senior or executive vice president of strategy, innovation, or transformation.
+
+Related Services & Industries
+
+Healthcare & Life Sciences
+
+Healthcare Services
+
+Leadership Development
+
+Life Sciences Tools & Services
+
+Marketing, Strategy & Communications
+
+Medical Technology
+
+Related Content
+
+AI & Technology Officers
+
+Embracing and sustaining a competitive advantage in AI: A conversation with José Pedro Almeida, advisory board member of Intelligence Ventures and top chief AI strategist
+
+Top healthcare and AI strategist José Pedro Almeida, discusses the potential of generative AI and its impact on businesses and healthcare organizations worldwide.
+
+Healthcare Payers & Providers
+
+Microsoft’s Nuance Healthcare executive vice president & general manager on AI’s role in transforming patient care
+
+Diana Nole, the executive vice president and general manager for Nuance's healthcare division, discusses balancing innovation and stability, and leadership capabilities for success.
+
+Chief Executive Officer
+
+What CEOs learn from board roles: An interview with Carsten Hellmann, CEO of ALK-Abelló and NED of Coloplast
+
+Carsten Hellmann, the CEO of global pharmaceutical company ALK and non-executive director of healthcare technology company Coloplast, discusses the ways his role as a non-executive director has benefitted his job as CEO.
+
+Healthcare Payers & Providers
+
+Disruption in Healthcare and Life Sciences 2021
+
+The fourth annual survey of healthcare and life sciences leaders shows a desire for stability and an accelerated shift toward business models that will help take their products to their customers in a digital-first world.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

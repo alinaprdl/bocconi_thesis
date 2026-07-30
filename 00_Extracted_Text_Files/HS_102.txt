@@ -1,0 +1,200 @@
+Structuring the AI Function | AI for Data Analytics
+
+Identified Country:
+
+Structuring the AI function: The right questions to find the right model
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+AI & Technology Officers Structuring the AI function: The right questions to find the right model
+
+As more companies embed AI, they face the question of where that expertise should sit in the organization. Starting with the right strategic questions can help leaders design their best-fit model.
+November 14, 2024
+
+Ryan Bulkoski ,
+Adam Howe
+
+Read the full survey
+
+Leaders today are approaching AI with strategic intent and expecting real returns, particularly in productivity and cost reduction. Indeed, 82% of respondents to our annual survey of AI and data leaders indicated their AI function is now directly included in business strategy—up from 76% in 2023.1 This is a remarkable level of strategic integration for a quickly evolving technology, and leaders have been challenged to decide where AI should fit into their organizational design so they can move quickly and realize maximum value. Our survey found that 37% of AI leaders report to the chief information, technology, or digital officer, and 31% to the CEO—but in another measure of the speed of change, the latter figure is a near doubling of the share only a year ago.
+
+To find the best-fit home for AI expertise, leaders need to consider whether it should be embedded everywhere, functionally separate, or a hybrid of both approaches. In our experience, leaders find the best results when they use their business strategy as a guide for these decisions, take into account how they have adopted AI to date, and decipher what kind of useful “machinery” for AI already exists within the organization.
+
+AI’s growth and the need for speed
+
+Another recent survey we conducted of 2,000 leaders across five key functions reveals that AI adoption is expanding, with most companies now using it in some capacity.2 However, only a few respondents indicated AI is being used across their entire organization. Within certain functions, leaders have a more cautious perspective: Nearly a quarter (22%) of finance leaders stated that their company has not yet adopted AI, for example, compared to 9% of leaders in legal functions.
+
+Despite the progress, about half of the surveyed leaders—excluding those in legal—expressed concerns that their companies are adopting AI too slowly. They are eager to leverage the broad benefits they see in AI, including increased productivity, cost savings, enhanced innovation, improved revenue generation, better customer and employee engagement, and reduced risk.
+
+How reporting lines are changing
+
+Our survey of AI and data leaders also revealed that reporting lines for AI responsibility are rapidly evolving.3 As noted, the proportion of AI leaders reporting to the CEO has nearly doubled since 2023, growing from 17% to 31%. And we have started to see some consolidation: the share of other roles to which AI leaders reported fell from 19% to 7%.
+
+This increase in AI leaders reporting to the CEO signals AI’s growing strategic importance and sends a strong message to employees and shareholders. It also increases opportunities for career development for AI leaders since most companies focus much of their executive succession planning efforts on the CEOs and their direct reports.4
+
+However, many AI leaders still report to the CIO, chief digital officer, or other senior executives in technology or engineering. Reporting structures vary by sector, but no matter where the expertise sits, as AI functions mature, cross-functional collaboration is increasingly essential to avoid duplication and mitigate risks.
+
+Encouragingly, whatever their reporting line, 71% of AI leaders reported having adequate exposure to the board, and our survey also finds that their overall confidence in the board’s ability to understand and respond to AI is increasing.
+
+Determining the right organizational model to drive results
+
+Organizations take various approaches to steering and supporting AI, ranging from embedding AI within business units—a fully decentralized model—to creating dedicated AI teams or functionally separate business units. Some use semi-embedded models, in which AI leaders sit within business units, or establish AI centers of excellence that work across functions. Other organizations supplement internal teams with shorter-term AI talent from specialized firms.
+
+Each model has its pros and cons. Choosing the right approach depends on value creation. Organizations must define their AI strategic objectives and assess whether their current structure—likely developed ad hoc—aligns with their current goals. This involves prioritizing AI use cases by business value and practicality.
+
+Leaders should also answer these questions, in this order:
+
+Business strategy: What strategic goals will AI enable?
+Data: Who owns and ensures the quality and accessibility of data?
+AI strategy: What are the initiatives or use cases for implementing AI in support of strategic goals? Which ones are priorities?
+AI implementation: Which units will implement AI, and who owns each plan—business or AI leaders?
+Tech stack: Who manages the tech stack and vendor relationships?
+
+With data as the foundation, assessing AI’s ownership and quality is crucial before addressing any part of implementation.
+
+Setting up the AI leader for success
+
+Once that context is understood, assessing the AI leader’s role and team structure is crucial for success. Reporting to the CEO can enhance influence (and stakes). If AI leaders report to someone other than the CEO, they will have less influence, but the expectations are just as high. It’s important to consider the AI leader position relative to functions such as legal, HR, technology, and innovation, especially in regulated sectors. Leaders need to consider who the primary stakeholders are and which activities or priorities the AI leader must influence to gain traction.
+
+The size and complexity of the organization is another factor. At a global financial institution we have worked with, for example, the AI leader reports to the CEO and owns strategy and regulatory relationships globally. Implementation is in the hands of business unit leaders. At a smaller company, the AI leader also reports to the CEO but is responsible for everything related to strategy and implementation.
+
+The size of the team reporting directly to the AI leader is, in turn, dependent on decisions like these. And given the fast pace of change, leaders will also benefit from remembering that permanent headcount far from the only way to add expertise. The AI group—at a corporate or business unit level—can also be supplemented with on-demand experts on a flexible, as-needed basis.
+
+What makes less difference, we have seen, is the initial number of use cases. Per one AI leader: “In the first few months, we received 500 suggestions for how we should use AI—but they boiled down to just five categories of ideas.” Other leaders echoed that experience, and it is consistent with the alignment our survey found among functional leaders regarding their top reasons for implementing AI.
+
+An effective AI leader acts as a connector and influencer. For example, a senior director of enterprise data, AI, and digital strategy at a global logistics company recognized the need for AI education. Partnering with a university, the director developed a course for executives, who then became AI sponsors. He recorded their reflections and shared them with other leaders, generating excitement. The initiative’s success led to more than 2,000 employees wanting to take the course. This approach engaged diverse stakeholders early and leveraged enthusiastic team members to spread momentum across functions.
+
+***
+
+Leaders will make the best decisions on how to structure their AI function when they start with a well-defined organizational strategy, then align AI strategy with those organizational goals and develop an understanding of current ownership of all the elements of AI implementation.
+
+Although stepping back to assess these foundational questions may seem slow in the context of a rapidly advancing technology, the benefits are substantial. Companies that invest in a solid foundation can transform AI ideas into actionable use cases, ultimately generating real business value.
+
+About the authors
+
+Ryan Bulkoski (rbulkoski@heidrick.com) is a partner in Heidrick & Struggles’ San Francisco office and global head of the Artificial Intelligence, Data & Analytics Practice.
+
+Adam Howe (ahowe@heidrick.com) is a partner in Heidrick & Struggles’ New York City and London offices. He leads the global Organizational Simplicity and Digital Transformation service offerings and is a member of the Culture Shaping Practice.
+
+References
+
+1 Ryan Bulkoski, Brittany Gregory, and Frédéric Groussolles, 2024 Global Data, Analytics, and Artificial Intelligence Executive Organization and Compensation Survey, Heidrick & Struggles, October 9, 2024, heidrick.com.
+
+2 Heidrick & Struggles surveyed leaders across five functions, including finance, human resources, legal, marketing, sales & strategy, and supply chain and operations, on their use of AI. For more, see “Heidrick & Struggles' insights on artificial intelligence,” Heidrick & Struggles, heidrick.com.
+
+3 Ryan Bulkoski, Brittany Gregory, and Frédéric Groussolles, 2024 Global Data, Analytics, and Artificial Intelligence Executive Organization and Compensation Survey, Heidrick & Struggles, October 9, 2024, heidrick.com.
+
+4 For more, see Jeremy Hanson, “CEO and board confidence monitor: Beating the succession planning paradox,” Heidrick & Struggles, October 30, 2024, heidrick.com; and Jenni Hibbert, Timothy L. Holt Jr., and Sharon Sands, “CEO succession focus: Navigating in times of crisis,” Heidrick & Struggles, September 4, 2024, heidrick.com.
+
+Related Services & Industries
+
+AI & Technology Officers
+
+CEO & Board of Directors
+
+Digital Leadership
+
+Financial Officers
+
+Human Resources Officers
+
+Legal Officers
+
+Marketing, Strategy & Communications
+
+Organization Acceleration
+
+Supply Chain & Operations Officers
+
+Related Content
+
+Human Resources Officers
+
+Driving integration while maintaining cultures: Varian's head of HR on leading through an acquisition
+
+Livia Freudl, head of HR at Varian, now a Siemens Healthineers company, discusses driving integration, maintaining company culture, and the role of HR in corporate sustainability and social responsibility.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

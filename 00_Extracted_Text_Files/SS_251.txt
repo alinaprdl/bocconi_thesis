@@ -1,0 +1,107 @@
+CEOs: How to lead with AI instead of letting AI lead you
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+CEOs: How to lead with AI instead of letting AI lead you
+
+By
+
+Jason Baumgarten,
+
+Fabio Moioli and
+
+Charlie Stack
+
+July 2023
+
+| 4 min read
+
+Authors
+
+Jason Baumgarten
+
+Seattle
+
+Fabio Moioli
+
+Milan
+
+Charlie Stack
+
+New York
+
+SectionsIn this article
+
+In the bustling intersection of technology and business, where silicon meets strategy, AI’s transformative power has become an undeniable truth. However, the question persists, "Who is in control — the CEO or Artificial Intelligence?" This gripping ambiguity isn't just a philosophical curiosity, but a question vital to the future of your company. Welcome to an exploration of the dynamic dance between the corporate leader and the digital intellect — an article that prompts you to rethink your AI strategy.
+
+Have we grabbed your attention?
+
+Hopefully, yes.
+
+And now is when we tell you we didn’t write the opening paragraph to this article. ChatGPT wrote it based on this prompt:
+
+Write the introduction of a business article on ‘How CEOs can lead with AI instead of letting AI lead them’ in such a way that it really engages the reader.
+
+ChatGPT provided a much longer introduction; however, for our purposes, that single paragraph illustrates its power. It took less than 10 seconds to generate and, while flowery, does a decent job of addressing the request.
+
+Of course, generative AI can do much more than pen business articles, and we’re in the early stages of significant disruption in the workplace as a result. AI can improve productivity, enhance product innovation, improve customer personalization and optimize decision-making processes — to name a few potential benefits.
+
+The flipside is that excitement around AI might cause leaders to invest too early or in the wrong areas. Further, the threat to jobs that can be automated may be profound, the ease in which it could be used for deleterious deeds may be troubling, and its potential to be so good at what it does could cause human reasoning skills and creativity to erode.
+
+While disruptive changes aren’t new in the landscape of the CEO role, we’re at a critical inflection point where leaders must determine how AI fits into the business — or risk falling behind competitors, losing talent, and potentially becoming obsolete.
+
+And yet, being an AI-empowered CEO extends beyond employing data scientists and integrating machine learning into your processes. We can take a lesson from the dotcom era of the late 1990s/early 2000s, in which many companies adopted an online presence without a clear business strategy and swiftly — and spectacularly — failed.
+
+If we learned anything from the rise and fall of the dotcom era, it’s that innovation doesn’t overcome business fundamentals or leadership and organizational dynamics. They must go hand-in-hand to be effective.
+
+To become an AI-empowered CEO, we believe you must:
+
+1.      Assess risks and opportunities, and determine needed changes to business strategy or the agility to revisit it.
+
+It’s time to realign and set new expectations with your board of directors and leadership teams — and you may need new or different stakeholders and partners to drive more expansive thinking. A thorough review of your company strategy is warranted, including assessing risks (ethics, privacy, business model disruptions), and reviewing opportunities (potential efficiencies, leveraging data, talent strategy, new business models).
+
+Experimentation is critical to deploy AI successfully, but many of the companies we observe can’t yet evaluate risks alongside opportunities in a way that enables cohesive planning, deployment and scaling of use cases. The way CEOs set up leadership, teams and organizational structures to experiment are also critical decisions.
+
+A controlled approach may be best. One early adopter in the wealth management space told us they aimed to activate only five new project experiments in the first year of experimentation with a goal to work up to two experiments each day in year two.
+
+2.      Act with a sense of trust and integrity — and be transparent.
+
+Communication is crucial to building and maintaining trust in times of change, and it’s increasingly important to be transparent about what you’re doing and why.
+
+In 2021, we launched a study in partnership with the Return on AI Institute to better understand why a small number of machine learning initiatives were wildly successful when most weren’t. We learned that often the roadblocks to AI adoption are human, and strongly indicated mistrust or confusion about how the technology would be used.
+
+It’s your responsibility to help guide experienced employees through a significant mental model shift; they must change the way they’ve learned to operate the same way that even the best pilots need to be retrained to become astronauts. And younger talent, whose "route up" opportunities to learn via more mundane tasks will be highly impacted, need guidance as well.
+
+Savvy CEOs will build AI into their communications platform and regularly communicate how the company is thinking about its business policies, competitive threats, talent strategies and growth opportunities. Trust and visibility to leaders will become even more important in a world where the sense of what's real becomes harder to navigate.
+
+3.      Amplify your curiosity and learning mindset and reflect on its importance across your organization.
+
+In a moment where some are paralyzed by the fear of change, it’s up to the CEO to lean in and inspire teams to join you on the front foot of disruption.
+
+We’ve talked to CEOs who are enrolling in classes to get up to speed on machine learning, large language models and even data security. Others are meeting with experts, asking uncomfortable questions  and getting a variety of opinions. And then there are the others — who aren’t.
+
+Your employees are paying attention. Eighty-eight percent of respondents to an MIT Sloan Management Review study stated that digitally savvy leaders matter to their organization’s ability to succeed. But only a fifth of strongly agreed their leaders have the right mindset to thrive in the digital economy.
+
+How — and to what level — you learn is deeply personal, but it’s critical to educate yourself and demonstrate this learning mindset. Your curiosity sets an example for the entire organization. However, be mindful not to distract employees until you have clarity about what you want to do.
+
+AI is poised to fundamentally alter all sectors of industry and society. Transforming a business into an AI-driven organization is a complex, interrelated and long-term undertaking. This transformation demands a strategic, cultural and organizational shift directly led by the CEO and board of directors.
+
+When it comes to transformative organizational change, there isn’t a prompt you can type into ChatGPT and get back a tidy instruction manual. Considering these three areas as you plan will help ensure AI becomes a part of your company’s story, not the author of your demise.
+
+Authors
+
+Jason Baumgarten
+
+Seattle
+
+Fabio Moioli
+
+Milan
+
+Charlie Stack
+
+New York

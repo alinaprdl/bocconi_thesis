@@ -1,0 +1,224 @@
+Getting the most out of technical experts | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Getting the most out of technical experts
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Technology Getting the most out of technical experts
+
+In an increasingly knowledge-based economy, talented people are ever more central to strategy. To stay ahead of the competition, CEOs must align the insights and interests of highly skilled experts with the goals of the organization.
+
+Hervé Borensztejn
+
+Increasingly, executives recognize that people are central to strategy. Optimizing the time and development of technical experts who deliver the most value for the company—be they programmers, data scientists, nanotechnologists, biologists, or others—should be among most organizations’ main priorities. Although they often make up no more than 10% of an organization’s workforce, experts have an outsize effect on the organization’s performance; without them, companies would lose their competitive edge.
+
+However, the experts who create the most business value vary by industry and even by company, and expertise is not static. Today’s strategic advantage might become tomorrow’s necessary commodity—or it may fall out of favor entirely. For instance, electromechanical engineering was strategic for many companies in the 1980s as they began adopting computer technology. However, with the advancement of automation in the 1990s, it became nonstrategic (and many times outmoded).
+
+In our experience, companies across the board struggle to attract, retain, and develop these expert employees. With no clear career path for moving up in the organization, many experts languish and become frustrated, and those who wish to climb the ranks may choose to transition from their area of expertise to management—or they may simply become disengaged. The latter scenario presents a real risk of weakening the value of the company’s intellectual property. Beyond the potential for lost revenue, word travels fast among experts and their peers: a company known for stagnation is not seen as a desirable place to work.
+
+To attract and retain the best experts, companies must adopt a new mind-set on managing these employees and the HR policies that support them. To that end, some of the knowledge-driven companies we’ve worked with have developed “experts’ policies,” which we have used as benchmarks, that effectively shift incentives and structures to better match the needs of their experts. These policies acknowledge and define efforts to maximize the development and continuous nurturing of employees who create scientific and technical value. Furthermore, such policies may define opportunities for experts’ professional development parallel to their peers on more traditional managerial or leadership tracks. Such development can improve an expert’s ability to focus on performing his or her work, creating new knowledge, and transforming the organization through collective expertise. HR departments can play a crucial role as well, helping define the values of the company and craft effective strategies to keep experts on a value-creating path. The result is a more agile organization that can better foresee and adapt to industry trends.
+
+The need for an experts’ policy
+
+One of the key objectives of an experts’ policy is to align an organization’s technological competency portfolio with its overall strategic goals—not only for today’s direction but also in the years to come. This task sounds simple but can be quite difficult in practice, as experts tend to value technical accomplishments or conquering self-imposed goals. As a result, they are often less invested in adding value to strategic objectives. In some cases, experts feel their specific expertise holds the most value in itself, whereas a strategic perspective should assess the usefulness of that expertise within a business context. Therefore, as technology evolves and industry trends shift, knowledge-based companies often struggle to define the expertise needed in the future.
+
+Another objective of an experts’ policy is to ensure that companies attract and retain a valuable expert workforce. To do so, companies will need to develop a reputation as a place where suitable candidates from academic and technical circles want to work. Developing such a reputation requires fostering existing talented employees as well as paving the way for subsequent generations of experts.
+
+An experts’ policy should also create room for unique growth paths. Experts are often summoned as emergency technicians to solve problems encountered during a project, but these assignments can detract from their other, more valuable responsibilities. Rather than tackling long-term goals related to an organization’s strategy or the innovation of new products, the expert is relegated to putting out fires. This can be particularly frustrating when a project goes in a direction that experts would have initially advised against. The best-case scenario is to find middle ground between short- and long-term responsibilities.
+
+Finally, an experts’ policy can help overcome feelings of territoriality by building trust between disparate departments. In pharmaceuticals, for instance, there are chemists who have been leading research in new treatments for years—if not decades. Now, after the game-changing rise of biology as an input in pharma, breaking down the silos between the disciplines has led to biochemist solutions, which are promising options for new medications. To initiate such collaboration, leading pharma organizations have encouraged biology and chemistry departments to share both successes and failures and assembled multidisciplinary teams to look for new, potentially overlooked, disruptive solutions.
+
+Corporate leaders and experts will need to share a sense of ownership of valuable knowledge. Ultimately, it is the responsibility of leaders to ensure that experts know the organizational strategy and that they are contributing to it. For example, in the healthcare industry, experts have been integral in the move from chemical to biological materials, completely reshaping the business in the process. In the electrical engineering industry, experts who discovered how to build permanent magnets with rare-earth minerals have transformed the business model of renewable energy with cheaper windmills. And in the aerospace industry, the fly-by-wire technology developed by experts at one company has replaced manual flight controls with a more automated interface.
+
+Retaining and developing the current expert workforce
+
+One of the thorniest issues for leaders to navigate when developing an experts’ policy is deciding what to do with who they have. Indeed, how leaders choose to incentivize, reward, and develop experts will determine the future of the organization. The difference could mean setting industry trends or merely trying to adapt to them.
+
+Typically, talented nontechnical employees are given a clear path to move up in an organization—taking on the responsibilities of management and executive leadership. Yet experts are usually offered no such path that allows them to continue to deliver value through their expertise; in fact, they may “defect” to leadership for this very reason, enticed by the organizational chart or compensation packages. The primary element of a successful experts’ policy is that it defines a distinct upward mobility track to ensure experts direct their knowledge to where their strategic value is highest. Such paths can offer experts other options, including roles as specialists, advisers, or even managers of other experts (figure).
+
+Of course, how individuals move up through these roles and find their path at the company is paramount (see sidebar, “The promotion process”).
+
+With experts on the right track professionally, the experts’ policy should help keep the roles rewarding, both financially and professionally. This can be done with expert-specific versions of common retention and development initiatives, including compensation schemes, soft skills training, networking, and the flexibility to pursue research interests.
+
+Compensation schemes
+
+Companies tend to reward employees for superior performance using a standard set of key performance indicators—meeting sales goals, reducing costs, and so forth. Expert performance is harder to measure, given its nature of long-term research and development. Management can’t very well penalize experts who have not yet made a breakthrough discovery.
+
+What companies can do, however, is define and assess the right accountabilities, such as expertise (using the number of patent applications and publications as a measurement, for example); advisory capabilities (especially as they relate to advising top management); innovation (moving from expertise to value creation—such as the mathematicians who study the behavior of propellant smoke after an Ariane 5 rocket launches, aiming to make future launches safer by reducing turbulence); reputation and visibility within scientific communities; management of knowledge and intellectual property; and involvement in specific projects.
+
+Soft skills training
+
+Leaders often mistakenly believe that experts don’t need further training; they are already experts, after all. But given their deep integration in their fields, experts tend to communicate in technical jargon, which can be confusing or even off-putting. Soft skills training focused on improving communication can help experts become more convincing, more impactful, and more interesting, both for their colleagues and for clients or customers. At a higher level, bridging this gap can help experts become more persuasive within the organization, making them more influential. This in turn could benefit the organization, as communicating between departments becomes easier, as well as set the stage for experts to be more effective advisers on company strategy.
+
+Networking
+
+Networking is a crucial aspect of supporting experts’ professional development—perhaps even more so than for other employees, given experts’ tight-knit technical communities. Connecting with external universities, research institutions, and think tanks can keep experts energized and informed of current trends. Experts’ policies can facilitate these connections by providing the experts with leeway to attend conferences, coauthor research papers, and make rounds on the lecture circuit—all of which may require time away from their day jobs. However, the rewards can be great for both parties: experts are enabled to participate fully in the community in which they seek renown, and the company’s profile is raised thanks to the experts’ participation.
+
+Flexibility to pursue research interests
+
+Institutional support to innovate new concepts and products can be a game-changing incentive for expert employees. Indeed, such freedom to experiment—and even to fail—is key to staying ahead of industry trends. As such, it is integral to both the growth of the organization and the development of the expert. For instance, with the rise of open innovation, internal experts have been assigned to identify promising external research organizations to partner with in the early phases of a project. Others have been asked to lead the creation of chairs with prominent university labs. And companies such as 3M and Google allow their employees to spend up to 20% of their company time as they wish. The ROI of these flextime policies has been significant, in terms of both value creation by serendipity (such as the famously accidental invention of the Post-it Note) and also retention of critical expertise (which has been well documented in organizations such as Airbus and 3M). At the extreme, experts may benefit from sabbaticals that allow them to focus on their own research passions—which they can then translate, refreshed, back to their day jobs.
+
+Attracting the next generation of experts
+
+All companies run into similar problems in ensuring they have the right expert talent as the required expertise evolves. It can take years—even decades—to develop a seasoned expert capable of advising on not only his or her realm of expertise but also how it relates to company strategy. In practice, many such experts are past the midpoint of their career and perhaps winding down. A common mistake made by corporate leaders is allowing these experts to phase out of their roles and not preparing for the next generation. Electrical engineering is an example of a discipline that needs to move quickly, as well as one in which expertise investments are high. Today, with the promise of renewable energies, energy companies are moving from a focus on creating energy, such as designing high-efficiency generators, to efficiently storing energy produced by windmills or tidal generators. However, these promising new fields of expertise must be supported by a new generation of experts to become true strategic differentiators.
+
+Whatever the conditions of a specific industry, to attract—and subsequently retain—the best people, companies need to craft their experts’ policies to meet the following objectives: gauge critical competencies, maintain the right number of experts, and increase employer value proposition.
+
+Gauge critical competencies
+
+Competencies almost inevitably become obsolete, and companies will need to not only connect their experts with their strategies but also engage them in strategic workforce planning. Take the aircraft industry, for example. Fuselage experts move from one competency to the next because each is aligned with the company’s strategy: expertise in metallic fuselages was replaced by expertise in composite fuselages more than a decade ago when the strategic target for airplane manufacturers shifted to reducing the weight of planes to limit fuel consumption. In another example, new regulations or market expectations can alter a company’s portfolio of expertise: some will become obsolete, others will gain importance, and still others will create a new need. Similarly, many cities are concerned with the pollution generated by their airports, whether it be noise or poor air quality. As a result, expertise in developing so-called green aircrafts has become a key competitive advantage for aircraft manufacturers.
+
+Because strategic expertise portfolios are volatile, an efficient way to better anticipate critical competencies is twofold: first, promote interdisciplinary collaboration between experts to keep internal teams in a state of heightened vigilance; and second, facilitate innovation to learn about and acquire new opportunities from others.
+
+Maintain the right number of experts
+
+Part of being perceived as an attractive place to work is making sure enticing projects (both scientifically and financially so) are thoughtfully staffed to give everyone a meaningful role. Likewise, it’s important that projects aren’t understaffed, spreading talent too thin. From benchmarks we established by working with companies with experts’ policies, we found that experts constitute between 5% and 10% of each organization’s workforce. At less than 5%, investment in expertise is insufficient to manage risks of obsolescence and appropriate succession planning, and more than 10% may result in a lack of focus on core expertise. One way of ensuring that the right number of experts is assigned to a project is to conduct regular performance reviews, focusing on whether the experts feel valued and fulfilled.
+
+We did notice, however, that an excess of experts could still be valuable and work toward generating entrepreneurial decisions or creating new subsidiaries or spin-offs. Depending on the performance review results, the organization may choose to create a new venture.
+
+Increase employer value proposition
+
+A company that is seen as valuable to experts in both technical and academic fields will have more market value. Having a “PhD-friendly” or “postdoc-friendly” reputation will excite the scientific community and attract new and promising experts. A few ways of improving an organization’s reputation with intellectual and scientific communities are to map academic labs of interest, deepen the relationship with them through long-lasting connections, and recruit PhDs. In addition, companies can craft policies that include PhD study as counting toward years of seniority, asking the experts to become company ambassadors to the labs.
+
+The path forward—managing the portfolio
+
+Experts’ policies help ensure that the company has a continuing supply of the right people in the right places at the right time, for today and—even more important—for tomorrow. These policies help map the strategic capabilities of the organization by answering questions about where it possesses the most and least expertise, where it is in danger of losing valuable knowledge, and what competencies missing from the group’s portfolio are likely to be needed in the future.
+
+Proactively managing the portfolio of expertise gives companies the ability to foresee trends, adapt more quickly, and, ultimately, increase value. Experts who are happier are more likely to create new ideas that will determine their organization’s—and perhaps even their industry’s—future. Capitalizing on those breakthroughs and translating them to strategic value are key to increasing companies’ competitive edge.
+
+Sidebar: The promotion process
+
+The promotion process provides both hard and soft business benefits. On the one hand, it provides motivation and attractive career prospects for professionals who otherwise might advance only by entering management. On the other hand, by creating a development model with as much influence as a career in management, it builds an important relationship between business context and expertise.
+
+While the majority of promotion processes are influenced by managers and overseen by HR, the promotion of experts must also involve the experts themselves, as peers. One way of successfully determining candidates for expert roles, which we have seen benefit organizations time and time again, is to ask them to submit an application consisting of three sections that cover different areas of performance:
+
+Person: This section details the candidate’s knowledge, experience, and potential. The individual must have earned recognition for extraordinary competency throughout the company and beyond.
+
+Position: This section assesses how well the individual adheres to the organization’s overall strategy and goals. What is the value of his or her area of specific expertise for the company value creation? Could the expertise become obsolete? Is it possible to foresee how this expertise will continue to create competitive advantage? What are the mid- and long-term needs (qualitative and quantitative)?
+
+Performance: This section examines the candidate’s contributions to the group of experts he or she will join. How many patents does the applicant have to his or her name? Has the candidate given internal or external conferences? How active is he or she in the field? Has the candidate taken steps to transfer his or her knowledge?
+
+About the author
+
+Hervé Borensztejn (hborensztejn@heidrick.com) is the managing partner of Heidrick Consulting in Europe, the Middle East, and Africa; he is based in the Paris office.
+
+Related Services & Industries
+
+Leadership Development
+
+Semiconductors
+
+Technology
+
+Related Content
+
+Human Resources Officers
+
+Chief people officer focus: Transforming HR across borders
+
+Shirley Zhou, head of HR for ASP APAC & vice president of Fortive Asia, describes the evolution of her career and the value of taking a long-term perspective on people decisions, particularly in volatile environments.
+
+Financial Officers
+
+Leadership perspectives: Insights from Alison Henwood, Chair of the Audit Committee of Umicore
+
+In this video, Alison Henwood, Independent Non-Executive Director, Chair of the Audit Committee of Umicore, shares insights into the ideal audit chair-CFO relationship, and the leadership capabilities required for mutual success.
+
+Supply Chain & Operations Officers
+
+Supply-chain officer focus: The strategic value of succession planning
+
+Many organizations where the supply chain is crucial to operations have been elevating the strategic importance of their chief supply chain officers. But talent is scarce, and succession planning is taking on new urgency. Interviews with 30 supply chain leaders suggest three key elements of improvement.
+
+Marketing Leaders
+
+AI in the marketing function: A conversation with Chris Koehler, CMO at Twilio
+
+Chris Koehler, the chief marketing officer at Twilio, discusses the ways in which his marketing function is using AI and where they are finding it adding particular value.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

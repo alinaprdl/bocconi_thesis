@@ -1,0 +1,208 @@
+Financial services focus: Attracting and retaining the next generation of risk leaders | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Financial services focus: Attracting and retaining the next generation of risk leaders
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Audit, Risk, Compliance & Controls Financial services focus: Attracting and retaining the next generation of risk leaders
+
+As financial services firms face an unprecedented and volatile mix of risks, nine considerations will help them identify and develop the risk leaders they’ll need to be future-ready.
+
+Paul Gibson
+
+Read the full article
+
+The role of chief risk officers in financial services has become more complex over the past 10 years, and markedly even more so in the last three. Today’s CROs need to have not only a strong background in traditional risk types but also strategic acumen; knowledge and curiosity about emerging risks; credibility and influence in the organization; agility; and digital dexterity. And we have seen a huge spike in demand for risk leaders on multiple levels and across all three lines of defense—along with rising concerns from financial services leaders that they are struggling to find and retain talent.
+
+The role is more complex because the range of material non-financial risks CROs need to deal with has been increasing to include environmental, social, and governance (ESG) issues—those created by ESG considerations broadly, climate change specifically, political instability, cyberattacks, and pandemic-driven changes in employee preferences—operational risk, compliance, cyber, and technology risks. Though once these were beyond scope, today many such risks are not only material but deeply complex, interrelated, and quickly scalable. Firms are going so far as to add specialist risk officers in some of these areas.1 This radical increase in scope has also elevated the role of chief risk officers: in 2022, 21% of Fortune 100 companies had a chief risk officer in their executive committee, slightly up from 20% in 2020.2 In financial services specifically, direct reporting has become the industry standard. This increased scope has also meant that the size of the risk function has grown. Leaders who can manage all that are fiercely competed for, not only by traditional financial services firms but also by fintechs, digital assets firms, insurance companies, asset managers, and hedge funds.
+
+And the situation is made more acute by what many CROs are calling “retirement risk.” In a recent survey conducted by the Risk Management Association in the US, one respondent noted, “We have seen a lot of retirements, and with those we are losing institutional knowledge.”3 Wrote another, “All [our] senior and executive management are 50 and older… we have significant risk toward succession and finding the right talent to nurture and grow into the next level of management ranks.” Many respondents—and many risk leaders overall voice similar concerns about losing the wisdom brought from years of experience navigating through downturns and volatile market events.
+
+Finally, finding the right risk leader can be made harder because of how the financial services industry, in particular, is embracing remote and hybrid working. On one hand, leaders are finding that they are able to expand their talent pools with remote and hybrid options that allow them to hire employees who are not within commuting distance of an office. However, remote working adds some risks, as one survey respondent noted “the hybrid/remote factor [makes it] harder to onboard new employees and to maintain a consistent culture.” And that is only one reason that financial services firms are among those pushing hardest for people to return to the office full time, with some leaders even punishing those who choose to work remotely through reducing bonuses and promotion opportunities. Traditional financial services firms that are able to find a balance between the benefits of remote working and in-office working will be better able to attract, develop, and retain strong risk function leadership.
+
+Capabilities for today’s risk leaders
+
+Two years ago, we identified a set of eight capabilities crucial for future CROs:
+
+Agility
+Business acumen
+Communication skills
+Curiosity
+Digital dexterity
+Financial and non-financial risk experience
+Influencing
+Relationship building
+
+Our data from assessments of current CROs found that they are typically more curious and open-minded than other executives, have greater self-awareness, have a greater ability to solve complex problems, and more often invest time in learning about the world around them. Building on that foundation, interviews with leading chief risk officers and other experts, as well as our own experience, suggested that the best way for traditional financial firms to develop risk leaders with broad experience is to ensure development plans include rotating potential risk leaders through frontline business roles to build strategic knowledge, customer-facing capabilities, and wide-ranging relationships (some leaders also suggested having frontline leaders rotate through the risk function to further build relationships and understanding).4
+
+However, challenges include compensation, because second-line functions such as risk and compliance are typically paid less than counterparts in the business, as well as staffing, role structure, and function structure for rotational roles. More recently established firms or smaller platforms may face fewer of these hurdles but less often have the HR infrastructure to support complex initiatives such as these.
+
+Digital dexterity has been a particular development area for risk executives, as cyber and technology risks have been consistent themes for the past five years. Digital and technology skills will enable risk leaders to keep up to date with evolving cyber risks, find and retain analytic and modeling expertise, and support the function itself. There is also a growing importance and emphasis on data risks and data governance, as well as privacy. The CRO is expected to have a well-formed viewpoint on all these risks.
+
+Nine considerations for building out the risk leadership bench today
+
+Over the past two years, we have seen firms of all types becoming more dedicated and agile in shaping risk leadership roles and development programs to attract, develop, and retain the leaders they will need. To take the next steps, firms should employ the following nine tactics.
+
+Reconsider the need for mobility in hiring and succession planning: firms in smaller markets have found that this particularly broadens their opportunities, though it also increases the difficulty of retention since people have more options.
+Standardize and solidify hybrid and remote working practices for your company, and ensure that these practices are not hindering your ability to attract and retain talent.
+Recognize the opportunity to hire people who have had roles other than second-line risk roles by, for example, considering people from first-line control functions, operations, technology, and the business itself.
+Structure onboarding thoughtfully and with new working norms in mind. Due to the challenges of remote onboarding, it’s crucial, as just one example, to make sure new employees know who their guides and mentors are within the organization.
+Build agile, borderless support systems.
+Build skills through virtual coaching and feedback.
+Build virtual communities focused on development and opportunity.
+Stay closer to high performers, wherever they are located.
+
+Upskill people at all levels on general capabilities, including ensuring they can thrive in hybrid settings.
+Make ongoing learning easier to access and at no financial cost to employees (as opposed to being reimbursed later for courses).
+Automate more manual processes at lower levels to build time for learning and development.
+Leverage the power of digital.
+Build agility for the long term.5
+
+Upskill people specifically on risk: cross-train employees on different types of risk and create opportunities for people within the organization (but outside the risk function) to be trained in risk management—both to retain them and to build the function.
+Maintain a strong focus on DE&I. The firms that build and maintain a diverse workforce in the risk function are those that promote risk as a positive career destination, one that provides its employees the opportunity to learn the firm and demonstrates that it is possible to move in and out of the risk function and that it is a good career steppingstone.
+Demonstrate the value of the risk function as a more attractive career opportunity and a function playing a critical role in ensuring the organization operates in a safe and sound manner.
+
+As complex as the role of CRO has become, it does not appear that the pace of change will slow any time in the near future, nor that the global environment within which financial institutions operate will stabilize. Financial services firms must act now to avoid the risk of not having the right risk leaders they will need for the future: as firms, they must be willing to take different risks by thinking outside the traditional talent pool to find and develop the leaders they need. These new leaders will need agility, business acumen, communication skills, curiosity, digital dexterity, financial and non-financial risk experience, and the ability to influence and build relationships. Firms must therefore consider succession planning with a flexible mindset, avoid getting specialist risk leaders stuck in a siloed technical discipline, be constantly looking for opportunities to cross-train teams, and highlight the benefits of joining the risk function.
+
+About the author
+
+Paul Gibson (pgibson@heidrick.com) is a partner in Heidrick & Struggles’ New York office and a member of the Financial Services Practice, where he leads the Consumer Financial Services segment in the Americas.
+
+Acknowledgments
+
+This article draws on the insights shared at a Risk Management Association panel discussion with Kieran Fallon, chief risk officer, PNC Financial Services Group; Melinda Davis Lux, executive vice president, general counsel, and corporate secretary at United Community Bank; and Michael Nassey, executive vice president and chief credit officer at FVCbank. The author wishes to thank these executives for sharing their insights; their views are personal and do not necessarily represent those of the organizations they are associated with.
+
+References
+
+1 Elizabeth Langel and Sarah Sliva, “Financial services focus: The emerging role of the climate risk officer,” Heidrick & Struggles, heidrick.com.
+
+2 Heidrick & Struggles analysis.
+
+3Proprietary Risk Management Association (RMA) data, shared with Heidrick & Struggles.
+
+4 Mark Jackson, “Financial services: Ensuring the next generation of risk leaders is ready,” Heidrick & Struggles, heidrick.com.
+
+5 For more on building agility for long-term strength, see Rose Gailey, Steven Krupp, and Laura Leigh Neville, “Synchronizing leadership and culture for breakthrough success,” Heidrick & Struggles, heidrick.com.
+
+Related Services & Industries
+
+Audit, Risk, Compliance & Controls
+
+Financial Services
+
+Leadership Development
+
+Legal, Risk & Compliance
+
+Related Content
+
+Financial Officers
+
+Leadership perspectives: Insights from Alison Henwood, Chair of the Audit Committee of Umicore
+
+In this video, Alison Henwood, Independent Non-Executive Director, Chair of the Audit Committee of Umicore, shares insights into the ideal audit chair-CFO relationship, and the leadership capabilities required for mutual success.
+
+Legal Officers
+
+Government and corporate affairs focus: Finding leaders who can effectively manage political and regulatory risk
+
+Navigating the constantly evolving global political and geopolitical landscape is a strategic necessity today. Our work with US and global companies suggests a comprehensive menu of options and some questions companies can use to navigate them, whether they are just starting out or already have a foundation to build on.
+
+Audit, Risk, Compliance & Controls
+
+Navigating the regulatory environment and balancing stability and innovation: A conversation with Michael Held, partner at WilmerHale
+
+Michael Held, partner at WilmerHale and former general counsel at the Federal Reserve Bank of New York, discusses how traditional finance and crypto and fintech leaders can navigate the ever-evolving regulatory environment.
+
+Audit, Risk, Compliance & Controls
+
+Recalibrating cryptocurrency for the future: A conversation with Marcus Hughes, the former chief risk officer of BitMEX
+
+Marcus Hughes, former chief risk officer of BitMex, discusses what the cryptocurrency industry needs to do to prepare for the future and how and to whom it should demonstrate the utility of the technology.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

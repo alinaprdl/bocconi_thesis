@@ -1,0 +1,197 @@
+Can CIOs really do it all? | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Can CIOs really do it all?
+Explore this page Organizational structure isn’t keeping up with demands on top technology leadershipHow corporate culture can make—or break—a CIO’s experienceThe role of executive support in setting up a CIO for successAbout the authorsRelated Content
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Digital Leadership Can CIOs really do it all?
+
+Many companies struggle to find and keep a strong CIO. Are they asking too much, or have they not put in place the culture, organizational structure, and executive support to help their CIO succeed?
+
+Dennis Baden ,
+Katherine Graham Shannon
+
+Support from the top for CIOs
+
+The following questions provide a good start for CEOs and boards seeking to support their CIO:
+
+Are the CIO’s role and responsibilities—and the board’s and the CEO’s expectations of the role—clearly defined?
+Does the CIO have the support in terms of team and budget to meet those expectations?
+How ready is the organization to change? Does the CIO have the cultural knowledge to be a credible change leader?
+Will the existing team help or hinder the transformation?
+Does the CIO have the right seniority to credibly drive change?
+How can other senior leaders support the CIO’s change agenda?
+
+Expectations of CIOs are at an all-time high as world-class technology leaders redefine the parameters of the role. Former Walmart CIO Clay Johnson helped transform the brick-and-mortar behemoth into an e-commerce juggernaut. CIO Vijay Sankaran has brought a wave of innovation and new products to TD Ameritrade. And Dick Daniels—CIO at Kaiser Permanente—is using technology to improve health.
+
+Accomplishments such as these have raised the bar for CIOs; for years now, organizations have sought candidates capable of more than just running corporate systems and overseeing infrastructure. The CIO is still widely considered the top technology job in most industries— no matter how many other digital titles there might also be—and it is not enough to simply keep the trains running on time. Almost all of today’s CIOs are being asked to lead digital transformation initiatives, develop data and cybersecurity strategies, and steer the business toward sustainable, tech-enabled growth and profitability.
+
+Finding someone who can do all that is a tall order, and it’s harder and harder in today’s hypercompetitive CIO market. But a scarcity of candidates with the right blend of business acumen and technical expertise obfuscates an underlying reason many companies, in our experience, struggle to find—and keep—the right CIO: they are missing the key components needed to enable this vastly expanded role. Fundamentally, as the role of the IT function and its leader radically evolves, the organizational context in which they’re operating has become confused and can often hinder performance and create mismatched expectations.
+
+So how can organizations set up CIOs for success and create an environment that allows them to thrive as the landscape shifts? The answer is threefold: a clear organizational structure, a supportive and change-oriented culture, and strong executive support.
+
+Organizational structure isn’t keeping up with demands on top technology leadership
+
+A proliferation of C-suite technology titles has added layers of complexity to traditional organizational structures. CIOs and CTOs (titles that many companies confuse) are now joined by CISOs (chief information security officers), CDOs (chief digital officers), and CDAOs (chief data and analytics officers). These roles often separate the CIO from both the CEO and the front line and redistribute responsibility in ways that aren’t always clear. Conversely, at other times, all of these functions still report to a CIO, which is arguably too much for one leader.1
+
+In companies that have several technology titles, CIOs can perceive a loss of control over data and business processes. Other developments are also shifting control. Employees are using corporate apps, for example, gaining greater access to the cloud, resulting in reduced reliance on technology leaders. User-friendly tools such as data visualization solutions are enabling business-line leaders to perform tasks once reserved for IT leaders, ultimately creating what are often known as “shadow” IT organizations. And finally, as everyone becomes more tech savvy, some CEOs expect their CIOs to be able to drive transformation faster and more thoroughly to improve the business as a whole, even when they don’t have full authority over the resources needed.
+
+Clear responsibilities and lines of authority are crucial for any senior executive to meet his or her goals. CIOs need to know what value they’re expected to deliver to an organization and where they fit on the organizational chart. Clearly defined roles are a must-have, even if it means breaking the mold to create a new position. Case in point: when Kroger Co. CIO Christopher Hjelm retired in mid-2019, the supermarket chain didn’t appoint a new person to the vacated role. Rather, Kroger added the CIO title to Yael Cosset’s existing duties as CDO. Today, Cosset leads the Kroger Technology division while also managing the Kroger Digital division. Nike also recently moved to a similar construct with the recruitment of Ratnakar Lavu as its first-ever chief digital information officer. Such combinations can put a lot on one person’s shoulders, so it is important to surround a CIO in this kind of role with a strong team and/or provide the requisite budget to cover any gaps in the organization.
+
+Other firms, particularly some quickly growing ones, define roles for both a CIO and a CTO. In this scenario, the CIO carries on traditional duties of IT operations, corporate systems, and information security, while the CTO is more focused on building products and being the public face of technology for the company. Progressive Leasing in Salt Lake City, Utah, is one example: its CTO is responsible for all client-facing technology and POS systems, and the CIO is focused on infrastructure and information security. Both leaders report to the CEO, giving them equal weight.
+
+Whether an organization breaks from convention or sticks to the idea of the CIO as the single most senior technology executive, carefully delineated roles and responsibilities are, in our experience, the best way to support CIO growth and development of new capabilities.
+
+How corporate culture can make—or break—a CIO’s experience
+
+Culture can be either the catalyst that buoys CIOs to success or the shackles that bind them to the status quo. This is especially true as organizations look to CIOs to make them more digital, a process we call “digital acceleration,” which we define as “an organization’s ability to effectively employ new technologies to innovate its current operating model and customer experience while also incubating new digital offerings and ways of working.”
+
+Cultural relics, such as legacy mindsets and risk aversion, can stall acceleration. For CIOs (or any other person charged with leading a digital transformation) to succeed, companies must first build a culture that encourages employees to fail fast and learn; prioritizes innovation over efficiency, and supports cross-functional collaboration.2 With these cultural shifts, the organization will be ready to fundamentally change how it operates and delivers value to customers. And companies will be more able to attract the CIO they need.
+
+However, most companies have not yet built a culture that fully supports a technology transformation. Too many companies seeking to speed up their digital and data transformation think hiring someone from Silicon Valley is the answer. While it can work at times, a CIO, particularly one trying to lead change, can succeed only when he or she is able to work within the existing culture. When the organization is not ready for change, oftentimes a transformational leader is met with resistance from a long-tenured team that prefers the status quo. Another frequent cultural barrier for CIOs who have come from Silicon Valley to a very different industry is a lack of experience working in more structured environments, particularly regulated ones. We have seen that people who thrive in disruptive technology cultures are often unable to build the relationships that will help them reshape the culture at a slower-moving organization. This is typically because they are used to technology being core to the business, and moving to an organization where it is well established as a back-office support function can cause immediate clashes.
+
+The role of executive support in setting up a CIO for success
+
+Technology transformation, by its nature, creates discomfort. It continuously challenges the status quo, questions the value of proven business processes, and asks employees to embrace technologies that could ultimately displace them.
+
+CIOs can alleviate some of this pain by aligning the transformation with employee values and behaviors and delivering quick wins. But, ultimately, other senior executives must also help create an environment that supports the CIO and breaks down organizational resistance to new ideas (see sidebar, “Support from the top for CIOs”).
+
+This can be accomplished in several different ways, most notably including the CIO on the executive committee and having the role report directly to the CEO. It’s long been a truism that for CIOs to be effective, they must have a say in business strategy, from how technology can drive business outcomes to the hires they make. With a true seat at the table, CIOs can apply their business acumen to shape strategy and create alternative sources of revenue, while delivering on digital dexterity. (This, of course, also means that to attract a top CIO, one who can deliver this type of value, the organization must compensate him or her similarly to other leaders on the executive team.)
+
+At companies that split their technology leadership among several executives, such as a CDO and CTO along with a CIO, that team of leaders can also be effective in ensuring collaboration is happening at exactly the right locations within the organization—with a CDO coordinating with marketing, perhaps, and the CTO working closely with the product team and other business leaders to ensure all are on the same page.
+
+Cultural and structural chaos is making it challenging for CIOs to thrive, especially in new environments. Although companies have paid a lot of attention to creating a digitally friendly culture, little attention has been paid to what that means for the IT function and particularly for how its leaders interact with others. As CIOs try to drive change, misaligned expectations and cultural mismatches can derail companies’ digital acceleration. As the demands on CIOs continue to increase, and their abilities are continuously tested, the organizations surrounding CIOs must also evolve to unlock the power of technology.
+
+About the authors
+
+Dennis Baden (dbaden@heidrick.com) is global managing partner of Heidrick & Struggles’ Technology Officers Practice; he is based in the Boston office.
+
+Katie Graham Shannon (kshannon@heidrick.com) is global co-managing partner of the Digital Innovation Practice; she is based in the San Francisco office.
+
+References
+
+1 For more on how companies are managing their digital C-suite titles, see Katie Graham Shannon and Scott Snyder, “Why successful digital officers don’t always have ‘digital’ in their title,” January 2, 2020.
+
+2 For more on how to build such a culture, see Chad Carr and Scott Snyder, “Building a digital culture,” June 4, 2019.
+
+Related Services & Industries
+
+AI & Technology Officers
+
+Digital Leadership
+
+Organization & Culture
+
+Related Content
+
+Leadership Development
+
+AI focus: Leveraging your culture to accelerate GenAI enablement
+
+Realizing the value of your AI investments relies more on your culture than on the technology itself. Our work and interviews with five executives highlight how companies are engaging their leaders to speed GenAI progress.
+
+FinTech
+
+Stablecoins and the future of finance: A conversation with Marieke Flament, co-author of Euro Stable Watch, board member and advisor
+
+Marieke Flament explores how stablecoins are reshaping global finance and what today’s leaders need to thrive in a decentralized financial system.
+
+Marketing, Strategy & Communications
+
+AI leadership in communications: A conversation with Corey duBrowa, Global CEO of Burson
+
+Corey duBrowa shares practical guidance for corporate communications leaders on harnessing AI, staying ahead of emerging trends, and advising CEOs and boards on the right questions to ask.
+
+Digital Leadership
+
+AI and leadership: How finance, HR, and technology leaders are collaborating to make the most of AI across the enterprise
+
+When leaders of these key functions work together effectively, their companies are more able to benefit from implementing AI. Focusing on three areas will help keep progress going.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

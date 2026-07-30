@@ -1,0 +1,89 @@
+Digital Leadership: Will the Chief Information Officer Role Disappear?
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Digital Leadership: Will the Chief Information Officer Role Disappear?
+
+By
+
+Lars Alexander Gollenia
+
+January 2017
+
+| 0 min read
+
+Author
+
+Lars Alexander Gollenia
+
+Frankfurt
+
+Years ago, chief information officers (CIOs) occupied a key role within the business world. They were seen as the gatekeepers who maintained the information technology and computer systems within an enterprise. That critical role, however, is in danger of being supplanted by the increasingly popular position of chief digital officer (CDO) — indeed, some experts estimated roughly 2,500 new CDO positions were created in 2016 alone.
+
+Typically, the CDO is brought in to boost the company’s digital fluency and lead it forward in an increasingly digital world. This is clearly a necessary role, but it could also leave the CIO looking anachronistic and irrelevant, like a rotary phone in a world of smart phones.
+
+But all is not lost — CIOs can remain important to their companies, but they must pivot to embrace the widening role of technology and learn new leadership capabilities. To further explore the role of the CIO within digital transformation, Spencer Stuart gathered 25 CIOs of some of the most prestigious companies across Germany, Austria and Switzerland. At this meeting, we looked at some examples across different industries and how the CIO can stay relevant and, indeed, become a crucial part of businesses going forward.
+
+Insurance
+
+In the insurance industry, the business models are changing quickly — and radically. On the consumer side, customer expectations are shifting. Users now expect digital channels that offer personalized digital services and allow them to interact with insurers. On the business side, new technologies — such as wearables, telematics, predictive data analytics and artificial intelligence — offer the possibility for insurance companies to develop new technology-based digital business models. Meanwhile, new market entrants that build their business models based on technology and large venture-capital funding pools are threatening to disrupt the traditional insurance business models. For traditional insurance companies like UNIQA, it is clear that they will have to transform in order to stay relevant.
+
+“Our business model is changing dramatically,” said Alexander Bockelmann, CIO and CDO of Vienna-based UNIQA. “We are digitizing our internal processes as well as our channels to our customers, and most importantly, we are creating new digital business models to become a truly digital insurance company.” Bockelmann sees his role at UNIQA as part of the digital transformation, providing technology services and supporting the creation of digital services and products for UNIQA customers. At UNIQA, the CIO reports directly to the COO and advises the senior management team on strategic business matters, which is where Bockelmann believes the role will eventually land: “Today the CIO is required to think and act strategically and be an adviser to the board on technology-based business models,” he said. “Going forward, the CIO will need to be able to pivot and adapt to different roles, and add value both strategically and on a nuts-and-bolts level. That’s just where the position is going.”
+
+Going forward, the CIO will need to be able to pivot and adapt to different roles, and add value both strategically and on a nuts-and-bolts level. That’s just where the position is going.
+
+Alexander Bockelmann,
+
+CIO and CDO of UNIQA
+
+Automotive
+
+Leaders in the automotive industry have realized that this sector is at the forefront of the digital transformation. Consumers already have a taste of what a connected car will look like: Fully digitized vehicles will feature wi-fi, advanced information and entertainment systems, as well as car-to-car communication, real-time location and routing technologies, and more. Soon, cars will be driving autonomously and be heavily networked, communicating with other machines to provide additional benefits and maintain safety. New players from the technology industry are investing heavily in this realm, forcing traditional OEMs to ramp up technology capabilities.
+
+Digital technologies have already transformed Volkswagen’s vehicles and every step of the value chain, noted Martin Hofmann, CIO of the Volkswagen Group. In product engineering, for instance, virtual reality has been introduced broadly, while the roll-out of autonomous product development and self-steered production is speeding up and will become standard in the near future. The challenge for the CIO, then, is to support the cutting-edge IT while also helping to introduce new technologies. This requires a “bimodal IT,” Hofmann explained: Mode one IT takes care of the existing infrastructure and can be compared with a marathon runner who needs to efficiently and reliably manage pace to finish the race. Meanwhile, mode two IT requires innovating new capabilities and can be compared with a sprinter who delivers outcomes quickly with high agility.
+
+“For example, we have established several labs for data, artificial intelligence, smart production and smart engineering purposes,” Hofmann said. “Our innovative sprinter teams have new skills that utilize new methodologies as well as new tools to help shape the digital future of Volkswagen. They represent a new culture within Volkswagen, and the leadership task for me is to keep the balance between ‘sprinter’ and ‘marathon runner’ teams.” In other words, the CIO has become a transformation manager leading the change within the IT organization — and beyond.
+
+Our innovative sprinter teams have new skills that utilize new methodologies as well as new tools to help shape the digital future.
+
+Martin Hofmann,
+
+CIO of the Volkswagen Group
+
+Telecommunication
+
+The telecommunication industry is at the heart of the digital transformation by providing the infrastructure and services for the increasing digital consumer demands. But the digital transformation is also affecting telecommunication companies themselves, as new OTT players like WhatsApp transform the competitive landscape. A sound digital strategy needs to be put in place that streamlines and digitizes the operating model, which should eventually become data-driven, automated and more intuitive. To meet high customer expectations, telecommunication companies will need to establish a superior digital customer experience.
+
+Madrid-based telecommunications company Telefónica strives to deliver better digital services to customers in even shorter innovation cycles. Guido Eidmann, CIO of Tec DAX listed Telefónica Germany, underscored the importance of tackling digital transformation as an executive team: “The board needs to lead the digital transformation from the top,” he said. “The CIO and the entire management board need to work closely together as digital transformation is a company exercise and requires horizontal end-to-end views starting from the customer and affecting all corporate functions. It is not about delegating the task to a CDO or CIO.” For the CIO to remain a crucial part of the business, then, it is essential to understand the customer and business needs first and then apply the right technical solution to the challenges given by the customer, as technology itself does not have any purpose without creating value for them.
+
+The CIO and the entire management board need to work closely together, as digital transformation is a company exercise and requires horizontal end-to-end views.
+
+Guido Eidmann,
+
+CIO of Telefónica Germany
+
+How to Adapt to This Changing Landscape
+
+The examples from the insurance, automotive and telecommunication industry prove that digital transformation is a reality and that we are in the middle of it rather than at the start. CIOs of industry leaders like UNIQA, Volkswagen and Telefónica have stepped up to demonstrate a new set of leadership capabilities that will help them succeed in this environment. The discussion among the participants of the Spencer Stuart digital dialogue revealed that for CIOs, in general, three leadership capabilities will be crucial in order to succeed:
+
+Strategic thinking: CIOs will need to focus on larger, longer-term business issues, and create plans and strategies to adapt to the rapidly evolving and shifting digital environment. At a strategic company level, CIOs will advise and develop digital strategies that enable technology-driven new business models. Technology will be used as a key differentiator in every industry, and the CIO will have to conceptualize how the technology can be best used in the context of changing customer behaviors.
+
+Leading transformation:  The CIO is in a prime position to challenge current ways of working and anticipate the likely changes and challenges from the rise of new disruptive technologies. Therefore, it will be important for the CIO to align the organization and the larger business around the benefits of the transformation. Experience shows that a lack of alignment and executive buy-in results is the failure of large change programs. Resistance to the adoption of new ideas is a major impediment to the success of digital initiatives.
+
+Building people capability:  New digital business models will arise only in a culture that nurtures innovation. The CIO will need to foster a culture that rewards risk taking, encourages people to pursue new ideas and allows the freedom to fail. In order to do this, the CIO will need to enable existing parts of the organization while also hiring new talent, which in turn will create new skills and capabilities for the organization.
+
+In summary, digital transformation has altered the dynamics within the business environment, and the role of the CIO has evolved dramatically over the last few years as businesses become more digital. Participants at the Spencer Stuart gathering agreed that it will take a shift within the CIO paradigm to ensure that the position remains relevant. CIOs will need to push beyond their comfort zone and articulate a compelling strategy for the role of digital in the business. They also will need to grow as leaders, developing the skills to guide the organization down the path of digital transformation. CIOs’ ability to pivot and develop new skills will determine whether the position remains viable or slowly becomes obsolete.
+
+Download
+
+Download
+
+Author
+
+Lars Alexander Gollenia
+
+Frankfurt

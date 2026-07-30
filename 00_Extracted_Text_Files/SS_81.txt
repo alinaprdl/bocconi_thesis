@@ -1,0 +1,128 @@
+The Chief Privacy Officer’s New Priorities: From Risk Manager to Strategic Partner
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+The Chief Privacy Officer’s New Priorities: From Risk Manager to Strategic Partner
+
+By
+
+Kimberly Fullerton and
+
+Marine Lello
+
+June 2025
+
+| 5 min read
+
+Authors
+
+Kimberly Fullerton
+
+San Francisco
+
+Marine Lello
+
+San Francisco
+
+SectionsIn this article
+
+Key findings
+
+More companies today are turning to privacy officers who have a strong background as business partners — leaders who are strong communicators and trusted collaborators with key stakeholders.
+
+Privacy team structures are changing. Some companies are adding non-lawyers to in leadership roles. We are also seeing more privacy officers who lead a cadre of engineers or operations professionals.
+
+Strong knowledge of the privacy landscape is no longer enough. Adaptability, curiosity, a collaborative mindset and the ability to navigate uncertainty have become critical differentiators.
+
+The chief privacy officer (CPO) role continues to evolve. The business conversation around privacy is shifting away from pure risk management and General Data Protection Regulation (GDPR) compliance to a more multifaceted and strategic perspective, taking into account broader global regulatory oversight, branding and corporate reputation, and ensuring that companies can meet the demand for innovation.
+
+As a result, privacy executives are seeing their remits expand from traditional privacy considerations to the more strategic use of data, including playing a leading role in the responsible development and deployment of AI technology. Meanwhile, some organizations are scaling back their more traditional privacy functions, redistributing resources and reconfiguring their teams in light of these changing priorities.
+
+“Sophisticated CPOs can adapt and be useful in an age where issues are broader and more interlocking,” said Keith Enright, who spent 13 years as chief privacy officer for Google and now co-leads the Artificial Intelligence Practice Group for Gibson Dunn, the global law firm. “Adaptability and key broader business and product insight will be key in navigating this evolving landscape.”
+
+Download
+
+Download
+
+Amid this environment, we took a close look at the shape of the CPO role in today’s market, and what it takes to succeed. Based on our work supporting clients in discovering and developing leaders in the privacy function and interviews with general counsel and several top privacy professionals, we present some findings about privacy leadership in an evolving landscape.
+
+2025 Privacy Trends
+
+AI priorities. In the race to adopt artificial intelligence, the pressure is on to use AI to secure a competitive edge, with the balance today shifting toward commercial potential over responsible deployments and ethical considerations.
+
+Global regulations. The EU is expected to introduce more privacy regulations, including a structured risk framework for AI systems. For the time being, however, technology development is outpacing regulation.
+
+State-level enforcement in the U.S. While federal privacy regulation lags, individual state legislatures are pushing to regulate companies on privacy issues.
+
+Existential threats beyond privacy. The landscape is increasingly complex, with competitive pressures, content regulation and cybersecurity among the myriad issues facing companies.
+
+The chief privacy officer role today
+
+Senior privacy roles have traditionally been held by a cohort that is enthusiastic and proud of the job’s brand and deeply knowledgeable about regulatory schemes. However, we are increasingly seeing companies pivot away from the hyper-specialization of this role.
+
+In particular, more companies today are turning to privacy leaders who have a strong background as trusted business partners. The best are able to communicate clearly the value of data management and innovation, and work closely with other stakeholders throughout the product life cycle. A top CPO will work closely with the product team. They will provide commercial, risk-weighted advice, enabling them to move quickly. They will balance risk with opportunity and drive faster launch times.
+
+“These developments make it fun,” said Elise Houlik, chief privacy officer at Intuit. “You get to sit side-by-side with the business, brainstorming new ways to help a customer or a product that will change the market.”
+
+Below we look at a few specific shifts we have been seeing for CPOs:
+
+Differing reporting structures. While privacy is most commonly a part of the
+legal function, companies are increasingly housing it in other areas where it can
+have a significant impact, including risk, compliance, operations or information
+technology. Some companies are also bifurcating the privacy function between
+legal and operational groups, depending on their own organizational factors.
+
+New titles for the position. We have seen the emergence of some new, experimental titles for this role, such as chief data officer and chief trust and privacy
+officer. These revised roles reflect the growing and changing purview away from the straight focus on privacy regulations to the push for more business-minded leaders.
+
+Non-lawyers’ rising influence. Traditionally, the function has been dominated by lawyers, both in leadership and on teams. But, as companies seek to bring privacy professionals closer to the business, team structures are changing. Some are adding more non-lawyers to their teams, sometimes in leadership roles. We
+are also increasingly seeing privacy officers with a cadre of engineers or operations professionals who report to them.
+
+The attractiveness of cross-sector expertise. A strong grasp of privacy, AI and data principles is a skill that transcends sector boundaries. In particular, companies outside of the tech sector are hiring privacy leaders who come with a tech company background, allowing them to provide unique insights on growth,
+scale and transformative technology strategies.
+
+Alternative routes to the top. Amid the trends above — namely, more roles for non-lawyers and the value of cross-sector expertise — different lawyer career
+paths to the CPO role are gaining prominence. For example, experience with product counseling, operationalizing compliance programs, advising on sophisticated commercial transactions, engaging and interfacing with government, and high-stakes litigation are some of the areas we’re seeing gain favor in candidates
+for these roles.
+
+What makes a successful privacy leader
+
+So, what are the attributes of a strong privacy leader in today’s environment?
+
+Align your team’s strategy with business objectives. Elise Houlik described how she encourages her team to “map the work we are doing to the advancement of
+our company’s broader strategic goals.” In a space where good storytelling is critical, “you can tell the story of your impact by finding the lines of connectivity
+between the work you are doing and your company’s objectives.”
+
+Strong “soft skills.” Companies have traditionally focused on regulatory knowledge and technical capabilities. But we have found that without certain personal characteristics, a strong substantive knowledge is not enough to be successful. Adaptability, curiosity, a collaborative mindset (particularly as it relates to the business and product) and the ability to navigate uncertainty were cited by our interviewees as important.
+
+A partnership mentality. Jane Horvath, a partner and co-chair of the Tech and Innovation Group at Gibson Dunn who formerly spent more than a decade
+as chief privacy officer at Apple, encourages leaders to get to know business partners well. “Create a partnership and don’t rely on escalating to your GC when there is an issue,” she said. “Try to fix things with your clients, because too much escalating will get you uninvited to the meetings.” A savvy CPO understands what needs to be escalated and where the general counsel needs to be in the loop, and where they can get to solutions through their business partnerships.
+
+A presence on key leadership teams. Having the CPO or their lieutenants sit in on key stakeholders’ extended leadership teams enables the privacy team to partner early on key product, IT, marketing and commercial initiatives. With access to more internal stakeholders, the privacy team can better understand their clients’ roadmap and, if needed, will be well placed to support during moments of crisis.
+
+Develop privacy as a connector function. Successfully run privacy functions engage and collaborate
+with every department that is working with data. The best privacy leaders add value by connecting the
+dots between data and the commercial possibilities.
+
+Lead the way in early technology adoption. The privacy team should be at the forefront of developments related to technology and AI. Sooji Seo, chief
+privacy officer for 3M, said that she encourages her team to embrace AI and other technologies to “move routine activities off our plate.” This allows team members to “focus on the highest-value and highest-risk work.” Being an early adopter can also better equip the team to anticipate potential operational risks and privacy considerations when developing new solutions for customers.
+
+Lead with a data-driven approach. Establishing metrics linked to corporate objectives helps assess impact and prioritize projects, aiding in identifying where privacy efforts add value to the organization. As Elise Houlik put it, “Tracking data around where we spend our time helps my team get a better line of sight into the parts of the organization that we are engaging with more actively,” thereby helping teams identify the areas that might need more attention. We also see an opportunity for privacy teams to use data to better advise clients.
+
+• • •
+
+In the best-case scenarios, we have seen sophisticated privacy functions help elevate the overall status of the whole legal function. However, as the chief privacy officer evolves from risk manager to strategic business partner, the elements of success are changing. The CPOs of the future will be strategic business partners who can adapt to broader responsibilities, including AI and data strategy, while fostering collaboration across departments.
+
+Authors
+
+Kimberly Fullerton
+
+San Francisco
+
+Marine Lello
+
+San Francisco

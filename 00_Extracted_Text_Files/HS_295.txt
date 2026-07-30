@@ -1,0 +1,170 @@
+Developing digital expertise through skill grafting | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Developing digital expertise through skill grafting
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Talent Strategy Management Developing digital expertise through skill grafting
+
+Excerpt based on material that originally appeared in the book Goliath’s Revenge.
+
+For companies in every industry, digital technology and data have rapidly become invaluable contributors to business strategy and performance. Whether the goal is to gain a better understanding of what customers want, increase efficiency and cut costs, or identify growth opportunities, technologies such as machine learning are becoming integral to decision making as well as operations.
+
+Executives’ excitement about technology’s potential is often tempered, however, by the shortage of qualified candidates to support such efforts. From tech giants in Silicon Valley to automakers in Detroit, companies are competing for a limited pool of workers to build and execute the digital capabilities needed to keep pace with both consumers and other companies. That places a high premium on candidates with the right expertise. Indeed, one estimate pegs the global number of people with the knowledge to pursue artificial intelligence (AI) research at just 10,000.1
+
+So, while many companies choose to pay top dollar to attract the data scientists, analysts, designers, and engineers needed to keep up with their digital ambition, results have been mixed. The business landscape is littered with bespoke digital functions, shuttered for failing to meet a company’s expectations. Indeed, our research found that only 27% of small companies and 29% of large ones believe they have the right digital workforce.2  And more than two-thirds of the companies we surveyed identified either moderate or large talent gaps.
+
+If companies can’t hire their way out of the problem—and getting internal employees up to speed on data and technology represents a complex, long-term effort—how can executives build a sufficiently robust digital capability?
+
+Accelerate digital capability through knowledge sharing and collaboration
+
+Leading organizations are pursuing skill grafting, an innovative approach to building the digital and data capabilities they need to compete. Rather than searching for individuals with the required breadth of experience, skill grafting creates teams with complementary skills to cover the necessary ground. This approach has the added benefit of developing employees with a T-shaped skill set (individuals with broad knowledge in one area coupled with deep expertise in another) by exposing them to colleagues whose insights and experience can augment their existing skills.
+
+The University of Pennsylvania Health System offers a compelling case study in how to apply skill grafting. Roy Rosin, its chief innovation officer, sensed that existing staff might react poorly to an en masse infusion of tech specialists. Instead, he created integrated teams composed of the top clinicians at Penn Medicine, technical specialists from Penn’s own engineering program, and business minds from Wharton. These teams were then augmented sparingly with external hires and contractors.
+
+Crafting a central staff primarily out of diversely skilled people with existing relationships to one another and to Penn proved easier and more efficient than chasing the few people with both healthcare domain knowledge and deep technical know-how. Further, Rosin’s teams ended up being more unified and connected than a collection of outside hires would have been.3  The interdisciplinary teams have achieved impressive results in areas such as reducing readmissions due to pregnancy-related hypertension and freeing up time for maternity ward nurses. And they have been able to make decisions, conduct pilots, and innovate at an accelerated pace.
+
+Although executives may be tempted to address their digital and data needs simply by hiring or outsourcing, Penn Medicine’s experience demonstrates how skill grafting can promote the integration of new employees without disrupting the work environment or culture. Establishing teams with a clear connection to the organization not only ensures they are aligned to support business strategy but also accelerates knowledge sharing over the long term. Legacy employees develop new ways of working, while new digital hires gain domain and business knowledge more rapidly.
+
+Four steps to implement skill grafting
+
+Curating diverse, multifunctional teams is a complex undertaking. If effective hiring involves finding qualified candidates who can excel in a given role, skill grafting calls for senior leaders to consider a broader range of skills, experience, and attributes to assemble a high-performing team. The following four steps can help ensure that companies generate value from their skill-grafting initiatives:
+
+Look beyond the resume when assembling teams. Traditional resumes and roles often don’t provide a window into the full breadth of a candidate’s skills and experience. Thus, the HR function should develop a screening process that uncovers overlooked traits—such as familiarity with design thinking or an interest in problem-solving techniques—to assemble teams with the optimal mix. Google, for example, has discovered that the success of product teams is as dependent on soft skills and personality mix as hard skills and technical experience. To make skill grafting work, organizations should put effort into the softer side of integrating people from different functions, companies, and industries to create high-performing teams.
+
+Take a two-speed approach to hiring. Leading companies hire for two classes of digital roles: immediate and coming soon. The immediate category consists of design, development, and data science roles. The coming-soon roles include product incubation managers, behavioral scientists, journey mappers, business modelers, solution finders, and emerging-technology specialists. Since these roles are still in the process of being defined, organizations can find it difficult to contract for them externally. But skill grafting can enable companies to start building these positions up internally; HR can take the lead in identifying emerging roles and a pipeline of internal candidates with a critical subset of the skills to be considered for near-term development.
+
+Shape a compelling vision to attract digital candidates. When seeking to stand out to digital and tech professionals, companies often focus on salary and benefits while overlooking the importance of articulating a vision. Although top candidates can command an impressive salary, the opportunity to help a company chart a new course, reshape an industry, or make effective use of huge volumes of data can also be huge draws. A company’s vision should also emphasize the opportunity for digital specialists to be exposed to and learn from different parts of the company. Such experiences have the potential to turn data scientists and engineers into the next generation of business leaders—a hugely attractive proposition for tech experts and current senior executives alike.
+
+Implement a two-way learning contract. The success of skill grafting depends on not only a company’s investment in professional development and support but also the willingness of employees to reach beyond their comfort zone and embrace learning opportunities. Organizations can provide access to training and expertise, but this should be matched with incentives for individuals who put their energy into upskilling as part of their personal development path.
+
+*** Skill grafting is proving its value by harnessing the institutional knowledge of legacy employees and augmenting it with the expertise of new hires to develop new corporate capabilities more effectively. In addition, its ability to bridge the divide between new digital functions and the business can promote a culture of collaboration and innovation. While skill grafting can require senior leaders to view employees and potential hires through multiple lenses rather than just one, the payoff can be well worth the extra effort.
+
+About the author
+
+Scott Snyder (ssnyder@heidrick.com) is a partner in Heidrick & Struggles’ Philadelphia office and a member of Heidrick Consulting. He is a senior fellow at the Wharton School at the University of Pennsylvania.
+
+References
+
+1 Cade Metz, “Tech giants are paying huge salaries for scarce AI talent,” New York Times, October 22, 2017, nytimes.com.
+
+2 Todd Hewlin and Scott Snyder, Goliath’s Revenge: How Established Companies Turn the Tables on Digital Disruptors (Hoboken, NJ: Wiley, 2019).
+
+3 Heidrick & Struggles case study, “Harnessing talent to revamp patient care at Penn Medicine.”
+
+Related Services & Industries
+
+Leadership Development
+
+Related Content
+
+Financial Officers
+
+Finance function focus: How chief tax officers are rewriting the role of tax
+
+The modern chief tax officer is part strategist, part operator, and part talent builder—rewriting the tax function for a more complex, capital-conscious era.
+
+Leadership Development
+
+How AI is reshaping legal services: A conversation with Julien Tanguy, CEO of Lefebvre Group
+
+Julien Tanguy, CEO of a leading European provider of legal and tax services, shares how AI is driving cultural change, redefining leadership roles, and accelerating innovation through trusted data, talent, and technology.
+
+On-Demand Talent
+
+Overcoming organizational inertia with interim leaders and experts
+
+Stop gambling on the status quo. Learn how to quantify the price of doing nothing and audit internal capacity gaps to ignite strategic growth.
+
+Marketing, Strategy & Communications
+
+Communications as a key driver to growth: A conversation with Silvio Tavares, president and CEO of VantageScore
+
+Silvio Tavares discusses leveraging accountability, AI, and clear company values to drive performance and innovation.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

@@ -1,0 +1,425 @@
+Discover the importance of Growth Mindset in Consumer Product - Egon Zehnder
+
+Skip to main content
+
+Search for “”
+
+... in Consultants
+
+... in Offices
+
+... in Services
+
+... in Insights
+
+Search all results
+
+Our Services
+
+Shaping Successions
+
+CEO Successions
+
+Executive Successions
+
+Board Successions
+
+Chair Successions
+
+Committee Chair Successions
+
+Advancing Governance
+
+Board Review
+
+Board Development
+
+Board Advisory
+
+Building Advisory Boards
+
+Sustainability Board Advisory
+
+Discovering Leaders
+
+CEO Search
+
+Executive Search
+
+Board Search
+
+Advisor Search
+
+Executive Assessment
+
+Developing Leadership
+
+Individual Development
+
+Accelerated Onboarding
+
+Development Planning
+
+Coaching
+
+Team Journey
+
+Unlocking Transformations
+
+Transformational Development Programs
+
+Chair and Board Potential
+
+Executive Breakthrough
+
+Executive Discovery
+
+Transformational CHRO
+
+Voyager
+
+Customized Leadership Immersion
+
+Explorer
+
+Cultural Transformation
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Chief Executive Officers
+
+Founders
+
+Technology Officers
+
+Chief AI, Data & Analytics Officers
+
+Chief Information Officers
+
+Chief Information Security Officers
+
+Chief Product Officers
+
+Chief Technology Officers
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+Consumer
+
+Consumer Products
+
+Media & Entertainment
+
+Restaurants, Leisure and Hospitality
+
+Retail, E-commerce, Apparel and Luxury
+
+Sports
+
+Financial Services
+
+Asset Management
+
+Banking and Markets
+
+Digital Assets, Crypto, & Web 3
+
+FinTech
+
+Infrastructure
+
+Insurance
+
+Private Equity
+
+Retail Financial Services
+
+Risk Management
+
+Sovereign Wealth Funds
+
+Wealth Management
+
+Health
+
+Biopharmaceuticals
+
+Healthcare Delivery & Services
+
+Life Sciences Tools & Pharmaceutical Services
+
+Medical Devices, Diagnostics and Technology
+
+Industrial
+
+Aerospace & Defense
+
+Chemical & Process Industries
+
+Energy
+
+Machinery & Industrial Technology
+
+Mining & Metals
+
+Mobility & Automotive
+
+Public & Social Sector
+
+Arts, Culture & Sports
+
+Economic, Social & Human Development
+
+Education & Research
+
+Environment & Sustainability
+
+Interest Representation & Public Affairs
+
+Public Administration
+
+Public Finance
+
+Public Health
+
+Public Infrastructure
+
+Services
+
+Air Transport
+
+Business Services
+
+Hospitality, Travel & Leisure
+
+Professional Services
+
+Real Estate Services
+
+Transportation & Logistics
+
+Technology & AI
+
+Artificial Intelligence
+
+Communications & Connectivity
+
+Cyber Security
+
+Digital
+
+Enterprise Tech
+
+Internet of Things
+
+Semiconductors
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+Functions
+
+Industries
+
+Meet our Consultants
+
+Discover Insights
+
+Find Offices
+
+About Us
+
+English
+
+Change
+
+Functions
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Industries
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+About Us
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+English
+
+Deutsch
+
+中文
+
+日本語
+
+Chief Product OfficersThe ‘Magic’ in Getting Product Right
+
+In Conversation with Greg Elkehag Funk, Chief Product Officer of Epidemic Sound
+
+November 2023
+
+5 mins read
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Have you ever met a Chief Product Officer who started in Product without even realizing it? Meet Greg Elkehag Funk, CPO of Epidemic Sound. Mr. Elkehag Funk started his career in economics but fell in love with and embarked on a 23-year career in Product. In this conversation, he shares his unique insights on the career, and how important it is to embrace a growth mindset while approaching challenges with unwavering optimism. This mindset resonates as a guiding principle that highlights the joy and excitement inherent in the ever-evolving role of a CPO. As he aptly puts it, "When you get it right, it feels truly magical."
+
+Read on for our conversation highlights:
+
+What was your path into Product?
+
+My path wasn't direct. I studied Economics and English in college, then earned a Master’s degree at the University of Chicago. I went on to work at PwC in Washington, D.C., focusing on economic modeling and coding – which I loved. But I realized that the part of it that I loved was figuring out what to build, who does it, when do we do it, how do we do it. I was doing Product management and engineering without really knowing it!
+
+So I decided to move to Silicon Valley, got an MBA from Berkeley, and entered tech product management. Since then, I’ve been doing tech product management my entire career, having worked in various companies, from startups like Catapulse and Gracenote to mid-sized ones like Avid and Rational Software, and larger ones like IBM and Google, where I spent around 13 years. Now, at Epidemic Sound I’m focused on building powerful AI features into our products to enhance the user experience.
+
+How has the role of Product management evolved over the years, and where do you see it heading?
+
+Over my 23 years in Product management, I've seen some change in the role that can be tied to computing paradigms. From graphic user interfaces to the internet and Web 2.0, each shift demanded different skills. Currently, with the AI paradigm, a good Product manager must comprehend models, technology, and data, integrating them into valuable user interfaces. The challenge lies in determining suitable interfaces beyond simple command lines.
+
+What are some misconceptions you see from CEOs around Product?
+
+One of the challenges I see, not just in CEOs but the whole C-suite – and sometimes even in Product folks – is the inability to differentiate between purely digital goods and those with physical attributes. And applying physical goods strategies to digital goods, or vice versa, is a common pitfall. Recognizing the distinction is crucial, especially considering factors like zero marginal cost and infinite scalability in the digital realm.
+
+How have leadership competences in Product management changed, and what challenges do you face in building a cohesive team?
+
+Leadership in Product management has become more layered with evolving computing paradigms. Building a successful Product organization is akin to dancing, balancing a crystal-clear vision with ideas from the team. We have a funny saying that we rarely have the great ideas coming from the C-suite. It’s important to nurture an environment where people come up with novel solutions and go in interesting directions, balancing that top-down and bottom-up approach. That’s really hard to do.  But when you get it right, it feels really, really magical.
+
+Where should Product sit in the organization? Where does it get the most influence?
+
+It depends on the organization and their state in terms of growth.  However, almost universally, Product and tech/engineering need to be incredibly closely tied together. The litmus test for a well-performing team often lies in the seamless collaboration between the Product manager and their tech counterpart. This alignment minimizes wasted effort, a critical factor given the inherent constraints on engineering hours.
+
+When building a Product team, where do you find talent, and what qualities do you prioritize?
+
+Talent management starts by focusing on existing team members, aligning product challenges with their passions. In locations with a high concentration of relevant talent, like Stockholm for Epidemic Sound, outreach in communities, universities, and diverse networks plays a key role. For specialized roles, we emphasize active outreach and occasionally partner with agencies to complement our efforts in accessing a diverse candidate pool. We really try to actively source candidates from different networks, not just the referrals of employees, by doing active outreach.
+
+When it comes to traits, the how people get things done matters almost the most. It matters if it’s done poorly, because it means people won’t be able to work together. It’s important to think about collaboration skills, empathy, and the ability to understand one another to think through opposing positions. A growth mindset is also important. We tend to be a very optimistic set of people at Epidemic Sound, so people who think critically but also optimistically about what can get done rather than what can’t get done will likely thrive here.
+
+Outside of the product realm, what would you be doing, and where do you draw inspiration from?
+
+If not in Product, I'd choose to be an engineer or a musician. I sing, and my family is very musical, so it’s a big part of me. Music and engineering share the ability to make lasting contributions to the world, and both offer a unique flow state where thoughts and feelings come to life.
+
+Are there any books, role models, or anything else that have inspired you in your journey that you could share with us?
+
+The Newsletter and Podcast Stratechery by Ben Thompson have been invaluable in evaluating businesses and products from a strategic perspective. The combination of volume and quality of insights has proven beneficial.
+
+In terms of inspiration, the Cynefin decision-making framework, introduced during my time at Google, has significantly impacted my approach to Product management – it helps you figure out what situation are you in by categorizing them into clear, complicated, complex and chaotic, and how you should make decisions. In the chaotic situations, think something like your daily active users are plummeting, what do you do? You act right away, and then you see what happened by the action and you take more action. Conversely, in a complicated situation, say you’re trying to localize a product. Should you act right away? No. You should come up with a really solid plan. It’s a complicated set of steps, but it’s very clear what a good answer is, what a good outcome is.
+
+Any final thoughts or advice for those navigating the exciting field of Product management?
+
+I find immense joy in product development and witnessing the world's renewed excitement about technology. Despite challenges, maintaining a growth mindset and staying optimistic are crucial. Building and nurturing connections within and outside the organization, seeking mentorship, and regularly engaging with peers can provide valuable perspectives and solutions to Product challenges. It's an exciting time to be in Product!
+
+Topics Related to this Article
+
+Product
+
+Talent Management
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Stay up to date with our latest insights.
+
+Subscribe now
+
+Changing language
+
+You are switching to an alternate language version of the Egon Zehnder website. The page you are currently on does not have a translated version. If you continue, you will be taken to the alternate language home page.
+
+Continue to the                 website
+
+Back to top

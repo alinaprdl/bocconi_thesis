@@ -1,0 +1,265 @@
+Achieving digital (re)acceleration | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Achieving digital (re)acceleration
+Explore this page Barriers on the path to digital accelerationReinvigorating digital transformationsAbout the authorsRelated Content
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Digital Leadership Achieving digital (re)acceleration
+
+When digital transformations begin to meet resistance, pausing to reset course and emphasizing talent and culture can help companies reengage the organization and rebuild momentum.
+
+Eric Skoritowski
+
+It’s about every single person who works here, every position, every piece of work and how we reshape it to better live our mission as an organization.
+Amy Ruth
+
+CHRO, GuideWell
+
+Digitization has been a platform for new behaviors and leadership development. As our leaders get more involved in digitalization work, we see greater buy-in for the culture work to support the change.
+Ellen Romano
+
+Senior Vice President of HR, Armstrong World Industries
+
+Enabling executives to confront this gap helped to shift mindsets around the need to embrace digital.
+Andrew Ploszay
+
+Vice President of Digital Strategy, IQVIA
+
+If you are truly dedicated to digitally enabling your business, you need to focus on people, processes, and technology in tandem.
+Yvonne Hodge
+
+Vice President, Business Transformation & Enterprise Excellence, Lockheed Martin Space
+
+Almost every company has recognized the need to take on a digital transformation journey—to harness digital technologies to achieve better customer outcomes and, hence, generate organizational value. The stakes couldn’t be higher: companies that can accelerate their digital maturity can build a sustained competitive advantage. Yet few have made it to the digital promised land. After some initial progress, many organizational initiatives start to stall, lose sponsorship, and are eventually abandoned. Indeed, in a recent survey, 70 percent of respondents whose organizations had undertaken a digital transformation indicated they had lost momentum at some point.1 And that was before the recent COVID-19 crisis focused so much attention on immediate-term considerations. The crisis is forcing many companies to speed up their digital transformations in some ways, but we expect most to stall again over time.
+
+Why is it so difficult to get digital right even in the best of times? The scale of the challenge is one factor: a digital transformation touches every part of an organization. Companies seek to harness digital to optimize dependability, performance, efficiency, and profitability. They must balance these priorities while also reinventing the organization for the future—a classic example of changing the tires while speeding down the highway. Another, critical factor that we find many companies don’t sufficiently acknowledge is that many transformations focus on technologies and relegate the human elements to an afterthought.
+
+Indeed, because “digital” implies a step change in not only technologies and processes but also mindsets and behaviors, it actually requires a greater emphasis on talent and culture than many leaders initially estimated. Moreover, the transformation journey does not happen overnight: companies must commit to a multiyear process and recognize that there is no real end point. A successful approach requires commitment and stamina across the organization.
+
+To explore how to get a stalled digital transformation back on track, we augmented our own experience with interviews of executives at several leading companies in various stages of their journeys. To reaccelerate, organizations must rethink their approach to leadership, organization, people, and culture as part of a comprehensive digital strategy that becomes central to the company’s business strategy and way of working. Or, as Amy Ruth, CHRO of GuideWell, the parent to a family of healthcare companies, explains, “It’s about every single person who works here, every position, every piece of work and how we reshape it to better live our mission as an organization.”
+
+Barriers on the path to digital acceleration
+
+Our research has defined five stages of digital acceleration. Each stage requires new organizational capabilities and mindset shifts to build the foundation for what comes next. Companies that have either just embarked on their digital journey or are still evolving into digital enterprises are particularly susceptible to seeing their initiatives stall. These organizations haven’t yet instilled digital across the enterprise with enough resilience to weather disruptions. And with ways of working being significantly affected by COVID-19, we can expect those disruptions to increase in scale and impact. That’s not to say that digitally steady or advancing organizations can’t also be knocked off track, but their progress along the digital acceleration journey makes it less likely.
+
+Although every organization has its own starting point, strengths, and challenges, we have found several common factors that can sideline digital transformations.
+
+Lacking C-suite sponsorship and accountability
+
+Any successful digital effort requires senior leadership to be engaged and champion change. It’s not enough to simply sign off on investments in digital. The C-suite must make the transformation a top business priority, define and track progress against forward-looking performance indicators, and be prepared to roll up their sleeves to implement corrective action when necessary. Information on progress must flow up to the top levels of the organization. In addition, senior leaders must ensure that reward and incentive programs across the organization reflect the strategic value of digital acceleration to the business.
+
+This may mean involving senior leaders in processes that would normally be taken at lower levels. Andrew Ploszay, vice president of digital strategy at IQVIA, a leading global provider of advanced analytics, technology solutions, and contract research services to the life sciences industry, explains, “Our enterprise patient governance committee includes executives from each business unit. The committee allows us to quickly respond to requests for information and proposals for digital patient-engagement solutions.” This speed comes from the fact that many requests require collaboration among different parts of the company, so the engagement of executives directly shapes outcomes.
+
+Failing to view digital as a holistic set of activities
+
+In a digital transformation, organizations must coordinate initiatives across functions. Yet companies often try to do too much, resulting in a disparate set of efforts that may have to fight for sufficient resources. And when employees view these efforts as stand-alone activities rather than understanding how they connect to overall business strategy, progress can grind to a halt. Therefore, reinforcing how initiatives in a digital transformation tie together is critical. GuideWell’s Ruth points out, “Digital initiatives were happening in separate parts of our business, but we weren’t getting the synergistic benefits until we explicitly connected them.”
+
+Failing to view digital transformation as a new operational norm
+
+Trying to shoehorn digital transformation into a project or program mentality that leaders believe (or at least say) will end in a few months or a year is a path destined for failure. Many companies that are several years into their journey recognize that digital acceleration is an ongoing process of constantly adapting to new technologies, industry trends, and changing customer and employee expectations. Yvonne Hodge, vice president of business innovation transformation and enterprise excellence at Lockheed Martin Space (and who has recently been named senior vice president of enterprise business transformation at Lockheed Martin), explains, “We’ve been on this journey for five years. We’ve found that digital acceleration is about staying aligned with customers and their missions.”
+
+Making digital a job of the few
+
+A by-product of viewing digital acceleration primarily through the lens of technology is that initiatives become the province of the chief digital officer or IT team alone. Since a successful digital transformation requires every level of the organization to embrace new ways of working, this siloed approach is destined to fall short. Ensuring innovations have a lasting impact requires a truly cross-functional approach. According to Ellen Romano, senior vice president of HR at ceiling and wall solutions company Armstrong World Industries, “Digitization has been a platform for new behaviors and leadership development. As our leaders get more involved in digitalization work, we see greater buy-in for the culture work to support the change.”
+
+Addressing the talent equation too late
+
+Without creating a culture that embraces a digital mindset, workers will be reluctant to change. And without the skills and capabilities to harness digital technologies, the whole effort can collapse under its own weight. Ruth comments, “We are advancing the mindset that digital is more than technology and innovation is everyone’s job. A digital talent profile and skill-inventory database can help accelerate talent readiness for future needs.”
+
+Reinvigorating digital transformations
+
+Once a transformation has fallen prey to one of these pitfalls—or, usually, several—how can executives reengage the organization and rebuild momentum? In our experience, companies have found great value in hitting the pause button and taking an honest view of progress. Although it might seem counterintuitive, stepping back to observe, reflect, and learn from the journey, reassessing it against a road map, can often be the secret to acceleration. In our experience, 90 days is a useful timeframe for the reacceleration process.
+
+In our experience, companies should use this pause to reevaluate their progress—starting with defining their ambition in a digital future.
+
+Redefine your digital ambition
+
+Although companies’ visions for their digital transformation may have appeared crystal clear, in fact, our experience has shown that most companies lack a well-defined digital ambition. Many have set their goal without the benefit of experience. The first time around, executives can overestimate their organization’s strengths and capabilities, incorrectly discount certain market trends while elevating others, and otherwise fall victim to common biases in decision making and strategic planning (many related to overconfidence). Assessing progress on a digital acceleration road map can sharpen leaders’ perspective and highlight gaps or misalignment across the organization.
+
+Ploszay notes that IQVIA’s net new-revenue opportunities from digital were inhibited by its existing processes and capabilities, something the company hadn’t expected. During a pause in active digital transformation, senior leaders assessed the needs of potential customers as well as the company’s ability to meet their expectations. And, according to Ploszay, “Enabling executives to confront this gap helped to shift mindsets around the need to embrace digital.” Through this exercise, leaders recognized that IQVIA would need to partner with other companies and perhaps become part of an ecosystem to serve clients effectively. The move would be a dramatic shift from how the company had traditionally operated, including adopting new mindsets and identifying new opportunities, unmet needs, and addressable markets.
+
+Reassess your organization’s digital readiness
+
+An honest evaluation of successes and failures to date can help companies verify they are investing in the right initiatives and capabilities to support their digital ambition. Two frameworks can provide a valuable baseline.
+
+First, executives can measure their success against six rules we’ve identified for companies seeking digital acceleration (see sidebar, “Six rules for digital acceleration,” from Goliath’s Revenge). Each of these rules provides a concrete standard for companies seeking to gauge where they are excelling or falling short in their digital journey. As executives take stock of their progress, using data as currency, valuing talent over technology, and reframing your purpose are particularly relevant.
+
+Second, senior leaders should also determine the overall level of their organization’s digital capabilities and skills. A formal, objective assessment can bring clarity to where a company is exceeding expectations and where it is falling short.2 An objective evaluation of which initiatives have taken flight and which ones remain grounded can bring clarity on next steps and where to invest in digital skills. Organizations can then more effectively align their workers and expertise to support initiatives. Ruth notes, “GuideWell is building cross-functional, innovative networks in a more agile way to accelerate transformation across all our businesses.”
+
+Adjust your digital acceleration playbook
+
+Any multiyear project will require recalibration at regular intervals. With new information in hand on the organization’s progress as well as opportunities that may have emerged over the course of the journey to date, executives seeking to reaccelerate their digital transformation should turn their attention to shaping their digital acceleration playbook. This process involves listing which digital initiatives are required to support business strategy and which ones could be eliminated, simplified, or dropped. (For more on the role of simplicity, see “Why simplicity is the key to accelerating performance.”) A holistic approach and greater level of communication among leaders help companies avoid pursuing misaligned and low-value initiatives. Organizations that are months or years into a digital transformation will have a more accurate lens to determine priorities and may focus on a few key efforts.
+
+Ruth reinforces the importance of weaving together all of the elements in a digital acceleration journey to create a cohesive path, explaining, “We are now linking together all of the initiatives with our human capital efforts to drive synergy and differentiated outcomes.”
+
+Lockheed Martin Space created the Data Hub, a structure that brings its internal and external data sources together using artificial intelligence and the cloud. According to Hodge, “This effort has helped us consolidate various sources of data and make them available across the organization.” Lockheed also established a center of excellence for data visualization so that employees could extract value from this data and incorporate it into customer demos. These initiatives have helped move the impact of the digital transformation from senior leadership to the broader enterprise and customers, an important step in rallying support and building momentum.
+
+At IQVIA, leaders invested in human capital initiatives to drive the organization toward its digital ambition. For example, the company created a core innovation team at the enterprise level with a group of patient-engagement experts from different business units. The innovation team uses an “accelerator incubator” model that directs small amounts of seed money to pilot initiatives. The team uses learnings from the pilots to build business cases for potentially game-changing opportunities.
+
+Get a clean (re)start
+
+Pausing a digital transformation gives leaders a fresh start in mobilizing the organization and encouraging greater engagement. As they prepare to relaunch, leaders can focus on several areas to improve the odds of success. First, the leadership team should be realigned on the new playbook and ready to lead and model their organization’s continuous transformation, both at the enterprise level as well as for their specific parts of the business. This effort may require augmenting the senior team as well as tapping leaders throughout the organization. Critically, companies must ensure they have the right leaders to not only execute in the near term but also adapt to changing needs in the future. An objective and quantifiable assessment can help the C-suite recalibrate the senior team based on the current phase of digital acceleration.
+
+Lockheed Martin Space, for example, created a brand-new role with responsibility for aligning data and analytics strategy, infusing innovation, and supporting overall business transformation and technology. (For more on how companies should approach the chief digital officer role, see “Why successful digital officers don’t always have ‘digital’ in their title.”) In addition, as part of its larger culture transformation efforts, the company designated executives to champion four key areas: people, customers, community, and future.
+
+Second, a step most stalled companies take as they relaunch is to make a much larger investment in skills and culture in the workforce. Armstrong’s Romano points out, “We made it a priority to refresh our behavior models—used to set expectations, measure adoption, and focus development.” Similarly, Hodge reinforces the importance of ensuring organizations have the right focus on people: “If you are truly dedicated to digitally enabling your business, you need to focus on people, processes, and technology in tandem.”
+
+To fill gaps in skills and capabilities, the right solution might be a mix of internal development and lining up additional capacity. For example, IQVIA sought to staff its innovation team through a mix of professional development and talent acquisition. Ploszay notes, “You need to commit to human beings—winning their hearts and minds—through both emotion and data.” Another strategy is skills grafting, which involves creating teams with complementary skills to take on projects. This structure exposes legacy employees to digital expertise and tools and can help them augment their existing skills.
+
+Last, when relaunching a digital transformation, a well-developed communications effort is critical to articulate the goals and the path to achieve them at the individual, team, and organization levels. Employees will need to be reminded what’s at stake as well as how their contributions can directly contribute. Hodge comments, “Employees need to adopt new ways of working and understand why they need to do things differently.” Workers who may have been energized by the initial campaign will need to understand how this next phase will avoid previous missteps and support future growth. Measures such as internal communications and training around performance incentives can immediately signal a new approach.
+
+When a digital transformation gets off track, companies should resist the urge to apply overwhelming force to jump-start it. Instead, a clear-eyed assessment and recalibration can help to diagnose problems and resolve them before resuming the journey—and that can happen only by hitting pause. As hard as that may be to execute, it will pay off significantly.
+
+About the authors
+
+Shaloo Kulkarni (skulkarni@heidrick.com) is a partner in Heidrick & Struggles’ London office and a member of Heidrick Consulting.
+
+Eric Skoritowski (eskoritowski@heidrick.com) is an engagement manager in the Philadelphia office and a member of Heidrick Consulting.
+
+Scott Snyder (ssnyder@heidrick.com) is the leader of Heidrick Consulting’s digital offering and a partner in the Philadelphia office. He is a senior fellow at the Wharton School at the University of Pennsylvania and the coauthor of Goliath’s Revenge.
+
+Acknowledgments
+
+The authors wish to thank the executives who shared their insights: Yvonne Hodge, Vice President, Business Innovation Transformation & Enterprise Excellence, Lockheed Martin Space; Andrew Ploszay, Vice President of Digital Strategy, IQVIA; Ellen Romano, Senior Vice President of HR, Armstrong World Industries; and Amy Ruth, CHRO, GuideWell. Their views are personal and do not necessarily represent the views of the companies they are affiliated with.
+
+References
+
+1 McKinsey & Company, “How to restart your stalled digital transformation,” March 2020.
+
+2 For example, Heidrick & Struggles’ Digital Accelerator Questionnaire is a self-assessment tool based on the firm’s work in organizational acceleration, which relies on a framework showing how companies can mobilize, execute, and transform with agility (META).
+
+Related Services & Industries
+
+Academia, Research & Education
+
+Associations
+
+Digital Leadership
+
+ESG, CSR & Corporate Philanthropy
+
+Foundations & Philanthropy
+
+Leadership Development
+
+Nonprofits & NGOs
+
+Organization Acceleration
+
+Performance Culture
+
+Social Impact
+
+Related Content
+
+Leadership Development
+
+AI focus: Leveraging your culture to accelerate GenAI enablement
+
+Realizing the value of your AI investments relies more on your culture than on the technology itself. Our work and interviews with five executives highlight how companies are engaging their leaders to speed GenAI progress.
+
+FinTech
+
+Stablecoins and the future of finance: A conversation with Marieke Flament, co-author of Euro Stable Watch, board member and advisor
+
+Marieke Flament explores how stablecoins are reshaping global finance and what today’s leaders need to thrive in a decentralized financial system.
+
+Marketing, Strategy & Communications
+
+AI leadership in communications: A conversation with Corey duBrowa, Global CEO of Burson
+
+Corey duBrowa shares practical guidance for corporate communications leaders on harnessing AI, staying ahead of emerging trends, and advising CEOs and boards on the right questions to ask.
+
+Digital Leadership
+
+AI and leadership: How finance, HR, and technology leaders are collaborating to make the most of AI across the enterprise
+
+When leaders of these key functions work together effectively, their companies are more able to benefit from implementing AI. Focusing on three areas will help keep progress going.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

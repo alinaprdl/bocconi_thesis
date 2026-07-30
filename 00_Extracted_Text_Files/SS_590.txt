@@ -1,0 +1,183 @@
+The CIO and Digital Transformation
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+The CIO and Digital Transformation
+
+By
+
+Caroline Apffel,
+
+Lars Alexander Gollenia,
+
+Heiko Mijnarends and
+
+Calum Nicol
+
+October 2018
+
+| 10 min read
+
+Authors
+
+Caroline Apffel
+
+Paris
+
+Lars Alexander Gollenia
+
+Frankfurt
+
+Heiko Mijnarends
+
+Amsterdam
+
+Calum Nicol
+
+London
+
+As digital technologies become essential to business success, the role of the CIO is significantly enhanced and even more critical. From manufacturing, operations and supply chain to human resources, customer analytics, marketing and sales, the demands placed on the technology function are on an exponential rise. Today, every business is a technology business. This is both a challenge and an opportunity for CIOs, whose position in the organisation is more influential than it has ever been.
+
+Depending on the nature of the organisation, the CIO may well be the best equipped person to take the lead in digital transformation, although to be successful this will involve a great deal of cross-functional understanding and collaboration. A transformational CIO will combine technical capabilities and digital vision with business acumen and a range of soft skills; change agents tend to be long on people management and influencing skills, for example.
+
+As the pace of change accelerates, the CIOs of tomorrow are likely to have a very different profile and background to most CIOs in the job today, just as today’s CIOs barely resemble their counterparts of a decade ago. In this article we examine the challenges facing CIOs, the changing nature of their role and the leadership attributes essential to their success in the future.
+
+Mixed priorities
+
+The impact of digital is being felt in a multitude of ways. Investment priorities and levels of sophistication vary by sector and we find that many companies tend to focus their efforts on digitising their market-facing activities before fully optimising their internal systems. “I think the market perceives us better than we actually are,” says one CIO. “A lot of our product portfolio and the processes around it are in a digital form, but that’s not the case with many processes inside the company. The mindset isn’t there yet.”
+
+At Danone, CIO Jean-Michel Egu is supporting different business streams with different digital solutions, from precision marketing to traceability technologies on production lines to online administrative tools for expenses. His IT team has also spent a lot of energy breaking down barriers between personal and corporate technologies. “People expect corporate systems to do what personal technologies do in their daily lives and IT needs to meet these expectations. We implemented a digital roadmap for Danone's workplace which has been designed “user experience-based”, allowing improved collaboration, communication and collective working from everywhere and any devices.”
+
+Jay Crotts, EVP and Group CIO of Shell, says that the energy business is “learning to move at digital speed where it needs to, especially facing off to customers”, but he acknowledges that Shell’s journey towards digital transformation is going at a different pace to that of banks or insurance companies, for example. “We have pockets of excellence and pockets of over-exuberance. We are, however, doing some pretty innovative things and learning the importance of the underlying data.”
+
+Michael Vögele, CIO of adidas, considers capturing and utilising data to be a major success factor for the company. “We have a data science team that delivers really tangible results, whether it's through size curve optimisations, replenishment into retail, dynamic pricing or markdown optimisation.” None of this would have been possible without clarity from the outset about the technical foundations that were needed. The company formed a senior-level digital leadership team to define the direction and start engaging every entity in the business. “I think this was a very wise approach, asking ‘what were the things below the waterline that we needed to put in place in order to be successful? Which IT systems, Cloud platforms and development environments can we deploy from pilot to global application within months rather than years?’ So we made a lot of investment in delivering those fundamentals and then we were in a position to unleash digital creation.”
+
+The CIO’s role in digital transformation
+
+CIOs are expected to play a variety of roles in the digital transformation journey. They are at once visionaries, strategists, educators, cheerleaders and implementation experts. They are agents of change, “leading the thinking about how technology can change the business and make it more competitive,” as Ben Wishart, Global CIO of Ahold Delhaize, puts it.
+
+The way CIOs perceive their role will depend to a large extent on the level of digital ambition and maturity in the organisation. Ron van Kemenade, CIO of ING, sees his task as “to make sure my vision is adopted within the company and that it feeds into our strategy”. For Kurt De Ruwe, CIO of Signify, one of the aims of digitisation is to create more automation and improve both data quality and service. Egu sees himself as an enabler and a “translator” at Danone, for example explaining what blockchain and IoT do and the value they can provide to a specific part of the business.
+
+Thomas Saueressig, CIO of SAP, sees IT as “a very integration-oriented organisation, ensuring that we have end-to-end processes. Bringing people together is certainly one of the key aspects of my role.” Vögele describes digital as “a team sport. It's not something that happens in pockets, or in the department of a CDO. It touches everybody in the organisation, from HR to finance to the brand to product design. This is why it’s important to think about it as broadly as possible from the outset.”
+
+“Do I know my business? Do I know my current and the future technology needs and how that will impact my business? And do I have a team that can fully execute against our goals?”
+
+MICHAEL VÖGELE
+
+CIO, ADIDAS
+
+Core capabilities of the CIO
+
+While a high level of technical ability is normally a given for a CIO, companies are looking beyond the purely technical for a blend of strategic and operational capabilities, coupled with an aptitude for leading and developing people. What differentiates the CIOs who have the greatest impact is the soft skills they bring to their role.
+
+In an era of rapid change, it can be a challenge for CIOs to find the right balance between delivering today’s projects and planning for future technology needs, while staying on top of risk. Vögele believes a CIO has to ask three questions: “Do I know my business? Do I know my current and the future technology needs and how that will impact my business? And do I have a team that can fully execute against our goals?” CIOs are spending far more of their time ensuring they have the right people and the demands on people management capabilities are only likely to increase in the future. Bask Iyer, CIO, VMware and GM, Edge/IoT for VMware and Dell Technologies, believes it is important to help his team see the big picture and inspire them with a sense of purpose and an innovation mindset. Remaining young at heart is important, too, and he continually revisits the question, “Why would the next generation of talent come to work for me?”
+
+The most effective CIOs are also evangelists; they have a vision for how technology can support and transform the business but they also know how to communicate that vision effectively. CIOs need to be able to motivate and inspire people throughout the organisation to move towards a future they don’t yet completely understand. As Saueressig says, “The fear of the unknown is a big issue, especially in larger organisations.”
+
+While the list of capabilities expected of today’s CIOs are on the rise, we have identified three particular ‘soft skills’ that we believe every CIO should possess.
+
+1. Communication
+
+For Egu, the two most important capabilities are meeting expectations by delivering projects on time and on budget, and getting the message out about the positive impact IT brings to the business. “I consider myself a change agent who supports business transformation. I talk business, not IT and look for any opportunity to put across a clear message. I try to simplify complex ideas and ensure that my team members steer away from technical jargon as well.”
+
+Crotts has found it vital to understand the different technical functions in his group. This is a skill that all CIOs must now master. “Understanding what people are working on is useful, but if that’s all you have, it’s not going to get you very far. You have to have a strong business sense and the ability to communicate across the range of stakeholders.”
+
+The ability to break down a strategic story into bite-sized pieces that anyone can understand is essential for a CIO, whether the audience is the board of directors, a group of IT leaders or the senior executive team. “They all need a slightly different angle on the story,” says Ben Wishart. “You need to get your head around who the person is you are talking to and what their needs are, adjusting the level of detail and the way in which you present the story so that each person can understand their role in executing the change that lies ahead.”
+
+2. Influence and collaboration
+
+C-suite executives are increasingly finding that the most effective way to manage is through influence rather than control. The gentle arts of listening and persuasion are practiced by successful influencers and best applied in an environment of collaboration. Barriers between functions and divisions need to be dismantled – along with many of their systems, processes and norms – to enable groups that have not encountered each other to work together towards a common goal, exploring new solutions and learning from each other.
+
+In many of the most successful, agile organisations, there is a shift away from highly formalised structures and towards more informal, flatter networks, where “teams of teams” are encouraged to iterate, come up with ideas and solutions and then share what they learn across the entire organisation. CIOs are in a unique position when it comes to leading cross-functional collaboration and, while they’re at it, increasing their influence in the business.
+
+3. A learning mindset
+
+Increasingly, leaders are defined by their capacity to learn, adapt and innovate at speed. Today’s business environment is full of uncertainty and ambiguity and CIOs have to deliver on projects that are not always clearly defined. There will be some failures too, but these should be viewed as learning opportunities rather than setbacks. Part of the CIO’s role is to instil a learning mindset throughout the entire IT function.
+
+Vögele’s goal is for adidas to become “the fastest learning IT organisation in the industry”, with every employee thinking about how they can learn more every day. “If we want to learn, we always have to be open to the new, to actively listen to others' opinions since we cannot know everything. It's not just an opportunity but also an obligation, to be interested, to learn and grow as individuals, but also as an IT organisation, and therefore having a much higher impact on the overall company.”
+
+The rise of the learning culture
+
+The link between leadership and learning is getting stronger all the time. With the business environment in a constant state of flux, CIOs will have to get used to a more agile, multifaceted way of running their organisations, relying less on what they know and understand and more on what they and the organisation are capable of learning from one day to the next.
+
+In today’s world, strategic goals are frequently being reset, so companies have to be able to slow down, rebalance and change direction. Such ambidexterity – knowing when to accelerate, when to change and when to maintain the course – is usually found in organisations where placing a high value on learning is in the cultural DNA.
+
+Out of eight possible organisational culture styles identified by Spencer Stuart, a learning orientation appears first or second in only seven per cent of companies. The other 93% risk having insufficient capacity to adjust to the changes taking place around them. We believe that developing cultures that emphasise flexibility and learning will be a critical element in future-proofing an organisation.
+
+In a learning culture, people are inquisitive about how their work aligns with overall thinking and make choices that are consistent with strategy. Individuals need a high level of self-awareness (even detachment) to acknowledge what they do not know, enough humility to shed their preconceptions, and a deeply held curiosity about what they might discover. Above all, they need to be forward-thinking, viewing the future with a sense of optimism and possibility.
+
+Adapted from The Rise of the Learning Culture, Spencer Stuart, 2018
+
+Looking ahead
+
+It could be argued that the next generation of CIOs will be leading the most critical function in the organisation. IT will lie at the heart of an integrated future in which sales, marketing, finance, HR and operations are obliged to work far more closely together. All areas of the business will be relying on data aggregated and managed by the CIO’s team – one of many reasons why the role will require a combination of technical and general management expertise in the future (and possibly a new title).
+
+In a business active across an entire supply chain from exploration to manufacturing to the consumer, the digital challenges facing a CIO are enormous. With the advent of IoT, Crotts seeks to find the right balance at Shell between addressing issues relating to operational technology (which he says is becoming more and more like IT) at one end of the spectrum and getting more involved in helping develop the consumer value proposition at the other. As De Ruwe says, “the CIO’s role is going to be about making sure that you have the right connections at all the various touchpoints in the organisation, fully understanding how the business is evolving and being at the forefront of new possibilities.”
+
+“The CIO’s role is going to be about making sure that you have the right connections at all the various touchpoints in the organisation, fully understanding how the business is evolving and being at the forefront of new possibilities.”
+
+KURT DE RUWE
+
+CIO, SIGNIFY
+
+Where will CIOs of the future be found?
+
+There is a lot of debate about what the ideal background for CIOs will be in the future, with two opposing schools of thought. One side maintains that, due to the ever-growing complexity of digital transformation, the pendulum is rightly swinging back in favour of CIOs with deeper roots in technology or engineering. The other side believes that a greater business- and consumer-orientation will be the most important factor in selecting a CIO as the emphasis shifts from technology to people and processes.
+
+There will be opportunities for both types of profile, of course, and much will depend on the nature of the business and the state of its digital evolution. We are likely to see computer science graduates in some roles, with others occupied by humanities graduates, perhaps with a background in consulting or sales. Some argue that companies need to focus on leaders with product development skills and that they should follow Silicon Valley’s lead, where “hard core engineers” are often trained to take on leadership roles. “IT needs leadership skills to reimagine and transform the business,” says VMware and Dell’s Bask Iyer. “I strongly advise companies to study Silicon Valley or set up offices in any of the aspiring tech hubs across the globe. Why argue with success?”
+
+What is certain is that the next generation of CIOs are likely to bring a wider range of disciplines and experiences to bear on the role, combining technology know-how with project leadership capabilities and strong people management skills, founded on a passion for delivering business value. “There is no perfect person who has all qualities in equal measure,” says Jay Crotts of Shell. “Hopefully you can leverage your strengths and overcome any weaknesses by picking the right team around you, and guiding and supporting them to solve the right business problems.”
+
+Ten tips for the aspiring CIO
+
+LEADING CIOS OFFER THEIR ADVICE
+
+Be humble and maintain a learning mindset.
+
+What you have done in the past is not necessarily a roadmap for the future.
+
+Learn the balance between the strategic and the tactical.
+
+Develop the twin capabilities of strategy and execution.
+
+Seek a fully rounded career, gaining exposure to different parts of the business.
+
+Stay connected to new developments and capabilities.
+
+Don’t be afraid to explore new ideas and experiment a little.
+
+Hire people from diverse backgrounds and develop an inclusive management style.
+
+Remember that the raison d’être of IT is to add value to the business.
+
+Understand what you’re letting yourself in for – it’s a tough job!
+
+There has never been a better time to be a CIO. Technology is disrupting long-standing business models and every sector is feeling its transformative impact. CIOs occupy a unique position at the centre of this transformation, facing enormous challenges but with a once-in-a-lifetime opportunity to redefine not only their leadership role but also the nature and purpose of the technology function they oversee. Technology is no longer simply a support function or a cost centre – it is the beating heart of the organization, the key to its health and future prosperity. CIOs are therefore increasingly in the spotlight. They must possess many capabilities that may not have been present in their predecessors, such as a highly collaborative leadership style and strong influencing capabilities. Their communication skills need to be first rate and they must have the humility, agility and intellect to foster a true learning culture. In this era of digital transformation, the stakes for CIOs are getting higher, as are the qualities of those able make a success of the role.
+
+In addition, Calum Nicol (London) was a contributor for this article.
+
+Download
+
+Download
+
+Authors
+
+Caroline Apffel
+
+Paris
+
+Lars Alexander Gollenia
+
+Frankfurt
+
+Heiko Mijnarends
+
+Amsterdam
+
+Calum Nicol
+
+London

@@ -1,0 +1,115 @@
+Why Winning with Technology Requires Being Product-Led
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Why Winning with Technology Requires Being Product-Led
+
+By
+
+Muthiah Venkateswaran and
+
+Samuel Feinberg
+
+July 2025
+
+| 6 min read
+
+Authors
+
+Muthiah Venkateswaran
+
+Silicon Valley
+
+Samuel Feinberg
+
+San Francisco
+
+SectionsIn this article
+
+Transformative technology developments like AI and innovation have led to a shift in customer expectations for both B2B and B2C organizations. Organizations looking to win in the future must evolve their approach to serving customers by moving beyond treating technology as a tool and committing to a product-led approach. For some companies, this represents a significant departure from a technology approach that prioritized technology as a tool (and tech teams) in service of core business.
+
+There has been a steady increase in interest from CEOs and boards about how their organizations can win with technology in the future. In our observation, the biggest reason for failed technology transformations is a lack of a customer-centric, product-led approach to the way the organization functions. While many recognize the need for change, most fall short on execution. Being product-led requires a transformation in the way an organization functions. This calls for an organization-wide change of mindset, culture and direction, and requires future leaders to possess greater strategic vision, agility and customer empathy.
+
+To truly transform and remain ahead, businesses must revolutionize the way they see, engage with and provide value to their customers. In this world, organizations need to work with a mindset of the customer being the reason for the business’ existence and its sole obsession. Product-led businesses must lead with customer empathy and anticipate customer needs. They must put the customer at the center of every decision and build customer-facing products that are shaped by that intimate understanding.
+
+Download
+
+Download
+
+With the increased pace of innovation, there is no “finish line” when it comes to a product-led transformation. If an organization becomes complacent after a short period of commitment to being product-led, it can quickly end up behind the eight ball.
+
+The product-led transformation series
+
+This article is part of our ongoing series on product leadership written by the Technology Practice at Spencer Stuart. It introduces the key topics to be addressed as part of a product-led transformation. As the role of technology, digital and product-led transformation in business is fast evolving, this series was written to guide CEOs, boards and product/technology leaders looking to gain competitive advantage through product-led transformation. There is a lot to learn together. We hope these articles can be a starting point for robust discussions and continued learning.
+
+The case for becoming product-led
+
+Today’s pace of change requires businesses to become disruptors through product innovation — versus being disrupted by competition. Across almost all industries, organizations have recognized the power of software, mobile technology, data and AI and have embarked on the journey of transformation. With the evolution of software in the last couple of decades — including the ability to leverage APIs and an ecosystem of tools such as data, machine learning, applied AI and more — companies can create significant differentiation much faster. The buzzword of the moment keeps shifting from mobile to cloud to data to AI, but one thing is constant: technology-led disruption is here to stay.
+
+“Digital transformation” has been a crucial first step for many non-tech organizations seeking to become tech-enabled. These companies have undergone technology-led transformations to upgrade their IT systems, establish product teams and provide more value to customers. Despite these efforts, many still struggle to compete with digital-native (or new-age tech) competitors that can disrupt the market by using innovative new products to increase customer value. This is often because technology teams operate like “feature factories” rather than anticipating and meeting evolving customer needs. As a result, boards and leadership teams are left wondering about the lacking ROI from their technology investments. The reason, we believe, is that companies have not fully evolved to become a customer-focused, product-led organization.
+
+Many non-tech CEOs and boards are hesitant to embrace a product-led approach because they feel they are not a tech organization. For them, the Jeff Bezos Amazonian culture of “working backwards” and Steve Jobs’ famous view that their job is to figure out what customers are going to want before they do can feel unachievable or undesirable. However, the ethos of true customer empathy is not industry-specific and can — and should — be replicated across organizations of all sizes, stages and industries. Being product-led simply means being customer-centric, using the voice of the customer to develop a product strategy and roadmap, and delivering value to customers through technology products.
+
+To capture the value of technology-enabled transformation and compete effectively in today’s market, businesses need to shift toward an empowered, customer-focused, product-driven approach that continuously stays ahead of customer and market needs. This transformation journey is what we call a product-led approach, and it requires a culture of customer obsession, innovation, execution excellence and continuous improvement.
+
+The process of getting there is what we refer to as the product-led transformation journey. The lesson from the success of some of the best-in-class technology organizations is that they use a product-led approach to staying ahead of customer needs. For tech-first organizations that have long executed a product strategy, the importance of continuing to push the envelope to stay ahead of evolving customer needs and remain committed to a product mindset cannot be understated. Whether you are a non-tech or tech company trying to transform, many of these approaches laid out will apply. In today’s world, tech is part of every company’s strategy, and the perception in many traditionally non-tech organizations that “we are not in the technology business” is one that will only make it harder to drive this crucial transformation.
+
+How product management can drive growth and innovation
+
+Product management is a critical enabler of technology-driven innovation and growth that sits at the intersection of business, customers and technology. The most successful product organizations excel in the areas of product vision, strategy and operations; when backed by the right organizational support, this fuels the innovation engine.
+
+The best product vision is aligned to the organizational North Star and creates differentiation in the market by translating business strategy into a winning product strategy, enabling the organization to look around corners and stay ahead of customer and market demands. To bring the product strategy to life, strong operational rigor and a commitment to execution excellence around product management is essential. This ensures the organization has a view of the key levers for maximizing the value from products that have been launched.
+
+The role of product leaders in driving product-led transformation
+
+When technologists are closer to customers and understand customer needs, innovation is unleashed. Placing product teams at the intersection of customers and technology enables the entire company to think big and to be truly product-led. Product leaders are responsible for creating and evolving the product vision, strategy and roadmap and are involved in product pricing and packaging, go-to-market strategy, design and product marketing. The role of the product team includes identifying the right metrics, using data, design and experimentation to improve the current customer experience and stay ahead of future customer needs.
+
+To be truly product-led, product leaders must directly engage with customers — owning the voice of the customer for the business — and translate their specific needs and pain points into the product roadmap. Product leaders orchestrate agile experimentation backed by data-driven continuous improvement, which can help identify opportunities to enhance existing products and create product extensions to drive customer value and growth. This enables product leaders to leverage the power of technology to create innovative solutions that solve current and future customer needs and, ultimately, change customers’ lives.
+
+Product leaders must also be able to effectively communicate the “why” of their job to engineering teams. By doing so, they empower engineering teams to keep specific customer needs and pain points in mind, rather than just a generic spec, when developing products. This collaboration between product and engineering ensures that the products created meet the specific needs of the customers and are aligned with the overall product vision and strategy. Effective cross-functional collaboration with design, marketing and sales is critical for enhancing the overall customer experience and driving demand. At organizations used to a technologist being at the service of “business” teams and other internal customers, moving to being “product-led” will be a very different way of working and will require a big culture shift.
+
+Identifying the right product leader for your business
+
+To expedite product-led transformation and growth, it is crucial to identify the right product leader for your organization and the “right answer” is company specific. Best-in-class product leaders have the mindset of a future CEO, understanding market and business needs, and they know how to harness technology and business model innovation to create disruptive product offerings. The product leader should be able to paint a vision for the future that helps the organization stay ahead of customer needs and create sustained differentiation in the marketplace. Notably, many founders of leading technology companies are innovative product leaders themselves who continue to own critical product-related decisions as CEOs.
+
+When looking for a product leader, organizations should avoid starting with a list of target companies; instead, define the true needs of the organization and identify the leader based on those requirements. Through our work, we have determined that there are four main product leader archetypes based on their area of focus — strategist, operator, tech innovator and change agent — with unique competencies and perspectives. It is important to prioritize which of the four main product leader archetypes, based on their area of focus, are critical for your organization today and in the future. Many product-focused leaders have experience and strengths in more than one of these areas and hence fit multiple archetypes.
+
+How to evaluate and optimize your product management organizational structure
+
+The product management organizational structure that is right for your company is very situation dependent. Different organizational structure choices come with specific benefits and challenges; as discussed in our article “Product Organizational Structures: Which Product Management Leadership Model is Right for Your Business?” To effectively evaluate trade-offs, leaders need a strong view of the context their business is operating in, the current capabilities of the organization, and the strategic direction of the business. What is important to understand is that there are no right or wrong answers that apply to every organization.
+
+Organizational structure decisions cannot exist in isolation, as changing structure alone will often result in failed attempts at becoming truly product-led. In this continually evolving world of technology, business needs and context will inevitably change, and the organizational design that works today may not be the right answer for the future. Revisiting your organizational structure periodically to evaluate its effectiveness is key.
+
+Getting started
+
+Transformational change requires commitment and effort. To start, we strongly recommend taking a step back and evaluating your organizational system as a whole. Resist the temptation to hire a single “silver bullet” leader or to overhaul your organizational structure as a quick fix. Instead, focus on leveraging existing leadership and committing to a fundamental culture shift for the entire organization starting with buy-in from the top. In taking these steps first, a new leader or structure may still be required to accelerate transformation and growth, but you will have stronger conviction on what is truly needed for the future, and the organization will be better prepared to accept the change. Becoming and remaining a product-led organization is not an easy journey, but it is a necessary and highly rewarding one for businesses that want to stay ahead of customer needs and market trends.
+
+In our experience advising clients, we’ve identified key elements that determine organizational effectiveness and drive positive outcomes in any organization. These elements require an understanding of the context, strategy, organization structure, leadership, people and teams, culture, and routines. Because each element is dependent upon the others, all must be addressed when attempting an organization-wide transformation like leading with customer empathy and becoming product-led. By successfully pulling levers across all key elements simultaneously, organizations are most likely to achieve the change they are attempting.
+
+Authors
+
+Muthiah Venkateswaran
+
+Silicon Valley
+
+Samuel Feinberg
+
+San Francisco
+
+Related Insights
+
+Which Product Management Leadership Model is Right for Your Business?
+
+10 min read
+
+To respond to technology disruption, it is critical to have a thoughtful product roadmap and well-functioning product management function. Different product organizational structures come with specific benefits and challenges.
+
+Product Leadership: How to Select the Right Product Leader for Your Organization
+
+8 min read
+
+Advice for thinking about which product leader is right for your organization.

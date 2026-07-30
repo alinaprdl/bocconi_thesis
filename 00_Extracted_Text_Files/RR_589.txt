@@ -1,0 +1,570 @@
+Digital Transformation in MedTech Series – An interview with Chet Kolley  | Russell Reynolds Associates
+
+Search
+
+Search
+
+Menu
+
+Menu Close
+
+Capabilities
+
+Expertise
+
+Insights
+
+About
+
+Contact Us
+
+en
+
+Login
+
+Back
+
+Search
+
+Succession
+
+Performance
+
+Accelerators
+
+Transformation
+
+Board
+
+Executive Search
+
+Our executive search consultants help you recruit great CEOs, CxOs, and board members in as little as 14 weeks.
+
+Back
+
+Industries
+
+Functions
+
+Organizations
+
+Board & CEO Advisory
+
+Is your board ready for what is next? We help boards and CEOs face the unprecedented challenges that shape our world—from disruptive technology to shifting demographics to pressure from investors and regulators.
+
+Back
+
+Leadership Topics and Trends
+
+Leadership Labs
+
+Flagship Research
+
+Data and Indices
+
+RRA Books
+
+Events and Webcasts
+
+Insights Library
+
+Global CEO Turnover Index
+
+We share the latest CEO turnover data across listed companies globally. Each quarter, you’ll find the proportion of CEO departures and appointments globally, as well as trends on CEO appointments by gender, tenure, and whether CEOs are internal or external hires.
+
+Back
+
+People
+
+Who We Are
+
+Careers
+
+Newsroom
+
+Consultant Directory
+
+Meet the people behind Russell Reynolds Associates, building proactive relationships around the world and around the corner.
+
+Back
+
+Get In Touch
+
+Advance Your Career
+
+Join the Conversation
+
+Find a Local Office
+
+Request for Consultation
+
+Complete the contact form and we will get back to you shortly. We look forward to connecting with you.
+
+Back
+
+Search Overview
+
+Board Search
+
+CEO Search
+
+Executive Search
+
+Back
+
+Succession Overview
+
+Board Succession
+
+CEO Succession
+
+C-suite Succession
+
+Back
+
+Performance Overview
+
+Assessment & Benchmarking
+
+Executive Development
+
+Executive Transition
+
+Team Performance
+
+Back
+
+Accelerators Overview
+
+Executive Mentoring
+
+RRA Artemis
+
+Back
+
+Transformation Overview
+
+AI and Tech
+
+Inclusion and Culture
+
+Strategy Decode and Activation
+
+Sustainability
+
+Back
+
+Board Overview
+
+Board Composition
+
+Board Effectiveness
+
+Back
+
+Industries Overview
+
+Business & Professional Services
+
+Consumer
+
+Education
+
+Financial Services
+
+Healthcare
+
+Industrial & Natural Resources
+
+Private Capital
+
+Technology
+
+Back
+
+Functions Overview
+
+Boards
+
+CEOs
+
+Corporate Affairs & Communications
+
+Customer Activation & Growth
+
+Finance
+
+Human Resources
+
+Legal, Risk & Compliance
+
+Operations & Supply Chain
+
+Sustainability
+
+Technology, Data & Digital
+
+Back
+
+Organizations Overview
+
+Family Enterprise
+
+Growth Tech
+
+Private Capital
+
+Social Impact
+
+Back
+
+Leadership Topics and Trends Overview
+
+AI and Leadership
+
+Board Leadership
+
+Family Enterprise Leadership
+
+Leadership Development
+
+Leadership Transformation
+
+Sustainable Leadership
+
+Technology & Innovation
+
+The Future of Leadership
+
+Your Leadership Journey
+
+Back
+
+Leadership Labs Overview
+
+Leadership Analytics: Predictors of CEO Success
+
+Unusual Suspects: New Leadership Archetypes
+
+AI Leadership, 100% Human
+
+Back
+
+Flagship Research Overview
+
+Divides and Dividends on Sustainability
+
+Leadership for a Decade of Action
+
+Global Corporate Governance Trends
+
+Transformational Leadership Study
+
+Back
+
+Data and Indices Overview
+
+Global Leadership Monitor
+
+Leadership Confidence Index
+
+Global CEO Turnover Index
+
+Global CFO Turnover Index
+
+Global CHRO Turnover Index
+
+Global COO Turnover Index
+
+Back
+
+RRA Books Overview
+
+Book: The Catalyst CEO
+
+Book: The New CEO
+
+Book: To the Top
+
+Book: Sustainable Leadership
+
+Back
+
+Events and Webcasts Overview
+
+Podcast: Redefiners
+
+Podcast: Leadership Lounge
+
+Events and Webinars
+
+Back
+
+Insights Library Overview
+
+Back
+
+People Overview
+
+Consultants
+
+Leadership
+
+Board of Directors
+
+Office Locations
+
+Back
+
+Who We Are Overview
+
+Sustainability
+
+Responsible AI
+
+Partnerships
+
+History
+
+Back
+
+Careers Overview
+
+Careers with our Clients
+
+Careers at RRA
+
+Back
+
+Newsroom Overview
+
+Back
+
+Get In Touch Overview
+
+Request Consultation
+
+Subscribe to Newsletter
+
+Access Events
+
+Submit Media Inquiry
+
+Back
+
+Advance Your Career Overview
+
+Start Career with our Clients
+
+Join RRA
+
+Back
+
+Join the Conversation Overview
+
+LinkedIn
+
+X (formerly Twitter)
+
+YouTube
+
+Spotify
+
+Apple Podcasts
+
+Back
+
+Find a Local Office Overview
+
+Americas
+
+EMEA
+
+Asia Pacific
+
+Language
+
+English
+
+中文(中国)
+
+日本語 (日本)
+
+Login
+
+Client Login
+
+Candidate Portal
+
+Login 4
+
+Login 5
+
+Login 6
+
+Login 7
+
+Login 8
+
+Login 9
+
+Login 10
+
+Digital Transformation in MedTech Series – An interview with Chet Kolley
+
+Technology and InnovationHealthcareTechnology, Data, and Digital Officers
+
+Interview
+
+David Krahe
+
+July 11, 2022
+
+7 min
+
+Technology and InnovationHealthcareTechnology, Data, and Digital Officers
+
+Executive Summary
+
+This series highlights the MedTech industry’s recent digital transformation.
+
+Close
+
+David Krahe
+
+Dallas
+
+Collaborating with the field’s leading experts, we have identified the strategies and challenges of navigating digital disruption within the medical industry.
+
+This discussion views MedTech’s digitization through the lens of Chet Kolley. This interview is an extension of Russell Reynolds Associates’ An Industry in Full Disruption: How Digitization is Transforming MedTech.
+
+David Krahe:
+Chet, thanks for being here today. I’m David Krahe, Managing Director for the Healthcare sector at Russell Reynolds. Today, I have the pleasure of hosting Chet Kolley, who serves as Senior Vice President and General Manager for GlobalLogic’s medical technology and healthcare business. We’re going to talk about digital transformation within healthcare. Chet, if you wouldn’t mind, give a brief background on yourself as well as GlobalLogic.
+
+Chet Kolley:
+Sure, happy to; thanks for having me today, David. GlobalLogic is a global product engineering and product realization and design firm. We’re over 20,000 people worldwide. My role has been, for the last eight years, running and growing our medical technology, life sciences, and healthcare business. That’s about 2,000+ dedicated people worldwide. I’ve been with the company for about 15 years. It’s been great fun and a great run.
+
+David Krahe:
+Thanks for that. We want to start with GlobalLogic. More specifically, your team helped some of the world’s leading healthcare companies accelerate their digital products and services. So, from your perch, as a trusted partner to some of these companies, what have you witnessed as the impact of digital transformation for them?
+
+Chet Kolley:
+It’s been quite a substantial impact. Digital transformation has been an ongoing industry topic. It’s been substantially accelerated in many ways by COVID. Some companies have been put in a tough spot where digital means or digital transformations were necessary to continue running the business as it was. Then, there are cases where it's presented as a novel or interesting business expansion. An example would be a company that has done physical, in-person clinics in a number of cities. When COVID hit, they couldn't have in-person sessions anymore. So, initially, they responded with ad-hoc means of using techniques just as we are right now: digital teleconferences. They quickly realized that some of the patient population actually preferred the virtual sessions. That expands the horizon instead of being tied to a couple of physical locations.
+
+The other thing is, you’d see some organizations having dedicated groups to focus on digital and some where it is an extension of their existing organization. Now, more and more you see the CEO and executives with titles like Chief Digital Officer leading digital. It’s really become a prominent part of the company strategy: the way they go to market, the way they differentiate themselves, the way they build relationships directly with the people whom they consider their stakeholders with whatever business that they do.
+
+David Krahe:
+Let’s take that piece as a jumping-off point. I think it’s interesting to talk about how digital has moved from a product feature to more of an emerging service offering or business model. Where do you specifically see the opportunity to transform?
+
+Chet Kolley:
+People have responded in different ways depending upon what their pre-digital or pre-COVID business might be. Many companies are trying to accelerate the path forward and what they need are speed and guidance. Digital transformation is needed to bring what I consider a pleasant, well-targeted digital experience to market and focus on whom the true stakeholders are. Then, having a roadmap that improves on the initial experience in an agile fashion has been a focus.
+
+David Krahe:
+That’s really helpful. Digital is collecting data and changing the way that companies can engage with these patients. This also requires a certain amount of organizational competency that companies haven’t had in the past. Talk to us about the organizational competency you see as critical to success.
+
+Chet Kolley:
+If you turn back the clock say five or ten years ago, a lot of medical device companies were financially measured. They’d be measured by the number of devices that they produced, put into the market, sold, and the margins per device. That was more or less a ticket to play.
+Now the medical device companies are looking to connect directly with their patients, become more known to the patient population, and better understand how their devices are being used. They're looking at not just creating a device that addresses some kind of disease or condition, but more or less owning that condition.
+
+Organizations have the opportunity to have digital engagement with a patient. Through personalized medicine and digital approaches, you can treat these people differently, and they can have an experience that talks to them. I think that all organizations are having to be more agile. The people who thrive in these digital transformation environments are folks who can actually thrive in situations of ambiguity and uncertainty.
+
+David Krahe:
+Speaking of needing to be more agile, how do you see companies accommodating the cultural shift required to achieve these ambitions around digital?
+
+Chet Kolley:
+I think that in some cases, it’s bringing in new people in leadership positions that can transform these organizations. Sometimes, it’s completely new external people that come in and deal with cultural changes. The folks who are really comfortable, I call them digital natives. They have grown up in the digital world. Everything that they’ve done is digital. It is not really all that foreign to them. Having people who are comfortable with the distributed, the disconnected, or the distributed but connected in a virtual environment is a big piece of it.
+
+David Krahe:
+Digital native is tied very closely to age. I think companies are reticent to take a risk on younger talent, accelerating or elevating them into a new station. When you think about digital natives, is there anything you’ve seen or anything you think companies should be doing to infuse those digital natives into the right decision-making roles?
+
+Chet Kolley:
+I think it’s worked well. You can find the right talent (and there’s great digital native talent out there) and bring them into the organization. Then, you need to collaboratively build the mission, give them the resources and boundary conditions they need, check in frequently, have measurement activities in place or metrics to gauge how the program is succeeding, and be realistic; you accelerate them.
+
+David Krahe:
+That’s helpful. As medical technology and healthcare companies are going to external adjacencies to seek success, what are the adjacencies that make sense?
+
+Chet Kolley:
+Sure, that’s a great question. There are certainly adjacencies that bring something to the table in this market or this domain. Automotive, for example, has somewhat similar constraints. Both industries are breaking barriers with safety and autonomy: artificial intelligence, machine learning generated driver assist, car or transport vehicle monitoring, diagnostics, and the like. And so, you can see how that would transfer to this space.
+
+Then there’s communication. You have 5G for instance enabling tremendous breakthroughs in things like data gathering and remote monitoring. You can gather this data, monitor it remotely, and put that data in a place where it can be analyzed for things like decision support: making sure that the patient who needs personal outreach from the nurse or the physician actually gets it, and recognizing that there are people who are doing a pretty good job taking care of themselves. So people with communications expertise can really help play a role on the technical side and integrate that into an overall, what I’ll call, ecosystem.
+
+The other piece is the big technology companies. The big technological behemoths are part of this market. Apple, Google, and Microsoft, they’re all entering this market. They bring a lot of resources, computing capability, digital experience, and consumer experience to bear.
+
+David Krahe:
+I’m glad you mentioned some of the tech behemoths. They are dipping their toe in the water of healthcare, and they seem keen to jump in. The question is, is it feet first or head first? It’s absolutely the direction the technology industry seems to be going in.
+
+Chet Kolley:
+Absolutely. That’s right.
+
+David Krahe:
+Chet, this has been incredibly insightful, and I enjoyed it, I hope you did as well. I want to thank you for taking the time and it’s been a really interesting discussion.
+
+Chet Kolley:
+Thank you very much. It’s been my pleasure.
+
+Digital Transformation in MedTech Series
+
+An interview with Chet Kolley
+
+Download full Interview
+
+Technology and InnovationTransformation and InnovationLeadershipHealthcareTechnology, Data, and Digital OfficersAssessment and BenchmarkingDevelopment and TransitionExecutive Search
+
+Integrating the Digital Functions with the Business
+
+Technology and InnovationLeadership StrategiesLeadershipConsumerTechnology, Data, and Digital OfficersCulture AnalyticsExecutive Search
+
+Becoming a Best-in-Class Digital Operator
+
+We and our partners use cookies and other technologies on this site to collect data about your device and activities on this site for operating and protecting the site, enabling and optimizing site functionality, analyzing site usage, personalizing your experience, and targeting ads, as detailed in our Cookie Policy. Click “Accept All” to consent to all of this, “Reject Optional Cookies” to get only mandatory cookies, or “Preferences” for more options.
+
+Preferences
+Reject Optional Cookies
+Accept All
+
+×
+
+About Cookies
+
+Cookie List
+
+Web pages can store or retrieve info on your browser, including through cookies.  This info might be about you, your preferences, or your device, and it may contain identifiers that are unique to you or to your device. We and third parties collect that kind of info through cookies in each category below. You can turn most individual categories off by moving the toggle to the left and hitting “Save my choices” or turn them back on by moving it to the right and hitting that same button. You can revisit these choices later by clicking on “Cookie Preferences” in the footer of russellreynolds.com.  These choices apply only to russellreynolds.com.  These choices affect this browser only, and you will need to repeat this process if you use another browser, if you clear your cookies, or if you use a browser that automatically clears cookies.
+
+More information:
+
+Read Cookie Policy
+
+Accept All
+Reject Optional Cookies
+
+Mandatory
+Always Active
+
+These cookies are required and cannot be turned off.
+
+Cookie Details
+
+Functional
+
+These cookies mainly enable enhanced functionality and personalization. They let us provide a more personalized and convenient experience. Disabling or removing these cookies may make browsing pages less convenient or may prevent certain functionality from working correctly.
+
+Cookie Details
+
+Performance
+
+Performance cookies mainly allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors use and interact with them. If you do not allow these cookies, we may have fewer ways to know when you have visited a page and may be less be able to monitor their performance.
+
+Cookie Details
+
+Targeting
+
+These cookies may be used to target ads to you (such as by helping to build a profile of your interests to target ads).  If you do not allow these cookies, the advertising you experience may be more repetitive or less relevant to you.
+
+Cookie Details
+
+Unclassified
+
+We recommend leaving Unclassified cookies off.  The Unclassified category could contain Functional, Performance, or Targeting cookies that we have not yet moved into the Functional, Performance, or Targeting categories above.  If you turn on the Unclassified category, all Unclassified cookies will be activated, even if you deactivate the specific Functional, Performance, or Targeting category.
+
+Cookie Details
+
+Save my choices

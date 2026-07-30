@@ -1,0 +1,120 @@
+‘I’m Sorry, Dave.’ When AI Writes a CEO’s Apology Letter
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+This Week in Leadership|May 7, 2024
+
+‘I’m Sorry, Dave.’ When AI Writes a CEO’s Apology Letter
+
+Researchers used the latest tools to generate a note that many leaders find particularly challenging. How did it go?
+
+Generative artificial-intelligence programs are already helping professionals write compelling sales presentations, convincing emails, and other difficult business communications. It was only a matter of time before someone tried using it for one of the most sensitive documents of all: an apology from the boss.
+
+Using the widely available GPT-4, researchers at the Korea Advanced Institute of Science and Technology (KAIST) recently built a model they call “Prompt Engineering for CEO Apology.” The model incorporates a number of variables, including type of event, structure and length of previous apologies, audience, delivery method, and the communication styles of the CEO and the company. The researchers used the model to create apologies for some recent high-profile CEO gaffes, and apparently, AI did pretty well: According to the KAIST study, the notes “conveyed empathy” and “mimicked the same structure and emotional language” of CEO apologies produced by human beings.
+
+Still, experts are skeptical, with most saying that relying on generative AI programs for apologies might be asking for trouble. “Until the technology is perfected, it would be very easy for a CEO to step in it by offering a gen-AI apology that only makes things worse,” says Peter McDermott, a senior client partner in Korn Ferry’s Corporate Affairs Center of Expertise.
+
+The notion of turning to AI for high-level apologies does have its appeal—mostly because CEOs are notorious for avoiding them. Some leaders believe that their job requires them to show strength and are reluctant to show weakness. Even those willing to be contrite can end up sounding evasive or insincere, potentially alienating offended groups even further. What’s more, a nuanced and sensitive apology isn’t easy to categorize. To be effective, it may have to resonate with multiple different groups of external stakeholders, such as investors and customers. The reactions of other cultures and races also have to be taken into consideration. Importantly, experts say an apology also must sound authentic to the audience that knows the CEO best—company employees. “Any apology that sounds inauthentic to employees could affect retention and future recruitment,” McDermott says.
+
+When researchers compared the AI-generated apologies with those the CEOs actually sent, they found that the AI versions included fewer specifics. The notes also failed to convey a sense of the boss’s personality. “AI still isn’t fully aligned with how humans communicate,” McDermott says.
+
+Experts say there should be a broader strategy for using gen AI throughout an organization before the technology is applied to specific cases—such as producing CEO apologies. Chris Cantarella, a senior client partner in Korn Ferry’s Global Technology Markets practice, says it’s critical for each enterprise to establish a governance mechanism regarding the use of AI for these important and sometimes high-risk interactions. AI systems, he says, are just applied mathematics. “Before they can achieve anything productive they need clean data and proper training,” he says. Too often, different parts of organizations may be experimenting with gen AI in an uncoordinated manner, which creates risk, especially in challenging cases like apologies, Cantarella says. Companies need to be strategic, thoughtful, tactful, and disciplined. “Otherwise, you’ll end up on the front page of The Wall Street Journal for your insulting or obtuse apology,” Cantarella says.
+
+Once a company has a strategic plan around its own AI use, corporate-communications teams can experiment and train the technology in the voice of the company’s executive team, board, and brand. Any early output should be firewalled, McDermott says, and evaluated by the firm’s communications team. Eventually, he says, if the AI output sounds authentic, the company can consider incorporating it into its corporate communications, as appropriate.
+
+Learn more about Korn Ferry’s Leadership Consulting capabilities.
+
+Read more This Week in Leadership articles
+
+Our Expert
+
+Our Experts
+
+Peter McDermott
+Senior Client Partner, Global Corporate Affairs and Investor Relations
+
+Chris Cantarella
+Senior Client Partner, Global Technology Markets, Global Sector Leader, Software
+
+No items found.
+
+Featured Insights
+
+This Week in Leadership (Jan 12 - Jan 18)
+5 Ways to Move from ‘Toying’ to Working with AI
+
+INSIGHTS TO YOUR INBOX
+
+Stay on top of the latest leadership news with This Week in Leadership—delivered weekly and straight to your inbox.
+
+​
+
+Related Insights
+
+See All Related Insights
+​
+
+Article|July 3, 2026
+
+The Glitter Leader
+
+July 3, 2026
+
+This Week in Leadership (June 29 - July 5)
+
+July 3, 2026
+
+This Week in Leadership (June 29 - July 5)
+
+Article|July 1, 2026
+
+6 Ways to Handle Work During Vacation
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+This Week in Leadership
+
+Leadership
+
+Beyond Coronavirus
+
+Future of Work
+
+AI in the Workplace
+
+People Strategy & Performance
+
+Leadership & Professional Assessments
+
+Organization Strategy
+
+Technology
+
+Software & Platforms

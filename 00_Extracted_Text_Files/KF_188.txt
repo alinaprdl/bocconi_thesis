@@ -1,0 +1,318 @@
+6 Signs Leaders Lack AI-Readiness—And How to Fix It
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+6 Signs Leaders Lack AI-Readiness and How to Fix It
+
+AI-ready leadership isn't about tech skills. Six signs show who's ready and who isn't.Learn how to spot them and close the gaps fast.
+
+Leaders are confident about AI in strategy meetings. Nearly 80 percent believe they have AI figured out.
+
+Their workforce, however, has a different perspective. Only 39 percent of employees and 11 percent of talent leaders think their top team is ready to lead through the AI transition.
+
+For CHROs, this creates some urgent questions. How do you tell which leaders aren't ready? What signs should you be looking for?
+
+In our experience, leaders who struggle with AI often display common patterns in how they approach it.
+
+Spot these six signs early, and there's time to build the capabilities leaders need to make transformation work.
+
+Key Takeaways
+
+​
+
+6 signs your leaders aren’t AI-ready
+
+​
+
+Why leadership—not technology—stalls AI progress
+
+​
+
+What CHROs can do now to build AI-ready leaders
+
+1. They Treat AI as an "IT Project," Not Work Transformation
+
+Many leaders still see AI as something the CIO owns. They hand it over, check the box, and move on—assuming the real work sits in IT.
+
+They frame AI as automation or efficiency, rather than as a force that reshapes work, services, and products across the business. When AI comes up in strategy meetings, they nod along, but they don’t see it as their moment to reimagine how their part of the organization creates value.
+
+It’s a pattern Korn Ferry’s Jerry Collier, Solution Leader, EMEA Assessment & Succession, sees often.
+
+“They all look at the CIO,” he says. “And I have to tell them, don’t look at the CIO. This isn’t a tech project. Yes, there’s accountability for AI architecture. But reimagining work, services, and products with human and artificial intelligence is a business and workforce transformation. It belongs to everyone.”
+
+AI changes how value is created, not just how tasks get done. Leaders who treat this as a technology deployment miss the transformation entirely.
+
+They end up with:
+
+Disconnected experiments that don't scale
+Teams that resist change because they don't understand why it matters
+Investments that fail to deliver real business impact
+
+How CHROs Can Help
+
+Build AI leadership capability around business outcomes, not IT milestones
+
+Stop letting leaders celebrate tool launches. Tie their goals to outcomes that matter, such as new revenue, better customer experiences, faster decisions, and capabilities the business didn't have before.
+
+Make every leader accountable for their domain
+
+The CIO can’t own this alone. Each function needs leaders who see AI as their responsibility, and who actively reimagine how work gets done in their area.
+
+Push leaders to reimagine, not optimize
+
+Run scenario exercises that force bigger questions. If AI handles 80 percent of routine work, what does your team do instead, and how do roles, services, and value creation change?
+
+2. They Either Distrust or Overtrust AI
+
+Many leaders swing between two extremes with AI. Some won't trust AI outputs at all. Others trust them completely.
+
+Both are missing the point.
+
+Leaders in the first camp treat AI like it's fundamentally unreliable. They demand perfect data before they'll move forward, worry constantly about bias and risk, and create so many approval layers that nothing gets done.
+
+Leaders in the second camp do the opposite. If AI generated it, it must be right. They skip the quality checks and take outputs at face value.
+
+"Gen AI is Robin to your Batman," Collier explains. "It’s really eager, tries very hard to get everything right, makes some stuff up trying to please, and will get you into trouble. It will need rescuing."
+
+AI isn't perfect, but it's not entirely unreliable either. The leaders who get this balance can use it well.
+
+How CHROs Can Help
+
+Build data literacy, not technical expertise
+
+Leaders don't need to understand how AI models work. They need to ask better questions. Where did this data come from? What might be missing? How confident should we be in this output?
+
+Create safe spaces to practice
+
+Set up low-stakes scenarios where leaders work with AI outputs, such as reviewing AI recommendations in practice sessions or testing them against human judgment. This will help them learn when to trust it, when to dig deeper, and when to override it.
+
+Use governance as a teaching tool
+
+Don't just hand leaders a rule book. Show them how to evaluate AI recommendations and make informed decisions about what to act on and what to question.
+
+3. They Ignore Employees’ Fear of Job Loss
+
+Leaders know their teams are worried about AI replacing them. They see it in meetings, hear it in hallway conversations. But when someone asks directly about job security or how AI will change their role, leaders who aren't AI-ready deflect the question.
+
+Instead of transparent dialogue about how work is changing, they offer corporate speak. "We're on a journey." "This is about augmentation." "Everyone will need to adapt." These phrases mean nothing to someone wondering if their expertise still matters.
+
+This isn’t fooling anyone. It simply increases distrust and fear.
+
+Meanwhile, engagement drops. People stop taking risks. Top performers update their LinkedIn profiles.
+
+The AI transformation needs people to lean in and experiment, but no one experiments when they’re worried about survival. After all, if an AI tool succeeds in reducing workload or increasing output, it can leave employees wondering how their role still fits.
+
+How CHROs Can Help
+
+Help leaders understand how AI will affect different roles
+
+Give leaders data on how AI changes specific roles and which skills become more critical. When people see what's shifting and what matters more, they’ll feel better able to prepare by upskilling or reskilling, helping remove the fear.
+
+Train leaders to have honest conversations about change
+
+Teach them how to discuss work redesign openly. What tasks are changing? What new skills matter? Where are the career pathways? People need specific answers from leaders, not corporate platitudes.
+
+Create visible reskilling pathways
+
+Don't just promise upskilling. Show clear examples of people who've transitioned successfully. Make it concrete so teams can see a future, not just hear about one.
+
+4. They Rely on Legacy Decision-Making Instead of Experimentation
+
+Leaders who aren't ready approach AI the way they've approached other initiatives. They want the full business case, risk analysis, and three-year ROI projection before they'll move.
+
+By the time they've analyzed everything, the model they were evaluating is outdated. A new version launched. Competitors have already been using it to gain ground. That opportunity is gone.
+
+AI requires learning through doing.
+
+Leaders who need certainty upfront miss the window entirely. They slow-walk pilots, abandon promising tests because early results weren't perfect, and treat one successful project like mission accomplished.
+
+"AI-ready leaders understand that there's no finish line," says Andrea Deege of Vice President, Individual IP Development, Korn Ferry Institute. "It's about constantly being curious about what's next. What worked yesterday might not work tomorrow. Leaders need to be innovating at all times."
+
+How CHROs Can Help
+
+Build learning agility into leader development
+
+Focus on the behavioral traits that enable fast adaptation, such as curiosity, comfort with ambiguity, and willingness to let go of what worked before. These matter more than technical AI knowledge.
+
+Shift from "prove it first" to "learn it fast"
+
+Change how AI initiatives get approved.
+
+Leaders shouldn't need perfect business cases to start small experiments. Build frameworks that reward fast learning over exhaustive planning.
+
+Reward adaptation, not just results
+
+Recognize leaders who pivot based on what they learn, not just those who hit targets. Make it clear that changing course when something isn't working is smart leadership.
+
+5. They Don't Know How to Orchestrate Human-AI Teams
+
+Leaders struggling with AI ask the wrong question. They ask, "What can AI do for this role?" when they should be asking, "How should this work get done now that AI exists?"
+
+These leaders don't redesign processes. They just add AI on top of existing workflows and hope it helps.
+
+Customer service still operates the same way, but with an AI chatbot added. Sales teams still follow the same playbook, but with AI-generated insights they may or may not find useful.
+
+This approach won't scale.
+
+More than half of talent leaders are planning to add autonomous AI agents to their teams in 2026.
+
+That's not just new technology. It's new team members with different capabilities, limitations, and ways of working. Leaders who can't orchestrate that complexity will struggle to capture any real value.
+
+How CHROs Can Help
+
+Create workforce design workshops
+
+Bring leaders together to redesign how work gets done in their functions. Where does AI fit? Where do humans add the most value? Make those decisions explicit instead of leaving them to chance.
+
+Elevate roles as automation increases
+
+Don't just eliminate tasks. Show leaders how to redesign jobs so people can focus on higher-value work—complex problem-solving, relationship building, strategic thinking that AI can't replicate.
+
+Create new roles for managing human-AI work
+
+Some organizations might need dedicated positions to manage human-AI workflows. Consider roles like "AI Operations Manager" or "Workflow Designer" for complex functions.
+
+6. They Focus on Efficiency, Not Capability Building
+
+Leaders who struggle with AI in the workplace see it primarily as a way to do more with less. Automate this process, reduce that headcount, speed up those workflows. The conversations center on ROI calculations and efficiency metrics.
+
+What gets ignored is capability development.
+
+Are people learning to work alongside AI effectively? Are teams building the skills they'll need as roles evolve? Is the organization creating the capacity to keep adapting as AI advances?
+
+Leaders focused on short-term savings miss that AI maturity isn't about installing tools. It's about building an organization that can continuously evolve and innovate.
+
+Without investment in skills, culture, and long-term development, the efficiency gains plateau.
+
+How CHROs Can Help
+
+Reframe AI investments as capability building
+
+Help leaders see that money spent on developing people's AI skills, redesigning roles, and building adaptive culture isn't overhead. It's what makes the technology investment pay off long-term.
+
+Build an AI-ready culture
+
+An AI-ready culture is the foundation that makes technology investments actually deliver. Create an environment where people feel safe to experiment with AI, where leaders model curiosity, and where outcomes matter more than activity.
+
+Create ongoing skill development plans
+
+AI changes too fast for one-time training. Build regular development programs that help people continuously update their skills as technology and roles evolve.
+
+AI-Ready Leaders Aren't Born—They're Developed
+
+The good news is that these six signs don’t have to be permanent problems. They point to capabilities that can be defined, built, and strengthened through targeted development, real-world experience, and organizational support.
+
+CHROs who spot these patterns early and act on them can give their organizations a real shot at making AI transformation work better for everyone.
+
+The alternative is watching leaders struggle, teams disengage, and investments fail to deliver—not because the technology doesn't work, but because the people leading it weren't equipped to guide the change.
+
+Want to Explore AI Readiness?
+
+Use Korn Ferry's AI-Ready Leadership Checklist as a practical first step to identify what's missing and where to focus.
+
+Get the Checklist
+​
+
+Related Insights
+
+See All Related Insights
+​
+
+Our Experts
+
+Jerry Collier
+
+Solution Leader, EMEA Assessment & Succession
+
+Andrea Deege
+
+Vice-President, Individual IP Development, Korn Ferry Institute
+
+FAQs
+
+1: What are the most common signs that leaders aren't ready for AI?
+
+Six patterns show up consistently. These leaders treat AI as an IT project instead of business transformation. They either distrust AI completely or trust it blindly. They avoid discussing how AI affects jobs. They need certainty before experimenting. They can't redesign workflows for human-AI collaboration. And they chase cost savings while ignoring capability building.
+
+Spotting these signs gives CHROs the information they need to help develop AI-ready leaders.
+
+2: Can leaders who aren't AI-ready be developed, or should we replace them?
+
+Many leaders who struggle with AI aren’t failing. They’re often relying on approaches that worked well in more predictable environments—but don’t hold up when technology keeps changing.
+
+Some challenges can be worked through. Behavioral competencies can often be strengthened with the right development and real-world experience. But traits and drivers are more enduring, and not every leader will be equally suited to AI-driven work. In those situations, smart succession decisions, not development alone, matter most.
+
+That may mean moving leaders into roles where their strengths are a better fit, while making sure future roles are filled by leaders whose capabilities, traits, and drivers align with what AI-enabled work demands. Replacement should be the last option, not the default.
+
+3: What's the first step CHROs should take to prepare leaders for AI?
+
+Start with assessment. Use tools like Korn Ferry's AI-Ready Leader Success Profile to identify which leaders have the necessary capabilities and which ones show warning signs.
+
+Once you know where the gaps are, you can build targeted development programs that address specific behavioral patterns rather than running generic AI training that doesn't stick.
+
+‍
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Leadership & Professional Development
+
+Leadership Development
+
+Life Sciences
+
+Consumer Products
+
+Financial Services
+
+Healthcare
+
+Retail
+
+Technology
+
+Human Resources
+
+AI in the Workplace
+
+AI-Ready Leader
+
+Article
+
+Featured Topics
+
+CHRO
+
+February 19, 2026
+Insight Articles
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

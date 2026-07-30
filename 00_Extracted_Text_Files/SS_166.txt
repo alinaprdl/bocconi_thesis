@@ -1,0 +1,140 @@
+Leading the Game: AI and Talent in the Gaming Revolution
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Leading the Game: AI and Talent in the Gaming Revolution
+
+By
+
+Meg Wilson Schaeffler
+
+August 2024
+
+| 5 min read
+
+Author
+
+Meg Wilson Schaeffler
+
+Los Angeles
+
+SectionsIn this article
+
+Key findings
+
+AI is not exactly new for gaming companies. But what excites many in the industry is the technology’s increasing ability to help develop even better game experiences.
+
+Incorporating AI into every facet of operations ensures that AI enhances, rather than replaces, the human creativity and ingenuity at the heart of a studio's operations.
+
+Rather than killing off creativity, AI could actually enhance creative capabilities, especially among people an innovative and learning mindset coupled with an eagerness to embrace technology to help them do their jobs better.
+
+Recent advances in artificial intelligence are continuing to bring great change to the gaming industry — and in particular, generative AI and its application in creative ventures. For an industry that sits naturally at the intersection of digital technology and creativity, AI offers tremendous potential to enhance things like game design and character development and create newer kinds of immersive, interactive experiences for users.
+
+But what does this mean for gaming companies? How can organizations be designed to best incorporate AI’s promise? What kind of leadership expertise is needed to capture AI’s full value? To answer these questions, over the past several months we’ve spoken with a number of industry leaders and experts, conversations that yielded interesting insights on AI’s impact on the industry.
+
+In this article, we look at four key issues that arose from our conversations about an industry preparing for the continuous AI revolution.
+
+AI as a value driver: cost efficiency and development innovation
+
+AI is not exactly new for gaming companies, many of which have incorporated it (particularly predictive AI) into how they operate. But what excites many in the industry is the ability for the technology to help develop even better game experiences.
+
+Quote
+
+The video game industry has a huge opportunity to embrace technology in a more constructive way and use tools to better operate games....”
+
+Owen Mahoney
+
+former CEO,
+Nexon
+
+“Our first use of AI applied it to live game operations — and that resulted in a major revenue increase because improving live operations increases retention and lowers churn,” said Owen Mahoney, former CEO at Nexon. Generative AI can also increase efficiency, allowing for either cost savings or re-investment into improving the game. “Over the past few years we started exploring how to do AI in new game development,” Mahoney said. “We’ve experimented like crazy, including areas like generative art and script making, but I would say it’s very, very early in that…. The video game industry has a huge opportunity to embrace technology in a more constructive way and use tools to better operate games to scale them without having to hire tens of thousands of new people as they get bigger.”
+
+The real value in AI lies not in merely chasing a hot trend, but rather in seeing from a bigger-picture point of view how technology can improve game development and operations. Players expect innovation from the gaming industry, and several interviewees spoke about how AI could enhance that. Specific areas include narrative writing, animation, voice casting, non-player character (NPC) behaviors in games and art asset generation.
+
+Jon Goldman, co-chairman of Skybound Entertainment and a general partner for Tower 26 Ventures, said that AI could play a key role around the edges of the game development process, as AI assists with the thorniest issues that can delay innovations.
+
+“The more you can focus on the riskiest parts of a game, typically the physics and the engineering, but also the tremendous load of art production, that can help you get something fun more quickly,” Goldman said.
+
+Organizational structure for AI
+
+But how do you set up your organization for success incorporating AI? That has been the big question for companies across industries as they consider new tools and processes for doing business.
+
+In particular, leaders are having discussions about how to incorporate AI into their work, and in particular whether it’s necessary to have a single C-suite role spearheading AI efforts, such as a chief AI officer.
+
+“For AI to actually be useful in the company, it has to be integrated to every single role in the company,” said Maureen Fan, CEO and co-founder of Baobab Studios, an interactive animation studio. “A problem with many current-gen AI games — it’s just one aspect of the game, and it feels tacked on or a gimmick. It has to be core to the game design for it to actually have the impact you want it to.”
+
+The leaders we spoke with made it clear they believed general adaptability and a broad understanding of AI's potential applications are more important than creating an AI-focused C-suite role. Incorporating AI into every facet of operations ensures that AI enhances, rather than replaces, the human creativity and ingenuity at the heart of the studio's operations.
+
+Ethics and AI
+
+It’s impossible to examine the AI journey without seriously looking at the legal and reputational perils of using AI. Some leaders are reluctant to dive too far into AI, especially its creative uses, without first working out legal and copyright issues. And that doesn’t even take into account the potential impact on jobs as AI begins encroaching on areas of the creative process.
+
+Several executives spoke about the careful steps they are taking to ensure that AI is used cautiously and without encroaching on anyone’s intellectual property. Maureen Fan said that, considering the current legal gray areas, the data the company uses to train or finetune AI models comes from internally created sources that the company fully owns.
+
+“We design our tools to be platform agnostic to the extent possible so if one large AI provider proves to be unethical we can take our data and switch to a model that isn't,” she said.
+
+Ultimately, many leaders told us that they are taking steps to ensure they maintain ownership of their content and that it is being used in an ethical manner.
+
+“We would likely work with a closed system to make sure that we can keep control of our IP, and to ensure that our people’s work isn’t being misused, or used without their consent,” said Jon Goldman.
+
+The people side of the AI revolution
+
+Quote
+
+I believe the artists of tomorrow will see AI tools as an expansion to their creative capacity for brainstorming, research, and iteration.”
+
+Michael Chow
+
+CEO,
+The Believer Company
+
+The rapid rise of AI for creative uses has understandably led to some fear and trepidation among people worried that it could replace work done by humans today. But several of the leaders we spoke with say they’ve been reminded of past revolutions — for example, the introduction of computer-enhanced graphics in the film industry — where technology reshaped roles rather than eliminating them entirely.
+
+Rather than killing off creativity, AI could actually enhance creative capabilities, especially among people with an innovative and learning mindset coupled with an eagerness to embrace technology to help them do their jobs better.
+
+“In gaming, there’s a lot of controversy around concept art and AI,” said Michael Chow, CEO of The Believer Company, a gaming company. “But the best concept artists in the world today don’t just start drawing on a blank canvas — they riff on concepts with colleagues first, or search for reference material, or kitbash to test out their favorite ideas. I believe the artists of tomorrow will see AI tools as an expansion to their creative capacity for brainstorming, research and iteration. If we do this right, creatives won’t feel threatened — they’ll feel supported and unleashed.”
+
+In particular, we heard excitement among many we spoke with about AI’s possibility to enhance the already sizeable abilities of game designers. AI could enable developers to better focus on the most innovative and risk-laden aspects of game creation — like game physics, design and business models — while standard tasks, particularly around art asset creation, could be automated to enhance efficiency.
+
+Once you understand the technology, it can be used to bridge gaps and really understand what’s possible with AI. If you have talent with the intuition to know what a really compelling gaming experience is, and awareness of how the game design process works, it’s easy to see how AI could rapidly improve the development process, perhaps shortening a monthslong process into one that can be completed in weeks.
+
+Quote
+
+As an industry we've been working with AI for over 30 years. We believe there is an exceptionally high likelihood that game developers could be at the forefront of the new era of AI use that can break beyond gaming.”
+
+Matt Bilbey
+
+venture partner, LVP; board director,
+Bitpart AI
+
+"As an industry we've been working with AI for over 30 years,” said Matt Bilbey, a long-time executive at Electronic Arts and current venture partner at LVP, who sits on the board of Bitpart AI, a firm that brings the technology to game developers. “We believe there is an exceptionally high likelihood that game developers could be at the forefront of the new era of AI use that can break beyond gaming.”
+
+The inextricable link between AI and gaming
+
+Indeed, while there may not have been universal agreement in predicting when and how AI would impact the industry, there was a general sense that AI’s impact would only increase as time went on. As the past year has shown, AI-driven tools are rapidly improving, and with that their potential to impact a creativity-heavy industry like gaming is also increasing quickly. The organizations that understand this potential and are giving their teams space to learn and grow with them have the potential to not just transform how games are made, but also the nature of games themselves.
+
+"I think it’s almost inseparable, the evolution of AI and the evolution of how we create games,” said Songyee Yoon, former president of the game developer NCSOFT and now a managing director for Principal Venture Partners, which invests in AI-native companies. “To me, it's not two separate streams. Whenever there is a new development, it's always applied to gaming. This industry is always at the forefront of embracing new innovations and technology.”
+
+Interview Participants:
+
+Matt Bilbey, Venture Partner, LVP; Board Director, Bitpart AI
+
+Michael Chow, CEO, The Believer Company
+
+Maureen Fan, CEO and Co-Founder, Baobab Studios
+
+Jon Goldman, Co-Chairman, Skybound Entertainment; General Partner, Tower 26 Ventures
+
+Owen Mahoney, Former CEO, Nexon
+
+Songyee Yoon, Managing Director, Principal Venture Partners; Former President, NCSOFT
+
+Author
+
+Meg Wilson Schaeffler
+
+Los Angeles

@@ -1,0 +1,159 @@
+Product Leadership: How to Select the Right Product Leader for Your Organization
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Product Leadership: How to Select the Right Product Leader for Your Organization
+
+By
+
+Muthiah Venkateswaran and
+
+Samuel Feinberg
+
+April 2024
+
+| 8 min read
+
+Authors
+
+Muthiah Venkateswaran
+
+Silicon Valley
+
+Samuel Feinberg
+
+San Francisco
+
+The authors wish to thank Zena Jaber, Christian Daniels and Gabriel Sanchez for their contributions.
+
+Learn more about our product leadership expertise by visiting our Technology, Media & Telecommunications and Technology and Digital Officer practice pages.
+
+SectionsIn this article
+
+At a time when cutting-edge technologies like AI are transforming nearly every industry, more organizations are recognizing the need for highly skilled product leaders to develop a thoughtful product roadmap and a winning strategy for technology/digital assets to fuel market differentiation and growth.
+
+Product leaders are highly sought-after. Getting the right chief product leader or head of product is critical, given the pace of technology advancement and technology-driven market disruptions. One size does not fit all when it comes to product leadership. The right product leader for a company will depend on its context and business and technology aspirations.
+
+Driven by their personal leadership journey and experiences, these leaders come in different varieties. Hence, we recommend against the approach of targeting product leaders from specific technology companies as a panacea. While product experience from a specific company could be highly valuable, a product leader’s ability to impact the business depends on the relevancy of their experience and skill set to the specific business context. A leader who excels in one context may not excel in another. Two leaders from the same organization many times have very different experiences of leading and managing product portfolios depending on when they worked in the company and their specific product leadership journey. It is important to identify the leadership competencies they have developed that would then translate into impact in the new setting.
+
+Download
+
+Download
+
+The product-led transformation series
+
+This article frames and introduces the key topics to be addressed in our ongoing series on product-led transformation written by the Product Practice at Spencer Stuart. As the role of technology, digital and product-led transformation in business is fast evolving, this series was written to guide CEOs, boards and product leaders looking to gain competitive advantage through product-led transformation. There is a lot to learn. We hope these articles can be a starting point for robust discussions and continued learning.
+
+Product leaders: Varied backgrounds impact scope
+
+Product leaders will bring different areas of expertise depending on their backgrounds. In general, there is an increasing level of sophistication and specialization among product leaders, as technology has become an integral part of every business. Titles can sometimes be misleading, so it is important to look beyond the job title and level to understand the true scope of a leader’s experience. Some product leaders have taken an engineering route into product roles, while some have come into product through design or functional product management or other business/strategy roles. In addition, product leaders may have deep experience in managing engineering teams directly versus influencing them depending on the structure of the product organization(s) where they have worked and, hence, will have varying depths of understanding of the different functional areas, including data, product marketing, design, infrastructure, etc.
+
+In addition to the functional expertise, product leaders can come from different backgrounds related to the following:
+
+Company size and structure: enterprise, small- and medium-sized business; private equity versus venture capital versus public company
+
+Offerings: platform as a service (PaaS), software as a service (SaaS), infrastructure as a service (IaaS)
+
+Industry: healthcare, consumer, financial services, etc.
+
+Four product archetypes: Prioritizing the capabilities your company needs
+
+Because product leader backgrounds are contingent on so many varying factors, it is essential to look beyond surface-level experience when considering the right leader for an organization. Drawing on our experience and research into the different product pathways, we have identified four main product leader archetypes based on their primary focus in their role: strategist, operator, tech innovator and change agent. Most product leaders reflect more than one of these archetypes depending on their background, the organizations they worked in, the roles they played, the products they owned and the stage or maturity/evolution at which they owned these products. The archetypes apply whether the company is consumer- or enterprise-focused and whether the leader is overseeing a stand-alone product management organization or directly managing engineering teams.
+
+The four archetypes are structured across two dimensions, with the X-axis representing how operationally focused (on the right) or intuitive and creative (on the left) a leader is. The Y-axis represents how internally or externally focused a product leader is, ranging from those who are externally focused on market, customers, competition and ecosystem (on the top) versus those focused on leveraging internal strengths and capabilities like technology/platform differentiation (at the bottom).
+
+Strategist
+
+These are strategic thinkers who are externally focused on customers and the market. They are able to create a product vision and translate it into product strategy and a roadmap for achieving sustainable business impact and differentiation. They draw on market insight and the “voice of the customer” to shape the product strategy and roadmap. They are able to “look around corners” to anticipate future trends and shape the strategy and execution plans accordingly. They have experience driving critical decisions about when to build, acquire or leverage partnerships to achieve strategic objectives. In the case of B2C companies, these are often creative product leaders who can use design to develop a unique customer experience and perception of product differentiation (a product experience) that forms a core part of the strategic differentiation for the product. The best strategists go beyond developing a great strategy on paper; they know how to make the strategy come to life through execution and customer impact. They understand the competitive landscape and know how best to position the product better to create differentiation.
+
+Tech innovator
+
+Tech innovators are visionary leaders who use technology to create innovative products that disrupt the market. They create products for which customers or the market have not seen use cases (for example, many innovative founders do this really well and fall in this category). The technology-driven innovative products that they develop become game changers and trend setters. These leaders are exceptional technologists who are able to visualize and create new experiences and solutions not seen before by customers. Many products that are powered by strong intellectual property (IP) fall in this category as well.
+
+Operator
+
+These are strong operational experts who are adept at driving the growth engine — from driving product-led growth to scaling the team and processes to ensuring seamless execution and delivery of the product roadmap. Drawing on their connection with the customer, they can identify ways to think about the product portfolio and product roadmap/feature/functionality extensions in the form of adjacencies, new features, new markets, customer segments, etc. They are skilled at driving continuous improvement through operational rigor in product management. They push for experimentation and use of data-driven insights to evolve the organization’s understanding of the end customer and identify new opportunities for value creation and monetization. They also use data and KPIs to identify patterns, drive growth, reduce churn, improve Net Promoter Score (NPS) and enhance product quality, product features, design, UI/UX, etc. They know how to establish best-in-class processes and scale the capabilities and talent within the product team to keep up with the needs of the product portfolio.
+
+Change agent
+
+These are transformative leaders and “fixers” who change the way the product management function operates across the product strategy, product roadmap, talent, processes, capabilities, etc. They have the ability to bring in new capabilities — e.g., transition from on-prem to cloud, establish a product management function from scratch, move from project management to product management, address tech debt, drive agile transformation, integrate multiple acquisitions and platforms into a cohesive future strategy, etc. They have proven experience changing culture, building new capabilities in the team, integrating teams and changing the way day-to-day work happens. As much as they are known for the strengths in product management, they thrive in driving change.
+
+Archetypes in action
+
+As we have engaged with clients, it is not uncommon for some to initially say, “I want all four,” but then they quickly realize that prioritizing is critical. It is important to think through what is needed for the next two years versus the long term.
+
+You may also like:
+
+Which Product Management Leadership Model is Right for Your Business?
+
+To respond to technology disruption, it is critical to have a thoughtful product roadmap and well-functioning product management function. Different product organizational structures come with specific benefits and challenges.
+
+The right archetype for your company is dependent on your assessment of your most pressing challenges and best opportunities for growth. This can (and will) change over time. Many leaders will have multiple of these attributes depending on their past experiences, but few will have equal strength in all four areas. As one would expect, the organizations where individuals have worked and their leadership journey so far shape their capabilities and perspective. For example, in the context of a B2B software product, a leader who has primarily worked in cloud-native product organization will know how to build best-in-class cloud products and leverage the numerous possibilities cloud-native solutions can bring. They likely won’t have the battle scars of driving a transformation and dealing with challenges of taking on-prem solutions to cloud, and the implications for customers, go-to-market strategies, talent and tech debt. On the other hand, in the context of a B2C product, a leader who has worked in an environment with exceptional scale may have a lot of operational experience using data to drive user acquisition and growth but may not have a broad experience in driving many of the strategic questions that may have been handled by others in the organization.
+
+Here are examples of how some organizations have approached prioritizing the expertise they need.
+
+Change agent and strategist
+
+A fast-growing enterprise software company needed to shift its product suite from on-prem to a cloud-native solution. Since the shift was being driven internally — clients were not complaining and the company was growing at a fast rate — the company needed a leader who could be a change agent able to articulate the story of change with customers, the sales team and the go-to-market organization, while being a strategist who could craft a product vision and roadmap to help the organization differentiate itself in the market and transform its growth trajectory.
+
+Change agent and operator
+
+A global consumer technology company that had grown through acquisition needed a strong change agent who also could bring operational rigor. As a result of the acquisitions, the company ended up with multiple different platforms and inconsistent customer experience across the globe. Scaling beyond the current state became a huge challenge. The board and the CEO wanted a leader able to transform the customer and product experience across the globe and inject the operational rigor needed to lead data-driven growth and continuous improvement.
+
+Strategist and operator
+
+A private equity-backed B2B software company CEO was looking for a chief product and technology officer who could help frame the new product vision and help maximize the value creation from the existing product portfolio. As a company that had grown through acquisitions, there was a lot of “unrealized” value to be achieved by integrating the products and helping drive more adoption of the full product suite by existing customers. The company saw an opportunity for the product officer to accelerate growth and value creation by driving a future product strategy that leveraged the power of AI and automation to differentiate its offerings versus the competition.
+
+Market-facing change agent
+
+In searching for a new product leader, the CEO of a legendary consumer brand prioritized a change agent with a market-facing mindset (strategists and operators). Historically a strong engineering-led organization, which helped drive its success, the company had more recently lost opportunities to competitors who understood the shifting consumer preferences. The CEO wanted a chief product officer who could help bring the market and consumer perspective to evolving the product strategy and vision and also bring more P&L rigor to drive better decision making and prioritization through data and customer feedback. However, this represented a big shift for the organization. Hence, in the near term, the ability to lead change would be critical but, in the longer term, strategist would become more important. The next product leader needed to be an effective change agent, able to gain credibility with the engineering team while articulating a vision for the future to make this transition work. Given the broad remit, the CEO also looked at this as an opportunity to find someone who could be the future CEO, given the P&L responsibility.
+
+Operator and change agent
+
+A founder of a high-growth consumer tech company about to go public wanted to find a product leader with operating strength — the right side of the model. As founder, he had been a tech innovator and strategist, which came naturally to him, but the business had reached a scale where operational rigor would be critical to achieving the next level of success. He also felt in order for product management to become more sustainable and less dependent on him, strong change management capability was required.
+
+Strategist and change agent
+
+A global services company CEO wanted to find a strategic chief product officer who would act as a change agent to lead the company’s pivot from a services business to a product-led business. The CEO was looking for someone to translate the voice of the customer into a strategic product roadmap and operationalize the roadmap over the long term. To do this, the product leader would need to be able to build the product management function and move the team from being “project” focused to “product” focused.
+
+Operator and tech innovator
+
+A high-growth enterprise SaaS company prioritized the operator and tech innovator archetypes when looking for a new chief product officer. The company’s product relied on machine learning and there were many opportunities for innovation to shape its evolution. In addition, the company needed a product leader able to use data to identify opportunities for growth, continuous improvement and adjacencies for product expansion. There also was a need to “land and expand” with customers. All of which called for an operator.
+
+Operator and tech innovator
+
+A high-growth enterprise SaaS company prioritized the operator and tech innovator archetypes when looking for a new chief product officer. The company’s product relied on machine learning and there were many opportunities for innovation to shape its evolution. In addition, the company needed a product leader able to use data to identify opportunities for growth, continuous improvement and adjacencies for product expansion. There also was a need to “land and expand” with customers. All of which called for an operator.
+
+How to think about which archetype is right for your organization
+
+When hiring product leaders, organizations many times are in the position of having to hire from another business vertical. Without a strong framework for assessing how a product leader’s experience transfers to the new situation, these organizations have to hope that the individual’s experience aligns with the specific needs of their business. Similarly, product leaders may find themselves excited by an opportunity — because of the space, the product or the team — but still have a nagging concern about whether they will be able to have an impact. This is where our four archetypes can be very helpful in prioritizing.
+
+Understanding the business needs of the near future and finding leaders who fit the organization’s needs are critical. Do this by considering how much domain experience is needed and by prioritizing archetypes from most important to least important based on your organization’s business priorities and context. Here are a few questions to think about as you decide which is the right archetype to prioritize when looking for your next product leader:
+
+What are the organization’s business goals? What is the role of product organization to help achieve the same?
+
+How important is deep industry experience to succeed in this role?
+
+Which archetype is essential to achieving the business strategy?
+
+What are the CEO’s natural strengths and working style? How can the new product leader thrive in that context and be additive from a value creation perspective?
+
+What is the archetype of key leaders in the current product/tech team and, hence, what should the new leader bring to be additive?
+
+As the organization evolves over the next few years, how should we think about the different archetypes needed to succeed in that journey?
+
+Product leaders can apply a similar framework when considering new opportunities to make sure that their experience and capabilities are well-suited to the needs of the business so that they can have impact. Leaders have found this framework useful for thinking through how their capabilities will translate to a different space.
+
+Authors
+
+Muthiah Venkateswaran
+
+Silicon Valley
+
+Samuel Feinberg
+
+San Francisco

@@ -1,0 +1,116 @@
+3 Ways IT Leaders Can Pitch AI to the Board
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+AI in the Workplace|December 14, 2023
+
+3 Ways IT Leaders Can Pitch AI to the Board
+
+As innovations in AI make headlines almost daily, how can IT leaders convince boards which new tools are worth the investment?
+
+Key takeaways
+
+The challenges IT leaders have in communicating with boards
+The value of combining business savvy with technical know-how
+How both internal and external collaborations can drive results
+
+Despite ChatGPT having received the lion’s share of AI fanfare, a whole host of generative AI tools has been flooding the market recently. Some have limited use, while others may even give ChatGPT a run for its money. Amid this tyranny of technological choice, IT leaders have emerged as the key to unlocking the business potential of these fresh platforms—but first they have to explain these tools to the board.
+
+It’s no small task given the level of AI skepticism. Indeed, roughly two-in-three executives say they are not comfortable using data from advanced analytic systems, according to one survey. Another survey by SAS, a data analytics platform, found that 42% of data scientists claim their results are not utilized by business decision makers.
+
+AI has provoked intense curiosity among boards about its business applications, but also a degree of concern around privacy, bias and reputation management. The challenge for IT leaders, therefore, becomes one of effective communication around such issues. It’s easier said than done, given that many tech leaders don’t interact regularly with board members, who are far from being digital natives—the average director is over 60.
+
+“There's no question that IT leaders need to communicate on these issues in a language that board members can understand,” says Dennis Carey, Korn Ferry Vice Chairman and co-leader of its board services. “It's become incredibly important for directors to be better educated.”
+
+Here are three ways IT leaders can communicate effectively with boards to help their organizations evolve with the latest technology.
+
+1. Talk business, not tech
+
+When speaking to the board, it’s critical to understand that directors are interested in how technology will impact business growth specifically. Tech leaders should be wary of any tendency to speak too often from a defensive risk-mitigation perspective rather than a growth-oriented one.
+
+For example, when sharing details on the five latest alternatives to ChatGPT, make a data-driven connection between each piece of tech and long-term value creation in areas like revenue, productivity, or engagement. You might cite a recent study out of Stanford and MIT that finds using generative AI tools boosted worker productivity by 14%.
+
+“If you’re suggesting your organization invests in a certain technology, you have to be clear on why it matters to the business,” says Tamara Rodman, a Korn Ferry Senior Client Partner in its Culture, Change and Communications practice. “Especially if your audience has zero background in IT.”
+
+Technology
+
+Excel today while transforming to meet tomorrow
+
+Learn more
+
+2. Gather intel from outside your firm
+
+The current wave of Generative AI is so new that even many technology leaders aren’t confident about how it can be applied.
+
+Rather than remaining siloed within your organization, one way forward would be to convene with tech leaders at other companies to share insights on how the technology is being used. Exploring new approaches to AI may even lead you to recognize a need to upskill your teams in certain areas, which may also increase retention.
+
+“Knowing what you don't know is inherent to this process,” says Carey. “Then you can find people and institutions to help you understand what you don't know.”
+
+3. Ask for help and collaborate
+
+Prior to speaking to the board, it may be helpful to reach out to leaders from other areas in your firm to gather perspectives you may not have considered. You might call the CHRO, for example, and ask what kind of conversations and concerns their department is having around AI. Then you might refer to this interaction later when speaking with the board to show how a talking point relates specifically to your organization's needs.
+
+In fact, if you don’t engage in this type of collaboration, you could struggle to convince the key people that your tech is needed. “If you’ve never communicated to your board before, it helps to speak with someone who has,” says Rodman.
+
+Interested in learning more about AI in the workplace? Browse our articles on the topic.
+
+Related Capability
+
+Related Capabilities
+
+Cultural Transformation
+
+Business Transformation
+
+Featured Insights
+
+Meta-what? A Primer for Executives
+Move Over, Equity. Cash Is King
+Shifting Gears on Privacy
+The Twitter Deal: 5 Ways Social Media May Change
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Featured Topics
+
+AI in the Workplace
+
+Cultural Transformation
+
+Business Transformation
+
+Technology
+
+Technology Officers

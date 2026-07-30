@@ -1,0 +1,439 @@
+Risks and Opportunities of Investing in AI - Egon Zehnder
+
+Skip to main content
+
+Search for “”
+
+... in Consultants
+
+... in Offices
+
+... in Services
+
+... in Insights
+
+Search all results
+
+Our Services
+
+Shaping Successions
+
+CEO Successions
+
+Executive Successions
+
+Board Successions
+
+Chair Successions
+
+Committee Chair Successions
+
+Advancing Governance
+
+Board Review
+
+Board Development
+
+Board Advisory
+
+Building Advisory Boards
+
+Sustainability Board Advisory
+
+Discovering Leaders
+
+CEO Search
+
+Executive Search
+
+Board Search
+
+Advisor Search
+
+Executive Assessment
+
+Developing Leadership
+
+Individual Development
+
+Accelerated Onboarding
+
+Development Planning
+
+Coaching
+
+Team Journey
+
+Unlocking Transformations
+
+Transformational Development Programs
+
+Chair and Board Potential
+
+Executive Breakthrough
+
+Executive Discovery
+
+Transformational CHRO
+
+Voyager
+
+Customized Leadership Immersion
+
+Explorer
+
+Cultural Transformation
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Chief Executive Officers
+
+Founders
+
+Technology Officers
+
+Chief AI, Data & Analytics Officers
+
+Chief Information Officers
+
+Chief Information Security Officers
+
+Chief Product Officers
+
+Chief Technology Officers
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+Consumer
+
+Consumer Products
+
+Media & Entertainment
+
+Restaurants, Leisure and Hospitality
+
+Retail, E-commerce, Apparel and Luxury
+
+Sports
+
+Financial Services
+
+Asset Management
+
+Banking and Markets
+
+Digital Assets, Crypto, & Web 3
+
+FinTech
+
+Infrastructure
+
+Insurance
+
+Private Equity
+
+Retail Financial Services
+
+Risk Management
+
+Sovereign Wealth Funds
+
+Wealth Management
+
+Health
+
+Biopharmaceuticals
+
+Healthcare Delivery & Services
+
+Life Sciences Tools & Pharmaceutical Services
+
+Medical Devices, Diagnostics and Technology
+
+Industrial
+
+Aerospace & Defense
+
+Chemical & Process Industries
+
+Energy
+
+Machinery & Industrial Technology
+
+Mining & Metals
+
+Mobility & Automotive
+
+Public & Social Sector
+
+Arts, Culture & Sports
+
+Economic, Social & Human Development
+
+Education & Research
+
+Environment & Sustainability
+
+Interest Representation & Public Affairs
+
+Public Administration
+
+Public Finance
+
+Public Health
+
+Public Infrastructure
+
+Services
+
+Air Transport
+
+Business Services
+
+Hospitality, Travel & Leisure
+
+Professional Services
+
+Real Estate Services
+
+Transportation & Logistics
+
+Technology & AI
+
+Artificial Intelligence
+
+Communications & Connectivity
+
+Cyber Security
+
+Digital
+
+Enterprise Tech
+
+Internet of Things
+
+Semiconductors
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+Functions
+
+Industries
+
+Meet our Consultants
+
+Discover Insights
+
+Find Offices
+
+About Us
+
+English
+
+Change
+
+Functions
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Industries
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+About Us
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+English
+
+Deutsch
+
+中文
+
+日本語
+
+Technology OfficersInvesting In AI Means Investing In the Future
+
+In conversation with Kenza Ait Si Abbou, CTO and Board Member at Fiege
+
+January 2025
+
+6 mins read
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Editor's note: This interview is part of a series with executives leading GenAI adoption. Read the first, second and third installments.
+
+Kenza Ait Si Abbou, the CTO and a board member at Fiege as well as the author of “Don’t Panic, It’s Just Technology” (translated from German), shares insights into Fiege’s collaborative approach to AI. With a focus on creating high-impact solutions, she emphasizes the importance of cross-functional collaboration—where technology meets business expertise—to drive AI initiatives. From ensuring AI literacy to building a strong data foundation, she explains how the company is positioning itself to capitalize on the opportunities AI presents.
+
+Could you share about what you have already implemented at Fiege and how you are approaching AI and GenAI tools?
+
+As a decentralized company with various independent business units, our IT infrastructure is complex and heterogeneous. We are currently piloting Microsoft’s  Copilot, with round about 200 users to evaluate its effectiveness. We are also integrating Microsoft’s large language model in our environment, which requires significant customization and expertise. Our data team is developing the necessary foundations, digitized processes, and infrastructure to be able to leverage these technologies and support the business.
+
+How did you determine the use cases and criteria for focusing on the five key areas with your LLM? Could you share your process?
+
+We rolled out the AI demand process about a year ago with a central platform for people across the company to suggest use cases. These requests need qualification, as users from the business units often don’t know the requirements for building each use case. What might be crucial in their field could be minor for the entire group, lacking scalability and leverage, yet still requiring significant resources. Because of this, it is vital to place someone centrally to steer this process, gather all demands, and qualify them. We use a criteria and prioritization matrix. Some criteria include:
+
+•    What’s the benefit?
+•    Who benefits and with which impact?
+•    How feasible is the solution?
+•    What kind of data is involved and who owns it?
+•    How much effort goes into the solution?
+
+Having this initial set of questions allows us to sort through the ideas to find the most mature ones. The easiest to implement with the highest potential impact are prioritized. While we don’t ignore the other ideas, our resources are limited, so we need to attend to them as judiciously as possible.
+
+What happens when a project is approved?
+
+The Data and AI team owns the AI demand process: They curate the demands, qualify them, and check all the criteria. They have regular meetings with other experts from IT and sometimes even from the business units, managing directors, or even myself to assess strategic importance.
+
+The demand owner always believes their request is the most important, but this is relative. In the larger scope of all things, we must determine if it’s crucial for only that team or if it affects the entire company. This depends upon gathering input from business units and possibly the group strategy team.
+
+We also need to maintain control over what is happening, not just for oversight, but because we must comply with the AI Act. We need to keep an overview of all our AI use cases, ensure that the people using these tools are trained, and comply with data privacy, regulations, and ethical concerns. And all of this must be documented. We aim to be flexible, but with limited resources, we must do things thoroughly and run them through the proper channels.
+
+Could you share your current innovation efforts and the risks and opportunities you see for your business model in the AI race?
+
+We are a third-party logistics provider (3PL) specializing in contract logistics. A large part of our business is providing customized logistics solutions to our customers. Many processes can be standardized, but of course each customer brings individual challenges and requirements. In general, we are committed to operational and to creating value for our customers. We work towards this every day—and data, and especially the right use of data, is a decisive success factor.
+
+When you are active within the whole supply chain, you learn from the data across the end-to-end process. My vision is to be able to recommend things to your clients that they can’t come up with because they don’t have that visibility on the whole process. For me, this is the game changer. This comprehensive view also greatly impacts ecological sustainability. When you have visibility on the whole supply chain and good control over your data, you can make informed decisions, like reducing cotton pickups in India if there’s less predicted demand for T-shirts in Germany. It’s not just about stock levels or production rates; it’s about the entire supply chain down to raw materials. This makes it possible to use resources more sustainably; it’s similar to just-in-time production in the automotive industry, but applicable to all industries.
+
+How do you ensure your team embraces new technologies and aligns with your vision?
+
+Excitement about AI can quickly turn into disappointment. People often think AI is like science fiction due to media hype, expecting plug-and-play solutions. However, AI requires significant customization and training with your own data. Managing these expectations is challenging.
+
+Ensuring AI literacy within the company is crucial. When people understand the technology, they grasp the requirements and what’s needed to use it effectively. Investing in training and communication is essential. I often say transformation is 80% communication and 20% building infrastructure. People need to understand the impact on their jobs and the urgency to scale up.
+
+Motivating employees to attend training is key, and making it mandatory can be difficult, especially in Germany. Our first hackathon at Fiege was a great success, allowing people from different units to engage with technology and design thinking. It was a valuable experience, even for those who didn’t go beyond designing a prototype. Initiatives like this are important to involve everyone and raise awareness about building technology. It’s more effective than traditional training.
+
+Do you feel it is something which has the power to connect people? Or is it disassociating them more?
+
+Technology by itself doesn’t do anything. I advocate for interdisciplinary work in AI development, involving subject matter experts from various functions like HR and accounting. They know their pain points, and the tech team executes based on this input. Successful AI solutions require collaboration between these parts. For example, during our hackathon, mixed teams worked on building a chatbot for employee services. This Gen AI use case involved text search and content generation using LLMs. Both tech and HR teams gained a better understanding of each other’s challenges, which altogether improved collaboration into the future.
+
+In Silicon Valley, tech decisions often lack ethical, anthropological, sociological, or psychological perspectives, which is problematic. Innovation needs more than just technological opportunities; it requires input from those who studied humanities.
+
+To ensure AI projects align with regulations and company values, coordinating the process centrally helps. One team can be trained and support the decentral teams developing their use cases. It’s crucial to identify and train counterparts in each business unit to manage data and AI use cases. This ensures close collaboration and proper handling of data.
+
+What advice would you give to a CTO or CIO who is about to start their AI journey?
+
+Keep calm. Everyone has big expectations, especially the board, which constantly asks about AI initiatives due to media hype. This can be stressful for tech leaders who know the work required to achieve these goals. Avoid picking use cases just for marketing; focus on meaningful projects.
+
+Do your homework and make the right decisions, even under pressure. You are responsible for reducing risks and investing wisely. Strategic investments in tech are often misunderstood and seen as transactional. Building foundations and infrastructure may not show immediate ROI, but the cost of inactivity is higher.
+
+Quantifying the cost of inactivity is challenging. It’s about risk management and ensuring competitiveness in the future. CTOs and CIOs need to advocate for tech literacy in the boardroom. Senior leaders must recognize the need to learn and adapt. Investing in technology is investing in the future of the company.
+
+Topics Related to this Article
+
+Technology
+
+Artificial Intelligence
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Written by
+
+Stay up to date with our latest insights.
+
+Subscribe now
+
+Changing language
+
+You are switching to an alternate language version of the Egon Zehnder website. The page you are currently on does not have a translated version. If you continue, you will be taken to the alternate language home page.
+
+Continue to the                 website
+
+Back to top

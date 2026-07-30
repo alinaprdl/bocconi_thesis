@@ -1,0 +1,155 @@
+AI’s Underserved Market: The C-Suite
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+AI’s Underserved Market: The C-Suite
+
+Top leaders have an historic aversion to using new technology themselves. It’s the same with AI—but we found 6 tools to try.
+
+Latest Issue:
+
+​
+
+Download a PDF
+
+​
+
+Browse the Flip Version
+
+By Peter Lauria
+
+March 26, 2025
+
+Seated around the mahogany conference table in large black leather chairs, the board directors gave off an intimidating aura as they listened to the presentation. One by one, they fired off questions about the company’s strategic plan. Was it investing enough in AI? How might the geopolitical landscape impact supply chains? It was the type of tough questioning any CEO can expect in a typical board meeting—except it wasn’t a typical meeting at all. It was a virtual-reality-based simulation, with AI-generated avatars playing the role of directors. And it wasn’t the CEO using the tool, but one of her lieutenants.
+
+​
+
+THE PROBLEM Often late adopters of new technology, most C-suite players use AI only for basic tasks, not high-level solutions.
+
+​
+
+WHY IT MATTERS Given AI’s groundbreaking capabilities and cost, every top leader needs to be conversant with it.
+
+​
+
+THE SOLUTION Some AI tools could help, but top leaders need to be open to trying them.
+
+By now, it comes as no surprise that AI has invaded nearly every aspect of business. Many tools can automate operations and processes at scale, assist with individual tasks, and much more. After some initial hesitancy—some might say fear—employees are getting more comfortable using AI, with 75 percent of knowledge workers regularly using it. Companies, meanwhile, can’t get enough of the technology, with plans to pour an estimated $1.8 trillion into AI in the next five years.
+
+But there’s one area of the market that is glaringly underserved by AI: the C-suite. Sure, CEOs and other leaders will tap into ChatGPT, like everyone else, but specific tools—to help with strategy, risk management, and competition—are few and far between. “The tools available to C-suite leaders right now are useful, but they aren’t going to generate real financial value or a competitive advantage,” says Matt Beane, author of The Skill Code: How to Save Human Ability in an Age of Intelligent Machines and an expert on the relationship between AI and human expertise.
+
+“Most C-suite leaders are still high touch.”
+
+Outside of tech leaders themselves, most CEOs don’t fall into the early-adopter category. As recently as the last decade, some still had assistants printing out their emails, and you can still find the occasional top leader averse to Excel spreadsheets. Moreover, C-suite leaders tend to delegate work that AI tools are typically designed for, such as drafting emails or summarizing meetings. Indeed, the bosses’ deputies are the people putting AI to work. “Most C-suite leaders are still high touch, which takes technology out of the equation,” says Bryan Ackermann, Korn Ferry’s head of AI strategy and transformation.
+
+Historically, CEOs have needed to understand a new technology—not necessarily use it. Today, however, experts say that AI is so transformative that leaders actually need to put their hands on it.
+
+Still, there are some options for this group that are emerging. Indeed, we found some AI tools that C-suite players may want to adopt to address high-level management issues, the kind that are not too hard to use but are capable of deep research and analysis. Here’s a peek at six:
+
+Amiko XRamikoxr.com
+
+What It Is: Virtual reality AI for executive coaching.
+
+How It Works: With its futuristic look straight out of a movie, this VR headset creates images of people before your eyes. It’s the coach a CEO might want, but is too self-conscious to hire. The tool offers a full library of avatars, or “amikos,” with expertise in everything from career mentoring to wellness coaching. Users can even create amikos based on colleagues, board directors, investors, and other stakeholders. Since it’s a machine, it will adjust to learning levels and won’t lose patience with its pupil—or as the firm brags, it offers “judgement-free support without fatigue.”
+
+Benefits: Instead of typing prompts and reading responses, interacting with amikos allows users to be more inquisitive and challenging, says the president of Amiko Andrew Pek. “It’s more experiential learning,” he says, noting that users frequently personify amikos and refer to them by first name. Jamen Graves, global leader of CEO and enterprise leadership development at Korn Ferry, agrees. “It’s like you’re sitting across a table having a cup of coffee with someone,” he says.
+
+Challenges: To start, not every CEO is going to be crazy about wearing VR headsets. (For his part, Pek says the headsets reduce outside distractions.) Graves says Amiko is best used as a bridge between sessions with a human coach. “The jury is still out on the value added beyond what a human executive coach can provide,” he says.
+
+Yoodliyoodli.ai
+
+What It Is: A personalized AI role player to improve leadership and executive presence.
+
+How It Works: C-suite executives at Fortune 50 companies are already using Yoodli to practice and get feedback on high-stakes conversations and presentations, says founder and CEO Varun Puri. You create a personalized chatbot—which can play roles like a frustrated manager, a confrontational reporter, or a skeptical director—and then, after presenting, get feedback on your speaking style, presence, and more. Ackermann, who has experimented with Yoodli through its partnership with Korn Ferry’s Talent Suite offerings, says it can be really helpful before a tough board meeting. “The tool’s ability to challenge and push back gives the feel of a board meeting.”
+
+Benefits: The tool provides the ideal preparation a high-level executive, or any worker, can use. The more you use it, the more the tool learns about your strengths and weaknesses.
+
+Challenges: Yoodli’s value hinges on its feedback, which of course depends on how honest and clear the prep conversations are. Puri concedes that Yoodli isn’t perfect, but “it’s better than the alternative, which is practicing in front of a mirror or camera or with a stopwatch and not getting any feedback.”
+
+PitchBobpitchbob.io
+
+What It Is: A tool that helps people launch new business ideas, either for their company or as an entrepreneur.
+
+How It Works: You think your firm needs to expand into a new area—or you’re just a budding Steve Jobs working out of your garage. According to PitchBob founder Dima Maslennikov, this tool provides an AI copilot to help corporate insiders and entrepreneurs “overcome the blank-page problem.” Relying on a chatbot named Bob, the tool promises to analyze the competitive landscape, suggest financing opportunities, and provide a database of 150,000 investors “painstakingly compiled by my creators.”
+
+Benefits: Leaders with new business ideas often struggle to get past corporate bureaucracy or withstand investor grilling. Bob seems to know that presentation is everything. “I know the worst kind of presentation is the one drowning in text,” the website explains. And the tools keep on giving: If the new idea takes off, Bob will help find new partners and funding.
+
+Challenges: Don’t expect to get any interest in your company, or outside seed money, unless you’ve put in the research and effort. “I often remind people of the garbage-in, garbage-out principle,” the founder says. “The quality of the input” is critical.
+
+Equal Timeequaltime.io
+
+What It Is: A meeting-summary tool that measures talking times, sentiment, and inclusion.
+
+How It Works: Just recording and transcribing meetings is so 2024. This tool breaks down video calls by verbal participation, and provides neat summaries on who spoke the most and least, who came early or late, and, most uniquely, the meeting’s “sentiment” based on comments. Equal Time also provides an “inclusion score,” centered around the talking times of women and underrepresented groups.
+
+Benefits: It’s always frustrating when one person is hogging a meeting, drowning out new ideas leaders may want to know about. “You have people who talk, talk, and talk,” says cofounder Rachel Dowling, who got the idea for the tool after 15 years in the tech industry. “When you’re a woman in tech, you struggle to get heard,” she says.
+
+Challenges: The tool only tracks audio, so it can’t recognize all the nonverbal clues people give in meetings. “It’s something we’re looking into,” says Dowling.
+
+Google Deep Researchgemini.google/advanced
+
+What It Is: An AI tool available to Gemini Advanced subscribers ($20 monthly) that leaders can use for strategic planning, competitive research, and more.
+
+How It Works: No fancy VR sets here, but Deep Research scours the web for relevant information. Beane, who uses Deep Research in his work, says the AI is designed to respond to complex, multifaceted challenges—so the more detailed the prompt, the better.
+
+Benefits: It’s a fast-acting and thorough research tool: a plan, including footnotes and references, can be presented in minutes and can be refined through follow-up prompts. In fact, the AI itself will initiate further searches to confirm or enhance information it finds.
+
+Challenges: A search of Google itself says that Deep Research isn’t immune to generating inaccurate or biased information.
+
+ChatGPT Proopenai.com/chatgpt/overview
+
+What It Is: An upgraded, subscription-based version of the popular AI chatbot ($200 monthly).
+
+How It Works: ChatGPT Pro uses the same prompt-based interface as the well-known free version that even the most fervently Luddite leader has experimented with by now. Think of it as a supercharged version of the original.
+
+Benefits: ChatGPT Pro has a number of bells and whistles that make it a handy catchall research tool for leaders. Users also get priority access to servers for faster responses.
+
+Challenges: Like other versions of ChatGPT, the Pro model collects user data, though the user can put some controls on that. Also, as many large-language models commonly do, it skews its responses toward confirming rather than challenging prompts, says David Berreby, a book author and media writer on AI, robotics, and science. “One of the problems with these tools is that they are all super positive,” he says. “That doesn’t always lead to the best decisions in business.”
+
+‍
+
+Image credits: Colin Anderson Productions PTY ltd/Getty Images; Berya113/Getty Images; Berya113, Narvikk, Piyaphun, Boschetto Photography, Leo Patrizi / Getty Images
+
+Related Articles
+
+View All Briefings Issue 68 Articles
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Briefings Magazine
+
+March 25, 2026
+Insight Articles
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

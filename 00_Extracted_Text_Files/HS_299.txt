@@ -1,0 +1,180 @@
+Closing the gaps in fintech boards | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Closing the gaps in fintech boards
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+FinTech Closing the gaps in fintech boards
+
+Fast-growing, disruptive fintechs could make big leaps by strategically adding board members with operational experience as well as backgrounds in finance, technology, regulatory, and general management. Throw in time as an investor, and you might have found the ideal fintech board member.
+
+Heidrick & Struggles
+
+In the fintech sector, as elsewhere in business, a well-rounded board of directors can offer expertise, credibility, and relationships to complement the talent in the executive ranks. A new Heidrick & Struggles study suggests that there is an opportunity to address important knowledge and experience gaps in global fintech company boards. The versatility, expertise, and experience that the right board members could offer will greatly aid fintech companies as they confront fluctuating market cycles, ever-changing customer demands, and evolving regulatory and compliance environments.
+
+As fintechs have grown and become increasingly important players in the financial ecosystem, the demand for external board members has kept pace. We have seen a significant increase in the number of board searches for fintech companies in the past three years—particularly those looking for more experienced and seasoned candidates than in years previous. The different approaches firms take to satisfy the demand for board members show that one model does not fit all and that a diverse group may be what your board needs.
+
+The current state of fintech boards
+
+We recently analyzed 100 fintech enterprises, including total capital raised, revenue, geographic headquarters, and segment focus. We used aggregated 2017 rankings of leading global fintech innovators in Africa, the Americas, Asia Pacific, and Europe and grouped these firms into two categories based on their maturity: early-stage start-ups and later-stage (pre-IPO) growth companies. We also analyzed several control companies—generally the established public players in industry segments such as insurance, lending, and payments. We focused on these three categories of companies—from less to more mature—because their needs and approaches with respect to boards are quite different but instructive in charting a path for growth. We then reviewed each current board to classify the expertise and experiences represented by their directors: founders, employees, investors, and independent operators with various backgrounds and expertise.
+
+In general, our analysis found significant differences in the approach to the board in early-stage start-ups compared with pre-IPO fintechs and mature incumbents. A few points stood out:
+
+There is high demand, but a smaller talent pool, for operational leaders-turned-investors. We call these board members “hybrid.” While they are basically nonexistent in early-stage start-ups, hybrid board members represent about 11% of the later-stage growth fintech board population (Figure 1). The value these individuals bring to these moderately mature fintechs comes from extensive operating experience—often in CEO, general manager (GM), or chief financial officer (CFO) roles. More recently, many of these individuals have founded or led their own venture firms and thus become active investors in fintech—and, as a result, frequently board members. This talent pool is relatively new in financial services and fintech, having emerged from the first wave of disruption in financial services as operators chose different career paths—and their numbers continue to grow.
+
+Roughly 50% of later-stage growth fintechs have at least one woman on their boards. While some of those women have private-sector CEO or CFO experience, a larger portion come from regulatory agencies and government. Geographic variance is worthy of note, as there is a great deal more gender diversity on fintech boards in Australia, Europe (primarily France, Germany, Spain, and the United Kingdom), and New Zealand than in Canada or the United States. We believe several factors are at play here, including an earlier focus on and commitment to diversity in those countries as well as various regulatory and market requirements for specialized skills and experience. These rules have pushed the door open for qualified candidates without prior board experience—a population that is disproportionately female compared with current board members.
+
+The majority of later-stage growth company board seats went to investors (32%) or former CEOs or GMs (25%). Consistent across all industry segments, the study found, is the desire to take advantage of the expertise and experience of investors, as well as to add former CEOs or GMs as outside board directors. While early-stage start-up boards tend to consist only of investors, founders, and employees, later-stage growth boards often comprise a more varied group, with investors holding onto the plurality but former CEOs and GMs making up a quarter.
+
+Board makeup varies by industry. In insurance, the prevalence of former CEOs and GMs on a fintech board rises from 0% to 9% to 60% as firms grow from early-stage start-ups to later-stage growth companies to mature, publicly held enterprises (Figure 2). In the payments industry, the prevalence grows from 0% to 19% to 50%, respectively. In consumer finance, these directors have been added even more quickly, with 32% of later-stage growth board seats held by a former CEO or GM.
+
+Financial services experience remains a high priority. As noted, regulatory requirements in Europe greatly influence the makeup of boards. Consequently, fewer non–financial services board members are based there compared with similar firms in the United States. In the latter, we have seen a greater appetite for executives with non–financial services backgrounds, including technology and consumer marketing.
+
+Functional expertise on fintech boards is less prevalent. Specifically, our study looked at functional expertise in regulatory, finance, and technology.
+
+Regulatory: Directors with regulatory experience were present in almost every member of our control group—that is, post-IPO, established fintech incumbents. In consumer finance, they were on post-IPO boards in 20% of cases; in insurance, 11%; and in payments, 9%. However, directors with regulatory backgrounds were only marginally present during start-up and growth phases (less than 5% of board seats).
+Finance: Later-stage growth fintech boards had fewer former or current CFOs than we would have expected. We would anticipate—and do see—an increase in the need for finance experience leading up to and going through an IPO. However, we expected to see more CFO directors earlier in the growth trajectory of firms, given pressing topics such as audit, funding, and access to capital markets. The CFO background is much more prevalent in the consumer finance, lending, or payments segments among later-stage growth companies, although such profiles still comprise less than 10% of the seats held. In insurance, CFOs don’t appear on boards until companies are post-IPO or more mature. Then they are relatively prevalent (14%).
+Technology: Few independent directors have functional backgrounds in technology; only two of the fintech later-stage growth or incumbent boards had a director who was a former technology function leader. On one hand, this is not unusual—many tech-based founders are themselves technologists. On the other hand, when fintech firms scale up, an experienced chief information officer or chief technology officer could offer big benefits, such as providing a view from the other side of the table. There were no cybersecurity experts on the fintech boards we reviewed.
+
+Who should you consider for your board?
+
+As the CEO-founders and investors in growing fintech companies look to either build their boards or increase their effectiveness, how should they think about their composition? We offer the following considerations, based on the findings of our study and experience in the field.
+
+Pursue “hybrid” board members
+
+Executives and directors alike recognize that operating experience (and the network that comes with it) is vitally important to boards, and is perhaps more important earlier in the life of a start-up than after it becomes prominent in the marketplace. Having someone on the board who has led another company through a rapidly evolving market could be a big advantage. Our discussions with current board members, investors, and CEO-founders show that there is a strong appetite for “hybrid” board members, those who have both worked in financial services as an operator and at some point served in a fintech or tech company. Add the ability to speak and present in technical terms, and you are looking at the true unicorn of fintech board directors.
+
+Secure individuals with finance backgrounds
+
+Many fintech firms have capable CFOs working on day-to-day operations as well as helping them pursue growth. That said, the boards of fast-growing disruptors often lack the finance experience that would help their companies navigate changing market conditions, regulation, and challenging capital market situations. We believe an experienced CFO can be an especially valuable addition to a fintech board, particularly if that person has worked outside the traditional financial sector and exhibits agility in his or her approach and thinking. Experienced CFOs can bring not only financial savvy and credibility but also beneficial relationships in the financial community.
+
+Seek technology leaders
+
+It might seem unnecessary for a technology-based disruptor to recruit a technologist for its board—after all, much of the disruption was inspired by the perceived shortcomings of incumbent financial services companies. Nonetheless, few industries must deal with the complex scaling issues financial services face, including cybersecurity, operational risk, data privacy, and other regulatory matters. We believe adding an experienced technologist to the board could help a fintech position itself to address the increasing complexities of the marketplace.
+
+*** The place and importance of fintech companies in spurring innovation in financial services remain unquestioned. As these disrupters grow, their continued success will require increasingly broad skill sets. One way to achieve this is by rethinking board composition. We believe early consideration of gaps and opportunities regarding board makeup—rather than a late reaction to an issue or challenge—will give them a strong competitive advantage.
+
+About the author
+
+David Boehmer (dboehmer@heidrick.com) is a partner in Heidrick & Struggles’ San Francisco office and a member of the Financial Services Practice.
+
+The author wishes to thank Adrianna Huehnergarth for her contributions to this article.
+
+Related Services & Industries
+
+Financial Services
+
+Technology
+
+Related Content
+
+Frontier Tech
+
+2025 European FinTech & Crypto compensation report: Product and engineering leaders at privately-held companies
+
+Heidrick & Struggles’ survey of European fintech product and engineering leaders analyzes compensation by ownership, revenue scale, region, and the growing impact of AI on talent demand.
+
+FinTech
+
+Stablecoins and the future of finance: A conversation with Marieke Flament, co-author of Euro Stable Watch, board member and advisor
+
+Marieke Flament explores how stablecoins are reshaping global finance and what today’s leaders need to thrive in a decentralized financial system.
+
+FinTech
+
+Finding the right fintech talent: A conversation with Ben Grolimund, general manager of UAE, Rain
+
+Ben Grolimund, the general manager of the UAE at Rain, the first fully regulated virtual assets brokerage and custodian in the Abu Dhabi global markets, discusses what’s been driving the Middle East crypto landscape and the current talent market in that area.
+
+FinTech
+
+The new fintech board
+
+As fintechs have grown and become increasingly important players in the financial ecosystem, the demand for a diverse, well-rounded set of board members has increased.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

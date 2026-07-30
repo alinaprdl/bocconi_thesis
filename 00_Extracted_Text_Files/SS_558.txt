@@ -1,0 +1,149 @@
+The Digital Dilemma
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+The Digital Dilemma
+
+Optimising board composition in the digital era
+
+By
+
+Sally Elliott and
+
+Will House
+
+February 2019
+
+| 11 min read
+
+Authors
+
+Sally Elliott
+
+London
+
+Will House
+
+London
+
+At a time of unprecedented technological change, board requirements for digital-related expertise are evolving. Boards are grappling with how to ensure that the risks and opportunities emerging from a diverse set of digital forces — ranging from AI, machine learning, automation and robotics to cybersecurity, data science and mobile/e-commerce — are fully understood by directors and factored into strategy.
+
+Until recently, a significant proportion of boards sought to hire directors who could bridge the widening gap in knowledge and experience of all things digital. However, many boards were unclear about what type of director they wanted and what kind of contribution to expect. So-called “digital directors”, typically first-timers with little or no board experience, often found themselves ill-prepared for the boardroom environment and unable to make their mark. Some struggled to contribute beyond their narrow area of expertise; others could not speak the language of the board or failed to build credibility and rapport with fellow directors.
+
+Since our 2011 report on the boom in digital directors, the mood among chairs has changed. Whereas boards once hired digital directors to help reshape the customer experience through e-commerce and developing new digital marketing channels, today the digital challenge has expanded to the point where no individual can possibly be expected to cover the whole spectrum of technologies that affect a business. The digitalisation project has become infinitely more complex, encompassing multiple disciplines that should not be conflated. No single board member can possibly be expected to bring insight and expertise on topics as different as cybersecurity, machine learning and ecommerce.  As a result, the term “digital director” is now widely viewed as a misnomer; some call it an outdated concept.
+
+As a result of interviews with over 30 board chairs across Europe and drawing on our own experience advising nomination committees in the region, we can report that board chairs are taking a different and far more nuanced view of the talent needed to address the digital challenge. They acknowledge that the digital domain is too broad to be covered by any one individual, although some are still open to specialist appointments if they make sense in the strategic context of the business.
+
+Digital is a collective responsibility
+
+The overarching imperative for any board is to support and challenge the management in developing and executing strategy. Now that digital technology in one form or another is integral to most companies’ activities, all board members need to possess digital savvy. “It’s worth reminding ourselves that no-one really knows exactly where this is going,” says Adam Crozier, chair of Whitbread. “It’s not one of those areas where you can dot all the i’s and cross all the t’s. It’s important to have open-minded people on the board who are making sure that the executive team is looking at the right things and really has digital thinking at the heart of its strategy.”
+
+While some chairs remain open to appointing a digital specialist if the individual, circumstances and timing are right, the majority who took part in our research do not think the board needs to be guided by such a specialist. “The days of having a digital person on your board are over,” says Neil Berkett, chair of the Guardian Media Group. “I think everybody needs to be digitally literate.” Gary McGann, chair of Paddy Power Betfair and Aryzta, agrees: “We have come to the conclusion that having one designated person is not the solution,” he says. “All that happens is that the board defers to that person when the topic comes up, which is unfair on that director and a dereliction of duty by everyone else. Rather than worrying about having digital experts per se, what boards need are broad, forward-thinking directors, people who can live with uncertainty, manage vagueness and think about generations hence.”
+
+Ian Livingston, chair of Dixons Carphone, is also keen to preserve the board’s collective responsibility. “If you make a director the specialist for a particular area, it can make the board as a whole feel less responsible for it,” he says. “Absolutely have a range of expertise, but boards are collectively responsible and none of the board should be looking at issues through only one lens or excluding a particular area because another director is responsible for it.”
+
+Vagn Sørensen, chair of SSP, Air Canada and Tiger, is concerned that digital specialists do not make well-rounded non-executives. “I have seen situations where a digital director is very active in discussion about digital topics, the customer journey, and so on, but quickly tires of the broader governance issues,” he says.
+
+“The biggest issue boards have to address is the impact of technology on their business, whether it's an existential threat or a more nuanced threat around just being competitive.”
+
+The case for digital expertise
+
+With an average age of close to 60 among non-executive directors on European listed company boards, it is fair to assume that many directors will have had little first-hand experience of digital disruption during their executive careers and certainly not on anything like the scale that companies are dealing with today. The arrival of an expert with relevant experience and strong communication skills can offer a much needed outside perspective and raise the boardroom debate to a new level. “What you want are people who have experience in operating and communicating in a different world. It's important to understand how the new frontier works,” says John Daly, chair of Britvic plc.
+
+Experts in fields such as artificial intelligence, cybersecurity or social communication tend to come from a different generation than the majority of existing board members and they may not be wedded to the unwritten rules of the board. Board chairs are increasingly open to recruiting next-generation talent and having more diverse voices around the table.  One chair was specifically looking for someone to shift the focus of debate: “A new, younger director can see a dilemma from a different perspective, making us think twice. I’m looking for a person of integrity who is prepared to speak his or her mind and challenge management. What I cannot necessarily expect from such people, of course, is the ability to apply the experience of having seen many similar situations over 30-40 years in business. It’s a trade-off, and one of the reasons why age diversity on the board is so important. Specialist expertise needs to be balanced with experience, and with experience comes good judgment.”
+
+“The board has to be ready to recognise that radical change is the only way to effect progress.”
+
+One example of the need to bring digital know-how into the boardroom can be found
+in the healthcare sector, where artificial intelligence and big data analytics are having
+a transformational effect on research capabilities, whether it be understanding the genome or identifying new medicines. AstraZeneca signaled the importance of digital technology on its board agenda with the appointment of non-executive director Debbie DiSanzo who brings expertise in diagnostic systems, artificial intelligence and healthcare.  As the first medicines derived from data start to emerge, chair Leif Johansson believes that having a board director who combines real business expertise with insight into the latest scientific developments is valuable for the board. “If we are not learning new things or getting excited about science we are missing out on what will give us the most powerful opportunity,” he says.
+
+Strategic oversight trumps specialist knowledge
+
+Expertise in data collection, management and analytics is fast becoming a critical component of success in the oil production sector, but Øyvind Eriksen, chair of AkerBP is wary of bring a data specialist onto his board. “If it doesn’t fit with the total board composition, then it won’t work. The composition and cooperation of the board team is paramount. A specialist who can’t participate in the rest of the work just becomes a satellite,” he says. “The problem with people in operational roles is their ability to commit. The worst thing you can have is board members with no time.” This is a very real issue, since the people who are most up to speed on all things digital tend to be sitting executives who may lack the time necessary to make a real impact in a board role. In the absence of expertise within the business, AkerBP’s solution was to find a partner with whom to create a standalone software business, Cognite, which could develop a data platform drawing data from the entire value chain, as well as attract the very best programmers. “The board has not engaged in specifics; we have provided direction and vision,” says Eriksen. “We discuss strategic questions, such as issues relating to sharing data, potential new business models arising from this work, and how to build the organization and attract competence.”
+
+“The role of the board is to ask the question, not to provide the answers. I think that people who've been disrupted will be much more likely to know what the questions are.”
+
+Sir Philip Hampton, chair of GSK, is also not convinced that it is necessary to have a non-executive director to oversee the company’s digital and/or data analytics activity. “We recently hired a new head of R&D responsible for AI and data. We want to do more in this area,” he says. “We have always had two scientists on the board and maybe in future we will require more analytical skills. But data management is multi-faceted and no single person will have the full deck of cards. The key issue for the board is how to frame the big questions.” Jörg Reinhardt, chair of the Novartis board, says that he tries to adhere to the principle that “the board and its directors are not appointed to solve business issues – that’s what management does – but rather to ask the right questions. For this reason, we believe we do not need a dedicated digital expert on the board.”
+
+Rolf Stomberg, former chair of Lanxess, says that it is impossible to fill the board with all the experts that you need. “Non-executives should not be there on the basis of their expertise so much as their ability to challenge and think and approach problems differently,” he says.
+
+Adam Crozier, who has had difficulty finding digital experts with enough breadth and large-scale business experience, believes it is a mistake to approach digital as somehow adjacent to the core business. “Today, digital is at the heart of what you do. As a result you want people on your board who have either driven digital disruption or lived through it, people who have learned how to deal with it in the context of a normal business.”
+
+“You don’t have to be an expert to understand how this works, the impact it can have or the mistakes not to make.”
+
+Michael Roney, chair of Next, oversees a business where sales are split evenly between online and in-store. “Our business is complex and multi-faceted with many variables contributing to its overall success. We prefer to have board members with a broad business background instead of specialists with more narrow expertise. For example, in my opinion it is more important to have an executive or various executives with digital expertise than necessarily having board members with that specialist background,” he says.
+
+Eberhard Veit is the former CEO of FESTO and has been tasked by the German government to lead the advisory board overseeing the development of the Industry 4.0 platform. He believes that digitalisation must be a group effort encompassing the whole organisation. “At board level you need experts who act as advocates and who can supervise management as they digitalise the business. However supervisory boards need a lot of training; they often do not understand the next steps, or how to judge what will be successful. Most board discussion centres around current problems rather than the digital future, but boards must look at long-term strategy and in particular the implications for investment, half of which should be spent on training people.”
+
+Some companies have experimented with taking both executives and non-executives out to Silicon Valley once or twice a year to catch up on the latest trends. In the right circumstances this can provide both education and inspiration, although it is a costly exercise. Jörg Reinhardt believes that “learning by doing” is one of the most effective ways of educating the board: “Experiencing digital by seeing how the company applies it to the business is more relevant and useful than an abstract experience you might get by bringing the entire Board to Silicon Valley,” he says.
+
+External advisors
+
+Another way in which boards can access training in digital matters for themselves is by retaining external advisors. A growing number of companies are choosing to set up technology/digital advisory boards or, more informally, to cover the broad spectrum of digital issues with external subject matter experts as necessary. These advisors are unencumbered by the fiduciary responsibilities of board directors and can focus exclusively on educating and advising boards on how best to deal with the challenges facing their industry and their company.
+
+Learning the lessons
+
+Subject expertise alone is not enough to make an effective board director; it must come with a genuine interest in all aspects of the role, enough time to commit and, above all, strong business sense. If the rest of the board feels that a fellow director is limited in scope or cannot pull his or her weight in discussions on governance, compliance or complex finance issues, credibility will be lost.
+
+Boards that choose less experienced directors wisely can stand to benefit greatly from their presence. However, bringing new, knowledgeable directors into the boardroom is not enough; boards have to prepare them for success through a combination of comprehensive onboarding, thoughtful integration and an open-minded, receptive and respectful attitude towards their contributions. Digital experts and entrepreneurs are unlikely to have the patience to sit on boards that do not value their input or where they cannot make an impact.
+
+Chairs appointing an individual with specialist domain knowledge or recent experience of a transformational environment also need to be realistic about tenure. More frequent rotation of directors may be necessary for boards to stay current, particularly in today’s fast-moving world. Indeed, most next-gen directors anticipate that their relevance and interest will fade after three to five years (rather than the normal six or more) and are quite happy at the prospect of cycling off the board when the time is right.
+
+Chairs also need to think carefully about whether a newly appointed director would be more effective – and feel less like an outlier – if he or she were joined by another director of a similar age and background. Karin Bing Orgland, chair of GIEK, the Norwegian export credit guarantee agency, believes that it is important to signal to the CEO that the board takes the issue seriously. “I think you need a minimum of two people with digital expertise on the board to foster any conversation about topics relating to digital transformation and the necessary changes to organisational culture. I would also consider creating a board committee for a while to get it on the agenda.”
+
+Conclusion
+
+Over the coming years boards will be judged by the degree to which they are able to keep pace with digital technology trends and ensure that management is fully capable of capitalising on opportunities and mitigating threats. Rather than placing responsibility on the shoulders of one or two directors, boards will need to take collective responsibility for acquiring the requisite knowledge and understanding. And if the nomination committee decides that the time is right to appoint a ‘digital expert’, that person must be demonstrably capable of contributing well beyond his or her specialist domain, undertake a comprehensive onboarding, and receive the full backing of fellow directors who are willing to respond with open minds to an injection of fresh thinking.
+
+Alternative Solutions to Hiring a Digital Expert
+
+All board chairs would agree that their goal is to have an educated, informed, cutting-edge board that can evaluate risks, understand new disruptive technologies, contribute to strategic decision-making and provide challenge to management. But what is the best way to get there? Our research uncovered a variety of possible answers to this question.
+
+Create a technology committee
+
+Some boards have created a technology committee encompassing all things digital. This can be an effective way of ensuring that the board dives deeper into the business opportunities and threats surrounding digital technologies and assesses the capabilities needed to address them. The work of a committee can also enable the board to challenge the executive team more effectively.
+
+Pair directors with executives
+
+One chair insists that each board member has some kind of “technology buddy” in the business who keeps them up to speed – not just with what the business is doing, but with the underlying technology and how it is used.
+
+Scale up director education
+
+Since all directors have a responsibility to stay informed about matters affecting the business, and given the constantly evolving nature of digital technologies, companies should offer both detailed induction and regular training for all directors that is relevant to the challenges and opportunities facing the company and
+the wider industry.
+
+Assemble an advisory board
+
+Advisory boards are an increasingly popular way for boards (and executive teams) to tap the expertise of a select group of people who have no fiduciary responsibilities and can be called up to provide education and guidance on the latest thinking, new developments and best practices. “We have a research advisory board which reports to the main board periodically,” says one chair. “We definitely need to have interactions with specialist people, but their role is quite different from that of main board non-executives.” Another chair identified three areas in which the board needed help: Digital business development, cybersecurity and assessing the functioning and suitability of IT systems. “You need three people to cover the gamut. You can’t put three people on the board, and if you’re putting one on you neglect the other two. An advisory board is the answer."
+
+Call upon external advisors
+
+Less formal than an advisory board, inviting carefully chosen experts to lead sessions with the full board (for example on strategy days) can be highly effective, providing they are well briefed. “We have two external advisors lined up: one a cybersecurity expert who has conducted a board session and the other an entrepreneur from a digital disruptor who is due to present,” says Gary McGann, chair of Paddy Power Betfair and Aryzta. “Neither are the kind of people with whom the board would normally interact, but they are very valuable in helping all directors properly understand the issues and associated risks.”
+
+Leverage next-generation experts
+
+Companies with outstanding, knowledgeable in-house talent can use this valuable resource in educating the board. “At one of my boards we recently had nine young and quite junior employees come and present to the board about AI, since they are the ones who really understand it,” says Vagn Sørensen, chair of SSP, Air Canada and Tiger. Other companies put together ‘shadow boards’ comprising next-generation leaders who can provide a digitally savvy perspective on some of the issues boards are wrestling with.
+
+Benefit from the Silicon Valley
+halo effect
+
+A number of companies have taken small stakes in digital start-ups as a way of tapping into cutting edge thinking and some have set up satellite offices in Silicon Valley (particularly prevalent in the auto industry). Sending executives and non-executives to Silicon Valley once or twice a year to catch up on the latest trends can also be worthwhile.
+
+Download
+
+Download
+
+Authors
+
+Sally Elliott
+
+London
+
+Will House
+
+London

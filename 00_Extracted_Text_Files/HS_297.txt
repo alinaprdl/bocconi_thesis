@@ -1,0 +1,198 @@
+Digital acceleration The right C-suite expertise
+
+Identified Country:
+
+Digital acceleration: The right C-suite expertise
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+AI & Technology Officers Digital acceleration: The right C-suite expertise
+
+As companies become ever more enabled by technology, finding executives with the right digital experience gets more complicated. To determine the type of leadership needed for their digital journey, companies should start by asking themselves a few key questions.
+
+In a rapidly evolving and globalizing business environment, the composition of the C-suite has been changing almost as fast as the world outside the organization. Because fast-changing technology and digital disruption are at the center of many of the challenges—and opportunities—organizations are facing today, finding the right leaders to fulfill the core strategic mandate has become even more critical for today’s CEOs. Unfortunately, building digital expertise is not as simple as expanding the remit of an existing chief technology officer (CTO) or chief information officer (CIO), nor is it just a matter of expanding the C-suite to include a chief digital officer (CDO).
+
+To find the right digital leader, or leaders, for an organization, we propose that you should first ask: “Where is my organization today in our digital acceleration journey?” We define “digital acceleration” as an organization’s ability to effectively employ new technologies to innovate its current operating model and customer experience while also incubating new digital offerings and ways of working. A crucial element of effectively employing new technologies is the right people in the right roles: one study from Wipro Digital states that fully half of all digital transformations fail because of people issues.1 Thus, companies need to understand not only the individual skill sets they need but also their culture and how their leaders, teams, and the entire organization align in order to determine both where they are on their digital acceleration and how ready they are to move forward. Without internal alignment, shifting gears to further accelerate becomes extremely difficult.
+
+Based on our research with scores of companies across industries at all stages of their digital journeys, we have defined five levels of digital acceleration (see Figure 1).
+
+Through our research, we have also identified the unique mix of digital leaders with varying capabilities, experience, and expertise that organizations need at each stage. Most notably, however, we found that technology and data expertise are increasingly vital across all leader skill sets in the C-suite and beyond. Furthermore, as organizations accelerate digitally, they will need even more leaders who can couple digital dexterity with commercial acumen.
+
+Leading digital acceleration
+
+Digitally embarking organizations (at level 1 on the digital acceleration curve) likely have a scattered group of digital voices spread across their hierarchy and functions, with most of their digitally skilled resources hidden away in IT functions. And while these voices bring elements of digital innovation to their individual functions, at best, the organization’s digital or innovation efforts tend to be siloed. For example, the marketing function in a digitally embarking organization might shape new digital marketing initiatives, while the IT function progresses alternative cloud-based solutions, and the operations teams explore new voice-based technologies in their contact centers—with none of these initiatives tightly linked to a centrally defined digital strategy or road map.
+
+Because these organizations are so early in their digital journeys, they rarely have a C-suite leader who has expertise or experience with digital innovation. Therefore, adding a CDO is often rightly seen as an immediate solution to building digital momentum. In these contexts, the CDO becomes a digital innovation champion at the most senior level, bringing fresh energy, focus, and ideas to the organization. For instance, CDOs typically have experience in leading digital acceleration journeys in other similarly scaled organizations, usually in customer experience or digital channels. They also tend to have significant exposure to emerging technologies (although they are seldom deep technologists), experience with digital partnerships, and solid digital insight, all of which can help connect the organization to the broader digital ecosystem. CDOs can also help bring order to the scattered innovation efforts across the organization, and their presence in the C-suite serves as a learning opportunity for their peers. Further, they are instrumental in helping set some early standards for launching and managing digital initiatives as well as addressing organizational siloes and mediating turf wars between the business and IT, which might have been managed before by a traditional CTO or CIO with less business focus.
+
+The most valuable CDOs in digitally embarking organizations are those with a high degree of what we call “digital dexterity.” That is, they are very adept at striking the right balance between selectively bringing in insights from the external landscape and shaping a collaborative innovation agenda by seeking input from a full range of internal stakeholders. Indeed, their success depends on their coaching and influencing capabilities, in parallel with evangelizing the benefits of digital.
+
+As organizations mature and move further up the digital acceleration curve, their digital and innovation priorities evolve, and a new set of digitally dexterous leadership capabilities become critical to unlock value for success. A crucial characteristic of digitally evolving organizations is that they start to recognize that digital is not a single thing. Unlike adopting enterprise resource planning or introducing e-commerce, for example, which have fairly defined missions, at this level of acceleration digital has expanded into an enormous collection of emerging experiences, technologies, and business models that need to be managed in a coordinated manner. As a result, complexity in decision making escalates rapidly. Decisions are further complicated by the world of emerging technologies—from artificial intelligence, augmented reality, and virtual reality to blockchain and shared platforms. Given the far-reaching organizational implications of digital choices at this level, decision making must be highly integrated, as one initiative lays the groundwork for the next. However, digitally evolving organizations can be limited by their lack of internal capabilities to make these choices.
+
+Although adding a CDO is the right choice at level 1, expecting a single digital innovation leader to cover the waterfront from omnichannel experiences to AI-driven trucks is usually unrealistic. A CDO brought in during the embarking phase typically has a broad digital transformation, customer-led, or digital marketing background, but in the evolving phase, deeper digital and innovation technology skills become a requirement for the C-suite. Decisions on digital infrastructure and architecture, for example, cannot usually be led by the CDO alone—they need the additional input of a credible, digitally experienced CIO or similar, who can balance a strong, digital technical architecture vision with a solution-oriented mind-set to shape the technology transformation road map. Therefore, adding more digital skills (and evolving the current skill sets) in the C-suite and broadening the organizational understanding of digital dexterity become a necessity at level 2. Once a digitally evolving organization has both a digitally experienced CIO and a CDO, the CDO will typically be accountable for shaping the digital initiatives portfolio and helping the organization move further into the broader digital ecosystem through partnerships, incubators, or venture opportunities, while the CIO focuses on core technology decisions.
+
+As the scale of digital initiatives grows, a big risk for digitally accelerating organizations is that the energy around digital is predominantly focused on enhancing the current business offerings, which too often leaves organizations in a cul-de-sac.
+
+Indeed, our research shows that organizations that successfully reach a digitally steady state can find it difficult to accelerate further, often because in the rush of the previous stages, the early focus of investments on, for example, new technologies or skills often lacks the depth required to pivot other basic infrastructure elements toward the digital future. Specifically, investments in technology may not have been matched by investments in human capital or data management. This approach is short-sighted, as digital provides unique opportunities to fuel innovation around future offerings, ways of working, and business models. At its most powerful, digital is about becoming a disruptor by acquiring and exploiting resources that build the organization’s future digital advantage through technology, human capital, and data.
+
+To maintain momentum, digitally steady organizations need to reevaluate what they need to take the next steps on their digital journeys. At level 3, companies must strive for an equilibrium between investments in technology and in human capital. The chief human resources officer (CHRO) must have a strong voice at the table, equal to those of the digital experts, to bring to the forefront discussions on digital workforce planning, agile organization design, innovation learning, and defining and developing digitally dexterous skill sets. Further, the CHRO should become responsible for expanding the digital capabilities of the organization and developing a more systematic approach to digital from a human capital perspective. Specifically, redesigning the core HR processes, from talent acquisition to development and retention, is key to ensuring that the organization is systematically shaping the digitally dexterous workforce needed to move forward, across all levels.
+
+Organizations can shift from a digitally steady state to a digitally advancing state through increased investments in both digital technology and human capital, with a focused vision and leadership approach on delivering value created by an aligned C-suite. The timeline to get from a steady to an advancing phase is not exact—some organizations will take longer than others. However, by procrastinating key decision making, whether out of risk aversion or strategic uncertainty, among other reasons, companies risk losing internal momentum and encountering a buildup of external, competitive pressures.
+
+Digitally advancing firms embrace the idea that it’s not only their C-suite that must continuously evolve to include a broader portfolio of digital talent and accountabilities—they must also invest significantly in developing digitally dexterous leaders and teams at scale across the organization. To do so, companies should fine-tune their talent-attraction strategy so they can hire talent with the right technical and commercial expertise across all levels, functions, and roles. Many organizations in this phase start experimenting with data-driven attraction tools and candidate assessment methods and are open to continuously testing and evolving their talent development approach to stay ahead. In parallel, these organizations make broader ongoing investments to improve innovation speed and help sustainably create engaging digitized customer journeys and superior digitized operations, often drawing on employees with new data and analysis skill sets.
+
+A substantial number of C-suite leaders in digitally advancing organizations bring both strong digital dexterity and digital technical expertise. The leadership agenda is biased toward digital, and leaders dedicate significant effort toward ensuring they are continuously learning about digital and innovation topics. A digital culture is guided from the top, with agile decision making and a nonhierarchical approach to management as the norm. The top team recognizes the power of collaboration and makes significant investments to promote cross-functional teamwork at all levels. And agile, cross-functional team structures are increasingly the standard, as they help shape customer solutions by empowering teams to design and deliver customer solutions from an end-to-end perspective.
+
+When digital touches every part of the business—from technology to HR, marketing, sales, operations, and even legal and compliance—to deliver an exceptional customer experience and sustainably support operations, that company is digitally accelerating. In these organizations, no leaders, regardless of where they are placed, can get a pass on being digitally dexterous: all leaders should have digital acumen and must focus on shaping and executing digital business innovation and fueling growth. At this stage, the entire organization is fluid, networked internally and externally, and is continuously reinventing itself to adapt to changing market conditions. Additionally, a significant proportion of the organization is digitally experienced and has the skills to use new technologies to achieve meaningful business outcomes. An open engineering culture, focused on shaping customer-centric solutions via continuous improvement and delivery mechanisms, underpins the organization. The company emphasizes constant feedback and learning at the organization, team, leader, and individual levels, and the workforce operates within an ecosystem that nurtures digital talent for the future. This focus toward exploring and exploiting emerging technologies is significantly higher for digitally accelerating organizations than for those at any other stage.
+
+Accelerating organizations are often able to move rapidly from defense to offense and have the ability to be market disruptors; this ability requires frequent and complex decision making, continuous problem solving, and rapid pattern recognition. Further, organizations in this stage have deep consensus within the C-suite on the digital vision and strategic purpose, with all leaders pulling in the same direction. Indeed, strong leadership support empowers the rest of the company to propel rapid innovation alongside increased employee engagement and accountability. In accelerating organizations, digital dexterity in the C-suite is the norm, with all leaders bringing deep experience and understanding of digital to the business. Across the organization, leaders and teams focus on maximizing current potential while keeping a clear line of sight to a well-articulated future vision. Alphabet, Amazon, and Apple are strong examples of this state of acceleration and serve as an aspiration for many digitally transforming organizations.
+
+Evolving your C-suite for a digital world
+
+Because leadership is critical to digital acceleration, we recommend that organizations at all levels reflect on the roles that each of their C-suite leaders will need to play in each phase of acceleration. Paying a premium to get the best resume out of Silicon Valley may be a quick path to frustration: a candidate with the right experience at the wrong time or who doesn’t understand the organization’s values, culture, and industry (and, therefore, cannot work with the rest of the leadership team) could be like a Ferrari engine inside a Yugo—not only will the car not go very fast, but it will eventually burn out entirely.
+
+There are many different ways to allocate responsibilities to support an organization’s digital needs as well as immediate and future priorities as it moves along the digital acceleration path (see Figure 2).
+
+To begin defining what digital leadership your organization needs, we propose you ask your leaders the following questions:
+
+1.  Have you reframed your mission and purpose to include new digital innovation opportunities?
+
+2.  Have you determined how to link digital to your growth strategy and deliver step-change outcomes to your customers?
+
+3.  Have you created parallel processes for incremental and disruptive digital innovation?
+
+4.  Have you organized and structured your data to fuel your digital advantage?
+
+5.  Have you developed an approach to build your AI capabilities?
+
+6.  Have you built the capability to tap into external ecosystems to bolster digital innovation?
+
+7.  Have you invested in the skills to win in the long term?
+
+Your answers will help you place your organization on the digital acceleration curve. Once you know where you are, you can optimize your leader profiles and accelerate more powerfully.
+
+About the authors
+
+Shaloo Kulkarni (skulkarni@heidrick.com) is a principal in Heidrick & Struggles’ London office, with a focus on digital transformation.
+
+Scott Snyder (ssnyder@heidrick.com) is a partner in the Philadelphia office and a member of Heidrick Consulting. He is a senior fellow at the Wharton School at the University of Pennsylvania.
+
+References
+
+1 “New survey highlights leadership crisis in digital transformation,” Wipro Digital, June 1, 2017, wiprodigital.com.
+
+Related Services & Industries
+
+AI & Technology Officers
+
+Digital Leadership
+
+Related Content
+
+Human Resources Officers
+
+AI focus | VP of AI Workforce Transformation: The newest addition to senior leadership teams
+
+Companies are starting to hire a dedicated senior leader to convert AI adoption into workforce value. How can CEOs and CHROs decide if they need the role, and what should it look like if they do?
+
+Financial Officers
+
+Crypto and digital assets focus: Finding the right leaders for a maturing sector
+
+Crypto is a high-stakes market, and competition for capital, customers, and talent is brutal. Crypto companies should look for four crucial capabilities in their leaders.
+
+Frontier Tech
+
+2025 Global Chief Information Security Officer Compensation Survey
+
+Our sixth annual global survey of CISOs reveals how CISOs’ pay, reporting lines, and AI mandates are evolving as cybersecurity becomes a CEO-level, enterprise-wide priority.
+
+Frontier Tech
+
+2025 Data, Analytics, and Artificial Intelligence Officers Compensation Survey
+
+Our fifth annual report examines compensation for executives with artificial intelligence or data analytics responsibilities.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

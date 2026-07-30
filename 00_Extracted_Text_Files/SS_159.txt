@@ -1,0 +1,84 @@
+How AI can drive workplace inclusivity
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+How AI can drive workplace inclusivity
+
+By
+
+Fabio Moioli
+
+September 2024
+
+| 3 min read
+
+Author
+
+Fabio Moioli
+
+Milan
+
+It’s fair to say that AI (artificial intelligence) rarely strays far from the headlines or thoughts of today’s business leaders.
+
+Promised gains that include improved productivity, cost efficiencies and new opportunities for innovation are potential game changers that herald a new era for all of us — no wonder we have found that 40 percent of leaders call generative AI a priority they are already addressing and another 27 percent have plans to address it.
+
+But it’s not all good news. This palpable excitement is tinged with a growing concern that AI technologies — through biases in algorithms and the automation of jobs predominantly held by women — are inadvertently deepening existing gender disparities.
+
+So what can be done about this?
+
+Breaking down the bias
+
+One of the key risks posed by AI is it’s tendency to perpetuate gender biases, especially in sectors where women are already underrepresented. AI systems are typically trained on historical datasets, and if these datasets reflect societal or institutional biases, the AI will likely replicate them.
+
+This has already been observed in areas such as recruitment, where AI tools that analyse CVs have demonstrated a preference for male candidates over their female counterparts. The challenge is that AI does not inherently understand fairness; it simply learns from the data it is fed, meaning that biases can be inadvertently baked into decision-making processes.
+
+To prevent this from happening, there needs to be an intentional effort to diversify datasets and ensure that AI systems are regularly audited for fairness. More inclusive AI development teams — with greater representation of women and other underrepresented groups — can help identify and mitigate these biases before they become ingrained in the technology.
+
+Businesses must also adopt a more transparent approach to how AI tools make decisions, especially in areas that impact hiring, promotions, and pay equity.
+
+Bridging the gender gap
+
+Surprisingly, studies have shown that women use AI-driven tools such as ChatGPT significantly less than men, even when they hold similar roles. This gap may have long-term implications for women's career trajectories, particularly as AI becomes more embedded in day-to-day business processes.
+
+Several factors are at play here. First, there is a perception gap: women tend to express greater scepticism about AI’s potential benefits. For instance, surveys suggest that women are more concerned about the societal risks posed by AI, including job displacement, privacy concerns, and ethical issues. Women often report feeling less confident in their ability to navigate AI technologies, frequently citing the need for additional training before feeling comfortable using these tools.
+
+This lack of confidence can have significant repercussions. In sectors such as education, healthcare, and software development — where AI could dramatically enhance productivity — women’s underutilisation of AI tools may limit their ability to keep pace with their male counterparts.
+
+Reversing these trends requires companies to invest in tailored training programmes for their female employees, including flexible learning options to accommodate women balancing professional and personal responsibilities. By fostering a more inclusive environment where women feel supported in using AI, businesses can unlock the full potential of their workforce.
+
+The risks of automation
+
+Many of the jobs most vulnerable to automation are disproportionately held by women — Goldman Sachs has found that nearly 80% of women’s jobs are at risk of being automated, compared to 58% of men’s jobs.
+
+Sectors such as office administration, customer service, and healthcare support roles often referred to as "pink-collar jobs" — are seeing significant shifts as AI-driven systems take over tasks like scheduling, data entry, and customer interactions.
+
+To mitigate the effects of automation, it is essential for women in these sectors to have access to upskilling and reskilling opportunities. Employers must prioritise creating pathways for women to transition into roles that are less susceptible to automation, such as AI management, data analysis, and system oversight.
+
+Governments and educational institutions also play a critical role in developing programs that equip women with the skills they need to thrive in an AI-driven economy.
+
+Women in AI and STEM
+
+Women also remain significantly underrepresented in the fields driving AI advances. Globally, only 22% of AI professionals are women, a situation that limits the diversity of perspectives amongst those developing AI technologies and exacerbates the risk that these tools will overlook or undervalue women’s needs.
+
+This lack of female representation in AI and STEM (science, technology, engineering, and mathematics) is driven by factors such as societal expectations, a lack of role models, and limited access to mentorship opportunities. Women are often discouraged from pursuing careers in these fields from an early age, and even those who enter the workforce may face gender discrimination, pay inequality, and a lack of support for balancing work and family life.
+
+To increase women’s representation, businesses must implement mentorship programmes, create new leadership development opportunities and address pay inequities to create a more inclusive environment where women can thrive.
+But while AI poses significant challenges for gender inclusivity, it also presents opportunities. AI has the potential to free women from routine tasks, allowing them to focus on more strategic and creative aspects of their roles.
+
+AI-powered analytics can also help companies identify pay gaps, monitor diversity metrics, and ensure that women have equal access to leadership opportunities. By leveraging AI in these ways, businesses can create a more equitable environment for women and help close the gender gap in leadership.
+
+Mission: Inclusivity
+
+As AI continues to reshape the global workforce, the question of inclusivity remains paramount. While leaders are rightly excited by the potential gains on offer, they have both a moral and professional duty and opportunity to help ensure that these technologies do not exacerbate historic and current gender disparities.
+
+The path forward requires concerted efforts from both the private and public sectors to ensure that AI is a force for good in the fight for gender equality. Only by prioritising inclusivity at every stage of AI development and deployment can we build a future where technology empowers women to thrive in the workforce of tomorrow.
+
+Author
+
+Fabio Moioli
+
+Milan

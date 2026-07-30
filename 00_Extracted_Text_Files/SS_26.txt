@@ -1,0 +1,166 @@
+Transforming a Legacy Telecom to an AI Connectivity Platform
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Transforming a Legacy Telecom to an AI Connectivity Platform
+
+A conversation with Kate Johnson,
+CEO of Lumen Technologies
+
+A conversation with Kate Johnson, CEO of Lumen Technologies
+
+By
+
+Bernhard Kickenweiz
+
+March 2026
+
+| 7 min read
+
+Author
+
+Bernhard Kickenweiz
+
+New York
+
+Key leadership lessons
+
+Kate Johnson, CEO of Lumen Technologies, tells us that transformation starts with people: she rebuilt momentum by investing in culture, teaching teachable skills, and reinforcing the behaviors she wanted.
+
+Leaders need to lead with humility and learning. Kate believes in being intentional, constantly reorienting, and shifting from “having all the answers” to assembling the right experts and ecosystem.
+
+Networks have to become programmable. A point-to-point, static, analog way of thinking isn’t fast enough or dynamic enough. In the AI economy, what Kate calls the 'change economy,' there’s no greater superpower for leaders than the ability to pivot, to morph, and to shape what the industry needs.
+
+Spencer Stuart sat down with Kate Johnson at MWC 2026 to learn about how she has led a major telecom transformation through strategic restructuring.
+
+As CEO of Lumen Technologies, Kate is driving one of the most remarkable transformations in the communications industry from a legacy telecom provider to an AI connectivity platform company, completely repositioning the company through a culture-led transformation.
+
+Prior to joining Lumen, Kate held executive leadership roles at Microsoft, GE Digital and Oracle, as well as various commercial and technology leadership roles at Red Hat, UBS Investment Bank and Deloitte Consulting. She has served on the board of directors for UPS since 2020.
+
+Below is the conversation, moderated by Spencer Stuart’s Bernhard Kickenweiz, and edited for brevity.
+
+You joined Lumen in November 2022, inheriting a company with significant complexity. How did you approach the turnaround — and what surprised you most?
+
+Kate Johnson: I joined knowing the company was in a bit of a pickle and that it needed help, that it would be a turnaround. What I didn’t know was quite how bad things really were. You never know until you get in and start to excavate the truth.
+
+In the beginning, almost everybody would ask, “Why did you join this company?” And I have to tell you, it didn’t feel good. There’s an inherent judgment in that question — like you made a bad decision by taking an opportunity.
+
+But I believed something when I joined, and I still believe it: restoring value to commoditized assets and restoring hope and belief in the people who manage those assets — it almost seemed noble. There’s nothing shameful about it. Even if the chances are low that you’ll be successful, I knew it was worth it.
+
+What shaped your leadership philosophy for a turnaround like this?
+
+Kate Johnson: All of us are an amalgamation of experiences and learnings. I’ve worked for wonderful leaders and terrible leaders. You take all of that and decide: this is what I want to do, and this is what I won’t repeat.
+
+When you’re leading a turnaround, you have to be super intentional about your leadership. I am very intentional. That means committing to constant learning and constant reorientation around what it’s going to take.
+
+Quote
+
+When you’re leading a turnaround, you have to be super intentional about your leadership. I am very intentional. That means committing to constant learning and constant reorientation around what it’s going to take.”
+
+I’m also deeply influenced by Brené Brown’s research. I worked with her at Microsoft and she became a good friend. Before I started this role, I called her and said, “We’ve got a whopper. Do you want to do this with me? Because I need you.” She said yes.
+
+We trained 25,000 people on her Dare to Lead methodology. A core idea in her work is the shift from leaders feeling they must show up with all the answers — being the smartest person in the room — to the idea of saying: “I don’t have the answers, but if I assemble the right team and the right ecosystem, we can figure anything out.”
+
+In the AI economy, what I also call the “change economy”, there’s no greater superpower than the ability to pivot, to morph, and to shape what the industry needs.
+
+When you arrived, where did you start building momentum inside the organization?
+
+Kate Johnson: I made a commitment: we’re going to rebuild this company starting with the people, starting with all of you. Leaders often make a mistake, where you declare a desired culture in a few adjectives and values and then say, “Okay, this is who we are now.” That’s not how it works. You have to teach skills.
+
+Transformation has common denominators: a growth mindset, clarity of vision, great communication, collaboration, and courage. And the good news is that these are teachable skills. Courage begins with honesty and transparency. It evolves into being able to “rumble”—to have hard discussions and real discourse. Ultimately, it’s about speaking truth to power without being paralyzed by fear of consequences.
+
+Our people were hungry for something. We gave it to them, and they leaned in. And when people lean in with conviction, you can’t stop them.
+
+You’ve talked about shifting the mindset from “playing not to lose” to “playing to win.” What does that look like in practice?
+
+Kate Johnson: “Playing not to lose” is common in telecom: protect the revenue that’s declining, don’t make bold moves because you might accelerate disconnects.
+
+“Playing to win” is different. It says: I’m building the growth engine. I’m going after the AI economy. We’re going to reposition this company. We’ll build it from the ground up. And we’ll live with the consequences, even if that includes failure.
+
+Getting to that mindset is deeply human work. It’s teaching. It’s practice. And it’s reinforcing the behaviors you want to see.
+
+What were the clearest signals that the culture transformation was taking root and how did you reinforce it?
+
+Kate Johnson: The biggest signal was when people had the courage to disagree with me.
+
+In many organizations, people want a positive relationship with the CEO, so you don’t always get the truth. Early on, I’d sometimes rely on a few people who had enough courage to represent what I call the “invisible army” — those who were saying things privately but didn’t feel safe bringing them forward themselves.
+
+Over time, it shifted. When someone in a 20-person meeting says, “No, Kate, I fundamentally disagree. I think this is what’s really happening,” I know we’re onto something. You celebrate it: “Really? Tell me more. Tell me what I don’t know.” And you give positive feedback so the behavior spreads.
+
+Another signal is when someone points out something broken without fear and calls attention to it. If you reward and celebrate that publicly, it catches on like wildfire.
+
+Many change models talk about winning over the “middle” of the organization. Did that hold true?
+
+Kate Johnson: I used to believe “change math” always applied: one-third love it, one-third hate it, one-third are in the middle, and if you convert the middle you win.
+
+For large-company transformations, though, I don’t think that’s true. I’ve changed my view to “little fires everywhere.” If you empower small teams to make progress by giving them a little money, oxygen, and attention, they start a fire here, then there, then there. Those fires spread faster than trying to move huge blocks all at once.
+
+We moved quickly from a place where engagement was low to a place where the vast majority of the company felt leadership was well-intentioned. That shift came from the accumulation of many local wins.
+
+At this year’s Mobile World Congress, AI was front and center. How do you see the industry changing and what are others missing?
+
+Kate Johnson: I think we’re experiencing what I call a bandwidth reckoning.
+
+A significant and growing share of internet traffic is already being generated by AI agents, and we’re still at the tip of the spear. We haven’t even begun to penetrate many markets. The acceleration of bandwidth consumption is going to be exponential.
+
+Quote
+
+In the AI economy, what I also call the 'change economy,' there’s no greater superpower than the ability to pivot, to morph, and to shape what the industry needs.”
+
+What I observed coming from tech is that telecom often places emphasis on the build. Building is important because physical networks are where value begins. But I have a different mindset: I want to be the most highly utilized network in the world. This translates to shareholder value. We want to capture demand with an elegant digital experience.
+
+Networks have to become programmable. A point-to-point, static, analog way of thinking isn’t fast enough or dynamic enough. There’s a major shift underway, and I don’t think the world fully sees it yet.
+
+You’ve described high-stakes decisions on capital structure early in your tenure. What were you balancing?
+
+Kate Johnson: When I started, we were carrying a significant debt load and faced a pivotal decision: do we take a defensive path, or do we restructure the balance sheet and bet on winning the hyperscalers business?
+
+We made a big bet and we won the hyperscalers business. We transformed our capital structure.  We knew AI would be big, but the essence was listening to customers. Some of our largest potential customers said, “I will buy from you if you are a going concern.” That clarity helped us focus the work.
+
+What are the qualities of the CEO of the future — especially in an industry being reshaped by AI?
+
+Kate Johnson: It starts with having the courage to move forward without pretending you know everything. Not being the expert, but assembling a bench of experts.
+
+I remember earlier in my career, in certain boardrooms you had to know the answer to everything and you never admitted you didn’t. Later it became acceptable to say, “I don’t know, but I’ll get back to you.” Today, I’ll tell my board: “I have no clue. It will take us months to figure this out but we’re on it.”
+
+In the beginning, they didn’t like that. Now they’re getting used to it, because the quality of our answers becomes much higher when we take the time to do the work properly and when we provide better signals as they emerge.
+
+How do you personally define your job as CEO?
+
+Kate Johnson: I think of myself much more as a coach. And my job is resource allocation. I have two kinds of resources: money and people.
+
+When I think about people, I think about having the right athletes on the field. Moving fast is almost never regrettable. I’ve never regretted making a people change. The only thing I’ve ever regretted is letting a problem fester for too long.
+
+I didn’t get to this phase because I had all the answers. We got here because we kept refreshing the team inside and we didn’t forget the team outside, either. You need partners and advisors to lead change at this scale.
+
+The larger point is that you have to be open-minded about the “who” and the “how.” I get criticized sometimes for how much I’ve changed the leadership team. My view is: I have the best team for this phase.
+
+The link between board and CEO often comes down to trust. How did you approach that relationship, especially early on?
+
+Kate Johnson: Honestly, with a fair amount of humility and a lot of learning along the way. The greatest gift I had was my relationship with our chairman, Mike Glenn.
+
+We are polar opposites. I’m direct and with no second agenda. He has a different approach. He spent his life at FedEx; I sit on the board of UPS. Yet he has been the best mentor, coach, chairman, boss, friend, and advisor I could have had.
+
+He was patient, a great listener, and essential to my onboarding. The relationship was rocky at times. I remember the first time I had to tell the board we needed to consider a Chapter 11 conversation. They didn’t like it, but my assignment wasn’t to harvest cash to pay a dividend. My assignment was to pivot to growth. And to get there, we had to restructure the balance sheet.
+
+Once we came to the same set of facts and truths, it became radical support. And that support mattered, especially because many leaders, particularly women, are handed “glass cliff” jobs and not given enough time or support to see the transformation through.
+
+If you had to summarize the turnaround so far in one lesson for leaders, what would it be?
+
+Kate Johnson: Don’t confuse declaring a culture with building one. Teach the skills, reward the truth, and build a team that can learn its way through complexity. In the change economy, the ability to pivot together is the advantage.
+
+You may also like:
+
+Talking AI and Transformation in Telco
+
+We learn how AI is reshaping telcos through internal efficiency and customer products, demanding new architecture, governance, and capital models to sustain current and future progress.
+
+Author
+
+Bernhard Kickenweiz
+
+New York

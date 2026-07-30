@@ -1,0 +1,422 @@
+Do Boards Need a Qualified Tech Expert? (Part 1) - Egon Zehnder
+
+Skip to main content
+
+Search for “”
+
+... in Consultants
+
+... in Offices
+
+... in Services
+
+... in Insights
+
+Search all results
+
+Our Services
+
+Shaping Successions
+
+CEO Successions
+
+Executive Successions
+
+Board Successions
+
+Chair Successions
+
+Committee Chair Successions
+
+Advancing Governance
+
+Board Review
+
+Board Development
+
+Board Advisory
+
+Building Advisory Boards
+
+Sustainability Board Advisory
+
+Discovering Leaders
+
+CEO Search
+
+Executive Search
+
+Board Search
+
+Advisor Search
+
+Executive Assessment
+
+Developing Leadership
+
+Individual Development
+
+Accelerated Onboarding
+
+Development Planning
+
+Coaching
+
+Team Journey
+
+Unlocking Transformations
+
+Transformational Development Programs
+
+Chair and Board Potential
+
+Executive Breakthrough
+
+Executive Discovery
+
+Transformational CHRO
+
+Voyager
+
+Customized Leadership Immersion
+
+Explorer
+
+Cultural Transformation
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Chief Executive Officers
+
+Founders
+
+Technology Officers
+
+Chief AI, Data & Analytics Officers
+
+Chief Information Officers
+
+Chief Information Security Officers
+
+Chief Product Officers
+
+Chief Technology Officers
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+Consumer
+
+Consumer Products
+
+Media & Entertainment
+
+Restaurants, Leisure and Hospitality
+
+Retail, E-commerce, Apparel and Luxury
+
+Sports
+
+Financial Services
+
+Asset Management
+
+Banking and Markets
+
+Digital Assets, Crypto, & Web 3
+
+FinTech
+
+Infrastructure
+
+Insurance
+
+Private Equity
+
+Retail Financial Services
+
+Risk Management
+
+Sovereign Wealth Funds
+
+Wealth Management
+
+Health
+
+Biopharmaceuticals
+
+Healthcare Delivery & Services
+
+Life Sciences Tools & Pharmaceutical Services
+
+Medical Devices, Diagnostics and Technology
+
+Industrial
+
+Aerospace & Defense
+
+Chemical & Process Industries
+
+Energy
+
+Machinery & Industrial Technology
+
+Mining & Metals
+
+Mobility & Automotive
+
+Public & Social Sector
+
+Arts, Culture & Sports
+
+Economic, Social & Human Development
+
+Education & Research
+
+Environment & Sustainability
+
+Interest Representation & Public Affairs
+
+Public Administration
+
+Public Finance
+
+Public Health
+
+Public Infrastructure
+
+Services
+
+Air Transport
+
+Business Services
+
+Hospitality, Travel & Leisure
+
+Professional Services
+
+Real Estate Services
+
+Transportation & Logistics
+
+Technology & AI
+
+Artificial Intelligence
+
+Communications & Connectivity
+
+Cyber Security
+
+Digital
+
+Enterprise Tech
+
+Internet of Things
+
+Semiconductors
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+Functions
+
+Industries
+
+Meet our Consultants
+
+Discover Insights
+
+Find Offices
+
+About Us
+
+English
+
+Change
+
+Functions
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Industries
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+About Us
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+English
+
+Deutsch
+
+中文
+
+日本語
+
+Technology OfficersDo Boards Need a Qualified Tech Expert? (Part 1)
+
+What a CIO or CTO can bring to your boardroom
+
+February 2023
+
+4 mins read
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Download the PDF
+
+Companies are spending more on technology than ever before—Gartner projects global IT spending to be $4.5 trillion in 2023— but despite that massive investment, many companies have little to no technology expertise on their boards.
+
+This highlights the disconnect between how much a company values technology and how much they value the person running the technology. While tech has become the operating system of today’s companies, less attention has been paid to the Chief Information Officer (CIO) or Chief Technology Officer (CTO) who designs, guides, and implements these operating systems. Boards may invite the CIO or CTO to present updates to the board on a semi-regular basis, but now that tech underlies every part of the business that is no longer enough. Consider banks facing technology integration issues, glitches that prevent them from supporting customers, and privacy and security issues with retailers—all of these needs heighten the need for boards to have a director who is steeped in technology and has the expertise and knowledge to bring other board members along in their own understanding of these issues.
+
+However, CIOs and CTOs serving on boards is a relatively nascent movement, and there are three main reasons boards have been reluctant to add tech talent:
+
+Biased or insular view of IT leadership.
+We’ve found in our work that there is often a bias against tech leaders, and many assume today’s CIO or CTO hasn’t evolved from the IT director of yesterday. This assumption is more likely to be made if a company is still tackling legacy tech stacks and the transition to faster, more secure, and evolved systems is taking longer than the C-suite and board would like.
+
+However, many CIOs and CTOs have taken matters into their own hands and have broadened their range of expertise to be more strategic and can bring more to the board than simply tech knowledge. Many have also deepened their knowledge within technology, leaning more into product or cybersecurity, deepening the level of contributions they can bring to the board.
+
+Prior board service trumps expertise.
+Boards want to appoint the savviest tech leader with the caveat that they must also have had prior board experience. Since so few boards have named tech leaders as directors, this creates a very limited number of CIOs or CTOs that these boards would consider bringing on.
+
+Challenge of balancing diversity with experience.
+On one hand, adding a technology leader to your board is an excellent way to look beyond the CEO and CFO roles to add diversity to the board. However, when boards seek out a technologist who also has prior board experience and is an underrepresented minority, these leaders become incredibly hard to find.
+
+This reluctance to add technology leaders to boards is rapidly turning to willingness in some regions, due to regulatory changes. In some countries, proposed disclosure requirements may accelerate the need for a qualified technology expert. In the United States, there is a proposed Securities and Exchange Commission rule that would require boards to disclose who on the board is informed of cyber risk issues; how that director receives the information; how often the board discusses cyber risk, and how cyber risk is integrated into business strategy, risk management, and financial oversight. Boards will also need to note if any of their directors have expertise in cybersecurity and the scope of their experience, including technology roles they previously held.
+
+Benefits of Technology Talent on Boards
+
+The conversation about adding tech expertise to boards has been going on for well over a decade and now is the time for boards to recognize the full benefits of adding a director with not just a technology spike but extensive experience. There are three major benefits to having a CTO or CIO as a board member:
+
+They enhance the full board’s tech knowledge base. While most directors aren’t expected to be technology experts, they must understand the material issues technology and innovation raise for their companies. Bringing a CIO or CTO onto the board will elevate every director’s baseline knowledge level and enable more robust discussions—which will be even more critical in the future as technology becomes the operating system of the business.
+
+Turn conversations from tech risk mitigation to tech growth and scale. Experienced technology leaders can help companies fine tune their strategies, questioning management about their overall tech strategy, encompassing privacy, data, and security. They can also aid the management team in mining new opportunities in technology.
+
+They can mentor the sitting CIO or CTO. Tech leaders have been on the executive side of the table too and can help the current CIO or CTO enhance their storytelling and influencing abilities within the organization. This also builds a pipeline of future tech leaders to pull from as boards begin to seriously consider adding a tech leader as a director.
+
+A Qualified Technology Expert at the Table
+
+Much in the same way audit committees have a qualified financial expert, boards should consider having a qualified technology expert as well. The advancements in AI, machine learning, and technology services and software will necessitate having a director who has a perspective on these fast-moving changes.
+
+To reap the benefits of tech talent, boards will need to rethink what “board ready” means for their organization and how they assess potential in future board members. They must look for curiosity—a tech leader who wants to go on the journey of board service not just because they believe it’s the next step in their careers but because they genuinely are interested in how the board functions and want to contribute to creating long-term value.
+
+Topics Related to this Article
+
+Technology
+
+Board
+
+CIO
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Download the PDF
+
+Written by
+
+Stay up to date with our latest insights.
+
+Subscribe now
+
+Changing language
+
+You are switching to an alternate language version of the Egon Zehnder website. The page you are currently on does not have a translated version. If you continue, you will be taken to the alternate language home page.
+
+Continue to the                 website
+
+Back to top

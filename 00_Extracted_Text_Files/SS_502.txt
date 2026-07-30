@@ -1,0 +1,113 @@
+Providing the Human Touch
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Providing the Human Touch
+
+The Rise of Today’s Chief Customer Officer
+
+By
+
+Tania L. Binder
+
+December 2019
+
+| 6 min read
+
+Author
+
+Tania L. Binder
+
+San Francisco
+
+The advent of cloud computing and software as a service (SaaS) has been a boon for modern companies. Instead of buying expensive software that locks them into a lengthy (and likely expensive) commitment, organizations can now try a subscription-based program to see how it works. If it works, great; if not, they can move on to something else.
+
+While this new development has been a benefit for customers, the lack of stickiness that has ensued has made the business of selling software much more complex. Instead of simply developing, marketing and selling their products as they did before, software companies must pay constant attention to customer needs, and take proactive efforts to help customers get value from their product — or else risk losing those customers (and their revenue). When switching products is just a few clicks away, the stakes are higher and the competition is fiercer.
+
+The CCO: Satisfying customers and ensuring growth
+
+To compete effectively, mitigating churn risk isn’t enough. “Growth expectations from investors are higher than ever before,” says Allison Pickens, chief operating officer at Gainsight, the customer cloud company. “Often the fastest way to grow is by expanding revenue from current customers, resulting in net retention rates of as high as 140% or more for top companies. Moreover, top companies are taking a page from the B2C playbook of viral growth by turning their customers into vocal, positive advocates. In the modern B2B economy, customer success is the key to growing fast and winning market share.”
+
+This changing landscape is why more companies are turning to a chief customer officer (CCO) to represent the customers and their interactions with their companies. In the majority of cases, it’s a senior-level role with a broad mandate, reporting directly to the CEO — a critical leader who ensures satisfied customers and improving results.
+
+“The CCO is responsible for generating strong outcomes and experiences for clients, then translating those into strong revenue growth — gross retention, net retention and advocacy — for their company,” Pickens says.
+
+Spreading the customer-centric mindset
+
+According to the Chief Customer Officer Council, the first CCO was hired in 1999 by Texas Power and Light; by 2014, the council reported that roughly 500 global companies across industries had a CCO, including 22% of the Fortune 100. The CCO role is still being fully defined; even the title is fluid. Other names for the job include chief client officer, chief customer success officer, chief experience officer, and chief global customer and marketing officer, according to Forrester Research.
+
+“The CCO is responsible for generating strong outcomes and experiences for clients, then translating those into strong revenue growth — gross retention, net retention and advocacy — for their company.”
+
+Allison Pickens
+
+CHIEF OPERATING OFFICER, GAINSIGHT
+
+The evolving titles point to the role’s expanding influence. The CCO is in charge of proactively ensuring the customer is front and center and has a champion within the organization, but the position also has insights into the types of metrics — customer retention, customer growth, renewal forecasting, advocacy numbers — that offer them cross-functional insights on what’s driving growth at the company.
+
+“You really have to think about the job as representing the customer voice at the table at C-level,” says Elisabeth Zornes, chief customer officer at Zendesk. Nick Ellis, general manager at r4 Technologies: “The people who are in charge of customer success have to be high enough in the organization that they have the ability to go and solve real-life problems, period.”
+
+While many companies give lip service to the idea that the customer comes first, that message is often diluted throughout an organization. As a result, the CCO has a responsibility to instill the customer-first mindset across product development, marketing, sales and other functions.
+
+“The biggest customer experience opportunities do not fit within functional silos,” says Karen Quintos, EVP and chief customer officer at Dell Technologies. “For example, at Dell Technologies, we have an incredible services and support team, we’re bringing innovative products and solutions to market, and we have a supply chain and an operations and manufacturing team that are second to none. But the value for our customers is when we stitch all of that together to provide a simple and seamless experience. And we do that through strong partnership across teams, connecting on our mission to always put the customer first. That really becomes the ultimate differentiator.”
+
+Tracking the customer experience
+
+The CCO’s job starts with proactively and constantly analyzing how the customer interacts with the company and uses its products. That means synthesizing millions points of data and leveraging that knowledge to learn customers’ tendencies and help fine-tune their journey so that it drives value and adoption among clients.
+
+“AI can give you great insight and great opportunities to optimize your engagements, and to personalize engagements as well.”
+
+Elisabeth Zornes
+
+CHIEF CUSTOMER OFFICER, ZENDESK
+
+It’s important to know your customers — what features they're using and which they aren’t, how often they’re using them and what problems they’re having. One way to get an increasingly granular view of the customer experience is via AI, which can help weave an otherwise-overwhelming amount of data into a usable narrative.
+
+“AI is absolutely critical,” says Elisabeth Zornes, chief customer officer at Zendesk. “It can allow you to do fast-paced learning, as well as drive customer interaction in an orchestrated fashion — especially if you have a large number of interactions, or a customer roster that might be very diverse. AI can give you great insight and great opportunities to optimize your engagements, and to personalize engagements as well.”
+
+The goal for CCOs is to track customer behavior. Not only does this help companies become more proactive about customer issues (instead of responding after they’ve arisen and customer satisfaction has likely already declined), but it also helps drive value as customer satisfaction is translated into increased adoption and revenues.
+
+“AI gives you the ability to get much better insight into what's going on with your customers to see if a particular product issue is coming up,” Nick Ellis says. “As subtle usage patterns change, it can indicate that they’re switching off your product. Your ability to see that ahead of time means you can be more proactive in the way you engage.”
+
+A wide range of abilities
+
+The skill set required of CCOs is a rare combination of myriad abilities: the instinct for revenue opportunities of a sales leader, the product knowledge of a product management leader, the organizational knowledge of the experienced executive, the storytelling ability of the customer support veteran. Indeed, CCOs come from a wide variety of backgrounds, including tech, sales, support and management consulting.
+
+If those seem like some difficult shoes to fill, that’s because they are. The person needs to be an executive thinker who can synthesize many inputs and then share the information with the rest of leadership. “The ideal CCO is a seasoned executive who really hasn't come from one part of the business,” Ellis says. “You want someone who has seen what customers want and knows the types of products they buy, and they know the drivers behind those decisions.”
+
+“The ideal CCO is a seasoned executive who really hasn't come from one part of the business.”
+
+Nick Ellis
+
+GENERAL MANAGER, R4 TECHNOLOGIES
+
+Zornes began her career as a call-center rep. “It’s funny, but it’s true: I learned about the customer journey and what the life cycle is, and I built that level of understanding and empathy. That’s the job’s foundation,” Zornes says. “And then it just goes from there in terms of using that empathy to build around tasks such as onboarding motion, adoption motion support, renewal preparation and ongoing consumption management.”
+
+As expected, a decent degree of technical knowledge is often required for this position. CCOs don’t necessarily need to write code, but they do need to understand why features and functions were written the way they were and how they interact with other features and functions.
+
+A less obvious — but no less important — part of the job is the ability to create a compelling narrative about the customer journey through storytelling. Rather than discussing customers as anonymous numbers on a spreadsheet, the CCO needs to bring those numbers to life, so customers’ needs are prioritized throughout the organization.
+
+One way to do this is to seek out customer feedback and make sure it reaches the highest level of the organization. On one hand, nothing alienates clients more than feeling like their issues are being logged into a file and never looked at again. On the other hand, a close understanding of the customer, how they interact and what they value can offer insights that lead to strategies to increase revenue and adoption. “The first thing any CCO should do is bring in a variety of customers, sit them in front the leadership team and ask them, ‘What’s working? What’s not working? What can we do better?’ Quintos says. “I am a huge believer in the power of customer feedback — it’s a win-win for all involved. So being in front of customers and listening to them is absolutely essential.”
+
+Perhaps the most important trait, though, is the ability to empathize with customers and make them feel comfortable. Clients will stick with you if you give them a human touch and leave them feeling like they’re getting the right level of attention.
+
+Conclusion
+
+Customer expectations are only going to rise as subscription-based software becomes more prevalent, so we’re likely to see more organizations create the CCO role to ensure that customer value is a cross-functional priority.
+
+Chief customer officer is a position that requires a varied background, including product knowledge, sales experience and organizational savvy. Not only must the CCO ensure that customers feel appreciated and taken care of, but that person must also be able to drive value and adoption and build to long-term growth.
+
+“People are expecting real-time answers and personalized attention, and they're expecting us more and more to anticipate their needs,” Zornes says. “At the end of the day, customer experience is really one of the key differentiators. It’s no longer just a nice-to-have, but it’s a piece that can absolutely make the difference.”
+
+Download
+
+Download
+
+Author
+
+Tania L. Binder
+
+San Francisco

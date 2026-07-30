@@ -1,0 +1,93 @@
+How the Telecom Industry Can See Opportunities amid Challenges
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+How the Telecom Industry Can See Opportunities amid Challenges
+
+A conversation with Rima Qureshi
+
+By
+
+Bernhard Kickenweiz
+
+March 2024
+
+| 5 min read
+
+Author
+
+Bernhard Kickenweiz
+
+New York
+
+Spencer Stuart sat down with Rima Qureshi at MWC 2024 to discuss her perspectives on the industry’s progression, how it can approach its opportunities and challenges, and her unique perspective as both a top executive and a board member.
+
+Qureshi is a telecom industry veteran with more than 37 years working with some of the industry’s iconic companies, including the last seven years at Verizon as chief strategy officer, and holding several executive leadership positions at Ericsson.  She is also a prominent board director, including 12 years on the board of Mastercard, and the former vice chair of Edison Alliance, a collaboration between Verizon and the World Economic Forum with the goal of connecting a billion people to the internet.
+
+Below is the conversation, moderated by Spencer Stuart’s Bernhard Kickenweiz, edited for brevity.
+
+From your seat at the forefront of this industry, how do you see the telecom industry evolving in the future?
+
+Quote
+
+The key question is, how do you overcome these challenges so that the industry keeps moving forward?”
+
+Rima Qureshi: There are many great technological developments that will enable the industry to continue to advance — and this isn’t new. When I look back on my career, one reason I’ve stayed in it so long is because it’s been so interesting. Everybody talks about how AI is going to change everything, but our industry has changed things for years. And continuous developments will make the phone the most important thing that we have, which means that this industry will remain interesting for years to come.
+
+The industry’s challenge is that it is one of the most capex-heavy industries in the world, and that will not be changing. Meanwhile, the value within the industry is not going to remain with the telcos as much, as it is eaten away from the top and the bottom. The regulatory framework is also making it difficult, as any keynote speaker here will tell you. The key question is, how do you overcome these challenges so that the industry keeps moving forward?
+
+Discussions in recent years have been about monetizing those massive capex investments. Where do you see the value coming from? And how will this impact industry structure?
+
+Rima Qureshi: There is no clear path. When you consider the revenue and profitability you need, Verizon is a lucky one that can still spend billions on capex and find a way to monetize it. But the market overall is becoming more and more competitive, and some markets are more competitive than others. So, that’s a huge challenge in terms of attracting and retaining employees and maintaining the talent you need to continue developing the network and looking for growth.
+
+I think there’s also a contrary question to ask. Do you stick to your knitting and do you really focus on just providing connectivity? Or do you go above that? I think we're a little bit schizophrenic on that. We can't seem to decide which is the right approach.
+
+Quote
+
+Talking to some of the young people who have joined telco, one thing I find very interesting is that people are fascinated by the amount of data you have as a telco.”
+
+Most telecom operators can operate and provide down to the decimal exactly how the operations are going. But they don't understand necessarily how to build that technology. And that becomes a challenge when you think about new sources of revenue. Do you truly have the confidence to go and develop the technology you need? If so, it's going to require a different skillset than what you have today.
+
+I think these challenges mean we're going to see more activism, which has already led to more cost cutting and more focus on the businesses where you can make money. You're also going to see more partnerships, network sharing, maybe MVNO agreements.
+
+In Europe, you’re going to have to really think about sovereignty differently, and hopefully down the line less regulation. In the U.S. and Canada, you’ve got around 400 million subscribers, and less than 10 operators; in Europe there are roughly the same number of subscribers and maybe 400 operators. That is not tenable.
+
+How can talent be part of the industry’s solution?
+
+Rima Qureshi: I say this as a long-term person in the industry, but I think we need a little bit more youth. We should make sure this is an interesting place for people graduating out of university to go. An infusion of a newer generation can help us look at the problem differently.
+
+Talking to some of the young people who have joined telco, one thing I find very interesting is that people are fascinated by the amount of data you have as a telco. Of course, what matters is whether you use that data or not, but in an environment where data is the new oil, a very data rich industry is a great way to attract talent.
+
+You’ve worked with many leaders and been on many different boards. How do you see leadership requirements for this industry changing? What changes are needed in the boardroom to guide companies in the right direction?
+
+Rima Qureshi: A leader needs, of course, a good understanding of the business. But I think we need to actually think about bringing in more leaders from outside the industry.
+
+For example, I was recently talking to the lead director of a board in a completely different industry, one that is also mature. I noted that it is hard to find growth in telco, due to the usual complaints. And he said, “We're in a mature industry, and here are all of the opportunities that this offers us. It's all in the way that you look at the problem."
+
+Quote
+
+The board needs to help change the conversation to be about how we are providing a valued service, and how we are changing the narrative.”
+
+So, maybe it’s time for an injection of people with different perspectives and different ways to look at problems, who can maybe help us think differently about both how we cut costs and how we seek growth. It’s a mindset shift. If you've grown up in an industry where things have been relatively easy, and now they feel difficult, then maybe you need to bring in people who can see that the way you’ve always done things maybe isn’t applicable anymore.
+
+The other leadership area changing is the realization that our industry is not known for being very customer friendly. I think we need to really start thinking about the customer's point of view and better addressing customer needs. We have got a board member at Verizon who comes with a CPG background, who always ask us, “What does the customer want?” Coming from a place where they are always asking about what the consumer wants, and then build their products accordingly. We don’t do that. But the customer is actually willing to take a hit on the latest and greatest technology if the customer experience is better, and maybe if the price is lower. They don’t care very much about 5G or 4G or whatever. They care about a good experience and will take a hit that your coverage maybe isn’t as good. This is an almost blasphemous thing to say in an engineering culture, but we’ve got to think more like this.
+
+On boards, there needs to be more of a focus on refreshing the board and making sure you’ve got consumer experts and customer experts as well as the usual financial experts. You need a technology understanding. You also need more variety of industry backgrounds to help you look at problems differently. The board needs to help change the conversation to be about how we are providing a valued service, and how we are changing the narrative.
+
+How does being both an executive and a board member give you different perspectives on solving problems?
+
+Rima Qureshi: I have had the good fortune to join a board relatively early in my career. I was very operational at the time. I remember going to my first board meeting and asking lots of detailed questions. Now, through the years I've evolved, and I've learned how to ask the questions. But I've also learned that there’s a time to push back and challenge. You've got the competence at the board table, so you need to leverage it. I get why maybe you don't want to bring up all the problems, because someone told you “Don’t worry, we got this.” Anytime anybody says that to me is when I start worrying.
+
+As a board member, I often see similarities in the challenges from my executive role. I use that as an opportunity to say the board needs to be more involved. Maybe my approach as a new board member wasn't exactly the right way to do it, but at the same time you have to take advantage of the expertise on your board. What’s the point of having the board there if you don’t use them?
+
+I think there has to be more willingness to question a bit the role of the board. Your ultimate objective is to help the company, so while collegiality is important, you need to be able to lean in on your differences and competencies to get the most from your board.
+
+Author
+
+Bernhard Kickenweiz
+
+New York

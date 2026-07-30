@@ -1,0 +1,199 @@
+Fintech COOs: Redefining the role for a new industry | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Fintech COOs: Redefining the role for a new industry
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+FinTech Fintech COOs: Redefining the role for a new industry
+
+More and more fintechs are seeking COOs, but figuring out who’s right for the role is harder than it seems.
+
+Heidrick & Struggles
+
+Considering whether and how to hire a chief operating officer (COO) has been a major topic of conversation for young, high-growth fintech companies, especially in the past three years as many began to scale up. Although the COO role has decreased in prevalence at the largest US companies, it has historically played a big part in fast-growing tech companies when they find they need to complement the skills of the founder/CEO to help build scale.
+
+But the idiosyncratic features of the fintech sector—compliance and regulatory issues; competition and collaboration with incumbent players; complexity in scaling quickly in an industry that is highly regulated and requires cooperation among firms; and a relatively small talent pool with experience in tackling these issues—make hiring a COO uniquely challenging.
+
+Most fintech companies have little experience in searching for a COO. Consequently, they are eager to learn from what their peers have been doing. To take a fresh, objective view, we looked at the Global Fintech 100 start-up and growth fintech companies around the world, observed whether they had a COO, and, if so, what lessons we could learn from them as well as from our own experience.
+
+We found that, although functional skills matter, cultural alignment and fast-growth experience are crucial to success. Companies should first define their specific needs, including gaps in their founder/CEO’s skill set and the skill sets of the rest of the executive team, and then pursue several rigorous steps to assess potential COOs. Fintechs that follow this systematic approach will improve their chances of ensuring a good fit with the eventual COO and their firm’s long-term operational health.
+
+Who the fintech COOs are and what they’re doing
+
+Sixty percent of the fintech companies we looked at had COOs. These COOs had, on average, 21 years of work experience and 3 years of tenure in their current jobs. They had diverse backgrounds, but the most prevalent routes to the role were business development, sales, and strategy. A startlingly low 25% had been a COO in a previous company, even though prior COO experience is typically seen as important in other industries. In addition, we found the following:
+
+There was no relationship between the size of the company and whether it had a COO. One might assume the larger the company, the more likely it would have a COO, but that was not the case—some early-stage firms had a COO and some late-stage ones did not. Most often, what we saw instead was that fintechs brought a COO on board at whatever stage they identified a specific scaling issue outside the founder/CEO’s skill set.
+The size of the company that COOs left to join a fintech varied: just under half of the COOs came from other start-ups (49%); slightly more (51%) came from larger, established companies. The transition from an established company to a start-up can be particularly culturally fraught, which is one reason cultural compatibility is such an important element of COO fit.
+A much greater proportion of COOs were female (32%) compared to the share of female fintech founders/CEOs (8%). This relatively high share of female COOs is about the same as in the US tech industry as a whole.
+
+As for how fintechs are defining the position, our analysis showed that they most often employ a hybrid of traditional financial services and technology COO roles. In financial services, for example, the COO traditionally has focused more on operations, partnering with the revenue side to build and lead a business-enabling capacity. In the technology world, the COO has had much more of a go-to-market orientation, serving as a deputy to the founder/CEO, in addition to carrying out functional operational responsibilities. (As a result, this latter role in tech would, in financial services, often be called “president” rather than “COO.”)
+
+The fintech COO role is most commonly defined somewhere in the middle of these two traditional COO roles, depending strongly on the stage of growth of the firm and the founder/CEO’s strengths and experience. Although we often see companies defining the COO role with more of a go-to-market leaning, responsibilities typically also call for strong general management and operational backgrounds. This often complements a more product-oriented founder/CEO. When the founder/CEO is strong in sales and customer acquisition, however, the COO role tends to be more operationally focused, as in traditional financial services firms.
+
+All that said, our experience suggests that the most important way fintechs define what they need in a COO is not by specific functional expertise but instead through a clear alignment with the founder/CEO on mission and culture. We find that similarities in conceptual thinking, creativity, and operational excellence are among the areas that matter. It’s also important that a potential COO have an approach to decision making that syncs with that of the founder/CEO, even if they disagree on the answer to any specific question. Successful COOs must also have experience in companies that have had similar growth journeys—this increases the chances the prospective COO will understand the issues relating to clients, culture, organization, and talent that arise in the fast-growth period.
+
+In the end, although specific functional expertise is important, time after time we see that overall alignment underlies success, which makes successful fintech COOs more different from each other than their peers in many other industries.
+
+Understanding each fintech’s unique requirements
+
+Companies typically have COOs because consistent, reliable operations are crucial to long-term performance and growth. In established industries, there is usually a clear definition of how COOs work. But in the fintech sector, where there are fewer existing COOs and where cultural alignment is so important, fintechs that start by defining the role for their own unique situation benefit most from adding a COO. It’s crucial to include a wide range of input from important stakeholders, such as investors, board members, the founder/CEO, and potentially other top executives.
+
+Founders/CEOs typically care a lot about whether the candidate will complement their skill sets as well as mesh with the company culture. Investors and board members tend to emphasize what responsibilities the COO will own to help the company grow. Existing team members will want the candidate to embrace the company culture and mission, while helping to mentor and coach them.
+
+Discussions exploring what the company needs in a COO are most beneficial, in our experience, when they also cover a range of other fundamental questions, some of which aren’t comfortable for companies to ask—but all of which, left unanswered, can lead to misalignment later on:
+
+What exactly are the skills and qualities that are needed on the senior team to fill gaps and complement the founder/CEO and the rest of the team? For example, in a B2B firm, experience with enterprise sales may be the crucial element; in a consumer firm, experience building trust and communities could matter more; and in a fintech, a focus on lending relationships with the capital markets and funding could be crucial to the role.
+Should the incoming COO be a potential founder/CEO successor? And should succession even be part of the conversation, given that founders are often such a core part of their companies that it is hard to consider it before an eventual exit?
+How important is prior COO experience or experience with founding another start-up, compared with senior experience in relevant functions or markets?
+Are there particular companies that the board and founder/CEO would find particularly powerful in a potential COO’s career history or, on the other hand, disqualifying?
+
+In the end, the board and the founder/CEO must define a set of clear criteria for relevant experience and expertise, leadership competencies, and culture factors that their COO must possess, for which the list below is just a starting point. It’s crucial that this be specific to each company’s situation, not a laundry list of qualities, and that the company can realistically expect to find such a person.
+
+Finding the COO
+
+Once a fintech knows what it wants in its COO, it may face another issue that has confronted other growth companies in tech: while the founder/CEO may have been working to build the company for years, many candidates may not know of it. That means that, although the founder/CEO and investors may believe the company has differentiating qualities, candidates may not recognize them.
+
+Codifying what those qualities are, as well as being comfortable sharing financial data (under a nondisclosure agreement if needed), and involving investors and a prominent external advisor in discussions early on can make all the difference. It’s more important for fintechs than for more established companies to be open to engaging with candidates who seem lukewarm about the position but who want to learn more about it; they may eventually grow more interested in the company.
+
+Of course, another way around the problem of attracting candidates to the company is to promote from within. We believe that an internal promotion to COO can sometimes be the safest and least disruptive choice, but internal candidates often have large hurdles to overcome, most notably stakeholder perceptions that they may not have the experience to drive true change, since they are part of the existing team. Nonetheless, as part of their search for a COO, fintechs must ask whether there are internal candidates and, if so, what experience and expertise they lack and whether there’s a way to fill those gaps. Board appointments, internal rotations, and outside mentoring and coaching are all tactics companies have used to help internal candidates build their skill sets. And even if a person is not promoted to COO, having provided such opportunities typically still helps companies retain skilled executives.
+
+Finally, assessing someone for potential rather than proven experience is particularly challenging yet especially important for fintech COO roles. That’s because of the unusual mix of qualities most companies are seeking and because prior COO work is infrequently a requirement. In our experience, fintechs have most often succeeded with a mix of carefully structured interviews rather than conversational ones, using case studies and working sessions as part of the evaluation process, and getting the views of current executives as well as outside advisers with broad experience (see sidebar, “Searching for a fintech COO: A case study”).
+
+*** More and more fintech companies are adding COOs as they start to scale and reach levels of complexity that require substantial additional management and leadership skills as well as new expertise. But these positions are not easy to add successfully. Founders/CEOs and investors create the best outcomes for their companies when they spend the time to define the role, including an honest assessment of the senior team’s current skills and gaps, and then follow a rigorous process to find the mix of skills and cultural fit that will lead to lasting success in the role.
+
+Sidebar: Searching for a fintech COO: A case study
+
+A rapidly growing B2B fintech undertook a search for a COO that it structured in three parts. In the design phase, the founder/CEO gathered trusted advisors, board members, and executives to review everything the company currently did and wanted to do in the future, as well as what his own strengths and relative weaknesses were and where a COO could particularly add value. They concluded they needed a COO from the technology industry (rather than financial services or fintech) because what they needed most was expertise in engineering-based cultures, strong go-to-market leadership experience in the technology industry, which was most aligned with the company and culture they were looking to build, and the experience of having built organizations at a scale similar to their aspirations.
+
+In the second phase, the CEO met with about 15 COOs and CEOs who had hired for the position in similar-sized businesses that he respected in order to learn what had worked for them and what didn’t. The CEO compiled this input and created an assessment scorecard (and thus search strategy). The scorecard offered clear prioritizations as well as areas where compromises on qualifications were possible. Phase three was the search itself, which took about four months to complete.
+
+Looking back, what stood out in this search was the importance of the connection the fintech found between the CEO and the candidate, specifically related to how they assessed and worked through problems—which they uncovered by using a case-study model for assessment—and the things they were passionate about in life and work.
+
+About the author
+
+David Boehmer (dboehmer@heidrick.com) is a partner in Heidrick & Struggles’ San Francisco office and a member of the Financial Services Practice.
+
+The author wishes to thank Katherine Pluck for her contributions to the research discussed in this article.
+
+Related Services & Industries
+
+Financial Services
+
+Leadership Development
+
+Supply Chain & Operations Officers
+
+Technology
+
+Related Content
+
+Frontier Tech
+
+2025 European FinTech & Crypto compensation report: Product and engineering leaders at privately-held companies
+
+Heidrick & Struggles’ survey of European fintech product and engineering leaders analyzes compensation by ownership, revenue scale, region, and the growing impact of AI on talent demand.
+
+FinTech
+
+Stablecoins and the future of finance: A conversation with Marieke Flament, co-author of Euro Stable Watch, board member and advisor
+
+Marieke Flament explores how stablecoins are reshaping global finance and what today’s leaders need to thrive in a decentralized financial system.
+
+FinTech
+
+Finding the right fintech talent: A conversation with Ben Grolimund, general manager of UAE, Rain
+
+Ben Grolimund, the general manager of the UAE at Rain, the first fully regulated virtual assets brokerage and custodian in the Abu Dhabi global markets, discusses what’s been driving the Middle East crypto landscape and the current talent market in that area.
+
+FinTech
+
+The new fintech board
+
+As fintechs have grown and become increasingly important players in the financial ecosystem, the demand for a diverse, well-rounded set of board members has increased.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

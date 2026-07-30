@@ -1,0 +1,215 @@
+Global markets focus: How COOs can best position their firms to thrive now | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Global markets focus: How COOs can best position their firms to thrive now
+Explore this page COOs’ biggest concernsLooking aheadAbout the authorsRelated Content
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Financial Services Global markets focus: How COOs can best position their firms to thrive now
+
+A roundtable discussion with chief operating officers identified four key challenges for global markets firms adjusting to a new normal—and some strategies COOs are using to meet them.
+
+Elisabetta Bartoloni ,
+Jarrad Roeder ,
+Shannon Bade Neason
+
+Chief operating officers have become increasingly crucial to the long-term performance of global markets firms as the industry has evolved from being mostly driven by people and relationships to also requiring that firms have the most competitive structure, technology, and infrastructure. When COVID-19 started affecting business operations, most global markets COOs—like their peers across industries—focused on the immediate needs of keeping their businesses going. But now, most are beginning to look ahead again, planning for future operations in a world in which economic, social, and workforce uncertainty seems likely to remain the norm. In that context, over the past few months, Heidrick & Struggles has convened hundreds of C-level executives from companies large and small in a series of cross-industry roundtables to promote and enable thinking about potential scenarios for the year 2023 (see sidebar, “Four scenarios for the future of human capital in 2023”). Most recently, 25 global markets COOs joined the discussion. In what follows, we’ll highlight their biggest challenges and what they, as COOs, can best do to help their companies reset with resilience. (For details on how we developed the four scenarios, see “COVID-19 and the future of work: Four scenarios.”)
+
+COOs’ biggest concerns
+
+Most global markets COOs felt their organizations were currently preparing for the tech-powered humanity scenario, a future in which the economy recovers quickly and social norms return to their pre-COVID-19 normal. However, while we may all hope to see that scenario come to pass, the COOs also said that digital enclaves, a world of continued economic volatility and permanent shifts in social norms, was the more likely path for the next three years. Indeed, despite how different each of these scenarios are from each other, the group held a fairly equal view of each of their likelihoods, highlighting the overall degree of uncertainty COOs must plan for today and the ongoing importance of organizational agility.
+
+While preparedness for any given scenario varied from firm to firm, COOs on the whole agreed they were least prepared for the potential challenges posed by the possibility of the growing divide. The implications of three more years of continued quarantine, social unrest, a depressed business and economic environment, and a wholesale shift in the preferences and behaviors of the US workforce are those the industry is ill-prepared to handle, COOs agreed.
+
+Despite their overall uncertainty about the future, global markets COOs saw four common challenges that cut across scenarios and that their organizations will need to address over the coming years:
+
+How do we maintain a strong company culture in a work-from-home world?
+How do we successfully manage and develop talent remotely?
+How flexible can we be with the geographic locations of our workforce?
+What is the best strategy to safely return to the office?
+
+Maintaining culture in a work-from-home world
+
+Many businesses within global markets continue to boom, leaving leaders wondering whether and for how long they can maintain today’s pace with most everyone working from home. Global markets COOs pointed to uncertain schedules, a lack of motivation, and a lack of connectedness as key derailers affecting their people. COOs said some employees are explaining how they feel with reference to the movie Groundhog Day—every day feels the same.
+
+But some firms that have called people back to the office have seen COVID-19 cases rise in those groups. Furthermore, daily complexities are only rising for the large percentage of the working population who are parents. Now that school is back in session in much of the world, there is an increasing need for flexible work schedules, stemming from a lack of cohesive strategy among school systems. As parents’ schedules are left at the mercy of each school’s approach, employees are looking to leaders to rethink when business can be done. One limitation for global markets, however, is that market hours cannot be changed. Given that, firm leaders must find ways to both motivate their workers and provide support systems to them through these volatile times.
+
+Firm leaders must find ways to both motivate their workers and provide support systems to them through these volatile times.
+
+Since trading floors are thought to be the beating heart of Wall Street, global markets COOs are prioritizing solutions that keep traders energized and working together. Trading desks have been using Microsoft Teams in order to display their entire group over video throughout the day, with the goal of re-creating the desk environment virtually. This is helping, several COOs said. For other job functions, where constant connectivity is not as important, firms have still used video to connect supervisors and desk heads with their teams, for example, with weekly face-to-face check-ins. COOs said that this has been an effective way to understand where people, especially the junior staff, are having troubles or successes.
+
+The COOs added, though, that more junior people seem to be finding it particularly difficult to feel connected while working from home. Managers are pointing to an increase in concerns about career advancement and uncertainty about where younger employees stand in the priorities of their organization. Millennials working in global markets, known most for its competitive environment, fear that their peers may gain advantage if they return to the office, and feel that by working from home they are missing out on organic opportunities that may arise from speaking to colleagues in the moment. To increase the feeling of connectedness among these employees, global markets COOs are assigning mentors and sponsors to help them when just walking into a senior leader’s office is no longer an option.
+
+To increase the feeling of connectedness among these employees, global markets COOs are assigning mentors and sponsors to help them when just walking into a senior leader’s office is no longer an option.
+
+In the longer term, re-creating such “watercooler moments” will be an important part of maintaining inclusive cultures that seek out and value individual perspectives while fostering a sense of belonging, alignment, and shared purpose among employees at all levels. That’s important because, when managers’ visibility into employee behavior is limited (and employees know this), culture is critical not only to morale but also to maintaining standards. COOs need to understand—and shape—the answers to questions such as, What are the unwritten rules that direct your team’s decisions and behavior? What norms guide how people behave when no one is looking? (For more on the role of culture in a crisis, see “Leading through the crisis by counting on purpose and values.”)
+
+When a new hire joins the firm, COOs can foster inclusion by ensuring that one-on-one or small-team onboarding experiences at a separate facility will help strengthen initial employee bonds and instill the firm’s culture. And for existing employees, many of whom are operating outside the office, leaders still see a significant desire for human connection. Golf outings were one of the more successful models cited by COOs looking to balance safety and connection across their teams. And COOs are looking for other possible ways to engage with teams in a remote environment, off video calls but in ways that still enable social distancing.
+
+Managing and developing talent remotely
+
+Training on the trading floor has been conducted through mentorship since the beginning of the industry. If most of the trading floor is working from home, the mentorship and training that happens on the job changes form. While it was already normal for a more seasoned senior leader to listen in on phone calls, for example, coaching the juniors in what to say and how to navigate the conversation, this no longer happens organically. This presents a real issue because the words used to make an agreement can often dictate the understanding of multimillion-dollar positions. Furthermore, organizations have to be able to spot rogue traders, but troubling behavior can be much harder to isolate when leaders do not physically interact with their people. Even with all the best tools to aggregate and analyze trader data, leaders cannot always manage effectively through numbers alone. Being able to walk a floor and see someone act strangely is irreplaceable.
+
+Certain firms have been better than others about getting their employees turrets at home, where having the same systems that are used in the office helps re-create the “hoot” environment for the teams.  When done well, senior sales leaders can pick up the phone and continue to guide the juniors with clients. In the absence of turrets, which often record conversations, it becomes harder to surveil trades. If there is an issue with traditional systems such as Bloomberg Chat, it is flagged by the supervisor, but this becomes more difficult with outside tools. So, COOs said, some firms have added an extra layer of supervision to monitor LinkedIn and Facebook messages as well. But electronic surveillance does not cover everything. There was no consensus among COOs on the best long-term solution.
+
+To cover and interact with clients virtually, banks are quickly discovering what is a must-have and what is a nice-to-have when it comes to face-to-face interaction. In past years, for example, it was common to have a whole research team crammed into a room to meet a client or deliver earnings calls. Replicating such conversations virtually opens firms to compliance and supervisory scrutiny; business leaders are looking to regulators to tell them what can be said through written or phone communication versus in person. According to COOs, while the cadence of in-person meetings may be reduced, sales leaders feel certain there will always need to be some in-person element to the client relationship, especially at the senior levels.
+
+More broadly, as technology has become as important to success in the industry as relationships, managers have been redesigning teams by formally pairing senior, high-producing managers who are less facile with technology with mid-level professionals who can quickly adapt to new systems, with the goal of creating a more efficient team. In the longer term, as this more remote and digital environment evolves, leading high-performing teams will require executives across functions to elevate their own levels of digital dexterity, which we define as the mix of leadership and organizational acumen leaders need to support both the technology and human sides of transformation.  (For more on digital dexterity, see “Building digital dexterity in your leadership team.”)
+
+As technology has become as important to success in the industry as relationships, managers have been redesigning teams by formally pairing senior, high-producing managers who are less facile with technology with mid-level professionals who can quickly adapt to new systems, with the goal of creating a more efficient team.
+
+Indeed, many of the softer challenges of remote teaming can be solved with the effective and universal use of video and collaboration technologies that have been present for years, even if most organizations failed to embrace their potential at scale until COVID-19. Today, agility is key to survival, and COOs cannot wait for IT departments to push solutions or for executives to adapt on their own. COOs will need to become more digitally savvy, so they are able to identify the potential operational benefits of new technologies and proactively find ways they can be used to address workflow gaps caused by remote working.
+
+Being flexible in the geographic location of talent
+
+Historically, large urban areas have been the major talent hubs. Now, many ideas are being considered to help people avoid mass transportation and congested spaces as a matter of public health; in the long run, there may be a significant redistribution of where people choose to live and work, possibly in favor of suburbs over city centers. Even now, people are effectively scrambled all across the world. Although  many COOs find it exciting to think about new ways to manage people, and production has been good in the short term, many COOs are fearful about how this trend will manifest in the longer term, especially as it relates to supervisory and regulatory aspects of management. If, for example, the Financial Industry Regulatory Authority (FINRA) charges for registration of each individual home office, firms could see their costs rise significantly. While business leaders wait for guidance from the regulators who will ultimately have the last say, regional-type offices are being utilized.
+
+Lasting changes in where employees work will require COOs to develop much more flexible approaches to both talent and real estate. They will need to build the capabilities and processes to find, hire, onboard, and develop talent effectively whether people sit in a headquarters office, a smaller regional hub, or their homes. Across the whole workforce, COOs will need to shift from managing an either–or approach to in-person or remote working to managing a more complex blend of workforce models. This will require leaders who can seamlessly bring together teams of employees to collaborate and get work done wherever they are.
+
+COOs will need to build the capabilities and processes to find, hire, onboard, and develop talent effectively whether people sit in a headquarters office, a smaller regional hub, or their homes.
+
+Developing the best strategy for safe return to the office
+
+As of late June, American COOs were expecting to start bringing their salesforces back after Independence Day. Senior-level people were asked to go first in order to help show a united front at the highest levels. But leaders have not pressed a return to the office as mandatory for most employees. The COOs we spoke with reflected on the complexities they now face regarding the amount of physical workspace they rent or own, as it seems clear that we will never all work in offices to the degree we once did, even after a vaccine for the coronavirus becomes widely available. Indeed, COOs are trying to find ways to maintain productivity while keeping people working from home, and employees have indicated through surveys that they are not ready to return to their offices.
+
+The change in real estate needs has quickly become complex for COOs: If you had 500 seats on a trading floor and there can now be only 250 people in the space due to safety precautions, for example, it is challenging to figure out who should get to stay. One solution is to bring back the largest producers in sales and trading, who benefit most from having the best infrastructure. But then, COOs still have to get these professionals to their offices safely. In major cities, transportation and elevators are a major concern, given the lack of air circulation and space. Certain companies are combatting this by allowing professionals in the middle or back offices or those in the front office with the proper setups to work from branch offices, which are smaller in size and generally don’t run into the bottleneck issues that come with skyscrapers.
+Technology will play a role in the long-term solutions to these dilemmas. If a firm can seamlessly keep its workforce working from any location by having the most accessible and effective technology, maintaining culture, and effectively managing and developing its people, that firm will likely lead the way forward.
+
+If a firm can seamlessly keep its workforce working from any location by having the most accessible and effective technology, maintaining culture, and effectively managing and developing its people, that firm will likely lead the way forward.
+
+Looking ahead
+
+Our roundtable discussion with global markets COOs reinforced the degree of uncertainty that still exists about the future. COOs could reasonably foresee any number of vastly different future scenarios for their industry, each requiring a different approach to how they organize, manage talent, and drive performance. But even though the long-term normal is not yet discernible, COOs would be well served by building resilience through the following three key actions:
+
+About the authors
+
+Elisabetta Bartoloni (ebartoloni@heidrick.com) is a partner in Heidrick & Struggles’ New York office and a member of the Financial Services Practice; she leads the Global Markets Practice for the Americas.
+
+Jarrad Roeder (jroeder@heidrick.com) is a principal in the Philadelphia office and a member of Heidrick Consulting.
+
+Shannon Bade (sbade@heidrick.com) is a senior associate in the New York office and a member of the Financial Services Practice.
+
+Acknowledgments
+
+The authors wish to thank Scott Snyder for his contributions to this article.
+
+Related Services & Industries
+
+Financial Services
+
+Payments & Market Infrastructure
+
+Supply Chain & Operations Officers
+
+Related Content
+
+Leadership Development
+
+How AI is reshaping legal services: A conversation with Julien Tanguy, CEO of Lefebvre Group
+
+Julien Tanguy, CEO of a leading European provider of legal and tax services, shares how AI is driving cultural change, redefining leadership roles, and accelerating innovation through trusted data, talent, and technology.
+
+Marketing, Strategy & Communications
+
+Communications as a key driver to growth: A conversation with Silvio Tavares, president and CEO of VantageScore
+
+Silvio Tavares discusses leveraging accountability, AI, and clear company values to drive performance and innovation.
+
+Financial Services
+
+An interview with Ken Kobayashi, president and representative director of SMBC Global Investment & Consulting Ltd. (SGIC)
+
+In the fifth installment of our interview series on leadership in Japan’s growing asset management industry, Ken Kobayashi, president and representative director of SMBC Global Investment & Consulting Ltd. (SGIC), discusses his transition from senior roles at multinational firms to leading a Japanese financial institution. He reflects on bridging global and local practices, shaping SGIC’s strategy and culture, and shares lessons learned as the company’s first external president.
+
+Compensation Trends
+
+2025 US Global Markets Compensation Survey
+
+Our second annual US Global Markets Compensation Survey examines organization and compensation data from a survey of sales, trading, and research professionals in the United States.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

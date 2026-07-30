@@ -1,0 +1,65 @@
+What AI Means for the Human Side of HR
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+What AI Means for the Human Side of HR
+
+By
+
+Kimberly Fullerton,
+
+Tom Scanlan and
+
+Usama Fayyad
+
+February 2018
+
+| 4 min read
+
+Authors
+
+Kimberly Fullerton
+
+Tom Scanlan
+
+Usama Fayyad
+
+Artificial intelligence (AI) and machine learning continue to capture headlines and spark questions about the future of work. We talked recently with AI pioneers and HR leaders to help cut through the hype and understand the implications for recruiting and engaging talent. Beth Axelrod, VP of employee experience at Airbnb and former SVP of human resources at eBay, moderated our panel in Silicon Valley with Pat Wadors, chief talent officer and CHRO of Service Now and former SVP of the global talent organization at LinkedIn, and Usama Fayyad, CEO of Open Insights and advisory CTO of Stella.ai. Here are our main takeaways from these discussions:
+
+1. AI and machine learning are already everywhere. For many HR leaders, AI is still a daunting unknown. But AI and machine learning are already almost everywhere — we just don’t think about it. Airlines and other organizations that rely heavily on planning and logistics have been using AI for a long time. The same goes for large manufacturers, financial services firms and even utilities. Do you use Google? It’s built on machine learning relevance. Given AI’s vast presence, HR leaders should not view it as a threat, but an opportunity to improve operations, understand and acquire new talent, and most importantly, improve employee engagement.
+
+2. When it comes to AI, start with the problem you want to solve. With so many vendors in the space, it's easy to become overwhelmed. Rather than "wade into quicksand," HR leaders should identify one to two areas — such as compensation or churn — where they want to make progress in the next year and focus on technologies that specifically address those issues.
+
+(Left to right: Beth Axelrod moderating the discussion with Usama Fayyad and Pat Wadors)
+
+3. You shouldn't go it alone to cut through the noise. Partner with your organization's head of innovation or bring on an external adviser to stay on top of AI trends and assess which solutions make the most sense. Also, look to counterparts in technology and financial services companies who have been early adopters of AI for best practices and insight into what's on the horizon. And don't be afraid to engage with other peers to ask "What's working for you?" or "What's failed?" HR leaders can also implement pilot programs before committing to full-scale investments in new platforms.
+
+4. These technologies can significantly enhance the employee experience. AI and machine learning can be used to make the onboarding process more efficient and tailored. For example, a credit card can be offered for expenses on the leader’s start date (versus the more typical 60-day waiting period) and preferences for seating and software can be identified. “If this machine learning is contextual and personalized, it empowers the employee to be productive quicker,” said Wadors. “You create a stickier experience, which is important because you can lose a lot of great talent within the first 90 days.” Axelrod said she and her team are thinking about how technology can enhance a feeling of belonging among employees. For example, in a remote office with few people, could technology help onboard a new employee and instill a sense of community in the process?
+
+5. There are risks beyond cybersecurity that HR leaders need to consider. While security and privacy are of utmost importance, the real risks from an HR perspective are around public perception and internal messaging. For example, AI has the potential to help improve diversity by identifying a broader slate of candidates. The fear is that AI has the potential to reinforce bias. Let’s say you want AI to help identify candidates with attributes similar to executives who have been successful in the organization. If these successful executives all have similar backgrounds, then the organization would continue to hire within those narrow talent profiles. In reality, AI can help eliminate bias by challenging these assumptions. “As an introvert, I recognize that there can be a bias toward extroversion,” said Wadors. “But you may not need to be an extrovert to be in sales. That is a perceived benefit. The research shows that introverts are actually better listeners to customers and follow through better.” To take full advantage of AI, you need to clearly communicate the goals of any HR technologies, as well as the safeguards in place to prevent them from being used for questionable purposes.
+
+6. HR will be charged with understanding the people side of information uncovered by AI. Artificial intelligence has the ability to help detect patterns in HR data, such as precursors to attrition. However, it cannot answer the most critical question: "Why?" It's up to HR leaders to examine what’s driving behaviors and help determine if leadership or cultural changes are necessary to address the issue. HR can also lend the necessary context that a machine cannot provide. In examining the drivers of unauthorized trading at a large bank, we learned that unauthorized trading was much less likely if an individual was sitting in a supervisor’s line of sight. We advised HR to connect the dots between the data and human behavior: Think about things like how you represent where people sit and how they interact. Wadors also believes that companies have more social responsibility than ever before when it comes to how they search for and treat talent. HR leaders will become the policymakers and help define how to use AI in ethical and person-centered ways.
+
+7. AI can help redefine what the HR function can achieve and how they can achieve it. Many tasks in HR that are currently manual can benefit greatly from technology. For example, algorithms can help sift through a large number of resumes to screen for a good fit resulting in better matches. Additionally, an algorithm is not as susceptible to many of the unconscious biases that humans may apply in the hiring process. AI can play a big role in improving diversity by widening the parameters of backgrounds and sources of talent, vastly increasing the set of candidates. Who says that someone with a background in financial services is not a good fit for a healthcare technology company? AI can play an important role in operationalizing and improving diversity in talent pools and promoting internal mobility in large organizations.
+
+The bottom line: AI is a promising new area for HR and it’s time to rethink standard tasks including recruiting, compliance, evaluation, and assessing the overall employee experience. Explore these options carefully, cut through the hype with targeted pilots, and be open to thinking about what parts of the HR function can be significantly improved with this technology. When used in a thoughtful way, AI’s insights and predictive capabilities can help HR leaders make better — and more proactive — decisions.
+
+Kimberly Fullerton is an attorney and a member of Spencer Stuart’s Legal, Compliance & Regulatory and Human Resources practices. She recruits chief human resources officers and senior-level roles in compensation and benefits and talent. Reach her via email and follow her on LinkedIn.
+
+Tom Scanlan is a member of Spencer Stuart’s Human Resources Practice and specializes in recruiting senior human resources executives across all industries. He focuses his search work on chief human resources officers, senior generalists and leaders in talent management and compensation and benefits. Reach him via email and follow him on LinkedIn.
+
+Usama Fayyad is the CEO of Open Insights and advisory CTO of Stella.ai. He is a practitioner, scientist and entrepreneur in the areas of AI and machine learning. Follow him on LinkedIn.
+
+The authors would like to thank Beth Axelrod, Pat Wadors and Rich Joffe, CEO of Stella.ai, for their contributions to these discussions.
+
+Authors
+
+Kimberly Fullerton
+
+Tom Scanlan
+
+Usama Fayyad

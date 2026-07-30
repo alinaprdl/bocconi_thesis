@@ -1,0 +1,435 @@
+Escaping "Pilot Purgatory" - Egon Zehnder
+
+Skip to main content
+
+Search for “”
+
+... in Consultants
+
+... in Offices
+
+... in Services
+
+... in Insights
+
+Search all results
+
+Our Services
+
+Shaping Successions
+
+CEO Successions
+
+Executive Successions
+
+Board Successions
+
+Chair Successions
+
+Committee Chair Successions
+
+Advancing Governance
+
+Board Review
+
+Board Development
+
+Board Advisory
+
+Building Advisory Boards
+
+Sustainability Board Advisory
+
+Discovering Leaders
+
+CEO Search
+
+Executive Search
+
+Board Search
+
+Advisor Search
+
+Executive Assessment
+
+Developing Leadership
+
+Individual Development
+
+Accelerated Onboarding
+
+Development Planning
+
+Coaching
+
+Team Journey
+
+Unlocking Transformations
+
+Transformational Development Programs
+
+Chair and Board Potential
+
+Executive Breakthrough
+
+Executive Discovery
+
+Transformational CHRO
+
+Voyager
+
+Customized Leadership Immersion
+
+Explorer
+
+Cultural Transformation
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Chief Executive Officers
+
+Founders
+
+Technology Officers
+
+Chief AI, Data & Analytics Officers
+
+Chief Information Officers
+
+Chief Information Security Officers
+
+Chief Product Officers
+
+Chief Technology Officers
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+Consumer
+
+Consumer Products
+
+Media & Entertainment
+
+Restaurants, Leisure and Hospitality
+
+Retail, E-commerce, Apparel and Luxury
+
+Sports
+
+Financial Services
+
+Asset Management
+
+Banking and Markets
+
+Digital Assets, Crypto, & Web 3
+
+FinTech
+
+Infrastructure
+
+Insurance
+
+Private Equity
+
+Retail Financial Services
+
+Risk Management
+
+Sovereign Wealth Funds
+
+Wealth Management
+
+Health
+
+Biopharmaceuticals
+
+Healthcare Delivery & Services
+
+Life Sciences Tools & Pharmaceutical Services
+
+Medical Devices, Diagnostics and Technology
+
+Industrial
+
+Aerospace & Defense
+
+Chemical & Process Industries
+
+Energy
+
+Machinery & Industrial Technology
+
+Mining & Metals
+
+Mobility & Automotive
+
+Public & Social Sector
+
+Arts, Culture & Sports
+
+Economic, Social & Human Development
+
+Education & Research
+
+Environment & Sustainability
+
+Interest Representation & Public Affairs
+
+Public Administration
+
+Public Finance
+
+Public Health
+
+Public Infrastructure
+
+Services
+
+Air Transport
+
+Business Services
+
+Hospitality, Travel & Leisure
+
+Professional Services
+
+Real Estate Services
+
+Transportation & Logistics
+
+Technology & AI
+
+Artificial Intelligence
+
+Communications & Connectivity
+
+Cyber Security
+
+Digital
+
+Enterprise Tech
+
+Internet of Things
+
+Semiconductors
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+Functions
+
+Industries
+
+Meet our Consultants
+
+Discover Insights
+
+Find Offices
+
+About Us
+
+English
+
+Change
+
+Functions
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Industries
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+About Us
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+English
+
+Deutsch
+
+中文
+
+日本語
+
+DigitalEscaping "Pilot Purgatory"
+
+How chemical companies can make digital transformation a reality
+
+July 2018
+
+6 mins read
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Download the PDF
+
+After a period of regarding digital transformation from afar, the chemical industry has begun to approach it enthusiastically. Many chemical enterprises have implemented pilot programs as a way of taking the first steps on this journey. But the conversations we have with boards and CEOs, combined with our own observations in the field, suggest that pilot programs rarely lead to transformation in the chemical industry. Instead, many organizations find themselves stuck in what Enno de Boer, who leads digital manufacturing at McKinsey, aptly calls “pilot purgatory”:  Frequent success on a small scale, but those successes don’t add up to anything much more than the sum of their parts. Real transformation always seems just out of reach.
+
+We can see why this happens if we look at how pilot programs typically unfold. A company might decide, for example, to test the waters by digitalizing its procurement function, creating data-sharing links with its suppliers. After six months or so, that project is deemed a success and a new pilot is undertaken, mining customer sales data to optimize product flow. Six months later yet another initiative is launched and the cycle repeats itself. The company ends up with a portfolio of small projects that allow it to conduct the same business as before, but with greater efficiency.
+
+Chemical firms, in other words, often tackle digital transformation the same way they have traditionally approached product development— carefully changing one variable, evaluating the results, then changing another variable. But while this gateway model of development is completely appropriate in the wet-bench lab, it doesn’t allow for the holistic leaps that digital transformation demands. Transformation isn’t about using data to run your old business more efficiently. It’s about understanding that you’re in a different business altogether—one with data at the center. Traditionally, data (and the larger IT/software infrastructure around it) has been regarded as a tool to help improve chemical processes: How can we produce a given product with greater performance, efficiency and safety? But digital transformation calls for chemical companies to reverse this equation:
+
+What does the data around the products and services we sell  tell us about our customers and their problems—and how can we use that data to provide a new level of insight and more complete solutions?
+
+It can be difficult for chemical firms to make these leaps because their innovation has historically been constrained by high capital expenditure and safety and regulatory considerations. And indeed, those constraints remain—when it comes to chemical processes. However, leveraging the data generated by those processes doesn’t require massive refineries or navigating OSHA rules. But it does demand the mindset, resources, and capabilities needed to look at and respond to customer needs in new ways.
+
+Turning data into currency
+
+In agriculture, for example, farmers aren’t concerned about where to buy seeds, but they worry a great deal about why there can be such large variation in crop yields from year to year and acre to acre. Companies in the digital farming arena are responding to this opportunity by building data platforms to help farmers answer that question—and to put the company at the center of the solution. The value of these data hubs increases over time as the scope of the input data expands and its models are refined. But critically, a hub’s business viability isn’t dependent on reaching some distant threshold. The data platform is able to engage customers now. A more perfect future isn’t allowed to undermine a perfectly good present.
+
+The data hub is also multidirectional. Even as it generates important insights on planting strategies, it also provides invaluable access to customers that the company can sell to business partners. When transformation initiatives turn data into currency, those initiatives become infinitely more compelling and self-sustainable.
+
+Building problem-solving ecosystems
+
+The technologies we use at home continuously improve the experience of how we communicate, shop, and manage our lives. As these experiences become more seamless and intuitive, they cannot help but make some of the processes we use at work seem woefully inadequate.
+
+The hygiene industry, for example, is still centered around selling a wide range of specialized products through standard distribution channels, much as it has been for the last half-century. Forward-thinking companies here are reimagining their businesses in light of their customers’ rising expectations within their own enterprises. Working backward from those expectations, hygiene firms are designing comprehensive solutions that integrate into customer operations that do more than clean: They help improve waste management, reduce assembly-line downtime, and simplify regulatory compliance.
+
+While technology clearly played a catalyzing role in these transformations, the real metamorphosis comes from creating a holistic ecosystem of products, technologies, and business partners in which each component reinforces the others and data is the common denominator.
+
+Choosing real transformation
+
+Chemical enterprises that opt for real transformation rather than self-contained pilots need the right leadership and organizational structure to support that choice. Some of the necessary success factors—like having the full buy-in of the board and the right visionary leader at the top—have been frequently discussed. But our experience working with chemical companies who are on the transformation journey suggests that there are four less-obvious requirements that are also critical.
+
+Managing culture goes to the top of the agenda.
+
+Transformations almost invariably involve combining groups with radically different working styles, competencies, and expectations. This can be particularly challenging in chemical organizations, where shared industry experience and knowledge has historically provided a common bond and shared language. CEOs need to create the conditions in which chemists who know little about data science and data scientists who know little about chemistry can not only co- exist but play off each other. This is often a much larger task than it first appears and may require iterative changes in the organizational design.
+
+Digital transformation is path dependent.
+
+Some companies choose to incubate their transformations with self-contained teams. Some pursue transformation by acquisition, and others look to transform organically across the organization. There is no one right approach, but whatever path is chosen will involve tradeoffs and will affect the timeline and challenges encountered along the way. So, building transformative capabilities internally generally takes more time than doing so through acquisition, but acquisition is likely to exacerbate the cultural challenges mentioned above. The board and management need to have a clear view of its particular path—and then commitment to follow that path through to the finish.
+
+Don’t mistake a part for the whole.
+
+Even though transformation calls for rethinking businesses at a holistic level, it may take several discrete steps to get there. Companies acquired for their innovation prowess may themselves need to make acquisitions to fully meet the needs of their parent, for example. The all-consuming nature of transformation initiatives, whether they happen organically or through acquisition, shouldn’t obscure the fact that those initiatives may be one component of a larger mechanism.
+
+The fierce competition for talent gets fiercer.
+
+Chemical companies undertaking digital transformation aren’t just in the chemical business—they’re also in the transformation business. In the talent market, this pits them against not just other chemical firms but auto manufacturers, financial institutions, retailers, and other industries reinventing themselves—as well as Silicon Valley itself. Chemical organizations need to closely examine their recruiting, assessment, compensation, and retention strategies to ensure that they are prepared for this much larger and rougher playing field.
+
+It makes sense that the chemical industry should be focused on transformation now. Many of the necessary technologies, including robotics, connectivity and artificial intelligence, are reaching their critical trajectories. In addition, the wave of consolidations and portfolio reshufflings within the industry have fostered an entrepreneurialism to push beyond cost cutting and incremental efficiency improvements. For the chemical firm hungry for large-scale change, pilot programs often are seductive because they are framed as contained, low-risk propositions. But that safety is often illusory. Over time, enterprises stuck in pilot purgatory are susceptible to an ingrained skepticism and “innovation fatigue” that makes actual transformation, when it is eventually attempted, even more difficult. Instead, chemical enterprises can make full- fledged transformation a reality—provided they are equipped with the right tools, vision, and leadership.
+
+Download as PDF
+
+Topics Related to this Article
+
+Digital
+
+Industrial
+
+Leadership
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Download the PDF
+
+Written by
+
+Stay up to date with our latest insights.
+
+Subscribe now
+
+Changing language
+
+You are switching to an alternate language version of the Egon Zehnder website. The page you are currently on does not have a translated version. If you continue, you will be taken to the alternate language home page.
+
+Continue to the                 website
+
+Back to top

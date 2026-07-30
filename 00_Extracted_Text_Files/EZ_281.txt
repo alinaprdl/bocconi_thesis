@@ -1,0 +1,417 @@
+CIOs Adopt New Responsibilities and Titles - Egon Zehnder
+
+Skip to main content
+
+Search for “”
+
+... in Consultants
+
+... in Offices
+
+... in Services
+
+... in Insights
+
+Search all results
+
+Our Services
+
+Shaping Successions
+
+CEO Successions
+
+Executive Successions
+
+Board Successions
+
+Chair Successions
+
+Committee Chair Successions
+
+Advancing Governance
+
+Board Review
+
+Board Development
+
+Board Advisory
+
+Building Advisory Boards
+
+Sustainability Board Advisory
+
+Discovering Leaders
+
+CEO Search
+
+Executive Search
+
+Board Search
+
+Advisor Search
+
+Executive Assessment
+
+Developing Leadership
+
+Individual Development
+
+Accelerated Onboarding
+
+Development Planning
+
+Coaching
+
+Team Journey
+
+Unlocking Transformations
+
+Transformational Development Programs
+
+Chair and Board Potential
+
+Executive Breakthrough
+
+Executive Discovery
+
+Transformational CHRO
+
+Voyager
+
+Customized Leadership Immersion
+
+Explorer
+
+Cultural Transformation
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Chief Executive Officers
+
+Founders
+
+Technology Officers
+
+Chief AI, Data & Analytics Officers
+
+Chief Information Officers
+
+Chief Information Security Officers
+
+Chief Product Officers
+
+Chief Technology Officers
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+Consumer
+
+Consumer Products
+
+Media & Entertainment
+
+Restaurants, Leisure and Hospitality
+
+Retail, E-commerce, Apparel and Luxury
+
+Sports
+
+Financial Services
+
+Asset Management
+
+Banking and Markets
+
+Digital Assets, Crypto, & Web 3
+
+FinTech
+
+Infrastructure
+
+Insurance
+
+Private Equity
+
+Retail Financial Services
+
+Risk Management
+
+Sovereign Wealth Funds
+
+Wealth Management
+
+Health
+
+Biopharmaceuticals
+
+Healthcare Delivery & Services
+
+Life Sciences Tools & Pharmaceutical Services
+
+Medical Devices, Diagnostics and Technology
+
+Industrial
+
+Aerospace & Defense
+
+Chemical & Process Industries
+
+Energy
+
+Machinery & Industrial Technology
+
+Mining & Metals
+
+Mobility & Automotive
+
+Public & Social Sector
+
+Arts, Culture & Sports
+
+Economic, Social & Human Development
+
+Education & Research
+
+Environment & Sustainability
+
+Interest Representation & Public Affairs
+
+Public Administration
+
+Public Finance
+
+Public Health
+
+Public Infrastructure
+
+Services
+
+Air Transport
+
+Business Services
+
+Hospitality, Travel & Leisure
+
+Professional Services
+
+Real Estate Services
+
+Transportation & Logistics
+
+Technology & AI
+
+Artificial Intelligence
+
+Communications & Connectivity
+
+Cyber Security
+
+Digital
+
+Enterprise Tech
+
+Internet of Things
+
+Semiconductors
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+Functions
+
+Industries
+
+Meet our Consultants
+
+Discover Insights
+
+Find Offices
+
+About Us
+
+English
+
+Change
+
+Functions
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Industries
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+About Us
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+English
+
+Deutsch
+
+中文
+
+日本語
+
+Technology OfficersCIO Becomes a ‘Yes and’ Role
+
+Technology leaders add more responsibilities to their plates and titles
+
+May 2023
+
+4 mins read
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Many companies are taking a page out of comedy improv playbooks for their digital leaders, taking the typical responsibilities of a Chief Information Officer (CIO) and saying “yes, and” then layering on IT, digital and data. These combinations result in titles such as Chief Digital Information Officers (CDIOs) and Chief Digital Technology Officers (CDTOs), which are on the rise as companies work to embed digital into every aspect of their organizations. However, the expansion of the CIO role has a major impact on the business, altering the structure and effectiveness of teams, affecting the technology talent pipeline and impacting the bottom line, and needs to be carefully thought through.
+
+Is there an ideal role remit and structure for the technology function? We reflected on our work with clients globally and wanted to share some of the key benefits and trade-offs of making your CIO your CDIO or CDTO.
+
+Where Tech Sits in Your Business and Where It Should Sit
+
+Companies are getting to a more advanced stage of digital—there is enhanced governance, more agile strategies, and greater productization, where digital is treated as a product across functions and is a primary driver of profit and loss. Data is at the core of this advancement and needs to be accessible and leveraged across the organization, building the basis for more advanced analytics and AI use cases.
+
+To further embed tech across the organization, a CDIO or CDTO with a seat on the executive committee is critical. This role will interact with the board and ensure that digital technology is embedded across the organization.
+
+It's equally important to consider to whom the CDIO or CDTO reports. Ideally, this would be the CEO or also the COO, depending on the context and company. However, reporting to the CFO is less desirable these days, as reporting into finance sets the perception that digital is a cost center and not a value driver. While the CFO is a critical piece of determining digital investments, that conversation ideally needs to happen with the broader group of the Executive Committee.
+
+Splitting and Combining Technology Functions
+
+For companies that are combining digital, IT and data into a single CDIO or CDTO role, it often helps to have a CDIO for every business unit, who works closely with the business unit lead to align technology functions with business needs.  This combined role structure also enables a single leader to create an overarching technology vision for the company, ensuring digital flows through the entire organization. It also allows disputes between IT and digital are handled by the CDIO or CDTO and do not have to flow upstream to the CEO. This model tends to be the most attractive to top tech talent.
+
+The challenge with combining digital, IT, and data into one role is finding leaders with the right experience, skill sets, and people leadership abilities. Successful CDIOs and CDIOs need to have strong business acumen, influencing skills, be strategic thinkers, and a focus on delivering tangible business results. They should be mini-CEOs, capable of leading and inspiring their teams, building strong partnerships with business units, and staying ahead of emerging technology trends.
+
+Companies that split the technology role among functions, such as a CIO, Chief Digital Officer and Chief Data Officer, may benefit from a more focused approach to each function, with dedicated leaders who can drive innovation and deliver results. These leaders build teams with deep functional expertise, ensuring a hearty bench in each.
+
+However, a split of functions can lead to silos, and a lack of coordination can hinder progress. Multiple leaders and teams can make it more difficult to create a unified digital vision across the company, which can lead to a failure to deliver tangible business results. This type of structure is generally less attractive to external talent who are accustomed to more ownership of the function.
+
+Blurring Tech and Business Lines for Better Outcomes
+
+As the lines between various parts of the tech function—and the business itself—continue to overlap and blur, CDIOs and CDTOs are well-positioned to drive greater organizational transformation. We see the CIO or equivalent tech leader to be a key driver of business strategy. The challenge for executive teams is that they will need to reconcile that while combining these various technology functions means their CDIO or CDTO has a broader array of knowledge and skills, they will still be experientially incomplete. It is impossible for a single leader to know everything in the value chain, and the focus must be on hiring a people leader.
+
+There are several key traits to look for in the human-centric technology leader. You want a leader who is:
+
+An Olympic listener. They listen to the needs of the business and translate the complexity of what needs to be done for technology users.
+
+A storyteller. Your CIO needs to craft a corporate narrative that excites and inspires people. And it’s OK if this narrative doesn’t have an ending yet part of leading in tech means that you don’t always know the end destination, but you are focused on the journey.
+
+Comfortable with ambiguity and complexity. Tech leaders gain the confidence of their peers because they have mastered holding complexity. They can be trusted to sort things out and find a way.
+
+Iterative. A great CIO creates levels of tolerance for failure within stable systems to enable innovation and iterative design.
+
+Topics Related to this Article
+
+Technology
+
+CIO
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Written by
+
+Stay up to date with our latest insights.
+
+Subscribe now
+
+Changing language
+
+You are switching to an alternate language version of the Egon Zehnder website. The page you are currently on does not have a translated version. If you continue, you will be taken to the alternate language home page.
+
+Continue to the                 website
+
+Back to top

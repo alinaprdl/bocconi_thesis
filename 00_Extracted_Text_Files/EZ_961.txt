@@ -1,0 +1,465 @@
+How to Assess CEO Candidates - CEO Net Present Value - Egon Zehnder
+
+Skip to main content
+
+Search for “”
+
+... in Consultants
+
+... in Offices
+
+... in Services
+
+... in Insights
+
+Search all results
+
+Our Services
+
+Shaping Successions
+
+CEO Successions
+
+Executive Successions
+
+Board Successions
+
+Chair Successions
+
+Committee Chair Successions
+
+Advancing Governance
+
+Board Review
+
+Board Development
+
+Board Advisory
+
+Building Advisory Boards
+
+Sustainability Board Advisory
+
+Discovering Leaders
+
+CEO Search
+
+Executive Search
+
+Board Search
+
+Advisor Search
+
+Executive Assessment
+
+Developing Leadership
+
+Individual Development
+
+Accelerated Onboarding
+
+Development Planning
+
+Coaching
+
+Team Journey
+
+Unlocking Transformations
+
+Transformational Development Programs
+
+Chair and Board Potential
+
+Executive Breakthrough
+
+Executive Discovery
+
+Transformational CHRO
+
+Voyager
+
+Customized Leadership Immersion
+
+Explorer
+
+Cultural Transformation
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Chief Executive Officers
+
+Founders
+
+Technology Officers
+
+Chief AI, Data & Analytics Officers
+
+Chief Information Officers
+
+Chief Information Security Officers
+
+Chief Product Officers
+
+Chief Technology Officers
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+Consumer
+
+Consumer Products
+
+Media & Entertainment
+
+Restaurants, Leisure and Hospitality
+
+Retail, E-commerce, Apparel and Luxury
+
+Sports
+
+Financial Services
+
+Asset Management
+
+Banking and Markets
+
+Digital Assets, Crypto, & Web 3
+
+FinTech
+
+Infrastructure
+
+Insurance
+
+Private Equity
+
+Retail Financial Services
+
+Risk Management
+
+Sovereign Wealth Funds
+
+Wealth Management
+
+Health
+
+Biopharmaceuticals
+
+Healthcare Delivery & Services
+
+Life Sciences Tools & Pharmaceutical Services
+
+Medical Devices, Diagnostics and Technology
+
+Industrial
+
+Aerospace & Defense
+
+Chemical & Process Industries
+
+Energy
+
+Machinery & Industrial Technology
+
+Mining & Metals
+
+Mobility & Automotive
+
+Public & Social Sector
+
+Arts, Culture & Sports
+
+Economic, Social & Human Development
+
+Education & Research
+
+Environment & Sustainability
+
+Interest Representation & Public Affairs
+
+Public Administration
+
+Public Finance
+
+Public Health
+
+Public Infrastructure
+
+Services
+
+Air Transport
+
+Business Services
+
+Hospitality, Travel & Leisure
+
+Professional Services
+
+Real Estate Services
+
+Transportation & Logistics
+
+Technology & AI
+
+Artificial Intelligence
+
+Communications & Connectivity
+
+Cyber Security
+
+Digital
+
+Enterprise Tech
+
+Internet of Things
+
+Semiconductors
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+Functions
+
+Industries
+
+Meet our Consultants
+
+Discover Insights
+
+Find Offices
+
+About Us
+
+English
+
+Change
+
+Functions
+
+Board Directors & Chairs
+
+Chief Executive Officers
+
+Inclusive Leadership
+
+CFO & Audit Chair
+
+Technology Officers
+
+Marketing and Sales
+
+Human Resources
+
+Legal, Regulatory & Compliance Professionals
+
+Communications & Public Affairs Officers
+
+Supply Chain & Operations
+
+Sustainability
+
+Industries
+
+Consumer
+
+Financial Services
+
+Health
+
+Private Capital
+
+Family Business Advisory
+
+Industrial
+
+Public & Social Sector
+
+Services
+
+Technology & AI
+
+About Us
+
+Our Board
+
+Join Us
+
+Newsroom
+
+Impact for a Better World
+
+Careers
+
+English
+
+Deutsch
+
+中文
+
+日本語
+
+CEO SearchCEO Net Present Value
+
+How to assess a CEO candidate's potential value
+
+August 2017
+
+8 mins read
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Before a company acquires an expensive new piece of capital equipment, the board will vigorously scrutinize assumptions, payback times and contribution to enterprise value – assigning a net present value.
+
+What if this expensive new piece of equipment is the CEO?
+
+The risks and rewards associated with choosing a CEO exceed those of even major capital expenditures, as the CEO will largely determine the fate of the entire company. In fact, CEO impact on return on assets, return on sales, and market-to-book value has doubled since the 1970s.1 Moreover, there is no recouping the investment in a failed CEO.
+
+Yet boards rarely analyze CEO candidates with the rigor they apply to capital expenditures. Rather, they seek to minimize risk by defaulting to what common sense suggests is a safe choice. Unfortunately, the true risks and limitations of their “safe” choice may surface only after the fact, as the company suffers the consequences – missed opportunities, underperformance, disappointing growth, or even irrelevance. The choice the board thought was least risky actually leads to significant harm.
+
+In his landmark book, Great People Decisions, our colleague Claudio Fernández-Aráoz explained how subconscious tendencies, deeply seated in the human psyche, can derail even the most dutiful and well-intentioned efforts to choose the best candidate: “As a rule, we humans like to stick with the familiar. We talk about finding a ‘good fit’ between the organization and the individual. In many cases, that’s code for hiring a person who represents the comfortable and the familiar. Certainly, familiarity can bring stability to any community. But it can also lead to myopia.”2
+
+In CEO selection, the board can objectively guard against innate human bias and blind spots by applying a form of Net Present Value (NPV) – the classic capital budgeting calculation – to CEO candidates.
+
+CEO Net Present Value
+
+There are substantial parallels between examining a CEO candidate and calculating the NPV of a capital expenditure. Much like a capital equipment investment project, every CEO candidate carries a certain capacity to create value, as well as a bundle of execution risks that might impede actual value creation. Boards can calculate CEO NPV by gauging a CEO candidate’s projected value creation, discounted by his or her leadership risks:
+
+Projected Value Creation is analogous to the numerator representing cash flows found in the classic NPV equation. The CEO NPV denominator – Leadership Risks – anticipates what could limit the value the CEO will actually deliver, and is analogous to the discount rate denominator in traditional NPV.
+
+So how does one define the numerator and denominator to calculate CEO NPV?
+
+Projected value creation
+
+Projected Value Creation depends largely on the CEOs capacity to create a performance culture that permeates the entire company. In a previous work, we examined how companies can create a true high-performance culture.3 Such companies consistently do three things:
+
+Adhere to a performance ethic that combines the ambition to do the unthinkable and the discipline to deliver the nearly impossible
+
+Exercise a passion for renewal in the business, products, the organization and its people
+
+Liberate the right leaders to get on with the business of the company
+
+These keys to creating a high-performance culture provide a sound template for assessing CEO candidates, gauging the correlated leadership strengths and limitations by asking:
+
+Are they fiercely ambitious and rigorously disciplined?
+
+Can they reinvent continually? Do they push the organization into new spaces by disrupting the organization and the industry?
+
+Can they “get out of the way” and let their teams create extraordinary outcomes?
+
+Lou Gerstner was such a leader while driving consistently superior value creation as CEO at Amex, RJR Nabisco, and finally IBM. Another relevant example is Larry Culp, who as CEO at Danaher increased revenues from $4 billion to $20 billion and market cap from $5 billion to $50 billion. As a famed HBS case study describes, Culp created a culture that focused obsessively on performance (embracing kaizen, or continuous improvement, to a level some called “Lean on steroids”) and talent – spending over half his own time on operational and HR issues. Impressively, Culp was able to translate this approach across a host of new acquisitions.
+
+Though very different kinds of leaders, Gerstner and Culp each demonstrated that outstanding value can be created by a CEO who knows how to build a true performance culture. Gerstner showed that such a CEO can succeed even if he lacks certain industry experience traditionally associated with a “safe” choice. And Culp performed brilliantly even though he lacked experience usually deemed necessary for first-time CEOs.
+
+CEOs who exhibit leadership associated with high-potential value creation straddle a series of important paradoxes. They are dreamers with an almost uncanny ability to plan realistically. They can keep the organization on a strong growth path while pivoting daily. They possess an all-encompassing vision, but work strenuously to enable the visions of others. They do not micro-manage, but they are present at the gemba – a Japanese word for “where the action happens” – be it on the shop floor, in the lab, in the stores, or any number of places far from the cushy confines of the C-suite. They are critically important to the businesses they run, but they perceive themselves as part of a larger machine, and acknowledge the importance of the many other parts. They are not driven by power alone but by ambitious excellence, and so are prepared to make a company smaller if that is the best course.
+
+Leadership risks
+
+Conventional wisdom holds that the risk of a CEO appointment bears direct relation to the CEO’s experience base. For instance, CEOs making dramatic transitions across industries or cultures are intuitively presumed to be riskier choices. This way of thinking does carry a certain face validity. Boards have reason to favor candidates who are proven in situations analogous to those the company anticipates. Particular “formative” or “must-have” experiences such as managing a turnaround, launching a new market expansion, or shepherding a merger can yield knowledge and insights that can only be gained by having been there and done that.
+
+However, our work suggests that the risks and limitations of CEO appointment more closely correlate to how an executive processes experiences than on the experiences themselves. Humility and flexibility are especially crucial traits in a CEO.
+
+Humble leaders “know what they don’t know” and are willing to ask for the counsel of others – meaningfully mitigating risk. If you look across many of the great corporate disasters, you will often find at the helm a CEO who lacked the humility to say that they did not understand something, or to admit that they’d made a mistake.
+
+Should anyone hesitate to appoint a CEO with aptitudes and strengths known to drive performance in practically any industry?
+
+Leaders with a high degree of flexibility – ability to change – can make even sharp transitions with grace and aplomb. Flexibility can be considered “part 2” of humility, which allows the CEO to see that change is needed, while flexibility is the willingness to then make that change. If leaders have the right degree of flexibility, this can significantly broaden the impact of their experiences. Leveraging previous learning to do things differently means organizations are not exposed to the risk of redeployment of a previously unsuccessful (or even partly successful) approach. Viewed through this lens, Louis Gerstner’s NPV “discount rate” was fundamentally low, even though he repeatedly led companies in industries where he had little direct experience. Should anyone hesitate to appoint Louis Gerstner, a CEO with aptitudes and strengths known to drive performance in practically any industry? In sum, CEO NPV gauges candidates’ projected value creation in terms of their ability to create a performance culture, “discounted” by gaps in their personal humility, flexibility, and experience:
+
+Certain of a candidate’s potential derailers can likely be mitigated, once they have been brought more fully into view. However, when the analysis reveals an inherent lack of mental flexibility and humility, the board should recognize that such deficits are not easily erased.
+
+Recognizing that humility and flexibility are keys to reducing leadership risks can dramatically change the board’s view of CEO candidates who they previously saw as a “safe pair of hands.” In truth, a CEO candidate who has had a long career at a particular firm may actually be a risky choice if they do not also have the requisite humility and flexibility to shift their approach in the face of a disrupted environment.
+
+Prudent audacity
+
+Should this calculation of CEO projected value be the sole basis for CEO selection? Hardly. But a rigorous analysis of each candidate’s projected value impact can counter the dangers of illusory safety by also allowing a measure of prudent audacity.
+
+To better understand how this CEO NPV methodology might work in the real world, consider the following scenario, illustrated in a graph contrasting the expected trajectories of two CEO candidates.
+
+“Low Risk” CEO is a candidate with ambitions and experience that feel directly on point for the role. Accordingly, his discount rate is lower early on, leading to an initially higher present value. However, “Low Risk” CEO is not particularly agile-minded or open to learning from experience and has a background of solid but middling performance. This substantially limits his upside and elevates his discount rate over time, as the future is bound to bring unprecedented opportunities and challenges.
+
+In contrast, “High NPV” CEO has a higher discount rate early on, as her experience has not prepared her as fully for the role, but those risk factors fall sharply as she gains deep understanding of the business and as her ability to absorb information, rapidly adapt, and execute against ambitious goals all take center stage. The slightly higher risk early in her projected tenure is more than offset by her much higher potential value creation over time. CEO NPV analysis has “flipped the script” on what it means to make a safe choice, because it is now clear that “Low Risk” CEO has the potential to squander a great deal of value while delivering little in the way of added security.
+
+Raise the bar
+
+A CEO is the most complex and consequential asset a company will finance. As such, it is understandable that boards instinctively strive to minimize risk. The NPV analysis described above will often reveal that an unconventional CEO candidate is actually the safe bet.
+
+Most importantly, CEO NPV helps boards raise the bar for CEO performance – and raising the bar is absolutely imperative. In a disrupted world, a new CEO may soon face radically different challenges than those faced by the incumbent. That means the “conservative” candidate may be the most risky choice.
+
+1. Timothy J. Quigley and Donald C. Hambrick, “Has The ‘CEO Effect’ Increased In Recent Decades? A New Explanation For The Great Rise In America’s Attention To Corporate Leaders” Strategic Management Journal (Strat. Mgmt. J., 36: 821–830), Wiley Online Library 2015.
+
+2. Fernández-Aráoz, Claudio Great People Decisions: Why They Matter So Much, Why They are So Hard, and How You Can Master Them Wiley 2007.
+
+3. See “How exceptional companies create a high-performance culture”
+
+Download as PDF:
+
+Topics Related to this Article
+
+CEO
+
+Talent Management
+
+Share
+
+Share on LinkedIn
+
+Share via Email
+
+Written by
+
+Stay up to date with our latest insights.
+
+Subscribe now
+
+Changing language
+
+You are switching to an alternate language version of the Egon Zehnder website. The page you are currently on does not have a translated version. If you continue, you will be taken to the alternate language home page.
+
+Continue to the                 website
+
+Back to top

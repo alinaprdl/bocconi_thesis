@@ -1,0 +1,274 @@
+The AI Skills Your Workforce Needs—and How to Build Them
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+The AI Skills Your Workforce Needs—and How to Build Them
+
+AI readiness starts with your people. Use Korn Ferry’s guide to strengthen the skills that matter most for an AI-ready workforce.
+
+As organizations ramp up AI spending, a crucial question is emerging. Which skills will make this investment pay off?
+
+CEOs and boards have been laser-focused on acquiring technical expertise. They want people who can immediately use the AI tools they’ve invested so heavily in.
+
+But in Korn Ferry’s latest TA Trends survey, 73% of talent acquisition leaders think the bigger challenge lies elsewhere. They believe that, ultimately, AI success will depend less on technical know-how and more on critical thinking and problem-solving.
+
+“The real barriers to AI effectiveness are human, not technical.”Todd Blaskowitz, Korn Ferry Senior Client Partner, AI Strategy and Transformation
+
+“Most organizations have now made significant investments in AI, but many aren’t seeing the returns they expected,” says Korn Ferry’s Todd Blaskowitz. “That’s because the real barriers to AI effectiveness are human, not technical.”
+
+In the short term, it’s understandable that technical skills feel urgent. There’s no point buying an AI platform or tool if no one can use it.
+
+But in the long term, the more important skills are big-picture ones. They’re the skills needed to understand when and how to use AI to deliver on broader business objectives.
+
+At a Glance
+
+The Problem Companies are investing heavily in AI, yet many aren’t seeing ROI because their workforce lacks the skills needed to make it work.
+
+Why It Matters AI increases speed and output, but value comes from how well people and AI work together.
+
+The Solution Build the human capabilities—critical thinking, judgment, and adaptability—that help leaders and teams use AI to drive performance at scale.
+
+Capabilities for an AI-Ready Workforce
+
+We can all see that AI is evolving at breakneck speed. But that’s precisely why hiring purely for tech skills is a losing strategy.
+
+In the past, technical expertise might have been relevant for years. Now, though, the AI platform or functionality needed to deliver competitive advantage today might well be obsolete tomorrow. The reality is that most professionals can learn the mechanics of a new AI platform in days or weeks.
+
+But developing judgment, adaptability, and critical thinking required to apply AI effectively across the business takes years.
+
+“They’re the real skills and capabilities needed for both critical decisions and day-to-day work with AI. Without them, AI investment runs the risk of stalling at the point of execution,” says Korn Ferry Global Vice President for Technology & Transformation, Tanyth Lloyd.
+
+AI Fluency
+
+AI fluency is the ability to apply AI appropriately as tools mature. It starts with basic use and extends to designing workflows, including agentic AI that can execute multistep tasks independently.
+
+As routine work is automated, the human role shifts to setting guardrails, monitoring performance, and adjusting based on feedback.
+
+“AI fluency means owning the outcome, not just operating the tool.”Scott Erker, Solution Architecture and Product Strategy, Korn Ferry
+
+Critical Thinking and Judgment
+
+In an AI-enabled workplace, critical thinking has two parts: analysis and judgment.
+
+Analysis means examining AI outputs and testing their logic and assumptions. Judgment means deciding what action to take based on that analysis.
+
+Both are essential. Some leaders are strong at interpreting data. Others are decisive in action. Leaders and teams who work with AI need to do both.
+
+Adaptive Problem-Solving
+
+Adaptive problem-solving requires taking different approaches when working with AI tools and knowing when human intervention adds more value.
+
+It involves reframing questions, refining prompts, and stepping in when context, ethics, or nuance calls for human judgment.
+
+Change Agility and Learning Agility
+
+Change and learning agility show up when someone willingly stays open to feedback and new ways of working as AI tools evolve.
+
+Because AI capabilities shift quickly, the ability to unlearn and relearn becomes a performance advantage.
+
+Collaboration in Human + AI Workflows
+
+Effective collaboration now includes working alongside agentic AI colleagues.
+
+That means understanding where humans and AI each add the most value and designing workflows with clear roles and accountability.
+
+Change Leadership and Management
+
+Redesigning work between humans and machines requires clear direction and practical guardrails.
+
+Leaders must help teams navigate ambiguity while maintaining trust and responsible use.
+
+How CHROs Can Acquire and Build AI-Readiness Skills
+
+These strategies can help you build a workforce plan that will meet human-AI business needs.
+
+Assess What You Have—and What You Need
+
+As a talent leader, you know you need to redesign work to acquire and build these AI-readiness skills.
+
+To understand which AI skills are needed where in your business, CHROs and talent leaders segment work into four categories.
+
+Human-only workTasks that rely on judgment, empathy, creativity, and leadership.
+Human-led workAI accelerates analysis, but humans make the key decisions.
+AI-led workAI performs the heavy lifting, while humans provide context, oversight, and ethical guidance.
+Autonomous AI workAgentic systems operate independently, with humans focused on governance, risk, and accountability.
+
+But where to start? These questions can help clarify what your business needs:
+
+WHERE in the business is AI already reshaping work today and is most likely to impact it tomorrow?
+WHICH roles, responsibilities, and capabilities are most likely to be affected by AI, and in what way, i.e., lightly (human-led) or significantly (up to autonomous AI agents)?
+WHAT does this mean for workforce design, operating models, and cost structures?
+WHO is already in the role, and who is needed?
+HOW do we address the gaps: build (reskill or upskill), borrow (interim or freelance), buy (hire), and/or bot (AI agents)?
+
+Answering these questions requires a clear view of current capabilities. Assess your project portfolio and delivery pipeline. A robust skills audit reveals not only what skills you have and need, but how well they align to future work.
+
+Be aware
+
+A good audit should expose both individual gaps and systemic risk. For instance, are you over-reliant on a handful of experts? Are critical capabilities concentrated in just one team or region? These patterns can often pose greater risk than isolated skill shortages.
+
+Explore Multiple Talent Strategy Options
+
+Once you’ve pinpointed what you need and where the AI skills gap lies, it’s time to act.
+
+But no single pathway will deliver the answer. Instead, look for a diversified approach using build, buy, borrow, or bot.
+
+Build internal talent
+
+Upskilling for an AI-enabled organization isn’t just about teaching tools. It’s about building critical thinking through real experience—and creating a shared understanding of how AI shapes work and decisions.
+
+Set a clear AI literacy baselineEnsure every employee understands how AI is used, its limits and risks, and what responsible use looks like. Provide deeper, scenario-based training for leaders who interpret AI outputs and make final decisions.
+Build learning into daily workCreate hands-on development paths—project rotations, stretch assignments, and peer learning groups—so employees practice using AI in real situations and build recognized proficiency.
+Invest in mentorship and targeted programsSupport ongoing growth with coaching and focused development initiatives.
+
+“When people understand what AI can and cannot do, they are better equipped to question outputs, spot bias or error, and apply judgment in context. This foundation supports sustained adoption and helps organizations realize the business outcomes they expect from AI investments,” says Blaskowitz.
+
+Buy high-impact capabilities
+
+No organization can build every critical capability internally, particularly as the rapid development of AI means the time available for this is limited.
+
+Strategically focus your hiring approach on high-impact capabilities, such as critical thinking and learning agility, that are harder to build quickly. These hires should act as catalysts, setting new standards for problem-solving and accelerating internal development, rather than simply filling short-term gaps.
+
+Assess for critical thinking skills, not just AI fluencyEvaluate how candidates think, not just what they know. Ask them to work through complex, ambiguous problems. How do they break issues down? How do they test and validate information?
+Prioritize adaptability and a learning mindsetToday’s AI tools won’t be tomorrow’s. Hire people who can adjust quickly and are motivated to keep building new skills.
+
+Borrow expertise
+
+Interim hires, consultants, and specialist providers can bridge capability gaps and help with skills development in the organization. That gives you the agility to adapt quickly without committing to long-term overheads.
+
+Design roles around future-ready capabilitiesPartner with workforce strategy experts to embed critical thinking, judgment, and adaptability into role frameworks. Develop success profiles that link current and future work requirements for roles with the skills and capabilities needed for now and tomorrow.
+Co-create structured upskilling programsPartner with organizational development specialists to build practical, measurable programs aligned to business priorities. Sequence development thoughtfully. High performers with strong learning agility, for example, might benefit from more targeted pathways that shift them into higher-value work quickly.
+
+Bot your way to efficiency
+
+Workforce planning insights can reveal which tasks are repetitive, rules-based, or data-intensive. Those are prime targets for automation.
+
+Automate routine processesDeploy Robotic Process Automation (RPA) bots for data entry, approvals, and reporting, leaving human teams free to focus on coaching and strategic priorities.
+Optimize workforce deploymentUse AI-driven scheduling and resource allocation tools to help balance workloads across teams and ensure you have the right level of staff in the right places when needed. This frees up managers to spend more time developing their people and less time managing schedules.
+Streamline employee supportImplement intelligent virtual assistants to handle routine queries, freeing staff to concentrate on upskilling and capability building.
+
+Be aware
+
+Don’t treat build, buy, borrow, and bot as completely separate fixes. Automation without reskilling can hollow out roles. Hiring without integration can stall impact. Consultants without knowledge transfer leave little behind. Make sure each move strengthens your internal capability rather than just solving a short-term gap.
+
+Build an AI-Ready Culture
+
+Foster the kind of company culture that rewards experimentation with AI. To build confidence and trust, you need to treat all learnings as positives rather than punishing failures. This will allow people to thrive through disruption and encourage innovation with AI as work evolves.
+
+Address fears Acknowledge that we don’t have all the answers, and we’re in a stage of experimentation. By authentically addressing fears, you’ll foster an environment that encourages people to use AI and report on the reality of their experience with it, leading to more positive long-term outcomes for the business and individuals.
+Take focused action Set a clear direction. Move forward with what matters most—and pause or stop what doesn’t. Avoid scattered experimentation.
+Practice, apply, and learnCreate space for teams to test AI in real work. Share what’s working and celebrate progress, even small wins. When results fall short, analyze failure points and capture the lessons, treating mistakes as data to build confidence and strengthen responsible use.
+Develop AI-ready leaders Grow leaders who can set direction, stay curious, and make accountable AI-informed decisions. They should be comfortable with ambiguity and help teams use sound judgment in complex situations.
+
+Be aware
+
+Encouraging experimentation shouldn’t mean a lack of governance. Set clear guardrails for responsible AI use. Without boundaries and accountability, experimentation could turn into inconsistent practices or unmanaged risk.
+
+Address Common Roadblocks
+
+Putting these strategies into practice isn’t straightforward. Most organizations understand what needs to happen but can hit roadblocks when trying to implement the necessary changes.
+
+Reframe success profiles
+
+Often, success profiles have not yet caught up with the human + AI reality. People might be encouraged to support AI initiatives, but they’re still evaluated on traditional output measures that prioritize execution over learning.To move past this, CHROs should explicitly integrate AI readiness into success profiles and development pathways. This ensures people are evaluated and developed against behaviors that matter in an AI era.
+
+Link skills development to business outcomes
+
+As AI reshapes roles, many organizations track training completion or tool rollout—but not whether new skills are improving performance.
+
+Without clear impact measures, skill building stalls at activity, not value. Initial adoption may spike, yet without sustained use and behavior change, AI investments fall short.
+
+CHROs must move beyond participation metrics and tie skills development directly to business outcomes.
+
+Define what success looks like in critical roles
+Set clear KPIs tied to AI adoption and impact
+Ensure leaders and employees alike are accountable for applying new capabilities in their day-to-day work
+
+By embedding these measures into performance management and workforce planning, CHROs can shift skills development from isolated initiatives to a sustained, enterprise-wide capability. This helps ensure human skills scale in step with AI.
+
+Where to Start: Assessing the AI Skills That Matter
+
+Most organizations aren’t struggling with AI because of a lack of tech expertise. They’re struggling because the workforce isn’t being set up for success with the real skills they need to win in the age of AI.
+
+CHROs and talent leaders who act now will move beyond experimentation to sustained advantage.
+
+Want to learn more about how to build an effective skills assessment framework?
+
+Read Our Guide
+​
+
+Related Insights
+
+See All Related Insights
+​
+
+Our Experts
+
+Tanyth Lloyd
+
+Global Vice President, Technology & Transformation
+
+Scott Erker
+
+Senior Client Partner, Solution Architecture and Product Strategy
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Organization Strategy
+
+Talent Acquisition
+
+Recruitment Process Outsourcing
+
+AI-Ready Workforce
+
+AI in the Workplace
+
+Talent Recruitment
+
+Article
+
+Featured Topics
+
+Kornferry RPO
+
+Kornferry6 OS
+
+KF Content Team
+
+BOFU
+
+April 24, 2026
+Insight Articles
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

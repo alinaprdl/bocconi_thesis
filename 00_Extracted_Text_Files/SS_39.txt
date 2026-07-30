@@ -1,0 +1,232 @@
+Tracking tomorrow’s leaders
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Tracking tomorrow’s leaders
+
+Shifting trends across market infrastructure and financial platform businesses
+
+By
+
+Michael Barrington-Hibbert
+
+January 2026
+
+| 7 min read
+
+Author
+
+Michael Barrington-Hibbert
+
+London
+
+SectionsIn this article
+
+Market infrastructure and financial platform businesses are undergoing a profound leadership reset. As securities services, exchanges, clearing houses and digital platforms converge, organisations are increasingly prioritising leaders who can integrate technology, data and client strategy into unified, platform-enabled operating models.
+
+This paper argues that the executives who will succeed in this environment are those who combine operational depth with technological fluency, ecosystem orchestration and cross-functional agility. Drawing on hiring patterns across trading venues, global custodians and digital asset businesses, we identify the traits now shaping senior appointments — and the implications for how boards build future-fit leadership teams.
+
+Our recommendations outline how firms can redesign leadership architectures, invest in hybrid-talent succession pipelines, benchmark data and platform literacy across executive teams and adopt broader, more diverse talent strategies. As platform economics reshape the industry, leadership — more than technology — will determine who captures value in the next decade.
+
+Download
+
+Download
+
+The shifting plates of market infrastructure
+
+For decades, custody, securities and fund services occupied the quiet but indispensable corner of the financial services landscape. Reliable, stable and operationally intensive, they were considered utility-like businesses which generated annuity-style revenues and client loyalty, but were rarely central to strategic agendas. Their role was to safeguard assets, process trades and manage fund administration with efficiency and resilience — not any more.
+
+Today, these functions are increasingly integrated with other market infrastructure sectors such as exchanges, clearing houses and trading venues. Leadership teams across these sectors are being re-engineered to include individuals who can bridge the gap between operations, technology and client experience.
+
+Securities services divisions are now more like technology firms than traditional banks. Instead of vertical silos, organisations form cross-functional squads focused on client journeys and product lines, requiring leaders who are comfortable operating in agile, federated environments. Societe Generale Securities Services (SGSS), for example, has introduced SG Markets, a digital platform which turns multi-source data into real-time dashboards for their clients.
+
+Investment Highlights
+
+$500 million
+
+Savings that BNY Mellon achieved through AI
+and digitisation
+
+$17 million
+
+The 2024 J.P. Morgan investment in areas such as blockchain, settlement pilots and collateral optimisation
+
+$2.4 million
+
+Citigroup’s Q1 2024 technology spend, partnering with Google Cloud to accelerate modernisation
+
+Spencer Stuart Board Index: Snapshot of Financial Services
+
+Among S&P 500 financial service companies (a list that includes Cboe, ICE, Nasdaq, MarketAxess, S&P Global, BNY Mellon, State Street and others), Spencer Stuart found the following board behaviours:
+
+Financial boards are recruiting a different type of director
+Among new independent directors joining financial boards in 2024, only 17% are current or former CEOs, while 43% have specialist financial backgrounds and 17% are functional leaders (risk, technology, finance, etc.), and just 11% are classic P&L line leaders.
+
+Our takeaway: boards of exchanges, custodians and data/platform firms are deliberately tilting away from generic ‘big P&L’ operators toward specialist risk, data and functional expertise.
+
+Boards are structurally heavier and more engaged in this sector
+Financial boards average 11.7 directors vs 10.7 for the S&P 500 overall, and meet 8.5 times per year vs 7.1 for the S&P 500. Their audit, comp and nom/gov committees are all slightly larger and meet more often than in other sectors.
+
+Our takeaway: The governance load around these platforms is already higher than for typical corporates. The new generation of platform-literate leaders will be asked to operate here.
+
+Several structural shifts are fuelling this transformation. T+1 settlement (a system where financial trades are settled one business day after the trade date) compresses operational cycles, forcing alignment between technology, treasury and client functions. The ripple effects of these changes are already evident: a 2025 Citigroup survey identified 76% of market participants are running T+1 projects, with digital assets expected to reach 10% of market turnover by 2030.
+
+Tokenisation and digital asset custody are also redefining safekeeping by requiring blockchain knowledge. And more broadly, cyber resilience, regulatory transparency and AI and analytics are not only board-level imperatives, but also critical enablers for automation and insight-driven service models.
+
+Leading the way: Cross-functional leadership traits
+
+As a result of these changes, the securities services industry now requires leaders who possess a blend of technological fluency, data literacy and strategic foresight. The traditional model, where operational efficiency was the defining measure of success, has given way to an environment that prizes platform enablement, automation and client-centric innovation. As one global head of securities services observed: “clients increasingly see custodians as partners in innovation, not just safe hands”.
+
+Boards are prioritising candidates who can orchestrate ecosystems, manage strategic partnerships and drive innovation across product lines. This is evident in the increasing number of C-Suite hires with backgrounds in digital transformation, fintech and consulting, rather than solely operational expertise.
+
+This repositioning is not just cosmetic. It reflects the convergence of three overlapping forces. Firstly, digital transformation is redefining operating models through AI, blockchain, tokenisation and data-driven platforms. Secondly, client concentration, with 20% of clients often representing 80% of revenues, is pushing firms to tailor solutions for high-impact relationships. And thirdly, there is the issue of leadership scarcity, which reflects the growing demand for executives who combine technological fluency with operational depth and client engagement.
+
+Senior hiring patterns reflect this shift. Searches that once centred on “head of operations” roles are now focused on chief platform officers, heads of digital assets and chief data and product officers. Across the top global custodians, a substantial proportion of new managing director and director appointments since 2022 have been in hybrid or technology-enabled functions.
+
+Take Deutsche Bank, for example. In 2023 a new board-level technology role was created and its hiring patterns shifted towards building a digitally-expert workforce capable of cloud-native, scalable platforms to deliver data-centric services. Its leadership profile now includes cloud/platform architects, data engineers at scale and transformation-focused executives.
+
+Global outlook
+
+North America: Executive hiring shows stable growth in New York and Toronto, with a demand for leaders in digital platforms, product-ops, and data and risk management to unify custody and payments services.
+
+London: Financial services hiring increased by 10% in the first half of 2025, focusing on fintech and compliance roles amidst a demand for ESG leaders and talent with cross-border experience post-Brexit.
+
+APAC: Singapore, Hong Kong, and Sydney are emerging as key hubs for digital custody, with a growing need for regional heads and operations digitisation experts, while India sees increased demand for middle-office leadership in ops and risk.
+
+Middle East: The UAE and Saudi Arabia are heavily investing in digital infrastructure, leading to the hiring of international CIOs and COOs while adopting a talent strategy that values experience and agility over traditional academic backgrounds.
+
+Wanted: a new generation of executives
+
+So what will future securities services leaders look like? It’s a critical question because technology is necessary but not a catch-all solution. Without aligned leadership, governance and culture, platforms fail to achieve adoption or unlock full value. As one head of talent told us: “Leadership is the ultimate differentiator; platforms without governance and culture underperform.”
+
+Across market infrastructure businesses, the archetype of the platform leader is becoming central to C-Suite hiring strategies. With trading venues, exchanges and custodians increasingly recruiting executives with deep experience in digital transformation and platform enablement, there is a broader industry shift towards cross-functional collaboration and technology adoption.
+
+Ten years ago, custody clients wanted safety, scale and simplicity. Today, they expect speed, insight and partnership. A 2024 Northern Trust survey found that 70% of asset managers consider data connectivity and digital reporting as key differentiators, up from 25% in 2014. Back then, a pension fund’s RFP might ask, ‘How do you minimise settlement risk?’ In 2026, the same client would ask, ‘How can your platform’s API integrate directly into our portfolio analytics to give real-time exposure data?’
+
+Being able to answer this question requires vision, storytelling and product empathy — understanding how digital interfaces, analytics and real-time transparency redefine the client relationship. In other words, the ability to move seamlessly between technology, data and client narratives has become a pre-requisite.
+
+Such skills will leave today’s leaders well placed to not only address client demands but also manage large operational teams and curate ecosystems of vendors, APIs and digital interfaces. With firms like Citigroup and HSBC embedding chief data officers within product and client divisions, data monetisation has become a leadership KPI.
+
+Identifying key leadership capabilities
+
+Given that traditional institutions are now competing against fintechs and tech firms, it is perhaps not surprising that the head of HR for a US investment bank told us that compensation benchmarks for platform-aligned managing directors have risen by between 15 and 20% since 2021.
+
+But the reward of more generous compensation only goes to those leaders who can fulfil a growing array of responsibilities. Theirs is now a role under increased scrutiny from regulators and asset owners, one that requires the formulation of ESG-aligned, data-centric strategies and the ability to manage cyber security and digital resilience as top-tier risks.
+
+Global custodians and clearing houses are also seeking talent with backgrounds in fintech, consulting and digital assets, recognising that future growth depends on cross-functional collaboration and technology adoption. This change better enables organisations to respond rapidly to market changes, regulatory developments and evolving client needs.
+
+Agility, too, is vital. Yes, they will have to be able to operate globally while also navigating local regulatory and cultural contexts, but at the same time this mobility extends to working across operations, product and technology. Leaders who can move between disciplines and geography, translating vision into execution, will flourish. And of course, technology literacy and digital fluency is vital. A strong understanding of platforms, tokenisation, cloud, and data strategy in key roles which help future-proof an organisation’s C-Suite.
+
+But what should securities services firms do if they find themselves with an in-house skills gap? The good news is there are plenty of options available.
+
+At the same time as offering targeted learning paths in areas like blockchain, API infrastructure and digital custody, they should also encourage rotational programmes between operations, technology and product. Soft skills development is another priority — especially around agility, communication and change leadership. And while operations leaders should also enhance their knowledge of agile delivery, product thinking and technology, internal innovation labs can also help embed operational talent in transformation projects.
+
+Spencer Stuart C-Suite Index: Snapshot of Financial Services
+
+Spencer Stuart’s 2025 C-suite analysis of the S&P 500 looks at how “platform” talent is actually moving.
+
+The C-suite is still mostly internal, except where digital and data are involved
+Across the S&P 500, 83% of CEOs, 77% of COOs and 72% of CFOs are internal appointments, but for CIOs, 53% are external and more than half (63%) of those external CIOs come from a different industry, mainly technology, media or telecom.
+
+Our takeaway: When companies go shopping for digital/tech leadership, they’re willing to cross industry boundaries. This pattern is echoed in exchanges: custodians and platforms are hiring from Big Tech, data, SaaS and telecoms.
+
+Elevated tenure overall; even higher in Financial Services
+Average tenure in the S&P 500 remains elevated relative to peers in other industries:
+
+S&P 500 tenure by role (years)
+
+Role
+All tenure
+Financial services tenure
+
+CEO
+7.8
+9.8
+
+COO
+3.3
+3.7
+
+CFO
+4.7
+5.9
+
+CIO
+5.2
+5.5
+
+CHRO
+4.6
+5.5
+
+Our takeaway: Stickiness remains important in regulated, capital-intensive businesses. CFO and CIO durations suggest institutional memory and regulatory continuity are prized as cybersecurity and ongoing digitisation become priorities.
+
+The future state of leadership teams (2026–2031)
+
+Over the next five years, leadership teams across market infrastructure and securities services will look fundamentally different from today. The shift towards platform-centric business models, data-driven client solutions and ecosystem partnerships will reshape not only who sits at the executive table, but how leadership itself operates.
+
+Platform led, not function led
+
+By 2030, the typical ExCo will no longer be dominated by traditional roles such as operations, risk and finance. Instead, platform capability will act as the
+organising principle.
+
+We expect to see chief platform officers responsible for client journeys, APIs and digital product portfolios, as well as chief data & AI officers embedded into P&L and client divisions, not enterprise functions. There will also be heads of ecosystem partnerships accountable for fintech, cloud and vendor co-creation and product-technology hybrids replacing siloed operations and IT leadership roles. This marks a transition from functional leadership to platform orchestration, where commercial, technology and client outcomes are inseparable.
+
+“Decision networks,” not hierarchies
+
+Compressed settlement cycles, real-time data and 24/7 digital assets will force leadership groups to operate with faster, distributed decision-making. ExCos will increasingly resemble cross-functional networks rather than tiered committees.
+
+Within five years we expect to see digitally instrumented operating mechanisms (real-time dashboards for risk, liquidity and platform adoption), together with cross-functional “mission teams” replacing central transformation offices. Leaders will also be incentivised on shared KPIs, particularly platform usage and client experience and there will be short-cycle talent rotations that normalise mobility across product, technology and operations. Such shifts will reward executives who navigate ambiguity, influence across boundaries and lead without formal authority.
+
+Cultural fluency and storytelling
+
+As clients demand co-creation, transparency and data integration, leaders must be able to articulate how technology and platform strategy translate into measurable client value.
+
+This will require stronger narrative leadership — the ability to make complex transformation understandable and investable. Client empathy skills will also have to be embedded early in leadership pipelines and leaders will need to be able to combine technical credibility with the ability to mobilise large operational workforces through change. By 2030, communication and cultural adaptability will be as essential as technical skill.
+
+Global by default — and more diverse
+
+With Singapore, the UAE, India and Toronto rising as digital custody and platform hubs, leadership teams will cover more markets, more time zones and more regulatory regimes.
+
+We expect more international executives in regional leadership roles, more cross-border succession benches built around mobility and a meaningful increase in gender, cultural and experiential diversity, driven by the need for broader thinking in faster, platform-driven markets. Diverse leadership teams will become a competitive necessity rather than a cultural aspiration.
+
+Data, resilience and client impact
+
+In five years, the most valued leaders will be those who can demonstrate clear, measurable delivery in platform adoption and usage metrics. They will also need to point to deliverables across client connectivity and digital product penetration, as well as data monetisation outcomes. And cyber resilience and operational integrity, together with the response speed to regulatory change, will also loom large.
+
+Boards will increasingly evaluate leaders through a combination of commercial impact, platform performance and resilience indicators — reflective of a market infrastructure environment where risk and technology are deeply intertwined.
+
+Over the horizon
+
+The next generation of leaders in custody, exchanges, clearing and digital asset platforms will be defined not by their familiarity with legacy processes, but by their ability to navigate transformation with clarity, ambition and cohesion.
+
+Technology will continue to accelerate change — but it is leadership that will determine whether organisations capture value or fall behind. The firms that win will be those that reimagine leadership architecture, cultivate hybrid talent and embed platform, data and client literacy at the heart of executive decision-making.
+As market infrastructure businesses enter a more interconnected, data-driven and client-centric era, leadership is no longer a support function. It is the strategic differentiator.
+
+Author
+
+Michael Barrington-Hibbert
+
+London
+
+Related Insights
+
+Transforming financial data and market infrastructure: Moving beyond technology
+
+September 2025
+
+4 min read
+
+When it comes to the transformation of custody and fund services, leadership and cultural realignment must go hand-in-hand with technological advances, says Michael Barrington-Hibbert.
+
+From fax machines to tokenisation: Leadership in post-trade and securities services providers
+
+September 2025
+
+2 min read
+
+Michael Barrington-Hibbert explains how leadership in post-trade and securities services has shifted from operational mastery to digital innovation and strategic transformation.

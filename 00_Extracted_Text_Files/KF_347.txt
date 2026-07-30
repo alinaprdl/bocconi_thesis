@@ -1,0 +1,256 @@
+Key HR Challenges in Manufacturing’s Digital Transformation
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Organizational Transformation|October 6, 2025
+
+Key HR Challenges in Manufacturing’s Digital Transformation
+
+The future of manufacturing depends on how organizations support their people to adapt, lead, and thrive through digital transformation.
+
+Key takeaways
+
+Why digital transformation fails without a future-ready workforce strategy
+How HR can build digital fluency, cross-functional collaboration, and cultural buy-in
+What it takes to make people, not just technology, the engine of change
+
+Putting People at the Heart of Industrial Transformation
+
+It's a challenging time to be a senior leader in industrial manufacturing. More than in any other sector, these leaders are noting labor skills shortages, and resistance to new technologies, as the most significant challenges right now. But the problem here isn't technology, it's people.
+
+So, what can HR do to make this people problem into a foundation for achieving competitive advantage? Below, we examine four of the most significant human capital challenges hindering digital transformation in the industrial sector, and outline what action is needed for each.
+
+1. Undefined Workforce Strategy
+
+The digital skills gap in manufacturing is growing and urgent. While tech investments are accelerating, many manufacturers lack a clearly defined workforce strategy to match. Roles critical to predictive maintenance, robotics, and advanced analytics are often missing from planning conversations, or not defined with the depth needed to hire or develop against them.
+
+Without a shared plan across operations, HR, and engineering, organizations risk fragmented efforts and missed opportunities to close capability gaps.
+
+Korn Ferry’s recent survey found that 24% of industrial manufacturers ranked “skills for the future” as a top strategic business priority, well above the all-industry average of 18%. That signals growing awareness, but also a need for a more clearly defined strategy.
+
+How to Respond
+
+Make digital skills part of workforce planning.
+
+Manufacturers excel at production planning. But when it comes to people, planning often falls behind.
+
+HR, operations, and IT teams need to work together to spot the digital skills that matter most. These might include data literacy, systems thinking, or human-tech collaboration.
+
+When you build digital capability forecasting into your workforce strategy, you move from simply reacting to change to proactively driving change.
+
+Redesign roles to match the work of today.
+
+Many job roles haven’t kept up with how the work is actually done.
+
+As automation becomes part of everyday operations, roles are evolving fast. A maintenance technician, for example, may now spend more time analyzing sensor data than fixing machines.
+
+Redesigning job architectures helps you set clearer expectations, hire more effectively, and plan smarter for future needs.
+
+Build digital skills from the inside out.
+
+You can’t hire your way out of every skill gap.
+
+Targeted upskilling through hands-on learning, peer coaching, and modular training helps you grow the capabilities you need now and next.
+
+And when employees see that investment, it drives engagement, loyalty, and readiness for what’s ahead.
+
+Strategic takeaway:
+
+The future workforce won’t emerge by chance. It must be planned, trained, and supported—starting now.
+
+Korn Ferry Institute surveyed L&D professionals worldwide and found that skills gaps are growing, especially when it comes to digital skills. Our survey results reveal that employees value professional development more than workplace perks. Organizations that implement structured programs to build future-ready skills are better positioned to retain high-performing talent.
+
+2. Underdeveloped Digital Fluency in HR and Workforce
+
+Most frontline workers still don’t feel confident using digital tools, and that’s holding transformation back.
+
+Too often, tech teams lead the charge while HR and plant leaders are left out of the loop. That disconnect makes it harder to build the behaviors needed for real change.
+
+In industrial manufacturing, hesitation around AI and new technology is more common than in other sectors. Nearly two-thirds of industrial leaders say it’s a challenge. But it's often about unfamiliarity, not unwillingness. People can’t get behind what they don’t understand.
+
+How to Respond
+
+Develop targeted training to improve digital fluency within HR and frontline leadership.
+
+To lead real change, HR teams and frontline supervisors need to understand the tools shaping their day-to-day work, from factory systems and digital dashboards to AI insights.
+
+They don’t need to be tech experts. But they do need to feel confident using digital tools and speaking the same language as their tech teams.
+
+“Digital tools are being introduced at an ever-increasing speed. Leaders with digital fluency will understand what the technology’s impact could be now and in the future, and how it could reinvent the way the organization does business,” says Wolfgang Bauriedel, Korn Ferry Senior Client Partner, Technology & Digital.
+
+HR teams need more than a basic tech overview. They need to know what these tools do, how they affect people, and where they create value.
+
+When plant leaders understand the digital tools around them, they can turn complex plans into practical, people-first actions that actually stick.
+
+Provide frontline supervisors with coaching tools to lead digital adoption.
+
+Frontline supervisors are where change either happens or stalls. Too often, they’re expected to lead through uncertainty without clear support.
+
+Organizations need to give them the tools to talk confidently about new technologies, model what good looks like, and guide their teams through change. That means real support: clear messages to share, hands-on practice for tough conversations, and coaching that helps them lead with confidence.
+
+Embed tech fluency into all leadership development programs.
+
+Leading in a digital world isn’t optional anymore. It’s part of the job. Every leadership development program, from first-time managers to seasoned executives, should help people get comfortable with digital tools, trends, and decisions. That’s how you grow leaders who can adapt quickly and lead with confidence.
+
+HR plays a big role here, too. Its own development needs to evolve, moving from a focus on process to becoming a real driver of change across the business.
+
+Strategic takeaway:
+
+HR must become a digital advocate, not just a support system. Fluency breeds trust, and trust accelerates change.
+
+3. Resistance to Culture Change
+
+Mindsets, not just machines, must evolve.
+
+Culture is often the silent killer of transformation. Even with modern tech, transformation efforts can stall if employees fear change or don’t see a personal role in it.
+
+Industrial manufacturing leaders report elevated challenges related to productivity (27%), flexibility requests (43%), and intergenerational workforce friction (37%), each of which reflects deep-seated cultural undercurrents.
+
+How to Respond
+
+Shift from compliance-based change to co-created transformation.
+
+In many industrial settings, leadership has long been top-down. So, when change shows up as a directive, it can leave people feeling uncertain or even shut out.
+
+When you bring employees into the process, everything shifts. Use pilot programs, focus groups, and open feedback to involve people in shaping how change actually works on the ground. When people have a say, they’re more likely to support the outcome because they helped build it.
+
+Promote psychological safety to allow experimentation and learning.
+
+Change brings uncertainty. Tools can fail. Learning can feel hard.
+
+If you want people to try, fail, and grow, you have to make it safe to do so. Leaders at every level need the skills to create trust: where it’s okay to ask questions, share ideas, and own mistakes.
+
+A real learning culture rewards more than just speed or output. It celebrates curiosity. In high-performing factories, trying something new isn’t a risk. It’s part of the job.
+
+Design learning pathways that span generations, roles, and tenures.
+
+Factory floors bring together all kinds of people, from digital natives just starting out to seasoned experts with decades of experience. Generic training doesn’t work.
+
+Give people learning experiences that meet them where they are. Combine classroom time with mentoring on the floor. Use peer-led sessions and team simulations.
+
+Make sure every worker feels respected for what they know—and supported as they learn something new. That’s how you build a culture where change sticks: when everyone feels seen, valued, and ready to grow.
+
+Strategic takeaway:
+
+Culture is a strategic asset. It requires intentional, people-first leadership to shift.
+
+4. Weak Cross-Functional Collaboration
+
+In many industrial businesses, teams still work in silos, each focused on their own systems, their own goals. That slows down real change.
+
+Digital tools only work when people and processes are connected. But too often, new tech is rolled out without buy-in. Data is gathered but left unused. The result? Transformation feels more like confusion than progress.
+
+While many manufacturers are focused on AI, growth, and new markets, they're also more concerned than other industries about risk, reputation, and sustainability. Tackling those priorities takes more than tech. It takes teams working together, with shared goals and a clear view of the business.
+
+How to Respond
+
+Establish digital transformation teams that bring together HR, IT, engineering, and operations.
+
+Digital transformation won’t work if teams move in different directions. When HR is focused on training, IT rolls out tools, and operations tweaks workflows, all without talking to each other, progress slows.
+
+One way forward? Bring cross-functional teams together to shape change from all sides. Let them test ideas, share feedback, and connect tech rollouts with the real needs of the people using them.
+
+HR belongs at the table from the start, making sure every decision supports not just the system, but the people behind it.
+
+Create shared KPIs that reflect both performance and workforce capability.
+
+Real collaboration doesn’t happen without shared goals. Too often, departments track different things, such as uptime, output, or retention, which pulls them in different directions.
+
+Instead, build measures that reflect both how the business runs and how people thrive. A smart equipment rollout, for example, might be judged by both how often it’s used and how confident employees feel using it.
+
+When success is shared, so is the responsibility to get there.
+
+Ensure HR is a co-architect in every major tech deployment initiative.
+
+Often, HR comes in after key decisions are already made, when the systems are set and the training is locked in. By then, it’s harder to shape the change in ways that work for people.
+
+The better way? HR leaders should engage from the very beginning. When HR helps design the rollout, thinking through how people will learn, adapt, and lead through change, adoption goes up. So does long-term impact.
+
+HR brings something no other function does: deep insight into how people think, feel, and grow. When HR is seen as a true transformation partner, the whole organization moves forward together.
+
+Strategic takeaway:
+
+Transformation cannot happen in silos. Cross-functional integration is a baseline requirement.
+
+‍
+
+Organization Strategy
+
+Change starts with people
+
+Learn more
+
+HR as a Catalyst for Industrial Innovation
+
+Our data clearly shows that companies that prioritize technology alone will struggle to scale and sustain progress.
+
+Technology needs human buy-in. Innovation demands inclusion. Progress depends on the people driving it forward on the shop floor, in the control room, and across every function.
+
+By stepping into a strategic role, HR leaders can help rewire their organization for sustainable transformation as enablers of resilience, growth, and purpose.
+
+Ready to put people at the center of your transformation? Korn Ferry helps industrial organizations match their workforce strategy with digital priorities. From skills forecasting to cultural change, we build the human infrastructure that transformation requires. Contact one of our Industrial Consulting experts today.
+
+Related Capability
+
+Related Capabilities
+
+Organization Strategy
+
+Business Transformation
+
+Recruitment Process Outsourcing
+
+Featured Insights
+
+Gearing Up for Grueling Blackouts
+Are We in a Hiring Bubble?
+Ghost Post: Here Today, Gone Tomorrow
+A Host of New, Nifty AI Work Tools
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Featured Topics
+
+Organizational Transformation
+
+Organization Strategy
+
+Business Transformation
+
+Recruitment Process Outsourcing
+
+Infrastructure
+
+Manufacturing

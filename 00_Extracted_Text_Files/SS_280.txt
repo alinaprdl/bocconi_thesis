@@ -1,0 +1,75 @@
+For the CEO of Fast-Growing OpenText, It’s ‘Always Day One’
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+For the CEO of Fast-Growing OpenText, It’s ‘Always Day One’
+
+An interview with Mark J. Barrenechea, CEO and CTO of OpenText
+
+By
+
+Jason Hancock
+
+April 2023
+
+| 4 min read
+
+Author
+
+Jason Hancock
+
+Stamford
+
+OpenText’s $5.8 billion acquisition of Micro Focus in late January 2023 was the latest in a decade-long string of acquisitions that has allowed the company to become one of the world’s largest information management and security businesses in the world. And it’s yet another transformation for the Waterloo, Ontario-based company, which started more than 30 years ago as the one of the first internet search companies.
+
+“What’s driven our M&A strategy is listening to our customers and their requirements and strategically expanding our addressable market,” said Mark J. Barrenechea (left), who has been OpenText’s CEO since 2012 and also serves as the company’s chief technology officer. “Customer requirements have changed over time, and so have we. We call it total growth — focusing on both our innovation and acquiring so that we can meet the expanding needs of customers.”
+
+To learn more about OpenText’s growth and Barrenechea’s leadership strategy, Spencer Stuart’s Jason Hancock sat with Barrenechea for an interview. Below is an edited summary of the conversation.
+
+Jason Hancock: Your company has grown through many acquisitions over the past 10 years or so. What's driven that strategy? How do you balance risk and opportunity? How do you determine what you’re going to buy vs. what you build?
+
+Mark Barrenechea: The strategy starts with our customers’ and our vision of what information management is. We actually started as a search company, and we have evolved ever since as our customers have come to us with new requirements.
+
+Our playbook for growth is very well defined. We're always learning. We believe in continuous improvement. The playbook says that when we look at a company, it has to fit our strategy, which reduces risk. Is it a cultural fit? Is it customer-centric? Is there high accountability? Is it a goals-oriented culture? Is there innovation? We have a kind of checklist we look for and if it's not there, we'll walk away. We also go into an acquisition modeling everything based on cash, which is sort of unique—we aim to find an optimal zone of return. It’s not like we have to get a certain revenue synergy to make the deal work; if the deal can’t work on a cash basis, then we won’t do it. And so by kind of going through strategy, culture, cash lens, we get it into a profile that says, "Well if we get A, B, and C wrong, we can still get our financial return."
+
+We've actually taken a lot of inspiration from industrial companies like Danaher and other consolidators in the marketplace. We have evolved over the past many years what we call the OpenText Business System, which looks at both organic and acquired growth, and an investment strategy that is focused on fueling growth.
+
+Hancock: As you grow through M&A, how do you compete against private equity right now on anything more than price?
+
+Barrenechea: One word: integration. If we're looking at a company and it's sort of standalone for standalone, to just buy the company based on a financial model, that's not our place. What we use integrate. We bring the power of our product portfolio, we bring the power of our install base, we bring the power of our culture and then we integrate, and that's how we build our value way up.
+
+If we can't integrate, we're not going to be interested. So that's how we compete. Whether it be against a strategic or against a private equity firm is we have to differentiate on our ability to integrate.
+
+Hancock: On top of the acquisitions, the world has brought so much uncertainty and volatility, between pandemic and economic crisis and war. What characterizes this time as a leader? And what is your biggest challenge?
+
+Barrenechea: I think of it as three periods: before, during and after COVID. Before, it was the fourth industrial revolution. During, it was staying close to customers and accelerating your innovation. Today it's talent shortages, it's inflation, it's supply chain disruption and it's security demands going way up. In that final mile of automation supply chains, they don't want to be beholden to a single country or a region, so we’re seeing lot of work of bringing supply chains back to their home markets. We are now seeing commercial companies who forever want Department of Defense-level security.
+
+I think the biggest challenge is, for sure, talent. It's always been a war for talent. The externalities before, during and after COVID, those will continue; whatever it takes to succeed, ultimately it’s a fight for the best people. At the end of the day, what makes great software is great people. Always at the top of my list is making sure across the entire company — from the executive leadership team to the senior leadership team to our frontline managers and to all our valued contributors — that we’re going after the best talent and retaining the best talent.
+
+Hancock: How do you maintain a productive culture amid such disruptive macro events and change?
+
+Barrenechea: Earlier in my career when I started working at Oracle, my goal was to work for a great company, to get paid commensurate to my role, to do good things my job, and to be challenged. And I think those things are still true today for people today. But the requirements talent is asking for today is simply a lot more. They want to work for a purposeful company that’s invested in advancing their career.
+
+Gen Y and Gen Z is going to become the majority of the workforce in the next few years, and they have a different set of requirements. It’s not just working for a great company, but it’s also about being involved in the community itself and helping people.
+
+Our goal is to create a company that an employee wants to spend a whole career with. That may feel like a novel idea today. But we believe that the OpenText way, the OpenText culture, is to create enough paths and to have enough interest in your career success that you would want to spend your whole career with us.
+
+Hancock: Last question: How do you continue to find excitement in your day-to-day role as a CEO?
+
+Barrenechea: I love work. And now I'm a bit of a karma yoga individual, in that I focus on the work, not the fruits. And through the focus on the work and service to others, happiness is not the goal for me. The work is the goal, service is the goal and not the fruit, if you will. Our products are transforming businesses and industries and markets. It is an exciting time to be in technology.
+
+We also have a philosophy internally and we put it right in front of what we do. We have a set of six principles, and number one is excellence over harmony. And number two is, it’s always day one. You have to show up.
+
+I mean, I'm in my 131st quarter, but it's my first quarter. And you’ve truly got to show up with the energy that is always day one and that you're coming in with a fresh perspective, fresh energy, with your best self, and you go after the greatest challenges of that day. We call it the AD1 mindset. If you don't have it, it's going to be a tough week.
+
+Lastly, it is about the amazing talent. Being able to mentor and advance young, curious, highly capable individuals is always the best part of any day.
+
+Author
+
+Jason Hancock
+
+Stamford

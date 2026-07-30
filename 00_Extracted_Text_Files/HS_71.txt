@@ -1,0 +1,257 @@
+CPO focus: Leadership essentials for an AI-enabled HR function | Insights | Heidrick & Struggles
+
+Identified Country:
+
+CPO focus: Leadership essentials for an AI-enabled HR function
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Human Resources Officers CPO focus: Leadership essentials for an AI-enabled HR function
+
+Human resources leaders are at the center of the AI capability gap, responsible for both managing the workforce’s adoption of AI and upskilling themselves and their function. Our work and discussions with seven HR leaders highlight three leadership essentials that can help their peers unlock their AI potential.
+May 21, 2025
+
+Dorothy Badie ,
+Ryan Bulkoski ,
+Christina Cary
+
+Read the full article
+
+AI is reshaping organizations, industries, and functions, and human resources is no exception. HR leaders find themselves at the center of the AI capability gap; they must not only ensure that the workforce adopts AI across their organization but also upskill themselves and drive the AI enablement of the HR function. As we have written elsewhere, HR leaders are well into an evolution of their roles, from back-office operational specialists to full strategic partners—people leaders are having to reinvent both themselves and their functions in real time, and AI is among the significant drivers of that change.1
+
+Within the function, AI is already supporting strategic workforce planning, streamlining recruitment with AI-assisted job descriptions, as well as automated resume screening and candidate sourcing; enhancing onboarding with personalized AI-driven workflows; and improving talent management through data analysis. AI-powered chatbots are handling routine employee queries, while performance management systems are using AI to generate insights and create tailored development plans. By automating administrative tasks, AI frees HR professionals to focus on higher-value work: supporting enterprise-wide transformations, focusing on workforce planning and development, and shaping a culture within the workplace.
+
+Amy Reichanadter, CHRO at Databricks, insisted that successful integration of AI is “not just a skill set issue—it's also a mindset issue.” But HR leaders will also need to overcome a number of concrete challenges to get there, and many don’t know where to start. In order to understand how HR leaders are meeting the challenges of ensuring they and their function can seize all the opportunities AI offers, we spoke to seven HR leaders industries to learn how they are integrating AI into the HR function and what leadership skills are essential for successful integration.
+
+The challenges of integrating AI into the HR function
+
+There are three specific challenges for HR leaders that come with integrating AI into the HR function: maintaining the human touch; data privacy, cybersecurity, and regulations; and managing workforce evolution.
+
+Maintaining the human touch
+
+Adopting AI tools within the human resources function may feel unnatural at first. HR leaders must ensure seamless integration with current workflows while maintaining the human touch that is critical to HR—especially in areas such as conflict resolution, performance management, and hiring and termination. This is made harder by the fact that many HR professionals lack the technical expertise needed to deploy and manage quickly developing AI tools effectively.
+
+Yet another hurdle is the inherent lack of transparency of many AI models—it can be difficult or even impossible for HR professionals to understand decisions made by AI, much less justify those decisions to employees. The misuse of AI for employee and productivity monitoring or sentiment analysis can also be detrimental and lead to perceptions of micromanagement or invasion of privacy. Such lack of trust can diminish a healthy organizational culture.
+
+Ashish Parulekar, director of data science and global head of talent acquisition analytics at Amazon, emphasized the importance of balancing the human touch with technological efficiency: “It is important to understand the critical role of human touch when integrating AI into HR processes. Accepting a new job can be a life-changing experience for candidates. Therefore, building trust with candidates is imperative, and this is where recruiters can excel. Currently, recruiters spend as much as 30–40% of their time on administrative tasks. Agentic AI can help streamline these tasks, freeing up recruiters to focus on more value-added interactions with candidates. Additionally, AI can assist recruiters by matching resumes of millions of candidates to thousands of job openings. This allows recruiters to spend more time engaging with candidates who are better qualified for the role.”
+
+Data privacy, cybersecurity, and regulations
+
+The ethical use of AI to support decisions that affect people is a first concern. Though they are less recent, there are documented cases in which AI systems perpetuate or amplify biases present in their training data, leading to unfair and discriminatory recruiting, hiring, promotions, or employee assessments. As Amazon’s Parulekar notes, “New AI and machine learning technology makes it easier to check if there is bias and minimize it. These technologies have made it easier to create synthetic data, which helps with testing and mitigation.”
+
+Maintaining data privacy and security, as well as compliance with regulations, is a second issue. HR systems host highly sensitive employee data, including personal, financial, and health information. AI systems must comply not only with data protection regulations such as the General Data Protection Regulation (GDPR) or California Consumer Privacy Act (CCPA), but also with labor laws and regulations, which vary by region and can be quite complex.
+
+HR leaders must ensure they are familiar with global regulations surrounding the use of AI, as well as the related risks and who will be held responsible if mistakes are made. They can benefit from maintaining close communication with their company’s legal department.
+
+“People need to develop a clear understanding of what AI is—and what it is not—as well as the ability to discern when it generates meaningful output versus when it produces noise,” said Anand Mehta, CPO at Fivetran. “Equally important is the capability to assess whether the system is functioning as intended—much like a business leader evaluating whether a product reliably delivers on its design and performance criteria.”
+
+Managing workforce evolution
+
+Finally, HR leaders face the challenge of employees’ perceptions and expectations about the impact of AI on their jobs. Employees may view decisions made or recommended by AI as impersonal or unfair, especially when they lead to actions such as layoffs. There is also growing concern that AI may eliminate human roles entirely. Recent research by Accenture found that 58% of workers expressed concern that generative AI is increasing their job insecurity.2 Leaders of all kinds will need to reassure and support the workforce that depends on them, which may be all the more challenging in volatile economic times.
+
+Joseph Plocharczyk, an expert in HR analytics at Warner Bros. Discovery, noted that humans must remain in decision cycles, particularly when other humans could be affected. “If you're using generative AI to make decisions about people, good luck,” he said. “As of right now, it's not there yet. There's a lot of cleaning up that needs to happen first. No one, ethically, should be using generative AI to make any people decisions right now.”
+
+Making the most of AI for their organization, therefore, usually means that HR leaders position its use as a productivity booster for current employees rather than as a replacement for the human element. CPOs have a leading role to play in helping their companies answer some fundamental questions regarding AI: whether to embrace a bottom-up approach or to impose a top-down approach to implementation; how roles will change in response to the support AI offers and how to reshape the organization in response; and how to upskill the workforce.3
+
+Opportunities for success
+
+Despite the challenges it presents, AI can also be instrumental in elevating HR performance, and leaders who can seize the opportunities it presents can fuel the transition to a truly differentiated organization in which HR professionals have sufficient time to focus on strategic activities.
+
+With its ability to process and analyze large datasets, AI can help HR leaders uncover trends, reduce bias, and refine hiring processes. With thoughtful, careful, and skilled implementation, AI can enhance fairness in recruitment, onboarding, performance management, and promotions—leading to a more inclusive and equitable workplace. And they can use it to improve efficiencies across talent acquisition and management; payroll processing, benefits administration, and compliance tracking; and management of documents, contracts, and employee records.
+
+Employee engagement, talent management, and workforce planning
+
+AI workforce-planning tools can enable data-driven decisions by analyzing workforce trends, such as turnover rates, performance patterns, and productivity. Ultimately, AI can help HR leaders design optimal workforce structures based on business goals, expected outcomes, and available talent both internally and externally.
+
+AI can also support talent management by giving leaders deeper insights into employee morale, engagement, and overall sentiment. This enables leaders, in collaboration with HR teams, to proactively address issues and implement improvements as soon as early warning signs emerge. These tools can also help hiring managers tailor benefits packages to individual employee preferences, improving satisfaction.
+
+In addition, AI tools can help align employee goals with organizational objectives by tracking key performance indicators (KPIs) in real time—provided that leaders clearly define organizational and team goals first—ensuring KPIs are tailored to the specific needs of the business and its functions. AI-powered learning systems can create personalized learning paths for employees by analyzing their skills, roles, and career aspirations, identifying leadership potential, and recommending areas for growth and technical development. AI HR tools can also recommend career advancement opportunities or upskilling paths based on an employee’s profile and industry trends.
+
+Talent acquisition and onboarding
+
+When it comes to talent acquisition, thoughtfully designed and carefully monitored AI-powered tools can scan and evaluate resumes efficiently, matching candidates to job descriptions based on skills, experience, and qualifications. AI tools can also predict a candidate’s potential performance or organizational culture impact based on historical data, behavioral patterns, and assessments. AI chatbots can manage routine tasks such as interview scheduling and basic inquiries, freeing up recruiters to focus on strategic candidate engagement.
+
+However, Anand Mehta, CPO at Fivetran, notes, “[When it comes to hiring,] AI will tell you, ‘This person is a better fit for an engineering role versus a product role,’ but not necessarily why that is . . . and often the leaders are not sure what they need. AI is implicitly saying, ‘This is the type of human being you need.’ . . . What a great talent professional will do is dig deeper . . . they can clarify the why and what is needed to really make someone successful.”
+
+For onboarding, AI tools can create tailored schedules and training programs for new hires. AI chatbots can guide new employees through onboarding steps, reducing the burden on HR teams. And finally, AI can monitor new hires’ participation in the onboarding process, providing the function with insights on how to improve the onboarding experience.
+
+Three leadership essentials for HR leaders to unlock their AI potential
+
+Based on our interviews with HR leaders and our ongoing work, we see three leadership essentials HR leaders can use to unlock AI’s full potential: an AI-ownership mindset, a learning mindset coupled with change management skills, and a connecting mindset, both within and outside the organization.
+
+1. An AI-ownership mindset
+
+Guiding AI-enabled organizations and individuals with accountability, fairness, and transparency requires HR leaders to pay heightened attention to the effects of AI recommendations on employees’ rights and well-being. This means first meeting the challenge of maintaining the human touch at the leadership level and, second, ensuring that the leaders involved know enough to ask the right questions.
+
+Dr. Leah Houde, a partner in Heidrick Consulting and a former partner and chief learning officer at PwC, noted the risk of AI in recruitment and hiring: “It makes sense, for example, to screen resumes with AI, but who is reviewing it? Who is making sure that the AI isn't discriminating against certain sets of people?” she asked. “At PwC, we always said, ‘human-led, tech-enabled.’”
+
+“Education is the first key principle,” said Sadie Bell, vice president of Innovation of People Systems, Digital Experience, and Intelligence at Hewlett Packard Enterprise. “You don't need to be able to write an LLM or write code . . . but what you do need to know is how to have discernment, how to ask the right questions, and understand how the information is being pulled together and interpret if it's providing the right output.”
+
+Cindy Bush, CHRO at TMX, summarized the opportunities for HR leaders well: “If you are thinking about strategic HR to help the business perform, then it is mandatory to understand the technology . . . HR leaders are naturally the cultural, ethical, and moral center of the organization; they have to be the custodians of those kinds of things, in partnership with the CEO, the head of legal, and the head of finance, especially in public companies where you are under scrutiny from regulators and others.”
+
+2. A learning mindset—and change-management abilities
+
+Leaning into AI adoption will mean significant change for most organizations. HR leaders must understand and learn what AI can do to help solve complex problems, and be capable of leading through change, navigating both external and internal uncertainty, and ensuring that individuals and broader organizational systems, structures, and processes are prepared for the future.
+
+TMX’s Bush explained that “HR leaders need to have more a more agile mindset than ever to get the best value out of AI and generative AI, [and leverage data and analytics]. They must have the discipline to experiment, ensure they are tracking progress on all initiatives and pilots, and learn from failure in order to make better decisions regarding what to stop or continue.”
+
+“Driving cultural change and determining how to bring the company along with an evolving business strategy is a big responsibility," said Reichanadter, the CPO at Databricks. “Driving digital transformation and having the ‘systems savvy’ will become more important, and a key differentiator.”
+
+Reichanadter also stressed that “the most important thing is you start with something and learn along the way . . . and you can't learn by watching.” Bell at Hewlett Packard Enterprise said it well: “Have an open mind . . . try to use the technology first and think how it can help you personally and then also how it can help your process.” In other words, by starting small and experimenting, HR leaders can reimagine processes and align them more closely with organizational goals.
+
+3. A connecting mindset
+
+There is a delicate balance between pursuing innovation and maintaining stability in an organization; constant change, while necessary, must be sustainable to avoid overwhelming the workforce.
+
+Other work and research by Heidrick & Struggles highlights that connectivity is increasingly essential for leaders and organizations.4 A leader’s ability to connect, person to person, both within and across their organization’s ecosystem, particularly during times of change and transformation, is crucial. These connecting skills help leaders to build trust within their organizations, allowing them to assuage workers’ concerns, for example, about what the integration of AI tools means for them.
+
+And, just as HR leaders often partner with their CEOs to define and shape healthy organizational cultures, when it comes to building a positive and productive culture around AI, HR leaders must be able to connect data from different departments to extract the most out of AI and collaborate across internal and external teams—internally with tech and analytics teams, the C-suite and other functional leaders and externally with outside partners who can provide the right training, insights, and capabilities to accelerate the AI transformation across the enterprise.
+
+Aurélie Nicot, HR director at LOB Travel Allianz Partners, argued that “HR leaders need to look for the right partnerships internally and externally.” Allianz Partners, for example, has begun work with an external partner that uses machine learning technology to support learning and development. Nicot added that “HR teams are partnering with other internal departments, such as the transformation function, to help pilot this initiative aiming at developing a growth mindset in the organization.”
+
+Conclusion
+
+To harness AI's potential and drive impactful change, HR leaders must do more than just adopt the technology—they must also cultivate the necessary leadership skills to help the HR organization embrace the positive changes AI tools can facilitate. The success of AI in HR will hinge on leaders’ ability to navigate its complexities and guide their teams through the transformation while ensuring AI serves both organizational goals and employee needs. HR leaders who are able to rise to the challenge of upskilling both themselves and their teams will best prepare their function and organizations for the future.
+
+Acknowledgments
+
+The authors wish to thank the following executives for sharing their insights: Sadie Bell, vice president, Innovation of People Systems, Digital Experience, and Intelligence, Hewlett Packard Enterprise; Cindy Bush, CHRO, TMX; Anand Mehta, CPO, Fivetran; Aurélie Nicot, HR director, LOB Travel, Allianz Partners; Ashish Parulekar, director of data science, global head of talent acquisition analytics, Amazon; Joseph Plocharczyk, vice president of global talent, technologies, data, and analytics, Warner Bros. Discovery; and Amy Reichanadter, CHRO, Databricks. Their views are personal and do not necessarily represent those of the organizations they are affiliated with.
+
+The authors also wish to thank Heidrick & Struggles’ Dr. Leah Houde for sharing her insights and experience. They also wish to thank our colleagues Jacob Cridland and Julie Fishbach for their contributions to this article.
+
+About the authors
+
+Dorothy Badie (dbadie@heidrick.com) is a client director in Heidrick & Struggles’ New York and Montreal offices and a member of Heidrick Consulting.
+
+Ryan Bulkoski (rbulkoski@heidrick.com) is a partner in the San Francisco office and global head of the Artificial Intelligence, Data & Analytics Practice.
+
+Christina Cary (cbcary@heidrick.com) is partner-in-charge of the Washington, DC, office and a member of the Human Resources Officers and Technology practices.
+
+Dr. Regis Chasse (rchasse@heidrick.com) is a partner in the Washington, DC, office and leads leadership development solutions initiatives for Heidrick Consulting.
+
+References
+
+1 For more on the evolution of the chief people leader role, see Darren Ashby, Emma Burrows, Sandra Pinnavaia, Sharon Sands, Brad Warga, and Jennifer Wilson, “Chief people officer of 2030: Building a tool kit to get from here to there,” February 20, 2025, Heidrick & Struggles.
+
+2 “Work, workforce, workers: Reinvented in the age of generative AI,” January 16, 2024, Accenture.
+
+3 For more on the evolution of the chief people leader role, see Darren Ashby, Emma Burrows, Sandra Pinnavaia, Sharon Sands, Brad Warga, and Jennifer Wilson, “Chief people officer of 2030: Building a tool kit to get from here to there,” February 20, 2025, Heidrick & Struggles.
+
+4 For more on how leaders are leveraging connecting capabilities to help their organizations thrive, see Dr. Regis Chasse, Steven Krupp, and TA Mitchell, “The connecting leader: Five imperatives for leaders today," September 25, 2024, Heidrick & Struggles.
+
+Related Services & Industries
+
+Digital Leadership
+
+Human Resources Officers
+
+Related Content
+
+Leadership Development
+
+Becoming purposeful and performance-driven: A conversation with Jean-Luc Fleurial, EVP and CHRO of UCB
+
+Jean-Luc Fleurial, CHRO of a global pharma company, shares how to become a more effective CHRO and build a purposeful, performance-driven culture.
+
+Human Resources Officers
+
+AI focus | VP of AI Workforce Transformation: The newest addition to senior leadership teams
+
+Companies are starting to hire a dedicated senior leader to convert AI adoption into workforce value. How can CEOs and CHROs decide if they need the role, and what should it look like if they do?
+
+Executive Assessment
+
+Workforce planning: Gaps in pipeline management
+
+Explore our data about rising leadership risk, aligning succession strategies, and how disciplined workforce planning can strengthen long-term performance.
+
+Executive Assessment
+
+Leadership assurance: Elevating learning and development as a strategic driver of workforce planning
+
+Learn how HR leaders can link learning and development to board priorities to strengthen succession, retain key talent, and build future-ready capabilities.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

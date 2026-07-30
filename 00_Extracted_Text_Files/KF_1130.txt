@@ -1,0 +1,133 @@
+Sales technology: 5 trends for CSOs to watch
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+Sales Transformation|May 1, 2022
+
+Sales technology: 5 trends for CSOs to watch
+
+Korn Ferry outlines 5 trends emerging in the use of sales technology today that enable sales performance success for chief sales officers
+
+The need for better sales technology
+
+Few business functions have changed more over the last two years than that of sales. Even before the COVID-19 pandemic, organizations were accelerating their adoption and integration of sales technology to keep pace with changing buyer behavior. But in the wake of the pandemic, buyer behavior changed all over again, forcing organizations to get more insights faster out of their sales data in order to drive sales performance.
+
+But those insights aren’t coming quickly enough for many chief sales officers. Less than 2% of CSOs are very satisfied with their current sales technology stacks, according to data from research firm Gartner. Seven out of 10 chief sales officers plan to increase spending on technology this year to provide more sales tools to sellers.
+
+In many cases, the problem isn’t with the technology or the analytics. The problem is that data isn’t clean, doesn’t make it into the right tools, or the technology isn’t used to assist in sales due to lack of training or adoption issues. For instance, only 30% of sales executives in a recent Korn Ferry study feel that their organizations have a clear data strategy. The quality of an organization’s sales intelligence is key, according to Brandt, who adds: “A data strategy alone won’t make any difference if good data never makes it through the technology and is used to drive action”.
+
+The challenge of maintaining sales talent
+
+There is also a major talent element influencing why organizations are putting so much focus on sales technology. More than half of CSOs report having difficulty retaining sellers, either because sales roles are changing so much that people are leaving the field or because those remaining are so highly in demand that they are being lured away by other more lucrative opportunities.
+
+Organizations need more actionable sales data because fewer sellers available means they need to increase their chances of closing deals quickly. “The question chief sales officers are asking is how can they make their people more productive with data and artificial intelligence,” says Steven Shelgren, a senior client partner in Korn Ferry’s technology and digital practices.
+
+To meet all of today’s sales needs, several trends have emerged in the use and application of sales technology and data. We describe these 5 trends in detail below.
+
+1. Sales enterprise integration through a single platform
+
+Up until now, sales teams have built their tech stacks in isolation. The emphasis now is on aligning sales technology and sales data with marketing, IT, product and human resources. All of these groups have their own data-rich platforms, but none of them are talking to each other, says Shelgren. But with 80% of buyers saying they are more likely to do business with a company that offers personalized experiences, they need to share information in real-time. “CSOs are saying they have to bring the power of the firm to the sales function,” Shelgren says. To highlight this a recent Korn Ferry study of top-performing sales teams found that 96% of them were aligned with marketing and customer service on client wants and needs.
+
+Better enterprise-wide integration through a platform like Korn Ferry’s Intelligence Cloud can help drive sales performance in other ways as well, such as calling in subject matter experts or creating pathways to recruit, retain and develop top talent. “Working collaboratively raises the chances of creating a sales process that is repeatable and scalable,” says Brandt.
+
+2. Faster sales funnels
+
+CSOs are focused on leveraging AI to find out as quickly as possible if they have a chance to win a sale or not. They are seeking digital platforms that can pull in sales data on buying influence, competition, market risk and other criteria to rank sales opportunities, allowing CSOs to maximize scarce human resources for leads they have the best chance of converting. Shelgren says clients are looking to upgrade their predictive analytics to quickly move potential buyers through the sales funnel to close. “It’s about revenue acceleration,” he says.
+
+3. Sales relationship intelligence
+
+One of the biggest priorities for CSOs is figuring out ways to get major clients to do more business with them. Using mapping algorithms, they can match major clients to overlapping or adjacent products and services used by other clients to unlock selling opportunities.
+
+Algorithms can also suggest new clients to pursue based on past characteristics and behavior of existing client groups. Christoffer Ellehuus, president of Korn Ferry Digital, says using data mapping for account-based marketing initiatives can help sellers bundle products and services to increase return on investment from existing clients.
+
+Korn Ferry Talent Suite
+
+HCM software that unlocks the power of your best asset—your people
+
+Learn more
+
+4. Predictive sales coaching
+
+Overloaded sales managers often struggle to find time for coaching. But given the changing expectations of buyers, sales reps need more coaching than ever. That’s where predictive software like Korn Ferry’s Intelligence Cloud can help. By recognizing patterns gathered from multiple data sources, the software can diagnose why a sale was lost and recommend actions managers can take to help guide the seller.
+
+Some sellers are already experimenting with completing sales calls in simulated scenarios, using machine learning to determine what actions to take based on industry, geography and buyer behavior data.
+
+Robert Sparno, a senior client partner in Korn Ferry’s technology and digital practices, says with buyers expecting sellers to take a more consultative approach to their business challenges through sales technology investments, coaching will be critical to winning deals. “Predictive data can help managers more effectively coach sellers and change deal outcomes,” he says.
+
+5. Pricing precision with dynamic sales software
+
+With inflation at its highest point since the 1980s and supply chains still severely disrupted, business leaders are concerned about rising consumer costs. As a result, CSOs are looking closely at the customer, product and transaction levels of sales data to understand how pricing impacts behavior. They are using AI to build dynamic pricing models that can be adjusted in real-time across the organization.
+
+On the B2B side, pricing software can group customers together based on industry, past purchases and other factors so sellers can provide transparency when negotiating deals. With inflation and supply chain disruption expected to continue at least through the rest of 2022, pricing precision will be critical for driving sales performance.
+
+Take action today to improve future sales practices
+
+It’s clear that what organizations need isn’t more sales technology or sales data. What they need are better insights from the technology and data they already have. “There are tons of platforms, but what are CSOs really getting out of them?” asks Ellehuus. These current trends underscore the need for more predictive and actionable insights for sellers so they can better allocate increasingly scarce resources and improve upon sales success.
+
+For more information on predictive sales practices, please contact us.
+
+Related Capability
+
+Related Capabilities
+
+Sales Effectiveness
+
+Talent Suite
+
+Korn Ferry Sell
+
+Featured Insights
+
+The Google Maps of HR
+Leadership for a software-defined everything world
+
+Related Insights
+
+See All Related Insights
+​
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+Featured Topics
+
+Sales Transformation
+
+Sales Effectiveness
+
+Talent Suite
+
+Korn Ferry Sell
+
+Kornferry4 SS
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

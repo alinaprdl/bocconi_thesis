@@ -1,0 +1,75 @@
+The CEO's View on Cybersecurity: Top Lessons from RSA 2018
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+The CEO's View on Cybersecurity: Top Lessons from RSA 2018
+
+By
+
+Michael Dickstein and
+
+Bernhard Kickenweiz
+
+April 2018
+
+| 4 min read
+
+Authors
+
+Michael Dickstein
+
+Seattle
+
+Bernhard Kickenweiz
+
+New York
+
+The last year saw even more cyberattacks, with millions of consumers and businesses affected by everything from the WannaCry ransomware attack to the Equifax and Uber data breaches. Against this backdrop, Spencer Stuart again hosted our annual gathering of chief information security officers (CISOs) and security industry leaders at the RSA Conference in San Francisco. An underlying theme emerged from our conversations with these leaders and many of the sessions: Cybersecurity is so much more than a technology issue. From leadership and culture to boards and organizational structure, here are our top five takeaways for CEOs from RSA 2018.
+
+1. Cybersecurity is a top concern for boards, but many feel unprepared to deal with this risk.
+
+Cybersecurity is the top concern for 61% of directors in our survey of board members of publicly traded companies, yet only 12% of directors listed IT as one of the skills they bring to the boardroom. We also asked corporate secretaries, general counsel and chief governance officers of S&P 500 companies about governance issues and the expertise they wanted in the boardroom. Demand for cybersecurity expertise rose to 23% in 2017 from 19% in 2016. (Read more in the Spencer Stuart U.S. Board Index.) Despite this gap in skills and growing desire for this expertise, 82% of board directors don’t think that separate cyber risk committees are necessary. Instead, the task is sometimes relegated to an often overburdened audit committee. The reality is that cybersecurity is bigger than any one director’s expertise or one committee’s efforts — the board as a whole must become educated about the risks and understand how the organization is prepared to respond.
+
+Discussing the latest cybersecurity trends and challenges at RSA 2018.
+
+2. Diversity is a valuable — but often overlooked — weapon in the cybersecurity arsenal.
+
+The Center for Cyber Safety and Education and (ISC)2 estimate there will be a shortage of 1.8 million information security workers by 2022. Women comprise only 11% of the information security workforce, according to the Center for Cyber Safety and Education and Executive Women’s Forum on Information Security, Risk Management & Privacy. With such a dramatic talent shortage looming and the pervasiveness of threats today, companies cannot afford to overlook entire pools of talent.
+
+The topic of diversity garnered much more attention than at previous RSA conferences. RSA redoubled its efforts to feature diverse keynote and panel speakers after drawing criticism about the lack of women and people of color in the initial lineup. Organizations need to ask themselves: Could we be doing more? Looking at recruitment processes, how they develop women and diverse leaders, and their assessment processes can be a good start. (Read more about what companies and women can do to help close the gender gap.)
+
+3. Understand the role of organizational culture in cybersecurity.
+
+It’s clear that more companies are realizing the importance of creating an organizational culture that is aware of cyber issues. To help do this, CISOs and other tech leaders in the organization should focus on clearly communicating the business risks of a cyberattack versus getting deep into the weeds of technology, which can overwhelm and confuse people. It’s also important to assess how adaptable and open to learning the organization is. In an environment with constantly evolving threats, a culture that combines safety with a learning orientation will become more important. In addition, when we’ve evaluated the individual styles of CISOs, we found that many rank high in learning. Learn more about culture in our recently published piece in Harvard Business Review.
+
+4. Determine what type of data leadership you need.
+
+The convergence of data and analytics with AI create exciting new opportunities for businesses, but also more risk than ever before. Business Insider reported that at least 14 major retailers have been hacked since January 2017. The Facebook/Cambridge Analytica scandal raises important questions about user privacy and will likely have far-reaching implications in the form of new policies and regulations. With IBM estimating cost of a data breach at $3.6 million (not to mention the potential reputational damage) the stakes for data leadership are high. We are working closely with clients to help them define their data leadership roles, including those focused on strategy, technology, or infrastructure management expertise. Whichever type of data leader your organization ultimately selects, he or she will need to partner closely with the CISO to help ensure that safeguards are in place to protect data assets.
+
+5. Rethink how the organization structures the CISO role.
+
+A challenging decision for many organizations is how to structure the chief information security officer (CISO) role, and specifically answer the question: To whom should the CISO report? Boards — and, increasingly, regulators — are asking whether the CISO can remain independent and objectively raise security issues while reporting to the CIO. However, taking cybersecurity out of the IT reporting structure presents its own set of execution risks.
+
+Ultimately, we recommend that organizations structure the role so that cybersecurity is both aligned with IT and independent enough to raise issues with the CEO and board when needed. Regardless of the reporting structure, the most effective CISOs build credibility with the CEO, board and management team, forge a productive relationship with the CIO, and focus the cybersecurity team and broader organization on the real risks to the business.
+
+***
+
+At a time when threats are more pervasive than ever before, it is critical that organizations view cybersecurity holistically, from representation in the C-suite to the boardroom to the overarching organizational culture. We strive to continue to help CEOs and their organizations build the teams they need to address the threats and opportunities of today and tomorrow.
+
+Michael Dickstein recruits senior-level executives for clients ranging from private equity-backed startups to multinational companies and leads many of Spencer Stuart’s searches in the cybersecurity space. He is a member of the Technology, Media & Telecommunications Practice and a leader of the Sales Officer Practice. Reach him via email and follow him on LinkedIn.
+
+Bernhard Kickenweiz specializes in recruiting senior-level executives for technology and telecommunication services clients and leads many of Spencer Stuart’s searches in the cybersecurity space.  He is a member of the Technology, Media & Telecommunications Practice. Reach him via email and follow him on LinkedIn.
+
+Authors
+
+Michael Dickstein
+
+Seattle
+
+Bernhard Kickenweiz
+
+New York

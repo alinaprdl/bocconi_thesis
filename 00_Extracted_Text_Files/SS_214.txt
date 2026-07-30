@@ -1,0 +1,165 @@
+5 Essential Elements of an AI-Ready Corporate Culture
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+5 Essential Elements of an AI-Ready Corporate Culture
+
+By
+
+Emanuela Aureli,
+
+Bernhard Kickenweiz,
+
+Fabio Moioli and
+
+Greg Sedlock
+
+January 2024
+
+| 5 min read
+
+Authors
+
+Emanuela Aureli
+
+London
+
+Bernhard Kickenweiz
+
+New York
+
+Fabio Moioli
+
+Milan
+
+Greg Sedlock
+
+Stamford
+
+SectionsIn this article
+
+Key findings
+
+In AI-ready organizations, the most common culture styles are learning and purpose.
+
+Simply giving employees the freedom to innovate isn't enough unless combined with a structured, data-driven approach.
+
+It's critical to have a culture attuned to AI’s ethical risks, and a willingness to have hard conversations about its potential impact.
+
+The most AI-ready organizations don't just accept failure; they embrace it as a vital part of the learning process.
+
+The recent buzz around AI has brought a great deal of hope and excitement to organizations, particularly in the last few years. However, reflecting on the progress of other “digital transformations” over the past many years should give executives reason to pause. For example, one 2021 study on big data showed that while corporate investment in data and AI had continued its yearslong rise, various metrics actually showed a decline in the success of those investments.
+
+Why are companies still struggling to get the most out of these investments? A variety of factors are at play, from unclear corporate strategy and organizational structures to a lack of the right skills and outdated internal processes. In this piece, we are going to look at one other critical piece of the AI puzzle: culture. The companies leading the AI revolution are those with corporate cultures that enable their people to innovate, test and develop AI-driven solutions.
+
+Below we examine five elements of an AI-ready culture.
+
+1. Innovation-driven cultures, underpinned by learning and purpose
+
+Spencer Stuart’s Culture Alignment Framework points to eight primary culture styles common in organizations, based on two factors: independence vs. interdependence in terms of its people, and flexibility vs. stability when confronting change. Of those eight styles, learning and purpose stand out as the two styles most common in AI-ready organizations.
+
+Purpose is exemplified by idealism and altruism, places where people try do good for the long-term future of the world, where leaders emphasize shared ideals and contributing to a greater cause. Learning is about exploration, expansiveness, creativity — open-minded workplaces where people are united by curiosity and leaders emphasize innovation, knowledge and adventure.
+
+Quote
+
+Learning and purpose cultures stand out as the two styles most common in AI-ready organizations.”
+
+Those descriptions resonate when looking at the AI stalwarts, where learning-focused cultures married with a sense of a higher purpose have driven the whole experience. Microsoft, for example, embraces “growth mindset” as the basis of its culture: “We start by becoming learners in all things — having a growth mindset,” the company writes on its Careers site. In cultures like this, you experiment, you accept failures and you always try to improve.
+
+For these cultures, innovation is in the DNA. For example, look at Google, which famously gives its employees time to experiment with ideas outside of their formal duties. It’s not uncommon to see the company unveil new ideas that sprung from that free time.
+
+2. A structured, data-driven approach
+
+Simply giving employees free time to experiment won’t amount to progress unless combined with a structured, data-driven approach. The top innovators balance learning cultures with a focus that ensures everything is measured and backed by data. At Amazon Web Services (AWS), for example, companywide presenters are required to submit a written document to fellow employees that demonstrates the data backing of any assertions in the presentation, at which they will be expected to face questions about any of those assertions. The point is that at AI-ready cultures, exemplary presentation skills or a slickly produced document only matter up to the point that they are backed by data. This focus shifts the emphasis from style to substance, encouraging deeper, more thoughtful innovation. Any assertions are expected to withstand rigorous questioning. This aspect of the culture serves two purposes: It encourages people to thoroughly prepare and understand their data, and it also cultivates a workplace where critical thinking and skepticism are valued as much as creativity.
+
+Quote
+
+Simply giving employees free time to experiment won’t amount to progress unless combined with a structured, data-driven approach.”
+
+Innovation in this context is thus seen as an iterative process. Ideas are proposed, backed by data, questioned and then refined based on feedback and further data analysis. It’s a continuous cycle that ensures ideas are not just novel but are continuously improved and aligned with the company's goals and the market reality.
+
+In such cultures, it's crucial that the outcome of every innovative endeavor is measured. This not only helps in assessing the success or failure of a project but also provides valuable data for future projects. It ensures that the company learns from each experiment, regardless of its outcome.
+
+3. Consideration of the ethics of AI
+
+As AI expands boundaries and opens new doors, there are understandably many concerns about what it will mean for society; after all, prognosticators and sci-fi writers have been pondering these consequences for decades.
+
+For companies at the forefront of the AI revolution, it’s critical to have a culture attuned to AI’s ethical risks, along with an ability and willingness to have the hard conversations about what it will mean for their company and for society. How will AI be used? How do you address transparency concerns? Are you monitoring whether AI is encouraging or hampering inclusivity and diversity? These are questions that the leading AI companies are not afraid to either ask or answer. This is clearly a vast topic that requires a dedicated post on its own to touch on all of its important points.
+
+4. A tolerance for risk
+
+This may sound contradictory compared to the previous point, but risk tolerance is not about overlooking all risks or, alternatively, accepting unacceptable ones. Smart organizations never take risks when it comes to ethics, including issues related to compliance, legal integrity and moral responsibility; ethical failure compromises the organization’s core values and public trust. But they do accept — and even encourage — entrepreneurial risks when it comes to experimentation, new tools and markets, product innovation, and unconventional business strategies. It’s not about failing faster but, rather, about learning faster from your failures. It's necessary for growth and adaptation in a rapidly changing business environment.
+
+Providing your people “psychological safety” is a key component of smart risk tolerance. This concept, popularized by Amy Edmondson of Harvard Business School, refers to an atmosphere where employees feel safe to take risks, voice their opinions and admit mistakes without fear of punishment or humiliation. Psychologically safe cultures encourage experimentation and learning from failures, crucial for innovation and continuous improvement. They don't just accept failure; they embrace it as a vital part of the learning process. The approach involves analyzing mistakes, understanding their causes and using these insights to improve future strategies and processes. It's about building a resilient and adaptive organization that grows through its challenges.
+
+Quote
+
+Smart organizations never take risks when it comes to ethics. But they do accept — and even encourage — risks related to experimentation and new tools, markets and strategies.”
+
+Smart risk tolerance also involves a careful risk-reward evaluation. This means not jumping into every opportunity that presents itself, but rather assessing which risks are worth taking in light of the potential benefits. This strategic approach to risk-taking ensures that the organization doesn't become reckless but remains dynamic and forward-thinking. In such organizations, employees at all levels are encouraged to take initiative and think creatively. They are given the autonomy to make decisions and experiment within their areas of expertise. However, this empowerment also comes with the responsibility to consider the implications of their actions and to learn from outcomes, whether successful or not.
+
+Often, smart risk tolerance is aligned with long-term perspective. It recognizes that true innovation and significant organizational improvements often require time to develop and may involve setbacks along the way. This long-term view allows for patience in the face of challenges and prioritizes sustainable growth over short-term gains.
+
+At the end of the day, smart risk tolerance in organizations is a multi-faceted approach that balances ethical integrity with entrepreneurial agility, encourages a culture of learning and safety, and focuses on long-term, sustainable growth. It's about creating an environment where risks are taken wisely, failures are used as stepping stones for improvement, and employees are empowered to contribute innovatively.
+
+5. Fostering collaboration and cross-functional teams
+
+AI initiatives require a blend of diverse skills and perspectives, from technical expertise in data science and engineering to domain-specific knowledge and business acumen. Encouraging collaboration across different departments and teams ensures an environment where innovative ideas are shared, different viewpoints are considered and holistic solutions are developed.
+
+In collaborative cultures, employees from various disciplines are encouraged to work together on AI projects, breaking down silos that traditionally separate technical and non-technical departments. This ensures that AI solutions are not just technically sound but also align with the company's strategic objectives and address real business needs. For instance, cross-functional teams at companies like IBM and Salesforce have been pivotal in developing innovative AI solutions tied closely to customer needs and business strategies.
+
+Additionally, fostering collaboration helps develop a shared understanding of AI across the organization. This is crucial for demystifying AI and making it more accessible to all employees, regardless of their technical background. As a result, it can accelerate the adoption of AI, as more employees become comfortable working with and contributing to AI initiatives.
+
+Ultimately, collaborative, cross-functional environments lead to more inclusive cultures that are better aligned with broader organizational goals. In terms of AI, this ensures a well-rounded approach that considers various aspects from technical feasibility to ethical implications to business impact.
+
+• • •
+
+At the end of the day, an AI-ready culture starts at the top. Leadership — the CEO, the rest of the C-suite and the board — must believe both in the potential of AI, and in doing it right. This means not only having the processes, strategy and infrastructure to support it, but a culture and that encourages people to experiment, learn and grow along with the technology.
+
+Authors
+
+Emanuela Aureli
+
+London
+
+Bernhard Kickenweiz
+
+New York
+
+Fabio Moioli
+
+Milan
+
+Greg Sedlock
+
+Stamford
+
+Related Insights
+
+Navigating digital turbulence: a guide for leaders
+
+5 min read
+
+We consider what tech leaders can do to ensure their teams and organisations survive and thrive through an era of permanent change.
+
+How Boards Can Accelerate Their Learning Curve in AI and Cybersecurity
+
+5 min read
+
+We recently brought together governance committee chairs and leaders in cybersecurity and AI to discuss how boards can be better prepared to provide oversight on these key areas.
+
+CEOs: How to lead with AI instead of letting AI lead you
+
+4 min read
+
+CEOs must determine how artificial intelligence fits into the business — or risk falling behind.
+
+How AI Can Empower CHROs
+
+2 min read
+
+A strong and strategic CHRO can enable AI to free up time to be creative and entrepreneurial, and keep the relational “human” in HR and people functions.

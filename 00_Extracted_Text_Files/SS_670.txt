@@ -1,0 +1,127 @@
+How Audit Committees Are Responding to Risk and Business Changes
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+How Audit Committees Are Responding to Risk and Business Changes
+
+By
+
+Karen D. Quint and
+
+Joel von Ranson
+
+September 2017
+
+| 8 min read
+
+Authors
+
+Karen D. Quint
+
+San Francisco
+
+Joel von Ranson
+
+New York
+
+If the Sarbanes-Oxley Act placed the audit committee under the spotlight when it was passed 15 years ago, regulatory pressures, a trend toward more corporate accountability and transparency, and a growing array of risks are keeping it there.
+
+In an evolving risk and regulatory landscape, demands on audit committees and audit chairs continue to grow. To learn more, we spoke recently with audit committee chairs and members about how business and regulatory changes are impacting the audit committee, how committees are responding and the implications for committee composition.
+
+Increased scrutiny, more risk, greater time commitment
+
+While the results of the last U.S. presidential election raised hopes for regulatory relief, audit chairs don’t expect the broad momentum toward more accountability, transparency and scrutiny to abate. Fueled by investor expectations about disclosure and governance, and more rigorous oversight of auditors by the Public Company Accounting Oversight Board (PCAOB), committees are spending even more time on audit details and control issues.
+
+“Each group is now being overseen in a much more detailed way, and that has increased the time demands on the entire audit committee. It’s also increased the accountability and the responsibility of the chair,” said Caroline Dorsa, audit committee chair for Biogen and Intellia Therapeutics, audit committee member for Illumina and former CFO of Public Service Enterprise Group. “The chair has to have offline conversations more frequently with the CFO, with the head of internal audit, with the outside auditors.”
+
+A major focus, too, for audit committee chairs are the required 302 and 404 certifications related to the accuracy of the company’s financial reporting and the adequacy of internal accounting controls. Deficiencies must be identified and remediated to avoid having to report a material weakness. “The audit committee and I give a great deal of thought and attention to internal controls over financial reporting, specifically focusing on what can be done to reduce the likelihood of significant deficiencies or material weaknesses,” said Greg Norden, chair of the Zoetis audit committee and former Wyeth CFO. “Companies are complicated. There are hundreds and, in some very large complex organizations, thousands of controls requiring people across the globe to do their jobs every single day.”
+
+Then, there is the risk oversight. Fraud and cyber are two areas of risk that have bubbled to the top of the list of concerns for many audit committee chairs.
+
+Collusion-oriented fraud can evade even the best internal controls and oversight processes, said Dorsa, so it’s critical to ensure that the corporate culture encourages people to speak up about problems and that those who do aren’t punished. The challenge for the audit committee, however, is that it has limited ability to directly impact the culture. “You rely on management to create that culture. That’s probably the single biggest thing that we need; yet we as board members cannot directly create the culture,” said Dorsa. Fraud reviews also are adding to the audit committee’s workload. “Fraud is taken very seriously on my committees. We spend time at every meeting discussing hotline calls that have occurred since the last meeting, and annually do an overall review of the number and types of claims over the last three years. And we go deeper than what the committee is required to do, because we think that helps us get a better sense of the tone and culture,” said Sherry Smith, a member of the board audit committee for Deere & Company, Piper Jaffray and Realogy, and former CFO of Supervalu.
+
+With fresh reports about corporate or government cyber breaches occurring regularly, cyber risk weighs on every audit committee. Adding to the challenge, IT systems and cybersecurity are moving faster than anyone can keep up with, and few boards include cyber experts who could help ensure directors are asking the right questions. “How does the audit committee make sure the company has the expertise to deal with all the cyberattacks that go on day-in and day-out? How do we make sure that we have enough expertise to be able to constantly challenge management, make sure they are making the right amount of investment and that they have response plans in place in case of an attack, and play a role in helping management look further out?” said Paul Reilly, member of the Assurant audit committee and former executive vice president of Arrow Electronics. These issues are demanding a greater share of the audit committee’s time, as directors struggle to balance this important new area of risk with other priorities.
+
+How does the audit committee make sure the company has the expertise to deal with all the cyberattacks that go on day-in and day-out?
+
+Paul Reilly
+
+Member, Assurant audit committee
+
+All of this adds up to a lot of time for the audit committee and, especially, the audit committee chair. Meetings run long — typically longer than any other board committee — and the between-meeting workload is growing: it can include providing feedback from executive sessions, planning the next meeting agenda, following up on various topics with the CFO, controller, external auditor and others.
+
+How much is too much?
+
+With so much on their plates today, we wondered whether audit committees will move to restructure or hand off certain responsibilities to other committees. Risk committees still aren’t the norm: Our 2017 U.S. Spencer Stuart Board Index, which analyzes the composition and practices of S&P 500 boards, found that just 11 percent of boards have established a risk committee, and only 6 percent have a legal and compliance committee. Still, the heavy workload has some audit committees considering options.
+
+“Especially in light of the emerging risks related to cyber, we found that our meetings were getting longer and more complex, and the workload was increasing to the point that some members were feeling it may be difficult to adequately cover everything in a meeting,” said Carol Tomé, chair of the United Parcel Service audit committee and CFO of Home Depot. Ultimately, the board decided to create a risk committee. Even though she personally worried about separating risk from the financial oversight work of the audit committee, she feels the board came up with a strong solution, and directors are confident they’re appropriately managing the risks in the right committees. “You have to have the willingness to step up and say, ‘Hey, we need to rethink how we’re doing this.’”
+
+The McKesson board took a different approach, evaluating all the risks and assigning them to the appropriate committee or deciding to address them annually at the board’s off-site planning meeting, said Marie Knowles, chair of the McKesson audit committee and former CFO of Atlantic Richfield Company. “Cybersecurity, for example, goes to the entire board once a year for a 30,000-foot view, but the audit committee focuses on it several more times a year.”
+
+Gaining confidence: How audit committees get comfortable with the data
+
+Given their weighty responsibility — signing off on the financial reporting and oversight of internal controls and risk — we asked audit chairs and members what proactive steps they take to get comfortable with the data provided by management.
+
+Things are changing fast in the corporate environment and you really need to know what’s happening. A sitting or recent CFO knows exactly what’s going on in the PCAOB and where the auditors are being pressured. They know what kinds of questions to ask.
+
+Caroline Dorsa
+
+Audit committee chair, Biogen and Intellia Theraputics
+
+Feeling confident about the reporting largely comes down to spending a lot of time with management and the external auditors, audit chairs said. During audit committee meetings themselves, directors can assess the strength of the team and the information being presented by observing executives in action: Are they transparent? How in-depth is their understanding of processes? Are they open and responsive to the committee’s questions and ideas? Evasiveness or a lack of cooperation with audit committee suggestions can make committee members nervous. “It’s more art than science,” said Reilly. “What’s the depth of this person? Are they giving us answers with enough substance to them?”
+
+Audit committee chairs said they also regularly meet with the head of internal audit, the CFO and outside auditors before and after meetings, and as needed with other members of management, including the controller, tax officer and chief legal counsel. “The audit partner is on auto-dial,” said Knowles. Her approach is to talk to multiple people to hear differing views. “If you take advantage of getting that different perspective, you can put together a picture that makes you much more comfortable that you understand the whole.”
+
+Being visible to the broader audit and compliance team is also important, allowing audit committee members to create connections deeper in the organization and sending a message to compliance teams that what they do is important and they don’t have to fear the audit committee.
+
+Dorsa likes to meet the people involved when there is an internal audit finding, a practice she saw work to positive effect when she was in corporate management. “That sends a few messages. One, it tells them how important the audit committee thinks their responsibilities of control and compliance are — they are everybody’s responsibility, not just the CFO and head of compliance,” she said. “It also gives the audit committee a chance to hear what that organization is doing and to reinforce for that organization how something like internal audit findings can be helpful — if they are corrected.”
+
+Audit committee composition: What’s the right mix?
+
+What’s the ideal combination of experience for the audit committee? Who should serve as chair? These are common questions we hear from our clients.
+
+While boards often express an interest in getting a sitting or recently retired CEO to serve as an audit committee financial expert, it’s an unlikely outcome. Much more often, boards will select a sitting or recently retired CFO, who tend to be more interested and willing to be on the audit committee and serve as future audit chair.
+
+The 2017 U.S. Spencer Stuart Board Index found that 32 percent of S&P 500 audit committee chairs are active/retired financial executives, including CFOs and treasurers, an increase from 13 percent in 2007. Retired CEOs, chairmen, presidents and COOs make up the next largest source, accounting for 27 percent of audit committee chairs, and 11 percent are retired public accounting executives. Just 6 percent of S&P 500 audit committee chairs are fully employed/active CEOs, chairs, presidents and COOs, compared with 18 percent a decade ago.
+
+The audit committee chairs we interviewed said they favor a mix of perspectives on the committee, including directors with current finance experience, corporate management experience and even non-finance executives who bring broad business knowledge or risk experience.
+
+“Things are changing fast in the corporate environment and you really need to know what’s happening. A sitting or recent CFO knows exactly what’s going on in the PCAOB and where the auditors are being pressured. They know what kinds of questions to ask because they know what kinds of questions the auditors are asking them on the inside,” said Dorsa. Similarly, sitting CFOs are likely to have more current knowledge about cyber systems controls and ERP system controls, so they can ask better questions about potential vulnerabilities.
+
+Furthermore, sitting or recently retired CFOs bring corporate management experience. They recognize the difference between the small errors that can happen and the issues that may signal a bigger problem. Audit committees need to know the difference, so they clear the decks of the small things to leave time to do a deep dive into the important issues. “Sitting CFOs understand where to push and where not to, and where to express concerns and where not to,” said Tomé.
+
+Often, the largest challenge is the time commitment. “The workload can be significant, especially for the chairperson,” said Norden. “I read every word of every important regulatory filing. The entire audit committee feels that responsibility and we work hard to ensure the filings are accurate and fairly portray the information presented. It can sometimes be time-consuming, but we believe it is important work to do.” That time commitment may be more than most sitting CFOs can commit to, especially since the peak time demands tend to fall at the same time as the demands of their full-time CFO role.
+
+Recently retired finance executives can provide many of the same benefits — the recency of their knowledge, the corporate management experience — while being able to devote more time to the role. The challenge is to ensure they keep their knowledge current through consistent audit committee service, ongoing director education and involvement with organizations such as the NACD or audit committee chair forums.
+
+“The natural inclination is that it requires more effort and diligence to stay current once you are out of the day-to-day operations of running a business. I do strongly believe, though, you can be a very effective board member and committee chair for a long time if you’re willing to work at it and make an effort to stay current,” said Norden.
+
+And, of course, a highly engaged, very experienced director can be an important contributor for many years. “Ultimately, it’s the smarts and the experience of the person that make the best board members, more than how long they’ve been out of the work force,” Tomé said.
+
+Nor does every member of the audit committee have to be a financial expert. A director with general business experience or a unique perspective, say a former district attorney, may be less comfortable with the technical finance issues but can raise different questions or issues that turn out to be valuable. “Where I may take something for granted because of my experience, a director with different experience may ask a question that causes me to think about the issue differently. I think that’s a pretty healthy balance,” said Smith.
+
+Why they do it
+
+Despite the growing responsibilities and time commitment of audit committee service, the audit committee members we spoke with truly value the experience of serving. Especially rewarding, they say, is the opportunity to connect with other directors, contribute to the business, and interact with management and the auditors.
+
+Authors
+
+Adam Kovach(Stamford), Karen Quint(San Francisco) and Joel von Ranson(New York) are members of the Spencer Stuart North American Financial Officer Practice.
+
+Download
+
+Download
+
+Authors
+
+Karen D. Quint
+
+San Francisco
+
+Joel von Ranson
+
+New York

@@ -1,0 +1,243 @@
+Digital readiness in Nordic boardrooms: The case for well-rounded digital acumen | Insights | Heidrick & Struggles
+
+Identified Country:
+
+Digital readiness in Nordic boardrooms: The case for well-rounded digital acumen
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+CEO & Board of Directors Digital readiness in Nordic boardrooms: The case for well-rounded digital acumen
+
+The demand for digital savviness on Nordic boards is growing rapidly as technology continues to transform how business is done. Our latest analysis shows that Nordic companies are increasing their digital focus and range of competencies, but limited cybersecurity skills on the board could put organizations at risk.
+June 18, 2025
+
+Adrian Nagy ,
+Daniel Sjostrom ,
+Walter Swanljung
+
+Women with digital skills still feature prominently
+
+One of the key findings from our 2021 analysis was that, overall, Nordic directors with digital capabilities were more often women than men. Women continue to play a prominent role in our new analysis.
+
+However, the evolution of gender balance in digital expertise diverged: while Danish and Finnish companies’ boards saw a small increase in the share of directors with digital skill sets who were women, Sweden has seen a steep decrease, of 20 percentage points—this despite the overall number of board members with digital competencies increasing 10 percentage points since 2021.
+
+With technology and AI rapidly evolving, more and more companies are bolstering their technological and digital expertise in the boardroom. Each board member now needs to be digitally fluent to some degree to guide business strategy, oversee management, and ensure accountability and compliance.
+
+Boards today recognize—and understand—how technology affects all aspects of business. As one chair put it: “Digital feels like an old word today, but it’s all you do.”
+
+We spoke with three board chairs, one each from Denmark, Finland, and Sweden, to understand how digital requirements and expectations of board members are changing in the Nordic region. Combined with our second analysis of the digital competencies of boards in those three countries,1 this article explores the progress boards have made in adding digital capabilities, what digital competencies boards need now, and how boards can secure the expertise they need.
+
+A rise in strategic relevance, but incremental progress on digital capabilities in the boardroom
+
+Our analysis of boards in Nordic countries shows that their focus on digital and technology topics has only increased since our first study, in 2021.
+
+Another recent Heidrick & Struggles study found similar results. A survey of CEOs and board members shows that the share of Nordic board members who say they have increased time spent on emerging technology and AI topics compared to before the pandemic is often notably above global and European averages.2 For example, 83% of Danish and 82% of Finnish boards members say they are spending more time on technology and AI, versus the global average of 71%; there are similar trends for cyberrisks.
+
+To explore whether the rise in the strategic relevance of these topics has been matched by an increase in technology proficiency at the board level, we analyzed the digital capabilities of boards of the 205 largest companies in Denmark, Finland, and Sweden, and compared these results to our 2021 findings.
+
+Overall, the results indicate incremental progress. Sweden saw the biggest increase in company progression, with 59% of organizations in our study having at least one board member with digital capabilities, up from 49% previously. Finland retains the highest share of boards with digital skill sets, showing an uptick to 68% from 63%. This may be a reflection of the Finnish population’s high levels of digital literacy and the government’s ambitious national digital policies, potentially making it easier to find board members with good technology skills.3 Denmark closely lags behind Sweden at 54%, up from 47%.
+
+On the whole, boards increased technical and operational expertise, and digital industry experience in all three countries.
+
+Well-rounded digital fluency at board level is a critical competitive advantage that boards are missing
+
+The chairs we talked to say digital skill sets are essential to their ability to make decisions in today’s business environment.
+
+The chairs we spoke with agreed that it's usually best practice to have a range of digital capabilities. As one chair pointed out: “It’s important to have different digital competencies on board to cover your bases. For instance, you might need someone with deep expertise in infrastructure or cybersecurity, and someone else with a strong entrepreneurial background who understands digital transformation, business development, products, and AI.” However, our research shows that this is a critical gap for many Nordic boards: overall, only 32% of the Nordic boards in our study have both digital and technical expertise in their boardrooms: 28% in Denmark, 29% in Sweden, and 44% in Finland.
+
+In addition, the chairs we talked to feel cybersecurity is a vital area where boards could boost their knowledge. They reiterated that cybersecurity continues to be of significant concern for both directors and executives (other Heidrick & Struggles work has found the same is true globally4). “This is a critical issue, as cyberattacks double almost every year, and the situation has become even worse since the start of the war in Ukraine,” said one chair. “Hybrid threats are also a challenge. It is very important to increase vigilance, and it is on our board’s agenda for every meeting.”
+
+However, despite increasing cybersecurity risks, cyber experience remains alarmingly low across all three countries. Denmark’s share of companies with a board director with cyber experience is 13%, while neither Finland nor Sweden had any board members with this expertise.
+
+AI is a relatively new addition to the board agenda but has already become a strategic priority for many companies—with good reason. One chair explained: “AI brings a lot of challenges for us. But in Europe, productivity is lagging, and we could seek an efficiency and productivity leap through AI.”
+
+Indeed, AI is seen as a key competitive advantage by many companies: “The financial services sector has invested a lot into IT and AI. This poses a challenge for smaller players with fewer resources in the sector,” one chair noted. The chair also believes business leaders and investors—private equity in particular—have recognized the need to stay on top in technology and are fast-tracking hiring the AI expertise they need. “Private equity and other business leaders are done waiting and are now very proactive in finding people with the right competencies. Today, most businesses need an AI strategy and they need to think about how to get ahead of the curve and implement AI in their business operations and products,” another chair emphasized.5
+
+The rapid emergence of AI should prompt boards to consider how to bolster their expertise in this area as well.
+
+Looking forward: Bridging the gap for digital readiness
+
+Boards have increased the time they spend discussing topics influenced by technology, but for robust conversations and effective decision-making to take place, it’s critical that directors have a minimum threshold of digital knowledge. Our survey shows that in Denmark and Sweden, boards have a bigger task ahead of them to get to that level than those in Finland, particularly when it comes to making sure they have both the industry and technical expertise needed.
+
+Historically, companies in all three countries have focused on finding directors with digital industry experience; people who brought broad views about technology adoption and building digitally adept cultures. Now that the talent pool of executives who have worked in technology companies or have led digital transformations has increased over the past twenty years, the search for executives with more diverse technical background should in theory be relatively easier.
+
+To find the missing skill sets they require, companies should tap into a broader, more diverse talent pool. The chairs we talked to saw diversity in board composition, beyond gender, as a benefit to their board effectiveness. As one chair explained: “Think about it as a team sport, where everyone needs to bring a certain skill or area of focus. Gender, race, and nationality are valuable core indicators when thinking about a diverse board composition, but so is upbringing, educational background and professional experience.”
+
+Despite the general positive shifts in the digital arena of Nordic boards, members still have very limited experience in cybersecurity and AI, even though they are spending more time discussing the topics. For both areas, expertise often needs to combine technical depth with regulatory compliance (such as the General Data Protection Regulation in Europe) and organizational change.6
+
+Nowadays, many companies expect all their board members to be able to contribute to decisions on a wide spectrum of topics rather than rely on single-issue experts. As one chair explained, “cyber and AI should not be standalone topics; they should be integrated into broader strategic conversations.”
+
+But standalone conversations are important, too. Some boards have formed specific committees to create the space for in-depth discussions around technology. One chair said: “We created a tech and digital committee where areas such as cybersecurity and AI can have enough time dedicated to them.” Our research reveals that other boards include these two topics within the remit of the risk or audit committee instead.
+
+Advisory boards can be particularly useful for areas that need highly specialized expertise or to boost competency in areas that are lacking. A previous Heidrick & Struggles survey found, for example, that chief information security officers generally think having a cyber advisory board is the right solution for their board, ahead of adding directors with cyber and AI expertise.7
+
+Such advisory boards need not be permanent; one chair we talked to saw them as a temporary solution, useful for addressing a phase or defined issue: “There are advisory board concepts that can be relevant in the early stages of a digital initiative, the development, or in the build-up phase.”
+
+While advisory boards are more commonly made up of external specialists, some companies are experimenting with shadow advisory boards that bring in experts from within their own organizations.
+
+Another tactic commonly used is bringing in external experts, often consultants, to advise the board as a whole. One chair told us: “Each board is trying to do its own thing. We have quarterly follow-ups with the cyber team; we bring in experts when needed and rely on a third-party understanding of what gaps we have and how to address them. It’s probably not enough, but a lot is being done.”
+
+Conclusion
+
+Digital capabilities’ requirements have spread from the IT function to the boardroom. Board members now need to be able to understand how technology and AI influence business strategy and decisions, as well as the opportunity and threat they can pose to company performance
+
+The share of Nordic companies’ boards with such competencies has increased gradually over the past three years, with expertise growing in assessing and deploying technology to help guide strategic decision-making. Yet cybersecurity in particular still needs attention across all the Nordic countries.
+
+Boards that recognize their competency gaps and move quickly to fill them, whether through new hires, advisory boards, or external experts, may be best placed to steer their organizations safely and successful through the next wave of technological change.
+
+Acknowledgements
+
+The authors wish to thank the following executives for their insights. Their views are personal and do not necessarily represent those of the companies they are affiliated with.
+
+Torben Munch
+Chairman of the board, DigitalRoute
+Chairman of the board, Stibo Software group A/S
+
+Henrik Rättzén
+Chairman of the board, Alektum Group
+Chairman of the board, Brandkontoret
+
+Robin Lindahl
+CEO, Aurora Infrastructure
+Chairman of the board, Säästöpankkiryhmä
+
+About the authors
+
+Adrian Nagy (anagy@heidrick.com) is a partner in Heidrick & Struggles’ Copenhagen office and a member of the global Technology & Services and Financial Officers practices.
+
+Daniel Sjöström (dsjostrom@heidrick.com) is a partner in the Stockholm office and a member of the global Technology & Services Practice.
+
+Walter Swanljung (wswanljung@heidrick.com) is a partner in the Helsinki office and a member of the global Technology, Financial Officers, Industrial, and Financial Services practices.
+
+References
+
+1 The first analysis was published in 2021. See Peter Christiansen, “Digital readiness in Nordic boards,” Heidrick & Struggles, 2021, heidrick.com.
+
+2 Heidrick and Struggles’ Board Monitor 2024 survey, Spring 2024.
+
+3 “Finland: A snapshot of digital skills,” Digital Skills and Jobs Platform, June 14, 2022, digital-skills-jobs.europa.eu.
+
+4 “CEO and board confidence monitor 2025: Persistent concerns, pockets of increased confidence,” Heidrick & Struggles, February 5, 2025, heidrick.com.
+
+5 This is true globally as well. See Ryan Bulkoski and Austin Cowan, “A new strategic imperative in private equity: The AI operating partner,” Heidrick & Struggles, March 21, 2025, heidrick.com.
+
+6 The General Data Protection Regulation (GDPR) is a European Union law that aims to give people more control of their personal information and to standardize data privacy laws across Europe. For more information, see gdpr.eu.
+
+7 Matt Aiello, Marie McGinnis, Max Randria, Guy Shaul, Scott Thompson, and Karthik Vedagiri, 2024 Global Chief Information Security Officer Organization and Compensation Survey, Heidrick & Struggles, October 9, 2024, heidrick.com.
+
+Related Services & Industries
+
+CEO & Board of Directors
+
+Digital Leadership
+
+Related Content
+
+Chief Executive Officer
+
+Route to the Top Europe 2026 | Companies are seeking experienced CEOs—but that isn’t enough
+
+As geopolitical and economic volatility accelerate and technological disruption intensifies, European boards that align CEO development with a broad range of strategic scenarios will be better positioned to navigate disruption, implement fundamental changes, and sustain performance.
+
+Chief Executive Officer
+
+Route to the Top US 2026 | Closing the CEO capability gap
+
+Fortune 500 companies are increasingly appointing new CEOs who have prior experience in the role. However, a new survey finds that more than a third of US companies still don’t have a CEO with the capabilities the company needs to succeed in the near term. Some companies are planning their CEO successions more comprehensively and seeing greater success.
+
+Boards & Governance
+
+Board Monitor US 2026 | Future-focused boards: Linking renewal, alignment, and performance
+
+Fortune 500 boards have recently placed a larger focus operational expertise and prior board experience. Some boards are finding effective ways to balance short- and long-term considerations—and overseeing stronger performance than others.
+
+CEO & Board of Directors
+
+2026 CEO & Board Confidence Monitor: Explore the data
+
+Explore the results of our third annual global survey of CEOs and board members by market, industry, ownership structure, and company size.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

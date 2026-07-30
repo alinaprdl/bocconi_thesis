@@ -1,0 +1,181 @@
+AI focus: How boards are finding expertise to chart the unknown | Insights | Heidrick & Struggles
+
+Identified Country:
+
+AI focus: How boards are finding expertise to chart the unknown
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Frontier Tech AI focus: How boards are finding expertise to chart the unknown
+
+As AI continues to reshape the world, the need for specialist expertise in the boardroom is becoming more pressing. Boards around the world are taking several steps to plug their growing AI knowledge gap.
+November 13, 2025
+
+Ryan Bulkoski
+
+Open the PDF
+
+Artificial intelligence (AI) and how to make the most of its opportunities while mitigating its risks is now an ever-present agenda item for boards and executives. It is central to strategy, growth, and leadership conversations. But very often, boards are ill-equipped to grapple with either the opportunities or the risks, given the uncharted nature of AI and boards’ own ongoing uncertainty about how to find the knowledge they need, not only about AI but also about a wide range of emerging topics.1
+
+Our conversations with board members around the world indicate a few common steps boards are taking to find the expertise they need to oversee AI investment, set meaningful metrics for return on that investment, such as improved productivity or product or service innovation, and ensure risk mitigation.
+
+AI is climbing up the boardroom agenda—but there’s still a knowledge gap
+
+In 2024, a survey of CEOs and board members found that nearly three-quarters were spending somewhat or significantly more time on emerging technologies—including AI—compared to pre-Covid-19 levels. While this is encouraging, leaders also reported that more than half of their time was taken up with traditional oversight responsibilities, and only 9% was devoted to technology.2 Indeed, many directors didn’t think they were spending enough time on AI. Nearly a third (30%) said their board is not spending enough time, and 11% admitted they didn’t spend time on it at all.
+
+Though most boards have increased their focus over the past year, a survey of AI and data officers found that only 38% said their board mostly or to a large extent has the knowledge to respond effectively to presentations on AI and machine learning.3 Further, a 2025 survey found that at the operational level, both risk and opportunity are scaling slowly; only 13% said their company’s AI and security compliance capabilities were fully implemented and scaling, while only 18% can move a proof of concept to production in less than three months. This suggests that limited board and leadership understanding may be slowing adoption in a market moving far faster—and that boards that build expertise quickly can support their companies in moving faster.4
+
+Still, as one director we spoke with put it, “Most boards don’t really know what to make of AI,” particularly its governance. As AI becomes embedded in most companies’ operations, too many boards don’t have the knowledge to ask relevant questions about the investments most likely to boost the top or bottom line—whether in technologies, product or service development, new hires, training, or M&A—or to identify and implement governance structures to mitigate major risks.
+
+Why building knowledge is tricky
+
+How to fill this knowledge gap is therefore a real challenge for boards today. A scarcity of AI and data specialists available to join boards is of course a major concern. Even when boards do find a suitable expert, the speed at which AI capabilities are advancing means their expertise may be quickly outdated. There is also the question of whether boards should add a singular AI expert. On one hand, a peer on the board can serve as a translator between other AI experts and directors, ensuring that relevant questions get answered. But on a small board, for example, having a member whose sole way to add value is through AI can make it harder for the board to maintain the breadth of expertise needed to meet its myriad other responsibilities. And in the longer term, concentrating this knowledge in one seat can be counterproductive; as AI becomes embedded in every part of a business, every director will need at least a baseline understanding of the technology. Relying on a single expert risks letting others off the hook—and limits the effectiveness of the board.
+
+Governance and regulatory uncertainty surrounding AI only adds to boards’ concerns. Many directors worry that AI is evolving faster than regulations can keep up, leaving boards with responsibility for self-governance but without clear legislative direction or guardrails.
+
+This concern is only amplified when accounting for environmental and energy considerations. While this theme is more dominant in some markets than others, some board members we have spoken with acknowledge that the energy requirements of data centers will drive significant demand for power, raising difficult questions about sustainability, and adding to the complexity of deciding what expertise is needed and how to find it.
+
+Trying many tactics
+
+Boards are adopting a mix of approaches to find—and develop—the AI expertise they need.
+
+First, many are focused on building the knowledge of existing directors. Some directors we spoke with highlighted the importance of their executive team’s role in educating the board, which includes requiring board chairs to allocate sufficient time for deep dives into what companies are doing and why. One director noted that making an AI-specific acquisition added significant technical expertise to the executive team that the board could naturally call on. Another director noted that he is working with a corporate-governance nonprofit to develop a course for directors, and that his board will take it once it’s formally in place.
+
+Engaging external consultants or establishing an advisory committee, rather than making permanent board appointments, is a common approach. Given the pace at which AI is evolving, both offer a practical way to ensure access to the most up to date expertise and get around the challenge of finding board-ready candidates with comparable knowledge. These arrangements can also result in permanent appointments further down the line as boards determine what expertise matters most.
+
+Boards that are seeking non-executive directors with AI and data expertise are casting a wide net, often looking beyond their traditional geographies. One director we spoke with advocated finding directors with expertise in launching AI applications, rather than only theoretical expertise. Another noted the importance of culture changes required to make the most of AI, an area where boards have a meaningful oversight role and where experience overseeing change in practice is important.
+
+Perhaps more than previous technology waves, AI presents notable risks alongside tremendous potential. These risks represent uncharted territory for boards, but many are now investing effort and resources into finding and developing the expertise and processes they need—and these boards are the ones that will likely best position themselves to shape this era of innovation.
+
+About the author
+
+Ryan Bulkoski (rbulkoski@heidrick.com) is the global head of the Artificial Intelligence, Data & Analytics Practice; he is based in the San Francisco office.
+
+References
+
+1 Jeremy C. Hanson, Ron Soonieus, David Young, and Sonia Tatar, “The role of the board in the sustainability era,” Heidrick & Struggles, July 10, 2023, Heidrick.com; Heidrick & Struggles, “CEO and board confidence monitor 2025: Persistent concerns, pockets of increased confidence,” Heidrick & Struggles, February 5, 2025, heidrick.com.
+
+2 Heidrick & Struggles, “Board Monitor US 2024 | Navigating shifting sands: Six ways boards are reshaping their processes to thrive now,” Heidrick & Struggles, May 20, 2024, heidrick.com.
+
+3 Ryan Bulkoski, Brittany Gregory, and Frédéric Groussolles, “2024 Global Data, Analytics, and Artificial Intelligence Executive Organization and Compensation Survey,” Heidrick & Struggles, October 9, 2024, heidrick.com.
+
+4 2025 Heidrick & Struggles survey of AI, data, and analytics officers.
+
+Related Services & Industries
+
+AI & Technology Officers
+
+Board Effectiveness
+
+Frontier Tech
+
+Related Content
+
+Human Resources Officers
+
+AI focus | VP of AI Workforce Transformation: The newest addition to senior leadership teams
+
+Companies are starting to hire a dedicated senior leader to convert AI adoption into workforce value. How can CEOs and CHROs decide if they need the role, and what should it look like if they do?
+
+Frontier Tech
+
+Finding the human core of competitive advantage in the AI era: Avoiding the Pygmalion trap
+
+As effective leadership becomes the most reliable source of value in the AI era, and as AI becomes ever more capable, leaders must understand why leadership itself remains a uniquely human capability.
+
+Frontier Tech
+
+2025 Global Chief Information Security Officer Compensation Survey
+
+Our sixth annual global survey of CISOs reveals how CISOs’ pay, reporting lines, and AI mandates are evolving as cybersecurity becomes a CEO-level, enterprise-wide priority.
+
+Frontier Tech
+
+2025 Data, Analytics, and Artificial Intelligence Officers Compensation Survey
+
+Our fifth annual report examines compensation for executives with artificial intelligence or data analytics responsibilities.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

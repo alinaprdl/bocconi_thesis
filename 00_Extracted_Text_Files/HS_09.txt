@@ -1,0 +1,229 @@
+AI focus | VP of AI Workforce Transformation: The newest addition to senior leadership teams | Insights | Heidrick & Struggles
+
+Identified Country:
+
+AI focus | VP of AI Workforce Transformation: The newest addition to senior leadership teams
+
+Share Copy to clipboard LinkedIn X (Twitter) Facebook
+
+Open PDF
+
+Human Resources Officers AI focus | VP of AI Workforce Transformation: The newest addition to senior leadership teams
+
+Companies are starting to hire a dedicated senior leader to convert AI adoption into workforce value. How can CEOs and CHROs decide if they need the role, and what should it look like if they do?
+May 14, 2026
+
+Brian Kropp ,
+Jennifer Wilson ,
+Brad Warga ,
+Ryan Bulkoski
+
+Download the full insight
+Open the PDF
+
+AI is often described as a stack of enabling layers: energy, chips, infrastructure, models, and applications. This framing helps explain how AI is built and scaled, but the current set of layers does not capture how AI translates into meaningful enterprise value. An additional layer—one that is less clearly defined—is leadership: the intentional redesign of jobs, skills, management routines, incentives, governance, and trust so that AI meaningfully changes how work gets done and how organizations perform over time.1
+
+AI in the workplace still feels new, but many organizations are now several years into their AI journeys and have made substantial investments in tools, platforms, and use cases. Despite this progress, the path to consistent, scalable value creation remains uneven overall. Some organizations are seeing encouraging early results; others find themselves in “pilot purgatory,” with fragmented initiatives that are difficult to scale.
+
+Much of this variability has little to do with the technology itself. Instead, it reflects how organizations are structuring their adoption and use of AI. Too often, AI adoption within an organization becomes a responsibility that no one and everyone owns. Today, responsibility for AI adoption is often distributed across multiple functions. Technology teams focus on building and deploying solutions. Business units prioritize use cases tied to immediate operational needs. HR supports elements such as skills, hiring, and employee experience. However, the most complex and consequential questions—how AI leads to sustainable performance improvements, and, to get there, how roles evolve, how work is redesigned, and how managers lead—do not sit neatly within any single function. Decisions about automation versus augmentation, changes in spans of control, and the evolution of managerial responsibilities often require input from multiple stakeholders.
+
+Organizations are beginning to recognize this, and to ask themselves: How do we best structure our executive teams to accelerate AI adoption and impact?
+
+Many organizations are turning to CHROs to lead on AI adoption. Our research shows that more than half of CEOs now involve their CHRO in AI-related workforce transformation efforts. However, CHROs already carry a broad set of responsibilities, often have limited direct AI experience, and may not have the capacity to drive this agenda end-to-end.
+
+One emerging approach we have seen companies take is the creation of a new senior role dedicated to translating AI investments into productivity gains, capability building, and sustainable performance improvements. While the role can take different forms, many organizations are gravitating toward titles such as Vice President of AI Workforce Transformation. Below, we explore how organizations are shaping this role and offer considerations for those weighing if this approach is right for them.
+
+Too often, AI adoption within an organization becomes a responsibility that no one and everyone owns. Today, responsibility for AI adoption is often distributed across multiple functions.
+
+Article companion
+
+View the position specifications and key responsibilities of this potential role.
+Download the PDF
+
+Why a VP of AI Workforce Transformation may be the right move
+
+AI adoption requires intentional, cross-functional leadership. Organizations increasingly recognize the need to redesign jobs, skills, management routines, incentives, governance, and trust mechanisms so that AI meaningfully changes how work gets done and how the organization performs over time.
+
+The creation of a VP of AI Workforce Transformation represents one way to bring focused leadership to this effort. Positioned within HR but working in close partnership with technology, finance, and business leaders, the VP of AI Workforce Transformation helps coordinate and align cross-functional efforts. But beyond that, the role sets the organization’s AI adoption agenda: redesigning skills, management routines, incentives, governance, and trust mechanisms so that AI meaningfully changes how work gets done and how the organization performs over time.
+
+The primary value of this role lies in providing dedicated capacity to focus on workforce transformation, complementing the broader responsibilities of the CHRO.
+
+What the VP of AI Workforce Transformation could own
+
+For organizations that choose to establish this role, the VP of AI Workforce Transformation can provide a focal point for several areas that often suffer from lack of coordination.
+
+One area is work redesign at scale. Many organizations are investing in AI tools but are still in the early stages of systematically rethinking how work is structured to take advantage of those tools. A dedicated leader can bring greater consistency and rigor to decisions about which tasks should be automated, which should be augmented, and how roles should evolve over time.
+
+Another area is workforce planning and capability development. As AI reshapes demand for skills and roles, organizations can benefit from more integrated approaches to forecasting, reskilling, and redeployment, linking workforce planning more closely to business strategy and technology investments.
+
+Adoption and trust are also critical. AI adoption depends not only on access to tools but on how employees and managers integrate those tools into their daily work. Providing clarity, support, and transparency plays a significant role in enabling that transition. The VP of AI Workforce Transformation, by virtue of their dedicated role and cross-functional oversight, is well placed to provide that clarity.
+
+In addition, the person in this role can contribute to governance and risk management, particularly as AI becomes more embedded in workforce decision-making. Questions related to fairness, explainability, and human oversight often intersect with employee experience and organizational culture, again lending itself to the type of cross-functional remit that this role would hold.
+
+Finally, the VP of AI Workforce Transformation can support the evolution of HR itself, aligning capabilities across talent acquisition, learning, analytics, and business partnering to drive a more integrated transformation agenda.
+
+The six questions to evaluate if this role is right for your organization
+
+Do we have clear ownership and a single point of accountability for AI-driven workforce transformation, or are we relying on distributed coordination across leaders?
+Is our operating model across HR, IT, and the business enabling flexible experimentation at scale, or is fragmentation creating friction, inconsistency, and slower turnaround times?
+Are we intentionally redesigning work, roles, and workflows for an AI-enabled organization, or are we mainly layering AI onto existing structures and letting change evolve organically?
+Where is the real bottleneck to value creation today—technology maturity, leadership bandwidth, workforce readiness, or cross-functional coordination—and what does that imply for our leadership and governance model?
+Are we moving from pilots to scale with a repeatable approach and clear visibility into how tasks, roles, and productivity are changing, or are we limited to isolated successes and hidden shifts in work?
+If we introduced a dedicated leader for AI-driven workforce transformation, how would we give them the authority, sponsorship, and time horizon to materially change our trajectory? Could strengthening existing roles or governance realistically achieve the same outcome?
+
+First-year priorities and measures of progress
+
+In organizations that introduce this role, early efforts focus on a small number of high-impact initiatives. For example, the VP can identify areas where AI has the potential to materially improve performance and work with business leaders to redesign work in those areas.
+
+Other priorities include building a clearer understanding of how roles and skills are evolving and establishing guiding principles for human–AI collaboration.
+
+Progress should be evaluated through a combination of indicators. In addition to tracking activity, organizations should assess outcomes, including productivity improvements, cycle-time reductions, employee adoption, and levels of trust and engagement. Over time, linking these indicators to business performance will provide a clearer view of impact.
+
+Conclusion
+
+AI is already reshaping how work gets done across industries. The question many organizations are now exploring is how to translate that change into sustained improvements in performance, capability, and growth.
+
+Creating a VP of AI Workforce Transformation is one potentially powerful approach. For some organizations, this role can provide additional focus, coordination, and execution capacity, helping connect AI investments more directly to workforce and business outcomes.
+
+At its core, effective AI adoption requires clear and intentional ownership, ensuring that the workforce dimension of AI is addressed with the same level of rigor as the technology itself. This role is one way to provide that ownership.
+
+That said, it is not the only path forward. Some organizations may instead rely on cross-functional teams or expanded mandates for existing leaders. This approach will not be right for everyone. However, for organizations finding that even the most advanced AI does not translate into impact on its own, introducing greater coordination and leadership focus may be an important next step.
+
+If the AI stack explains how intelligence is built, then leadership, whether through a dedicated role or another model, determines how that intelligence is ultimately translated into performance.
+
+About the authors
+
+Ryan Bulkoski (rbulkoski@heidrick.com) is co-global managing partner of the Technology & AI Officers Practice; he is based in the San Francisco office.
+
+Brian Kropp (bkropp@heidrick.com) is the vice president of global insights; he is based in the Washington, DC office.
+
+Brad Warga (bwarga@heidrick.com) is co-head of the global Human Resource Officers Practice; he is based in the San Francisco office.
+
+Jennifer Wilson (jwilson@heidrick.com) is co-head of the global Human Resource Officers Practice; she is based in the Dallas office.
+
+References
+
+1 For further exploration of the human leadership capabilities central to success with AI, see “Finding the human core of competitive advantage in the AI era: Avoiding the Pygmalion trap,” Heidrick & Struggles,April 22, 2026, heidrick.com.
+
+Related Services & Industries
+
+AI & Technology Officers
+
+Chief Executive Acceleration
+
+Executive Assessment
+
+Frontier Tech
+
+Human Resources Officers
+
+Leadership Development
+
+Related Content
+
+Leadership Development
+
+Becoming purposeful and performance-driven: A conversation with Jean-Luc Fleurial, EVP and CHRO of UCB
+
+Jean-Luc Fleurial, CHRO of a global pharma company, shares how to become a more effective CHRO and build a purposeful, performance-driven culture.
+
+Executive Assessment
+
+Workforce planning: Gaps in pipeline management
+
+Explore our data about rising leadership risk, aligning succession strategies, and how disciplined workforce planning can strengthen long-term performance.
+
+Executive Assessment
+
+Leadership assurance: Elevating learning and development as a strategic driver of workforce planning
+
+Learn how HR leaders can link learning and development to board priorities to strengthen succession, retain key talent, and build future-ready capabilities.
+
+Human Resources Officers
+
+Chief people officer focus: First-time chief people officers in the UK | 2026 Review
+
+Seasoned HR leaders across the UK offer practical guidance for navigating the first 90 days in their role and beyond.
+
+View more
+
+Stay connected
+
+Stay connected to our expert insights, thought leadership, and event information.
+
+Subscribe
+
+Leadership Podcast
+
+Explore the latest episodes of The Heidrick & Struggles Leadership Podcast.
+
+Browse episodes
+
+Subscribe
+
+Back To Top
+
+Privacy Preference Center
+
+Your Privacy
+
+Strictly Necessary Cookies
+
+Analytics Cookies
+
+Functional Cookies
+
+Targeting Cookies
+
+Your Privacy
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Analytics Cookies
+
+Analytics Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Back Button Back
+
+Vendor Search
+Filter Button
+
+Consent Leg.Interest
+checkbox label label
+checkbox label label
+checkbox label label
+
+Clear checkbox label label
+
+Apply Cancel
+
+Confirm My Choices Allow All
+
+Cookies Button
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Accept All Cookies
+Reject All
+Cookies Settings

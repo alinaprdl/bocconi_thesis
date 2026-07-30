@@ -1,0 +1,123 @@
+Is Your CEO Glum? Ask AI
+
+Korn Ferry
+
+​
+
+​
+
+​
+
+This Week in Leadership|January 29, 2025
+
+Is Your CEO Glum? Ask AI
+
+Researchers built a tool to determine a CEO’s mental-health challenges by analyzing speech patterns. Can it give competitors a business advantage?
+
+The company’s results were pretty solid for the quarter. A new product line was moving along nicely. Yet on his quarterly call, the company’s CEO wasn’t talking in the upbeat tone many analysts were expecting. The reason: He was depressed—at least, according to AI.
+
+In yet another example of how AI is changing business, academic researchers have developed an AI-based tool that they say can gauge depression levels in CEOs by analyzing their speech patterns. Using earlier research from mental-health assessments and voice analysis, researchers from Indiana University and the University of Kentucky looked for signs of depression and other mental-health issues in leaders by running data from more than 14,500 S&P 500 earnings calls conducted over an eleven-year period.
+
+The results were stunning: 65.5% of the CEOs in the study, or 9,500, exhibited signs of depression. To be sure, this result has been met with some skepticism. But the researchers say that the tool—even though it was developed for academic purposes—could be deployed by companies (or, worse, activist investors) to train their own AI and gain a competitive advantage. “If this particular tool works, and can accurately determine a CEO’s mental state, that obviously could have an impact on the company,” says Alan Guarino, a vice chairman in the Board and CEO Services practice at Korn Ferry.
+
+The research represents a new twist in the field of sentiment analysis. Advertisers and marketers routinely use data and analytics—from comments in product reviews, social-media posts, or customer-service calls, among others—to determine customers’ emotional states. So do intelligence and national-security agencies, which use the technology to evaluate potential risks from foreign leaders and extremist groups and develop strategies to address them. And in the age of remote work, more and more companies are deploying emotion-detection and facial-recognition software on employees.
+
+Analyzing corporate leadership and performance using AI could provide an edge to competitors and expose companies and leaders to a range of challenges, such as high turnover, a potential takeover, or an activist campaign to replace management, say experts. To be sure, the study suggests that a CEO’s depression level could be linked to volatile stock-price performance and higher rates of litigation against the company. “There will be tools available at our fingertips that instantaneously evaluate CEO performance that never existed before,” says Guarino.
+
+How accurate those evaluations will be is another question, however. CEOs, as noted in a recent Korn Ferry report, are facing a number of unprecedented stresses, or so-called breaking points. Meanwhile, the rate of depression among the global population hovers around 5%, and previous studies on CEO depression have put the rate at only about 30%. It all makes Paul Fogel, professional search sector leader for software at Korn Ferry, skeptical. “This is still very new territory for machine learning and AI,” he says. Using AI to judge a leader’s mental and emotional state also raises serious questions around privacy, ethics, and unconscious bias. Andrés Tapia, global DEI and ESG strategist at Korn Ferry, says the potential exists to mislabel a CEO from an underrepresented group, depending on who trained the AI, and how. “Predictive AI models skew towards the predominant culture,” says Tapia. “There is unconscious bias in the answers and nuances in how people from underrepresented groups communicate that could put them at greater risk.”
+
+Learn more about Korn Ferry’s Assessment and Succession capabilities.
+
+Read more This Week in Leadership articles
+
+Our Expert
+
+Our Experts
+
+Alan Guarino
+Vice Chairman, CEO and Board Services
+
+Paul Fogel
+Sector Leader, Professional Search, Software
+
+No items found.
+
+Featured Insights
+
+This Week in Leadership (Jan 12 - Jan 18)
+5 Ways to Move from ‘Toying’ to Working with AI
+
+INSIGHTS TO YOUR INBOX
+
+Stay on top of the latest leadership news with This Week in Leadership—delivered weekly and straight to your inbox.
+
+​
+
+Related Insights
+
+See All Related Insights
+​
+
+Article|July 3, 2026
+
+The Glitter Leader
+
+July 3, 2026
+
+This Week in Leadership (June 29 - July 5)
+
+July 3, 2026
+
+This Week in Leadership (June 29 - July 5)
+
+Article|July 1, 2026
+
+6 Ways to Handle Work During Vacation
+
+Follow Us
+
+LinkedIn
+Facebook
+X
+Instagram
+YouTube
+iTunes
+Spotify
+
+© 2026 Korn Ferry. All rights reserved.
+
+Contact
+Store
+Subscribe
+Terms
+Privacy
+Cookies
+Cookie Preferences
+Cookie Preferences
+
+Do Not Sell My Info
+Accessibility
+
+This Week in Leadership
+
+Leadership
+
+Attrition & Retention
+
+People Strategy & Performance
+
+Change Management
+
+Organization Design & Analytics
+
+Workforce Transformation
+
+Organization Strategy
+
+Board & CEO Services
+
+Leadership & Professional Development
+
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website and conduct marketing. For more information, please see our Global Privacy Policy and our Cookie Policy. You may choose to consent to our use of these technologies, or manage your own preferences.
+
+Accept All    Necessary Cookies Only    More Information   Powered by

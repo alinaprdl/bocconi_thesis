@@ -1,0 +1,200 @@
+Digital Director:  Why Boards Need More Product-Centric Leaders
+
+Skip to Main Content
+
+View All Results
+
+Search
+
+Digital Director:  Why Boards Need More Product-Centric Leaders
+
+By
+
+Jason Baumgarten and
+
+Muthiah Venkateswaran
+
+November 2021
+
+| 9 min read
+
+Authors
+
+Jason Baumgarten
+
+Seattle
+
+Muthiah Venkateswaran
+
+Silicon Valley
+
+SectionsIn this article
+
+Key findings
+
+The notion of a “digital director” is outdated, and boards need a much more nuanced expertise to leverage technology to transform their business.
+
+Adept at creating technology-enabled product strategy for driving growth and market differentiation, product-focused leaders can help organizations achieve the business strategy using technology.
+
+There are four main product leader archetypes based on their area of focus — strategist, operator, tech innovator and change agent — with unique competencies and perspectives. Many product-focused leaders have experience and strengths in more than one of these areas.
+
+To fully leverage this expertise, boards should make sure there is explicit agreement about the technologist’s role and a culture that encourages engagement between board members and the leadership team.
+
+The last two years have accelerated the rapid technology disruption of industries, creating new business models and changing customer expectations. Whether you are leading a newly formed software company or an established public company in a non-tech sector, it is imperative for CEOs and boards to think through how they can leverage technology to create differentiation and growth, expand their market reach and better understand customer demands/aspirations. Key advancements in areas such as real-time data, machine learning and cloud, combined with developments in the fast-changing technology landscape, make it challenging for tech and non-tech companies alike to keep up.
+
+As board advisers, we have seen a steady increase in interest from boards in recruiting technologists to help directors understand the impact of technology on the business and ask the right questions about the company’s technology strategy. In 2021, 68 senior technology company leaders (active and retired) were added to S&P 500 boards.
+
+While the need for technology expertise is clear, our observation is many boards (especially companies in non-tech sectors) understand they have a gap but don’t have the right answer to address the gap. There are two key issues: many boards do not understand the right type of “digital” board member who can help address the board’s aspirations and, when they find the right leader for the board, they do not know how to best leverage his or her expertise and set the person up for success.
+
+All too often, we hear board members say they need a “digital director.” They tend to be drawn to a leader from a reputable brand who is available to take on a board role, without considering fully whether the person has the specific expertise and competencies to be of value for the company’s needs. The wrong expertise on the board hampers directors’ ability to advise on the company’s digital transformation efforts, which then fall short of having real impact on the business. The initiatives end up being a small step in the right direction rather than truly transformative.
+
+In our view, the notion of a “digital director” is outdated, and boards need a much more nuanced expertise if they really want to leverage technology to disrupt and transform their business — and avoid being disrupted themselves. In addition, boards can do more to define the role of the technology expert on the board. Because technology experts are a relatively new addition to many boardrooms, there can be ambiguity for both the incoming director and existing board members about the role the technology leader should play.
+
+We talked with technology leaders who were trailblazers on corporate boards to learn more about their impact on the board and which actions add the most value to board oversight and decision-making. In this article, we will cover both how to identify the right technology leader for your non-tech company board and best practices for leveraging these leaders' expertise for success.
+
+Download
+
+Download
+
+Scoping the need: Who is the right technologist for your board?
+
+Over the last couple of decades, companies have invested millions of dollars in acquiring technology assets and talent to start the digital transformation journey. Yet few organizations have achieved true digital transformation. Understanding the current state of the organization’s digital journey and being clear about the future aspirations are important steps in identifying the right type of expertise needed on the board.
+
+For example, a company planning to use technology to innovate and create new products is in a different place than one dealing with a legacy of technology debt and how to modernize and integrate disparate pieces of technology and create value from existing assets. An organization prioritizing digital marketing to drive growth for already-developed products needs different expertise on the board than one that is trying to leverage technology to create new products and business models. Similarly, different expertise is needed on the board of a company trying to develop a better product strategy using different acquired assets versus one that does not have any tech-driven product strategy to begin with. On the other hand, there are times when a company needs a specialist with deep experience in cybersecurity or data or driving an agile or on-prem-to-cloud transformation. Depending on the company’s starting point, the right answer could be very different.
+
+Product leaders can expand the board’s aperture of thinking and bring real-world insights into the boardroom — what it’s like to build a digital product, how to scale a digital business and how to think about customer perspectives in different geographies.
+
+Given the growing need for technology-driven transformation, our perspective is that almost all boards could benefit from having leaders with a “product” mindset. These leaders may have different titles and roles in their organizations; they could be a chief technology officer, chief product officer, chief data officer, general manager or an engineering leader. But as product-focused leaders, they will bring expertise in helping organizations achieve the business strategy using technology. They will be adept at creating technology-enabled product and product strategy that can help create differentiation in the market and drive growth. Product leaders can expand the board’s aperture of thinking and bring real-world insights into the boardroom — what it’s like to build a digital product, how to scale a digital business and how to think about customer perspectives in different geographies.
+
+The right technology leader can add tremendous value to boardroom discussions and the company’s ability to pursue its digital strategy, for example:
+
+A services company added a product leader to the board who played a critical role in helping directors raise their thinking about how to use technology to start completely new lines of business and provide differentiated value to existing customers. This leader helped directors think through how to create an innovative technology-focused business incubator and the organizational models and leadership talent needed to support it.
+
+A CTO on the board of a technology company played a critical role in facilitating board discussions about creating the next-generation platform, transitioning from on-prem to a cloud-native product, while addressing existing tech debt and effective ways to drive customer transition and communication. He did this while helping the leadership team think through the new go-to-market model and a new incentive structure as the company evolves to a SaaS business.
+
+A platform-focused product executive helped the leadership team of a consumer company think about how they could use data to create new products that will add avenues for monetization, differentiation and value-add to customers.
+
+Another director helped his board think through how to sequence the release of product features to make headway in a single market rather than trying to reach too far too fast.
+
+Another CTO serving as a director for a services company said she has helped push the board’s thinking about various product strategies that could be replicated across industry verticals and how they could leverage data to create new product offerings and differentiation.
+
+Some of the directors we interviewed described how they challenge the board’s thinking around competition, shining light on non-traditional competitors with the potential to disrupt the current business. “I will bring up the companies that might not currently be competition, but that, through different possible adoptions of technology, could become competition down the line. I want to be sure that every scenario is on the table,” one director told us. “As a technology leader, I push the board on what the right cloud ecosystem is for our organization. I ask the provocative questions so that I can understand whether the board and management team is being overly optimistic in certain dimensions on how the product will create impact.”
+
+Understanding technology leadership
+
+As technology is becoming an integral part of every business, there is an increasing level of sophistication and specialization among technology leaders. Different leaders have natural expertise in specific areas given their core area of focus and their span of management. The technology leadership continuum chart below illustrates the the span of focus of different technology leaders. We have written a detailed article on understanding this technology continuum and the role of different technology leadership in different organizations. Sometimes titles can be misleading, so it is important to look beyond the job title and level to understand the leader’s true scope of management.
+
+TECHNOLOGY LEADERSHIP CONTINUUM
+
+Internal/infrastructureExternal sales/revenueChief data & analytics officerChief information security officerChief informationofficerChief technology officerChief product officerChief digital officerProductProductIT/infrastructure& applicationsdevelopmentdevelopmentmanagementmarketingChief revenueofficerResearch andEngineering & MarketingHead of sales/
+
+There are four main product leader archetypes based on their area of focus — strategist, operator, tech innovator and change agent. Many product-focused leaders have experience and strengths in more than one of these areas. As one would expect, the organizations they have worked in and their leadership journey shape their competencies and perspective. For example, a leader who has primarily worked in cloud-native product organizations will know how to build best-in-class cloud products and the numerous possibilities of cloud-native solutions. They likely won’t have the battle scars earned by driving a transformation and dealing with challenges of taking on-prem solutions to the cloud and what that means for customers, go-to-market strategies, talent and tech debt.
+
+Product Leader Archetypes
+
+Strategist
+
+Leaders who are externally focused on customers, competition and the market. They draw on market insight and the “voice of the customer” to shape product strategy and roadmap. They are able to “look around corners” to see what is coming in the future and shape the strategy and execution plans accordingly.
+
+You may also like:
+
+Product Leadership: How to Select the Right Product Leader for Your Organization
+
+Advice for thinking about which product leader is right for your organization.
+
+Operator
+
+Leaders who are adept at driving the operational growth engine — from growth hacking to product-led growth to driving continuous improvement by ensuring rigor in product management. They use data and insights to identify new means for value creation and monetization and use data and KPIs to identify patterns, drive growth, reduce churn, improve Net Promoter Score (NPS), enhance product quality, product features, design, UI/UX, etc.
+
+Tech innovator
+
+Visionary technologists who are adept at creating innovative products that disrupt the market. They create products for which customers or the market have not seen use cases (for example, many founders do this really well and fall in this category).
+
+Change agent
+
+Transformative leaders and “fixers” who change the way the product management function operates across product strategy, product roadmap, talent, culture, capabilities, etc. They are able to bring in new capabilities — e.g., on-prem to cloud, establish product management function from scratch, address tech debt, drive agile transformation, create great products by integrating multiple acquisitions, take multiple platforms and integrate them into a cohesive future strategy, etc.
+
+How to set a technology leader up for success as a director
+
+For technology leaders to have an impact on strategy and digital transformation, boards should make product and technology strategy part of the strategy discussions at the board level. The CEO and management can help technology leaders understand the organization’s current technology state, the aspirations and challenges and invite their participation in key areas where the CEO and leadership team need help. Absent such formal outreach, technologists often feel like they are on the outside looking in and wonder if technology-driven transformation is indeed a priority for the board and the organization.
+
+You may also like:
+
+Defining the New Technology Leaders
+
+In the wake of digital acceleration and the pandemic, new specialized technology leadership roles have emerged. We explore what they are, how to distinguish between them and their importance.
+
+When there isn’t explicit agreement about the technologist’s role, technology leaders end up doubling down on their other governance and fiduciary responsibilities as a board member, and the digital agenda can get left behind. Board leaders should make it a point to invite engineering or product leaders into the conversation. “If someone on the board is enthusiastic and outwardly open to hearing my perspective on technology, I feel greater confidence raising an alternative perspective,” one technologist told us.
+
+That doesn’t mean that boards pigeonhole technology leaders. Most are excited about their role and the learning opportunity that comes with serving on a board and are keen to contribute more broadly to board discussions. “One of my most rewarding experiences to date is gaining a deeper understanding for other areas of board responsibility. As a technologist, I don’t understand sales comp plans, so people who have run sales organizations have a lot to offer. Board meetings make me a better leader because I learn something new in every meeting,” one director told us.
+
+Board members who have the most impact go well beyond preparing for and participating in quarterly board meetings. Rather, they make themselves available to management for help when needed and are transparent about sharing what they have seen work or not. Technologists on the board often find that their responsibilities extend beyond the walls of the boardroom. For example, one director was asked by the CEO to interview candidates for a head of digital role and played an instrumental role in advocating to change the compensation structure so the company could attract the very best candidates from Silicon Valley into a non-tech company.
+
+Last but not least, the effectiveness of a technology-focused board member comes down to whether the culture the CEO encourages engagement between the leadership team and board members. Transparent cultures breed provocative boardroom discussion, making them the best for getting the
+most from technologists.
+
+While board members need to acknowledge they will not understand all the operational complexities and leave execution to the management team, technologists on the board can play an important role in raising the bar on board discussions, driving decision making and being a trusted adviser to the operational leaders in the organization. Many technology leaders are used to executing, whereas boards are traditionally spaces of influence. One board member explained, “I let them (the CTO, chief product officer and/or IT leader) open up the hood and determine what is and what isn’t working. The key is not to fix what I see under the hood, but rather to give the team the opportunity to identify what the problem is. Together, we identify the pain points. To effectively be a link between management and board, I meet regularly, one on one, with the tech and product teams before board meetings. We have a regular text chain going and I am committed to following up with them after board meetings to ensure they have the support they need around them.”
+
+Technology leaders also can help translate metrics and milestones for evaluating the business impact of product for the board. “As a board member, it is important to know what aspects of the business I need to track to assess impact. Then I can ask questions around what the key metrics are, what user engagement looks like, what the cost of customer acquisition is for online channels is, etc.” By identifying critical metrics with the leadership team in advance, technologists on the board can then ensure the organization is engaging with the board the right way. Tracking these metrics and discussing progress during board meetings is critical for boards of both tech and non-tech companies. Effective tech directors will be conscious to avoid using jargon during presentations and keep discussions focused. One engineering leader, for example, said he focuses his presentations on three main topics: “what is difficult to do, what is easy to do and what is most important to do.”
+
+Last but not least, the effectiveness of a technology-focused board member comes down to whether the culture the CEO encourages engagement between the leadership team and board members. Transparent cultures breed provocative boardroom discussion, making them the best for getting the most from technologists. The CEO sets the tone on openness and the degree to which management will use non-executive directors as a sounding board. Ideally, the CEO and management will view the board as a value-add able to provide diverse perspectives and expand the aperture on issues at the intersection of technology and strategy. Leadership teams that use the board to challenge their thinking and assumptions — as opposed to providing well-rehearsed presentations and hoping to escape a board meeting without too many new actions items — will get more out of having a technology expert on the board.
+
+What expertise do you need in your boardroom?
+
+In this fast-evolving, tech-enabled world, we encourage boards and CEOs to think through the following questions as part of periodic strategic reviews. These questions can help directors illuminate perspectives that are missing in the boardroom:
+
+Strategy and Metrics
+
+Is the organization aiming high enough to use technology to disrupt/transform the business? Is technology a disruptor or enabler for future business? Both?
+
+Is the organization able to use technology to create differentiation and drive growth?
+
+Are you confident that you are having informed discussions about disruptive technology-driven threats and business opportunities?
+
+Does the company have a software or data-oriented product roadmap and product strategy? What is it? How do you know if that is good enough?
+
+What is the revenue contribution from tech/digital products? Should it be higher?
+
+What metrics are you tracking to know if you are maximizing the impact of technology to add value to customers?
+
+What does your NPS and customer feedback indicate about where your technology is at and needs to be at?
+
+Is the company getting the maximum value out of data and all of its potential across new products, new avenues of monetization, value creation and conducting business differently leveraging insights and power of data?
+
+What is the role of cybersecurity? Is it still in the governance and compliance mode or is security being “built into” products? What is the role of security in creating the right level friction so that innovation is not slowed down at the same time achieving security related goals?
+
+Do you understand the return the company is getting from the capital allocated to technology investments and how the company is using technology to drive differentiation?
+
+What will be the role of acquisitions, building internally versus partnering when it comes to the product roadmap and strategy?
+
+Talent and Organization
+
+Do you have a good understanding of how the organization is using technology today and what it will take to achieve the future vision?
+
+What is the level of the company’s leadership and talent expertise across product, engineering, data, security and digital marketing? Can you compete and win with the talent you have and the ideal organizational structure, processes and metrics to empower the talent you have?
+
+Do you have the best culture to drive innovation, risk-taking, experimentation and learning needed to compete and scale with increasing technical sophistication?
+
+Technical Foundation
+
+Which is right for your organization — public cloud, private cloud, hybrid cloud or multi-cloud? How do these different choices align with your business strategy? Which is (are) the right cloud vendor(s)/ecosystem to partner with?
+
+Is there a clear and integrated technology, data and security roadmap that can keep up with the product roadmap? Does this leverage the latest developments in cloud and machine learning to maximize value add and new opportunity creation?
+
+What is the current state of tech debt that needs to be addressed to get to the end-state product roadmap? Are there architectural and technology debt risks the company faces — both for achieving the strategic vision and for capital allocation reasons?
+
+As the business becomes more tech-enabled, are best practices in security built into the products, network and information security and how will you leverage this to build trust with customers and address risks?
+
+Is the organization keeping up with best-in-class engineering practices (e.g., approach to agile, continuous improvement, etc.)
+
+Boards can ensure that they have the right technology perspectives around the board table by taking the time to understand the current state of the organization’s digital journey, articulate the aspirations for technology in the business and evaluate which specific type of expertise is needed on the board. Similarly, technology leaders can increase the chances that they will join the boards on which they can have the most impact by carefully considering their experience in light of a board’s current state and strategic aspirations.
+
+Authors
+
+Jason Baumgarten
+
+Seattle
+
+Muthiah Venkateswaran
+
+Silicon Valley
